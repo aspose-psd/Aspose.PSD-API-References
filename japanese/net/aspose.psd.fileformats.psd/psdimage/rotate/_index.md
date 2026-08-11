@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 画像を中心に回転します
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。画像を中心の周りで回転させます"
 type: docs
-weight: 610
+weight: 670
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-画像を中心に回転します。
+画像を中心を基準に回転させます。
 
 ```csharp
 public override void Rotate(float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 度単位の回転角度。正の値は時計回りに回転します。 |
+| 角度 | シングル | 回転角度（度単位）。正の値は時計回りに回転します。 |
 
-### 例
+## 例
 
-次のコードは、特定の角度値で画像を回転する機能を示しています。
+以下のコードは、特定の角度値で画像を回転させる機能を示しています。
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public override void Rotate(float angle)
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// 画像全体を回転
+// 画像全体の回転
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -60,30 +61,30 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-画像を中心に回転します。
+画像を中心を基準に回転させます。
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 度単位の回転角度。正の値は時計回りに回転します。 |
-| resizeProportionally | Boolean | に設定した場合`真実`回転した四角形 (コーナー ポイント) の投影に従って画像サイズが変更されます。それ以外の場合は、寸法は変更されず、内部の画像コンテンツのみが回転します。 |
-| backgroundColor | Color | 背景の色。 |
+| 角度 | シングル | 回転角度（度単位）。正の値は時計回りに回転します。 |
+| resizeProportionally | Boolean | `true` に設定すると、回転した矩形（角点）の投影に従って画像サイズが変更されます。`false` の場合はサイズはそのままで、内部の画像内容のみが回転します。 |
+| backgroundColor | 色 | 背景の色。 |
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD for .NET API リファレンス
-description: PrintScaleResource 財産. スケールを取得または設定します
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PrintScaleResource プロパティ。スケールを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
 スケールを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 public float Scale { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スケール.
+スケールです。
 
 ### 関連項目
 
 * class [PrintScaleResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

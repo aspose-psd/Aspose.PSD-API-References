@@ -1,20 +1,21 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageExportersRegistry 財産. 登録されているエクスポート形式を取得します
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageExportersRegistry プロパティ。登録されたエクスポート形式を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
-登録されているエクスポート形式を取得します。
+登録されたエクスポート形式を取得します。
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 登録されたエクスポート形式。
 
@@ -22,7 +23,7 @@ public static FileFormat RegisteredFormats { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* 名前空間 [Aspose.PSD](../../imageexportersregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

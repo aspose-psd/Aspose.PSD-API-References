@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelsCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤーのチャンネル数を取得します
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーのチャンネル数を取得します"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
 レイヤーのチャンネル数を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 public ushort ChannelsCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーのチャンネル数.
+レイヤーのチャンネル数です。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.IsLibraryLink
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinkDataSource 財産. この PSD リンク データ ソースが Adobe Photoshop СС ライブラリ アイテムにリンクしているかどうかを示す値を取得します
+title: "LinkDataSource.IsLibraryLink"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinkDataSource プロパティ。この PSD リンク データ ソースが Adobe Photoshop СС ライブラリ アイテムにリンクしているかどうかを示す値を取得します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.IsLibraryLink property
 
-この PSD リンク データ ソースが Adobe® Photoshop® СС ライブラリ アイテムにリンクしているかどうかを示す値を取得します。
+取得します この PSD リンクデータソースが Adobe® Photoshop® СС Library アイテムにリンクしているかどうかを示す値を取得します。
 
 ```csharp
 public bool IsLibraryLink { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが Adobe® Photoshop® СС ライブラリ リンクの場合。さもないと、`間違い` .
+`true` はこのインスタンスが Adobe® Photoshop® СС ライブラリリンクであることを示し、そうでなければ `false` です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | IsLibraryLink プロパティにアクセスできません。 |
 
 ### 関連項目
 
 * class [LinkDataSource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

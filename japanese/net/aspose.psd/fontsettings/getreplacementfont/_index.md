@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD for .NET API リファレンス
-description: FontSettings 方法. 最適な代替フォントを取得します すべての置換が許可されていない場合は最初に許可された使用可能なフォントが返されます 使用可能なフォントがない場合は引数からフォントが返されます
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FontSettings メソッド。最も適切な置換フォントを取得します。すべての置換が許可されていない場合は、最初に許可され利用可能なフォントが返されます。利用可能なフォントがない場合は、引数で指定されたフォントが返されます。"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-最適な代替フォントを取得します。 すべての置換が許可されていない場合は、最初に許可された使用可能なフォントが返されます。 使用可能なフォントがない場合は、引数からフォントが返されます
+最適な置換フォントを取得します。すべての置換が許可されていない場合は、最初に許可され利用可能なフォントが返されます。利用可能なフォントがない場合は、引数で指定されたフォントが返されます。
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontName | String | フォントの名前。 |
+| fontName | 文字列 | フォントの名前。 |
 
 ### 戻り値
 
-置き換えられたフォントの名前
+置換されたフォントの名前
 
-### 例
+## 例
 
-次のコードは、 を使用してプログラムでフォントを制限する機能を示しています。
+以下のコードは、プログラムでフォントを制限する機能を示しています。
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### 関連項目
 
 * class [FontSettings](../)
-* 名前空間 [Aspose.PSD](../../fontsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

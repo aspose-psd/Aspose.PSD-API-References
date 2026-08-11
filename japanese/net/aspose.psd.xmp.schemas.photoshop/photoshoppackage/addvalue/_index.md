@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. 文字列プロパティを追加します
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。文字列プロパティを追加します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
 文字列プロパティを追加します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 public override void AddValue(string key, string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| key | String | 付加価値で識別されるキーの文字列表現。 |
-| value | String | 文字列値。 |
+| key | 文字列 | 追加された値で識別されるキーの文字列表現です。 |
+| 値 | 文字列 | 文字列値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | キー;Photoshop プロパティを null にすることはできません |
+| ArgumentNullException | key;Photoshop プロパティは null にできません |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

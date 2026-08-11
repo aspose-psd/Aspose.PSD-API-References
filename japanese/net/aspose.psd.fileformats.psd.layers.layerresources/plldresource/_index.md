@@ -1,14 +1,15 @@
 ---
-title: Class PlLdResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource クラス. PSD ファイルに配置されたレイヤーに関する情報を含む PlLdResource クラスを定義します Adobe Photoshop 画像でスマート オブジェクト レイヤーをサポートするために使用されます Adobe Photoshop CS3 では SoLdResource に置き換えられました
+title: "クラス PlLdResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource クラス。PSD ファイル内の配置レイヤーに関する情報を含む PlLdResource クラスを定義します。Adobe Photoshop の画像でスマートオブジェクトレイヤーをサポートするために使用されます。Adobe Photoshop CS3 では SoLdResource に置き換えられました。"
 type: docs
-weight: 2920
+weight: 3270
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
+{{< psd/tize >}}
 ## PlLdResource class
 
-PSD ファイルに配置されたレイヤーに関する情報を含む PlLdResource クラスを定義します。 Adobe® Photoshop® 画像でスマート オブジェクト レイヤーをサポートするために使用されます。 Adobe® Photoshop® CS3 では SoLdResource に置き換えられました
+PlLdResource クラスを定義します。このクラスは PSD ファイル内の配置レイヤーに関する情報を含みます。Adobe® Photoshop® 画像におけるスマートオブジェクトレイヤーのサポートに使用されます。Adobe® Photoshop® CS3 では SoLdResource に置き換えられました。
 
 ```csharp
 public class PlLdResource : PlacedResource
@@ -18,50 +19,50 @@ public class PlLdResource : PlacedResource
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | PSD 画像に配置されたレイヤーのアンチエイリアス ポリシーを取得または設定します。 |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD 画像に配置されたレイヤーの下部の位置を取得または設定します。 |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD ファイルに配置されたレイヤーの境界を取得または設定します。 |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD ファイルに配置されたレイヤーの水平メッシュ ポイントを取得または設定します。 |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 水平メッシュ ポイントの計測単位を取得または設定します。 |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | このインスタンス ワープ スタイルがカスタムかどうかを示す値を取得または設定します。 true の場合、メッシュ ポイントが含まれます。 false に設定すると、メッシュ ポイントが消去されます。 |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | ワープアイテムを取得または設定します. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | PlLd リソース キーを取得します。 |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD ファイルに配置されたレイヤーの左の位置を取得または設定します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | PlLd リソース長をバイト単位で取得します。 |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | PSD ファイルに配置されたレイヤーのページ番号を取得または設定します。 |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD ファイルに配置されたレイヤーの遠近値を取得または設定します。 |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD ファイルに配置されたレイヤーのパースペクティブその他の値を取得または設定します。 |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | PSD ファイルに配置されたレイヤーのタイプを取得または設定します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | PlLd リソースに必要な最小限の psd バージョンを取得します。 0 は制限なしを示します。 |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD ファイルに配置されたレイヤーの正しい位置を取得または設定します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | PlLd リソース署名を取得します。 |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD 画像に配置されたレイヤーの最上部の位置を取得または設定します。 |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | PSD ファイルに配置されたレイヤーの総ページ数を取得または設定します。 |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | PSD ファイルに配置されたレイヤーの変換行列を取得または設定します。 |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | PSD 画像に配置されたレイヤーのグローバル一意識別子を取得または設定します。 |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD ファイルに配置されたレイヤーの U オーダー値を取得または設定します。 |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD 画像に配置されたレイヤーのワープ値を取得または設定します。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD ファイルに配置されたレイヤーのバージョンを取得します。通常は 3. です。 |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD ファイルに配置されたレイヤーの水平メッシュ ポイントを取得または設定します。 |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 垂直メッシュ ポイントの測定単位を取得または設定します。 |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD ファイルに配置されたレイヤーの V オーダー値を取得または設定します。 |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | PSD 画像内の配置レイヤーのアンチエイリアスポリシーを取得または設定します。 |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD 画像内の配置レイヤーの下部位置を取得または設定します。 |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD ファイル内の配置レイヤーの境界を取得または設定します。 |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD ファイル内の配置レイヤーの水平メッシュポイントを取得または設定します。 |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 水平メッシュポイントの測定単位を取得または設定します。 |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | このインスタンスのワープスタイルがカスタムかどうかを示す値を取得または設定します。true の場合、メッシュポイントが含まれます。false に設定すると、メッシュポイントが消去されます。 |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | ワープ項目を取得または設定します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD ファイル内の配置レイヤーの左位置を取得または設定します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | PlLd リソースの長さ（バイト単位）を取得します。 |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | PSD ファイル内の配置レイヤーのページ番号を取得または設定します。 |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD ファイル内の配置レイヤーの遠近値を取得または設定します。 |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD ファイル内の配置レイヤーのその他の遠近値を取得または設定します。 |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | PSD ファイル内の配置レイヤーのタイプを取得または設定します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD ファイル内の配置レイヤーの右位置を取得または設定します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD 画像内の配置レイヤーの上部位置を取得または設定します。 |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | PSD ファイル内の配置レイヤーの総ページ数を取得または設定します。 |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | PSD ファイル内の配置レイヤーの変換行列を取得または設定します。 |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | 配置されたレイヤーの PSD 画像におけるグローバル一意識別子を取得または設定します。 |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | 配置されたレイヤーの PSD ファイルにおける U 順序値を取得または設定します。 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | 配置されたレイヤーの PSD 画像におけるワープ値を取得または設定します。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | 配置されたレイヤーの PSD ファイルのバージョンを取得します（通常は 3）。 |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD ファイル内の配置レイヤーの水平メッシュポイントを取得または設定します。 |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 垂直メッシュポイントの測定単位を取得または設定します。 |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | 配置されたレイヤーの PSD ファイルにおける V 順序値を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | 指定されたストリーム コンテナーに PlLD リソースを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | 指定されたストリームコンテナに PlLD リソースを保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | タイプ ツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | タイプツール情報キーです。 |
 
-### 例
+## 例
 
-次のコードは、PlLdResource リソースのサポートを示しています。
+以下のコードは PlLdResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -243,15 +244,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 一部のパラメータには注意してください: 画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+                // いくつかのパラメータには注意してください: 画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-                // または、下線付きのスマート オブジェクトをベクター型に変更します
+                // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+                // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+                // このユニーク ID を持つ有効な PlLdResource が必要です。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -267,7 +269,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [PlacedResource](../placedresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

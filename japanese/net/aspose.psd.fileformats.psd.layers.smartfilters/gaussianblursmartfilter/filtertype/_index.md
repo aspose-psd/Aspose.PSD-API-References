@@ -1,14 +1,15 @@
 ---
-title: GaussianBlurSmartFilter.FilterType
-second_title: Aspose.PSD for .NET API リファレンス
-description: GaussianBlurSmartFilter 分野. 現在のスマートフィルターの識別子.
+title: "GaussianBlurSmartFilter.FilterType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GaussianBlurSmartFilter フィールド。現在のスマートフィルタの識別子"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.FilterType field
 
-現在のスマートフィルターの識別子.
+現在のスマートフィルタの識別子です。
 
 ```csharp
 public const int FilterType;
@@ -17,7 +18,7 @@ public const int FilterType;
 ### 関連項目
 
 * class [GaussianBlurSmartFilter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

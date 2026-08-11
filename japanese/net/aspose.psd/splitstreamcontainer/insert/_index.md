@@ -1,28 +1,29 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Aspose.PSD for .NET API リファレンス
-description: SplitStreamContainer 方法. ストリーム コンテナーを指定された位置に挿入します
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SplitStreamContainer メソッド。指定された位置にストリームコンテナを挿入します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
-ストリーム コンテナーを指定された位置に挿入します。
+ストリームコンテナを指定された位置に挿入します。
 
 ```csharp
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| position | Int32 | 挿入する位置。 |
-| stream | StreamContainer | 挿入するストリーム コンテナー。 |
-| disposeStream | Boolean | に設定した場合`真実`ストリームを破棄します。 |
+| 位置 | Int32 | 挿入する位置です。 |
+| ストリーム | StreamContainer | 挿入するストリームコンテナです。 |
+| disposeStream | Boolean | `true` に設定された場合、ストリームを破棄します。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
@@ -30,7 +31,7 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

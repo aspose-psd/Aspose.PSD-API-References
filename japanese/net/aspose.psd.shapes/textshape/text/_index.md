@@ -1,11 +1,12 @@
 ---
-title: TextShape.Text
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextShape 財産. 描画されたテキストを取得または設定します
+title: "TextShape.Text"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextShape プロパティ。描画されたテキストを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
 描画されたテキストを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.shapes/textshape/text/
 public string Text { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-描かれたテキスト。
+描画されたテキスト。
 
 ### 関連項目
 
 * class [TextShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../textshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.ToBytes
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamContainer 方法. ストリーム データをByte配列.
+title: "StreamContainer.ToBytes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamContainer メソッド。ストリームデータをByte 配列に変換します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/streamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-ストリーム データをByte配列.
+ストリームデータを Byte 配列に変換します。
 
 ```csharp
 public virtual byte[] ToBytes()
@@ -16,37 +17,37 @@ public virtual byte[] ToBytes()
 
 ### 戻り値
 
-に変換されたストリーム データByte配列.
+Byte 配列に変換されたストリームデータです。
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-ストリーム データをByte配列.
+ストリームデータを Byte 配列に変換します。
 
 ```csharp
 public virtual byte[] ToBytes(long position, long bytesCount)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| position | Int64 | バイトの読み取りを開始する位置。 |
-| bytesCount | Int64 | 読み取るバイト数。 |
+| 位置 | Int64 | バイトの読み取りを開始する位置です。 |
+| bytesCount | Int64 | 読み取るバイト数です。 |
 
 ### 戻り値
 
-に変換されたストリーム データByte配列.
+Byte 配列に変換されたストリームデータです。
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

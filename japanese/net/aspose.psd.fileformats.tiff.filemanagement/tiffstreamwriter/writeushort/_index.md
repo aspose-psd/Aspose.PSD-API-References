@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUShort
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamWriter 方法. 単一の unsigned short 値をストリームに書き込みます
+title: "TiffStreamWriter.WriteUShort"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamWriter メソッド。ストリームに符号なし short 値を 1 つ書き込みます"
 type: docs
 weight: 220
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShort method
 
-単一の unsigned short 値をストリームに書き込みます。
+ストリームに単一の符号なし short 値を書き込みます。
 
 ```csharp
 public void WriteUShort(ushort data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | UInt16 | 書き込む値。 |
+| データ | UInt16 | 書き込む値です。 |
 
 ### 関連項目
 
 * class [TiffStreamWriter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

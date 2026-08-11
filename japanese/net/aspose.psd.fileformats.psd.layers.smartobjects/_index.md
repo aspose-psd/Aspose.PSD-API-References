@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはスマート オブジェクト レイヤーを操作するための API が含まれています data
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間にはスマートオブジェクトレイヤーデータを操作する API が含まれています"
 type: docs
-weight: 330
+weight: 350
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartobjects/
 ---
-名前空間には、スマート オブジェクト レイヤーを操作するための API が含まれています data
+{{< psd/tize >}}
+この名前空間にはスマートオブジェクトレイヤーデータを操作する API が含まれています
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [SmartObjectLayer](./smartobjectlayer/) | PSD ファイルに埋め込まれた、または外部ファイルにリンクされたスマート オブジェクトを含む SmartObjectLayer クラスを定義します。 スマート オブジェクトを使用すると、次のことができます。変換は元のデータに影響を与えないため、元の画像データや品質を失うことなく、レイヤー を拡大縮小、回転、傾斜、ゆがめ、透視変換、またはワープできます。 非破壊フィルタリングを実行します。スマート オブジェクトに適用されたフィルターはいつでも編集できます。 1 つのスマート オブジェクトを編集し、リンクされたすべてのインスタンスを自動的に更新します。 スマート オブジェクト レイヤーにリンクまたはリンク解除されたレイヤー マスクを適用します。後で最終バージョンに置き換える解像度のプレースホルダー画像. Adobe Photoshop では、画像の内容を PSD ドキュメントに埋め込むことができます. 詳細はこちら:[https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) スマート オブジェクトが埋め込まれたレイヤーには、スマート オブジェクト プロパティを持つ配置 (PlLd) リソースと SoLd リソースが含まれます。 filename およびその他のパラメーター (バイト配列として元の形式で埋め込まれたファイルの内容を含む). |
+| [SmartObjectLayer](./smartobjectlayer/) | SmartObjectLayer クラスを定義します。このクラスは PSD ファイルに埋め込まれたスマートオブジェクトまたは外部ファイルにリンクされたスマートオブジェクトを含みます。Smart Objects を使用すると、次のことが可能です。破壊的でない変形を実行できます。レイヤーをスケール、回転、傾斜、歪み、遠近変換、またはワープさせても、元の画像データや品質が失われません。変形は元のデータに影響しないためです。Illustrator のベクターアートワークなど、ベクターデータをラスタライズせずに扱えます。破壊的でないフィルタリングを実行できます。Smart Objects に適用されたフィルタをいつでも編集できます。1 つの Smart Object を編集すると、リンクされたすべてのインスタンスが自動的に更新されます。Smart Object レイヤーにリンクまたは非リンクのレイヤーマスクを適用できます。低解像度のプレースホルダー画像でさまざまなデザインを試し、後で最終バージョンに差し替えることができます。Adobe Photoshop では、画像の内容を PSD ドキュメントに埋め込むことができます。詳細は以下をご覧ください: [https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) 埋め込まれたスマートオブジェクトを含むレイヤーは、配置された (PlLd) および SoLd リソースとスマートオブジェクトプロパティを保持します。PlLd リソースは PSD バージョン 10 より古い場合に単独で存在することがあります。これらのリソースは、埋め込みファイル名やその他のパラメータとともに、グローバル Lnk2Resource の LiFdDataSource の UniqueId を含み、元の形式のバイト配列として埋め込みファイルの内容を保持します。 |
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [SmartObjectType](./smartobjecttype/) | スマート オブジェクト コンテンツ type の SmartObjectType 列挙を定義します |
+| [SmartObjectType](./smartobjecttype/) | スマートオブジェクトのコンテンツタイプ用の SmartObjectType 列挙体を定義します |
 
 

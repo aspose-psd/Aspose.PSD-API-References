@@ -1,28 +1,29 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: IRasterImageRawDataLoader 財産. 現在の生データ設定を取得しますこれらの設定を使用する場合データは変換されずに読み込まれることに注意してください
+title: "IRasterImageRawDataLoader.RawDataSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IRasterImageRawDataLoader プロパティ。 現在の生データ設定を取得します。これらの設定を使用すると、データは変換なしでロードされることに注意してください"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.RawDataSettings property
 
-現在の生データ設定を取得します。これらの設定を使用する場合、データは変換されずに読み込まれることに注意してください。
+現在の生データ設定を取得します。これらの設定を使用すると、データは変換せずにロードされることに注意してください。
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-現在の生データ設定.
+現在の生データ設定です。
 
 ### 関連項目
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* 名前空間 [Aspose.PSD](../../irasterimagerawdataloader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: License.License
-second_title: Aspose.PSD for .NET API リファレンス
-description: License コンストラクタ. このクラスの新しいインスタンスを初期化します
+title: "License.License"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "License コンストラクタ。このクラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
 このクラスの新しいインスタンスを初期化します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd/license/license/
 public License()
 ```
 
-### 例
+## 例
 
-この例では、 コンポーネントを含むフォルダー、呼び出しアセンブリを含むフォルダー、エントリ アセンブリのフォルダー内の 、そして次に呼び出し元アセンブリの埋め込みリソース.
+この例では、コンポーネントが含まれるフォルダー、呼び出しアセンブリが含まれるフォルダー、エントリアセンブリのフォルダー、そして呼び出しアセンブリの埋め込みリソース内で、MyLicense.lic という名前のライセンスファイルを検索しようとします。
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ License.SetLicense("MyLicense.lic")
 ### 関連項目
 
 * class [License](../)
-* 名前空間 [Aspose.PSD](../../license/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Bottom
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. 最下層の位置を取得または設定します
+title: "Layer.Bottom"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。下部レイヤーの位置を取得または設定します"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
+{{< psd/tize >}}
 ## Layer.Bottom property
 
-最下層の位置を取得または設定します。
+下層レイヤーの位置を取得または設定します。
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-最下層の位置.
+下部レイヤーの位置です。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

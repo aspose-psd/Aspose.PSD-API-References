@@ -1,27 +1,28 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlLdResource 方法. 指定されたストリーム コンテナーに PlLD リソースを保存します
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlLdResource メソッド。指定されたストリームコンテナに PlLD リソースを保存します"
 type: docs
-weight: 50
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-指定されたストリーム コンテナーに PlLD リソースを保存します。
+指定されたストリームコンテナに PlLD リソースを保存します。
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 保存先のストリーム コンテナー。 |
-| psdVersion | Int32 | PSD版です。 |
+| streamContainer | StreamContainer | 保存先のストリームコンテナです。 |
+| psdVersion | Int32 | PSD バージョンです。 |
 
-### 例
+## 例
 
-次のコードは、PlLdResource リソースのサポートを示しています。
+以下のコードは PlLdResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -203,15 +204,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 一部のパラメータには注意してください: 画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+                // いくつかのパラメータには注意してください: 画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-                // または、下線付きのスマート オブジェクトをベクター型に変更します
+                // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+                // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+                // このユニーク ID を持つ有効な PlLdResource が必要です。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,7 +230,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

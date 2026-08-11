@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 目的地の GPS 方位を取得または設定します
+title: "ExifData.GPSDestBearing"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。目的地への GPS 方位を取得または設定します"
 type: docs
 weight: 400
 url: /ja/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-目的地の GPS 方位を取得または設定します。
+目的地点へのGPS方位を取得または設定します。
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-目的地までの GPS 方位.
+目的地への GPS 方位です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

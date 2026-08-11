@@ -1,14 +1,15 @@
 ---
-title: Class ImageException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.ImageException クラス. 画像の例外.
+title: "クラス ImageException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.ImageException クラス。画像例外。"
 type: docs
 weight: 500
 url: /ja/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
-画像の例外.
+画像例外です。
 
 ```csharp
 public class ImageException : Exception
@@ -18,12 +19,12 @@ public class ImageException : Exception
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | の新しいインスタンスを初期化します`ImageException`class. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`ImageException`class. |
+| [ImageException](imageexception/#constructor)(string) | `ImageException` クラスの新しいインスタンスを初期化します。 |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | `ImageException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

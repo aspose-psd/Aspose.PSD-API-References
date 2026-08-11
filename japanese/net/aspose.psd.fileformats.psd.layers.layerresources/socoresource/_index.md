@@ -1,14 +1,15 @@
 ---
-title: Class SoCoResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource クラス. Class SoCoResource. このリソースにはColor Fill Layers に関する情報が含まれています
+title: "クラス SoCoResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource クラス。クラス SoCoResource。このリソースはカラー塗りつぶしレイヤーに関する情報を含みます"
 type: docs
-weight: 3010
+weight: 3360
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Class SoCoResource. このリソースには、Color Fill Layers に関する情報が含まれています。
+SoCoResource クラス。このリソースは Color Fill Layers に関する情報を含みます。
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -18,34 +19,34 @@ public class SoCoResource : FillLayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [SoCoResource](socoresource/)() | の新しいインスタンスを初期化します`SoCoResource`class. |
+| [SoCoResource](socoresource/)() | `SoCoResource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | RGBカラーを取得します. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | レイヤー リソースに必要な最小限の psd バージョンを取得します。 0 は制限なしを示します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | 層リソース署名を取得します。 |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | RGB カラーを取得します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | 指定したストリーム コンテナーにリソースを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | リソースを指定されたストリームコンテナに保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | タイプ ツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | タイプツール情報キーです。 |
 
-### 例
+## 例
 
-次の例は、SoCoResource (塗りつぶしレイヤーのレイヤー リソース) を編集する方法を示しています。
+次の例は、SoCoResource（カラー塗りつぶしレイヤー用のレイヤーリソース）を編集する方法を示しています
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ public class SoCoResource : FillLayerResource
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
@@ -66,7 +67,7 @@ using (im)
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // レイヤ リソース リストでの SoCoResource の検索
+                // レイヤーリソースリスト内の SoCoResource の検索
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // SoCoResource Color プロパティを設定する
+                    // SoCoResource の Color プロパティを設定する
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -96,7 +97,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Font.Style
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. このスタイル情報を取得しますFont .
+title: "Font.Style"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 このフォントのスタイル情報を取得します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/font/style/
 ---
+{{< psd/tize >}}
 ## Font.Style property
 
-このスタイル情報を取得します[`Font`](../) .
+この[`Font`](../)のスタイル情報を取得します。
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`FontStyle`](../../fontstyle/)このスタイル情報を含む列挙[`Font`](../).
+この[`FontStyle`](../../fontstyle/) 列挙体は、この[`Font`](../)のスタイル情報を含みます。
 
 ### 関連項目
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

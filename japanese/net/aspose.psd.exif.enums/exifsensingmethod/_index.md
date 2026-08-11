@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod 列挙. exifセンシング方法 enum.
+title: "列挙型 ExifSensingMethod"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod 列挙型。exif センシングメソッド 列挙型"
 type: docs
-weight: 940
+weight: 950
 url: /ja/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
-exifセンシング方法 enum.
+exif センシング方式列挙。
 
 ```csharp
 public enum ExifSensingMethod
@@ -16,19 +17,19 @@ public enum ExifSensingMethod
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Notdefined | `1` | 未定義. |
-| OneChipColorArea | `2` | ワンチップカラーエリア. |
-| TwoChipColorArea | `3` | 2 チップカラー領域. |
-| ThreeChipColorArea | `4` | 3 チップカラーエリア. |
-| Colorsequentialarea | `5` | カラーシーケンシャルエリア. |
-| Trilinearsensor | `7` | トリリニアセンサー. |
-| Colorsequentiallinear | `8` | カラーシーケンシャルリニアセンサー. |
+| Notdefined | `1` | 未定義です。 |
+| OneChipColorArea | `2` | 1チップ カラーエリアです。 |
+| TwoChipColorArea | `3` | 2チップ カラーエリアです。 |
+| ThreeChipColorArea | `4` | 3チップ カラーエリアです。 |
+| Colorsequentialarea | `5` | カラーシーケンシャル領域です。 |
+| Trilinearsensor | `7` | トリリニア センサーです。 |
+| Colorsequentiallinear | `8` | カラーシーケンシャル リニア センサーです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

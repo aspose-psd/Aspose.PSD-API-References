@@ -1,74 +1,75 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpInteger コンストラクタ. の新しいインスタンスを初期化しますXmpIntegerclass.
+title: "XmpInteger.XmpInteger"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpInteger コンストラクタ。XmpInteger クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpInteger`](../)class.
+[`XmpInteger`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpInteger(long value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Int64 | 値。 |
+| 値 | Int64 | 値です。 |
 
 ### 関連項目
 
 * class [XmpInteger](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-の新しいインスタンスを初期化します[`XmpInteger`](../)class.
+[`XmpInteger`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpInteger(int value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Int32 | 値。 |
+| 値 | Int32 | 値です。 |
 
 ### 関連項目
 
 * class [XmpInteger](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-の新しいインスタンスを初期化します[`XmpInteger`](../)class.
+[`XmpInteger`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpInteger(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 値がヌルです。 |
-| ArgumentException | 無効な文字列値;値 |
+| ArgumentNullException | 値が null です。 |
+| ArgumentException | 無効な文字列値;value |
 
 ### 関連項目
 
 * class [XmpInteger](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.SmoothingMode 列挙. 直線と曲線および塗りつぶされた領域のエッジにスムージング アンチエイリアシング を適用するかどうかを指定します
+title: "列挙体 SmoothingMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.SmoothingMode 列挙体。線や曲線、塗りつぶし領域のエッジにスムージング（アンチエイリアス）が適用されるかどうかを指定します。"
 type: docs
-weight: 5570
+weight: 6070
 url: /ja/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-直線と曲線、および塗りつぶされた領域のエッジにスムージング (アンチエイリアシング) を適用するかどうかを指定します。
+線や曲線、塗りつぶし領域のエッジに対してスムージング（アンチエイリアス）が適用されるかどうかを指定します。
 
 ```csharp
 public enum SmoothingMode
@@ -16,18 +17,18 @@ public enum SmoothingMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | Invalid | `-1` | 無効なモードを指定します。 |
-| Default | `0` | アンチエイリアシングなしを指定します。 |
-| HighSpeed | `1` | アンチエイリアシングなしを指定します。 |
-| HighQuality | `2` | アンチエイリアス レンダリングを指定します。 |
-| None | `3` | アンチエイリアシングなしを指定します。 |
-| AntiAlias | `4` | アンチエイリアス レンダリングを指定します。 |
+| Default | `0` | アンチエイリアスなしを指定します。 |
+| HighSpeed | `1` | アンチエイリアスなしを指定します。 |
+| HighQuality | `2` | アンチエイリアスレンダリングを指定します。 |
+| None | `3` | アンチエイリアスなしを指定します。 |
+| AntiAlias | `4` | アンチエイリアスレンダリングを指定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

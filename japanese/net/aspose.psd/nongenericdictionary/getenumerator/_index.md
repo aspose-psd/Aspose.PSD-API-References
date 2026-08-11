@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 方法. 列挙子を取得します
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary メソッド。列挙子を取得します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
 列挙子を取得します。
@@ -16,12 +17,12 @@ public IDictionaryEnumerator GetEnumerator()
 
 ### 戻り値
 
-辞書列挙子
+辞書の列挙子です。
 
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

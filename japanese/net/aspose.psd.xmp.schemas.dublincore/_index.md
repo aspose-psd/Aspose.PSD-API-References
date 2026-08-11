@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはダブリン コア メタデータ関連のヘルパー クラス定数およびメソッドが含まれます
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、Dublin Core メタデータに関連するヘルパークラス、定数、およびメソッドが含まれています。"
 type: docs
-weight: 530
+weight: 570
 url: /ja/net/aspose.psd.xmp.schemas.dublincore/
 ---
-名前空間には、ダブリン コア メタデータ関連のヘルパー クラス、定数、およびメソッドが含まれます。
+{{< psd/tize >}}
+名前空間には、Dublin Core メタデータ関連のヘルパークラス、定数、およびメソッドが含まれています。
 
 ## クラス
 

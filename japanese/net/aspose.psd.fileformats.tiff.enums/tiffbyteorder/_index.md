@@ -1,14 +1,15 @@
 ---
-title: Enum TiffByteOrder
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder 列挙. tiff image のバイト順
+title: "列挙型 TiffByteOrder"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder 列挙型。TIFF 画像のバイト順です。"
 type: docs
-weight: 4040
+weight: 4510
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
-tiff image のバイト順
+TIFF 画像のバイトオーダー
 
 ```csharp
 public enum TiffByteOrder
@@ -16,14 +17,14 @@ public enum TiffByteOrder
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| BigEndian | `19789` | ビッグ エンディアンのバイト順 (Motorola). |
-| LittleEndian | `18761` | リトルエンディアンのバイト順 (Intel). |
+| BigEndian | `19789` | ビッグエンディアン バイト順（Motorola）です。 |
+| LittleEndian | `18761` | リトルエンディアン バイト順（Intel）です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

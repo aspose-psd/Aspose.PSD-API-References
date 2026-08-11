@@ -1,14 +1,15 @@
 ---
-title: Class PointExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.PointExtensions クラス. の拡張メソッドが含まれていますPointとPointF構造物.
+title: "PointExtensions クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.PointExtensions クラス。Point と PointF 構造体の拡張メソッドを含みます"
 type: docs
-weight: 1150
+weight: 1160
 url: /ja/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-の拡張メソッドが含まれています[`Point`](../../aspose.psd/point/)と[`PointF`](../../aspose.psd/pointf/)構造物.
+[`Point`](../../aspose.psd/point/) と [`PointF`](../../aspose.psd/pointf/) 構造体の拡張メソッドを含みます。
 
 ```csharp
 public static class PointExtensions
@@ -18,13 +19,13 @@ public static class PointExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | は[`PointF`](../../aspose.psd/pointf/)にPointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | は[`PointF`](../../aspose.psd/pointf/)への配列PointF配列. |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | は[`Point`](../../aspose.psd/point/)への配列[`PointF`](../../aspose.psd/pointf/)配列. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | [`PointF`](../../aspose.psd/pointf/) を PointF に変換します。 |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | [`PointF`](../../aspose.psd/pointf/) 配列を PointF 配列に変換します。 |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | [`Point`](../../aspose.psd/point/) 配列を [`PointF`](../../aspose.psd/pointf/) 配列に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

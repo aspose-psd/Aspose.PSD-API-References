@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientFillSettings 財産. 角度を取得または設定します
+title: "GradientFillSettings.Angle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientFillSettings プロパティ。角度を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
-角度を取得または設定します。
+取得または設定します。角度。
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-角度.
+角度です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 角度は -180.0 から 180.0 の範囲でなければなりません |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 角度は -180.0 から 180.0 の範囲である必要があります |
 
 ### 関連項目
 
 * class [GradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

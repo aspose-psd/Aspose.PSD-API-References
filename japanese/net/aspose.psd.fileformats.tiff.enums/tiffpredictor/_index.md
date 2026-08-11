@@ -1,14 +1,15 @@
 ---
-title: Enum TiffPredictor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor 列挙. LZW の予測スキーム
+title: "列挙体 TiffPredictor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor 列挙体。LZW 用の予測方式。"
 type: docs
-weight: 4140
+weight: 4610
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
+{{< psd/tize >}}
 ## TiffPredictor enumeration
 
-LZW の予測スキーム
+LZW の予測方式
 
 ```csharp
 public enum TiffPredictor : ushort
@@ -16,14 +17,14 @@ public enum TiffPredictor : ushort
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `1` | 予測スキームは使用されていません. |
-| Horizontal | `2` | 水平差分. |
+| None | `1` | 予測方式は使用されません。 |
+| Horizontal | `2` | 水平差分。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmxRasterizationOptions.CmxRasterizationOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmxRasterizationOptions コンストラクタ. デフォルトのコンストラクター
+title: "CmxRasterizationOptions.CmxRasterizationOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmxRasterizationOptions コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imageoptions/cmxrasterizationoptions/cmxrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public CmxRasterizationOptions()
@@ -17,7 +18,7 @@ public CmxRasterizationOptions()
 ### 関連項目
 
 * class [CmxRasterizationOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

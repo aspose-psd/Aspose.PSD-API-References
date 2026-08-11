@@ -1,11 +1,12 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD for .NET API リファレンス
-description: SharpenFilterOptions 財産. シグマを取得または設定します
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SharpenFilterOptions プロパティ。シグマを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
 シグマを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 public double Sigma { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-シグマ.
+シグマです。
 
 ### 関連項目
 
 * class [SharpenFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

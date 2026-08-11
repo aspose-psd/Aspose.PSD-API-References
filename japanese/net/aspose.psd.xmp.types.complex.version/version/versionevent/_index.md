@@ -1,28 +1,29 @@
 ---
-title: Version.VersionEvent
-second_title: Aspose.PSD for .NET API リファレンス
-description: Version 財産. を取得または設定しますResourceEvent .
+title: "Version.VersionEvent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Version プロパティ。ResourceEvent を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.xmp.types.complex.version/version/versionevent/
 ---
+{{< psd/tize >}}
 ## Version.VersionEvent property
 
-を取得または設定します[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) .
+取得または設定します [`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/)。
 
 ```csharp
 public ResourceEvent VersionEvent { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-バージョンイベント.
+バージョン イベント。
 
 ### 関連項目
 
 * class [ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/)
 * class [Version](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

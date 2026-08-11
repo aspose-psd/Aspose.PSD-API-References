@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはマルチスレッド クラスが含まれています
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、マルチスレッドクラスが含まれています"
 type: docs
-weight: 460
+weight: 500
 url: /ja/net/aspose.psd.multithreading/
 ---
-名前空間にはマルチスレッド クラスが含まれています。
+{{< psd/tize >}}
+この名前空間にはマルチスレッドクラスが含まれています。
 
 ## クラス
 

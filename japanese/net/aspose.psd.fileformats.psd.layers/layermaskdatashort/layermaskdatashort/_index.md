@@ -1,14 +1,15 @@
 ---
-title: LayerMaskDataShort.LayerMaskDataShort
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskDataShort コンストラクタ. デフォルトのコンストラクター
+title: "LayerMaskDataShort.LayerMaskDataShort"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskDataShort コンストラクター。LayerMaskDataShort クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-デフォルトのコンストラクター。
+[`LayerMaskDataShort`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LayerMaskDataShort()
@@ -17,7 +18,7 @@ public LayerMaskDataShort()
 ### 関連項目
 
 * class [LayerMaskDataShort](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

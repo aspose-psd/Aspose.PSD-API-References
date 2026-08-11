@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdOptions 財産. カラー チャネルごとのビット数を取得または設定します
+title: "PsdOptions.ChannelBitsCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdOptions プロパティ。カラー チャネルごとのビット数を取得または設定します。"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.psd.imageoptions/psdoptions/channelbitscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelBitsCount property
 
-カラー チャネルごとのビット数を取得または設定します。
+色チャネルごとのビット数を取得または設定します。
 
 ```csharp
 public short ChannelBitsCount { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カラー チャネルごとのビット数。
+カラー チャネルごとのビット数です。
 
 ### 関連項目
 
 * class [PsdOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

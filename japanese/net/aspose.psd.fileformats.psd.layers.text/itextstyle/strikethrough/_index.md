@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. 取り消し線. かどうかを示す値を取得または設定します
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。取り消し線かどうかを示す値を取得または設定します"
 type: docs
 weight: 230
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-[取り消し線]. かどうかを示す値を取得または設定します。
+[strikethrough] を示すかどうかの値を取得または設定します。
 
 ```csharp
 public bool Strikethrough { get; set; }
@@ -17,7 +18,7 @@ public bool Strikethrough { get; set; }
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

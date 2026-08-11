@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Figures
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 財産. パス図形を取得します
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath プロパティ。パスの図形を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
 パス図形を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/graphicspath/figures/
 public Figure[] Figures { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-パス図。
+パスの図形です。
 
 ### 関連項目
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

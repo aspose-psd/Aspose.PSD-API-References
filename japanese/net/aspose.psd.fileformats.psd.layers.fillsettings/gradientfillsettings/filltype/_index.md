@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.FillType
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientFillSettings 財産. 塗りつぶしタイプ
+title: "GradientFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientFillSettings プロパティ。塗りの種類"
 type: docs
-weight: 70
+weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-塗りつぶしタイプ
+塗りつぶしタイプです。
 
 ```csharp
 public override FillType FillType { get; }
@@ -18,7 +19,7 @@ public override FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

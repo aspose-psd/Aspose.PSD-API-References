@@ -1,32 +1,33 @@
 ---
-title: Size.Ceiling
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size 方法. 指定されたSizeFへの構造Sizeの値を四捨五入して構造化しますSize次に高い整数値への構造
+title: "Size.Ceiling"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size メソッド。指定された SizeF 構造体を Size 構造体に変換し、値を次の整数に切り上げます。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-指定された[`SizeF`](../../sizef/)への構造[`Size`](../)の値を四捨五入して構造化します。[`Size`](../)次に高い整数値への構造。
+指定された [`SizeF`](../../sizef/) 構造体を [`Size`](../) 構造体に変換し、[`Size`](../) 構造体の値を次の整数に切り上げます。
 
 ```csharp
 public static Size Ceiling(SizeF size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size | SizeF | の[`SizeF`](../../sizef/)変換する構造。 |
+| size | SizeF | 変換する [`SizeF`](../../sizef/) 構造体。 |
 
 ### 戻り値
 
-の[`Size`](../)このメソッドが変換する構造。
+このメソッドが変換する [`Size`](../) 構造体です。
 
 ### 関連項目
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

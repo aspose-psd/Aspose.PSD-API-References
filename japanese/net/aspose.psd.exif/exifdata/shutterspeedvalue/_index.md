@@ -1,28 +1,29 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. シャッター速度の値を取得または設定します
+title: "ExifData.ShutterSpeedValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。シャッタースピード値を取得または設定します"
 type: docs
 weight: 950
 url: /ja/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
-シャッター速度の値を取得または設定します。
+シャッタースピード値を取得または設定します。
 
 ```csharp
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-シャッタースピード値.
+シャッタースピードの値です。
 
 ### 関連項目
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

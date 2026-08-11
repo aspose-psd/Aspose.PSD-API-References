@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.Angle
-second_title: Aspose.PSD for .NET API リファレンス
-description: DropShadowEffect 財産. 度単位の角度を取得または設定します.
+title: "DropShadowEffect.Angle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DropShadowEffect プロパティ。角度（度単位）を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Angle property
 
-度単位の角度を取得または設定します.
+角度（度）を取得または設定します。
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-角度.
+角度です。
 
-### 例
+## 例
 
-次のコードは、DropShadowEffect の Opacity プロパティの使用を示しています。
+以下のコードは、DropShadowEffect の Opacity プロパティの使用例を示しています。
 
 ```csharp
 [C#]
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // 不透明度 = 20 の例
+    // Opacity = 20 の例
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // 不透明度 = 20 の例0
+    // Opacity = 200 の例
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -50,7 +51,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### 関連項目
 
 * class [DropShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

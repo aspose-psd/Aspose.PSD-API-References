@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox クラス. ベクトル シェイプ バウンディング ボックス クラスを定義します
+title: "クラス VectorShapeBoundingBox"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox クラス。ベクトルシェイプのバウンディングボックスクラスを定義します"
 type: docs
-weight: 1430
+weight: 1440
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-ベクトル シェイプ バウンディング ボックス クラスを定義します。
+ベクトル形状のバウンディングボックスクラスを定義します。
 
 ```csharp
 public sealed class VectorShapeBoundingBox
@@ -18,27 +19,28 @@ public sealed class VectorShapeBoundingBox
 
 | 名前 | 説明 |
 | --- | --- |
-| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | デフォルトのコンストラクター。 |
+| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | 底を取得または設定します。 |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | 形状の境界ボックスの境界を取得または設定します。 |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | 左を取得または設定します。 |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | 単位値クアッド バージョンを取得または設定します。 |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | 権利を取得または設定します。 |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | 上部を取得または設定します。 |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | 下部を取得または設定します。 |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | シェイプバウンディングボックスの境界を取得または設定します。 |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | 左側を取得または設定します。 |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | ボックスの角を決定するポイントの単位タイプを取得または設定します。 |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | 単位値クアッドバージョンを取得または設定します。 |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | 右側を取得または設定します。 |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | 上側を取得または設定します。 |
 
-### 例
+## 例
 
-この例では、シェイプ レイヤーとベクター パスを含む PSD イメージの読み込みと保存が正しく機能することを示します。
+この例は、シェイプレイヤーとベクトルパスを使用した PSD 画像の読み込みと保存が正しく機能することを示しています。
 
 ```csharp
 [C#]
 
-// この例は、シェイプ レイヤーとベクター パスを含む PSD 画像の読み込みと保存が正しく機能することを示しています。
+// この例は、シェイプレイヤーとベクトルパスを使用した PSD 画像の読み込みと保存が正しく機能することを示しています。
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -165,7 +167,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

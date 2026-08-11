@@ -1,14 +1,15 @@
 ---
-title: EllipseShape.EllipseShape
-second_title: Aspose.PSD for .NET API リファレンス
-description: EllipseShape コンストラクタ. の新しいインスタンスを初期化しますEllipseShapeclass.
+title: "EllipseShape.EllipseShape"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "EllipseShape コンストラクタ。EllipseShape クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape() {#constructor}
 
-の新しいインスタンスを初期化します[`EllipseShape`](../)class.
+[`EllipseShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public EllipseShape()
@@ -17,28 +18,28 @@ public EllipseShape()
 ### 関連項目
 
 * class [EllipseShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../ellipseshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-の新しいインスタンスを初期化します[`EllipseShape`](../)class.
+[`EllipseShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public EllipseShape(RectangleF rectangle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | RectangleF | 長方形。 |
+| 矩形 | RectangleF | 矩形です。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../ellipseshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

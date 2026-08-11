@@ -1,14 +1,15 @@
 ---
-title: Class MlstResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource クラス. mlst リソース. このクラスにはタイムライン上のレイヤーの位置に関する情報が含まれています.
+title: "クラス MlstResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource クラス。mlst リソース。このクラスは、他にもレイヤーのタイムライン上の位置に関する情報を含みます"
 type: docs
-weight: 2830
+weight: 3170
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource class
 
-mlst リソース. このクラスには、タイムライン上のレイヤーの位置に関する情報が含まれています.
+mlst リソース。このクラスはその他にもレイヤーのタイムライン上の位置に関する情報を含みます。
 
 ```csharp
 public class MlstResource : LayerResource
@@ -18,35 +19,35 @@ public class MlstResource : LayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [MlstResource](mlstresource/)() | デフォルトのコンストラクター。 |
+| [MlstResource](mlstresource/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | 記述子のバージョンを取得または設定します。 |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | 記述子バージョンを取得または設定します。 |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/) { get; } | 構造体を取得または設定します。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/) { get; } | psd バージョンを取得します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signature/) { get; } | 署名を取得します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | 指定したストリーム コンテナを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | 指定されたストリームコンテナを保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | タイプ ツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | タイプツール情報キーです。 |
 
-### 例
+## 例
 
-次のコードは、層の状態を操作する低レベルのメカニズムを提供する MlstResource リソースのサポートを示しています。
+次のコードは、レイヤー状態を操作するための低レベルメカニズムを提供する MlstResource リソースのサポートを示しています
 
 ```csharp
 [C#]
@@ -64,7 +65,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // フレーム 1 のレイヤー 1 を無効にする
+    // フレーム 1 でレイヤー 1 を無効にする
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -74,7 +75,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### 関連項目
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

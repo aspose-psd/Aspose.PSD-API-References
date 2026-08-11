@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. 作成者の位置を設定します
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。著者の位置を設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-作成者の位置を設定します。
+著者の位置を設定します。
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| authorsPosition | String | 著者の立場。 |
+| 著者位置 | 文字列 | 著者の位置です。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

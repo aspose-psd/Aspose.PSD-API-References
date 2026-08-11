@@ -1,32 +1,33 @@
 ---
-title: LiFeDataSource.FileSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: LiFeDataSource 財産. PSD LnkE リソースの LiFE データ ソース内の外部ファイルのサイズを取得または設定します
+title: "LiFeDataSource.FileSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LiFeDataSource プロパティ。PSD LnkE リソースの LiFE データソース内の外部ファイルのサイズを取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.FileSize property
 
-PSD LnkE リソースの LiFE データ ソース内の外部ファイルのサイズを取得または設定します。
+取得または設定します PSD LnkE リソースの LiFE データソースにある外部ファイルのサイズを取得または設定します。
 
 ```csharp
 public long FileSize { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ファイルサイズ.
+ファイルサイズ。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | FileSize プロパティにはアクセスできません。これは、liFE データ ソースでのみ使用できます |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | FileSize プロパティにアクセスできません。liFE データソースでのみ利用可能です |
 
-### 例
+## 例
 
-この例では、Psd LnkE リソースのプロパティを取得および設定する方法を示します。
+この例は Psd LnkE リソースのプロパティを取得および設定する方法を示します。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、外部リンク ファイルに関する情報を含む Psd LnkE リソースのプロパティを取得および設定する方法を示します。
+// この例は外部リンクファイルに関する情報を含む Psd LnkE リソースのプロパティを取得および設定する方法を示します。
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// この例では、外部リンク JPEG ファイルに関する情報を含む Psd LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク JPEG ファイルに関する情報を含む Psd LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// この例では、外部リンク PNG ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク PNG ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// この例では、外部リンクされた 2 つの PNG および PSD ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク PNG と PSD の 2 つのファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// この例では、外部リンクされた CC ライブラリ アセットに関する情報を含む Photoshop Psd LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク CC Libraries アセットに関する情報を含む Photoshop Psd LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,7 +195,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-次のコードは、LnkeResource リソースのサポートを示しています。
+以下のコードは LnkeResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -419,7 +420,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### 関連項目
 
 * class [LiFeDataSource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

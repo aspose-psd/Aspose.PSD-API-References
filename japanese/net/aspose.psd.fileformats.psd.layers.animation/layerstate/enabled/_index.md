@@ -1,22 +1,23 @@
 ---
-title: LayerState.Enabled
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerState 財産. 有効な状態を取得または設定します
+title: "LayerState.Enabled"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerState プロパティ。 有効状態を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/
 ---
+{{< psd/tize >}}
 ## LayerState.Enabled property
 
-有効な状態を取得または設定します。
+有効状態を取得または設定します。
 
 ```csharp
 public bool Enabled { get; set; }
 ```
 
-### 例
+## 例
 
-TimeLine クラスは、フレーム遅延の変更や特定のフレームのレイヤー状態の編集など、PsdImage のタイムラインを操作する高度な機能を提供します。
+Timeline クラスは、PsdImage のタイムラインを操作する高度な機能を提供します。たとえば、フレーム遅延の変更や特定フレームでのレイヤー状態の編集などです。
 
 ```csharp
 [C#]
@@ -26,33 +27,32 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // フレーム 1 の dispose メソッドを変更
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // フレーム 1 の破棄方法を変更します
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // フレーム 2 の遅延を変更
-    timeLine.Frames[1].Delay = 15;
+    // フレーム 2 の遅延を変更します
+    timeline.Frames[1].Delay = 15;
 
-    // フレーム 2 の「レイヤー 1」の不透明度を変更
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // フレーム 2 の 'Layer 1' の不透明度を変更します
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'Layer 1' をフレーム 3 の左下隅に移動します
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // フレーム 3 で 'Layer 1' を左下隅に移動します
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // 新しいフレームを追加
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // 新しいフレームを追加します
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // フレーム 4 で「レイヤー 1」のblendMode を変更
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // フレーム 4 の 'Layer 1' の blendMode を変更します
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
     // 変更を PsdImage インスタンスに適用します
-    timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
 ```
@@ -60,7 +60,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 ### 関連項目
 
 * class [LayerState](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

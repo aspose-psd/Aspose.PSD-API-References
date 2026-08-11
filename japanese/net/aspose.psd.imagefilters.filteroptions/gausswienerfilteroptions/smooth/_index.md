@@ -1,11 +1,12 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: Aspose.PSD for .NET API リファレンス
-description: GaussWienerFilterOptions 財産. スムーズを取得または設定します
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GaussWienerFilterOptions プロパティ。smooth を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
 スムーズを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smoo
 public double Smooth { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スムーズ.
+滑らかさです。
 
 ### 関連項目
 
 * class [GaussWienerFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

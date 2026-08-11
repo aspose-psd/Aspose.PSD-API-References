@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorRangeHsl 財産. 色相を取得または設定します
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorRangeHsl プロパティ。色相を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
 色相を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 public short Hue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色相.
+色相です。
 
 ### 関連項目
 
 * class [ColorRangeHsl](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

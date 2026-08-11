@@ -1,11 +1,12 @@
 ---
-title: LspfResource.LockType
-second_title: Aspose.PSD for .NET API リファレンス
-description: LspfResource 財産. ロックのタイプを取得または設定します
+title: "LspfResource.LockType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LspfResource プロパティ。ロックのタイプを取得または設定します"
 type: docs
-weight: 70
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
 ロックのタイプを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lockt
 public LayerLockType LockType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ロックのタイプ.
+ロックのタイプです。
 
 ### 関連項目
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

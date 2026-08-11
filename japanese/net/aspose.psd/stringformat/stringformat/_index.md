@@ -1,14 +1,15 @@
 ---
-title: StringFormat.StringFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat コンストラクタ. 新しいStringFormatobject.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat コンストラクタ。 新しい StringFormat オブジェクトを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-新しい[`StringFormat`](../)object.
+新しい [`StringFormat`](../) オブジェクトを初期化します。
 
 ```csharp
 public StringFormat()
@@ -17,54 +18,54 @@ public StringFormat()
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-新しい[`StringFormat`](../)指定されたオブジェクト[`StringFormatFlags`](../../stringformatflags/)列挙と言語.
+指定された [`StringFormatFlags`](../../stringformatflags/) 列挙体と 言語 を使用して、新しい [`StringFormat`](../) オブジェクトを初期化します。
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| options | StringFormatFlags | の[`StringFormatFlags`](../../stringformatflags/) new の列挙[`StringFormat`](../)物体。 |
+| options | StringFormatFlags | 新しい [`StringFormat`](../) オブジェクト用の [`StringFormatFlags`](../../stringformatflags/) 列挙体です。 |
 
 ### 関連項目
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-新しい[`StringFormat`](../)指定された既存のオブジェクト[`StringFormat`](../)object.
+指定された既存の [`StringFormat`](../) オブジェクトから新しい [`StringFormat`](../) オブジェクトを初期化します。
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| format | StringFormat | の[`StringFormat`](../)新しい初期化元のオブジェクト[`StringFormat`](../)物体。 |
+| format | StringFormat | 新しい [`StringFormat`](../) オブジェクトを初期化する元となる [`StringFormat`](../) オブジェクトです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *format*無効である。 |
+| ArgumentNullException | *format* は null です。 |
 
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

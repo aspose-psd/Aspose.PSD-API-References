@@ -1,14 +1,15 @@
 ---
-title: Class StringFormatExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.StringFormatExtensions クラス. の拡張メソッドが含まれていますStringFormatclass.
+title: "StringFormatExtensions クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.StringFormatExtensions クラス。StringFormat クラスの拡張メソッドを含みます"
 type: docs
-weight: 1190
+weight: 1200
 url: /ja/net/aspose.psd.extensions/stringformatextensions/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions class
 
-の拡張メソッドが含まれています[`StringFormat`](../../aspose.psd/stringformat/)class.
+[`StringFormat`](../../aspose.psd/stringformat/) クラスの拡張メソッドを含みます。
 
 ```csharp
 public static class StringFormatExtensions
@@ -18,11 +19,11 @@ public static class StringFormatExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | は[`StringFormat`](../../aspose.psd/stringformat/)にStringFormat . |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | [`StringFormat`](../../aspose.psd/stringformat/) を StringFormat に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

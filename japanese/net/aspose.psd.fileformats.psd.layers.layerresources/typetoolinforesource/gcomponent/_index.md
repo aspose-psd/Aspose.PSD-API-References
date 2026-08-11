@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.GComponent
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfoResource 財産. g コンポーネントを取得または設定します
+title: "TypeToolInfoResource.GComponent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfoResource プロパティ。g コンポーネントを取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.GComponent property
 
-g コンポーネントを取得または設定します。
+g 成分を取得または設定します。
 
 ```csharp
 public short GComponent { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-g コンポーネント.
+g コンポーネントです。
 
 ### 関連項目
 
 * class [TypeToolInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

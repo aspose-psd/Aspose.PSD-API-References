@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfoResource 財産. 選択範囲の終了を取得または設定します
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfoResource プロパティ。選択終了位置を取得または設定します"
 type: docs
-weight: 180
+weight: 160
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
-選択範囲の終了を取得または設定します。
+選択範囲の終了位置を取得または設定します。
 
 ```csharp
 public int SelectionEnd { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-選択終了.
+選択終了位置です。
 
 ### 関連項目
 
 * class [TypeToolInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

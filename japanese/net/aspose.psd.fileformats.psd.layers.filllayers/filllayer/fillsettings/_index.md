@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: FillLayer 財産. 塗りつぶし設定を取得します
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FillLayer プロパティ。塗り設定を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-塗りつぶし設定を取得します。
+フィル設定を取得または設定します。
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-塗りつぶし設定.
+塗り設定です。
 
 ### 関連項目
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

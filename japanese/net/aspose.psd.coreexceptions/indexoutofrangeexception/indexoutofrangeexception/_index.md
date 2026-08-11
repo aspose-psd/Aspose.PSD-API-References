@@ -1,48 +1,49 @@
 ---
-title: IndexOutOFRangeException.IndexOutOFRangeException
-second_title: Aspose.PSD for .NET API リファレンス
-description: IndexOutOFRangeException コンストラクタ. の新しいインスタンスを初期化しますCompressorExceptionclass.
+title: "IndexOutOFRangeException.IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IndexOutOFRangeException コンストラクタ。CompressorException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/indexoutofrangeexception/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`CompressorException`](../../compressorexception/)class.
+[`CompressorException`](../../compressorexception/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IndexOutOFRangeException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [IndexOutOFRangeException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IndexOutOFRangeException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`CompressorException`](../../compressorexception/)class.
+[`CompressorException`](../../compressorexception/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IndexOutOFRangeException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [IndexOutOFRangeException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

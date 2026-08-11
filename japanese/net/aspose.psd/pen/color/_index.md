@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. この色を取得または設定しますPen .
+title: "Pen.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen の色を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-この色を取得または設定します[`Pen`](../) .
+この [`Pen`](../) の色を取得または設定します。
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ`Color`この色を表す構造[`Pen`](../).
+この [`Pen`](../) の色を表す `Color` 構造体です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`Color`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `Color` プロパティは、[`Pen`](../) のような不変のペンに設定されます。たとえば、[`Pen`](../) クラスが返すものです。 |
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

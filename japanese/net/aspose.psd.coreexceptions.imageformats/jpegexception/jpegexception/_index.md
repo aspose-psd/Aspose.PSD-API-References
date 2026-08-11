@@ -1,48 +1,49 @@
 ---
-title: JpegException.JpegException
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegException コンストラクタ. の新しいインスタンスを初期化しますJpegExceptionclass.
+title: "JpegException.JpegException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegException コンストラクタ。JpegException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions.imageformats/jpegexception/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`JpegException`](../)class.
+[`JpegException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public JpegException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [JpegException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`JpegException`](../)class.
+[`JpegException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public JpegException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [JpegException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: DataStreamSupporter 方法. オブジェクトのデータを現在のDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DataStreamSupporter メソッド。オブジェクトのデータを現在の DataStreamSupporter に保存します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-オブジェクトのデータを現在の[`DataStreamSupporter`](../) .
+オブジェクトのデータを現在の [`DataStreamSupporter`](../) に保存します。
 
 ```csharp
 public virtual void Save()
@@ -17,8 +18,8 @@ public virtual void Save()
 ### 関連項目
 
 * class [DataStreamSupporter](../)
-* 名前空間 [Aspose.PSD](../../datastreamsupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,55 +31,55 @@ public virtual void Save()
 public virtual void Save(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | オブジェクトのデータを保存するストリーム。 |
+| ストリーム | ストリーム | オブジェクトのデータを保存するストリームです。 |
 
 ### 関連項目
 
 * class [DataStreamSupporter](../)
-* 名前空間 [Aspose.PSD](../../datastreamsupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_2}
 
-オブジェクトのデータを指定されたファイルの場所に保存します。
+オブジェクトのデータを指定されたファイル位置に保存します。
 
 ```csharp
 public void Save(string filePath)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| filePath | String | オブジェクトのデータを保存するファイル パス。 |
+| filePath | 文字列 | オブジェクトのデータを保存するためのファイルパス。 |
 
 ### 関連項目
 
 * class [DataStreamSupporter](../)
-* 名前空間 [Aspose.PSD](../../datastreamsupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, bool) {#save_3}
 
-オブジェクトのデータを指定されたファイルの場所に保存します。
+オブジェクトのデータを指定されたファイル位置に保存します。
 
 ```csharp
 public virtual void Save(string filePath, bool overWrite)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| filePath | String | オブジェクトのデータを保存するファイル パス。 |
-| overWrite | Boolean | に設定した場合`真実`ファイルの内容を上書きします。そうしないと、追加が発生します。 |
+| filePath | 文字列 | オブジェクトのデータを保存するためのファイルパス。 |
+| overWrite | Boolean | `true` に設定するとファイル内容を上書きし、そうでなければ追記が行われます。 |
 
 ### 関連項目
 
 * class [DataStreamSupporter](../)
-* 名前空間 [Aspose.PSD](../../datastreamsupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.Opacity
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientOverlayEffect 財産. 不透明度を取得または設定します
+title: "GradientOverlayEffect.Opacity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientOverlayEffect プロパティ。不透明度を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Opacity property
 
 不透明度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffec
 public byte Opacity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-不透明度.
+不透明度です。
 
 ### 関連項目
 
 * class [GradientOverlayEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

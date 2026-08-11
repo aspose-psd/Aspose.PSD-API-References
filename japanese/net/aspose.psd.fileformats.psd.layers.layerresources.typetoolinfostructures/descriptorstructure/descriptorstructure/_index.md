@@ -1,39 +1,40 @@
 ---
-title: DescriptorStructure.DescriptorStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: DescriptorStructure コンストラクタ. の新しいインスタンスを初期化しますDescriptorStructureclass.
+title: "DescriptorStructure.DescriptorStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DescriptorStructure コンストラクタ。DescriptorStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure constructor
 
-の新しいインスタンスを初期化します[`DescriptorStructure`](../)class.
+[`DescriptorStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
-| classID | ClassID | クラス識別子。 |
-| className | String | クラスの名前。 |
-| structures | OSTypeStructure[] | 構造。 |
+| classID | ClassID | クラス識別子です。 |
+| className | 文字列 | クラスの名前。 |
+| 構造体 | OSTypeStructure[] | 構造体です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | クラス ID がヌルです |
+| ArgumentNullException | classID が null です |
 
 ### 関連項目
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

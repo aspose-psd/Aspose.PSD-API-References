@@ -1,32 +1,33 @@
 ---
-title: SizeF.Subtract
-second_title: Aspose.PSD for .NET API リファレンス
-description: SizeF 方法. 幅と高さを 1 減算しますSizeF別の幅と高さからの構造SizeF構造体.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SizeF メソッド。ある SizeF 構造体の幅と高さを別の SizeF 構造体の幅と高さから減算します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-幅と高さを 1 減算します[`SizeF`](../)別の幅と高さからの構造[`SizeF`](../)構造体.
+ある [`SizeF`](../) 構造体の幅と高さを別の [`SizeF`](../) 構造体の幅と高さから減算します。
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size1 | SizeF | の[`SizeF`](../)減算演算子の左側の構造。 |
-| size2 | SizeF | の[`SizeF`](../)減算演算子の右側の構造。 |
+| size1 | SizeF | 減算演算子の左側にある [`SizeF`](../) 構造体です。 |
+| size2 | SizeF | 減算演算子の右側にある [`SizeF`](../) 構造体です。 |
 
 ### 戻り値
 
-の[`SizeF`](../)それは減算操作の結果です。
+減算操作の結果となる [`SizeF`](../) です。
 
 ### 関連項目
 
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

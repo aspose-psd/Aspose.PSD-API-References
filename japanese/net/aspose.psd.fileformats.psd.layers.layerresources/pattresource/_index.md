@@ -1,14 +1,15 @@
 ---
-title: Class PattResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource クラス. クラス PattResourceパターン data のリソース
+title: "クラス PattResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource クラス。クラス PattResource。パターンデータを持つリソースです。"
 type: docs
-weight: 2870
+weight: 3220
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource class
 
-クラス PattResource。パターン data のリソース
+PattResource クラス。パターンデータを含むリソース
 
 ```csharp
 public class PattResource : LayerResource
@@ -18,38 +19,38 @@ public class PattResource : LayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [PattResource](pattresource/#constructor)() | の新しいインスタンスを初期化します`PattResource`class. |
-| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | の新しいインスタンスを初期化します`PattResource`class. |
+| [PattResource](pattresource/#constructor)() | `PattResource` クラスの新しいインスタンスを初期化します。 |
+| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | `PattResource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | パターンデータを取得または設定します; |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion/) { get; } | psd バージョンを取得します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/) { get; } | 層リソース署名を取得します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | パターン データを取得または設定します; |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/)(StreamContainer, int) | リソースブロックデータを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | 8 ビット用の「Patt」タイプのツール情報キー。 |
-| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | 16 ビット用の「Pat2」タイプのツール情報キー。 |
-| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | 32 ビット用の「Pat3」タイプのツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | 8ビット用の 'Patt' タイプ ツール情報キーです。 |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | 16ビット用の 'Pat2' タイプ ツール情報キーです。 |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | 32ビット用の 'Pat3' タイプ ツール情報キーです。 |
 
 ### 関連項目
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

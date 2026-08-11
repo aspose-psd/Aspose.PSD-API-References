@@ -1,14 +1,15 @@
 ---
-title: DescriptorStructure.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: DescriptorStructure 財産. を取得しますOSTypeStructureバイト単位の長さ.
+title: "DescriptorStructure.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DescriptorStructure プロパティ。OSTypeStructure の長さ（バイト単位）を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/length/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.Length property
 
-を取得します[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)バイト単位の長さ.
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) の長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [DescriptorStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

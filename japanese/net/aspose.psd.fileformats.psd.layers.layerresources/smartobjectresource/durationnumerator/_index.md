@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.DurationNumerator
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. 期間の分子を取得または設定します
+title: "SmartObjectResource.DurationNumerator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。期間分子を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationNumerator property
 
 期間の分子を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public int DurationNumerator { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-持続時間の分子。
+期間分子です。
 
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

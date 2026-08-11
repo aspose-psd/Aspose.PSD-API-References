@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBalanceAdjustmentLayer 財産. ハイライト シアン レッド バランスを取得または設定します
+title: "ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBalanceAdjustmentLayer プロパティ。Highlights Cyan Red バランスを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance property
 
-ハイライト シアン レッド バランスを取得または設定します。
+Highlights Cyan Red Balance の値を取得または設定します。
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ハイライト シアン レッド バランス.
+Highlights Cyan Red バランスです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | ハイライト シアン レッド バランスは -100 から +100 の範囲内でなければなりません. |
+| ArgumentOutOfRangeException | Highlights Cyan Red バランスは -100 から +100 の範囲でなければなりません。 |
 
-### 例
+## 例
 
-次のコードは、ColorBalanceAdjustmentLayer のサポートを示しています。
+以下のコードは ColorBalanceAdjustmentLayer のサポートを示しています。
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### 関連項目
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

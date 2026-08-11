@@ -1,14 +1,15 @@
 ---
-title: VstkResource.VstkResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: VstkResource コンストラクタ. デフォルトのコンストラクター
+title: "VstkResource.VstkResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VstkResource コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/vstkresource/
 ---
+{{< psd/tize >}}
 ## VstkResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public VstkResource()
@@ -17,7 +18,7 @@ public VstkResource()
 ### 関連項目
 
 * class [VstkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

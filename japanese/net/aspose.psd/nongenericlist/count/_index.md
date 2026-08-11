@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Count
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 財産. に含まれる要素の数を取得しますICollection .
+title: "NonGenericList.Count"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList プロパティ。ICollection に含まれる要素数を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/nongenericlist/count/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Count property
 
-に含まれる要素の数を取得しますICollection .
+ICollection に含まれる要素数を取得します。
 
 ```csharp
 public int Count { get; }
@@ -17,7 +18,7 @@ public int Count { get; }
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

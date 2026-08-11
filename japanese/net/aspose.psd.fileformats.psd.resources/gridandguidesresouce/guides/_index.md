@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Aspose.PSD for .NET API リファレンス
-description: GridAndGuidesResouce 財産. ガイドを取得または設定します
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GridAndGuidesResouce プロパティ。ガイドを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
 ガイドを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 public GuideResource[] Guides { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ガイド。
+ガイドです。
 
 ### 関連項目
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

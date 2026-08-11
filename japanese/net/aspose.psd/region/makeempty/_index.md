@@ -1,14 +1,15 @@
 ---
-title: Region.MakeEmpty
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これを初期化しますRegion空の内部へ.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。 この Region を空の内部に初期化します"
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-これを初期化します[`Region`](../)空の内部へ.
+この [`Region`](../) を空の内部に初期化します。
 
 ```csharp
 public void MakeEmpty()
@@ -17,7 +18,7 @@ public void MakeEmpty()
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

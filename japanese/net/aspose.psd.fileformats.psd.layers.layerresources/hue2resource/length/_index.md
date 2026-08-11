@@ -1,14 +1,15 @@
 ---
-title: Hue2Resource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: Hue2Resource 財産. レイヤー リソースの長さをバイト単位で取得します
+title: "Hue2Resource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Hue2Resource プロパティ。レイヤーリソースの長さ（バイト単位）を取得します"
 type: docs
-weight: 50
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Length property
 
-レイヤー リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [Hue2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

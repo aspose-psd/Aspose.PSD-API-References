@@ -1,33 +1,34 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvesContinuousManager 方法. インデックスでカーブポイントを取得します.
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvesContinuousManager メソッド。インデックスで曲線のポイントを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
-インデックスでカーブポイントを取得します.
+インデックスで曲線ポイントを取得します。
 
 ```csharp
 public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| channelIndex | Int32 | チャネルのインデックス。 |
-| pointIndex | Int32 | ポイントのインデックス。 |
+| channelIndex | Int32 | チャネルのインデックスです。 |
+| pointIndex | Int32 | ポイントのインデックスです。 |
 
 ### 戻り値
 
-チャネルのインデックスによるカーブ ポイント
+チャネルのインデックスによる曲線ポイント
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

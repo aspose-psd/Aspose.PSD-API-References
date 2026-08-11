@@ -1,11 +1,12 @@
 ---
-title: Enum GradientType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType 列挙. グラデーションタイプ
+title: "列挙体 GradientType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType 列挙体。グラデーションタイプです。"
 type: docs
-weight: 1980
+weight: 2100
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## GradientType enumeration
 
 グラデーションタイプ
@@ -16,18 +17,18 @@ public enum GradientType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Linear | `0` | 線形グラデーション タイプ |
-| Radial | `1` | 放射状グラデーション タイプ |
-| Angle | `2` | 角度勾配タイプ |
-| Reflected | `3` | 反映されたグラデーション タイプ |
-| Diamond | `4` | ひし形グラデーション タイプ |
-| ShapeBurst | `5` | 形状バースト勾配 type |
+| Linear | `0` | 線形グラデーションタイプです。 |
+| Radial | `1` | 放射状グラデーションタイプです。 |
+| Angle | `2` | 角度グラデーションタイプです。 |
+| Reflected | `3` | 反射グラデーションタイプです。 |
+| Diamond | `4` | ダイヤモンドグラデーションタイプです。 |
+| ShapeBurst | `5` | 形状バーストグラデーションタイプです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

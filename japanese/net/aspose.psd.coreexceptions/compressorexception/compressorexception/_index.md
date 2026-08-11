@@ -1,48 +1,49 @@
 ---
-title: CompressorException.CompressorException
-second_title: Aspose.PSD for .NET API リファレンス
-description: CompressorException コンストラクタ. の新しいインスタンスを初期化しますCompressorExceptionclass.
+title: "CompressorException.CompressorException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CompressorException コンストラクタ。CompressorException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/compressorexception/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`CompressorException`](../)class.
+[`CompressorException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public CompressorException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [CompressorException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CompressorException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`CompressorException`](../)class.
+[`CompressorException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public CompressorException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [CompressorException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

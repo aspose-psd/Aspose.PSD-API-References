@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 財産. サムネイル データを取得または設定します
+title: "ThumbnailResource.ThumbnailData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource プロパティ。サムネイル データを取得または設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailData property
 
-サムネイル データを取得または設定します。
+サムネイルデータを取得または設定します。
 
 ```csharp
 public Color[] ThumbnailData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-サムネイルデータです。
+サムネイル データです。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmallRectangularFilterOptions.SmallRectangularFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmallRectangularFilterOptions コンストラクタ. デフォルトのコンストラクター
+title: "SmallRectangularFilterOptions.SmallRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmallRectangularFilterOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public SmallRectangularFilterOptions()
@@ -17,7 +18,7 @@ public SmallRectangularFilterOptions()
 ### 関連項目
 
 * class [SmallRectangularFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../smallrectangularfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

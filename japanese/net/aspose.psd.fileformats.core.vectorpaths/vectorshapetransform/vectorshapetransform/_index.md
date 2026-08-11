@@ -1,28 +1,29 @@
 ---
-title: VectorShapeTransform.VectorShapeTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeTransform コンストラクタ. の新しいインスタンスを初期化しますVectorShapeTransformclass.
+title: "VectorShapeTransform.VectorShapeTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeTransform コンストラクタ。VectorShapeTransform クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/vectorshapetransform/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform constructor
 
-の新しいインスタンスを初期化します[`VectorShapeTransform`](../)class.
+[`VectorShapeTransform`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public VectorShapeTransform()
 ```
 
-### 例
+## 例
 
-この例では、PSD ファイルの FillLayer の Vogk リソースにある ShapeOriginSettings の新しい Transform および OriginBoxCorners プロパティを取得および設定する方法を示します。
+この例では、PSD ファイルの FillLayer の Vogk リソース内の ShapeOriginSettings の新しい Transform および OriginBoxCorners プロパティを取得および設定する方法を示します。
 
 ```csharp
 [C#]
 
-// この例は、新しい Transform および OriginBoxCorners プロパティを取得および設定する方法を示しています
-// PSD ファイルの FillLayer の Vogk リソースの ShapeOriginSettings の
+// この例では、新しい Transform と OriginBoxCorners プロパティを取得および設定する方法を示します
+// PSD ファイルの FillLayer の Vogk リソース内の ShapeOriginSettings の
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
@@ -34,11 +35,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // 読み込み後にアサート
+    // 読み取り後にアサートする
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // 新しいプロパティをアサート
+    // 新しいプロパティを検証する
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // 新しいプロパティを設定
+    // 新しいプロパティを設定する
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -79,19 +80,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // この PSD 画像をプロパティを変更して保存します。
+    // 変更されたプロパティでこの PSD 画像を保存する。
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// プロパティが変更された保存済みの PSD イメージを読み込みます。
+// 変更されたプロパティの保存済み PSD 画像をロードする。
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // プロパティが正しく保存およびロードされていることをアサートします 
+    // プロパティが正しく保存およびロードされることを検証する
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -164,7 +165,7 @@ void AssertAreEqual(object actual, object expected)
 ### 関連項目
 
 * class [VectorShapeTransform](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapetransform/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

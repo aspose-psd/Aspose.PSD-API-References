@@ -1,14 +1,15 @@
 ---
-title: BritResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: BritResource 分野. タイプ ツール情報キー
+title: "BritResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BritResource フィールド。タイプツール情報キー"
 type: docs
-weight: 90
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BritResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [BritResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

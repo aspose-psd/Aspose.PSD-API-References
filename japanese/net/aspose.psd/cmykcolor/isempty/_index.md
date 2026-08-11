@@ -1,27 +1,28 @@
 ---
-title: CmykColor.IsEmpty
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColor 財産. かどうかを示す値を取得しますColor構造体が初期化されていません.
+title: "CmykColor.IsEmpty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColor プロパティ。この Color 構造体が未初期化かどうかを示す値を取得します"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd/cmykcolor/isempty/
 ---
+{{< psd/tize >}}
 ## CmykColor.IsEmpty property
 
-かどうかを示す値を取得します。[`Color`](../../color/)構造体が初期化されていません.
+この [`Color`](../../color/) 構造体が未初期化かどうかを示す値を取得します。
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-この色が初期化されていない場合、このプロパティは true を返します。それ以外の場合は false。
+このプロパティは、この色が未初期化の場合は true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [CmykColor](../)
-* 名前空間 [Aspose.PSD](../../cmykcolor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

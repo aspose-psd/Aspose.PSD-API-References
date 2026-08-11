@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Union
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. を取得しますRectangle つの結合を含む構造Rectangle構造物.
+title: "Rectangle.Union"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。2 つの Rectangle 構造体のユニオンを含む Rectangle 構造体を取得します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-を取得します[`Rectangle`](../) つの結合を含む構造[`Rectangle`](../)構造物.
+2 つの [`Rectangle`](../) 構造体のユニオンを含む [`Rectangle`](../) 構造体を取得します。
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| a | Rectangle | 結合する最初の四角形。 |
-| b | Rectangle | 結合する 2 番目の四角形。 |
+| a | Rectangle | 合成する最初の矩形。 |
+| b | Rectangle | 合成する2番目の矩形。 |
 
 ### 戻り値
 
-あ[`Rectangle`](../) 2つの結合を制限する構造[`Rectangle`](../)構造。
+2 つの [`Rectangle`](../) 構造体のユニオンを境界とする [`Rectangle`](../) 構造体です。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

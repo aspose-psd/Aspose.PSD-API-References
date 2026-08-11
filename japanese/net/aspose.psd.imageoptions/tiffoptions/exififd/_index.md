@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. EXIF IFD へのポインターを取得または設定します
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。EXIF IFD へのポインタを取得または設定します"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-EXIF IFD へのポインターを取得または設定します。
+EXIF IFD へのポインタを取得または設定します。
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-EXIF IFD へのポインター。
+EXIF IFD へのポインタです。
 
 ### 関連項目
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

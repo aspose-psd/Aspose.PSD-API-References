@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: VersionInfoResource 財産. リソース データ サイズをバイト単位で取得します
+title: "VersionInfoResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VersionInfoResource プロパティ。リソースのデータサイズ（バイト）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/versioninforesource/datasize/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [VersionInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

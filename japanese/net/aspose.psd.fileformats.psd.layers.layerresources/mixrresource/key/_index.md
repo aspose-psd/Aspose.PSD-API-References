@@ -1,14 +1,15 @@
 ---
-title: MixrResource.Key
-second_title: Aspose.PSD for .NET API リファレンス
-description: MixrResource 財産. レイヤ リソース キーを取得します
+title: "MixrResource.Key"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MixrResource プロパティ。レイヤーリソースキーを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/
 ---
+{{< psd/tize >}}
 ## MixrResource.Key property
 
-レイヤ リソース キーを取得します。
+レイヤーリソースキーを取得します。
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### 関連項目
 
 * class [MixrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

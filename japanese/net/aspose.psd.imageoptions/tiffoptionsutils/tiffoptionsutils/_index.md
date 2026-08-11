@@ -1,14 +1,15 @@
 ---
-title: TiffOptionsUtils.TiffOptionsUtils
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptionsUtils コンストラクタ. デフォルトのコンストラクター
+title: "TiffOptionsUtils.TiffOptionsUtils"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptionsUtils コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imageoptions/tiffoptionsutils/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public TiffOptionsUtils()
@@ -17,7 +18,7 @@ public TiffOptionsUtils()
 ### 関連項目
 
 * class [TiffOptionsUtils](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,145 +1,146 @@
 ---
-title: PsdImage.PsdImage
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage コンストラクタ. の新しいインスタンスを初期化しますPsdImageラスター画像からの指定されたパスからのクラスパス内のpsd画像ではありません psd 画像をデフォルト パラメータで初期化するために使用  カラー モード  RGB4 チャネルチャネルあたり 8 ビット圧縮  Raw.
+title: "PsdImage.PsdImage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage コンストラクタ。指定されたパスのラスター画像（psd 画像ではない）から PsdImage クラスの新しいインスタンスを初期化します。デフォルトパラメータで psd 画像を初期化するために使用します：カラーモード rgb、4 チャンネル、チャンネルあたり 8 ビット、圧縮方式 Raw。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/psdimage/
 ---
+{{< psd/tize >}}
 ## PsdImage(string) {#constructor_6}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)ラスター画像からの指定されたパスからのクラス（パス内のpsd画像ではありません）。 psd 画像をデフォルト パラメータで初期化するために使用 - カラー モード - RGB、4 チャネル、チャネルあたり 8 ビット、圧縮 - Raw.
+指定されたパスのラスター画像（psd 画像ではない）から [`PsdImage`](../) クラスの新しいインスタンスを初期化します。デフォルトパラメータで psd 画像を初期化するために使用します - カラーモード - rgb、4 チャンネル、チャンネルあたり 8 ビット、圧縮 - Raw。
 
 ```csharp
 public PsdImage(string path)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| path | String | ピクセルとパレットのデータを読み込み、初期化するためのパス。 |
+| パス | 文字列 | ピクセルとパレットデータを読み込み、初期化するためのパスです。 |
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(string, ColorModes, short, short, int, CompressionMethod) {#constructor_7}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)ラスター イメージ (パス内の psd イメージではない) からの指定されたパスのクラスと、コンストラクター パラメーター.
+指定されたパスからラスタ画像（パス内のpsd画像ではありません）を使用し、コンストラクタ パラメータで [`PsdImage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short channels, 
     int psdVersion, CompressionMethod compression)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| path | String | ピクセルとパレットのデータを読み込み、初期化するためのパス。 |
-| colorMode | ColorModes | カラーモード。 |
-| channelBitDepth | Int16 | チャネルごとの PSD ビット深度。 |
-| channels | Int16 | PSD チャネルがカウントされます。 |
-| psdVersion | Int32 | PSD版です。 |
-| compression | CompressionMethod | 使用する圧縮。 |
+| パス | 文字列 | ピクセルとパレットデータを読み込み、初期化するためのパスです。 |
+| カラーモード | ColorModes | カラーモード。 |
+| channelBitDepth | Int16 | チャネルごとの PSD ビット深度です。 |
+| channels | Int16 | PSD のチャンネル数です。 |
+| psdVersion | Int32 | PSD バージョンです。 |
+| compression | CompressionMethod | 使用する圧縮方式です。 |
 
 ### 関連項目
 
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream) {#constructor_4}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)ラスター画像 (ストリーム内の psd 画像ではない) からの指定されたパスからのクラス。 psd 画像をデフォルト パラメータで初期化するために使用 - カラー モード - RGB、4 チャネル、チャネルあたり 8 ビット、圧縮 - Raw.
+指定されたパスからラスタ画像（ストリーム内のpsd画像ではありません）を使用し、[`PsdImage`](../) クラスの新しいインスタンスを初期化します。デフォルトパラメータで psd 画像を初期化するために使用されます - カラーモード - rgb、4 チャネル、チャネルあたり 8 ビット、圧縮 - Raw。
 
 ```csharp
 public PsdImage(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ピクセルとパレットのデータを読み込み、初期化するためのストリーム。 |
+| ストリーム | ストリーム | ピクセルとパレットデータを読み込み、初期化するためのストリームです。 |
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream, ColorModes, short, short, int, CompressionMethod) {#constructor_5}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)ラスター イメージ (ストリーム内の psd イメージではない) からの指定されたパスのクラスとコンストラクター パラメーター.
+指定されたパスからラスタ画像（ストリーム内のpsd画像ではありません）を使用し、コンストラクタ パラメータで [`PsdImage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, short channels, 
     int psdVersion, CompressionMethod compression)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ピクセルとパレットのデータを読み込み、初期化するためのストリーム。 |
-| colorMode | ColorModes | カラーモード。 |
-| channelBitDepth | Int16 | チャネルごとの PSD ビット深度。 |
-| channels | Int16 | PSD チャネルがカウントされます。 |
-| psdVersion | Int32 | PSD版です。 |
-| compression | CompressionMethod | 使用する圧縮。 |
+| ストリーム | ストリーム | ピクセルとパレットデータを読み込み、初期化するためのストリームです。 |
+| カラーモード | ColorModes | カラーモード。 |
+| channelBitDepth | Int16 | チャネルごとの PSD ビット深度です。 |
+| channels | Int16 | PSD のチャンネル数です。 |
+| psdVersion | Int32 | PSD バージョンです。 |
+| compression | CompressionMethod | 使用する圧縮方式です。 |
 
 ### 関連項目
 
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage) {#constructor}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)既存のラスター画像 (psd 画像ではない) からのクラスで、4 チャンネル、8 ビット/チャンネル、圧縮なしの RGB カラー モード.
+既存のラスタ画像（psd 画像ではありません）から、RGB カラーモード、4 チャネル、チャネルあたり 8 ビット、圧縮なしで [`PsdImage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImage(RasterImage rasterImage)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rasterImage | RasterImage | ピクセルとパレットのデータを読み込み、初期化するイメージ。 |
+| rasterImage | RasterImage | ピクセルとパレットデータを読み込み、初期化するための画像です。 |
 
 ### 関連項目
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage, ColorModes, short, short, int, CompressionMethod) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)コンストラクターパラメーターを持つ既存のラスターイメージ (psd イメージではない) からのクラス.
+既存のラスタ画像（psd 画像ではありません）から、コンストラクタ パラメータで [`PsdImage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitDepth, 
     short channels, int psdVersion, CompressionMethod compression)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rasterImage | RasterImage | ピクセルとパレットのデータを読み込み、初期化するイメージ。 |
-| colorMode | ColorModes | カラーモード。 |
-| channelBitDepth | Int16 | チャネルごとの PSD ビット深度。 |
-| channels | Int16 | PSD チャネルがカウントされます。 |
-| psdVersion | Int32 | PSD版です。 |
-| compression | CompressionMethod | 使用する圧縮。 |
+| rasterImage | RasterImage | ピクセルとパレットデータを読み込み、初期化するための画像です。 |
+| カラーモード | ColorModes | カラーモード。 |
+| channelBitDepth | Int16 | チャネルごとの PSD ビット深度です。 |
+| channels | Int16 | PSD のチャンネル数です。 |
+| psdVersion | Int32 | PSD バージョンです。 |
+| compression | CompressionMethod | 使用する圧縮方式です。 |
 
 ### 関連項目
 
@@ -147,51 +148,51 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int) {#constructor_2}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)幅と高さが指定されたクラス。空の psd イメージを初期化するために使用されます。
+指定された幅と高さで [`PsdImage`](../) クラスの新しいインスタンスを初期化します。空の psd 画像を初期化するために使用されます。
 
 ```csharp
 public PsdImage(int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像の幅。 |
-| height | Int32 | 画像の高さ。 |
+| width | Int32 | 画像の幅です。 |
+| height | Int32 | 画像の高さです。 |
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int, IColorPalette, ColorModes, short, short, int, CompressionMethod) {#constructor_3}
 
-の新しいインスタンスを初期化します[`PsdImage`](../)指定された幅、高さ、パレット、カラー モード、チャネル数、チャネル ビット長、および指定された圧縮モード パラメータを持つクラス。空の psd イメージを初期化するために使用されます。
+指定された幅、高さ、パレット、カラーモード、チャネル数、チャネルビット長、および指定された圧縮モード パラメータで [`PsdImage`](../) クラスの新しいインスタンスを初期化します。空の psd 画像を初期化するために使用されます。
 
 ```csharp
 public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes colorMode, 
     short channelBitDepth, short channels, int psdVersion, CompressionMethod compression)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Int32 | 画像の幅。 |
-| height | Int32 | 画像の高さ。 |
-| colorPalette | IColorPalette | カラーパレット。 |
-| colorMode | ColorModes | カラーモード。 |
-| channelBitDepth | Int16 | チャネルごとの PSD ビット深度。 |
-| channels | Int16 | PSD チャネルがカウントされます。 |
-| psdVersion | Int32 | PSD版です。 |
-| compression | CompressionMethod | 使用する圧縮。 |
+| width | Int32 | 画像の幅です。 |
+| height | Int32 | 画像の高さです。 |
+| colorPalette | IColorPalette | カラーパレットです。 |
+| カラーモード | ColorModes | カラーモード。 |
+| channelBitDepth | Int16 | チャネルごとの PSD ビット深度です。 |
+| channels | Int16 | PSD のチャンネル数です。 |
+| psdVersion | Int32 | PSD バージョンです。 |
+| compression | CompressionMethod | 使用する圧縮方式です。 |
 
 ### 関連項目
 
@@ -199,7 +200,7 @@ public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes co
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

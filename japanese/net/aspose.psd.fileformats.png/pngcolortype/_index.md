@@ -1,14 +1,15 @@
 ---
-title: Enum PngColorType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Png.PngColorType 列挙. PNG 画像の色の種類を表します
+title: "列挙型 PngColorType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Png.PngColorType 列挙型。PNG 画像のカラ―タイプを表します。"
 type: docs
-weight: 1580
+weight: 1590
 url: /ja/net/aspose.psd.fileformats.png/pngcolortype/
 ---
+{{< psd/tize >}}
 ## PngColorType enumeration
 
-PNG 画像の色の種類を表します。
+PNG 画像のカラ―タイプを表します。
 
 ```csharp
 public enum PngColorType
@@ -16,17 +17,17 @@ public enum PngColorType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Grayscale | `0` | 各ピクセルがグレースケール サンプルであるカラー タイプを表します。 |
-| Truecolor | `2` | 各ピクセルが R、G、B の 3 要素であるカラー タイプを表します。 |
-| IndexedColor | `3` | 各ピクセルがパレット インデックスであるカラー タイプを表します。 PLTE チャンクが表示されます。 |
-| GrayscaleWithAlpha | `4` | 各ピクセルがグレースケール サンプルであり、その後にアルファ サンプルが続くカラー タイプを表します。 |
-| TruecolorWithAlpha | `6` | 各ピクセルが R、G、B トリプルであり、その後にアルファ サンプルが続くカラー タイプを表します。 |
+| Grayscale | `0` | 各ピクセルがグレースケールサンプルであるカラ―タイプを表します。 |
+| Truecolor | `2` | 各ピクセルが R,G,B の三要素であるカラ―タイプを表します。 |
+| IndexedColor | `3` | 各ピクセルがパレットインデックスであるカラ―タイプを表します。PLTE チャンクが存在する必要があります。 |
+| GrayscaleWithAlpha | `4` | 各ピクセルがグレースケールサンプルに続いてアルファサンプルがあるカラ―タイプを表します。 |
+| TruecolorWithAlpha | `6` | 各ピクセルが R,G,B の三要素に続いてアルファサンプルがあるカラ―タイプを表します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

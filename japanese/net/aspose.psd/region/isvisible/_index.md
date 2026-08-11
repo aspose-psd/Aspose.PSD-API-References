@@ -1,406 +1,407 @@
 ---
-title: Region.IsVisible
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. 指定したポイントがこの範囲内に含まれているかどうかをテストしますRegion .
+title: "Region.IsVisible"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。指定された点がこの Region に含まれているかテストします。"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd/region/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_11}
 
-指定したポイントがこの範囲内に含まれているかどうかをテストします[`Region`](../) .
+指定された点がこの [`Region`](../) に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(float x, float y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | テストする点の x 座標。 |
-| y | Single | テストするポイントの y 座標。 |
+| x | シングル | テストする点の x 座標です。 |
+| y | シングル | テストする点の y 座標です。 |
 
 ### 戻り値
 
-指定した点がこの範囲内にある場合に真[`Region`](../);それ以外の場合は false.
+指定された点がこの [`Region`](../) に含まれている場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-指定された[`PointF`](../../pointf/)構造はこの中に含まれています[`Region`](../) .
+指定された [`PointF`](../../pointf/) 構造体がこの [`Region`](../) に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(PointF point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | PointF | の[`PointF`](../../pointf/)テストする構造。 |
+| point | PointF | テスト対象の [`PointF`](../../pointf/) 構造体。 |
 
 ### 戻り値
 
-true の場合*point*この中に含まれています[`Region`](../);それ以外の場合は false.
+*point* がこの [`Region`](../) に含まれている場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_12}
 
-指定したポイントがこの範囲内に含まれているかどうかをテストします[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された [`Graphics`](../../graphics/) を使用して描画した場合に、指定された点がこの [`Region`](../) に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | テストする点の x 座標。 |
-| y | Single | テストするポイントの y 座標。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| x | シングル | テストする点の x 座標です。 |
+| y | シングル | テストする点の y 座標です。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-指定した点がこの範囲内にある場合に真[`Region`](../);それ以外の場合は false.
+指定された点がこの [`Region`](../) に含まれている場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-指定された[`PointF`](../../pointf/)構造はこの中に含まれています[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された [`Graphics`](../../graphics/) を使用して描画した場合に、指定された [`PointF`](../../pointf/) 構造体がこの [`Region`](../) に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(PointF point, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | PointF | の[`PointF`](../../pointf/)テストする構造。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| point | PointF | テスト対象の [`PointF`](../../pointf/) 構造体。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-true の場合*point*この中に含まれています[`Region`](../);それ以外の場合は false.
+*point* がこの [`Region`](../) に含まれている場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float) {#isvisible_13}
 
-指定された長方形の一部がこの中に含まれているかどうかをテストします[`Region`](../) .
+指定された矩形の任意の部分がこの [`Region`](../) に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | テストする四角形の左上隅の x 座標。 |
-| y | Single | テストする四角形の左上隅の y 座標。 |
-| width | Single | テストする四角形の幅。 |
-| height | Single | テストする四角形の高さ。 |
+| x | シングル | テスト対象の矩形の左上隅の x 座標。 |
+| y | シングル | テスト対象の矩形の左上隅の y 座標。 |
+| width | シングル | テスト対象の矩形の幅。 |
+| height | シングル | テスト対象の矩形の高さ。 |
 
 ### 戻り値
 
-指定された長方形の一部がこの中に含まれている場合は true[`Region`](../)物体;それ以外の場合は false.
+指定された矩形の一部でもこの[`Region`](../)オブジェクトに含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF) {#isvisible_6}
 
-指定された[`RectangleF`](../../rectanglef/)構造はこの中に含まれています[`Region`](../) .
+指定された[`RectangleF`](../../rectanglef/)構造体の一部がこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | の[`RectangleF`](../../rectanglef/)テストする構造。 |
+| rect | RectangleF | テスト対象の[`RectangleF`](../../rectanglef/)構造体。 |
 
 ### 戻り値
 
-true のいずれかの部分*rect*この中に含まれています[`Region`](../);それ以外の場合は false.
+*rect* の一部でもこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float, Graphics) {#isvisible_14}
 
-指定された長方形の一部がこの中に含まれているかどうかをテストします[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された矩形の一部が、指定された[`Graphics`](../../graphics/)で描画されたときにこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Single | テストする四角形の左上隅の x 座標。 |
-| y | Single | テストする四角形の左上隅の y 座標。 |
-| width | Single | テストする四角形の幅。 |
-| height | Single | テストする四角形の高さ。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| x | シングル | テスト対象の矩形の左上隅の x 座標。 |
+| y | シングル | テスト対象の矩形の左上隅の y 座標。 |
+| width | シングル | テスト対象の矩形の幅。 |
+| height | シングル | テスト対象の矩形の高さ。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-指定された長方形の一部がこの中に含まれている場合は true[`Region`](../);それ以外の場合は false.
+指定された矩形の一部でもこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF, Graphics) {#isvisible_7}
 
-指定された[`RectangleF`](../../rectanglef/)構造はこの中に含まれています[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された[`RectangleF`](../../rectanglef/)構造体の一部が、指定された[`Graphics`](../../graphics/)で描画されたときにこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(RectangleF rect, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | の[`RectangleF`](../../rectanglef/)テストする構造。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| rect | RectangleF | テスト対象の[`RectangleF`](../../rectanglef/)構造体。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-true の場合*rect*この中に含まれています[`Region`](../);それ以外の場合は false.
+*rect* がこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_8}
 
-指定したポイントがこの範囲内に含まれているかどうかをテストします[`Region`](../)指定されたオブジェクトを使用して描画された場合[`Graphics`](../../graphics/)object.
+指定された点が、指定された[`Graphics`](../../graphics/)オブジェクトで描画されたときにこの[`Region`](../)オブジェクトに含まれているかテストします。
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Int32 | テストする点の x 座標。 |
-| y | Int32 | テストするポイントの y 座標。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| x | Int32 | テストする点の x 座標です。 |
+| y | Int32 | テストする点の y 座標です。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-指定した点がこの範囲内に含まれる場合は true[`Region`](../);それ以外の場合は false.
+指定された点がこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-指定された[`Point`](../../point/)構造はこの中に含まれています[`Region`](../) .
+指定された[`Point`](../../point/)構造体がこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(Point point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../../point/)テストする構造。 |
+| point | Point | テスト対象の[`Point`](../../point/)構造体。 |
 
 ### 戻り値
 
-true の場合*point*この中に含まれています[`Region`](../);それ以外の場合は false.
+*point* がこの [`Region`](../) に含まれている場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [Point](../../point/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-指定された[`Point`](../../point/)構造はこの中に含まれています[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された[`Point`](../../point/)構造体が、指定された[`Graphics`](../../graphics/)で描画されたときにこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(Point point, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../../point/)テストする構造。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| point | Point | テスト対象の[`Point`](../../point/)構造体。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-true の場合*point*この中に含まれています[`Region`](../);それ以外の場合は false.
+*point* がこの [`Region`](../) に含まれている場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int) {#isvisible_9}
 
-指定された長方形の一部がこの中に含まれているかどうかをテストします[`Region`](../) .
+指定された矩形の任意の部分がこの [`Region`](../) に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Int32 | テストする四角形の左上隅の x 座標。 |
-| y | Int32 | テストする四角形の左上隅の y 座標。 |
-| width | Int32 | テストする四角形の幅。 |
-| height | Int32 | テストする四角形の高さ。 |
+| x | Int32 | テスト対象の矩形の左上隅の x 座標。 |
+| y | Int32 | テスト対象の矩形の左上隅の y 座標。 |
+| width | Int32 | テスト対象の矩形の幅。 |
+| height | Int32 | テスト対象の矩形の高さ。 |
 
 ### 戻り値
 
-指定された長方形の一部がこの中に含まれている場合は true[`Region`](../);それ以外の場合は false.
+指定された矩形の一部でもこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle) {#isvisible_4}
 
-指定された[`Rectangle`](../../rectangle/)構造はこの中に含まれています[`Region`](../) .
+指定された[`Rectangle`](../../rectangle/)構造体の一部がこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../../rectangle/)テストする構造。 |
+| rect | Rectangle | テスト対象の[`Rectangle`](../../rectangle/)構造体。 |
 
 ### 戻り値
 
-このメソッドは、*rect*この中に含まれています[`Region`](../);それ以外の場合は false.
+このメソッドは、*rect* の一部でもこの[`Region`](../)に含まれる場合は true、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int, Graphics) {#isvisible_10}
 
-指定された長方形の一部がこの中に含まれているかどうかをテストします[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された矩形の一部が、指定された[`Graphics`](../../graphics/)で描画されたときにこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Int32 | テストする四角形の左上隅の x 座標。 |
-| y | Int32 | テストする四角形の左上隅の y 座標。 |
-| width | Int32 | テストする四角形の幅。 |
-| height | Int32 | テストする四角形の高さ。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| x | Int32 | テスト対象の矩形の左上隅の x 座標。 |
+| y | Int32 | テスト対象の矩形の左上隅の y 座標。 |
+| width | Int32 | テスト対象の矩形の幅。 |
+| height | Int32 | テスト対象の矩形の高さ。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-指定された長方形の一部がこの中に含まれている場合は true[`Region`](../);それ以外の場合は false.
+指定された矩形の一部でもこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle, Graphics) {#isvisible_5}
 
-指定された[`Rectangle`](../../rectangle/)構造はこの中に含まれています[`Region`](../)指定された[`Graphics`](../../graphics/) .
+指定された[`Rectangle`](../../rectangle/)構造体の一部が、指定された[`Graphics`](../../graphics/)で描画されたときにこの[`Region`](../)に含まれているかテストします。
 
 ```csharp
 public bool IsVisible(Rectangle rect, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../../rectangle/)テストする構造。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)これはグラフィック コンテキストを表します。 |
+| rect | Rectangle | テスト対象の[`Rectangle`](../../rectangle/)構造体。 |
+| g | Graphics | グラフィックス コンテキストを表す [`Graphics`](../../graphics/)。 |
 
 ### 戻り値
 
-true のいずれかの部分*rect*この中に含まれています[`Region`](../);それ以外の場合は false.
+*rect* の一部でもこの[`Region`](../)に含まれる場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

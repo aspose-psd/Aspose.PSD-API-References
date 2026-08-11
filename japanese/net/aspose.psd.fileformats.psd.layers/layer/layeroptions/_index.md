@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤ オプションを取得します
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーオプションを取得します"
 type: docs
-weight: 230
+weight: 240
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
-レイヤ オプションを取得します。
+レイヤーオプションを取得します。
 
 ```csharp
 public PsdOptions LayerOptions { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーオプション.
+レイヤーオプション。
 
 ### 関連項目
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,75 +1,76 @@
 ---
-title: Rectangle.Inflate
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. 指定されたRectangle構造コピーは指定された量だけ膨張しますオリジナルRectangle構造は変更されません.
+title: "Rectangle.Inflate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。指定された Rectangle 構造体の膨張したコピーを作成し、返します。そのコピーは指定された量だけ膨張します。元の Rectangle 構造体は変更されません。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-指定された[`Rectangle`](../)構造。コピーは、指定された量だけ膨張します。オリジナル[`Rectangle`](../)構造は変更されません.
+指定された [`Rectangle`](../) 構造体の膨張したコピーを作成し、返します。そのコピーは指定された量だけ膨張します。元の [`Rectangle`](../) 構造体は変更されません。
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../)どちらから始めますか。この長方形は変更されません。 |
-| x | Int32 | これを膨らませる量[`Rectangle`](../)水平に。 |
-| y | Int32 | これを膨らませる量[`Rectangle`](../)垂直に。 |
+| rect | Rectangle | 開始に使用する [`Rectangle`](../)。この矩形は変更されません。 |
+| x | Int32 | この [`Rectangle`](../) を水平方向に膨張させる量。 |
+| y | Int32 | この [`Rectangle`](../) を垂直方向に膨張させる量。 |
 
 ### 戻り値
 
-膨らんだ[`Rectangle`](../).
+膨張した [`Rectangle`](../)。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-これを膨らませます[`Rectangle`](../)指定された量によって.
+指定された量だけこの [`Rectangle`](../) を膨張させます。
 
 ```csharp
 public void Inflate(int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Int32 | これを膨らませる量[`Rectangle`](../)水平に。 |
-| height | Int32 | これを膨らませる量[`Rectangle`](../)垂直に。 |
+| width | Int32 | この [`Rectangle`](../) を水平方向に膨張させる量。 |
+| height | Int32 | この [`Rectangle`](../) を垂直方向に膨張させる量。 |
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-これを膨らませます[`Rectangle`](../)指定された量によって.
+指定された量だけこの [`Rectangle`](../) を膨張させます。
 
 ```csharp
 public void Inflate(Size size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size | Size | この四角形を膨らませる量。 |
+| サイズ | Size | この矩形を拡張する量。 |
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD for .NET API リファレンス
-description: ObjectArrayStructure 財産. オブジェクト配列クラス ID を取得または設定します
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ObjectArrayStructure プロパティ。オブジェクト配列クラス ID を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
 オブジェクト配列クラス ID を取得または設定します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクト配列クラス ID.
+オブジェクト配列クラス ID です。
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

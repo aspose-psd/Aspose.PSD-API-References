@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: CgEdResource 財産. バージョンを取得または設定します
+title: "CgEdResource.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CgEdResource プロパティ。バージョンを取得または設定します"
 type: docs
-weight: 110
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
 バージョンを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/versi
 public int Version { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-バージョン.
+バージョンです。
 
 ### 関連項目
 
 * class [CgEdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

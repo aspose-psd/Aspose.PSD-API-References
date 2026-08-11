@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: GdFlResource 財産. 層リソースの長さをバイト単位で取得します
+title: "GdFlResource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GdFlResource プロパティ。レイヤーリソースの長さ（バイト単位）を取得します"
 type: docs
-weight: 120
+weight: 140
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [GdFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

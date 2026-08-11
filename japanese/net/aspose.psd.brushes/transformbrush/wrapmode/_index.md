@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.WrapMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransformBrush 財産. を取得または設定しますWrapModeこのラップモードを示す列挙TransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransformBrush プロパティ。WrapMode 列挙体を取得または設定し、この TransformBrush のラップモードを示します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-を取得または設定します[`WrapMode`](../../../aspose.psd/wrapmode/)このラップモードを示す列挙[`TransformBrush`](../) .
+[`WrapMode`](../../../aspose.psd/wrapmode/) 列挙体を取得または設定し、この [`TransformBrush`](../) のラップモードを示します。
 
 ```csharp
 public WrapMode WrapMode { get; set; }
@@ -16,13 +17,13 @@ public WrapMode WrapMode { get; set; }
 
 ### 戻り値
 
-あ[`WrapMode`](../../../aspose.psd/wrapmode/)これで塗りつぶしをどのように描画するかを指定します[`TransformBrush`](../)タイル張りです。
+この [`TransformBrush`](../) で描画された塗りがどのようにタイル状になるかを指定する [`WrapMode`](../../../aspose.psd/wrapmode/) です。
 
 ### 関連項目
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../transformbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

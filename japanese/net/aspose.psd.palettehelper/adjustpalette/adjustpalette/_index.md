@@ -1,14 +1,15 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: AdjustPalette コンストラクタ. デフォルトのコンストラクター
+title: "AdjustPalette.AdjustPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AdjustPalette コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public AdjustPalette()
@@ -17,7 +18,7 @@ public AdjustPalette()
 ### 関連項目
 
 * class [AdjustPalette](../)
-* 名前空間 [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

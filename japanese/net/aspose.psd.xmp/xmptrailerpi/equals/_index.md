@@ -1,55 +1,56 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpTrailerPi 方法. 現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します.
+title: "XmpTrailerPi.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpTrailerPi メソッド。現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
-現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します.
+現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。
 
 ```csharp
 public bool Equals(XmpTrailerPi other)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| other | XmpTrailerPi | このオブジェクトと比較するオブジェクト。 |
+| other | XmpTrailerPi | このオブジェクトと比較するオブジェクトです。 |
 
 ### 戻り値
 
-現在のオブジェクトが*other*パラメータ;それ以外の場合は false.
+*other* パラメータと現在のオブジェクトが等しい場合は true、そうでなければ false。
 
 ### 関連項目
 
 * class [XmpTrailerPi](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-指定されたObject、このインスタンスと等しい.
+指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | Object | このインスタンスと比較する Object。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+`true`：指定された Object がこのインスタンスと等しい場合。そうでなければ `false`。
 
 ### 関連項目
 
 * class [XmpTrailerPi](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

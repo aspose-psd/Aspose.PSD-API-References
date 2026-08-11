@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.GetAttribute
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpElementBase 方法. 属性を取得します
+title: "XmpElementBase.GetAttribute"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpElementBase メソッド。属性を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp/xmpelementbase/getattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.GetAttribute method
 
 属性を取得します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.xmp/xmpelementbase/getattribute/
 public virtual string GetAttribute(string attribute)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| attribute | String | 属性。 |
+| 属性 | 文字列 | 属性です。 |
 
 ### 戻り値
 
@@ -25,7 +26,7 @@ public virtual string GetAttribute(string attribute)
 ### 関連項目
 
 * class [XmpElementBase](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmpelementbase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

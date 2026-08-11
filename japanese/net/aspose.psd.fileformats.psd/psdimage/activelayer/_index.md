@@ -1,35 +1,36 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. アクティブなレイヤーを取得または設定します.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。アクティブレイヤーを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
-アクティブなレイヤーを取得または設定します.
+アクティブ レイヤーを取得または設定します。
 
 ```csharp
 public Layer ActiveLayer { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-アクティブレイヤー.
+アクティブレイヤーです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | アクティブなレイヤーがなく、画像にレイヤーがありません。 |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | アクティブなレイヤーは別の画像に属しているため、設定できません。 |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 画像にアクティブレイヤーもレイヤーもありません。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | アクティブレイヤーは別の画像に属しているため設定できません。 |
 
 ### 関連項目
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

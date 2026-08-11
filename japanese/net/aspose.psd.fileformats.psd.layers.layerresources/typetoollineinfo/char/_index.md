@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolLineInfo 財産. char. を取得または設定します
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolLineInfo プロパティ。文字を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-char. を取得または設定します
+文字を取得または設定します。
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-char.
+文字です。
 
 ### 関連項目
 
 * class [TypeToolLineInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

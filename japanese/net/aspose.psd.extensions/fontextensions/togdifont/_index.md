@@ -1,58 +1,59 @@
 ---
-title: FontExtensions.ToGdiFont
-second_title: Aspose.PSD for .NET API リファレンス
-description: FontExtensions 方法. はFontにFont .
+title: "FontExtensions.ToGdiFont"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FontExtensions メソッド。Font を Font に変換します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
+{{< psd/tize >}}
 ## ToGdiFont(Font) {#togdifont}
 
-は[`Font`](../../../aspose.psd/font/)にFont .
+[`Font`](../../../aspose.psd/font/) を Font に変換します。
 
 ```csharp
 public static Font ToGdiFont(Font font)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| font | Font | の[`Font`](../../../aspose.psd/font/)変換する。 |
+| font | Font | 変換する [`Font`](../../../aspose.psd/font/) です。 |
 
 ### 戻り値
 
-変換されたFont.
+変換された Font です。
 
 ### 関連項目
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../fontextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-は[`Font`](../../../aspose.psd/font/)にFont .
+[`Font`](../../../aspose.psd/font/) を Font に変換します。
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| font | Font | の[`Font`](../../../aspose.psd/font/)変換する。 |
-| fontUnit | GraphicsUnit | 新しいグラフィックユニット |
+| font | Font | 変換する [`Font`](../../../aspose.psd/font/) です。 |
+| fontUnit | GraphicsUnit | 新しいグラフィックスユニット |
 
 ### 戻り値
 
-変換されたFont.
+変換された Font です。
 
 ### 関連項目
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../fontextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

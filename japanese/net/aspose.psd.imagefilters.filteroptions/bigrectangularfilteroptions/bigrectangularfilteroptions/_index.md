@@ -1,14 +1,15 @@
 ---
-title: BigRectangularFilterOptions.BigRectangularFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: BigRectangularFilterOptions コンストラクタ. デフォルトのコンストラクター
+title: "BigRectangularFilterOptions.BigRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BigRectangularFilterOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public BigRectangularFilterOptions()
@@ -17,7 +18,7 @@ public BigRectangularFilterOptions()
 ### 関連項目
 
 * class [BigRectangularFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../bigrectangularfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

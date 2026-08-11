@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorRasterizationOptions 財産. ボーダー X. を取得または設定します
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorRasterizationOptions プロパティ。X ボーダーを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
-ボーダー X. を取得または設定します
+境界 X を取得または設定します。
 
 ```csharp
 public float BorderX { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ボーダー X.
+X ボーダーです。
 
 ### 関連項目
 
 * class [VectorRasterizationOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. フォント タイプを取得または設定します
+title: "Font.FontType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。フォントタイプを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
-フォント タイプを取得または設定します。
+フォントタイプを取得または設定します。
 
 ```csharp
 public string FontType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォントの種類.
+フォントタイプです。
 
-### 例
+## 例
 
-TrueType、Type 1、Open Type など。
+TrueType、Type 1、Open Typeなど。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

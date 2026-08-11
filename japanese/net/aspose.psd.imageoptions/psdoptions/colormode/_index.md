@@ -1,20 +1,21 @@
 ---
-title: PsdOptions.ColorMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdOptions 財産. psd カラー モードを取得または設定します
+title: "PsdOptions.ColorMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdOptions プロパティ。psd カラーモードを取得または設定します。"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.psd.imageoptions/psdoptions/colormode/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ColorMode property
 
-psd カラー モードを取得または設定します。
+PSD のカラーモードを取得または設定します。
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 カラーモード。
 
@@ -22,7 +23,7 @@ public ColorModes ColorMode { get; set; }
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PsdOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

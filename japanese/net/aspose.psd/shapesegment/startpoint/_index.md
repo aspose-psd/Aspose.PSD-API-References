@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: ShapeSegment 財産. 始点を取得します
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ShapeSegment プロパティ。始点を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
-始点を取得します。
+開始点を取得します。
 
 ```csharp
 public abstract PointF StartPoint { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-出発点。
+開始点です。
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* 名前空間 [Aspose.PSD](../../shapesegment/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

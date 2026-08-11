@@ -1,14 +1,15 @@
 ---
-title: Class ImageCreatorsRegistry
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageCreatorsRegistry クラス. イメージ作成者レジストリを表します
+title: "クラス ImageCreatorsRegistry"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageCreatorsRegistry クラス。画像クリエイターのレジストリを表します"
 type: docs
-weight: 4620
+weight: 5090
 url: /ja/net/aspose.psd/imagecreatorsregistry/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry class
 
-イメージ作成者レジストリを表します。
+画像作成者レジストリを表します。
 
 ```csharp
 public static class ImageCreatorsRegistry
@@ -25,15 +26,15 @@ public static class ImageCreatorsRegistry
 
 | 名前 | 説明 |
 | --- | --- |
-| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | 指定に適した最初に見つかった作成者を作成します。 |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | 指定されたものに適した最初に見つかったサポートされている記述子を取得します。 |
-| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | 指定されたイメージ クリエーター記述子を登録します。 |
-| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | 作成者を登録します。 |
-| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | 作成者を登録解除します。 |
+| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | 指定された条件に適した最初に見つかったクリエイターを作成します。 |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | 指定された条件に適した最初に見つかったサポートされている記述子を取得します。 |
+| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | 指定された画像クリエイター記述子を登録します。 |
+| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | クリエイターを登録します。 |
+| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | クリエイターの登録を解除します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

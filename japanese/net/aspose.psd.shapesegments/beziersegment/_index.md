@@ -1,14 +1,15 @@
 ---
-title: Class BezierSegment
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ShapeSegments.BezierSegment クラス. ある点から次の点へ移動し2 つの制御点を使用するベジェ セグメント
+title: "クラス BezierSegment"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ShapeSegments.BezierSegment クラス。2つの制御点を使用し、ある点から次の点へと進むベジエセグメントです。"
 type: docs
-weight: 5440
+weight: 5940
 url: /ja/net/aspose.psd.shapesegments/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment class
 
-ある点から次の点へ移動し、2 つの制御点を使用するベジェ セグメント。
+2 つの制御点を使用して、ある点から次の点へ進むベジェセグメントです。
 
 ```csharp
 public sealed class BezierSegment : LineSegment
@@ -18,21 +19,21 @@ public sealed class BezierSegment : LineSegment
 
 | 名前 | 説明 |
 | --- | --- |
-| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | の新しいインスタンスを初期化します`BezierSegment`class. |
+| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | `BezierSegment` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | 終点を取得します。 |
-| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | ベジェ スプラインの最初の制御点を取得します。 |
-| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | ベジェ スプラインの 2 番目の制御点を取得します。 |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | 始点を取得します。 |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | 終了点を取得します。 |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | ベジエスプラインの最初の制御点を取得します。 |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | ベジエスプラインの2番目の制御点を取得します。 |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | 開始点を取得します。 |
 
 ### 関連項目
 
 * class [LineSegment](../linesegment/)
-* 名前空間 [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

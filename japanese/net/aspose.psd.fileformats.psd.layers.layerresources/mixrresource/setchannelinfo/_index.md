@@ -1,34 +1,35 @@
 ---
-title: MixrResource.SetChannelInfo
-second_title: Aspose.PSD for .NET API リファレンス
-description: MixrResource 方法. チャネル情報を設定します
+title: "MixrResource.SetChannelInfo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MixrResource メソッド。チャンネル情報を設定します"
 type: docs
-weight: 80
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.SetChannelInfo method
 
-チャネル情報を設定します。
+チャンネル情報を設定します。
 
 ```csharp
 public void SetChannelInfo(int channelIndex, byte[] value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| channelIndex | Int32 | チャネルのインデックス。 |
-| value | Byte[] | 値。 |
+| channelIndex | Int32 | チャネルのインデックスです。 |
+| 値 | Byte[] | 値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | Mixr リソースには 4 つ以下のチャネルがあります。最初のチャネルのインデックスは 0 です |
+| ArgumentException | Mixr リソースは最大 4 チャンネルです。最初のチャンネルのインデックスは 0 です |
 
 ### 関連項目
 
 * class [MixrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

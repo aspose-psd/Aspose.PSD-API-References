@@ -1,11 +1,12 @@
 ---
-title: IOrderedShape.Reverse
-second_title: Aspose.PSD for .NET API リファレンス
-description: IOrderedShape 方法. このシェイプのポイントの順序を逆にします
+title: "IOrderedShape.Reverse"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IOrderedShape メソッド。このシェイプのポイント順序を逆にします。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/iorderedshape/reverse/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.Reverse method
 
 このシェイプのポイントの順序を逆にします。
@@ -17,7 +18,7 @@ public void Reverse()
 ### 関連項目
 
 * interface [IOrderedShape](../)
-* 名前空間 [Aspose.PSD](../../iorderedshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Aspose.PSD for .NET API リファレンス
-description: OuterGlowEffect 財産. 度単位の角度を取得または設定します.
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OuterGlowEffect プロパティ。角度（度）を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
-度単位の角度を取得または設定します.
+角度（度）を取得または設定します。
 
 ```csharp
 public int Intensity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-角度.
+角度です。
 
-### 例
+## 例
 
-次のコードは、OuterGlowEffect のサポートを示しています。
+以下のコードは、OuterGlowEffect のサポートを示しています。
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### 関連項目
 
 * class [OuterGlowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

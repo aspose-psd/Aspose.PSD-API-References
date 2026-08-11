@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelAspectRatioResource 財産. アスペクト比を取得または設定します
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelAspectRatioResource プロパティ。アスペクト比を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
 アスペクト比を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspec
 public double AspectRatio { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-縦横比.
+アスペクト比です。
 
 ### 関連項目
 
 * class [PixelAspectRatioResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

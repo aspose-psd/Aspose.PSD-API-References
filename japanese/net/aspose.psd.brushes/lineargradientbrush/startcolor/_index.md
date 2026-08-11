@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinearGradientBrush 財産. グラデーションの開始色を取得または設定します
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinearGradientBrush プロパティ。開始グラデーション色を取得または設定します。"
 type: docs
-weight: 40
+weight: 60
 url: /ja/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-グラデーションの開始色を取得または設定します。
+開始グラデーション色を取得または設定します。
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-グラデーションの開始色。
+開始グラデーション色です。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

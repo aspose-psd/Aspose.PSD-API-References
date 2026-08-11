@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalAngleResource 財産. グローバル角度を取得または設定します
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalAngleResource プロパティ。グローバル角度を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
 グローバル角度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangl
 public int GlobalAngle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-グローバル角度.
+グローバル角度です。
 
 ### 関連項目
 
 * class [GlobalAngleResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

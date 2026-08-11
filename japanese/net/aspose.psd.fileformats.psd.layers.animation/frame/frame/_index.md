@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Aspose.PSD for .NET API リファレンス
-description: Frame コンストラクタ. の新しいインスタンスを初期化しますFrameclass.
+title: "Frame.Frame"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Frame コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-の新しいインスタンスを初期化します[`Frame`](../)class.
+デフォルトコンストラクタです。
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
-
-| パラメータ | タイプ | 説明 |
-| --- | --- | --- |
-| timeLine | TimeLine | タイムライン オブジェクト。 |
 
 ### 関連項目
 
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

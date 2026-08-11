@@ -1,14 +1,15 @@
 ---
-title: CaptionDigestResource.CaptionDigestResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: CaptionDigestResource コンストラクタ. デフォルトのコンストラクター
+title: "CaptionDigestResource.CaptionDigestResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CaptionDigestResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiondigestresource/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public CaptionDigestResource()
@@ -17,7 +18,7 @@ public CaptionDigestResource()
 ### 関連項目
 
 * class [CaptionDigestResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

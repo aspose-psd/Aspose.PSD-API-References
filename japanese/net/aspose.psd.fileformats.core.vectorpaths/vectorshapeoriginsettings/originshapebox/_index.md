@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginShapeBox
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeOriginSettings 財産. 元の形状の境界ボックスを取得または設定します
+title: "VectorShapeOriginSettings.OriginShapeBox"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeOriginSettings プロパティ。元の形状のバウンディングボックスを取得または設定します"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginShapeBox property
 
-元の形状の境界ボックスを取得または設定します。
+origin shape bounding box を取得または設定します。
 
 ```csharp
 public VectorShapeBoundingBox OriginShapeBox { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-元の形状ボックス.
+元の形状ボックスです。
 
 ### 関連項目
 
 * class [VectorShapeBoundingBox](../../vectorshapeboundingbox/)
 * class [VectorShapeOriginSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

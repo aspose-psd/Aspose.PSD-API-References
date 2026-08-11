@@ -1,14 +1,15 @@
 ---
-title: ResolutionInfoResource.ResolutionInfoResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResolutionInfoResource コンストラクタ. デフォルトのコンストラクター
+title: "ResolutionInfoResource.ResolutionInfoResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResolutionInfoResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/resolutioninforesource/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ResolutionInfoResource()
@@ -17,7 +18,7 @@ public ResolutionInfoResource()
 ### 関連項目
 
 * class [ResolutionInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

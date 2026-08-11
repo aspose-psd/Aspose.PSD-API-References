@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 財産. を取得または設定しますFillModeこの内の形状の内部をどのように決定するかを決定する列挙GraphicsPath満たされています.
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath プロパティ。この GraphicsPath の形状の内部がどのように塗りつぶされるかを決定する FillMode 列挙体を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-を取得または設定します[`FillMode`](../../fillmode/)この内の形状の内部をどのように決定するかを決定する列挙[`GraphicsPath`](../)満たされています.
+取得または設定する [`FillMode`](../../fillmode/) 列挙体で、この [`GraphicsPath`](../) の形状の内部の塗りつぶし方法を決定します。
 
 ```csharp
 public FillMode FillMode { get; set; }
@@ -16,17 +17,17 @@ public FillMode FillMode { get; set; }
 
 ### 戻り値
 
-A[`FillMode`](../../fillmode/)この内の形状の内部をどのように指定するかを指定する列挙[`GraphicsPath`](../)満たされています.
+この [`GraphicsPath`](../) の形状の内部がどのように塗りつぶされるかを指定する [`FillMode`](../../fillmode/) 列挙体。
 
-### プロパティ値
+### Property Value
 
-塗りつぶしモード。
+塗りつぶしモードです。
 
 ### 関連項目
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

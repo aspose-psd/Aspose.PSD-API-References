@@ -1,27 +1,28 @@
 ---
-title: AliasStructure.DataLength
-second_title: Aspose.PSD for .NET API リファレンス
-description: AliasStructure 財産. 正確なデータ長をバイト単位で取得します
+title: "AliasStructure.DataLength"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AliasStructure プロパティ。正確なデータ長さ（バイト単位）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/
 ---
+{{< psd/tize >}}
 ## AliasStructure.DataLength property
 
-正確なデータ長をバイト単位で取得します。
+バイト単位で正確なデータ長さを取得します。
 
 ```csharp
 public int DataLength { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-バイト単位のデータ長.
+データ長さ（バイト単位）です。
 
 ### 関連項目
 
 * class [AliasStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

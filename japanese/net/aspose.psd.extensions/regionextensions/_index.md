@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.RegionExtensions クラス. の拡張メソッドが含まれていますRegionclass.
+title: "RegionExtensions クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.RegionExtensions クラス。Region クラスの拡張メソッドを含みます"
 type: docs
-weight: 1170
+weight: 1180
 url: /ja/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-の拡張メソッドが含まれています[`Region`](../../aspose.psd/region/)class.
+[`Region`](../../aspose.psd/region/) クラスの拡張メソッドを含みます。
 
 ```csharp
 public static class RegionExtensions
@@ -18,11 +19,11 @@ public static class RegionExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | は[`Region`](../../aspose.psd/region/)にRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | [`Region`](../../aspose.psd/region/) を Region に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

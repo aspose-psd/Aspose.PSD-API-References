@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IRasterImagePixelLoader インターフェース. ラスター イメージ ピクセル ローダー
+title: "インターフェイス IRasterImagePixelLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IRasterImagePixelLoader インターフェイス。ラスタ画像ピクセルローダー"
 type: docs
-weight: 4570
+weight: 5040
 url: /ja/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
-ラスター イメージ ピクセル ローダー。
+ラスタ画像ピクセルローダー。
 
 ```csharp
 public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
@@ -18,12 +19,12 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | ピクセルを部分的に (ブロック単位で) 読み込みます。 |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | ピクセルを部分的に（ブロック単位で）ロードします。 |
 
 ### 関連項目
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

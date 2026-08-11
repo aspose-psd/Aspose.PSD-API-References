@@ -1,14 +1,15 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType 列挙. 色の種類.
+title: "列挙型 ColorType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType 列挙型。色のタイプを表します。"
 type: docs
-weight: 6000
+weight: 6500
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
-色の種類.
+色のタイプです。
 
 ```csharp
 public enum ColorType
@@ -16,14 +17,14 @@ public enum ColorType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Process | `1` | プロセスカラータイプ. |
-| Spot | `2` | 特色タイプ. |
+| Process | `1` | プロセスカラータイプ。 |
+| Spot | `2` | スポットカラータイプ。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

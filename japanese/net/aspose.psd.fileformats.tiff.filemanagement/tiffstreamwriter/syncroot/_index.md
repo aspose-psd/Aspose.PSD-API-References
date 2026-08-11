@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.SyncRoot
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamWriter 財産. 同期されたリソースへのアクセスを同期するために使用できるオブジェクトを取得します
+title: "TiffStreamWriter.SyncRoot"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamWriter プロパティ。同期されたリソースへのアクセスを同期させるために使用できるオブジェクトを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.SyncRoot property
 
-同期されたリソースへのアクセスを同期するために使用できるオブジェクトを取得します。
+同期されたリソースへのアクセスを同期させるために使用できるオブジェクトを取得します。
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-同期リソースへのアクセスを同期するために使用できるオブジェクト。
+同期されたリソースへのアクセスを同期させるために使用できるオブジェクトです。
 
 ### 関連項目
 
 * class [TiffStreamWriter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

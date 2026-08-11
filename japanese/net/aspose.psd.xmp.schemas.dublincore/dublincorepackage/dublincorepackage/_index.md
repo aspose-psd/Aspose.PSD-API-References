@@ -1,14 +1,15 @@
 ---
-title: DublinCorePackage.DublinCorePackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: DublinCorePackage コンストラクタ. デフォルトのコンストラクター
+title: "DublinCorePackage.DublinCorePackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DublinCorePackage コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public DublinCorePackage()
@@ -17,7 +18,7 @@ public DublinCorePackage()
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

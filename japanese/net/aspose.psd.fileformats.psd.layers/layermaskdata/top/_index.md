@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Top
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskData 財産. 最上層のマスク位置を取得または設定します
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskData プロパティ。上部レイヤーマスクの位置を取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
-最上層のマスク位置を取得または設定します。
+上部レイヤーマスクの位置を取得または設定します。
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-最上層のマスク位置.
+上部レイヤーマスクの位置です。
 
 ### 関連項目
 
 * class [LayerMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

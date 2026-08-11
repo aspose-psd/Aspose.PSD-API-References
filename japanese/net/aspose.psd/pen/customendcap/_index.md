@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. これで描画された線の最後に使用するカスタム キャップを取得または設定しますPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen で描画された線の終端に使用するカスタムキャップを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-これで描画された線の最後に使用するカスタム キャップを取得または設定します[`Pen`](../) .
+この [`Pen`](../) で描画された線の終端に使用するカスタムキャップを取得または設定します。
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`CustomLineCap`](../../customlinecap/)これは、これで描かれた線の終わりに使用されるキャップを表します[`Pen`](../).
+この [`Pen`](../) で描画された線の終端に使用されるキャップを表す [`CustomLineCap`](../../customlinecap/) です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`CustomEndCap`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `CustomEndCap` プロパティは、[`Pen`](../) のような不変のペンに設定されます。たとえば、[`Pen`](../) クラスが返すものです。 |
 
 ### 関連項目
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

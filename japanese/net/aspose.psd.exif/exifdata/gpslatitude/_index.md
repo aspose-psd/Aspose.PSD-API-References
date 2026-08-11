@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSLatitude
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 緯度を取得または設定します
+title: "ExifData.GPSLatitude"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 緯度を取得または設定します"
 type: docs
 weight: 520
 url: /ja/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
 GPS 緯度を取得または設定します。
@@ -14,15 +15,15 @@ GPS 緯度を取得または設定します。
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GPS 緯度.
+GPS 緯度です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

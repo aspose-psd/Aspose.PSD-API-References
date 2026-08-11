@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: Aspose.PSD for .NET API リファレンス
-description: PointExtensions 方法. はPointへの配列PointF配列.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PointExtensions メソッド。Point 配列を PointF 配列に変換します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-は[`Point`](../../../aspose.psd/point/)への配列[`PointF`](../../../aspose.psd/pointf/)配列.
+[`Point`](../../../aspose.psd/point/) 配列を [`PointF`](../../../aspose.psd/pointf/) 配列に変換します。
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| points | Point[] | の[`Point`](../../../aspose.psd/point/)変換する配列。 |
+| points | Point[] | [`Point`](../../../aspose.psd/point/) 配列を変換します。 |
 
 ### 戻り値
 
-変換された[`PointF`](../../../aspose.psd/pointf/)配列。
+変換された [`PointF`](../../../aspose.psd/pointf/) 配列。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../pointextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

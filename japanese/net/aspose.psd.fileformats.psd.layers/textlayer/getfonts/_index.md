@@ -1,14 +1,15 @@
 ---
-title: TextLayer.GetFonts
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextLayer 方法. テキストレイヤーのフォントセットを取得します.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextLayer メソッド。テキストレイヤーのフォントセットを取得します"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-テキストレイヤーのフォントセットを取得します.
+テキストレイヤーのフォントセットを取得します。
 
 ```csharp
 public TextFontInfo[] GetFonts()
@@ -16,11 +17,11 @@ public TextFontInfo[] GetFonts()
 
 ### 戻り値
 
-テキストレイヤーのフォントセット。
+テキストレイヤーのフォントセットです。
 
-### 例
+## 例
 
-次のコードは、Aspose.PSD がテキスト レイヤーのインライン フォーマットのプロパティを取得する方法を示しています。
+以下のコードは、Aspose.PSD がテキストレイヤーのインライン書式設定のプロパティを取得する方法を示しています。
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

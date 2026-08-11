@@ -1,44 +1,45 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerGroup 方法. 画層グループを追加します
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerGroup メソッド。レイヤー グループを追加します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
-画層グループを追加します。
+レイヤー グループを追加します。
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| groupName | String | グループの名前。 |
-| index | Int32 | 後に挿入するレイヤーのインデックス。 |
+| groupName | 文字列 | グループの名前です。 |
+| インデックス | Int32 | 挿入後のレイヤーのインデックスです。 |
 
 ### 戻り値
 
 グループレイヤーを開く
 
-### 例
+## 例
 
-次の例は、LayerGroup を別の LayerGroup に追加する方法を示しています。
+次の例は、LayerGroup を別の LayerGroup に追加する方法を示しています
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// レイヤ階層を次のように作成します:
+// 以下のようにレイヤー階層を作成します：
 // -グループ 1
-// -- レイヤー 1
-// -- グループ 2
-// --- レイヤー 2
-// --- レイヤ 3
-// -- レイヤ 4
+// --レイヤー 1
+// --グループ 2
+// ---レイヤー 2
+// ---レイヤー 3
+// --レイヤー 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 ### 関連項目
 
 * class [LayerGroup](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

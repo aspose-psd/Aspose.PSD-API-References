@@ -1,14 +1,15 @@
 ---
-title: QuickMaskInformationResource.QuickMaskInformationResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: QuickMaskInformationResource コンストラクタ. デフォルトのコンストラクター
+title: "QuickMaskInformationResource.QuickMaskInformationResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "QuickMaskInformationResource コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/quickmaskinformationresource/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public QuickMaskInformationResource()
@@ -17,7 +18,7 @@ public QuickMaskInformationResource()
 ### 関連項目
 
 * class [QuickMaskInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

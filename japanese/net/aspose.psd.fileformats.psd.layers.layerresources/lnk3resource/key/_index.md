@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD for .NET API リファレンス
-description: Lnk3Resource 財産. レイヤ リソース キーを取得します
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Lnk3Resource プロパティ。レイヤーリソースキーを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
-レイヤ リソース キーを取得します。
+レイヤーリソースキーを取得します。
 
 ```csharp
 public override int Key { get; }
 ```
 
-### 例
+## 例
 
-この例では、Lnk2Resource および Lnk3Resource のプロパティを取得および設定する方法を示します。
+この例は Lnk2Resource と Lnk3Resource のプロパティを取得および設定する方法を示しています。
 
 ```csharp
 [C#]
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// PSD ファイル内のスマート オブジェクトのデータをファイルに保存します。
+// PSD ファイル内のスマートオブジェクトのデータをファイルに保存します。
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// スマート オブジェクトの新しいデータを PSD ファイルにロードします。
+// PSD ファイル内のスマートオブジェクトの新しいデータをロードします。
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// PSD Lnk2 / Lnk3 リソースのプロパティと、PSD 画像内のその liFD データ ソースのプロパティを取得および設定します
+// PSD 画像内の PSD Lnk2 / Lnk3 リソースとその liFD データソースのプロパティを取得および設定します。
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // チャンネルあたり 32 ビットの保存はまだサポートされていません
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// この例では、チャンネルあたり 8 ビットの PSD Lnk2 リソースとその liFD データ ソースのプロパティを取得および設定する方法を示します。
+// この例は 8 ビット/チャンネル用の PSD Lnk2 リソースとその liFD データソースのプロパティを取得および設定する方法を示しています。
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// この例では、チャンネルごとに 32 ビットの PSD Lnk3 リソースとその liFD データ ソースのプロパティを取得および設定する方法を示します。
+// この例は 32 ビット/チャンネル用の PSD Lnk3 リソースとその liFD データソースのプロパティを取得および設定する方法を示しています。
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// この例では、チャンネルごとに 16 ビットの PSD Lnk2 リソースとその liFD データ ソースのプロパティを取得および設定する方法を示します。
+// この例は 16 ビット/チャンネル用の PSD Lnk2 リソースとその liFD データソースのプロパティを取得および設定する方法を示しています。
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
 ### 関連項目
 
 * class [Lnk3Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

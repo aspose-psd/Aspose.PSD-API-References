@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはレイヤーに含まれる PSD ファイル形式のエンティティが含まれます
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間にはレイヤーに含まれる PSD ファイル形式エンティティが含まれています"
 type: docs
-weight: 320
+weight: 340
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
-名前空間には、レイヤーに含まれる PSD ファイル形式のエンティティが含まれます。
+{{< psd/tize >}}
+この名前空間にはレイヤーに含まれる PSD ファイル形式のエンティティが含まれています。
 
-## インターフェース
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [ISmartFilterRenderer](./ismartfilterrenderer/) | 特定のスマート フィルター レンダラーのインターフェイス。 |
+| [ISmartFilterRenderer](./ismartfilterrenderer/) | 特定のスマートフィルターレンダラー用インターフェイスです。 |
 
 

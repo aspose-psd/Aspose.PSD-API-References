@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.BackgroundColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorRasterizationOptions 財産. 背景色を取得または設定します
+title: "VectorRasterizationOptions.BackgroundColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorRasterizationOptions プロパティ。背景色を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BackgroundColor property
 
 背景色を取得または設定します。
@@ -18,7 +19,7 @@ public Color BackgroundColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

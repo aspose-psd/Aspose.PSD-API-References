@@ -1,11 +1,12 @@
 ---
-title: GaussWienerFilterOptions.Radius
-second_title: Aspose.PSD for .NET API リファレンス
-description: GaussWienerFilterOptions 財産. 半径を取得または設定します
+title: "GaussWienerFilterOptions.Radius"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GaussWienerFilterOptions プロパティ。半径を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Radius property
 
 半径を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radi
 public int Radius { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-半径.
+半径です。
 
 ### 関連項目
 
 * class [GaussWienerFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

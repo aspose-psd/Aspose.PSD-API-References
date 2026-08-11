@@ -1,20 +1,21 @@
 ---
-title: UnitStructure.UnitStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnitStructure コンストラクタ. の新しいインスタンスを初期化しますUnitStructureclass.
+title: "UnitStructure.UnitStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnitStructure コンストラクタ。UnitStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure constructor
 
-の新しいインスタンスを初期化します[`UnitStructure`](../)class.
+[`UnitStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public UnitStructure(ClassID keyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
 
@@ -22,7 +23,7 @@ public UnitStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnitStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

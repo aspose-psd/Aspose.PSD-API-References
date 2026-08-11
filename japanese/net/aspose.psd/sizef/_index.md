@@ -1,14 +1,15 @@
 ---
-title: Struct SizeF
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.SizeF 構造体. 浮動小数点数の順序付けられたペア 通常は四角形の幅と高さ を格納します
+title: "構造体 SizeF"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.SizeF 構造体。通常は矩形の幅と高さである浮動小数点数の順序付きペアを格納します。"
 type: docs
-weight: 5560
+weight: 6060
 url: /ja/net/aspose.psd/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF structure
 
-浮動小数点数の順序付けられたペア (通常は四角形の幅と高さ) を格納します。
+通常は矩形の幅と高さとなる、順序付けられた浮動小数点数のペアを格納します。
 
 ```csharp
 public struct SizeF
@@ -18,39 +19,39 @@ public struct SizeF
 
 | 名前 | 説明 |
 | --- | --- |
-| [SizeF](sizef/#constructor)(PointF) | の新しいインスタンスを初期化します`SizeF`指定された構造[`PointF`](../pointf/) . |
-| [SizeF](sizef/#constructor_1)(SizeF) | の新しいインスタンスを初期化します`SizeF`指定された構造`SizeF` . |
-| [SizeF](sizef/#constructor_2)(float, float) | の新しいインスタンスを初期化します`SizeF`指定された次元からの構造. |
+| [SizeF](sizef/#constructor)(PointF) | 指定された [`PointF`](../pointf/) から `SizeF` 構造体の新しいインスタンスを初期化します。 |
+| [SizeF](sizef/#constructor_1)(SizeF) | 指定された `SizeF` から `SizeF` 構造体の新しいインスタンスを初期化します。 |
+| [SizeF](sizef/#constructor_2)(float, float) | 指定された寸法から `SizeF` 構造体の新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| static [Empty](../../aspose.psd/sizef/empty/) { get; } | の新しいインスタンスを取得します`SizeF`持つ構造[`Width`](./width/)と[`Height`](./height/)ゼロに設定された値. |
-| [Height](../../aspose.psd/sizef/height/) { get; set; } | この垂直コンポーネントを取得または設定します`SizeF` . |
-| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | かどうかを示す値を取得します。`SizeF`幅と高さがゼロです。 |
-| [Width](../../aspose.psd/sizef/width/) { get; set; } | この水平成分を取得または設定します`SizeF` . |
+| static [Empty](../../aspose.psd/sizef/empty/) { get; } | `SizeF` 構造体の新しいインスタンスを取得します。そのインスタンスは [`Width`](./width/) と [`Height`](./height/) の値がゼロに設定されています。 |
+| [Height](../../aspose.psd/sizef/height/) { get; set; } | この `SizeF` の垂直成分を取得または設定します。 |
+| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | この `SizeF` の幅と高さがゼロかどうかを示す値を取得します。 |
+| [Width](../../aspose.psd/sizef/width/) { get; set; } | この `SizeF` の水平成分を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | 1 の幅と高さを加算します`SizeF`別の幅と高さの構造`SizeF`構造体. |
-| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | 幅と高さを 1 減算します`SizeF`別の幅と高さからの構造`SizeF`構造体. |
-| override [Equals](../../aspose.psd/sizef/equals/)(object) | 指定されたオブジェクトが`SizeF`これと同じ寸法で`SizeF` . |
-| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | このハッシュコードを返します[`Size`](../size/)構造体. |
-| [ToPointF](../../aspose.psd/sizef/topointf/)() | を変換します`SizeF`に[`PointF`](../pointf/) . |
-| [ToSize](../../aspose.psd/sizef/tosize/)() | を変換します`SizeF`に[`Size`](../size/)サイズ値が切り捨てられた構造体. |
-| override [ToString](../../aspose.psd/sizef/tostring/)() | これを表す人間が読める文字列を作成します`SizeF` . |
-| [operator +](../../aspose.psd/sizef/op_addition/) | 1 の幅と高さを加算します`SizeF`別の幅と高さの構造`SizeF`構造体. |
-| [operator ==](../../aspose.psd/sizef/op_equality/) | 2 つの`SizeF`構造は等しい. |
-| [explicit operator](../../aspose.psd/sizef/op_explicit/) | 指定された`SizeF`に[`PointF`](../pointf/) . |
-| [operator !=](../../aspose.psd/sizef/op_inequality/) | 2 つの`SizeF`構造が異なります. |
-| [operator -](../../aspose.psd/sizef/op_subtraction/) | 幅と高さを 1 減算します`SizeF`別の幅と高さからの構造`SizeF`構造体. |
+| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | ある `SizeF` 構造体の幅と高さを別の `SizeF` 構造体の幅と高さに加算します。 |
+| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | ある `SizeF` 構造体の幅と高さを別の `SizeF` 構造体の幅と高さから減算します。 |
+| override [Equals](../../aspose.psd/sizef/equals/)(object) | 指定されたオブジェクトがこの `SizeF` と同じ寸法の `SizeF` かどうかをテストします。 |
+| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | この [`Size`](../size/) 構造体のハッシュコードを返します。 |
+| [ToPointF](../../aspose.psd/sizef/topointf/)() | `SizeF` を [`PointF`](../pointf/) に変換します。 |
+| [ToSize](../../aspose.psd/sizef/tosize/)() | `SizeF` を切り捨てたサイズ値を持つ [`Size`](../size/) 構造体に変換します。 |
+| override [ToString](../../aspose.psd/sizef/tostring/)() | この `SizeF` を表す人間が読みやすい文字列を作成します。 |
+| [operator +](../../aspose.psd/sizef/op_addition/) | ある `SizeF` 構造体の幅と高さを別の `SizeF` 構造体の幅と高さに加算します。 |
+| [operator ==](../../aspose.psd/sizef/op_equality/) | 2 つの `SizeF` 構造体が等しいかどうかをテストします。 |
+| [explicit operator](../../aspose.psd/sizef/op_explicit/) | 指定された `SizeF` を [`PointF`](../pointf/) に変換します。 |
+| [operator !=](../../aspose.psd/sizef/op_inequality/) | 2 つの `SizeF` 構造体が異なるかどうかをテストします。 |
+| [operator -](../../aspose.psd/sizef/op_subtraction/) | ある `SizeF` 構造体の幅と高さを別の `SizeF` 構造体の幅と高さから減算します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

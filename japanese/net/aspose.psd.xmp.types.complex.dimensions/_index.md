@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Dimensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間には描画されたオブジェクトの寸法を含む構造を表すクラスが含まれています.
+title: "Aspose.PSD.Xmp.Types.Complex.Dimensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "名前空間には、描画オブジェクトの寸法を含む構造を表すクラスが含まれています。"
 type: docs
-weight: 640
+weight: 680
 url: /ja/net/aspose.psd.xmp.types.complex.dimensions/
 ---
-名前空間には、描画されたオブジェクトの寸法を含む構造を表すクラスが含まれています.
+{{< psd/tize >}}
+名前空間には、描画オブジェクトの寸法を含む構造を表すクラスが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [Dimensions](./dimensions/) | 描画オブジェクトの寸法を含む. |
+| [Dimensions](./dimensions/) | 描画オブジェクトの寸法を含みます。 |
 
 

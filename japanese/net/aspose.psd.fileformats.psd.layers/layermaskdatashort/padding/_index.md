@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskDataShort 財産. レイヤー マスクのパディングを取得または設定します
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskDataShort プロパティ。レイヤーマスクのパディングを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-レイヤー マスクのパディングを取得または設定します。
+レイヤーマスクのパディングを取得または設定します。
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーマスクのパディング.
+レイヤーマスクのパディングです。
 
 ### 関連項目
 
 * class [LayerMaskDataShort](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

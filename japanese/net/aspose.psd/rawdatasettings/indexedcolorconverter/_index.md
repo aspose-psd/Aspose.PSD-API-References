@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.IndexedColorConverter
-second_title: Aspose.PSD for .NET API リファレンス
-description: RawDataSettings 財産. インデックス付きカラー コンバーターを取得または設定します
+title: "RawDataSettings.IndexedColorConverter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RawDataSettings プロパティ。インデックスカラーコンバータを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/rawdatasettings/indexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.IndexedColorConverter property
 
-インデックス付きカラー コンバーターを取得または設定します
+インデックスカラーコンバータを取得または設定します
 
 ```csharp
 public IIndexedColorConverter IndexedColorConverter { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-インデックス付きカラー コンバーター
+インデックスカラーコンバータ
 
 ### 関連項目
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* 名前空間 [Aspose.PSD](../../rawdatasettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

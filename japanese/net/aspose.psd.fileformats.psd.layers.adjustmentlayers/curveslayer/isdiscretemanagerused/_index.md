@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsDiscreteManagerUsed
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvesLayer 財産. このインスタンスがディスクリート マネージャで使用されているかどうかを示す値を取得または設定します
+title: "CurvesLayer.IsDiscreteManagerUsed"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvesLayer プロパティ。このインスタンスが離散マネージャーを使用しているかどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/isdiscretemanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsDiscreteManagerUsed property
 
-このインスタンスがディスクリート マネージャで使用されているかどうかを示す値を取得または設定します。
+このインスタンスが離散マネージャーとして使用されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsDiscreteManagerUsed { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが使用されている個別のマネージャーである場合。さもないと、`間違い` .
+`true` はこのインスタンスが離散マネージャーを使用している場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [CurvesLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

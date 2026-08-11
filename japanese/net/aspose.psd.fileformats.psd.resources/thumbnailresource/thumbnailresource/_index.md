@@ -1,14 +1,15 @@
 ---
-title: ThumbnailResource.ThumbnailResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource コンストラクタ. デフォルトのコンストラクター
+title: "ThumbnailResource.ThumbnailResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailresource/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ThumbnailResource()
@@ -17,7 +18,7 @@ public ThumbnailResource()
 ### 関連項目
 
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorPaletteHelper 方法. 指定されたパレットに透明色があるかどうかを判断します
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorPaletteHelper メソッド。指定されたパレットに透過色があるかどうかを判定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
-指定されたパレットに透明色があるかどうかを判断します。
+指定されたパレットに透明色が含まれているかどうかを判定します。
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| palette | IColorPalette | パレット。 |
+| パレット | IColorPalette | パレットです。 |
 
 ### 戻り値
 
-`真実`指定されたパレットに透明色がある場合。さもないと、`間違い` .
+`true` は指定されたパレットに透過色がある場合、そうでなければ `false`。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *palette*無効である。 |
+| ArgumentNullException | *palette* が null です。 |
 
 ### 関連項目
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* 名前空間 [Aspose.PSD](../../colorpalettehelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

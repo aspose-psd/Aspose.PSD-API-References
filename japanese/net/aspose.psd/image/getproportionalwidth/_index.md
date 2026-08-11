@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. プロポーショナル幅を取得します
+title: "Image.GetProportionalWidth"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。比例幅を取得します。"
 type: docs
-weight: 290
+weight: 300
 url: /ja/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
-プロポーショナル幅を取得します。
+比例幅を取得します。
 
 ```csharp
 public static int GetProportionalWidth(int width, int height, int newHeight)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Int32 | 幅。 |
-| height | Int32 | 高さ。 |
-| newHeight | Int32 | 新しい高さ。 |
+| width | Int32 | 幅です。 |
+| height | Int32 | 高さです。 |
+| newHeight | Int32 | 新しい高さです。 |
 
 ### 戻り値
 
-プロポーショナル幅。
+比例幅です。
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleF 財産. このサイズを取得または設定しますRectangleF .
+title: "RectangleF.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleF プロパティ。この RectangleF のサイズを取得または設定します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/rectanglef/size/
 ---
+{{< psd/tize >}}
 ## RectangleF.Size property
 
-このサイズを取得または設定します[`RectangleF`](../) .
+この [`RectangleF`](../) のサイズを取得または設定します。
 
 ```csharp
 public SizeF Size { get; set; }
@@ -16,13 +17,13 @@ public SizeF Size { get; set; }
 
 ### 戻り値
 
-あ[`SizeF`](../../sizef/)この幅と高さを表す[`RectangleF`](../)構造。
+この [`RectangleF`](../) 構造体の幅と高さを表す [`SizeF`](../../sizef/) です。
 
 ### 関連項目
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

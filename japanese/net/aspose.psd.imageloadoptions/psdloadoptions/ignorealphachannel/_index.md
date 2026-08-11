@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreAlphaChannel
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdLoadOptions 財産. アルファ チャネルを無視するかどうかを示す値を取得または設定します
+title: "PsdLoadOptions.IgnoreAlphaChannel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdLoadOptions プロパティ。アルファチャンネルを無視するかどうかを示す値を取得または設定します。"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-[アルファ チャネルを無視する]かどうかを示す値を取得または設定します。
+取得または設定するのは、[alpha チャネルを無視する]かどうかを示す値です。
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` if [アルファチャンネルを無視];さもないと、`間違い` .
+`true` は [ignore alpha channel] の場合; それ以外は `false`。
 
 ### 関連項目
 
 * class [PsdLoadOptions](../)
-* 名前空間 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

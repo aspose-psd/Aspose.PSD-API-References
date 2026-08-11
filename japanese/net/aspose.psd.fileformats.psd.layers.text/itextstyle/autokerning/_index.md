@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. 自動カーニングを取得または設定します
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。自動カーニングを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
 自動カーニングを取得または設定します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-2 つの文字間の自動カーニング。
+2 文字間の自動カーニングです。
 
-### 例
+## 例
 
-次のコードは、新しい ITextStyle プロパティのサポートのサポートを示しています。
+次のコードは、新しい ITextStyle プロパティのサポートを示します。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// 値をチェック
+// 値を確認する
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -76,7 +77,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

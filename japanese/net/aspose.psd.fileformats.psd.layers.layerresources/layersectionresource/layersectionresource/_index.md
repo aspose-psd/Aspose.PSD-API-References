@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.LayerSectionResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerSectionResource コンストラクタ. の新しいインスタンスを初期化しますLayerSectionResourceclass.
+title: "LayerSectionResource.LayerSectionResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerSectionResource コンストラクタ。LayerSectionResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource constructor
 
-の新しいインスタンスを初期化します[`LayerSectionResource`](../)class.
+[`LayerSectionResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LayerSectionResource()
@@ -17,7 +18,7 @@ public LayerSectionResource()
 ### 関連項目
 
 * class [LayerSectionResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

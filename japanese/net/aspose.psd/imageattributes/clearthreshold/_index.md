@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearThreshold
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. デフォルト カテゴリのしきい値をクリアします
+title: "ImageAttributes.ClearThreshold"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。デフォルト カテゴリのしきい値をクリアします"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd/imageattributes/clearthreshold/
 ---
+{{< psd/tize >}}
 ## ClearThreshold() {#clearthreshold}
 
 デフォルト カテゴリのしきい値をクリアします。
@@ -17,28 +18,28 @@ public void ClearThreshold()
 ### 関連項目
 
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearThreshold(ColorAdjustType) {#clearthreshold_1}
 
-指定したカテゴリのしきい値をクリアします。
+指定されたカテゴリのしきい値をクリアします。
 
 ```csharp
 public void ClearThreshold(ColorAdjustType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| type | ColorAdjustType | の要素[`ColorAdjustType`](../../coloradjusttype/)しきい値をクリアするカテゴリを指定します。 |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) の要素で、しきい値がクリアされるカテゴリを指定します。 |
 
 ### 関連項目
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

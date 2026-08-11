@@ -1,11 +1,12 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Aspose.PSD for .NET API リファレンス
-description: LimitMemoryException 財産. メモリ削減係数を取得または設定します
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LimitMemoryException プロパティ。メモリ削減係数を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
 メモリ削減係数を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-削減メモリー係数.
+メモリ削減係数です。
 
 ### 関連項目
 
 * class [LimitMemoryException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

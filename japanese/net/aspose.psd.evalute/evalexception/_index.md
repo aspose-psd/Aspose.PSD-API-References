@@ -1,14 +1,15 @@
 ---
-title: Class EvalException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Evalute.EvalException クラス. 評価エラーのカスタム例外
+title: "クラス EvalException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Evalute.EvalException クラス。評価エラー用のカスタム例外です"
 type: docs
-weight: 790
+weight: 800
 url: /ja/net/aspose.psd.evalute/evalexception/
 ---
+{{< psd/tize >}}
 ## EvalException class
 
-評価エラーのカスタム例外
+評価エラー用のカスタム例外
 
 ```csharp
 public class EvalException : Exception
@@ -22,7 +23,7 @@ public class EvalException : Exception
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../)
 
 

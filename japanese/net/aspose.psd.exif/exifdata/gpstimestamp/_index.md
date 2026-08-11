@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTimestamp
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 時間を UTC 協定世界時 として取得または設定します
+title: "ExifData.GPSTimestamp"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 時間を UTC（協定世界時）として取得または設定します"
 type: docs
 weight: 640
 url: /ja/net/aspose.psd.exif/exifdata/gpstimestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTimestamp property
 
-GPS 時間を UTC (協定世界時) として取得または設定します。
+UTC（協定世界時）としての GPS 時間を取得または設定します。
 
 ```csharp
 public TiffRational[] GPSTimestamp { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-UTC (協定世界時) としての GPS 時間。
+GPS 時間は UTC（協定世界時）です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

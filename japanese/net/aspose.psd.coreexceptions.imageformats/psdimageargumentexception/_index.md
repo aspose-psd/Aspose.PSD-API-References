@@ -1,14 +1,15 @@
 ---
-title: Class PsdImageArgumentException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException クラス. psd 画像引数の例外
+title: "クラス PsdImageArgumentException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException クラス。psd 画像引数例外です。"
 type: docs
 weight: 580
 url: /ja/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException class
 
-psd 画像引数の例外。
+psd 画像引数例外です。
 
 ```csharp
 public class PsdImageArgumentException : PsdImageException
@@ -18,13 +19,13 @@ public class PsdImageArgumentException : PsdImageException
 
 | 名前 | 説明 |
 | --- | --- |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | の新しいインスタンスを初期化します`PsdImageArgumentException`class. |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`PsdImageArgumentException`class. |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | `PsdImageArgumentException` クラスの新しいインスタンスを初期化します。 |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | `PsdImageArgumentException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [PsdImageException](../psdimageexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

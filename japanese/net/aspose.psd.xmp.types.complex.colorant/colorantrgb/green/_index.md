@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Green
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantRgb 財産. 緑のコンポーネント値を取得または設定します
+title: "ColorantRgb.Green"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantRgb プロパティ。緑色成分の値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/green/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Green property
 
-緑のコンポーネント値を取得または設定します。
+緑コンポーネントの値を取得または設定します。
 
 ```csharp
 public byte Green { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-緑の成分値.
+緑色成分の値。
 
 ### 関連項目
 
 * class [ColorantRgb](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

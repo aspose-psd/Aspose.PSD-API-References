@@ -1,14 +1,15 @@
 ---
-title: Class ColorantCmyk
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk クラス. CMYK 着色剤を表します
+title: "クラス ColorantCmyk"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk クラス。CMYK カラントを表します"
 type: docs
-weight: 6020
+weight: 6520
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk class
 
-CMYK 着色剤を表します。
+CMYK カラントを表します。
 
 ```csharp
 public sealed class ColorantCmyk : ColorantBase
@@ -18,40 +19,40 @@ public sealed class ColorantCmyk : ColorantBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [ColorantCmyk](colorantcmyk/#constructor)() | の新しいインスタンスを初期化します`ColorantCmyk`class. |
-| [ColorantCmyk](colorantcmyk/#constructor_1)(float, float, float, float) | の新しいインスタンスを初期化します`ColorantCmyk`class. |
+| [ColorantCmyk](colorantcmyk/#constructor)() | `ColorantCmyk` クラスの新しいインスタンスを初期化します。 |
+| [ColorantCmyk](colorantcmyk/#constructor_1)(float, float, float, float) | `ColorantCmyk` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Black](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/) { get; set; } | 黒のコンポーネント値を取得または設定します。 |
+| [Black](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/) { get; set; } | 黒コンポーネントの値を取得または設定します。 |
 | [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | 色のタイプを取得または設定します。 |
-| [Cyan](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/) { get; set; } | シアン コンポーネント値を取得または設定します。 |
-| [Magenta](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/) { get; set; } | マゼンタ コンポーネントの値を取得または設定します。 |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | 取得[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | デフォルトの名前空間 URI を取得します。 |
+| [Cyan](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/) { get; set; } | シアンコンポーネントの値を取得または設定します。 |
+| [Magenta](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/) { get; set; } | マゼンタコンポーネントの値を取得または設定します。 |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | 取得します [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | デフォルト名前空間の URI を取得します。 |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | プレフィックスを取得します。 |
 | [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | スウォッチの名前を取得または設定します。 |
-| [Yellow](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/) { get; set; } | 黄色のコンポーネント値を取得または設定します。 |
+| [Yellow](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/) { get; set; } | イエローコンポーネントの値を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | CMYK 着色剤の色の最大値. |
-| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | CMYK 着色剤の色の最小値. |
+| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | CMYK カラントにおけるカラーの最大値。 |
+| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | CMYK カラントにおけるカラーの最小値。 |
 
 ### 関連項目
 
 * class [ColorantBase](../colorantbase/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

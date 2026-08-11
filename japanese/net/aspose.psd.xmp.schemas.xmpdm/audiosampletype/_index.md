@@ -1,14 +1,15 @@
 ---
-title: Class AudioSampleType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType クラス. のオーディオ サンプル タイプを表しますXmpDynamicMediaPackage .
+title: "クラス AudioSampleType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType クラス。XmpDynamicMediaPackage 内のオーディオサンプルタイプを表します。"
 type: docs
-weight: 5850
+weight: 6350
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-のオーディオ サンプル タイプを表します[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) のオーディオサンプルタイプを表します。
 
 ```csharp
 public sealed class AudioSampleType
@@ -18,23 +19,23 @@ public sealed class AudioSampleType
 
 | 名前 | 説明 |
 | --- | --- |
-| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | 圧縮されたオーディオ サンプルを表します。 |
-| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | パックされたオーディオ サンプルを表します。 |
-| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | 16Int オーディオ サンプルを表します。 |
-| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | 24Int オーディオ サンプルを表します。 |
-| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | 32Float オーディオ サンプルを表します。 |
-| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 32Int オーディオ サンプルを表します。 |
-| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 8Int オーディオ サンプルを表します。 |
+| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | 圧縮オーディオサンプルを表します。 |
+| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | パックされたオーディオサンプルを表します。 |
+| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | 16Int オーディオサンプルを表します。 |
+| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | 24Int オーディオサンプルを表します。 |
+| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | 32Float オーディオサンプルを表します。 |
+| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 32Int オーディオサンプルを表します。 |
+| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 8Int オーディオサンプルを表します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | このインスタンスを表すStringを返します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

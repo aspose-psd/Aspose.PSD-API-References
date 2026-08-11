@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCredit
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. クレジットを設定します
+title: "PhotoshopPackage.SetCredit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。クレジットを設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCredit method
 
 クレジットを設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 public void SetCredit(string credit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| credit | String | クレジット。 |
+| クレジット | 文字列 | クレジットです。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

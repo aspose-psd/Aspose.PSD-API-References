@@ -1,28 +1,29 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. Adobe Illustrator のバージョンを取得します format
+title: "AiImage.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。Adobe Illustrator フォーマットのバージョンを取得します"
 type: docs
-weight: 110
+weight: 130
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-Adobe Illustrator のバージョンを取得します format
+Adobe Illustrator フォーマットのバージョンを取得します。
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-バージョン.
+バージョンです。
 
 ### 関連項目
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

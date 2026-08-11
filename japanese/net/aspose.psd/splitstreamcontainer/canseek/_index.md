@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.CanSeek
-second_title: Aspose.PSD for .NET API リファレンス
-description: SplitStreamContainer 財産. ストリームがシークをサポートしているかどうかを示す値を取得します
+title: "SplitStreamContainer.CanSeek"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SplitStreamContainer プロパティ。ストリームがシークをサポートしているかどうかを示す値を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/splitstreamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanSeek property
 
 ストリームがシークをサポートしているかどうかを示す値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/splitstreamcontainer/canseek/
 public override bool CanSeek { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ストリームがシークをサポートしている場合。さもないと、`間違い`.
+`true` はストリームがシークをサポートしている場合、そうでなければ `false` です。
 
 ### 関連項目
 
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

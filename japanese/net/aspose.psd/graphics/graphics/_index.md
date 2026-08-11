@@ -1,20 +1,21 @@
 ---
-title: Graphics.Graphics
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics コンストラクタ. の新しいインスタンスを初期化しますGraphicsclass.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics コンストラクタ。Graphics クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-の新しいインスタンスを初期化します[`Graphics`](../)class.
+[`Graphics`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Graphics(Image sourceImage)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | sourceImage | Image | ソース画像。 |
 
@@ -22,7 +23,7 @@ public Graphics(Image sourceImage)
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

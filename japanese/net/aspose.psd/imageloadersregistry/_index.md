@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadersRegistry
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageLoadersRegistry クラス. イメージ ローダー レジストリを表します
+title: "ImageLoadersRegistry クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageLoadersRegistry クラス。画像ローダーのレジストリを表します。"
 type: docs
-weight: 4780
+weight: 5270
 url: /ja/net/aspose.psd/imageloadersregistry/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry class
 
-イメージ ローダー レジストリを表します。
+画像ローダー レジストリを表します。
 
 ```csharp
 public static class ImageLoadersRegistry
@@ -19,23 +20,23 @@ public static class ImageLoadersRegistry
 | 名前 | 説明 |
 | --- | --- |
 | static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | 登録された記述子を取得します。 |
-| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | 登録されている画像読み込みフォーマットを取得します。 |
+| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | 登録されている画像読み込み形式を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | 指定されたファイルに適した最初に見つかったローダーを作成します*stream*オプションで*loadOptions* . |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | 指定された*stream*オプションで*loadOptions* . |
-| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | タイプ名でサポートされている最初のファイル形式を取得します。 |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | 型名でサポートされている最初の記述子を取得します。 |
-| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | 指定されたイメージローダー記述子を登録します。 |
-| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | ローダを登録します。 |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | 指定された *stream* に適合し、必要に応じて *loadOptions* も考慮した最初に見つかったローダーを作成します。 |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | 指定された *stream* に適合し、必要に応じて *loadOptions* も考慮した最初に見つかったサポートされている記述子を取得します。 |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | 型名で最初にサポートされているファイル形式を取得します。 |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | タイプ名で最初にサポートされている記述子を取得します。 |
+| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | 指定された画像ローダー記述子を登録します。 |
+| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | ローダーを登録します。 |
 | static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | ローダーの登録を解除します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

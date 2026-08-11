@@ -1,22 +1,23 @@
 ---
-title: FilterEffectMaskData.Channels
-second_title: Aspose.PSD for .NET API リファレンス
-description: FilterEffectMaskData 財産. チャネルを取得します
+title: "FilterEffectMaskData.Channels"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FilterEffectMaskData プロパティ。チャンネルを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/channels/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Channels property
 
-チャネルを取得します。
+チャンネルを取得します。
 
 ```csharp
 public ChannelInformation[] Channels { get; }
 ```
 
-### 例
+## 例
 
-この例では、FXidResource リソースのプロパティを取得および設定する方法を示します。
+この例は、FXidResource リソースのプロパティを取得および設定する方法を示しています。
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// 保存後にチェック
+// 保存後に確認してください
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

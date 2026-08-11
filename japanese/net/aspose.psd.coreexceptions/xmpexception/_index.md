@@ -1,14 +1,15 @@
 ---
-title: Class XmpException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.XmpException クラス. XMP に無効な構造がある場合にスローされる例外
+title: "クラス XmpException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.XmpException クラス。XMP の構造が無効な場合にスローされる例外です。"
 type: docs
 weight: 690
 url: /ja/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-XMP に無効な構造がある場合にスローされる例外。
+XMP の構造が無効なときにスローされる例外です。
 
 ```csharp
 public class XmpException : FrameworkException
@@ -18,14 +19,14 @@ public class XmpException : FrameworkException
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | の新しいインスタンスを初期化します`XmpException`class. |
-| [XmpException](xmpexception/#constructor_1)(string) | の新しいインスタンスを初期化します`XmpException`class. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | の新しいインスタンスを初期化します`XmpException`class. |
+| [XmpException](xmpexception/#constructor)() | `XmpException` クラスの新しいインスタンスを初期化します。 |
+| [XmpException](xmpexception/#constructor_1)(string) | `XmpException` クラスの新しいインスタンスを初期化します。 |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | `XmpException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [FrameworkException](../frameworkexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

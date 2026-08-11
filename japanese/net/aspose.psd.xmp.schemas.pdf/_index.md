@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Pdf
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間には関連するヘルパー クラス定数および Adobe PDF ドキュメントで使用されるメソッドが含まれています
+title: "Aspose.PSD.Xmp.Schemas.Pdf"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、Adobe PDF ドキュメントで使用される関連ヘルパークラス、定数、およびメソッドが含まれています。"
 type: docs
-weight: 540
+weight: 580
 url: /ja/net/aspose.psd.xmp.schemas.pdf/
 ---
-名前空間には、関連するヘルパー クラス、定数、および Adobe PDF ドキュメントで使用されるメソッドが含まれています。
+{{< psd/tize >}}
+名前空間には、Adobe PDF ドキュメントで使用される関連ヘルパークラス、定数、メソッドが含まれています。
 
 ## クラス
 

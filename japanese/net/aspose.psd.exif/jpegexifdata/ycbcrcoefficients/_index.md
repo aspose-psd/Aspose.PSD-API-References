@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YCbCrCoefficients
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegExifData 財産. RGB から YCbCr イメージ データへの変換のマトリックス係数を取得または設定します
+title: "JpegExifData.YCbCrCoefficients"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegExifData プロパティ。RGB から YCbCr 画像データへの変換に使用される行列係数を取得または設定します"
 type: docs
 weight: 230
 url: /ja/net/aspose.psd.exif/jpegexifdata/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrCoefficients property
 
-RGB から YCbCr イメージ データへの変換のマトリックス係数を取得または設定します。
+RGB から YCbCr 画像データへの変換のための行列係数を取得または設定します。
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-RGB から YCbCr 画像データへの変換のマトリックス係数.
+RGBからYCbCr画像データへの変換のための行列係数です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

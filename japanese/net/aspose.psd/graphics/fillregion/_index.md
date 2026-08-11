@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillRegion
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. の内部を塗りつぶしますRegion .
+title: "Graphics.FillRegion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。Region の内部を塗りつぶします。"
 type: docs
-weight: 410
+weight: 420
 url: /ja/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-の内部を塗りつぶします[`Region`](../../region/) .
+[`Region`](../../region/) の内部を塗りつぶします。
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| region | Region | [`Region`](../../region/)塗りつぶす領域を表します。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| region | Region | 塗りつぶす領域を表す [`Region`](../../region/)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush* null です。 -または- *region*無効である。 |
+| ArgumentNullException | *brush* が null です。 または *region* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

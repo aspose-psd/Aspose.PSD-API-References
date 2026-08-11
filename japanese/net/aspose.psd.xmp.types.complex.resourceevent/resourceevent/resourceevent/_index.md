@@ -1,14 +1,15 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceEvent コンストラクタ. デフォルトのコンストラクター
+title: "ResourceEvent.ResourceEvent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceEvent コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ResourceEvent()
@@ -17,7 +18,7 @@ public ResourceEvent()
 ### 関連項目
 
 * class [ResourceEvent](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

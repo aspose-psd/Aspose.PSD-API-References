@@ -1,27 +1,28 @@
 ---
-title: GifOptions.BackgroundColorIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: GifOptions 財産. GIF 背景色インデックスを取得または設定します
+title: "GifOptions.BackgroundColorIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GifOptions プロパティ。GIF の背景色インデックスを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imageoptions/gifoptions/backgroundcolorindex/
 ---
+{{< psd/tize >}}
 ## GifOptions.BackgroundColorIndex property
 
-GIF 背景色インデックスを取得または設定します。
+GIF の背景色インデックスを取得または設定します。
 
 ```csharp
 public byte BackgroundColorIndex { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GIF 背景色インデックス。
+GIF の背景色インデックスです。
 
 ### 関連項目
 
 * class [GifOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

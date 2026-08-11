@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 明るさコントラスト調整レイヤーを追加します
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。明るさ/コントラスト調整レイヤーを追加します"
 type: docs
-weight: 300
+weight: 310
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-明るさ・コントラスト調整レイヤーを追加します。
+明るさ/コントラスト調整レイヤーを追加します。
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brightness | Int32 | 明るさ。 |
-| contrast | Int32 | コントラスト。 |
+| 明るさ | Int32 | 明るさです。 |
+| コントラスト | Int32 | その contrast。 |
 
 ### 戻り値
 
-作成された明るさ/コントラスト レイヤー
+明るさ/コントラストレイヤーを作成しました
 
 ### 関連項目
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

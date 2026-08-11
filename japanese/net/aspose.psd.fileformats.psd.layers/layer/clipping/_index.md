@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤーのクリッピングを取得または設定します 0  ベース1  非ベース.
+title: "Layer.Clipping"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーのクリッピングを取得または設定します。0 はベース、1 は非ベースです。"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-レイヤーのクリッピングを取得または設定します。 0 = ベース、1 = 非ベース.
+レイヤーのクリッピングを取得または設定します。0 = ベース、1 = 非ベース。
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーのクリッピング.
+レイヤーのクリッピングです。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

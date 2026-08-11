@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Aspose.PSD for .NET API リファレンス
-description: SplitStreamContainer 財産. データ ストリームを取得します
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SplitStreamContainer プロパティ。データストリームを取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
-データ ストリームを取得します。
+データストリームを取得します。
 
 ```csharp
 public override Stream Stream { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-データ ストリーム。
+データストリームです。
 
 ### 関連項目
 
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

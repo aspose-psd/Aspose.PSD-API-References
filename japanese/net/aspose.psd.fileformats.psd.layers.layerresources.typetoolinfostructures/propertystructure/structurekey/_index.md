@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.StructureKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: PropertyStructure 分野. 構造キーを識別します
+title: "PropertyStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PropertyStructure フィールド。構造キーを識別します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.StructureKey field
 
 構造キーを識別します。
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### 関連項目
 
 * class [PropertyStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.IsCustom
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. このインスタンス ワープ スタイルがカスタムかどうかを示す値を取得または設定します true の場合メッシュ ポイントが含まれます false に設定するとメッシュ ポイントが消去されます
+title: "PlacedResource.IsCustom"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource プロパティ。インスタンスのワープスタイルがカスタムかどうかを示す値を取得または設定します。`true` の場合はメッシュポイントが含まれ、`false` に設定するとメッシュポイントが削除されます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.IsCustom property
 
-このインスタンス ワープ スタイルがカスタムかどうかを示す値を取得または設定します。 true の場合、メッシュ ポイントが含まれます。 false に設定すると、メッシュ ポイントが消去されます。
+このインスタンスのワープスタイルがカスタムかどうかを示す値を取得または設定します。true の場合、メッシュポイントが含まれます。false に設定すると、メッシュポイントが消去されます。
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`配置されたレイヤーにカスタム スタイルがある場合。さもないと、`間違い` .
+`true` は配置レイヤーがカスタムスタイルの場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

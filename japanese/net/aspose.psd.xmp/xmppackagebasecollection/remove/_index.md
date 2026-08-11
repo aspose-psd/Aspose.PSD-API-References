@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Remove
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPackageBaseCollection 方法. 指定された XMP パッケージを削除します
+title: "XmpPackageBaseCollection.Remove"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPackageBaseCollection メソッド。指定された XMP パッケージを削除します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Remove method
 
 指定された XMP パッケージを削除します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 public void Remove(XmpPackage package)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| package | XmpPackage | 削除する XMP パッケージ。 |
+| パッケージ | XmpPackage | 削除する XMP パッケージ。 |
 
 ### 関連項目
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

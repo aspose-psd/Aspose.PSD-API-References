@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 露出調整レイヤーを追加します
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。露出調整レイヤーを追加します"
 type: docs
-weight: 340
+weight: 350
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
 露出調整レイヤーを追加します。
@@ -15,21 +16,21 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
     float gammaCorrection = 1)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| exposure | Single | 露出。 |
-| offset | Single | オフセット。 |
-| gammaCorrection | Single | ガンマ補正。 |
+| 露出 | シングル | 露出。 |
+| offset | シングル | オフセット。 |
+| gammaCorrection | シングル | ガンマ補正です。 |
 
 ### 戻り値
 
-作成した露出調整レイヤー
+露出調整レイヤーが作成されました
 
 ### 関連項目
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

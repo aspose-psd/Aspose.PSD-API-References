@@ -1,11 +1,12 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState 列挙. リソースブロックの状態を表します
+title: "列挙体 ResourceBlock.ResourceBlockState"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState 列挙体。リソースブロックの状態を表します。"
 type: docs
-weight: 3620
+weight: 4080
 url: /ja/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResourceBlockState enumeration
 
 リソースブロックの状態を表します。
@@ -16,15 +17,15 @@ public enum ResourceBlockState
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Normal | `0` | 典型的な状態. |
-| Cached | `1` | キャッシュされた状態. |
+| Normal | `0` | 標準状態。 |
+| Cached | `1` | キャッシュされた状態。 |
 
 ### 関連項目
 
 * class [ResourceBlock](../resourceblock/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

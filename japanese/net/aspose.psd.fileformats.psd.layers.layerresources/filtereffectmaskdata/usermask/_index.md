@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.UserMask
-second_title: Aspose.PSD for .NET API リファレンス
-description: FilterEffectMaskData 財産. ユーザーマスクを取得します
+title: "FilterEffectMaskData.UserMask"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FilterEffectMaskData プロパティ。ユーザーマスクを取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.UserMask property
 
 ユーザーマスクを取得します。
@@ -18,7 +19,7 @@ public ChannelInformation UserMask { get; }
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

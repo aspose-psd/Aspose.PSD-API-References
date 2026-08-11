@@ -1,70 +1,71 @@
 ---
-title: SplitStreamContainer.SplitStreamContainer
-second_title: Aspose.PSD for .NET API リファレンス
-description: SplitStreamContainer コンストラクタ. の新しいインスタンスを初期化しますSplitStreamContainerclass.
+title: "SplitStreamContainer.SplitStreamContainer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SplitStreamContainer コンストラクタ。SplitStreamContainer クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/splitstreamcontainer/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer(Stream) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SplitStreamContainer`](../)class.
+[`SplitStreamContainer`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SplitStreamContainer(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ストリーム。 |
+| ストリーム | ストリーム | ストリームです。 |
 
 ### 関連項目
 
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(Stream, bool) {#constructor_2}
 
-の新しいインスタンスを初期化します[`SplitStreamContainer`](../)class.
+[`SplitStreamContainer`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SplitStreamContainer(Stream stream, bool disposeStream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | データ ストリーム。 |
-| disposeStream | Boolean | に設定した場合`真実`コンテナが破棄されると、ストリームは破棄されます。 |
+| ストリーム | ストリーム | データストリームです。 |
+| disposeStream | Boolean | `true` に設定すると、コンテナが破棄されるときにストリームも破棄されます。 |
 
 ### 関連項目
 
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(StreamContainer, bool) {#constructor}
 
-の新しいインスタンスを初期化します[`SplitStreamContainer`](../)class.
+[`SplitStreamContainer`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SplitStreamContainer(StreamContainer stream, bool disposeStream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | StreamContainer | ストリーム コンテナー。 |
-| disposeStream | Boolean | に設定した場合`真実`ストリームを破棄します。 |
+| ストリーム | StreamContainer | ストリームコンテナ。 |
+| disposeStream | Boolean | `true` に設定された場合、ストリームを破棄します。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

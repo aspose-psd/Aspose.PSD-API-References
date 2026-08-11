@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdOptions 財産. psd ファイルのバージョンを取得または設定します
+title: "PsdOptions.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdOptions プロパティ。psd ファイルのバージョンを取得または設定します"
 type: docs
-weight: 100
+weight: 120
 url: /ja/net/aspose.psd.imageoptions/psdoptions/version/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Version property
 
-psd ファイルのバージョンを取得または設定します。
+PSD ファイルのバージョンを取得または設定します。
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-psd ファイルのバージョン。
+psd ファイルのバージョンです。
 
 ### 関連項目
 
 * class [PsdOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

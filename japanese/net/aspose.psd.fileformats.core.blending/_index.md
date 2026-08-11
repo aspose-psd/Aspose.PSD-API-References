@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Core.Blending
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はブレンド タイプクラスおよびその他のユーティリティを処理します Aspose.PSD はすべての PSD ブレンディング モードをサポートします
+title: "Aspose.PSD.FileFormats.Core.Blending"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間はブレンディングタイプのクラスやその他のユーティリティを扱います。Aspose.PSD はすべての PSD ブレンディングモードをサポートしています。"
 type: docs
-weight: 140
+weight: 150
 url: /ja/net/aspose.psd.fileformats.core.blending/
 ---
-名前空間は、ブレンド タイプ、クラス、およびその他のユーティリティを処理します。 Aspose.PSD はすべての PSD ブレンディング モードをサポートします。
+{{< psd/tize >}}
+この名前空間はブレンドタイプ、クラス、およびその他のユーティリティを扱います。Aspose.PSD はすべての PSD ブレンドモードをサポートしています。
 
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [BlendMode](./blendmode/) | レイヤーブレンドモード. |
+| [BlendMode](./blendmode/) | レイヤーのブレンドモードです。 |
 
 

@@ -1,30 +1,31 @@
 ---
-title: RasterImage.Filter
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 指定された四角形をフィルタリングします
+title: "RasterImage.Filter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。指定された矩形をフィルタリングします"
 type: docs
 weight: 260
 url: /ja/net/aspose.psd/rasterimage/filter/
 ---
+{{< psd/tize >}}
 ## RasterImage.Filter method
 
-指定された四角形をフィルタリングします。
+指定された矩形をフィルタリングします。
 
 ```csharp
 public virtual void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 長方形。 |
-| options | FilterOptionsBase | オプション。 |
+| 矩形 | Rectangle | 矩形です。 |
+| オプション | FilterOptionsBase | オプションです。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.IsSynchronized
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 財産. にアクセスしたかどうかを示す値を取得しますICollection同期されます スレッドセーフ.
+title: "NonGenericList.IsSynchronized"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList プロパティ。ICollection へのアクセスが同期されスレッドセーフかどうかを示す値を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/nongenericlist/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsSynchronized property
 
-にアクセスしたかどうかを示す値を取得します。ICollection同期されます (スレッドセーフ).
+ICollection へのアクセスが同期化（スレッドセーフ）されているかどうかを示す値を取得します。
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -17,7 +18,7 @@ public bool IsSynchronized { get; }
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

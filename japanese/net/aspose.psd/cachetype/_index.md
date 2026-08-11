@@ -1,14 +1,15 @@
 ---
-title: Enum CacheType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CacheType 列挙. 使用するキャッシュ タイプを指定します
+title: "列挙体 CacheType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CacheType 列挙体。使用するキャッシュのタイプを指定します。"
 type: docs
 weight: 250
 url: /ja/net/aspose.psd/cachetype/
 ---
+{{< psd/tize >}}
 ## CacheType enumeration
 
-使用するキャッシュ タイプを指定します。
+使用するキャッシュタイプを指定します。
 
 ```csharp
 public enum CacheType
@@ -16,15 +17,15 @@ public enum CacheType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Auto | `0` | 自動キャッシュ タイプを指定します。自動キャッシュ スキームは、最初にメモリ内にキャッシュし、次にディスクにキャッシュしようとします。 |
-| CacheOnDiskOnly | `1` | ディスク キャッシュのみ。 |
+| Auto | `0` | 自動キャッシュタイプを指定します。自動キャッシュ方式は、まずメモリ内にキャッシュし、次にディスクにキャッシュしようとします。 |
+| CacheOnDiskOnly | `1` | ディスクキャッシュのみ。 |
 | CacheInMemoryOnly | `2` | メモリ内キャッシュのみ。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

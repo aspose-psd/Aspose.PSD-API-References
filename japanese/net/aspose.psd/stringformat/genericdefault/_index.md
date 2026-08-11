@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericDefault
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. 汎用デフォルトを取得しますStringFormatobject.
+title: "StringFormat.GenericDefault"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。 汎用のデフォルト StringFormat オブジェクトを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/stringformat/genericdefault/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericDefault property
 
-汎用デフォルトを取得します[`StringFormat`](../)object.
+汎用のデフォルト [`StringFormat`](../) オブジェクトを取得します。
 
 ```csharp
 public static StringFormat GenericDefault { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-一般的なデフォルト[`StringFormat`](../)物体。
+汎用のデフォルト [`StringFormat`](../) オブジェクトです。
 
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

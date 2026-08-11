@@ -1,11 +1,12 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: Aspose.PSD for .NET API リファレンス
-description: IBufferProcessor 方法. バッファを処理します
+title: "IBufferProcessor.ProcessBuffer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IBufferProcessor メソッド。バッファを処理します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/ibufferprocessor/processbuffer/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor.ProcessBuffer method
 
 バッファを処理します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/ibufferprocessor/processbuffer/
 public void ProcessBuffer(byte[] buffer, int bufferLength)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| buffer | Byte[] | 処理するバッファー。 |
-| bufferLength | Int32 | 処理するバッファの長さ。 |
+| buffer | Byte[] | 処理対象のバッファです。 |
+| bufferLength | Int32 | 処理するバッファの長さです。 |
 
 ### 関連項目
 
 * interface [IBufferProcessor](../)
-* 名前空間 [Aspose.PSD](../../ibufferprocessor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

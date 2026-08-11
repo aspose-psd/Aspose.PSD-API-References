@@ -1,14 +1,15 @@
 ---
-title: Frame.Delay
-second_title: Aspose.PSD for .NET API リファレンス
-description: Frame 財産. フレーム遅延値をセント秒単位で取得または設定します たとえば1 秒には 100 セント秒が含まれます
+title: "Frame.Delay"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Frame プロパティ。フレーム遅延値をセンチ秒で取得または設定します。例えば、1 秒は 100 センチ秒です"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.animation/frame/delay/
 ---
+{{< psd/tize >}}
 ## Frame.Delay property
 
-フレーム遅延値をセント秒単位で取得または設定します。 たとえば、1 秒には 100 セント秒が含まれます。
+フレーム遅延値をセンタ秒で取得または設定します。たとえば、1 秒は 100 センタ秒です。
 
 ```csharp
 public int Delay { get; set; }
@@ -17,7 +18,7 @@ public int Delay { get; set; }
 ### 関連項目
 
 * class [Frame](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

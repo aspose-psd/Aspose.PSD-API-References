@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. フォント インデックスを取得します
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。フォントインデックスを取得します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
-フォント インデックスを取得します。
+フォントインデックスを取得します。
 
 ```csharp
 public int FontIndex { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォント.
+フォントです。
 
-### 例
+## 例
 
-次のコードは、Aspose.PSD がテキスト レイヤーのインライン フォーマットのプロパティを取得する方法を示しています。
+以下のコードは、Aspose.PSD がテキストレイヤーのインライン書式設定のプロパティを取得する方法を示しています。
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

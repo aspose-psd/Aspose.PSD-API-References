@@ -1,14 +1,15 @@
 ---
-title: Interface IColorConverter
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IColorConverter インターフェース. カラーコンバーター.
+title: "インターフェイス IColorConverter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IColorConverter インターフェイス。カラーコンバータ"
 type: docs
-weight: 4380
+weight: 4850
 url: /ja/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
-カラーコンバーター.
+カラーコンバータ。
 
 ```csharp
 public interface IColorConverter
@@ -22,7 +23,7 @@ public interface IColorConverter
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

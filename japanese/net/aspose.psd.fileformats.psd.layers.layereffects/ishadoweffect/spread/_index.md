@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Spread
-second_title: Aspose.PSD for .NET API リファレンス
-description: IShadowEffect 財産. 強度をパーセントで取得または設定します
+title: "IShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IShadowEffect プロパティ。強度をパーセンテージで取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Spread property
 
 強度をパーセントで取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread
 public int Spread { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スプレッド.
+拡散です。
 
 ### 関連項目
 
 * interface [IShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

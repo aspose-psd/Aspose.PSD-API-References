@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Grayscale
-second_title: Aspose.PSD for .NET API リファレンス
-description: DeconvolutionFilterOptions 財産. これがDeconvolutionFilterOptionsグレースケールです. グレースケール モードまたは RGB モードを返します.
+title: "DeconvolutionFilterOptions.Grayscale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DeconvolutionFilterOptions プロパティ。この DeconvolutionFilterOptions がグレースケールかどうかを示す値を取得または設定します。グレースケールモードまたは RGB モードを返します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Grayscale property
 
-これが[`DeconvolutionFilterOptions`](../)グレースケールです. グレースケール モードまたは RGB モードを返します.
+この [`DeconvolutionFilterOptions`](../) がグレースケールかどうかを示す値を取得または設定します。グレースケールモードまたは RGB モードを返します。
 
 ```csharp
 public bool Grayscale { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`グレースケールの場合。さもないと、`間違い` .
+グレースケールの場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [DeconvolutionFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum StringDigitSubstitute
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.StringDigitSubstitute 列挙. 列挙はユーザーのロケールまたは言語に従って文字列内の数字を置き換える方法を指定します.
+title: "列挙体 StringDigitSubstitute"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.StringDigitSubstitute 列挙体。列挙は、ユーザーのロケールまたは言語に従って文字列中の数字を置換する方法を指定します。"
 type: docs
-weight: 5660
+weight: 6160
 url: /ja/net/aspose.psd/stringdigitsubstitute/
 ---
+{{< psd/tize >}}
 ## StringDigitSubstitute enumeration
 
-列挙は、ユーザーのロケールまたは言語に従って文字列内の数字を置き換える方法を指定します.
+列挙体は、ユーザーのロケールまたは言語に従って文字列内の数字を置換する方法を指定します。
 
 ```csharp
 public enum StringDigitSubstitute
@@ -16,16 +17,16 @@ public enum StringDigitSubstitute
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| User | `0` | ユーザー定義の置換スキームを指定します。 |
-| None | `1` | 置換を無効にするように指定します。 |
-| National | `2` | ユーザーのロケールの公用語に対応する置換数字を指定します。 |
-| Traditional | `3` | ユーザーのネイティブ スクリプトまたは言語に対応する置換数字を指定します。これは、ユーザーのロケールの公用語とは異なる場合があります。 |
+| User | `0` | ユーザー定義の置換方式を指定します。 |
+| None | `1` | 置換を無効にすることを指定します。 |
+| National | `2` | ユーザーのロケールの公式な国語に対応する置換数字を指定します。 |
+| Traditional | `3` | ユーザーの母国語またはスクリプトに対応する置換数字を指定します。これは、ユーザーのロケールの公式な国語とは異なる場合があります。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

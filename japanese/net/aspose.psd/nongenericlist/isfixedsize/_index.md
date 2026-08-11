@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.IsFixedSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 財産. かどうかを示す値を取得しますIList固定サイズです.
+title: "NonGenericList.IsFixedSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList プロパティ。IList が固定サイズかどうかを示す値を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/nongenericlist/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsFixedSize property
 
-かどうかを示す値を取得します。IList固定サイズです.
+IList が固定サイズかどうかを示す値を取得します。
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -17,7 +18,7 @@ public bool IsFixedSize { get; }
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

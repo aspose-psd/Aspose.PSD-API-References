@@ -1,14 +1,15 @@
 ---
-title: Enum GuideDirection
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection 列挙. ガイド方向.
+title: "列挙体 GuideDirection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection 列挙体。ガイド方向"
 type: docs
-weight: 3740
+weight: 4210
 url: /ja/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
-ガイド方向.
+ガイド方向。
 
 ```csharp
 public enum GuideDirection : byte
@@ -16,14 +17,14 @@ public enum GuideDirection : byte
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Vertical | `0` | 垂直ガイド方向. |
-| Horizontal | `1` | 水平ガイド方向. |
+| Vertical | `0` | 垂直ガイド方向。 |
+| Horizontal | `1` | 水平ガイド方向。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

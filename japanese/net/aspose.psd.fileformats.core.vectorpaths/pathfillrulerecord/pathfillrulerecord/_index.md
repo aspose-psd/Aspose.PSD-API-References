@@ -1,14 +1,15 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: PathFillRuleRecord コンストラクタ. の新しいインスタンスを初期化しますPathFillRuleRecordclass.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PathFillRuleRecord コンストラクタ。PathFillRuleRecord クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-の新しいインスタンスを初期化します[`PathFillRuleRecord`](../)class.
+[`PathFillRuleRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PathFillRuleRecord()
@@ -17,27 +18,27 @@ public PathFillRuleRecord()
 ### 関連項目
 
 * class [PathFillRuleRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PathFillRuleRecord`](../)class.
+[`PathFillRuleRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 記録データです。 |
+| データ | Byte[] | レコードデータです。 |
 
 ### 関連項目
 
 * class [PathFillRuleRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

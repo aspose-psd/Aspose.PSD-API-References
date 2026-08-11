@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsMagentaGreenBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlncResource 財産. ハイライト マゼンタ グリーン バランスを取得または設定します
+title: "BlncResource.HighlightsMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlncResource プロパティ。ハイライトのマゼンタ緑バランスを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsMagentaGreenBalance property
 
-ハイライト マゼンタ グリーン バランスを取得または設定します。
+Highlights Magenta Green Balance の値を取得または設定します。
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ハイライト マゼンタ グリーン バランス.
+Highlights Magenta Green バランスです。
 
 ### 関連項目
 
 * class [BlncResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

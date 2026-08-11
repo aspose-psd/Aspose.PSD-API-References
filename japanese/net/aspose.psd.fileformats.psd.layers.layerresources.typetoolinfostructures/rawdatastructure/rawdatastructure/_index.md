@@ -1,20 +1,21 @@
 ---
-title: RawDataStructure.RawDataStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: RawDataStructure コンストラクタ. の新しいインスタンスを初期化しますRawDataStructureclass.
+title: "RawDataStructure.RawDataStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RawDataStructure コンストラクタ。RawDataStructure クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure constructor
 
-の新しいインスタンスを初期化します[`RawDataStructure`](../)class.
+[`RawDataStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RawDataStructure(ClassID keyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
 
@@ -22,7 +23,7 @@ public RawDataStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [RawDataStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

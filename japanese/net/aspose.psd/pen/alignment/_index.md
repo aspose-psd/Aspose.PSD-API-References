@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. この配置を取得または設定しますPen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen の配置を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-この配置を取得または設定します[`Pen`](../) .
+この[`Pen`](../)の配置を取得または設定します。
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`PenAlignment`](../../penalignment/)これはこのための配置を表します[`Pen`](../).
+この [`Pen`](../) の配置を表す [`PenAlignment`](../../penalignment/).
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`Alignment`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `Alignment` プロパティは不変の [`Pen`](../) に設定されます。例えば [`Pen`](../) クラスが返すものなどです。 |
 
 ### 関連項目
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

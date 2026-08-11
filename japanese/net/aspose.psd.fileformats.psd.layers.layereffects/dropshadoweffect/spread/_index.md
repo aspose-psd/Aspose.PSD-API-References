@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Spread
-second_title: Aspose.PSD for .NET API リファレンス
-description: DropShadowEffect 財産. 強度をパーセントで取得または設定します
+title: "DropShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DropShadowEffect プロパティ。強度をパーセンテージで取得または設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Spread property
 
 強度をパーセントで取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spr
 public int Spread { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スプレッド.
+拡散です。
 
 ### 関連項目
 
 * class [DropShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

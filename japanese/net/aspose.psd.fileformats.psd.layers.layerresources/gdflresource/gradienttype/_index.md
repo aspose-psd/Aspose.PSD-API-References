@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientType
-second_title: Aspose.PSD for .NET API リファレンス
-description: GdFlResource 財産. グラデーションのタイプを取得または設定します
+title: "GdFlResource.GradientType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GdFlResource プロパティ。グラデーションのタイプを取得または設定します"
 type: docs
-weight: 90
+weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientType property
 
 グラデーションのタイプを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradi
 public GradientType GradientType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-グラデーションのタイプ。
+グラデーションのタイプです。
 
 ### 関連項目
 
 * enum [GradientType](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/)
 * class [GdFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

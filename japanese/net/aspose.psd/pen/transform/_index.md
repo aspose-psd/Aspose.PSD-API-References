@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. この幾何学的変換のコピーを取得または設定しますPen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen の幾何変換のコピーを取得または設定します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-この幾何学的変換のコピーを取得または設定します[`Pen`](../) .
+この[`Pen`](../)の幾何変換のコピーを取得または設定します。
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-のコピー[`Matrix`](../../matrix/)これは、この幾何学的変換を表します[`Pen`](../).
+この[`Pen`](../)の幾何変換を表す [`Matrix`](../../matrix/) のコピーです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`Transform`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | 不変の[`Pen`](../)（たとえば [`Pen`](../) クラスが返すもの）に設定される `Transform` プロパティです。 |
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

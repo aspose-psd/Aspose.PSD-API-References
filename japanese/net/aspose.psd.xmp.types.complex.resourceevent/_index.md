@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはこのドキュメントの処理で発生した高レベルのイベントであるクラスが含まれています.
+title: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、このドキュメントの処理中に発生した高レベルイベントを表すクラスが含まれています"
 type: docs
-weight: 660
+weight: 700
 url: /ja/net/aspose.psd.xmp.types.complex.resourceevent/
 ---
-名前空間には、このドキュメントの処理で発生した高レベルのイベントであるクラスが含まれています.
+{{< psd/tize >}}
+名前空間には、このドキュメントの処理中に発生した高レベルイベントを表すクラスが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [ResourceEvent](./resourceevent/) | 描画オブジェクトの寸法を含む. |
+| [ResourceEvent](./resourceevent/) | 描画オブジェクトの寸法を含みます。 |
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum PhysicalUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit 列挙. resoulutionInfo 物理ユニット enum
+title: "列挙体 PhysicalUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. resoulutionInfo の物理単位列挙体"
 type: docs
-weight: 3860
+weight: 4330
 url: /ja/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-resoulutionInfo 物理ユニット enum
+解像度情報の物理単位列挙型
 
 ```csharp
 public enum PhysicalUnit
@@ -16,7 +17,7 @@ public enum PhysicalUnit
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | Inches | `1` | インチ |
 | Centimeters | `2` | センチメートル |
@@ -26,7 +27,7 @@ public enum PhysicalUnit
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

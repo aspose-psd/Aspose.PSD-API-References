@@ -1,48 +1,49 @@
 ---
-title: PsdImage.BinarizeBradley
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. インテグラル イメージしきい値処理を使用した Bradley の適応しきい値処理アルゴリズムを使用したイメージの 2 値化
+title: "PsdImage.BinarizeBradley"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。積分画像しきい値を使用したBradleyの適応的しきい値アルゴリズムにより画像を二値化します"
 type: docs
-weight: 470
+weight: 530
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-インテグラル イメージしきい値処理を使用した Bradley の適応しきい値処理アルゴリズムを使用したイメージの 2 値化
+Bradley の適応的閾値アルゴリズム（積分画像閾値）を使用した画像の二値化
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference, int windowSize)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brightnessDifference | Double | ピクセルと、このピクセルを中心としたピクセルの sxs ウィンドウの平均との明るさの差。 |
-| windowSize | Int32 | このピクセルを中心としたピクセルの sxs ウィンドウのサイズ |
+| brightnessDifference | Double | ピクセルと、そのピクセルを中心とした s x s ウィンドウ内のピクセルの平均との明るさの差。 |
+| windowSize | Int32 | このピクセルを中心とした s x s ピクセルウィンドウのサイズ |
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-インテグラル イメージしきい値処理を使用した Bradley の適応しきい値処理アルゴリズムを使用したイメージの 2 値化
+Bradley の適応的閾値アルゴリズム（積分画像閾値）を使用した画像の二値化
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brightnessDifference | Double | ピクセルと、このピクセルを中心としたピクセルの sxs ウィンドウの平均との明るさの差。 |
+| brightnessDifference | Double | ピクセルと、そのピクセルを中心とした s x s ウィンドウ内のピクセルの平均との明るさの差。 |
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

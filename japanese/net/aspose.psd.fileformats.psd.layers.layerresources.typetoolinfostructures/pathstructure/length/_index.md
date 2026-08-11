@@ -1,22 +1,23 @@
 ---
-title: PathStructure.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: PathStructure 財産. を取得しますOSTypeStructureバイト単位の長さ.
+title: "PathStructure.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PathStructure プロパティ。OSTypeStructure の長さ（バイト単位）を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/
 ---
+{{< psd/tize >}}
 ## PathStructure.Length property
 
-を取得します[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)バイト単位の長さ.
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) の長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 例
+## 例
 
-次のコードは、PathStructure 構造を持つファイルをロードする機能を示しています。
+次のコードは PathStructure 構造を使用してファイルをロードする機能を示しています。
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### 関連項目
 
 * class [PathStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

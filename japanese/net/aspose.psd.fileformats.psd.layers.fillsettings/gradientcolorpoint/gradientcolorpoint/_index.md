@@ -1,14 +1,15 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientColorPoint コンストラクタ. の新しいインスタンスを初期化しますGradientColorPointclass.
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientColorPoint コンストラクタ。GradientColorPoint クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-の新しいインスタンスを初期化します[`GradientColorPoint`](../)class.
+[`GradientColorPoint`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GradientColorPoint()
@@ -17,28 +18,28 @@ public GradientColorPoint()
 ### 関連項目
 
 * class [GradientColorPoint](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`GradientColorPoint`](../)class.
+[`GradientColorPoint`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | グラデーション上のカラー ポイント。 |
-| location | Int32 | グラデーション上のカラー ポイントの位置。 |
-| medianPointLocation | Int32 | 中央グラデーション ポイントの位置。 |
+| 色 | 色 | グラデーション上の色ポイントです。 |
+| 位置 | Int32 | グラデーション上のカラーポイントの位置。 |
+| medianPointLocation | Int32 | 中央値のグラデーションポイントの位置。 |
 
-### 例
+## 例
 
-次の例は、レイヤーで GradientOverlayEffect 効果オブジェクトを作成/編集する方法を示しています。
+次の例は、レイヤー内で GradientOverlayEffect エフェクトオブジェクトを作成/編集する方法を示しています。
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 string sourceFilePath = "psdnet256.psd";
 string outputFilePath = "psdnet256.psd_output.psd";
 
-// レイヤーのグラデーション オーバーレイ効果を作成/取得および編集します。
+// レイヤー内でグラデーションオーバーレイ効果を作成/取得し、編集します。
 using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() { LoadEffectsResource = true }))
 {
     BlendingOptions layerBlendOptions = psdImage.Layers[1].BlendingOptions;
     GradientOverlayEffect gradientOverlayEffect = null;
 
-    // レイヤー内の GradientOverlayEffect を検索します。
+    // レイヤー内で GradientOverlayEffect を検索します。
     foreach (ILayerEffect effect in layerBlendOptions.Effects)
     {
         gradientOverlayEffect = effect as GradientOverlayEffect;
@@ -64,38 +65,39 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
     if (gradientOverlayEffect == null)
     {
-        // 存在しない場合は、新しい GradientOverlayEffect を作成できます。
+        // 存在しない場合は新しい GradientOverlayEffect を作成できます。
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
-    // 効果に少しの透明度を追加します。
+    // 効果に少し透明性を追加します。
     gradientOverlayEffect.Opacity = 200;
 
-    // グラデーション効果のブレンド モードを変更します。
+    // グラデーション効果のブレンドモードを変更します。
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
-    // GradientFillSettings オブジェクトを取得して、グラデーション オーバーレイ設定を構成します。
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    // グラデーションオーバーレイ設定を構成するための GradientFillSettings オブジェクトを取得します。
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
     // 2 色の新しいグラデーションを設定します。
-    settings.ColorPoints = new IGradientColorPoint[]
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // グラデーションの傾きを 80 度の角度に設定します。
+    // グラデーションの傾きを 80 度に設定します。
     settings.Angle = 80;
 
-    // グラデーション効果を 150% までスケールします。
+    // グラデーション効果を最大 150% に拡大します。
     settings.Scale = 150;
 
-    // グラデーションの種類を設定します。
+    // グラデーションのタイプを設定します。
     settings.GradientType = GradientType.Linear;
 
-    // 各透過ポイントで不透明度を 100% に設定して、グラデーションを不透明にします。
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // 各透明点で不透明度を 100% に設定して、グラデーションを不透明にします。
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
@@ -105,7 +107,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

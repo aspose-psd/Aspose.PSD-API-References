@@ -1,11 +1,12 @@
 ---
-title: PieShape.StartAngle
-second_title: Aspose.PSD for .NET API リファレンス
-description: PieShape 財産. 開始角度を取得または設定します
+title: "PieShape.StartAngle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PieShape プロパティ。開始角度を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
 開始角度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.shapes/pieshape/startangle/
 public float StartAngle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-開始角度。
+開始角度です。
 
 ### 関連項目
 
 * class [PieShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../pieshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

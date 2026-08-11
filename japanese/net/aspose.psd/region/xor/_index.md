@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これを更新しますRegion和集合から指定されたものとの交点を引いたものRectangleF構造体.
+title: "Region.Xor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。指定された RectangleF 構造体との交差部分を除いた合併にこの Region を更新します"
 type: docs
-weight: 150
+weight: 160
 url: /ja/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-これを更新します[`Region`](../)和集合から指定されたものとの交点を引いたもの[`RectangleF`](../../rectanglef/)構造体.
+指定された [`RectangleF`](../../rectanglef/) 構造体との交差部分を除いた合併にこの [`Region`](../) を更新します。
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | の[`RectangleF`](../../rectanglef/)これと xor する構造[`Region`](../). |
+| rect | RectangleF | この [`Region`](../) と XOR するための [`RectangleF`](../../rectanglef/) 構造体です。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-これを更新します[`Region`](../)和集合から指定されたものとの交点を引いたもの[`Rectangle`](../../rectangle/)構造体.
+指定された [`Rectangle`](../../rectangle/) 構造体との交差部分を除いた合併にこの [`Region`](../) を更新します。
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../../rectangle/)これと xor する構造[`Region`](../). |
+| rect | Rectangle | この [`Region`](../) と XOR するための [`Rectangle`](../../rectangle/) 構造体です。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-これを更新します[`Region`](../)和集合から指定されたものとの交点を引いたもの[`GraphicsPath`](../../graphicspath/) .
+指定された [`GraphicsPath`](../../graphicspath/) と交差部分を除いた合併にこの [`Region`](../) を更新します。
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| path | GraphicsPath | の[`GraphicsPath`](../../graphicspath/)これでxorする[`Region`](../). |
+| path | GraphicsPath | この [`Region`](../) と XOR するための [`GraphicsPath`](../../graphicspath/) です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *path*null. です |
+| ArgumentNullException | *path* は null です。 |
 
 ### 関連項目
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-これを更新します[`Region`](../)和集合から指定されたものとの交点を引いたもの[`Region`](../) .
+指定された [`Region`](../) と交差部分を除いた合併にこの [`Region`](../) を更新します。
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| region | Region | の[`Region`](../)これでxorする[`Region`](../). |
+| region | Region | この [`Region`](../) と XOR するための [`Region`](../) です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *region*null. です |
+| ArgumentNullException | *region* は null です。 |
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

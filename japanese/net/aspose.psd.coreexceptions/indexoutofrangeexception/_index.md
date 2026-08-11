@@ -1,14 +1,15 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException クラス. コンプレッサの例外
+title: "クラス IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.IndexOutOFRangeException クラス。コンプレッサー例外。"
 type: docs
 weight: 640
 url: /ja/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
-コンプレッサの例外。
+コンプレッサー例外です。
 
 ```csharp
 public class IndexOutOFRangeException : Exception
@@ -18,12 +19,12 @@ public class IndexOutOFRangeException : Exception
 
 | 名前 | 説明 |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | の新しいインスタンスを初期化します[`CompressorException`](../compressorexception/)class. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します[`CompressorException`](../compressorexception/)class. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | [`CompressorException`](../compressorexception/) クラスの新しいインスタンスを初期化します。 |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | [`CompressorException`](../compressorexception/) クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

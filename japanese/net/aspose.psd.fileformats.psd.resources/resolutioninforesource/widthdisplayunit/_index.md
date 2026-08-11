@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResolutionInfoResource 財産. 幅の表示単位を取得または設定します
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResolutionInfoResource プロパティ。幅の表示単位を取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
 幅の表示単位を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdi
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-幅表示単位.
+幅の表示単位。
 
 ### 関連項目
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

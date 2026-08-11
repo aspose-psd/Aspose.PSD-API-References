@@ -1,30 +1,31 @@
 ---
-title: IImageCreator.Create
-second_title: Aspose.PSD for .NET API リファレンス
-description: IImageCreator 方法. で新しいイメージ インスタンスを作成しますimageOptions .
+title: "IImageCreator.Create"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IImageCreator メソッド。imageOptions を使用して新しい画像インスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-で新しいイメージ インスタンスを作成します*imageOptions* .
+*imageOptions* を使用して新しい画像インスタンスを作成します。
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
     int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 画像データを作成するストリーム コンテナー。 |
+| streamContainer | StreamContainer | 画像データを作成するストリームコンテナ。 |
 | imageOptions | ImageOptionsBase | 画像オプション。 |
 | width | Int32 | 新しい画像の幅 |
 | height | Int32 | 新しい画像の高さ |
 
 ### 戻り値
 
-新しいイメージ インスタンス。
+新しい画像インスタンス。
 
 ### 関連項目
 
@@ -32,7 +33,7 @@ public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptio
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* 名前空間 [Aspose.PSD](../../iimagecreator/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

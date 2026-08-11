@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnitArrayStructure 財産. 値のカウントを取得します
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnitArrayStructure プロパティ。値の数を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-値のカウントを取得します。
+値の数を取得します。
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-単位配列構造体の値のカウント。
+単位配列構造内の値の数です。
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [UnitArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

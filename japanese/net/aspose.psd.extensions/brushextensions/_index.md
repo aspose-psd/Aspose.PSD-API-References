@@ -1,14 +1,15 @@
 ---
-title: Class BrushExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.BrushExtensions クラス. の拡張メソッドが含まれていますBrushとBrush .
+title: "BrushExtensions クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.BrushExtensions クラス。Brush と Brush の拡張メソッドを含みます"
 type: docs
-weight: 1030
+weight: 1040
 url: /ja/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-の拡張メソッドが含まれています[`Brush`](../../aspose.psd/brush/)とBrush .
+[`Brush`](../../aspose.psd/brush/) と Brush の拡張メソッドを含みます。
 
 ```csharp
 public static class BrushExtensions
@@ -18,11 +19,11 @@ public static class BrushExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | は[`Brush`](../../aspose.psd/brush/)にBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | [`Brush`](../../aspose.psd/brush/) を Brush に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum PenType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.PenType 列挙. 塗りつぶしのタイプを指定しますPenオブジェクトは行を埋めるために使用します.
+title: "列挙型 PenType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.PenType 列挙型。Pen オブジェクトが線を塗りつぶす際に使用する塗りタイプを指定します。"
 type: docs
-weight: 5220
+weight: 5710
 url: /ja/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-塗りつぶしのタイプを指定します[`Pen`](../pen/)オブジェクトは行を埋めるために使用します.
+`Pen` オブジェクトが線を塗りつぶす際の塗りタイプを指定します。
 
 ```csharp
 public enum PenType
@@ -16,17 +17,17 @@ public enum PenType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| SolidColor | `0` | ベタ塗りを指定します。 |
-| HatchFill | `1` | ハッチ塗りつぶしを指定します。 |
-| TextureFill | `2` | ビットマップ テクスチャの塗りつぶしを指定します。 |
-| PathGradient | `3` | パスのグラデーションの塗りつぶしを指定します。 |
-| LinearGradient | `4` | 線形グラデーションの塗りつぶしを指定します。 |
+| SolidColor | `0` | 単色塗りを指定します。 |
+| HatchFill | `1` | ハッチ塗りを指定します。 |
+| TextureFill | `2` | ビットマップテクスチャ塗りを指定します。 |
+| PathGradient | `3` | パス グラデーション塗りを指定します。 |
+| LinearGradient | `4` | 線形グラデーション塗りを指定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.BlendingOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. ブレンド オプションを取得します
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。ブレンドオプションを取得します"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-ブレンド オプションを取得します。
+ブレンドオプションを取得します。
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ブレンド オプション。
+ブレンドオプションです。
 
 ### 関連項目
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

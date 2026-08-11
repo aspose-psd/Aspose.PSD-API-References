@@ -1,11 +1,12 @@
 ---
-title: MixerChannel.GetRawData
-second_title: Aspose.PSD for .NET API リファレンス
-description: MixerChannel 方法. 生データを取得します
+title: "MixerChannel.GetRawData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MixerChannel メソッド。生データを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/
 ---
+{{< psd/tize >}}
 ## MixerChannel.GetRawData method
 
 生データを取得します。
@@ -21,7 +22,7 @@ public byte[] GetRawData()
 ### 関連項目
 
 * class [MixerChannel](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

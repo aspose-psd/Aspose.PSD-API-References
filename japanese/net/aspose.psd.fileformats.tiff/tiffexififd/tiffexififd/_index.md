@@ -1,14 +1,15 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffExifIfd コンストラクタ. の新しいインスタンスを初期化しますTiffExifIfdclass.
+title: "TiffExifIfd.TiffExifIfd"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffExifIfd コンストラクタ。TiffExifIfd クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.tiff/tiffexififd/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd() {#constructor}
 
-の新しいインスタンスを初期化します[`TiffExifIfd`](../)class.
+[`TiffExifIfd`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffExifIfd()
@@ -17,31 +18,31 @@ public TiffExifIfd()
 ### 関連項目
 
 * class [TiffExifIfd](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
-の新しいインスタンスを初期化します[`TiffExifIfd`](../)class.
+[`TiffExifIfd`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| ifdOffset | UInt32 | Exif IFD へのポインター。 |
+| ifdOffset | UInt32 | Exif IFD へのポインタ。 |
 
-### 備考
+## 備考
 
-相互運用性、Exif IFD は、TIFF で規定されている IFD と同じ構造を持っています。通常は ですが、TIFFのように画像データは含まれません.
+相互運用性、Exif IFD は TIFF で指定された IFD と同じ構造を持ちます。ただし、通常は TIFF の場合と同様に画像データを含みません。
 
 ### 関連項目
 
 * class [TiffExifIfd](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

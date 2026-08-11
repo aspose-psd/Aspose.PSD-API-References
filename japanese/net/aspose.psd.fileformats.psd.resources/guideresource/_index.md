@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource クラス. ガイドリソースブロック.
+title: "GuideResource クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource クラス。ガイドリソースブロック"
 type: docs
-weight: 3750
+weight: 4220
 url: /ja/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-ガイドリソースブロック.
+ガイドリソースブロックです。
 
 ```csharp
 public sealed class GuideResource
@@ -18,24 +19,24 @@ public sealed class GuideResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [GuideResource](guideresource/)() | デフォルトのコンストラクター。 |
+| [GuideResource](guideresource/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | ガイドの方向を取得または設定します。 |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | ドキュメント座標でのガイドの位置を取得または設定します. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | ドキュメント座標系でのガイドの位置を取得または設定します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | ガイド リソース ブロック サイズ. |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | ガイドリソースブロックのサイズです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

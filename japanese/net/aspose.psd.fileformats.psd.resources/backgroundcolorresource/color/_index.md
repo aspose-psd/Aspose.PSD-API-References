@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: BackgroundColorResource 財産. 背景色を取得または設定します
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BackgroundColorResource プロパティ。背景色を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
 背景色を取得または設定します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 public Color Color { get; set; }
 ```
 
-### 例
+## 例
 
-次の例は、BackgroundColorResource リソースのサポートを示しています。
+次の例は BackgroundColorResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BackgroundColorResource を更新します
+    // BackgroundColorResource を更新する
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
@@ -48,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

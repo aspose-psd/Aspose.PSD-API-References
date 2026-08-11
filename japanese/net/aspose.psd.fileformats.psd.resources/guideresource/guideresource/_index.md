@@ -1,14 +1,15 @@
 ---
-title: GuideResource.GuideResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: GuideResource コンストラクタ. デフォルトのコンストラクター
+title: "GuideResource.GuideResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GuideResource コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/guideresource/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public GuideResource()
@@ -17,7 +18,7 @@ public GuideResource()
 ### 関連項目
 
 * class [GuideResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

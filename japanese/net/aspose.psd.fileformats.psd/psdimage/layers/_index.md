@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Layers
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. PSD レイヤーを取得または設定します
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。PSD レイヤーを取得または設定します"
 type: docs
 weight: 200
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
 PSD レイヤーを取得または設定します。
@@ -14,19 +15,19 @@ PSD レイヤーを取得または設定します。
 public Layer[] Layers { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-PSD レイヤー。
+PSD レイヤーです。
 
-### 備考
+## 備考
 
-レイヤーがない場合、レイヤーおよびマスク情報セクション内の他の関連情報 (レイヤー マスク、リソースなど) は保持されないことに注意してください。
+レイヤーが存在しない場合、レイヤーおよびマスク情報セクション内のその他の関連情報（レイヤーマスク、リソース等）は保持されません。
 
 ### 関連項目
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdImage.Crop
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 画像をトリミングしています
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。画像をクロップします"
 type: docs
-weight: 510
+weight: 570
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
-画像をトリミングしています。
+画像のトリミング。
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 長方形。 |
+| 矩形 | Rectangle | 矩形です。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfoResource.TypeToolInfoResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfoResource コンストラクタ. デフォルトのコンストラクター
+title: "TypeToolInfoResource.TypeToolInfoResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfoResource コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typetoolinforesource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public TypeToolInfoResource()
@@ -17,7 +18,7 @@ public TypeToolInfoResource()
 ### 関連項目
 
 * class [TypeToolInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

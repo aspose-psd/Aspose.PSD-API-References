@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Aspose.PSD for .NET API リファレンス
-description: FxrpResource 財産. 参照ポイントの y を取得または設定します
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FxrpResource プロパティ。参照点の y を取得または設定します"
 type: docs
-weight: 70
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-参照ポイントの y を取得または設定します
+基準点の y を取得または設定します
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-基準点の y
+参照点の y
 
 ### 関連項目
 
 * class [FxrpResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

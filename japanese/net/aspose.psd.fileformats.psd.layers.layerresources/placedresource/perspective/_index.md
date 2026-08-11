@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Perspective
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. PSD ファイルに配置されたレイヤーの遠近値を取得または設定します
+title: "PlacedResource.Perspective"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource プロパティ。配置レイヤーのパースペクティブ値を取得または設定します（PSD ファイル内）。"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Perspective property
 
-PSD ファイルに配置されたレイヤーの遠近値を取得または設定します。
+PSD ファイル内の配置レイヤーの遠近値を取得または設定します。
 
 ```csharp
 public double Perspective { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置したレイヤーのパース値.
+配置レイヤーのパースペクティブ値。
 
 ### 関連項目
 
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

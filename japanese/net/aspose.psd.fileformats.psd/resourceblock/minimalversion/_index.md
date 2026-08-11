@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceBlock 財産. 必要最小限の PSD バージョンを取得します
+title: "ResourceBlock.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceBlock プロパティ。必要最小限の PSD バージョンを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.MinimalVersion property
 
-必要最小限の PSD バージョンを取得します。
+必要最低限の PSD バージョンを取得します。
 
 ```csharp
 public abstract int MinimalVersion { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最小限の PSD バージョン。
+最小 PSD バージョンです。
 
 ### 関連項目
 
 * class [ResourceBlock](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageOptions.TiffOptionsError 列挙. tiff オプションのエラー コード
+title: "列挙型 TiffOptionsError"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageOptions.TiffOptionsError 列挙型。TIFF オプションのエラーコードです。"
 type: docs
-weight: 4950
+weight: 5440
 url: /ja/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
-tiff オプションのエラー コード。
+tiff オプションのエラーコードです。
 
 ```csharp
 public enum TiffOptionsError
@@ -16,21 +17,21 @@ public enum TiffOptionsError
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| NoError | `0` | エラーコードなし. |
-| NoColorMap | `1` | カラーマップが定義されていません. |
-| ColorMapLengthInvalid | `2` | カラー マップの長さが無効です。 |
-| CompressionSppMismatch | `3` | 圧縮がピクセルあたりのサンプル数と一致しません。 |
-| PhotometricCompressionMismatch | `4` | 圧縮が測光設定と一致しません。 |
-| PhotometricSppMismatch | `5` | フォトメトリックが、ピクセル数ごとのサンプル数と一致しません。 |
-| NotSupportedAlphaStorage | `6` | アルファ ストレージはサポートされていません。 |
-| PhotometricBitsPerSampleMismatch | `7` | サンプルごとのフォトメトリック ビットが無効です |
-| Baseline6OptionsMismatch | `8` | 指定された TIFF オプション パラメータは、TIFF ベースライン 6.0 standard に準拠していません |
+| NoError | `0` | エラーコードはありません。 |
+| NoColorMap | `1` | カラーマップが定義されていません。 |
+| ColorMapLengthInvalid | `2` | カラーマップの長さが無効です。 |
+| CompressionSppMismatch | `3` | 圧縮方式がピクセルあたりのサンプル数と一致しません。 |
+| PhotometricCompressionMismatch | `4` | 圧縮方式がフォトメトリック設定と一致しません。 |
+| PhotometricSppMismatch | `5` | フォトメトリックがピクセルあたりのサンプル数と一致しません。 |
+| NotSupportedAlphaStorage | `6` | アルファストレージはサポートされていません。 |
+| PhotometricBitsPerSampleMismatch | `7` | フォトメトリックのサンプルあたりビット数が無効です。 |
+| Baseline6OptionsMismatch | `8` | 指定された TIFF オプションパラメータは TIFF Baseline 6.0 標準に準拠していません。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

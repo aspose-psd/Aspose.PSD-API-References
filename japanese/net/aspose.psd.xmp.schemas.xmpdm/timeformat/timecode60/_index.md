@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode60
-second_title: Aspose.PSD for .NET API リファレンス
-description: TimeFormat 財産. タイムコードを取得します60.
+title: "TimeFormat.Timecode60"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TimeFormat プロパティ。 timecode60 を取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode60/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode60 property
 
-タイムコードを取得します60.
+timecode60 を取得します。
 
 ```csharp
 public static TimeFormat Timecode60 { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-タイムコード60.
+timecode60です。
 
 ### 関連項目
 
 * class [TimeFormat](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

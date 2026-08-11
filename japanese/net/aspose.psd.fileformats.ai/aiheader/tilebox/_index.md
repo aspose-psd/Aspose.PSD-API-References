@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TileBox
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiHeader 財産. タイル ボックスを取得または設定します
+title: "AiHeader.TileBox"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiHeader プロパティ。タイル ボックスを取得または設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.ai/aiheader/tilebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TileBox property
 
-タイル ボックスを取得または設定します。
+タイルボックスを取得または設定します。
 
 ```csharp
 public RectangleF TileBox { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-タイルボックス.
+タイル ボックスです。
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

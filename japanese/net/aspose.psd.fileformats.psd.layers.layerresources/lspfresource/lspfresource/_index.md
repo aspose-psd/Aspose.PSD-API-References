@@ -1,63 +1,64 @@
 ---
-title: LspfResource.LspfResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LspfResource コンストラクタ. の新しいインスタンスを初期化しますLspfResource class. カスタムまたは不明な値を使用
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LspfResource コンストラクタ。LspfResource クラスの新しいインスタンスを初期化します。カスタムまたは不明な値で"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`LspfResource`](../) class. カスタムまたは不明な値を使用
+[`LspfResource`](../) クラスの新しいインスタンスを初期化します。カスタムまたは不明な値で
 
 ```csharp
 public LspfResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソース データ。 |
+| データ | Byte[] | リソース データ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な Lspf リソース データ長 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な Lspf Resource データ長 |
 
 ### 関連項目
 
 * class [LspfResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LspfResource`](../)class.
+[`LspfResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
     bool isPositionProtected)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | に設定した場合`真実`[透明性が保護されています]。 |
-| isCompositeProtected | Boolean | に設定した場合`真実` [複合保護されています]。 |
-| isPositionProtected | Boolean | に設定した場合`真実` [位置は保護されています]。 |
+| isTransparencyProtected | Boolean | `true` に設定された場合 [is transparency protected]。 |
+| isCompositeProtected | Boolean | `true` に設定された場合 [is composite protected]。 |
+| isPositionProtected | Boolean | `true` に設定された場合 [is position protected]。 |
 
 ### 関連項目
 
 * class [LspfResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-の新しいインスタンスを初期化します[`LspfResource`](../)class.
+[`LspfResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LspfResource()
@@ -66,7 +67,7 @@ public LspfResource()
 ### 関連項目
 
 * class [LspfResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

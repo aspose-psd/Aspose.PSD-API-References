@@ -1,11 +1,12 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. ファイナライズ セクションを取得します
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。ファイナライズ セクションを取得します"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
 ファイナライズ セクションを取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ファイナライズセクション.
+ファイナライズ セクションです。
 
 ### 関連項目
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

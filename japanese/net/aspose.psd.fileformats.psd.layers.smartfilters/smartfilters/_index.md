@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilters
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters クラス. のスマート フィルターSmartObjectLayer .
+title: "クラス SmartFilters"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters クラス。SmartObjectLayer のスマートフィルタ"
 type: docs
-weight: 3470
+weight: 3890
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartFilters class
 
-のスマート フィルター[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
+[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) のスマートフィルタです。
 
 ```csharp
 public class SmartFilters
@@ -18,22 +19,22 @@ public class SmartFilters
 
 | 名前 | 説明 |
 | --- | --- |
-| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | スマート フィルターを取得または設定します。 |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | スマート フィルター マスクの有効な状態を取得します。 |
-| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | スマート フィルターのマスク有効ステータスを取得します。 |
-| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | スマート フィルターの白いステータスで拡張されたマスクを取得します。 |
-| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | スマートフィルターのマスク連動状態を取得します。 |
-| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | スマートフィルターの有効位置ステータスを取得します。 |
+| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | スマートフィルタを取得または設定します。 |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | スマートフィルタマスクの有効状態を取得します。 |
+| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | スマートフィルタのマスクが有効かどうかの状態を取得します。 |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | スマートフィルタの白で拡張されたマスクの状態を取得します。 |
+| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | スマートフィルタのマスクがリンクされているかどうかの状態を取得します。 |
+| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | スマートフィルタが位置で有効かどうかの状態を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | スマート フィルター データを[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) . |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | スマートフィルタデータを [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) に更新します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

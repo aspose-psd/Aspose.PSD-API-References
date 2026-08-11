@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.RemoveFigure
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 方法. 図形を削除します
+title: "GraphicsPath.RemoveFigure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath メソッド。図形を削除します"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/graphicspath/removefigure/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigure method
 
 図形を削除します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/graphicspath/removefigure/
 public void RemoveFigure(Figure figure)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| figure | Figure | 削除する図。 |
+| 図形 | 図形 | 削除する図形です。 |
 
 ### 関連項目
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

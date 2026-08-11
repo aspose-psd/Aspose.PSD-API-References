@@ -1,14 +1,15 @@
 ---
-title: ColorHalftoneInformationResource.ColorHalftoneInformationResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorHalftoneInformationResource コンストラクタ. デフォルトのコンストラクター
+title: "ColorHalftoneInformationResource.ColorHalftoneInformationResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorHalftoneInformationResource コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ColorHalftoneInformationResource()
@@ -17,7 +18,7 @@ public ColorHalftoneInformationResource()
 ### 関連項目
 
 * class [ColorHalftoneInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

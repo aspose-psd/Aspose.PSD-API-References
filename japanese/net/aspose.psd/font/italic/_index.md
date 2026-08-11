@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. かどうかを示す値を取得しますFont斜体です
+title: "Font.Italic"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 このフォントがイタリックかどうかを示す値を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-かどうかを示す値を取得します。[`Font`](../)斜体です。
+この [`Font`](../) がイタリックかどうかを示す値を取得します。
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これなら真[`Font`](../)斜体です。それ以外の場合は false。
+この [`Font`](../) がイタリックの場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

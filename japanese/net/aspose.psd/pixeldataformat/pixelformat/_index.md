@@ -1,28 +1,29 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. ピクセル形式を取得します
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。ピクセルフォーマットを取得します。"
 type: docs
 weight: 340
 url: /ja/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
-ピクセル形式を取得します。
+ピクセルフォーマットを取得します。
 
 ```csharp
 public PixelFormat PixelFormat { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ピクセル形式。
+ピクセルフォーマットです。
 
 ### 関連項目
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

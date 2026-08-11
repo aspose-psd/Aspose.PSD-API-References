@@ -1,27 +1,48 @@
 ---
-title: PsdLoadOptions.AllowWarpRepaint
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdLoadOptions 財産. ワープ トランスフォームを使用してまたは使用せずにレンダリングされたイメージと共に保存するかどうかを取得または設定します
+title: "PsdLoadOptions.AllowWarpRepaint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdLoadOptions プロパティ。ワープ変換の有無にかかわらず、レンダリングされた画像を保存するかどうかを取得または設定します。"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.AllowWarpRepaint property
 
-ワープ トランスフォームを使用して、または使用せずに、レンダリングされたイメージと共に保存するかどうかを取得または設定します。
+取得または設定するのは、ワープ変換の有無にかかわらず、レンダリングされた画像とともに保存するかどうかです。
 
 ```csharp
 public bool AllowWarpRepaint { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ワープ変換を使用してイメージをレンダリングする`間違い` .
+`true` はワープ変換で画像をレンダリングし、`false` はレンダリングしません。
+
+## 例
+
+以下のコードは、Warp エフェクトのレンダリングを示しています。
+
+```csharp
+[C#]
+
+string sourceFile = "source.psd";
+string pngWarpedExport = "warped.png";
+string psdWarpedExport = "warpFile.psd";
+
+var warpLoadOptions = new PsdLoadOptions() { AllowWarpRepaint = true };
+
+using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
+{
+    image.Save(pngWarpedExport, new PngOptions());
+    image.Save(psdWarpedExport, new PsdOptions());
+}
+```
 
 ### 関連項目
 
 * class [PsdLoadOptions](../)
-* 名前空間 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

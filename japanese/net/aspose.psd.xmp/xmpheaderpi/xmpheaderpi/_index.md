@@ -1,14 +1,15 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpHeaderPi コンストラクタ. の新しいインスタンスを初期化しますXmpHeaderPiclass.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpHeaderPi コンストラクタ。XmpHeaderPi クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-の新しいインスタンスを初期化します[`XmpHeaderPi`](../)class.
+[`XmpHeaderPi`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpHeaderPi()
@@ -17,27 +18,27 @@ public XmpHeaderPi()
 ### 関連項目
 
 * class [XmpHeaderPi](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpHeaderPi`](../)class.
+[`XmpHeaderPi`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | String | 一意の識別子。 |
+| guid | 文字列 | 一意の識別子です。 |
 
 ### 関連項目
 
 * class [XmpHeaderPi](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

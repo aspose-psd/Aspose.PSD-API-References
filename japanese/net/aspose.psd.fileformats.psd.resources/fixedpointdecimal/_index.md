@@ -1,14 +1,15 @@
 ---
-title: Class FixedPointDecimal
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal クラス. 16 ビット整数と 16 ビット小数の固定小数点 10 進数
+title: "クラス FixedPointDecimal"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal クラス。16ビット整数と 16ビット小数部を持つ固定小数点数"
 type: docs
-weight: 3700
+weight: 4170
 url: /ja/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-16 ビット整数と 16 ビット小数の固定小数点 10 進数。
+固定小数点数（16 ビット整数と 16 ビット小数部）です。
 
 ```csharp
 public class FixedPointDecimal
@@ -18,9 +19,9 @@ public class FixedPointDecimal
 
 | 名前 | 説明 |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | の新しいインスタンスを初期化します`FixedPointDecimal`class. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | の新しいインスタンスを初期化します`FixedPointDecimal`クラス。 32 ビット整数の上位ワードと下位ワードを固定小数点数に分割します。 |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | の新しいインスタンスを初期化します`FixedPointDecimal`class. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | `FixedPointDecimal` クラスの新しいインスタンスを初期化します。 |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | `FixedPointDecimal` クラスの新しいインスタンスを初期化します。32 ビット整数の上位語と下位語を分割して固定小数点数にします。 |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | `FixedPointDecimal` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -33,11 +34,11 @@ public class FixedPointDecimal
 
 | 名前 | 説明 |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | 現在の固定小数点 10 進数を double に変換します。 |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | 現在の固定小数点数を double に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

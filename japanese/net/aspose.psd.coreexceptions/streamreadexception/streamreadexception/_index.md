@@ -1,94 +1,95 @@
 ---
-title: StreamReadException.StreamReadException
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamReadException コンストラクタ. の新しいインスタンスを初期化しますStreamReadExceptionclass.
+title: "StreamReadException.StreamReadException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamReadException コンストラクタ。StreamReadException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/streamreadexception/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`StreamReadException`](../)class.
+[`StreamReadException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamReadException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
+| メッセージ | 文字列 | メッセージです。 |
 
 ### 関連項目
 
 * class [StreamReadException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception) {#constructor_2}
 
-の新しいインスタンスを初期化します[`StreamReadException`](../)class.
+[`StreamReadException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamReadException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [StreamReadException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception, int, int) {#constructor_3}
 
-の新しいインスタンスを初期化します[`StreamReadException`](../)class.
+[`StreamReadException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamReadException(string message, Exception innerException, int expectedReadCount, 
     int actualReadCount)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| innerException | Exception | 内部例外。 |
-| expectedReadCount | Int32 | 予想される読み取りカウント。 |
-| actualReadCount | Int32 | 実際の読み取り回数。 |
+| メッセージ | 文字列 | メッセージです。 |
+| innerException | Exception | 内部例外です。 |
+| expectedReadCount | Int32 | 期待される読み取り回数です。 |
+| actualReadCount | Int32 | 実際の読み取り回数です。 |
 
 ### 関連項目
 
 * class [StreamReadException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, int, int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`StreamReadException`](../)class.
+[`StreamReadException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamReadException(string message, int expectedReadCount, int actualReadCount)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| expectedReadCount | Int32 | 予想される読み取りカウント。 |
-| actualReadCount | Int32 | 実際の読み取り回数。 |
+| メッセージ | 文字列 | メッセージです。 |
+| expectedReadCount | Int32 | 期待される読み取り回数です。 |
+| actualReadCount | Int32 | 実際の読み取り回数です。 |
 
 ### 関連項目
 
 * class [StreamReadException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

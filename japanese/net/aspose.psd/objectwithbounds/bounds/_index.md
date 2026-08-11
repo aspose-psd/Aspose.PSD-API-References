@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: ObjectWithBounds 財産. オブジェクトの境界を取得します
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ObjectWithBounds プロパティ。オブジェクトの境界を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
 オブジェクトの境界を取得します。
@@ -14,7 +15,7 @@ url: /ja/net/aspose.psd/objectwithbounds/bounds/
 public abstract RectangleF Bounds { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 オブジェクトの境界。
 
@@ -22,7 +23,7 @@ public abstract RectangleF Bounds { get; }
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* 名前空間 [Aspose.PSD](../../objectwithbounds/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

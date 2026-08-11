@@ -1,11 +1,12 @@
 ---
-title: GifOptions.ColorResolution
-second_title: Aspose.PSD for .NET API リファレンス
-description: GifOptions 財産. GIF の色解像度を取得または設定します
+title: "GifOptions.ColorResolution"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GifOptions プロパティ。GIF のカラー解像度を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.imageoptions/gifoptions/colorresolution/
 ---
+{{< psd/tize >}}
 ## GifOptions.ColorResolution property
 
 GIF の色解像度を取得または設定します。
@@ -14,18 +15,18 @@ GIF の色解像度を取得または設定します。
 public byte ColorResolution { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色の解像度.
+カラー解像度です。
 
-### 備考
+## 備考
 
-色解像度 - 元の画像で使用可能な原色あたりのビット数 から 1 を引いた値。この値は、グラフィックで実際に使用されている色の数ではなく、 グラフィックの色が選択されたパレット全体の サイズを表します. たとえば、このフィールドの値が 3 の場合、元の画像の パレットには、原色ごとに 4 ビットがあり、画像を作成 できます。この値は、 パレット全体のすべての色がソース マシンで使用できない場合でも、元のパレットの の豊富さを示すように設定する必要があります。
+カラー解像度 - 元画像で利用可能な各プライマリカラーあたりのビット数から 1 を引いた値です。この値は、グラフィックの色が選択された全パレットのサイズを表し、実際にグラフィックで使用された色の数ではありません。例えば、このフィールドの値が 3 の場合、元画像のパレットは各プライマリカラーあたり 4 ビットで画像が作成されていたことを意味します。この値は、たとえソースマシンですべてのパレット色が利用できなくても、元パレットの豊富さを示すために設定すべきです。
 
 ### 関連項目
 
 * class [GifOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

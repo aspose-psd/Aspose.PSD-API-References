@@ -1,27 +1,28 @@
 ---
-title: PointF.IsEmpty
-second_title: Aspose.PSD for .NET API リファレンス
-description: PointF 財産. かどうかを示す値を取得しますPointF空です.
+title: "PointF.IsEmpty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PointF プロパティ。この PointF が空かどうかを示す値を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/pointf/isempty/
 ---
+{{< psd/tize >}}
 ## PointF.IsEmpty property
 
-かどうかを示す値を取得します。[`PointF`](../)空です.
+この [`PointF`](../) が空かどうかを示す値を取得します。
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-両方の場合は true[`X`](../x/)と[`Y`](../y/) 0です。それ以外の場合は false。
+両方の [`X`](../x/) と [`Y`](../y/) が 0 の場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [PointF](../)
-* 名前空間 [Aspose.PSD](../../pointf/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

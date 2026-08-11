@@ -1,30 +1,31 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 指定された位置にイメージ ピクセルを設定します
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。指定された位置の画像ピクセルを設定します。"
 type: docs
-weight: 560
+weight: 580
 url: /ja/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
-指定された位置にイメージ ピクセルを設定します。
+指定された位置に画像ピクセルを設定します。
 
 ```csharp
 public void SetPixel(int x, int y, Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Int32 | ピクセル x の位置。 |
-| y | Int32 | ピクセルの y 位置。 |
-| color | Color | 指定された位置のピクセルの色。 |
+| x | Int32 | ピクセルの X 位置。 |
+| y | Int32 | ピクセルの Y 位置。 |
+| 色 | 色 | 指定された位置のピクセルカラー。 |
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

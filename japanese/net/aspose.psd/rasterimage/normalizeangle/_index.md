@@ -1,14 +1,15 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 角度を正規化します この方法はスキャンされたテキスト ドキュメントに適用されスキャンの歪みを取り除きます この方法はGetSkewAngleとRotateメソッド.
+title: "RasterImage.NormalizeAngle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。角度を正規化します。このメソッドは、スキャンされたテキスト文書の歪みを除去するために適用できます。このメソッドは GetSkewAngle と Rotate メソッドを使用します"
 type: docs
-weight: 420
+weight: 430
 url: /ja/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-角度を正規化します。 この方法は、スキャンされたテキスト ドキュメントに適用され、スキャンの歪みを取り除きます。 この方法は、[`GetSkewAngle`](../getskewangle/)と[`Rotate`](../rotate/)メソッド.
+角度を正規化します。このメソッドは、スキャンされたテキスト文書の歪みを除去するために適用できます。このメソッドは [`GetSkewAngle`](../getskewangle/) と [`Rotate`](../rotate/) メソッドを使用します。
 
 ```csharp
 public void NormalizeAngle()
@@ -17,29 +18,29 @@ public void NormalizeAngle()
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-角度を正規化します。 この方法は、スキャンされたテキスト ドキュメントに適用され、スキャンの歪みを取り除きます。 この方法は、[`GetSkewAngle`](../getskewangle/)と[`Rotate`](../rotate/)メソッド.
+角度を正規化します。このメソッドは、スキャンされたテキスト文書の歪みを除去するために適用できます。このメソッドは [`GetSkewAngle`](../getskewangle/) と [`Rotate`](../rotate/) メソッドを使用します。
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| resizeProportionally | Boolean | に設定した場合`真実`回転した四角形 (コーナー ポイント) の投影に従って画像サイズが変更されます。それ以外の場合は、寸法は変更されず、内部の画像コンテンツのみが回転します。 |
-| backgroundColor | Color | 背景の色。 |
+| resizeProportionally | Boolean | `true` に設定すると、回転した矩形（角点）の投影に従って画像サイズが変更されます。`false` の場合はサイズはそのままで、内部の画像内容のみが回転します。 |
+| backgroundColor | 色 | 背景の色。 |
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

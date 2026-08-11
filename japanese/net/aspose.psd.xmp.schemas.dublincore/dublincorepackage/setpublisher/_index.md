@@ -1,53 +1,54 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD for .NET API リファレンス
-description: DublinCorePackage 方法. パブリッシャーを追加します
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DublinCorePackage メソッド。発行者を追加します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
-パブリッシャーを追加します。
+出版社を追加します。
 
 ```csharp
 public void SetPublisher(string publisher)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| publisher | String | 出版社。 |
+| 発行者 | 文字列 | 発行者です。 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetPublisher(string[]) {#setpublisher_1}
 
-パブリッシャーを追加します。
+出版社を追加します。
 
 ```csharp
 public void SetPublisher(string[] publisher)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| publisher | String[] | 出版社。 |
+| 発行者 | String[] | 発行者です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | パブリッシャー |
+| ArgumentNullException | 発行者 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,53 +1,54 @@
 ---
-title: Matrix.RotateAt
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 方法. 指定された点を中心に時計回りの回転を指定された順序でこの Matrix に適用します
+title: "Matrix.RotateAt"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix メソッド。指定された点を中心に、指定された順序でこの行列に時計回りの回転を適用します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-指定された点を中心に時計回りの回転を指定された順序でこの Matrix に適用します。
+この Matrix に対して、指定された順序で、指定された点を中心に時計回りに回転させます。
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 角度。 |
-| point | PointF | ポイント。 |
-| order | MatrixOrder | オーダー。 |
+| 角度 | シングル | 角度です。 |
+| ポイント | PointF | ポイントです。 |
+| order | MatrixOrder | 順序。 |
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-指定された点を中心に時計回りの回転をこの Matrix にデフォルト (プリペンド) の順序で適用します.
+この Matrix に対して、デフォルト（Prepend）順序で、指定された点を中心に時計回りに回転させます。
 
 ```csharp
 public void RotateAt(float angle, PointF point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 角度。 |
-| point | PointF | ポイント。 |
+| 角度 | シングル | 角度です。 |
+| ポイント | PointF | ポイントです。 |
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

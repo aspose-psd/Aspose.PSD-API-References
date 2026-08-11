@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerSelectionIdsResource 財産. レイヤー ID を取得または設定します
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerSelectionIdsResource プロパティ。レイヤー ID を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
 レイヤー ID を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/laye
 public int[] LayerIds { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤー ID.
+レイヤー ID。
 
 ### 関連項目
 
 * class [LayerSelectionIdsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

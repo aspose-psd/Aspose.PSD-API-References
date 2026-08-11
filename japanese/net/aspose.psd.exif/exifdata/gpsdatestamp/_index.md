@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDateStamp
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. UTC 協定世界時 を基準とした日付と時刻の情報を記録する GPS 文字列を取得または設定します
+title: "ExifData.GPSDateStamp"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。UTC（協定世界時）に対する日付と時刻情報を記録する GPS 文字列を取得または設定します。"
 type: docs
 weight: 390
 url: /ja/net/aspose.psd.exif/exifdata/gpsdatestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDateStamp property
 
-UTC (協定世界時) を基準とした日付と時刻の情報を記録する GPS 文字列を取得または設定します。
+UTC（協定世界時）に相対するGPS文字列の記録日時情報を取得または設定します。
 
 ```csharp
 public string GPSDateStamp { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-UTC (協定世界時) を基準とした日時情報を記録する GPS 文字列。
+UTC（協定世界時）に対する日付と時刻情報を記録する GPS 文字列です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

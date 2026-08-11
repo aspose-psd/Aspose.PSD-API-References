@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternWidth
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPatternFillSettings 財産. パターンの幅を取得または設定します
+title: "IPatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPatternFillSettings プロパティ。パターンの幅を取得または設定します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternWidth property
 
-パターンの幅を取得または設定します。
+取得または設定します。パターンの幅。
 
 ```csharp
 public int PatternWidth { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-パターンの幅.
+パターンの幅。
 
 ### 関連項目
 
 * interface [IPatternFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

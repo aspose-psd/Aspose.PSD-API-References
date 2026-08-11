@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamReader 方法. ストリームからバイト値の配列を読み取ります
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamReader メソッド。ストリームからバイト値の配列を読み取ります"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
 ストリームからバイト値の配列を読み取ります。
@@ -14,22 +15,22 @@ url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbyt
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| array | Byte[] | 埋める配列。 |
-| arrayIndex | Int32 | 値の挿入を開始する配列インデックス。 |
-| position | Int64 | 読み取り元のストリーム位置。 |
-| count | Int64 | 読み取る要素数。 |
+| array | Byte[] | 埋める配列です。 |
+| arrayIndex | Int32 | 値を格納し始める配列インデックスです。 |
+| 位置 | Int64 | 読み取り元のストリーム位置です。 |
+| カウント | Int64 | 読み取る要素数です。 |
 
 ### 戻り値
 
-バイト値の配列。
+バイト値の配列です。
 
 ### 関連項目
 
 * class [TiffStreamReader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,19 +42,19 @@ public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 public byte[] ReadBytes(long position, long count)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| position | Int64 | 読み取る位置。 |
-| count | Int64 | 要素は重要です。 |
+| 位置 | Int64 | 読み取り位置です。 |
+| カウント | Int64 | 要素数です。 |
 
 ### 戻り値
 
-符号なしバイト値の配列。
+符号なしバイト値の配列です。
 
 ### 関連項目
 
 * class [TiffStreamReader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

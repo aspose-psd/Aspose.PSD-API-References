@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage 方法. ラベルを設定します
+title: "XmpBasicPackage.SetLabel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage メソッド。ラベルを設定します"
 type: docs
-weight: 60
+weight: 80
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
 ラベルを設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 public void SetLabel(string label)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| label | String | ラベル。 |
+| label | 文字列 | ラベルです。 |
 
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Size.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size 財産. この垂直コンポーネントを取得または設定しますSize .
+title: "Size.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size プロパティ。この Size の垂直成分を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/size/height/
 ---
+{{< psd/tize >}}
 ## Size.Height property
 
-この垂直コンポーネントを取得または設定します[`Size`](../) .
+この [`Size`](../) の垂直成分を取得または設定します。
 
 ```csharp
 public int Height { get; set; }
@@ -17,7 +18,7 @@ public int Height { get; set; }
 ### 関連項目
 
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: UnknownResource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnknownResource 財産. 層リソースの長さをバイト単位で取得します
+title: "UnknownResource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnknownResource プロパティ。レイヤー リソースの長さ（バイト）を取得します"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [UnknownResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

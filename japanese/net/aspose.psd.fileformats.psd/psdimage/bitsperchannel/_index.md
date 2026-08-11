@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. チャネルごとのビットを取得します
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。チャンネルあたりのビット数を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
-チャネルごとのビットを取得します。
+チャンネルあたりのビット数を取得します。
 
 ```csharp
 public int BitsPerChannel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-チャネルあたりのビット数。
+チャンネルあたりのビット数です。
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

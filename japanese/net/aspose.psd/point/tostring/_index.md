@@ -1,14 +1,15 @@
 ---
-title: Point.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. これを変換Point人間が読める文字列.
+title: "Point.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。この Point を人間が読みやすい文字列に変換します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-これを変換[`Point`](../)人間が読める文字列.
+この [`Point`](../) を人間が読みやすい文字列に変換します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-あStringは、このインスタンスを表します。
+このインスタンスを表す文字列です。
 
 ### 関連項目
 
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

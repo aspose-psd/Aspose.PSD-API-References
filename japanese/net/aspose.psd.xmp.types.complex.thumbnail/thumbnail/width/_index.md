@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD for .NET API リファレンス
-description: Thumbnail 財産. 幅を取得または設定します
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Thumbnail プロパティ。幅を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
 幅を取得または設定します。
@@ -14,20 +15,20 @@ url: /ja/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 public int Width { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-幅.
+幅です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 値;幅は 0 未満にはできません |
+| ArgumentOutOfRangeException | value;Width は 0 未満にできません |
 
 ### 関連項目
 
 * class [Thumbnail](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

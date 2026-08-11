@@ -1,14 +1,15 @@
 ---
-title: Color.ToKnownColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. を取得しますKnownColorこれの価値Color構造体.
+title: "Color.ToKnownColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。 この Color 構造体の KnownColor 値を取得します。"
 type: docs
 weight: 1600
 url: /ja/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-を取得します[`KnownColor`](../../knowncolor/)これの価値[`Color`](../)構造体.
+この [`Color`](../) 構造体の [`KnownColor`](../../knowncolor/) 値を取得します。
 
 ```csharp
 public KnownColor ToKnownColor()
@@ -16,13 +17,13 @@ public KnownColor ToKnownColor()
 
 ### 戻り値
 
-の要素[`KnownColor`](../../knowncolor/)列挙、[`Color`](../)のいずれかを使用して、定義済みの色から作成されます。[`FromName`](../fromname/)メソッドまたは[`FromKnownColor`](../fromknowncolor/)方法;それ以外の場合は 0。
+列挙体 [`KnownColor`](../../knowncolor/) の要素です。[`Color`](../) が事前定義された色から、[`FromName`](../fromname/) メソッドまたは [`FromKnownColor`](../fromknowncolor/) メソッドのいずれかを使用して作成された場合；それ以外の場合は 0 です。
 
 ### 関連項目
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

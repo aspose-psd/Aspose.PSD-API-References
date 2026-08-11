@@ -1,28 +1,29 @@
 ---
-title: ExifData.MakerNoteData
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. メーカーノートデータを取得します
+title: "ExifData.MakerNoteData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。メーカー備考データを取得します"
 type: docs
 weight: 780
 url: /ja/net/aspose.psd.exif/exifdata/makernotedata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteData property
 
-メーカーノートデータを取得します。
+メーカー注記データを取得します。
 
 ```csharp
 public TiffDataType[] MakerNoteData { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-メーカーノートデータ.
+メーカー備考データです。
 
 ### 関連項目
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

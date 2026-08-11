@@ -1,31 +1,32 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageExportersRegistry 方法. 指定された保存オプションとイメージに適した最初に見つかったエクスポーターを作成します
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageExportersRegistry メソッド。指定された保存オプションと画像に適合する最初に見つかったエクスポーターを作成します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-指定された保存オプションとイメージに適した最初に見つかったエクスポーターを作成します。
+指定された保存オプションと画像に適した最初に見つかったエクスポーターを作成します。
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | エクスポートするイメージ。 |
-| options | ImageOptionsBase | エクスポートに使用する保存オプション。 |
+| image | Image | エクスポートする画像。 |
+| オプション | ImageOptionsBase | エクスポートに使用する保存オプション。 |
 
 ### 戻り値
 
-指定されたイメージと保存オプションをサポートするエクスポーター、またはそのようなエクスポーターが見つからない場合は null。
+指定された画像と保存オプションをサポートするエクスポーター、または該当するエクスポーターが見つからない場合は null。
 
-### 備考
+## 備考
 
-最初のエクスポーターは、実際には最後に登録されたものになります。
+最初のエクスポーターは実際には最後に登録されたものになります。
 
 ### 関連項目
 
@@ -33,7 +34,7 @@ public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOpti
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* 名前空間 [Aspose.PSD](../../imageexportersregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

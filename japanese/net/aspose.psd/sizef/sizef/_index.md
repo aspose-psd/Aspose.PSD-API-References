@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD for .NET API リファレンス
-description: SizeF コンストラクタ. の新しいインスタンスを初期化しますSizeF指定された構造SizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SizeF コンストラクタ。 指定された SizeF から新しい SizeF 構造体のインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SizeF`](../)指定された構造[`SizeF`](../) .
+指定された [`SizeF`](../) から新しい [`SizeF`](../) 構造体のインスタンスを初期化します。
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size | SizeF | の[`SizeF`](../)そこから新しいものを作成する[`SizeF`](../). |
+| size | SizeF | 新しい [`SizeF`](../) を作成する元となる [`SizeF`](../) です。 |
 
 ### 関連項目
 
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-の新しいインスタンスを初期化します[`SizeF`](../)指定された構造[`PointF`](../../pointf/) .
+指定された [`PointF`](../../pointf/) から新しい [`SizeF`](../) 構造体のインスタンスを初期化します。
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | PointF | の[`PointF`](../../pointf/)これを初期化する元[`SizeF`](../). |
+| point | PointF | この [`SizeF`](../) を初期化する元となる [`PointF`](../../pointf/) です。 |
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-の新しいインスタンスを初期化します[`SizeF`](../)指定された次元からの構造.
+指定された寸法から新しい [`SizeF`](../) 構造体のインスタンスを初期化します。
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Single | 新しいの幅コンポーネント[`SizeF`](../). |
-| height | Single | 新しいの高さコンポーネント[`SizeF`](../). |
+| width | Single | 新しい [`SizeF`](../) の幅コンポーネントです。 |
+| height | Single | 新しい [`SizeF`](../) の高さコンポーネントです。 |
 
 ### 関連項目
 
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmykColor.ToValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColor 方法. to 値.
+title: "CmykColor.ToValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColor メソッド。to 値"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-to 値.
+変換後の値です。
 
 ```csharp
 public long ToValue()
@@ -16,12 +17,12 @@ public long ToValue()
 
 ### 戻り値
 
-Int64 .
+この Int64。
 
 ### 関連項目
 
 * struct [CmykColor](../)
-* 名前空間 [Aspose.PSD](../../cmykcolor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

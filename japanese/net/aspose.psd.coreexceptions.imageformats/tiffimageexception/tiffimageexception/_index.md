@@ -1,91 +1,92 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffImageException コンストラクタ. の新しいインスタンスを初期化しますTiffImageExceptionclass.
+title: "TiffImageException.TiffImageException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffImageException コンストラクタ。TiffImageException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`TiffImageException`](../)class.
+[`TiffImageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffImageException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [TiffImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-の新しいインスタンスを初期化します[`TiffImageException`](../)class.
+[`TiffImageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [TiffImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-の新しいインスタンスを初期化します[`TiffImageException`](../)class.
+[`TiffImageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
-| error | TiffOptionsError | エラー。 |
+| メッセージ | 文字列 | メッセージです。 |
+| error | TiffOptionsError | エラーです。 |
 
 ### 関連項目
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-の新しいインスタンスを初期化します[`TiffImageException`](../)class.
+[`TiffImageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| error | TiffOptionsError | エラー。 |
+| error | TiffOptionsError | エラーです。 |
 
 ### 関連項目
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

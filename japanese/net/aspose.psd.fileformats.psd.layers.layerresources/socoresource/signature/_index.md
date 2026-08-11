@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Signature
-second_title: Aspose.PSD for .NET API リファレンス
-description: SoCoResource 財産. 層リソース署名を取得します
+title: "SoCoResource.Signature"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SoCoResource プロパティ。レイヤー リソースの署名を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Signature property
 
-層リソース署名を取得します。
+レイヤーリソースのシグネチャを取得します。
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### 関連項目
 
 * class [SoCoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

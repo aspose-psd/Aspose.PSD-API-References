@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransformBrush 財産. 変換が何らかの方法で変更されたかどうかを示す値を取得しますたとえば変換マトリックスを設定するか変換マトリックスを変更するメソッドのいずれかを呼び出す このプロパティはGDI. との後方互換性のために導入されました
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransformBrush プロパティ。変換が何らかの方法で変更されたかどうかを示す値を取得します。たとえば、変換行列を設定したり、変換行列を変更するメソッドを呼び出したりした場合です。このプロパティは GDI との下位互換性のために導入されました。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-変換が何らかの方法で変更されたかどうかを示す値を取得します。たとえば、変換マトリックスを設定するか、変換マトリックスを変更するメソッドのいずれかを呼び出す 。このプロパティは、GDI+. との後方互換性のために導入されました。
+変換が何らかの方法で変更されたかどうかを示す値を取得します。例えば、変換行列を設定したり、変換行列を変更するメソッドを呼び出す場合などです。このプロパティは GDI+ との下位互換性のために導入されました。
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`変換が変更された場合。さもないと、`間違い` .
+`True` 変換が変更された場合; それ以外は `false`。
 
 ### 関連項目
 
 * class [TransformBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../transformbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

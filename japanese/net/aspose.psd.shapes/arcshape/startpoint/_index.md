@@ -1,28 +1,29 @@
 ---
-title: ArcShape.StartPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: ArcShape 財産. 形状の開始点を取得します
+title: "ArcShape.StartPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ArcShape プロパティ。 開始シェイプポイントを取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.shapes/arcshape/startpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.StartPoint property
 
-形状の開始点を取得します。
+シェイプの開始点を取得します。
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-形状の開始点。
+開始形状ポイントです。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../arcshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

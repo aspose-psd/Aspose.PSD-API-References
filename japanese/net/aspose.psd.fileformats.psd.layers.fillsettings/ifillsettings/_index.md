@@ -1,14 +1,15 @@
 ---
-title: Interface IFillSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings インターフェース. 塗りつぶし設定のベース インターフェイス
+title: "インターフェイス IFillSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings インターフェイス。塗り設定の基本インターフェイス"
 type: docs
-weight: 2000
+weight: 2120
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
+{{< psd/tize >}}
 ## IFillSettings interface
 
-塗りつぶし設定のベース インターフェイス
+塗り設定の基本インターフェイス
 
 ```csharp
 public interface IFillSettings
@@ -18,11 +19,11 @@ public interface IFillSettings
 
 | 名前 | 説明 |
 | --- | --- |
-| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | 塗りつぶしのタイプを取得します。 |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | 塗りのタイプを取得します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

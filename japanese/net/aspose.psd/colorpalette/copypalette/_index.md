@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.CopyPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorPalette 方法. パレットをコピーします
+title: "ColorPalette.CopyPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorPalette メソッド。パレットをコピーします"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/colorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 パレットをコピーします。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd/colorpalette/copypalette/
 public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | カラーパレット。 |
+| colorPalette | IColorPalette | カラーパレットです。 |
 | useCompactPalette | Boolean | コンパクトパレットかどうかを示します。 |
 
 ### 戻り値
 
-新しく作成およびコピーされたパレット、または null パレットが渡された場合は null。
+新しく作成されコピーされたパレット、またはパレットが null の場合は null が返されます。
 
 ### 関連項目
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* 名前空間 [Aspose.PSD](../../colorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,19 +41,19 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompa
 public static ColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | カラーパレット。 |
+| colorPalette | IColorPalette | カラーパレットです。 |
 
 ### 戻り値
 
-新しく作成およびコピーされたパレット、または null パレットが渡された場合は null。
+新しく作成されコピーされたパレット、またはパレットが null の場合は null が返されます。
 
 ### 関連項目
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* 名前空間 [Aspose.PSD](../../colorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Aspose.PSD for .NET API リファレンス
-description: FontSettings 方法. フォント一覧で使用するフォントを制限します Restriction の前に実際のフォント名を確認してください 許可されたフォント リストを Null に設定してrestrictions を削除します
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FontSettings メソッド。フォントリストによってフォントの使用を制限します。制限を設定する前に実際のフォント名を確認してください。制限を解除するには、許可されたフォントリストを Null に設定します。"
 type: docs
-weight: 100
+weight: 120
 url: /ja/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-フォント一覧で使用するフォントを制限します。 Restriction の前に実際のフォント名を確認してください 許可されたフォント リストを Null に設定して、restrictions を削除します
+フォントをフォントリストで制限します。制限前に実際のフォント名を確認してください。許可されたフォントリストを Null に設定すると制限が解除されます。
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontList | String[] | フォント一覧です。 |
+| fontList | String[] | フォントリストです。 |
 
-### 例
+## 例
 
-次のコードは、 を使用してプログラムでフォントを制限する機能を示しています。
+以下のコードは、プログラムでフォントを制限する機能を示しています。
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -58,7 +60,7 @@ finally
 ### 関連項目
 
 * class [FontSettings](../)
-* 名前空間 [Aspose.PSD](../../fontsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

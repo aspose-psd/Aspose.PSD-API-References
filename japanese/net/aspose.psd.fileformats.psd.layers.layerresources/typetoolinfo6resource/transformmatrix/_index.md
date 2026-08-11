@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.TransformMatrix
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfo6Resource 財産. 変換行列を取得または設定します
+title: "TypeToolInfo6Resource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfo6Resource プロパティ。変換行列を取得または設定します"
 type: docs
-weight: 150
+weight: 120
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TransformMatrix property
 
 変換行列を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resou
 public double[] TransformMatrix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-変換行列.
+変換行列です。
 
 ### 関連項目
 
 * class [TypeToolInfo6Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Rational
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Derived.Rational クラス. XMP Rational を表します
+title: "クラス Rational"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Derived.Rational クラス。XMP Rational を表します。"
 type: docs
-weight: 6120
+weight: 6620
 url: /ja/net/aspose.psd.xmp.types.derived/rational/
 ---
+{{< psd/tize >}}
 ## Rational class
 
 XMP Rational を表します。
@@ -18,7 +19,7 @@ public class Rational : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [Rational](rational/)(int, int) | の新しいインスタンスを初期化します`Rational`class. |
+| [Rational](rational/)(int, int) | `Rational` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -32,12 +33,12 @@ public class Rational : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | XMP 形式で含まれる文字列の値を取得します。 |
 
 ### 関連項目
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

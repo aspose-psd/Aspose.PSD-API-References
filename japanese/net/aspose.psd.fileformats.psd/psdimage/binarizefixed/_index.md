@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 事前定義されたしきい値による画像の 2 値化
+title: "PsdImage.BinarizeFixed"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。事前定義されたしきい値で画像を二値化します"
 type: docs
-weight: 480
+weight: 540
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-事前定義されたしきい値による画像の 2 値化
+事前定義されたしきい値を使用した画像の二値化
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| threshold | Byte | しきい値。対応するピクセルのグレー値がしきい値よりも大きい場合は、値 255 が割り当てられ、それ以外の場合は 0 が割り当てられます。 |
+| 閾値 | バイト | 閾値の値。ピクセルの対応するグレイ値が閾値より大きい場合、255 が割り当てられ、そうでなければ 0 が割り当てられます。 |
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

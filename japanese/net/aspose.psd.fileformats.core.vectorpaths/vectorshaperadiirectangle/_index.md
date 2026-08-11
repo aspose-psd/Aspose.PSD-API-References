@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle クラス. ベクトル形状半径長方形を定義します class
+title: "クラス VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle クラス。ベクトル形状の半径矩形クラスを定義します。"
 type: docs
-weight: 1450
+weight: 1460
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-ベクトル形状半径長方形を定義します class
+ベクトル形状の半径矩形クラスを定義します
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -18,26 +19,26 @@ public sealed class VectorShapeRadiiRectangle
 
 | 名前 | 説明 |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | デフォルトのコンストラクター。 |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | 底を取得または設定します。 |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | 下部を取得または設定します。 |
 | [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | 右下を取得または設定します。 |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | 単位値クアッド バージョンを取得または設定します。 |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | 単位値クアッドバージョンを取得または設定します。 |
 | [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | 左上を取得または設定します。 |
 | [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | 右上を取得または設定します。 |
 
-### 例
+## 例
 
-この例では、シェイプ レイヤーとベクター パスを含む PSD イメージの読み込みと保存が正しく機能することを示します。
+この例は、シェイプレイヤーとベクトルパスを使用した PSD 画像の読み込みと保存が正しく機能することを示しています。
 
 ```csharp
 [C#]
 
-// この例は、シェイプ レイヤーとベクター パスを含む PSD 画像の読み込みと保存が正しく機能することを示しています。
+// この例は、シェイプレイヤーとベクトルパスを使用した PSD 画像の読み込みと保存が正しく機能することを示しています。
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -164,7 +165,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

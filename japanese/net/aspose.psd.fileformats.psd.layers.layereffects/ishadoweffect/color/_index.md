@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: IShadowEffect 財産. 色を取得または設定します
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IShadowEffect プロパティ。色を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
 色を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 public Color Color { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色.
+色です。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

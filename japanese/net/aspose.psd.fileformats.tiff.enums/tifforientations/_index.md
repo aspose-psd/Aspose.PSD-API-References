@@ -1,14 +1,15 @@
 ---
-title: Enum TiffOrientations
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations 列挙. 画像の向き ORIENTATION タグの可能な値.
+title: "列挙体 TiffOrientations"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations 列挙体。画像の向き。ORIENTATION タグの可能な値。"
 type: docs
-weight: 4110
+weight: 4580
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
+{{< psd/tize >}}
 ## TiffOrientations enumeration
 
-画像の向き。 ORIENTATION タグの可能な値.
+画像の向き。ORIENTATION タグの可能な値。
 
 ```csharp
 public enum TiffOrientations : ushort
@@ -16,20 +17,20 @@ public enum TiffOrientations : ushort
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| TopLeft | `1` | 行 0 上、列 0 lhs. |
-| TopRight | `2` | 行 0 上、列 0 rhs. |
-| BottomRight | `3` | 行 0 下、列 0 rhs. |
-| BottomLeft | `4` | 行 0 下、列 0 lhs. |
-| LeftTop | `5` | 行 0 左、列 0 top. |
-| RightTop | `6` | 行 0 右、列 0 上。 |
-| RightBottom | `7` | 行 0 右、列 0 下。 |
-| LeftBottom | `8` | 行 0 左、列 0 下。 |
+| TopLeft | `1` | 行 0 が上、列 0 が左側。 |
+| TopRight | `2` | 行 0 が上、列 0 が右側。 |
+| BottomRight | `3` | 行 0 が下、列 0 が右側。 |
+| BottomLeft | `4` | 行 0 の下部、列 0 の左側。 |
+| LeftTop | `5` | 行 0 の左側、列 0 の上部。 |
+| RightTop | `6` | 行 0 の右側、列 0 の上部。 |
+| RightBottom | `7` | 行 0 の右側、列 0 の下部。 |
+| LeftBottom | `8` | 行 0 の左側、列 0 の下部。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

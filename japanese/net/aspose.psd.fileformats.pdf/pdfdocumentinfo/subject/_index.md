@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Aspose.PSD for .NET API リファレンス
-description: PdfDocumentInfo 財産. ドキュメントの件名を取得または設定します
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PdfDocumentInfo プロパティ。ドキュメントの件名を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
 ドキュメントの件名を取得または設定します。
@@ -17,7 +18,7 @@ public string Subject { get; set; }
 ### 関連項目
 
 * class [PdfDocumentInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

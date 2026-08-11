@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSpeedRef
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 受信機の移動速度を表すために使用される単位を取得または設定します
+title: "ExifData.GPSSpeedRef"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 受信機の移動速度を表すために使用される単位を取得または設定します"
 type: docs
 weight: 610
 url: /ja/net/aspose.psd.exif/exifdata/gpsspeedref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeedRef property
 
-GPS 受信機の移動速度を表すために使用される単位を取得または設定します。
+GPS 受信機の移動速度を表す単位を取得または設定します。
 
 ```csharp
 public string GPSSpeedRef { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GPS 受信機の移動速度を表す単位です。
+GPS 受信機の移動速度を表すために使用される単位。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

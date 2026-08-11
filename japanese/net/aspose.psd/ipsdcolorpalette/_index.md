@@ -1,14 +1,15 @@
 ---
-title: Interface IPsdColorPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IPsdColorPalette インターフェース. パスド カラー パレット
+title: "インターフェイス IPsdColorPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IPsdColorPalette インターフェイス。pasd カラーパレット"
 type: docs
-weight: 4550
+weight: 5020
 url: /ja/net/aspose.psd/ipsdcolorpalette/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette interface
 
-パスド カラー パレット
+pasd カラーパレット
 
 ```csharp
 public interface IPsdColorPalette : IColorPalette
@@ -18,16 +19,16 @@ public interface IPsdColorPalette : IColorPalette
 
 | 名前 | 説明 |
 | --- | --- |
-| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | 透明色が存在するかどうかを示す値を取得します。 |
-| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | 生のカラー パレット エントリ データを取得します。 |
-| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | 生のカラー パレット エントリ数を取得します。 |
-| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | 透明色を取得します。 |
-| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | 透明色のインデックスを取得します。 |
+| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | 透過色が存在するかどうかを示す値を取得します。 |
+| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | 生のカラーパレットエントリーデータを取得します。 |
+| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | 生のカラーパレットエントリー数を取得します。 |
+| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | 透過色を取得します。 |
+| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | 透過色のインデックスを取得します。 |
 
 ### 関連項目
 
 * interface [IColorPalette](../icolorpalette/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

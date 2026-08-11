@@ -1,29 +1,30 @@
 ---
-title: TypeToolStyleInfo.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolStyleInfo 方法. はTypeToolFontInfo指定されたストリーム コンテナーへの情報
+title: "TypeToolStyleInfo.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolStyleInfo メソッド。指定されたストリームコンテナに TypeToolFontInfo の情報を保存します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.Save method
 
-は[`TypeToolFontInfo`](../../typetoolfontinfo/)指定されたストリーム コンテナーへの情報。
+指定されたストリームコンテナに [`TypeToolFontInfo`](../../typetoolfontinfo/) の情報を保存します。
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 保存先のストリーム コンテナー。 |
-| psdVersion | Int32 | PSD版です。 |
+| streamContainer | StreamContainer | 保存先のストリームコンテナです。 |
+| psdVersion | Int32 | PSD バージョンです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolStyleInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.MeteringMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 測定モードを取得または設定します
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。測光モードを取得または設定します"
 type: docs
 weight: 810
 url: /ja/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
-測定モードを取得または設定します。
+測光モードを取得または設定します。
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-測光モード.
+測光モードです。
 
 ### 関連項目
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

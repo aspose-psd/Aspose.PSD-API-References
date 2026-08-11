@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: PointExtensions 方法. はPointFにPointF .
+title: "PointExtensions.ToGdiPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PointExtensions メソッド。PointF を PointF に変換します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.extensions/pointextensions/togdipoint/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoint method
 
-は[`PointF`](../../../aspose.psd/pointf/)にPointF .
+[`PointF`](../../../aspose.psd/pointf/) を PointF に変換します。
 
 ```csharp
 public static PointF ToGdiPoint(PointF point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | PointF | の[`PointF`](../../../aspose.psd/pointf/)変換する。 |
+| point | PointF | [`PointF`](../../../aspose.psd/pointf/) を変換します。 |
 
 ### 戻り値
 
-変換されたPointF.
+変換された PointF。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../pointextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

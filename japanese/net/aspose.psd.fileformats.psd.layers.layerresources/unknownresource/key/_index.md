@@ -1,14 +1,15 @@
 ---
-title: UnknownResource.Key
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnknownResource 財産. レイヤ リソース キーを取得します
+title: "UnknownResource.Key"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnknownResource プロパティ。レイヤー リソースのキーを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Key property
 
-レイヤ リソース キーを取得します。
+レイヤーリソースキーを取得します。
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### 関連項目
 
 * class [UnknownResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

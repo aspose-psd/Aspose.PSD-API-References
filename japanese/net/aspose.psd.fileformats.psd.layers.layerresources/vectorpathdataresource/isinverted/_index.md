@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsInverted
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorPathDataResource 財産. このインスタンスが反転されているかどうかを示す値を取得または設定します.
+title: "VectorPathDataResource.IsInverted"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorPathDataResource プロパティ。 このインスタンスが反転されているかどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsInverted property
 
-このインスタンスが反転されているかどうかを示す値を取得または設定します.
+このインスタンスが反転しているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが反転されている場合。さもないと、`間違い` .
+`true` このインスタンスが反転している場合。そうでなければ `false`。
 
 ### 関連項目
 
 * class [VectorPathDataResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

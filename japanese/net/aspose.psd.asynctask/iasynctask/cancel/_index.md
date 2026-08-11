@@ -1,14 +1,15 @@
 ---
-title: IAsyncTask.Cancel
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTask 方法. このタスクをキャンセルします タスクはアルゴリズムの制御された停止によって安全に完了します
+title: "IAsyncTask.Cancel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTask メソッド。このタスクをキャンセルします。アルゴリズムの制御された停止により、タスクは安全に完了します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.asynctask/iasynctask/cancel/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Cancel method
 
-このタスクをキャンセルします。 タスクは、アルゴリズムの制御された停止によって安全に完了します。
+このタスクをキャンセルします。アルゴリズムを制御的に停止させることで、タスクは安全に完了します。
 
 ```csharp
 public void Cancel()
@@ -17,7 +18,7 @@ public void Cancel()
 ### 関連項目
 
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

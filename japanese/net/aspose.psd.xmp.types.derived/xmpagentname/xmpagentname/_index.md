@@ -1,27 +1,28 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpAgentName コンストラクタ. の新しいインスタンスを初期化しますXmpAgentNameclass.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpAgentName コンストラクタ。XmpAgentName クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-の新しいインスタンスを初期化します[`XmpAgentName`](../)class.
+[`XmpAgentName`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpAgentName(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 関連項目
 
 * class [XmpAgentName](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IPartialArgb64PixelLoader インターフェース. 64 ビット ARGB ピクセル ローダー
+title: "インターフェイス IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IPartialArgb64PixelLoader インターフェイス。64 ビット ARGB ピクセルローダーです。"
 type: docs
-weight: 4520
+weight: 4990
 url: /ja/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
-64 ビット ARGB ピクセル ローダー。
+64ビット ARGB ピクセルローダー。
 
 ```csharp
 public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
@@ -18,12 +19,12 @@ public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | 読み込まれたピクセルを処理します。 |
+| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | ロードされたピクセルを処理します。 |
 
 ### 関連項目
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 財産. パレットを自動調整するかどうかを示す値を取得または設定します
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image プロパティ。自動パレット調整を行うかどうかを示す値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-パレットを自動調整するかどうかを示す値を取得または設定します。
+自動調整パレットかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`自動調整パレットを有効にする場合。さもないと、`間違い` .
+`true` は自動調整パレットを有効にする場合; それ以外は `false`。
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

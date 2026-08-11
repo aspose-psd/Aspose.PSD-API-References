@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.NoBreak
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. ブレークなし値を取得または設定します
+title: "ITextStyle.NoBreak"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。改行なしの値を取得または設定します"
 type: docs
 weight: 210
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/
 ---
+{{< psd/tize >}}
 ## ITextStyle.NoBreak property
 
-ブレークなし値を取得または設定します。
+改行禁止値を取得または設定します。
 
 ```csharp
 public bool NoBreak { get; set; }
@@ -17,7 +18,7 @@ public bool NoBreak { get; set; }
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

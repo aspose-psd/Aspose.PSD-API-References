@@ -1,36 +1,37 @@
 ---
-title: OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API リファレンス
-description: OSTypeStructuresRegistry 方法. ロードOSTypeStructure指定されたものに適した最初に見つかったオープナーを使用するstream .
+title: "OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OSTypeStructuresRegistry メソッド。指定されたストリームに適した最初に見つかったオープナーを使用して OSTypeStructure をロードします"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor method
 
-ロード[`OSTypeStructure`](../../ostypestructure/)指定されたものに適した最初に見つかったオープナーを使用する*stream* .
+指定された*ストリーム*に適した最初に見つかったオープナーを使用して[`OSTypeStructure`](../../ostypestructure/)をロードします
 
 ```csharp
 public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ストリーム。 |
+| ストリーム | ストリーム | ストリームです。 |
 
 ### 戻り値
 
-ロードされた[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/)オープナーが見つからない場合は null.
+オープナーが見つからない場合は、ロードされた[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/)または null が返されます
 
-### 備考
+## 備考
 
-最初のオープナーは、実際には最後に登録されます.
+最初のオープナーは実際には最後に登録されたものになります。
 
 ### 関連項目
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [OSTypeStructuresRegistry](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.UOrder
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPlacedLayerResource 財産. PSD ファイルに配置されたレイヤーの U オーダー値を取得または設定します
+title: "IPlacedLayerResource.UOrder"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPlacedLayerResource プロパティ。PSD ファイル内の配置されたレイヤーの U 順序値を取得または設定します。"
 type: docs
 weight: 180
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.UOrder property
 
-PSD ファイルに配置されたレイヤーの U オーダー値を取得または設定します。
+配置されたレイヤーの PSD ファイルにおける U 順序値を取得または設定します。
 
 ```csharp
 public int UOrder { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤーの U オーダー値.
+配置レイヤーの U 順序値。
 
 ### 関連項目
 
 * interface [IPlacedLayerResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

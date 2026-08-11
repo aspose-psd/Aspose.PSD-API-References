@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Data
-second_title: Aspose.PSD for .NET API リファレンス
-description: LnsrResource 財産. 生データを取得します
+title: "LnsrResource.Data"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LnsrResource プロパティ。生データを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Data property
 
 生データを取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 public byte[] Data { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-データ.
+データです。
 
 ### 関連項目
 
 * class [LnsrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

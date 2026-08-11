@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. ラスター イメージを取得します
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。ラスタ画像を取得します"
 type: docs
-weight: 120
+weight: 140
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-ラスター イメージを取得します。
+ラスタ画像を取得します。
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ラスター画像。
+ラスタ画像。
 
-### 例
+## 例
 
-次のコードは、AI 形式ファイルのラスター イメージの設定を読み込む方法を示しています。
+以下のコードは、AI 形式ファイルのラスタ画像設定をロードする方法を示しています。
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

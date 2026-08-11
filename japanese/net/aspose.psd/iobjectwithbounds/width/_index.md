@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Aspose.PSD for .NET API リファレンス
-description: IObjectWithBounds 財産. オブジェクトの幅を取得します
+title: "IObjectWithBounds.Width"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IObjectWithBounds プロパティ。オブジェクトの幅を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
-オブジェクトの幅を取得します。
+列挙体 KnownColor
 
 ```csharp
 public int Width { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 オブジェクトの幅。
 
 ### 関連項目
 
 * interface [IObjectWithBounds](../)
-* 名前空間 [Aspose.PSD](../../iobjectwithbounds/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. y 解像度を取得または設定します
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。Y 解像度を取得または設定します。"
 type: docs
-weight: 690
+weight: 700
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
-y 解像度を取得または設定します。
+Y 解像度を取得または設定します。
 
 ```csharp
 public TiffRational Yresolution { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-y 解像度。
+Y 解像度です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

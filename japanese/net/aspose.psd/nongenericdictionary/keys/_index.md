@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 財産. を取得しますICollection のキーを含むオブジェクトIDictionaryobject.
+title: "NonGenericDictionary.Keys"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary プロパティ。 IDictionary オブジェクトのキーを含む ICollection オブジェクトを取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-を取得しますICollection のキーを含むオブジェクトIDictionaryobject.
+IDictionary オブジェクトのキーを含む ICollection オブジェクトを取得します。
 
 ```csharp
 public ICollection Keys { get; }
@@ -16,12 +17,12 @@ public ICollection Keys { get; }
 
 ### 戻り値
 
-アンICollectionのキーを含むオブジェクトIDictionary物体。
+IDictionary オブジェクトのキーを含む ICollection オブジェクトです。
 
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. ハーフトーン ヒントを取得または設定します
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。ハーフトーン ヒントを取得または設定します"
 type: docs
-weight: 170
+weight: 180
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-ハーフトーン ヒントを取得または設定します。
+ハーフトーンヒントを取得または設定します。
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ハーフトーンのヒント.
+ハーフトーン ヒント。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 価値 |
-| ArgumentOutOfRangeException | 値; ハーフトーン ヒント配列の長さは 2 に等しくなければなりません。 |
+| ArgumentNullException | 値 |
+| ArgumentOutOfRangeException | value;ハーフトーン ヒント配列の長さは 2 に等しくなければなりません。 |
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

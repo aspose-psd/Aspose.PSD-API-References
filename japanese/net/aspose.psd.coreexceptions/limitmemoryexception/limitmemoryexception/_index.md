@@ -1,91 +1,92 @@
 ---
-title: LimitMemoryException.LimitMemoryException
-second_title: Aspose.PSD for .NET API リファレンス
-description: LimitMemoryException コンストラクタ. の新しいインスタンスを初期化しますLimitMemoryExceptionclass.
+title: "LimitMemoryException.LimitMemoryException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LimitMemoryException コンストラクタ。LimitMemoryException クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/limitmemoryexception/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`LimitMemoryException`](../)class.
+[`LimitMemoryException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LimitMemoryException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [LimitMemoryException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception) {#constructor_2}
 
-の新しいインスタンスを初期化します[`LimitMemoryException`](../)class.
+[`LimitMemoryException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [LimitMemoryException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, long) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LimitMemoryException`](../)class.
+[`LimitMemoryException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LimitMemoryException(string message, long reduceMemoryFactor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| reduceMemoryFactor | Int64 | メモリー係数の削減。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| reduceMemoryFactor | Int64 | メモリ削減係数です。 |
 
 ### 関連項目
 
 * class [LimitMemoryException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception, int) {#constructor_3}
 
-の新しいインスタンスを初期化します[`LimitMemoryException`](../)class.
+[`LimitMemoryException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException, int reduceMemoryFactor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
-| reduceMemoryFactor | Int32 | メモリー係数の削減。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
+| reduceMemoryFactor | Int32 | メモリ削減係数です。 |
 
 ### 関連項目
 
 * class [LimitMemoryException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

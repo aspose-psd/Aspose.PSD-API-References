@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed4Bpp
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. を取得しますPixelDataFormat インデックス付きピクセル データ ストレージはカラー パレットが使用されるすべての場所でデータの保存と取得を可能にすることを目的としています. あるパレットから別のパレットへまたは RGBA からインデックス付きカラー モデルへの変換が必要になる場合があるため注意して使用してください .
+title: "PixelDataFormat.RgbIndexed4Bpp"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。色ごとに4ビットのインデックス形式で定義された PixelDataFormat を取得します。インデックス化されたピクセルデータストレージは、カラーパレットが使用されるすべての場所でデータの保存と取得を可能にすることを意図しています。別のパレットへの変換や RGBA からインデックスカラー形式への変換が必要になる可能性があるため、注意して使用してください。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/pixeldataformat/rgbindexed4bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed4Bpp property
 
-を取得します[`PixelDataFormat`](../) インデックス付きピクセル データ ストレージは、カラー パレットが使用されるすべての場所でデータの保存と取得を可能にすることを目的としています. あるパレットから別のパレットへ、または RGBA からインデックス付きカラー モデルへの変換が必要になる場合があるため、注意して使用してください。 .
+[`PixelDataFormat`](../)は、色ごとに4ビットのインデックス形式で定義されています。インデックス化されたピクセルデータストレージは、カラーパレットが使用されるすべての場所でデータの保存と取得を可能にすることを意図しています。別のパレットへの変換や RGBA からインデックスカラー形式への変換が必要になる可能性があるため、注意して使用してください。
 
 ```csharp
 public static PixelDataFormat RgbIndexed4Bpp { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`PixelDataFormat`](../)色ごとにインデックス付きの 4 ビット用に定義されています。
+色ごとに4ビットのインデックス形式で定義された[`PixelDataFormat`](../)です。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

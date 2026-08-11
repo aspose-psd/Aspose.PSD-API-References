@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Black
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantCmyk 財産. 黒のコンポーネント値を取得または設定します
+title: "ColorantCmyk.Black"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantCmyk プロパティ。ブラックコンポーネントの値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Black property
 
-黒のコンポーネント値を取得または設定します。
+黒コンポーネントの値を取得または設定します。
 
 ```csharp
 public float Black { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-黒の成分値.
+黒成分の値。
 
 ### 関連項目
 
 * class [ColorantCmyk](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextShape 財産. 形状の中心を取得します
+title: "TextShape.Center"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextShape プロパティ。シェイプの中心を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 形状の中心を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.shapes/textshape/center/
 public override PointF Center { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-シェイプの中心。
+シェイプの中心です。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../textshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

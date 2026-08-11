@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDate 財産. 現在の値の書式文字列を取得します
+title: "XmpDate.Format"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDate プロパティ。現在の値の書式文字列を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 現在の値の書式文字列を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.types.basic/xmpdate/format/
 public string Format { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-現在の値のフォーマット文字列.
+現在の値の書式文字列です。
 
 ### 関連項目
 
 * class [XmpDate](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

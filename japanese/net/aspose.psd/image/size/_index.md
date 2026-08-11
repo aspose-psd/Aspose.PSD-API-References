@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 財産. 画像サイズを取得します
+title: "Image.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image プロパティ。画像のサイズを取得します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 画像サイズを取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/image/size/
 public Size Size { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像サイズ。
+画像のサイズ。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PointF.GetHashCode
-second_title: Aspose.PSD for .NET API リファレンス
-description: PointF 方法. このハッシュコードを返しますPointF構造体.
+title: "PointF.GetHashCode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PointF メソッド。この PointF 構造体のハッシュコードを返します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/pointf/gethashcode/
 ---
+{{< psd/tize >}}
 ## PointF.GetHashCode method
 
-このハッシュコードを返します[`PointF`](../)構造体.
+この[`PointF`](../)構造体のハッシュコードを返します。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 戻り値
 
-このハッシュ値を指定する整数値[`PointF`](../)構造。
+この[`PointF`](../)構造体のハッシュ値を指定する整数値です。
 
 ### 関連項目
 
 * struct [PointF](../)
-* 名前空間 [Aspose.PSD](../../pointf/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

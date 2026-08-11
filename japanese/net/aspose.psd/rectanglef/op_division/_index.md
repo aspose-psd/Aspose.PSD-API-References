@@ -1,38 +1,39 @@
 ---
-title: RectangleF.op_Division
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleF 方法. 演算子 /. を実装します
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleF メソッド。 演算子 / を実装します。"
 type: docs
 weight: 260
 url: /ja/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
-演算子 /. を実装します
+演算子 / を実装します。
 
 ```csharp
 public static RectangleF operator /(RectangleF rectangle, float divider)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | RectangleF | 長方形。 |
-| divider | Single | 仕切り。 |
+| 矩形 | RectangleF | 矩形です。 |
+| 分割子 | シングル | 分割子です。 |
 
 ### 戻り値
 
-演算子の結果。
+演算子の結果です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 除算器 - ゼロによる除算は許可されていません。 |
+| ArgumentOutOfRangeException | 分割子 - ゼロ除算は許可されていません。 |
 
 ### 関連項目
 
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

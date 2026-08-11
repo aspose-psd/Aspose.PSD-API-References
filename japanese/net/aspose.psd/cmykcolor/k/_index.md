@@ -1,27 +1,28 @@
 ---
-title: CmykColor.K
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColor 財産. この黒成分値を取得しますColor構造体.
+title: "CmykColor.K"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColor プロパティ。この Color 構造体の黒成分の値を取得します"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.psd/cmykcolor/k/
 ---
+{{< psd/tize >}}
 ## CmykColor.K property
 
-この黒成分値を取得します[`Color`](../../color/)構造体.
+この [`Color`](../../color/) 構造体の黒成分の値を取得します。
 
 ```csharp
 public byte K { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-この黒成分値[`Color`](../../color/) .
+この [`Color`](../../color/) の黒成分の値。
 
 ### 関連項目
 
 * struct [CmykColor](../)
-* 名前空間 [Aspose.PSD](../../cmykcolor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

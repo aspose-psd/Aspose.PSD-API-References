@@ -1,27 +1,28 @@
 ---
-title: GifOptions.HasTrailer
-second_title: Aspose.PSD for .NET API リファレンス
-description: GifOptions 財産. GIF にトレーラーがあるかどうかを示す値を取得または設定します
+title: "GifOptions.HasTrailer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GifOptions プロパティ。GIF にトレーラがあるかどうかを示す値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.imageoptions/gifoptions/hastrailer/
 ---
+{{< psd/tize >}}
 ## GifOptions.HasTrailer property
 
-GIF にトレーラーがあるかどうかを示す値を取得または設定します。
+GIF にトレーラがあるかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool HasTrailer { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` GIF に予告編がある場合。さもないと、`間違い` .
+`true` は GIF にトレーラがある場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [GifOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

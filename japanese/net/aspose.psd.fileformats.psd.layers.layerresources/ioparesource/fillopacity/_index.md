@@ -1,11 +1,12 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD for .NET API リファレンス
-description: IopaResource 財産. 塗りつぶしの不透明度を取得または設定します
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IopaResource プロパティ。塗りつぶし不透明度を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
 塗りつぶしの不透明度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillo
 public byte FillOpacity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-塗りつぶしの不透明度.
+塗りつぶし不透明度です。
 
 ### 関連項目
 
 * class [IopaResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

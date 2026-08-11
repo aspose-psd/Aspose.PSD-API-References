@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillPath
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. の内部を塗りつぶしますGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。GraphicsPath の内部を塗りつぶします。"
 type: docs
-weight: 360
+weight: 370
 url: /ja/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-の内部を塗りつぶします[`GraphicsPath`](../../graphicspath/) .
+[`GraphicsPath`](../../graphicspath/) の内部を塗りつぶします。
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/)塗りつぶすパスを表します。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| path | GraphicsPath | 塗りつぶすパスを表す [`GraphicsPath`](../../graphicspath/)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush* null です。 -または- *path*無効である。 |
+| ArgumentNullException | *brush* が null です。 または *path* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

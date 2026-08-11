@@ -1,14 +1,15 @@
 ---
-title: ColorMatrix.ColorMatrix
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMatrix コンストラクタ. の新しいインスタンスを初期化しますColorMatrixclass.
+title: "ColorMatrix.ColorMatrix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMatrix コンストラクタ。ColorMatrix クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/colormatrix/colormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix() {#constructor}
 
-の新しいインスタンスを初期化します[`ColorMatrix`](../)class.
+`[`ColorMatrix`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorMatrix()
@@ -17,27 +18,27 @@ public ColorMatrix()
 ### 関連項目
 
 * class [ColorMatrix](../)
-* 名前空間 [Aspose.PSD](../../colormatrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorMatrix(float[][]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ColorMatrix`](../)指定された行列の要素を使用するクラス*newColorMatrix* .
+`[`ColorMatrix`](../)` クラスの新しいインスタンスを、指定された行列 *newColorMatrix* の要素を使用して初期化します。
 
 ```csharp
 public ColorMatrix(float[][] newColorMatrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newColorMatrix | Single[][] | 新しい要素の値[`ColorMatrix`](../). |
+| newColorMatrix | Single[][] | 新しい [`ColorMatrix`](../) の要素の値。 |
 
 ### 関連項目
 
 * class [ColorMatrix](../)
-* 名前空間 [Aspose.PSD](../../colormatrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

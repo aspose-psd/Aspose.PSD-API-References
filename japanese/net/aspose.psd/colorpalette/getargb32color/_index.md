@@ -1,37 +1,38 @@
 ---
-title: ColorPalette.GetArgb32Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorPalette 方法. インデックスで 32 ビット ARGB パレット カラーを取得します
+title: "ColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorPalette メソッド。インデックスで 32 ビット ARGB パレットカラーを取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/colorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## ColorPalette.GetArgb32Color method
 
-インデックスで 32 ビット ARGB パレット カラーを取得します。
+インデックスで 32 ビット ARGB パレットカラーを取得します。
 
 ```csharp
 public int GetArgb32Color(int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| index | Int32 | 32 ビット ARGB パレットのカラー インデックス。 |
+| インデックス | Int32 | 32 ビット ARGB パレットカラーインデックスです。 |
 
 ### 戻り値
 
-によって指定されたカラー パレット エントリ*index*.
+*index* で指定されたカラーパレットエントリです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | カラーパレットの場合*index*指定された値は、パレット エントリの範囲外です。 |
+| ArgumentOutOfRangeException | 指定されたカラーパレット *index* がパレットエントリの範囲外の場合。 |
 
 ### 関連項目
 
 * class [ColorPalette](../)
-* 名前空間 [Aspose.PSD](../../colorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

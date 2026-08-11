@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntries
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdColorPalette 財産. 生のカラー パレット エントリ データを取得します
+title: "PsdColorPalette.RawEntries"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdColorPalette プロパティ。生のカラーパレットエントリデータを取得します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntries property
 
-生のカラー パレット エントリ データを取得します。
+生のカラーパレットエントリーデータを取得します。
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-生のカラー パレット エントリ データ。
+生のカラーパレットエントリデータです。
 
 ### 関連項目
 
 * class [PsdColorPalette](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

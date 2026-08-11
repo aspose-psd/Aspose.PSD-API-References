@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeGeneralRotation
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 分野. このフラグ ビットはこの object によって定義された変換が他のフラグ ビットによって示される 変換に加えて任意の角度による回転を実行することを示しますこのフラグ ビットは と相互に排他的です
+title: "Matrix.TypeGeneralRotation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix フィールド。このフラグビットは、このオブジェクトで定義された変換が、他のフラグビットで示される変換に加えて任意の角度で回転を行うことを示します。回転はベクトルの元の方向に関係なく、ベクトルの長さを変えずに同じ量だけベクトルの角度を変えます。このフラグビットは、"
 type: docs
 weight: 210
 url: /ja/net/aspose.psd/matrix/typegeneralrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralRotation field
 
-このフラグ ビットは、この object によって定義された変換が、他のフラグ ビットによって示される 変換に加えて、任意の角度による回転を実行することを示します。このフラグ ビットは、 と相互に排他的です。
+このフラグビットは、このオブジェクトで定義された変換が、他のフラグビットが示す変換に加えて、任意の角度で回転を行うことを示します。回転はベクトルの元の方向に関係なく、ベクトルの角度を同じ量だけ変え、ベクトルの長さは変えません。このフラグビットは、
 
 ```csharp
 public const int TypeGeneralRotation;
@@ -17,7 +18,7 @@ public const int TypeGeneralRotation;
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

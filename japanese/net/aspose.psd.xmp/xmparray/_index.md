@@ -1,14 +1,15 @@
 ---
-title: Class XmpArray
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.XmpArray クラス. は Xmp 配列を表しますXmpPackage TODO 配列には複雑なデータが含まれている可能性があります.
+title: "クラス XmpArray"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.XmpArray クラス。XmpPackage 内の Xmp 配列を表します。TODO: 配列は複雑なデータを含む可能性があります"
 type: docs
-weight: 6210
+weight: 6710
 url: /ja/net/aspose.psd.xmp/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray class
 
-は Xmp 配列を表します[`XmpPackage`](../xmppackage/) TODO: 配列には複雑なデータが含まれている可能性があります.
+[`XmpPackage`](../xmppackage/) 内の Xmp 配列を表します。TODO: 配列は複雑なデータを含む可能性があります。
 
 ```csharp
 public class XmpArray : IXmlValue
@@ -18,27 +19,27 @@ public class XmpArray : IXmlValue
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpArray](xmparray/#constructor)(XmpArrayType) | の新しいインスタンスを初期化します`XmpArray`class. |
-| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | の新しいインスタンスを初期化します`XmpArray`class. |
+| [XmpArray](xmparray/#constructor)(XmpArrayType) | `XmpArray` クラスの新しいインスタンスを初期化します。 |
+| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | `XmpArray` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | 内部の値の配列を取得します`XmpArray` . |
+| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | `XmpArray` 内の値の配列を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | 新しいアイテムを追加します. |
+| [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | 新しい項目を追加します。 |
 | [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | XMP 値を XML 表現に変換します。 |
-| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | このインスタンスを表すStringを返します。 |
 
 ### 関連項目
 
 * interface [IXmlValue](../ixmlvalue/)
-* 名前空間 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

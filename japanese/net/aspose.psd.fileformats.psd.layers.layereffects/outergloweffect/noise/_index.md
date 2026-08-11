@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Noise
-second_title: Aspose.PSD for .NET API リファレンス
-description: OuterGlowEffect 財産. ノイズを取得または設定します
+title: "OuterGlowEffect.Noise"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OuterGlowEffect プロパティ。ノイズを取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Noise property
 
 ノイズを取得または設定します。
@@ -14,19 +15,19 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/nois
 public int Noise { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ノイズ.
+ノイズです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | ノイズは、0 から 100 の範囲のパーセンテージで指定する必要があります |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | ノイズは 0 から 100 の範囲のパーセンテージで指定する必要があります |
 
-### 例
+## 例
 
-次のコードは、OuterGlowEffect のサポートを示しています。
+以下のコードは、OuterGlowEffect のサポートを示しています。
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### 関連項目
 
 * class [OuterGlowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: UnknownStructure.Data
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnknownStructure 財産. データを取得または設定します
+title: "UnknownStructure.Data"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnknownStructure プロパティ。データを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data/
 ---
+{{< psd/tize >}}
 ## UnknownStructure.Data property
 
 データを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public byte[] Data { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-データ.
+データです。
 
 ### 関連項目
 
 * class [UnknownStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

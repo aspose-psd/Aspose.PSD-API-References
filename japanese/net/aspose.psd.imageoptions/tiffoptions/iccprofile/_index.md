@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. Icc プロファイル ストリームを取得または設定します
+title: "TiffOptions.IccProfile"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。Icc プロファイル ストリームを取得または設定します"
 type: docs
-weight: 180
+weight: 190
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
-Icc プロファイル ストリームを取得または設定します。
+ICC プロファイルストリームを取得または設定します。
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 icc プロファイル。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DropShadowEffect
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect クラス. ドロップ シャドウ レイヤー効果
+title: "クラス DropShadowEffect"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect クラス。ドロップシャドウレイヤー効果"
 type: docs
-weight: 2120
+weight: 2310
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-ドロップ シャドウ レイヤー効果
+ドロップシャドウレイヤー効果
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
@@ -18,27 +19,33 @@ public class DropShadowEffect : IShadowEffect
 
 | 名前 | 説明 |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | 度単位の角度を取得または設定します. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | ブレンド モードを取得または設定します。 |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | 角度（度）を取得または設定します。 |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | ブレンドモードを取得または設定します。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | 色を取得または設定します。 |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | 距離をピクセル単位で取得または設定します。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | エフェクトのタイプを取得します |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | このインスタンスが表示されるかどうかを示す値を取得または設定します. |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | [ノックアウト] かどうかを示す値を取得または設定します。 |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | 距離（ピクセル）を取得または設定します。 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | エフェクトのタイプを取得します。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | このインスタンスが表示されているかどうかを示す値を取得または設定します。 |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | 値が [knocks out] かどうかを取得または設定します。 |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | ノイズを取得または設定します。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | 不透明度を取得または設定します。 |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | ピクセル単位のぼかし値を取得または設定します。 |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | ぼかし値（ピクセル）を取得または設定します。 |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | 強度をパーセントで取得または設定します。 |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | [すべてのレイヤー効果でこの角度を使用する]かどうかを示す値を取得または設定します. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | すべてのレイヤー効果でこの角度を使用するかどうかを示す値を取得または設定します。 |
 
-### 例
+## メソッド
 
-次のコードは、グローバル角度値を変更するための PsdImage.GlobalAngle プロパティのサポートを示しています。
+| 名前 | 説明 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | 入力レイヤーのピクセル境界に基づいてエフェクトピクセルの境界を計算し、取得します。 |
+
+## 例
+
+以下のコードは、グローバル角度値を変更するための PsdImage.GlobalAngle プロパティのサポートを示しています。
 
 ```csharp
 [C#]
 
-// DropShadowEffect.UseGlobalLight プロパティが「true」の場合、DropShadowEffect オブジェクトは PsdImage.GlobalAngle プロパティの角度値を使用します。
+// DropShadowEffect.UseGlobalLight プロパティが 'true' の場合、DropShadowEffect オブジェクトは PsdImage.GlobalAngle プロパティから角度値を使用します。
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -47,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-次のコードは、DropShadowEffect の Opacity プロパティの使用を示しています。
+以下のコードは、DropShadowEffect の Opacity プロパティの使用例を示しています。
 
 ```csharp
 [C#]
@@ -64,11 +71,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // 不透明度 = 20 の例
+    // Opacity = 20 の例
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // 不透明度 = 20 の例0
+    // Opacity = 200 の例
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -77,7 +84,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### 関連項目
 
 * interface [IShadowEffect](../ishadoweffect/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

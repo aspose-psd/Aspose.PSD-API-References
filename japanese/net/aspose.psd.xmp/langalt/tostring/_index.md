@@ -1,14 +1,15 @@
 ---
-title: LangAlt.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: LangAlt 方法. を返しますStringこのインスタンスを表す.
+title: "LangAlt.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LangAlt メソッド。このインスタンスを表す文字列を返します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp/langalt/tostring/
 ---
+{{< psd/tize >}}
 ## LangAlt.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表すStringを返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
 ### 関連項目
 
 * class [LangAlt](../)
-* 名前空間 [Aspose.PSD.Xmp](../../langalt/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

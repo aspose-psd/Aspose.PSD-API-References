@@ -1,14 +1,15 @@
 ---
-title: Color.GetBrightness
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. この色相彩度輝度 HSB 輝度値を取得しますColor構造体.
+title: "Color.GetBrightness"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。この Color 構造体の色相・彩度・明度 (HSB) の明度値を取得します。"
 type: docs
 weight: 1550
 url: /ja/net/aspose.psd/color/getbrightness/
 ---
+{{< psd/tize >}}
 ## Color.GetBrightness method
 
-この色相彩度輝度 (HSB) 輝度値を取得します[`Color`](../)構造体.
+この [`Color`](../) 構造体の色相-彩度-明度 (HSB) 明度値を取得します。
 
 ```csharp
 public float GetBrightness()
@@ -16,12 +17,12 @@ public float GetBrightness()
 
 ### 戻り値
 
-これの明るさ[`Color`](../).明るさの範囲は 0.0 ～ 1.0 で、0.0 は黒を表し、1.0 は白を表します。
+この [`Color`](../) の明度です。明度は 0.0 から 1.0 の範囲で、0.0 は黒、1.0 は白を表します。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

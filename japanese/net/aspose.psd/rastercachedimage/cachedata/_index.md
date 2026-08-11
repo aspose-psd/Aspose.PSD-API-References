@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.CacheData
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterCachedImage 方法. データをキャッシュし基盤から追加のデータ読み込みが実行されないようにしますDataStreamContainer .
+title: "RasterCachedImage.CacheData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterCachedImage メソッド。データをキャッシュし、基になる DataStreamContainer からの追加データ読み込みが行われないことを保証します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/rastercachedimage/cachedata/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.CacheData method
 
-データをキャッシュし、基盤から追加のデータ読み込みが実行されないようにします[`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) .
+データをキャッシュし、基になる[`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/)から追加のデータ読み込みが行われないことを保証します。
 
 ```csharp
 public override void CacheData()
@@ -17,7 +18,7 @@ public override void CacheData()
 ### 関連項目
 
 * class [RasterCachedImage](../)
-* 名前空間 [Aspose.PSD](../../rastercachedimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. しきい値を取得または設定します
+title: "TiffOptions.Threshholding"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。しきい値を取得または設定します"
 type: docs
-weight: 510
+weight: 520
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-しきい値を取得または設定します。
+しきい値設定を取得または設定します。
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-しきい値.
+しきい値です。
 
 ### 関連項目
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

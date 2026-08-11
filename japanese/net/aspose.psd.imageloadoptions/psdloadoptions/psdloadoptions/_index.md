@@ -1,14 +1,15 @@
 ---
-title: PsdLoadOptions.PsdLoadOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdLoadOptions コンストラクタ. デフォルトのコンストラクター
+title: "PsdLoadOptions.PsdLoadOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdLoadOptions コンストラクタ。デフォルト コンストラクタ。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imageloadoptions/psdloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PsdLoadOptions()
@@ -17,7 +18,7 @@ public PsdLoadOptions()
 ### 関連項目
 
 * class [PsdLoadOptions](../)
-* 名前空間 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

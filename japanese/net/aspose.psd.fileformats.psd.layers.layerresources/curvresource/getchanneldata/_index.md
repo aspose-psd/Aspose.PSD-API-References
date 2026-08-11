@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetChannelData
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvResource 方法. チャネルデータを取得します
+title: "CurvResource.GetChannelData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvResource メソッド。チャンネルデータを取得します。"
 type: docs
-weight: 70
+weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetChannelData method
 
 チャネルデータを取得します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getch
 public byte[] GetChannelData(int channelIndex)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| channelIndex | Int32 | チャネルのインデックス。 |
+| channelIndex | Int32 | チャネルのインデックスです。 |
 
 ### 戻り値
 
@@ -25,7 +26,7 @@ public byte[] GetChannelData(int channelIndex)
 ### 関連項目
 
 * class [CurvResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

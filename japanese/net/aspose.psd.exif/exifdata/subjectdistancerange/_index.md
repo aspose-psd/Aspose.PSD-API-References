@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 被写体距離範囲を取得または設定します.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。被写体距離範囲を取得または設定します"
 type: docs
 weight: 1010
 url: /ja/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-被写体距離範囲を取得または設定します.
+被写体距離範囲を取得または設定します。
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-被写体距離範囲.
+被写体距離範囲です。
 
 ### 関連項目
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

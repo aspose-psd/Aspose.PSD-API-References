@@ -1,23 +1,24 @@
 ---
-title: TimeLine.TimeLine
-second_title: Aspose.PSD for .NET API リファレンス
-description: TimeLine コンストラクタ. デフォルトのコンストラクター
+title: "Timeline.Timeline"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Timeline コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.animation/timeline/timeline/
 ---
-## TimeLine constructor
+{{< psd/tize >}}
+## Timeline constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
-public TimeLine()
+public Timeline()
 ```
 
 ### 関連項目
 
-* class [TimeLine](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* 組み立て [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

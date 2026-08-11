@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Blues
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlwhResource 財産. ブルース値を取得または設定します
+title: "BlwhResource.Blues"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlwhResource プロパティ。ブルー値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Blues property
 
-ブルース値を取得または設定します。
+ブルーの値を取得または設定します。
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ブルース値.
+ブルー値です。
 
-### 例
+## 例
 
-次の例は、BlwhResource を編集する方法を示しています。
+以下の例は、BlwhResource を編集する方法を示しています。
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### 関連項目
 
 * class [BlwhResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

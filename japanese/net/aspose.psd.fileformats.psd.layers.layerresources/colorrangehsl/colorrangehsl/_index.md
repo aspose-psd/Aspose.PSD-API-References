@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorRangeHsl コンストラクタ. の新しいインスタンスを初期化しますColorRangeHslclass.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorRangeHsl コンストラクタ。ColorRangeHsl クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-の新しいインスタンスを初期化します[`ColorRangeHsl`](../)class.
+[`ColorRangeHsl`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorRangeHsl()
@@ -17,33 +18,33 @@ public ColorRangeHsl()
 ### 関連項目
 
 * class [ColorRangeHsl](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ColorRangeHsl`](../)class.
+[`ColorRangeHsl`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorRangeHsl(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 色域データ。 |
+| データ | Byte[] | 色範囲データです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | " + this.GetType() + " の予想される長さは 14 です |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 期待される長さは \" + this.GetType() + \" は 14 |
 
 ### 関連項目
 
 * class [ColorRangeHsl](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

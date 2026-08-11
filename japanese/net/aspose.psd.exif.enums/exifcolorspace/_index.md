@@ -1,14 +1,15 @@
 ---
-title: Enum ExifColorSpace
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifColorSpace 列挙. exif 色空間列挙型.
+title: "列挙型 ExifColorSpace"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace 列挙型。exif カラースペース 列挙型"
 type: docs
-weight: 800
+weight: 810
 url: /ja/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-exif 色空間列挙型.
+exif カラースペース列挙。
 
 ```csharp
 public enum ExifColorSpace
@@ -16,15 +17,15 @@ public enum ExifColorSpace
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| SRgb | `1` | SRGB 色空間. |
-| AdobeRgb | `2` | Adobe RGB 色空間. |
-| Uncalibrated | `65535` | キャリブレーションされていない色空間。 |
+| SRgb | `1` | SRGB カラースペースです。 |
+| AdobeRgb | `2` | Adobe RGB カラースペースです。 |
+| Uncalibrated | `65535` | 較正されていないカラースペースです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: MlstResource.PsdVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: MlstResource 財産. psd バージョンを取得します
+title: "MlstResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MlstResource プロパティ。psd バージョンを取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/
 ---
+{{< psd/tize >}}
 ## MlstResource.PsdVersion property
 
 psd バージョンを取得します。
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### 関連項目
 
 * class [MlstResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

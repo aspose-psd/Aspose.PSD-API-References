@@ -1,28 +1,29 @@
 ---
-title: FilterEffectMaskData.SaveData
-second_title: Aspose.PSD for .NET API リファレンス
-description: FilterEffectMaskData 方法. 指定したストリーム コンテナーにリソースを保存します
+title: "FilterEffectMaskData.SaveData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FilterEffectMaskData メソッド。リソースを指定されたストリームコンテナに保存します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SaveData method
 
-指定したストリーム コンテナーにリソースを保存します。
+リソースを指定されたストリームコンテナに保存します。
 
 ```csharp
 public void SaveData(StreamContainer streamContainer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 保存先のストリーム コンテナー。 |
+| streamContainer | StreamContainer | 保存先のストリームコンテナです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FilterEffectMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

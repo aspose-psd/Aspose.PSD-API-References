@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 方法. タグがオプションに存在するかどうかを決定します.
+title: "TiffOptions.IsTagPresent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions メソッド。タグがオプションに存在するかどうかを判定します。"
 type: docs
-weight: 730
+weight: 740
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
-タグがオプションに存在するかどうかを決定します.
+オプションにタグが存在するかどうかを判断します。
 
 ```csharp
 public bool IsTagPresent(TiffTags tag)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| tag | TiffTags | チェックするタグ ID。 |
+| タグ | TiffTags | チェックするタグ ID です。 |
 
 ### 戻り値
 
-`真実`タグが存在する場合。さもないと、`間違い` .
+`true` タグが存在する場合; それ以外は `false`。
 
 ### 関連項目
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

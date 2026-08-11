@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.AddValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage 方法. 文字列プロパティを追加します
+title: "XmpBasicPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage メソッド。文字列プロパティを追加します"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.AddValue method
 
 文字列プロパティを追加します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 public override void AddValue(string key, string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| key | String | 付加価値で識別されるキーの文字列表現。 |
-| value | String | 文字列値。 |
+| key | 文字列 | 追加された値で識別されるキーの文字列表現です。 |
+| 値 | 文字列 | 文字列値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | キー;メタデータ キーが提供されていません |
+| ArgumentNullException | key;メタデータキーが提供されていません |
 
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,59 +1,60 @@
 ---
-title: Graphics.FillPolygon
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. によって指定された点の配列によって定義された多角形の内部を塗りつぶしますPointF構造とAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。PointF 構造体で指定された点の配列で定義された多角形の内部を Alternate で塗りつぶします。"
 type: docs
-weight: 380
+weight: 390
 url: /ja/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-によって指定された点の配列によって定義された多角形の内部を塗りつぶします。[`PointF`](../../pointf/)構造とAlternate .
+[`PointF`](../../pointf/) 構造体で指定された点の配列で定義された多角形の内部を Alternate で塗りつぶします。
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| points | PointF[] | の配列[`PointF`](../../pointf/)塗りつぶすポリゴンの頂点を表す構造。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| points | PointF[] | 塗りつぶす多角形の頂点を表す [`PointF`](../../pointf/) 構造体の配列です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush* null です。 -または- *points*無効である。 |
+| ArgumentNullException | *brush* が null です。-or- *points* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-によって指定された点の配列によって定義された多角形の内部を塗りつぶします。[`PointF`](../../pointf/)指定された塗りつぶしモードを使用する構造.
+指定された塗りつぶしモードを使用して、[`PointF`](../../pointf/) 構造体で指定された点の配列で定義された多角形の内部を塗りつぶします。
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| points | PointF[] | の配列[`PointF`](../../pointf/)塗りつぶすポリゴンの頂点を表す構造。 |
-| fillMode | FillMode | のメンバー[`FillMode`](../../fillmode/)塗りつぶしのスタイルを決定する列挙。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| points | PointF[] | 塗りつぶす多角形の頂点を表す [`PointF`](../../pointf/) 構造体の配列です。 |
+| fillMode | FillMode | 塗りつぶしのスタイルを決定する [`FillMode`](../../fillmode/) 列挙体のメンバーです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush* null です。 -または- *points*無効である。 |
+| ArgumentNullException | *brush* が null です。-or- *points* が null です。 |
 
 ### 関連項目
 
@@ -61,59 +62,59 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-によって指定された点の配列によって定義された多角形の内部を塗りつぶします。[`Point`](../../point/)構造とAlternate .
+[`Point`](../../point/) 構造体で指定された点の配列で定義された多角形の内部を Alternate で塗りつぶします。
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| points | Point[] | の配列[`Point`](../../point/)塗りつぶすポリゴンの頂点を表す構造。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| points | Point[] | 塗りつぶす多角形の頂点を表す [`Point`](../../point/) 構造体の配列です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush* null です。 -または- *points*無効である。 |
+| ArgumentNullException | *brush* が null です。-or- *points* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-によって指定された点の配列によって定義された多角形の内部を塗りつぶします。[`Point`](../../point/)指定された塗りつぶしモードを使用する構造.
+指定された塗りつぶしモードを使用して、[`Point`](../../point/) 構造体で指定された点の配列で定義された多角形の内部を塗りつぶします。
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| points | Point[] | の配列[`Point`](../../point/)塗りつぶすポリゴンの頂点を表す構造。 |
-| fillMode | FillMode | のメンバー[`FillMode`](../../fillmode/)塗りつぶしのスタイルを決定する列挙。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| points | Point[] | 塗りつぶす多角形の頂点を表す [`Point`](../../point/) 構造体の配列です。 |
+| fillMode | FillMode | 塗りつぶしのスタイルを決定する [`FillMode`](../../fillmode/) 列挙体のメンバーです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush* null です。 -または- *points*無効である。 |
+| ArgumentNullException | *brush* が null です。-or- *points* が null です。 |
 
 ### 関連項目
 
@@ -121,7 +122,7 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

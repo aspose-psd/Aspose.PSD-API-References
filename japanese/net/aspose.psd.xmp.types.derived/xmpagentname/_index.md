@@ -1,14 +1,15 @@
 ---
-title: Class XmpAgentName
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName クラス. エージェント名ソフトウェア組織などを表す
+title: "クラス XmpAgentName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpAgentName クラス。エージェント名、ソフトウェア組織などを表します。"
 type: docs
-weight: 6140
+weight: 6640
 url: /ja/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
-エージェント名、ソフトウェア組織などを表す
+エージェント名、ソフトウェア組織などを表します。
 
 ```csharp
 public sealed class XmpAgentName : XmpText
@@ -18,7 +19,7 @@ public sealed class XmpAgentName : XmpText
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | の新しいインスタンスを初期化します`XmpAgentName`class. |
+| [XmpAgentName](xmpagentname/)(string) | `XmpAgentName` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,12 +31,12 @@ public sealed class XmpAgentName : XmpText
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
 ### 関連項目
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

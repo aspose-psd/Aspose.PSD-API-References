@@ -1,32 +1,33 @@
 ---
-title: Point.op_Explicit
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. 指定されたPointへの構造Size構造体.
+title: "Point.op_Explicit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。指定された Point 構造体を Size 構造体に変換します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.psd/point/op_explicit/
 ---
+{{< psd/tize >}}
 ## Point Explicit operator
 
-指定された[`Point`](../)への構造[`Size`](../../size/)構造体.
+指定された [`Point`](../) 構造体を [`Size`](../../size/) 構造体に変換します。
 
 ```csharp
 public static explicit operator Size(Point point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../)変換されます。 |
+| point | Point | 変換対象の [`Point`](../)です。 |
 
 ### 戻り値
 
-の[`Size`](../../size/)変換の結果です。
+変換結果として得られる [`Size`](../../size/)。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.XmpDynamicMediaPackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage コンストラクタ. デフォルトのコンストラクター
+title: "XmpDynamicMediaPackage.XmpDynamicMediaPackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/xmpdynamicmediapackage/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public XmpDynamicMediaPackage()
@@ -17,7 +18,7 @@ public XmpDynamicMediaPackage()
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

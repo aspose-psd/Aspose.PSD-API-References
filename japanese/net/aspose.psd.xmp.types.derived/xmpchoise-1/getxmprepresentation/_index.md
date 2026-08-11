@@ -1,14 +1,15 @@
 ---
-title: XmpChoise1.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpChoise 方法. 文字列に含まれる値を XMP 形式で取得します
+title: "XmpChoise1.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpChoise メソッド。XMP 形式で含まれる文字列の値を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.GetXmpRepresentation method
 
-文字列に含まれる値を XMP 形式で取得します。
+XMP 形式で含まれる文字列値を取得します。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,18 +17,18 @@ public override string GetXmpRepresentation()
 
 ### 戻り値
 
-文字列に含まれる値を XMP 形式で返します。
+XMP 形式で含まれる文字列値を返します。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | NotImplementedException |  |
 
 ### 関連項目
 
 * class [XmpChoise&lt;T&gt;](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

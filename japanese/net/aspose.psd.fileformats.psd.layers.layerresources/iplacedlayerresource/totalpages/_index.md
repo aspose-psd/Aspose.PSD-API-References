@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.TotalPages
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPlacedLayerResource 財産. PSD ファイルに配置されたレイヤーの総ページ数を取得または設定します
+title: "IPlacedLayerResource.TotalPages"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPlacedLayerResource プロパティ。PSD ファイル内の配置されたレイヤーの総ページ数を取得または設定します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.TotalPages property
 
-PSD ファイルに配置されたレイヤーの総ページ数を取得または設定します。
+PSD ファイル内の配置レイヤーの総ページ数を取得または設定します。
 
 ```csharp
 public int TotalPages { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤーの総ページ数.
+配置レイヤーの総ページ数。
 
 ### 関連項目
 
 * interface [IPlacedLayerResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

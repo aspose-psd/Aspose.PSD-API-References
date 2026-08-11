@@ -1,34 +1,35 @@
 ---
-title: InfxResource.InfxResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: InfxResource コンストラクタ. の新しいインスタンスを初期化しますInfxResourceclass.
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "InfxResource コンストラクタ。InfxResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`InfxResource`](../)class.
+[`InfxResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | に設定した場合`真実` 【インテリア要素をブレンド】。 |
+| blendInteriorElements | Boolean | `true` に設定された場合、[blend interior elements]。 |
 
 ### 関連項目
 
 * class [InfxResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-の新しいインスタンスを初期化します[`InfxResource`](../)class.
+[`InfxResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InfxResource()
@@ -37,33 +38,33 @@ public InfxResource()
 ### 関連項目
 
 * class [InfxResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`InfxResource`](../) class. カスタムまたは不明な値を使用
+[`InfxResource`](../) クラスの新しいインスタンスを初期化します。カスタムまたは不明な値で。
 
 ```csharp
 public InfxResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソース データ。 |
+| データ | Byte[] | リソース データ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | infx リソース値が無効です |
+| ArgumentException | 無効な infx リソース値 |
 
 ### 関連項目
 
 * class [InfxResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

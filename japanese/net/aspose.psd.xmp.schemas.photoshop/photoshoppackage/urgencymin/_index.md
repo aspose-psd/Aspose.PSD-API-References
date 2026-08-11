@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 分野. 緊急度の最小値.
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage フィールド。緊急度の最小値"
 type: docs
 weight: 220
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
-緊急度の最小値.
+緊急度の最小値。
 
 ```csharp
 public const int UrgencyMin;
@@ -17,7 +18,7 @@ public const int UrgencyMin;
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

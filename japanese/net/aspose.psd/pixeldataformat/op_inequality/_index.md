@@ -1,32 +1,33 @@
 ---
-title: PixelDataFormat.op_Inequality
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 方法. 2 つの不等号の結果を返しますPixelDataFormatクラス.
+title: "PixelDataFormat.op_Inequality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat メソッド。2つの PixelDataFormat クラスの不等価の結果を返します"
 type: docs
 weight: 390
 url: /ja/net/aspose.psd/pixeldataformat/op_inequality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Inequality operator
 
-2 つの不等号の結果を返します[`PixelDataFormat`](../)クラス.
+2つの [`PixelDataFormat`](../) クラスの不等価の結果を返します。
 
 ```csharp
 public static bool operator !=(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | 最初[`PixelDataFormat`](../)比べる。 |
-| pixelFormat2 | PixelDataFormat | 二番目[`PixelDataFormat`](../)比べる。 |
+| pixelFormat1 | PixelDataFormat | 比較対象となる最初の [`PixelDataFormat`](../) 。 |
+| pixelFormat2 | PixelDataFormat | 比較対象となる2番目の [`PixelDataFormat`](../) 。 |
 
 ### 戻り値
 
-両方の場合は true*pixelFormat1*と*pixelFormat2*等しくないデータが含まれているか、パラメータの 1 つが null です。
+*pixelFormat1* と *pixelFormat2* の両方が等しくないデータを含むか、パラメータのいずれかが null の場合は true。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

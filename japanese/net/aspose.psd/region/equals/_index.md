@@ -1,39 +1,64 @@
 ---
-title: Region.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. 指定されたRegionこれと同じですRegion指定された描画面で.
+title: "Region.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。指定された描画面上で、指定された Region がこの Region と同一かどうかテストします。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/region/equals/
 ---
-## Region.Equals method
+{{< psd/tize >}}
+## Equals(Region, Graphics) {#equals}
 
-指定された[`Region`](../)これと同じです[`Region`](../)指定された描画面で.
+指定された描画面上で、指定された [`Region`](../) がこの [`Region`](../) と同一かどうかテストします。
 
 ```csharp
 public bool Equals(Region region, Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| region | Region | の[`Region`](../)テストする。 |
-| g | Graphics | あ[`Graphics`](../../graphics/)描画面を表します。 |
+| region | Region | テスト対象の [`Region`](../)。 |
+| g | Graphics | 描画サーフェスを表す [`Graphics`](../../graphics/) です。 |
 
 ### 戻り値
 
-に関連付けられた変換時に、領域の内部がこの領域の内部と同一である場合は true。*g*パラメータが適用されます。それ以外の場合は false.
+*g* パラメータに関連付けられた変換が適用されたとき、領域の内部がこの領域の内部と同一である場合は true、そうでない場合は false。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *g *また* region*無効である。 |
+| ArgumentNullException | *g* または *region* が null です。 |
 
 ### 関連項目
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+オブジェクトが等しいかどうかを確認します。
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| obj | Object | 他のオブジェクトです。 |
+
+### 戻り値
+
+等価比較の結果です。
+
+### 関連項目
+
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

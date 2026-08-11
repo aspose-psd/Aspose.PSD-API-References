@@ -1,34 +1,35 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBoolean コンストラクタ. の新しいインスタンスを初期化しますXmpBooleanブール値に基づくクラス.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBoolean コンストラクタ。ブール値に基づいて XmpBoolean クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpBoolean`](../)ブール値に基づくクラス.
+ブール値に基づいて [`XmpBoolean`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Boolean | ブール値。指定できる値は True または False です。 |
+| 値 | Boolean | ブール値です。許容される値は True または False です。 |
 
 ### 関連項目
 
 * class [XmpBoolean](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-の新しいインスタンスを初期化します[`XmpBoolean`](../)デフォルト値を持つクラス.
+デフォルト値で [`XmpBoolean`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpBoolean()
@@ -37,34 +38,34 @@ public XmpBoolean()
 ### 関連項目
 
 * class [XmpBoolean](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-の新しいインスタンスを初期化します[`XmpBoolean`](../)class.
+[`XmpBoolean`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 価値 |
-| ArgumentException | 無効な文字列値;値 |
+| ArgumentNullException | 値 |
+| ArgumentException | 無効な文字列値;value |
 
 ### 関連項目
 
 * class [XmpBoolean](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

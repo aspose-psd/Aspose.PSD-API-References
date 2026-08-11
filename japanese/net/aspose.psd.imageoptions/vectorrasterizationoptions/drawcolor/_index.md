@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.DrawColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorRasterizationOptions 財産. 前景色を取得または設定します
+title: "VectorRasterizationOptions.DrawColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorRasterizationOptions プロパティ。前景色を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.imageoptions/vectorrasterizationoptions/drawcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.DrawColor property
 
 前景色を取得または設定します。
@@ -18,7 +19,7 @@ public Color DrawColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

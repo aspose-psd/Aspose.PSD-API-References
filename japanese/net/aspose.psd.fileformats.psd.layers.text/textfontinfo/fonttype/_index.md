@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FontType
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextFontInfo 財産. フォントの種類を取得します
+title: "TextFontInfo.FontType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextFontInfo プロパティ。フォントのタイプを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
-フォントの種類を取得します。
+フォントのタイプを取得します。
 
 ```csharp
 public int FontType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォントの種類.
+フォントの種類です。
 
 ### 関連項目
 
 * class [TextFontInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

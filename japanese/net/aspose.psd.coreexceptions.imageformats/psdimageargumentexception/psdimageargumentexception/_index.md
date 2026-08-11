@@ -1,48 +1,49 @@
 ---
-title: PsdImageArgumentException.PsdImageArgumentException
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImageArgumentException コンストラクタ. の新しいインスタンスを初期化しますPsdImageArgumentExceptionclass.
+title: "PsdImageArgumentException.PsdImageArgumentException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImageArgumentException コンストラクタ。PsdImageArgumentException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`PsdImageArgumentException`](../)class.
+[`PsdImageArgumentException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImageArgumentException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [PsdImageArgumentException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageArgumentException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PsdImageArgumentException`](../)class.
+[`PsdImageArgumentException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImageArgumentException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [PsdImageArgumentException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

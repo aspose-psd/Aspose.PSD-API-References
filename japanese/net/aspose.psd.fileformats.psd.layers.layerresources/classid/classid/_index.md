@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClassID コンストラクタ. の新しいインスタンスを初期化しますClassIDclass.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClassID コンストラクタ。ClassID クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-の新しいインスタンスを初期化します[`ClassID`](../)class.
+[`ClassID`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| classID | Byte[] | 一連のバイトとしてのクラス ID。 |
+| classID | Byte[] | クラスIDはバイト列として表されます。 |
 
 ### 関連項目
 
 * class [ClassID](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ClassID`](../)class.
+[`ClassID`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| classID | Byte[] | 一連のバイトとしてのクラス ID。 |
-| isZeroLength | Boolean | に設定した場合`真実` [長さゼロ]. 記録された文字列の長さはゼロですが、実際は 4 です. |
+| classID | Byte[] | クラスIDはバイト列として表されます。 |
+| isZeroLength | Boolean | `true` に設定した場合 [は長さがゼロです]。 記録された文字列の長さはゼロですが、実際は4です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | クラス ID がヌルです。 |
+| ArgumentNullException | classID は null です。 |
 
 ### 関連項目
 
 * class [ClassID](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-の新しいインスタンスを初期化します[`ClassID`](../)class.
+[`ClassID`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| classID | Int32 | クラス ID。 |
+| classID | Int32 | クラス IDです。 |
 
 ### 関連項目
 
 * class [ClassID](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-の新しいインスタンスを初期化します[`ClassID`](../)class.
+[`ClassID`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| classID | UInt32 | クラス ID。 |
+| classID | UInt32 | クラス IDです。 |
 
 ### 関連項目
 
 * class [ClassID](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-の新しいインスタンスを初期化します[`ClassID`](../)class.
+[`ClassID`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| classID | String | ASCII エンコーディングのクラス ID。 |
-| isZeroLength | Boolean | に設定した場合`真実` [長さゼロです]。 |
+| classID | 文字列 | ASCII エンコーディングのクラス ID。 |
+| isZeroLength | Boolean | `true` に設定した場合 [は長さがゼロです]。 |
 
-### 例
+## 例
 
-この例は、画像からインポートされたレイヤーがスマート オブジェクト レイヤーに変換され、保存された PSD ファイルが正しいことを示しています。
+この例は、画像からインポートされたレイヤーがスマートオブジェクトレイヤーに変換され、保存された PSD ファイルが正しいことを示しています。
 
 ```csharp
 [C#]
 
-// 画像からインポートされたレイヤーがスマート オブジェクト レイヤーに変換され、保存された PSD ファイルが正しいことをテストします。
+// レイヤーが画像からインポートされ、スマートオブジェクトレイヤーに変換され、保存された PSD ファイルが正しいことをテストします。
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -155,27 +156,27 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 ### 関連項目
 
 * class [ClassID](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-の新しいインスタンスを初期化します[`ClassID`](../)class.
+[`ClassID`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| classID | String | ASCII エンコーディングのクラス ID。 |
+| classID | 文字列 | ASCII エンコーディングのクラス ID。 |
 
 ### 関連項目
 
 * class [ClassID](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

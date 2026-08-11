@@ -1,14 +1,15 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. このハッシュコードを返しますColor構造体.
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。この Color 構造体のハッシュコードを返します。"
 type: docs
 weight: 1560
 url: /ja/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-このハッシュコードを返します[`Color`](../)構造体.
+この [`Color`](../) 構造体のハッシュコードを返します。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 戻り値
 
-このハッシュコードを指定する整数値[`Color`](../).
+この [`Color`](../) のハッシュコードを指定する整数値です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

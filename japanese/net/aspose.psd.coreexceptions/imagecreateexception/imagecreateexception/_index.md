@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageCreateException コンストラクタ. の新しいインスタンスを初期化しますImageCreateExceptionclass.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageCreateException コンストラクタ。ImageCreateException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`ImageCreateException`](../)class.
+[`ImageCreateException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [ImageCreateException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ImageCreateException`](../)class.
+[`ImageCreateException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [ImageCreateException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

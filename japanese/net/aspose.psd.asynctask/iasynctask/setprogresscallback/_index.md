@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.SetProgressCallback
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTask 方法. プログレス コールバック デリゲートを設定します
+title: "IAsyncTask.SetProgressCallback"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTask メソッド。進行状況コールバック デリゲートを設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.asynctask/iasynctask/setprogresscallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetProgressCallback method
 
-プログレス コールバック デリゲートを設定します。
+進捗コールバックデリゲートを設定します。
 
 ```csharp
 public void SetProgressCallback(ProgressCallback progressCallback)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| progressCallback | ProgressCallback | 進行状況のコールバック。 |
+| progressCallback | ProgressCallback | この進行状況コールバックです。 |
 
 ### 関連項目
 
 * delegate [ProgressCallback](../../progresscallback/)
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

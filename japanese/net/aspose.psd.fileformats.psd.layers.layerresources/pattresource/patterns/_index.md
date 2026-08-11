@@ -1,14 +1,15 @@
 ---
-title: PattResource.Patterns
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResource 財産. パターンデータを取得または設定します
+title: "PattResource.Patterns"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResource プロパティ。パターンデータを取得または設定します"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
+{{< psd/tize >}}
 ## PattResource.Patterns property
 
-パターンデータを取得または設定します;
+パターン データを取得または設定します;
 
 ```csharp
 public PattResourceData[] Patterns { get; set; }
@@ -18,7 +19,7 @@ public PattResourceData[] Patterns { get; set; }
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

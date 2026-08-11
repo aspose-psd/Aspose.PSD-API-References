@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskData 財産. マスクを取得または設定しますRectanglePSDファイルのレイヤーマスクの. 左右上下のプロパティを取り作成しますRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskData プロパティ。PSD ファイル内のレイヤーマスクのマスク Rectangle を取得または設定します。left、right、top、bottom プロパティを受け取り、Rectangle を作成します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-マスクを取得または設定します[`Rectangle`](../../../aspose.psd/rectangle/)PSDファイルのレイヤーマスクの. 左、右、上、下のプロパティを取り、作成します[`Rectangle`](../../../aspose.psd/rectangle/)
+レイヤーマスクのマスク [`Rectangle`](../../../aspose.psd/rectangle/) を取得または設定します。left、right、top、bottom プロパティを受け取り、[`Rectangle`](../../../aspose.psd/rectangle/) を作成します。
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-マスクの四角形。
+マスク矩形です。
 
-### 例
+## 例
 
-この例では、Adobe® Photoshop® ファイルのラスター レイヤー マスクをプログラムで取得、更新、削除、および追加する方法を示します。
+この例では、Adobe® Photoshop® ファイルでラスターレイヤーマスクを取得、更新、削除、追加する方法をプログラムで示します。
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// ビッグエンディアンのバイト順に変換された int 値を取得します。
+// int 値をビッグエンディアンのバイト順に変換して取得します。
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// PSD 画像のレイヤーからラスター マスクを取得し、ファイルに保存します
+// PSD 画像のレイヤーからラスターマスクを取得し、ファイルに保存します
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// ラスター マスクをファイルからレイヤーに追加し、PSD 形式の画像として保存します
+// ファイルからラスターマスクをレイヤーに追加し、PSD 形式の画像として保存します
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // チャンネルが更新されないため、LayerMasData を追加するだけでは正しく保存できません。
-    // layer.LayerMaskData = mask; // これはマスク チャネルを追加しません
+    // LayerMaskData を追加するだけでは、チャンネルが更新されないため正しく保存できません；
+    // layer.LayerMaskData = mask; // これはマスクチャンネルを追加しません
 
-    // マスクを追加 (または更新)
-    layer.AddLayerMask(maskData); // しかし、これはマスクとチャンネルの両方を追加/更新します!
+    // マスクを追加（または更新）
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// この例では、Adobe® Photoshop® ファイルのラスター レイヤー マスクをプログラムで取得、更新、削除、および追加する方法を示します。
+// この例では、Adobe® Photoshop® ファイルでラスターレイヤーマスクを取得、更新、削除、追加する方法をプログラムで示します。
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // レイヤーからラスター マスクを取得し、ファイルに保存します
+    // レイヤーからラスターマスクを取得し、ファイルに保存します
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // レイヤーマスクを変更（反転）して画像を保存
+    // レイヤーマスクを変更（反転）し、画像を保存します
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,22 +126,22 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // LayerMaskData を変更するだけでレンダリングに影響します
+    // LayerMaskData を変更するだけでレンダリングに影響を与えるのに十分です。
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // ただし、チャネルが更新されないため、LayerMasData を変更するだけでは正しく保存するには不十分です。
-    layer.LayerMaskData = mask; // これも動かない
-    layer.AddLayerMask(mask); // しかし、これはマスクとチャンネルの両方を更新します!
+    // しかし、LayerMaskData を変更するだけでは、チャンネルが更新されないため、正しく保存するには不十分です；
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // レイヤーからラスター マスクを削除し、画像を保存します
-    layer.LayerMaskData = null; // LayerMaskData を削除するだけでレンダリングに影響しますが、PSD 形式に保存するには十分ではありません
+    // レイヤーからラスターマスクを削除し、画像を保存する
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // しかし、これはマスクとマスク チャネルの両方を削除します!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // ファイルからレイヤーにラスター マスクを追加し、画像を保存します
+    // ファイルからラスターマスクをレイヤーに追加し、画像を保存する
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
@@ -151,7 +152,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

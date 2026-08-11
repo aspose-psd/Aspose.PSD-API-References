@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix41
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMatrix 財産. この要素の 4 行 1 列目の要素を取得または設定しますColorMatrix .
+title: "ColorMatrix.Matrix41"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMatrix プロパティ。この ColorMatrix の 第4行と第1列の要素を取得または設定します。"
 type: docs
 weight: 240
 url: /ja/net/aspose.psd/colormatrix/matrix41/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix41 property
 
-この要素の 4 行 1 列目の要素を取得または設定します[`ColorMatrix`](../) .
+この [`ColorMatrix`](../) の 第4行と第1列の要素を取得または設定します。
 
 ```csharp
 public float Matrix41 { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-この要素の 4 行 1 列目の要素[`ColorMatrix`](../).
+この [`ColorMatrix`](../) の 第4行と第1列の要素です。
 
 ### 関連項目
 
 * class [ColorMatrix](../)
-* 名前空間 [Aspose.PSD](../../colormatrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

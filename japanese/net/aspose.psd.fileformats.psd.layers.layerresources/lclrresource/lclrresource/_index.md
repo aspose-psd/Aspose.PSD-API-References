@@ -1,14 +1,15 @@
 ---
-title: LclrResource.LclrResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LclrResource コンストラクタ. の新しいインスタンスを初期化しますLclrResourceclass.
+title: "LclrResource.LclrResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LclrResource コンストラクタ。LclrResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-の新しいインスタンスを初期化します[`LclrResource`](../)class.
+新しいインスタンスを初期化します [`LclrResource`](../) クラスの。
 
 ```csharp
 public LclrResource()
@@ -17,54 +18,54 @@ public LclrResource()
 ### 関連項目
 
 * class [LclrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LclrResource`](../)class.
+新しいインスタンスを初期化します [`LclrResource`](../) クラスの。
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | SheetColorHighlightEnum | 色。 |
+| 色 | SheetColorHighlightEnum | 色です。 |
 
 ### 関連項目
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`LclrResource`](../)class.
+新しいインスタンスを初期化します [`LclrResource`](../) クラスの。
 
 ```csharp
 public LclrResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソース データ。 |
+| データ | Byte[] | リソース データ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Lclr リソース値が無効です |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な Lclr リソース値 |
 
 ### 関連項目
 
 * class [LclrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

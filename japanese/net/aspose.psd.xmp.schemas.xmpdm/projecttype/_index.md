@@ -1,14 +1,15 @@
 ---
-title: Enum ProjectType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType 列挙. のプロジェクト タイプを表しますXmpDynamicMediaPackage .
+title: "列挙型 ProjectType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType 列挙型。XmpDynamicMediaPackage のプロジェクトタイプを表します。"
 type: docs
-weight: 5870
+weight: 6370
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-のプロジェクト タイプを表します[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) のプロジェクトタイプを表します。
 
 ```csharp
 public enum ProjectType
@@ -16,16 +17,16 @@ public enum ProjectType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Movie | `0` | 映画プロジェクト タイプ |
-| Still | `1` | 静止プロジェクト タイプ |
-| Audio | `2` | オーディオ プロジェクト タイプ |
-| Custom | `3` | カスタム プロジェクト タイプ |
+| Movie | `0` | 映画プロジェクトタイプ |
+| Still | `1` | 静止画プロジェクトタイプ |
+| Audio | `2` | オーディオプロジェクトタイプ |
+| Custom | `3` | カスタムプロジェクトタイプ |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

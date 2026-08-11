@@ -1,67 +1,68 @@
 ---
-title: Graphics.DrawLines
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. の配列を接続する一連の線分を描画しますPoint構造物.
+title: "Graphics.DrawLines"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。配列の Point 構造体を接続する一連の線分を描画します。"
 type: docs
-weight: 260
+weight: 270
 url: /ja/net/aspose.psd/graphics/drawlines/
 ---
+{{< psd/tize >}}
 ## DrawLines(Pen, Point[]) {#drawlines_1}
 
-の配列を接続する一連の線分を描画します[`Point`](../../point/)構造物.
+配列の [`Point`](../../point/) 構造体を接続する一連の線分を描画します。
 
 ```csharp
 public void DrawLines(Pen pen, Point[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)線分の色、幅、スタイルを決定します。 |
-| points | Point[] | の配列[`Point`](../../point/)接続するポイントを表す構造。 |
+| pen | Pen | [`Pen`](../../pen/) は線分の色、幅、スタイルを決定します。 |
+| points | Point[] | 接続する点を表す [`Point`](../../point/) 構造体の配列。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen* null です。 -または- *points*無効である。 |
-| ArgumentException | の*points*配列に含まれる点が 2 つ未満です。 |
+| ArgumentNullException | *pen* は null です。-or- *points* は null です。 |
+| ArgumentException | *points* 配列の要素が 2 未満です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLines(Pen, PointF[]) {#drawlines}
 
-の配列を接続する一連の線分を描画します[`PointF`](../../pointf/)構造物.
+配列の [`PointF`](../../pointf/) 構造体を接続する一連の線分を描画します。
 
 ```csharp
 public void DrawLines(Pen pen, PointF[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)線分の色、幅、スタイルを決定します。 |
-| points | PointF[] | の配列[`PointF`](../../pointf/)接続するポイントを表す構造。 |
+| pen | Pen | [`Pen`](../../pen/) は線分の色、幅、スタイルを決定します。 |
+| points | PointF[] | 接続する点を表す [`PointF`](../../pointf/) 構造体の配列。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen* null です。 -または- *points*無効である。 |
-| ArgumentException | の*points*配列に含まれる点が 2 つ未満です。 |
+| ArgumentNullException | *pen* は null です。-or- *points* は null です。 |
+| ArgumentException | *points* 配列の要素が 2 未満です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

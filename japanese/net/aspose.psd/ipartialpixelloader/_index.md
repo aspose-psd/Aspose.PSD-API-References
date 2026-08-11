@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IPartialPixelLoader インターフェース. 部分的に読み込まれたピクセルに準拠します
+title: "インターフェイス IPartialPixelLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IPartialPixelLoader インターフェイス。部分的にロードされたピクセルに準拠します。"
 type: docs
-weight: 4530
+weight: 5000
 url: /ja/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
-部分的に読み込まれたピクセルに準拠します。
+部分的に読み込まれたピクセルに準拠しています。
 
 ```csharp
 public interface IPartialPixelLoader
@@ -18,11 +19,11 @@ public interface IPartialPixelLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | 読み込まれたピクセルを処理します。 |
+| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | ロードされたピクセルを処理します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

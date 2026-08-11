@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.TransformMatrix
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. PSD ファイル内のスマート オブジェクト レイヤー データの変換行列を取得または設定します
+title: "SmartObjectResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。PSD ファイル内のスマートオブジェクトレイヤーデータの変換行列を取得または設定します。"
 type: docs
-weight: 230
+weight: 210
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.TransformMatrix property
 
-PSD ファイル内のスマート オブジェクト レイヤー データの変換行列を取得または設定します。
+PSD ファイル内のスマートオブジェクトレイヤーデータの変換行列を取得または設定します。
 
 ```csharp
 public override double[] TransformMatrix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スマート オブジェクト レイヤー データの変換マトリックス.
+スマートオブジェクトレイヤーデータの変換行列です。
 
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

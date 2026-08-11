@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.FileVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: VersionInfoResource 財産. ファイル バージョンを取得または設定します
+title: "VersionInfoResource.FileVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VersionInfoResource プロパティ。ファイルバージョンを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.FileVersion property
 
 ファイル バージョンを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversio
 public uint FileVersion { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ファイルのバージョン。
+ファイル バージョンです。
 
 ### 関連項目
 
 * class [VersionInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. 留め継ぎコーナーの接合部の厚さの制限を取得または設定します.
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。 斜めコーナーの結合部の厚さの上限を取得または設定します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-留め継ぎコーナーの接合部の厚さの制限を取得または設定します.
+斜め角の結合部の厚さの上限を取得または設定します。
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-留め継ぎコーナーの接合部の厚さの制限。
+斜めコーナーの結合部の厚さの上限です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`MiterLimit`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `MiterLimit` プロパティは、[`Pen`](../) クラスが返すような不変の [`Pen`](../) に設定されます。 |
 
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

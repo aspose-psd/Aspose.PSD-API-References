@@ -1,27 +1,28 @@
 ---
-title: PtFlResource.PatternName
-second_title: Aspose.PSD for .NET API リファレンス
-description: PtFlResource 財産. パターンの名前を取得または設定します
+title: "PtFlResource.PatternName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PtFlResource プロパティ。パターンの名前を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PatternName property
 
-パターンの名前を取得または設定します。
+取得または設定します。パターンの名前。
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 パターンの名前。
 
 ### 関連項目
 
 * class [PtFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

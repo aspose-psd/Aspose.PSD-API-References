@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.CompressionMethod
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdOptions 財産. psd 圧縮方法を取得または設定します
+title: "PsdOptions.CompressionMethod"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdOptions プロパティ。psd 圧縮方式を取得または設定します。"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
+{{< psd/tize >}}
 ## PsdOptions.CompressionMethod property
 
-psd 圧縮方法を取得または設定します。
+PSD の圧縮方式を取得または設定します。
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-圧縮方法。
+圧縮方式です。
 
 ### 関連項目
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

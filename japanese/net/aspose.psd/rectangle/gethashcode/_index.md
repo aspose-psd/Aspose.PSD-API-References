@@ -1,14 +1,15 @@
 ---
-title: Rectangle.GetHashCode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. このハッシュコードを返しますRectangle構造体.
+title: "Rectangle.GetHashCode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。この Rectangle 構造体のハッシュコードを返します。"
 type: docs
 weight: 240
 url: /ja/net/aspose.psd/rectangle/gethashcode/
 ---
+{{< psd/tize >}}
 ## Rectangle.GetHashCode method
 
-このハッシュコードを返します[`Rectangle`](../)構造体.
+この [`Rectangle`](../) 構造体のハッシュコードを返します。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 戻り値
 
-この四角形のハッシュ コードを表す整数。
+この矩形のハッシュコードを表す整数です。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

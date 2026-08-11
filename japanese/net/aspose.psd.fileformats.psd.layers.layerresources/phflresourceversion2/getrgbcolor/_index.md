@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion2.GetRgbColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhflResourceVersion2 方法. 色を取得します.
+title: "PhflResourceVersion2.GetRgbColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhflResourceVersion2 メソッド。カラーを取得します"
 type: docs
-weight: 100
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.GetRgbColor method
 
-色を取得します.
+色を取得します。
 
 ```csharp
 public override Color GetRgbColor()
@@ -22,7 +23,7 @@ RGB カラー
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion2](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

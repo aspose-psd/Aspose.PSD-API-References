@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. このレイヤーがテンプレート レイヤーかどうかを示す値を取得または設定します
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。このレイヤーがテンプレートレイヤーかどうかを示す値を取得または設定します"
 type: docs
-weight: 100
+weight: 120
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-このレイヤーがテンプレート レイヤーかどうかを示す値を取得または設定します。
+このレイヤーがテンプレートレイヤーかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このレイヤーがテンプレートの場合。さもないと、`間違い` .
+`true` このレイヤーがテンプレートの場合。そうでなければ `false`。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

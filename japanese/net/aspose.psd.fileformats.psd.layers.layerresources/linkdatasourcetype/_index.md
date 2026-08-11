@@ -1,14 +1,15 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType 列挙. PSD リンク リソース内のデータ ソースの LinkDataSourceType 列挙を定義します
+title: "列挙型 LinkDataSourceType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType 列挙型。PSD リンクリソース内のデータソース用に LinkDataSourceType 列挙体を定義します。"
 type: docs
-weight: 2700
+weight: 3000
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-PSD リンク リソース内のデータ ソースの LinkDataSourceType 列挙を定義します。
+PSDリンクリソースのデータソース用に LinkDataSourceType 列挙体を定義します。
 
 ```csharp
 public enum LinkDataSourceType
@@ -16,16 +17,16 @@ public enum LinkDataSourceType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | 空のリンク リソース。 |
-| liFD | `1` | 埋め込まれたリンク ファイル data |
-| liFE | `2` | 外部リンクファイル data |
-| liFA | `3` | リンクされたファイルのエイリアス data |
+| None | `0` | 空のリンクリソースです。 |
+| liFD | `1` | 埋め込みリンクファイルデータ |
+| liFE | `2` | 外部リンクファイルデータ |
+| liFA | `3` | リンクファイルエイリアスデータ |
 
-### 例
+## 例
 
-次のコードは、LnkeResource リソースのサポートを示しています。
+以下のコードは LnkeResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -249,7 +250,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

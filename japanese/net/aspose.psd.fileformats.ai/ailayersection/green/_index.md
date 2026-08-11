@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. 緑の色成分を取得または設定します
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。緑色成分を取得または設定します"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-緑の色成分を取得または設定します。
+緑色成分を取得または設定します。
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-緑の色成分.
+緑色成分。
 
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

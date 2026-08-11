@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.B
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantLab 財産. B コンポーネントを取得または設定します
+title: "ColorantLab.B"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantLab プロパティ。B コンポーネントを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantlab/b/
 ---
+{{< psd/tize >}}
 ## ColorantLab.B property
 
 B コンポーネントを取得または設定します。
@@ -14,14 +15,14 @@ B コンポーネントを取得または設定します。
 public int B { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-B コンポーネント。
+B コンポーネントです。
 
 ### 関連項目
 
 * class [ColorantLab](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: GdFlResource 財産. RGB の色を取得します
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GdFlResource プロパティ。RGB の色を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
 RGB の色を取得します。
@@ -22,7 +23,7 @@ RGB カラー
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

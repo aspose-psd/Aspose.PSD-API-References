@@ -1,32 +1,33 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBlendExtensions 方法. はColorBlendにColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBlendExtensions メソッド。ColorBlend を ColorBlend に変換します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-は[`ColorBlend`](../../../aspose.psd/colorblend/)にColorBlend .
+[`ColorBlend`](../../../aspose.psd/colorblend/) を ColorBlend に変換します。
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| colorBlend | ColorBlend | カラーブレンド。 |
+| colorBlend | ColorBlend | カラー ブレンドです。 |
 
 ### 戻り値
 
-変換されたColorBlend.
+変換された ColorBlend です。
 
 ### 関連項目
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../colorblendextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

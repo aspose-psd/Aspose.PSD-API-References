@@ -1,11 +1,12 @@
 ---
-title: MedianFilterOptions.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: MedianFilterOptions 財産. サイズを取得または設定します
+title: "MedianFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MedianFilterOptions プロパティ。サイズを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
 サイズを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 public int Size { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-フィルター四角形のサイズ.
+フィルタ矩形のサイズです。
 
 ### 関連項目
 
 * class [MedianFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendingOptions 財産. エフェクトを取得します
+title: "BlendingOptions.Effects"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendingOptions プロパティ。効果を取得します"
 type: docs
-weight: 10
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
 エフェクトを取得します。
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-効果.
+効果です。
 
 ### 関連項目
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

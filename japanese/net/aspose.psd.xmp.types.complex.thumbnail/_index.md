@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Thumbnail
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはファイルのサムネイル イメージであるクラスが含まれています
+title: "Aspose.PSD.Xmp.Types.Complex.Thumbnail"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間にはファイルのサムネイル画像を表すクラスが含まれています。"
 type: docs
-weight: 680
+weight: 720
 url: /ja/net/aspose.psd.xmp.types.complex.thumbnail/
 ---
-名前空間には、ファイルのサムネイル イメージであるクラスが含まれています。
+{{< psd/tize >}}
+名前空間には、ファイルのサムネイル画像を表すクラスが含まれています。
 
 ## クラス
 

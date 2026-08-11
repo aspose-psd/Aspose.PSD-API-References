@@ -1,14 +1,15 @@
 ---
-title: Class CompressorException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.CompressorException クラス. コンプレッサの例外
+title: "クラス CompressorException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.CompressorException クラス。コンプレッサー例外。"
 type: docs
 weight: 430
 url: /ja/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
-コンプレッサの例外。
+コンプレッサー例外です。
 
 ```csharp
 public class CompressorException : FrameworkException
@@ -18,13 +19,13 @@ public class CompressorException : FrameworkException
 
 | 名前 | 説明 |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | の新しいインスタンスを初期化します`CompressorException`class. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`CompressorException`class. |
+| [CompressorException](compressorexception/#constructor)(string) | `CompressorException` クラスの新しいインスタンスを初期化します。 |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | `CompressorException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [FrameworkException](../frameworkexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

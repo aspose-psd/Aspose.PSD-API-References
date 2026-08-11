@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.ContentsBounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectLayer 財産. スマート オブジェクト コンテンツの境界を取得または設定します
+title: "SmartObjectLayer.ContentsBounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectLayer プロパティ。スマートオブジェクトのコンテンツ境界を取得または設定します。"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ContentsBounds property
 
-スマート オブジェクト コンテンツの境界を取得または設定します。
+スマートオブジェクトコンテンツの境界を取得または設定します。
 
 ```csharp
 public Rectangle ContentsBounds { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スマート オブジェクトの境界。
+スマートオブジェクトの境界。
 
-### 例
+## 例
 
-次のコードは、埋め込みスマート オブジェクトのサポートを示しています。
+以下のコードは埋め込みスマートオブジェクトのサポートを示しています。
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤーを変更し、スマート オブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
+// この例は、PSD ファイル内のスマートオブジェクトレイヤーを変更し、スマートオブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // 埋め込まれたスマート オブジェクト イメージを PSD スマート オブジェクト レイヤーからエクスポートしましょう
+        // PSD のスマートオブジェクトレイヤーから埋め込みスマートオブジェクト画像をエクスポートしましょう
         smartObjectLayer.ExportContents(exportPath);
 
-        // 元の画像が正しく保存されているか確認してみましょう
+        // 元の画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // 元のスマートオブジェクトの画像を反転させましょう
+            // 元のスマートオブジェクト画像を反転させましょう
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,18 +85,18 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // PSD レイヤーに埋め込まれたスマート オブジェクト画像を置き換えましょう
+            // PSD レイヤー内の埋め込みスマートオブジェクト画像を置き換えましょう
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 更新された画像が正しく保存されているか確認してみましょう
+        // 更新された画像が正しく保存されているか確認しましょう
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-次のコードは、リンクされたスマート オブジェクトの更新のサポートを示しています。
+以下のコードは、リンクされたスマートオブジェクトの更新サポートを示しています。
 
 ```csharp
 [C#]
@@ -128,8 +129,8 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、これらのメソッドを使用して、外部または埋め込みのスマート オブジェクト レイヤーを更新する方法を示します。
-// RelinkToFile、UpdateModifiedContent、ExportContents
+// この例では、これらのメソッドを使用して外部または埋め込みのスマートオブジェクトレイヤーを更新する方法を示します。
+// RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 
@@ -142,7 +143,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // この例では、PSD ファイルのスマート オブジェクト レイヤーを変更し、その内容をエクスポート/更新する方法を示します。
+    // この例では、PSD ファイル内のスマートオブジェクトレイヤーを変更し、そのコンテンツをエクスポート/更新する方法を示します。
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -163,13 +164,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // 外部のスマート オブジェクト イメージを PSD スマート オブジェクト レイヤーから新しい場所にエクスポートしましょう
-            // 変更するためです。
+            // PSD のスマートオブジェクトレイヤーから外部スマートオブジェクト画像を新しい場所へエクスポートしましょう
+            // それを変更する予定だからです。
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // スマート オブジェクトのコンテンツを反転させましょう: 内部 (キャッシュされていない) 画像
+        // スマートオブジェクトのコンテンツを反転させましょう：内部（キャッシュされていない）画像
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -180,18 +181,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // 変更されたコンテンツがまだレンダリングに影響を与えていないかどうかを確認しましょう。
+        // 変更されたコンテンツがまだレンダリングに影響しないか確認しましょう。
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // 更新されたコンテンツがレンダリングに影響し、psd 画像が正しく保存されているかどうかを確認してみましょう
+        // 更新されたコンテンツがレンダリングに影響し、psd 画像が正しく保存されているか確認しましょう
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// この例では、ConvertToLinked メソッドを使用して、埋め込まれたスマート オブジェクトを外部リンク コンテンツに変換する方法を示します。
+// この例では、ConvertToLinked メソッドを使用して埋め込みスマートオブジェクトを外部リンクコンテンツに変換する方法を示します。
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -211,7 +212,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // これは、PSD ファイルに埋め込まれたスマート オブジェクト レイヤーを外部レイヤーに変換する方法を示しています。
+    // これは、PSD ファイル内の埋め込みスマートオブジェクトレイヤーを外部のものに変換する方法を示しています。
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -232,7 +233,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // 変換した画像が正しく保存されているか確認してみましょう
+        // 変換された画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -249,7 +250,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// この例では、EmbedLinked メソッドを使用して、1 つの外部スマート オブジェクト レイヤーまたはリンクされたすべてのレイヤーを PSD ファイルに埋め込む方法を示します。
+// この例では、EmbedLinked メソッドを使用して外部スマートオブジェクトレイヤーを1つ、またはすべてのリンクレイヤーを PSD ファイルに埋め込む方法を示します。
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -293,7 +294,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // 変換した画像が正しく保存されているか確認してみましょう
+        // 変換された画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -310,8 +311,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// この例では、Adobe® Photoshop® 外部スマート オブジェクト レイヤーを変更し、そのコンテンツをエクスポート/更新する方法を示します
-// ExportContents および ReplaceContents メソッドを使用。
+// この例では、Adobe® Photoshop® の外部スマートオブジェクトレイヤーを変更し、そのコンテンツをエクスポート/更新する方法を示します。
+// ExportContents と ReplaceContents メソッドを使用して。
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -337,10 +338,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // リンクされたスマート オブジェクト イメージを PSD スマート オブジェクト レイヤーからエクスポートしましょう
+        // PSD のスマートオブジェクトレイヤーからリンクされたスマートオブジェクト画像をエクスポートしましょう
         smartObjectLayer.ExportContents(exportPath);
 
-        // 元の画像が正しく保存されているかどうかを確認しましょう
+        // 元の画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -348,21 +349,21 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // リンクされたスマートオブジェクトの画像を反転させましょう
+            // リンクされたスマートオブジェクト画像を反転させましょう
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // PSD レイヤーのリンクされたスマート オブジェクト画像を置き換えましょう
+            // PSD レイヤー内のリンクされたスマートオブジェクト画像を置き換えましょう
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // 更新された画像が正しく保存されているか確認してみましょう
+        // 更新された画像が正しく保存されているか確認しましょう
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// 画像を反転します。
+// 画像を反転させます。
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -376,7 +377,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// ラスター画像を反転します。
+// ラスタ画像を反転します。
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -402,7 +403,7 @@ string GetFormatExt(FileFormat format)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [SmartObjectLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTag
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 方法. 新しいタグを追加します
+title: "TiffOptions.AddTag"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions メソッド。新しいタグを追加します。"
 type: docs
-weight: 700
+weight: 710
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/addtag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTag method
 
 新しいタグを追加します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/addtag/
 public void AddTag(TiffDataType tagToAdd)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| tagToAdd | TiffDataType | 追加するタグ。 |
+| tagToAdd | TiffDataType | 追加するタグです。 |
 
 ### 関連項目
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

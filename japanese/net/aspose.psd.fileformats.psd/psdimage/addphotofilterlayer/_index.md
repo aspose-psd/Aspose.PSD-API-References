@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. PhotoFilter レイヤーを追加します
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。PhotoFilter レイヤーを追加します"
 type: docs
-weight: 400
+weight: 420
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
 PhotoFilter レイヤーを追加します。
@@ -14,20 +15,20 @@ PhotoFilter レイヤーを追加します。
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | 色。 |
+| 色 | 色 | 色です。 |
 
 ### 戻り値
 
-PhotoFilter レイヤーを作成しました
+作成された PhotoFilter レイヤー
 
 ### 関連項目
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

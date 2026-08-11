@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection クラス. Ai フォーマット ファイナライズ セクション
+title: "クラス AiFinalizeSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection クラス。Ai フォーマットの最終セクション"
 type: docs
-weight: 1230
+weight: 1240
 url: /ja/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Ai フォーマット ファイナライズ セクション
+Ai フォーマットのファイナライズセクション
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -23,7 +24,7 @@ public sealed class AiFinalizeSection : AiSection
 ### 関連項目
 
 * class [AiSection](../aisection/)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

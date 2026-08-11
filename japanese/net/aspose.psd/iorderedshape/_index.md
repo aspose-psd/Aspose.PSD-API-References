@@ -1,14 +1,15 @@
 ---
-title: Interface IOrderedShape
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IOrderedShape インターフェース. 順序付けられた形状を表します順序付けられた形状は始点と終点を持つ点の連続セットです 特定のルールを使用して接続された点の連続セット.
+title: "インターフェイス IOrderedShape"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IOrderedShape インターフェイス。順序付けられたシェイプを表します。順序付けられたシェイプは、開始点と終了点を持つ連続した点の集合です。これらの点は特定の規則を使用して接続されます。"
 type: docs
-weight: 4500
+weight: 4970
 url: /ja/net/aspose.psd/iorderedshape/
 ---
+{{< psd/tize >}}
 ## IOrderedShape interface
 
-順序付けられた形状を表します。順序付けられた形状は、始点と終点を持つ点の連続セットです。 特定のルールを使用して接続された点の連続セット.
+順序付けられたシェイプを表します。順序付けられたシェイプは、開始点と終了点を持つ連続した点の集合です。特定の規則を使用して接続された連続点の集合です。
 
 ```csharp
 public interface IOrderedShape
@@ -18,9 +19,9 @@ public interface IOrderedShape
 
 | 名前 | 説明 |
 | --- | --- |
-| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | 形状の終了点を取得します。 |
-| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | 順序付けられた形状が閉じているかどうかを示す値を取得または設定します。閉じた順序付けられた形状を処理する場合、開始点と終了点は意味を持ちません. |
-| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | 形状の開始点を取得します。 |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | シェイプの終了点を取得します。 |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | 順序付けられたシェイプが閉じているかどうかを示す値を取得または設定します。閉じた順序付けシェイプを処理する場合、開始点と終了点に意味はありません。 |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | シェイプの開始点を取得します。 |
 
 ## メソッド
 
@@ -30,7 +31,7 @@ public interface IOrderedShape
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

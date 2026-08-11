@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 方法. の要素をコピーしますICollection にArray特定の から開始Arrayindex.
+title: "NonGenericDictionary.CopyTo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary メソッド。ICollection の要素を、特定の Array インデックスから開始する Array にコピーします"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/nongenericdictionary/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.CopyTo method
 
-の要素をコピーしますICollection にArray、特定の から開始Arrayindex.
+ICollection の要素を特定の配列インデックスから開始して Array にコピーします。
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| array | Array | 1 次元の Arrayこれは、 からコピーされた要素の宛先ですICollectionArrayゼロベースのインデックスが必要です。 |
-| index | Int32 | のゼロから始まるインデックス*array*コピーを開始する場所。 |
+| array | Array | ICollection からコピーされた要素の宛先となる一次元の Array です。Array はゼロベースのインデックスを持つ必要があります。 |
+| インデックス | Int32 | コピーが開始される *array* のゼロベースインデックスです。 |
 
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

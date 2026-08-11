@@ -1,14 +1,15 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions クラス. 大きな長方形フィルター オプション
+title: "クラス BigRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions クラス。大長方形フィルターオプション"
 type: docs
-weight: 4650
+weight: 5120
 url: /ja/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
-大きな長方形フィルター オプション
+大きな長方形フィルターオプション
 
 ```csharp
 public class BigRectangularFilterOptions : FilterOptionsBase
@@ -18,12 +19,12 @@ public class BigRectangularFilterOptions : FilterOptionsBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | デフォルトのコンストラクター。 |
+| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | デフォルトコンストラクタです。 |
 
 ### 関連項目
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

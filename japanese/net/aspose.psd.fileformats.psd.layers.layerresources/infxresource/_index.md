@@ -1,14 +1,15 @@
 ---
-title: Class InfxResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource クラス. Class InfxResource. このリソースにはクリップされた要素のブレンドに関する情報が含まれています.
+title: "クラス InfxResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource クラス。クラス InfxResource。このリソースはクリップされた要素のブレンド情報を含みます。"
 type: docs
-weight: 2550
+weight: 2860
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource class
 
-Class InfxResource. このリソースには、クリップされた要素のブレンドに関する情報が含まれています.
+クラス InfxResource。このリソースは、クリップされた要素のブレンド情報を含みます。
 
 ```csharp
 public class InfxResource : BooleanResource
@@ -18,38 +19,38 @@ public class InfxResource : BooleanResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [InfxResource](infxresource/#constructor)() | の新しいインスタンスを初期化します`InfxResource`class. |
-| [InfxResource](infxresource/#constructor_1)(bool) | の新しいインスタンスを初期化します`InfxResource`class. |
-| [InfxResource](infxresource/#constructor_2)(byte[]) | の新しいインスタンスを初期化します`InfxResource` class. カスタムまたは不明な値を使用 |
+| [InfxResource](infxresource/#constructor)() | `InfxResource` クラスの新しいインスタンスを初期化します。 |
+| [InfxResource](infxresource/#constructor_1)(bool) | `InfxResource` クラスの新しいインスタンスを初期化します。 |
+| [InfxResource](infxresource/#constructor_2)(byte[]) | `InfxResource` クラスの新しいインスタンスを初期化します。カスタムまたは不明な値を使用します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | [内部要素をブレンド]するかどうかを示す値を取得または設定します。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | psd バージョンを取得します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | 署名を取得します。 |
+| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | [blend interior elements] かどうかを示す値を取得または設定します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | 指定したストリーム コンテナを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | 指定されたストリームコンテナを保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/) | タイプ ツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/) | タイプツール情報キーです。 |
 
 ### 関連項目
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

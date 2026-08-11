@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantCmyk 財産. シアン コンポーネント値を取得または設定します
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantCmyk プロパティ。シアンコンポーネントの値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
-シアン コンポーネント値を取得または設定します。
+シアンコンポーネントの値を取得または設定します。
 
 ```csharp
 public float Cyan { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-シアン成分値.
+シアンコンポーネントの値。
 
 ### 関連項目
 
 * class [ColorantCmyk](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

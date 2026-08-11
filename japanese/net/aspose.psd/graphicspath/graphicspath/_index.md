@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath コンストラクタ. の新しいインスタンスを初期化しますGraphicsPathclass.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath コンストラクタ。GraphicsPath クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-の新しいインスタンスを初期化します[`GraphicsPath`](../)class.
+[`GraphicsPath`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GraphicsPath()
@@ -17,72 +18,72 @@ public GraphicsPath()
 ### 関連項目
 
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`GraphicsPath`](../)class.
+[`GraphicsPath`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GraphicsPath(Figure[] figures)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| figures | Figure[] | 初期化する数値。 |
+| 図形 | Figure[] | 初期化元となる図形。 |
 
 ### 関連項目
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-の新しいインスタンスを初期化します[`GraphicsPath`](../)class.
+[`GraphicsPath`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| figures | Figure[] | 初期化する数値。 |
-| fillMode | FillMode | 塗りつぶしモード。 |
+| 図形 | Figure[] | 初期化元となる図形。 |
+| fillMode | FillMode | 塗りつぶしモードです。 |
 
 ### 関連項目
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-の新しいインスタンスを初期化します[`GraphicsPath`](../)class.
+[`GraphicsPath`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fillMode | FillMode | 塗りつぶしモード。 |
+| fillMode | FillMode | 塗りつぶしモードです。 |
 
 ### 関連項目
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

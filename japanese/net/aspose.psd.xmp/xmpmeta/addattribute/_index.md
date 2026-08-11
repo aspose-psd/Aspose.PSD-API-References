@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpMeta 方法. 属性を追加します
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpMeta メソッド。属性を追加します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 属性を追加します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.xmp/xmpmeta/addattribute/
 public override void AddAttribute(string attribute, string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| attribute | String | 属性。 |
-| value | String | 値。 |
+| 属性 | 文字列 | 属性です。 |
+| 値 | 文字列 | 値です。 |
 
 ### 関連項目
 
 * class [XmpMeta](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmpmeta/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

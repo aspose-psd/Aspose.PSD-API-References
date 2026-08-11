@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper 財産. XMP メタを取得しますオプション.
+title: "XmpPacketWrapper.Meta"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper プロパティ。XMP メタを取得します。オプションです。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-XMP メタを取得します。オプション.
+XMP メタを取得します。オプションです。
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-XMP メタ。オプション.
+XMP メタ。オプションです。
 
 ### 関連項目
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

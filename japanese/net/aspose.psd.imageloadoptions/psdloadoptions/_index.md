@@ -1,14 +1,15 @@
 ---
-title: Class PsdLoadOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions クラス. Psd 読み込みオプション
+title: "クラス PsdLoadOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageLoadOptions.PsdLoadOptions クラス。PSD のロード オプション"
 type: docs
-weight: 4770
+weight: 5250
 url: /ja/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions class
 
-Psd 読み込みオプション
+Psd ロードオプション
 
 ```csharp
 public class PsdLoadOptions : LoadOptions
@@ -18,27 +19,29 @@ public class PsdLoadOptions : LoadOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [PsdLoadOptions](psdloadoptions/)() | デフォルトのコンストラクター。 |
+| [PsdLoadOptions](psdloadoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | ワープ トランスフォームを使用して、または使用せずに、レンダリングされたイメージと共に保存するかどうかを取得または設定します。 |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | すべての内部バッファーの最大許容サイズが定義されているバッファー サイズのヒントを取得または設定します。 |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | を取得または設定します[`Image`](../../aspose.psd/image/)バックグラウンド[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | データ復旧モードを取得または設定します。 |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | [アルファ チャネルを無視する]かどうかを示す値を取得または設定します。 |
-| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | UpdateText 操作の実行時に PSD テキスト レイヤーの固定幅を無視するかどうかを示す値を取得または設定します。 |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | [負荷がリソースに影響する] (デフォルトではリソースは読み込まれない) かどうかを示す値を取得または設定します。このオプションを設定すると、サポートされている効果のみが最終的なマージされた画像にレンダリングされます. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | 進行状況イベント ハンドラーを取得または設定します。 |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | [読み取り専用モードを使用する]かどうかを示す値を取得または設定します。これは読み取り専用モードで、Adobe Photoshop との同一の互換性のためにサポートされています。 このオプションが設定されている場合、レイヤーに適用されたすべての変更は最終イメージに保存されません。すべてのデータは ImageData セクションから使用されるため、Photoshop と同じです。 デフォルトでは、ロードされたすべての画像は、Adobe Photoshop と互換性があるものと同一ではありません。 |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | [エフェクト リソースのロードにディスクを使用する] (デフォルトではエフェクト リソースのロードにディスクを使用しますが、この値を false に設定することで十分な場合はメモリを使用できます) かどうかを示す値を取得または設定します。 |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | ICC プロファイル変換を適用するかどうかを示す値を取得または設定します。 |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | 取得または設定するのは、レイヤーが変更されていない場合に、レンダリング中に元のレイヤー ピクセルを保持するかどうかです。 |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | 取得または設定するのは、ワープ変換の有無にかかわらず、レンダリングされた画像とともに保存するかどうかです。 |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | すべての内部バッファに対して定義された最大許容サイズであるバッファサイズヒントを取得または設定します。 |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | 取得または設定するのは、[`Image`](../../aspose.psd/image/) の背景 [`Color`](../../aspose.psd/color/) です。 |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | 取得または設定するのは、データ復旧モードです。 |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | 取得または設定するのは、[alpha チャネルを無視する]かどうかを示す値です。 |
+| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | 取得または設定するのは、UpdateText 操作の実行時に PSD テキストレイヤーの固定幅を無視するかどうかを示す値です。 |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | 取得または設定するのは、[エフェクトリソースをロードする]かどうかを示す値です（デフォルトではリソースはロードされません）。このオプションを設定すると、サポートされているエフェクトのみが最終的に結合された画像にレンダリングされます。 |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | 取得または設定するのは、進行状況イベント ハンドラーです。 |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | 取得または設定するのは、[読み取り専用モードを使用する]かどうかを示す値です。これは Adobe Photoshop と同一の互換性を提供する読み取り専用モードです。このオプションを設定すると、レイヤーに対するすべての変更が最終画像に保存されません。すべてのデータは ImageData セクションから使用されるため、Photoshop と同一になります。デフォルトでは、ロードされたすべての画像は Adobe Photoshop と同一の互換性がありません。 |
+| [ReadOnlyType](../../aspose.psd.imageloadoptions/psdloadoptions/readonlytype/) { get; set; } | 取得または設定するのは、PSD 画像をロードする際に使用される読み取り専用モードです。 |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | 取得または設定するのは、[エフェクトリソースのロードにディスクを使用する]かどうかを示す値です（デフォルトではディスクが使用されますが、この値を false に設定すればメモリを使用できます）。 |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | 取得または設定するのは、ICC プロファイル変換を適用すべきかどうかを示す値です。 |
 
-### 例
+## 例
 
-次の例は、ドキュメント変換の進行状況が例外なく正しく機能することを示しています。
+次の例は、ドキュメント変換の進行状況が正しく例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -85,7 +88,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 ### 関連項目
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* 名前空間 [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

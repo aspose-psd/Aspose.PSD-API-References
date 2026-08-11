@@ -1,28 +1,29 @@
 ---
-title: Layer.Flags
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤー フラグを取得または設定します ビット 0  透明度が保護されています ビット 1  表示されています ビット 2  廃止されています ビット 3  Photoshop 5.0 以降では 1 でありビット 4 に有用な情報があるかどうかを示します ビット 4 ドキュメントの外観に関係のないピクセル データ.
+title: "Layer.Flags"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーフラグを取得または設定します。bit 0  透明度保護, bit 1  可視, bit 2  旧式, bit 3  Photoshop 5.0 以降では bit 4 に有用な情報があるかを示す, bit 4  ピクセルデータは文書の外観に関係しない"
 type: docs
-weight: 140
+weight: 150
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/flags/
 ---
+{{< psd/tize >}}
 ## Layer.Flags property
 
-レイヤー フラグを取得または設定します。 ビット 0 = 透明度が保護されています。 ビット 1 = 表示されています。 ビット 2 = 廃止されています。 ビット 3 = Photoshop 5.0 以降では 1 であり、ビット 4 に有用な情報があるかどうかを示します。 ビット 4 =ドキュメントの外観に関係のないピクセル データ.
+レイヤーフラグを取得または設定します。ビット0 = 透明保護; ビット1 = 表示; ビット2 = 旧式; ビット3 = Photoshop 5.0以降の場合は1で、ビット4に有用な情報があるかを示します; ビット4 = ドキュメントの外観に関係しないピクセルデータ。
 
 ```csharp
 public LayerFlags Flags { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤ フラグ。
+レイヤーフラグ。
 
 ### 関連項目
 
 * enum [LayerFlags](../../layerflags/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

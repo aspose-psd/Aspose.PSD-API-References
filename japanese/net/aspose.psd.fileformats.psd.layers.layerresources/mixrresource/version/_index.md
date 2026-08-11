@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: MixrResource 財産. バージョンを取得または設定します
+title: "MixrResource.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MixrResource プロパティ。バージョンを取得または設定します"
 type: docs
-weight: 60
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
 バージョンを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/versi
 public short Version { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 バージョン。デフォルト値は 1 です
 
 ### 関連項目
 
 * class [MixrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

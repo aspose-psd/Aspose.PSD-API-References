@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間は Psd リソースの解決を処理します units
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は PSD リソースの解像度単位を処理します"
 type: docs
-weight: 360
+weight: 400
 url: /ja/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-名前空間は Psd リソースの解決を処理します units
+{{< psd/tize >}}
+この名前空間は PSD リソースの解像度単位を処理します
 
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | resoulutionInfo 物理ユニット enum |
-| [ResolutionUnit](./resolutionunit/) | 解像度情報 resolution unit |
+| [PhysicalUnit](./physicalunit/) | 解像度情報の物理単位列挙型 |
+| [ResolutionUnit](./resolutionunit/) | 解像度情報の解像度単位 |
 
 

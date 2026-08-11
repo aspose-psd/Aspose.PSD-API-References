@@ -1,38 +1,39 @@
 ---
-title: ColorPalette.GetColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorPalette 方法. インデックスでパレットの色を取得します.
+title: "ColorPalette.GetColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorPalette メソッド。インデックスでパレットの色を取得します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/colorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## ColorPalette.GetColor method
 
-インデックスでパレットの色を取得します.
+インデックスでパレットカラーを取得します。
 
 ```csharp
 public Color GetColor(int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| index | Int32 | パレットのカラー インデックス。 |
+| インデックス | Int32 | パレットの色インデックスです。 |
 
 ### 戻り値
 
-によって指定されたカラー パレット エントリ*index*.
+*index* で指定されたカラーパレットエントリです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | カラーパレットの場合*index*指定された値は、パレット エントリの範囲外です。 |
+| ArgumentOutOfRangeException | 指定されたカラーパレット *index* がパレットエントリの範囲外の場合。 |
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* 名前空間 [Aspose.PSD](../../colorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

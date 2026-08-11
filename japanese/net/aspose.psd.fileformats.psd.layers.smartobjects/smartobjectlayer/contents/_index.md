@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectLayer 財産. スマート オブジェクト レイヤーのコンテンツを取得または設定します 埋め込まれたスマート オブジェクトのコンテンツは埋め込まれた生の画像ファイルですDataおよびそのプロパティ. リンクされたスマート オブジェクトのコンテンツはリンクされた画像ファイルが利用可能な場合そのファイルの生のコンテンツでありそのプロパティは次のとおりですLiFeDataSource . Adobe Photoshop  Graphics Library からの読み込みはサポートしていませんIsLibraryLink true. 通常のリンク ファイルの場合最初はRelativePathソースイメージパスに対して相対的に ファイルを探すSourceImagePath 利用できない場合は確認しますFullPath そうでない場合は画像と同じディレクトリでリンク ファイルを探しますSourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectLayer プロパティ。スマートオブジェクトレイヤーのコンテンツを取得または設定します。埋め込みスマートオブジェクトのコンテンツは、埋め込まれた生画像ファイル Data とそのプロパティです。リンクされたスマートオブジェクトのコンテンツは、利用可能な場合はリンク画像ファイルの生データとそのプロパティ LiFeDataSource です。IsLibraryLink が true のとき、Adobe Photoshop Graphics Library からの読み込みはサポートしていません。通常のリンクファイルについては、まず RelativePath を使用してソース画像パス SourceImagePath に対して相対的にファイルを探し、利用できない場合は FullPath を確認し、それでも見つからなければ画像と同じディレクトリの SourceImagePath にリンクファイルを探します。"
 type: docs
-weight: 10
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-スマート オブジェクト レイヤーのコンテンツを取得または設定します。 埋め込まれたスマート オブジェクトのコンテンツは、埋め込まれた生の画像ファイルです。[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/)およびそのプロパティ. リンクされたスマート オブジェクトのコンテンツは、リンクされた画像ファイルが利用可能な場合、そのファイルの生のコンテンツであり、そのプロパティは次のとおりです。[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Adobe� Photoshop� � Graphics Library からの読み込みはサポートしていません。[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) true. 通常のリンク ファイルの場合、最初は[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/)ソースイメージパスに対して相対的に ファイルを探すSourceImagePath, 利用できない場合は確認します[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), そうでない場合は、画像と同じディレクトリでリンク ファイルを探します。SourceImagePath .
+スマートオブジェクトレイヤーのコンテンツを取得または設定します。埋め込みスマートオブジェクトのコンテンツは、埋め込まれた生画像ファイル: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) とそのプロパティです。リンクされたスマートオブジェクトのコンテンツは、利用可能な場合はリンク画像ファイルの生データとそのプロパティ: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) です。[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) が true のとき、Adobe Photoshop Graphics Library からの読み込みはサポートしていません。通常のリンクファイルについては、まず [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) を使用してソース画像パス SourceImagePath に対して相対的にファイルを探し、利用できない場合は [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) を確認し、それでも見つからなければ画像と同じディレクトリの SourceImagePath にリンクファイルを探します。
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-byte[]スマート オブジェクト レイヤーの内容.
+byte[] スマートオブジェクトレイヤーのコンテンツ。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| NotSupportedException | Adobe� Photoshop� �� ライブラリからコンテンツを取得できません。 |
+| NotSupportedException | Adobe Photoshop ライブラリからコンテンツを取得できません。 |
 
-### 例
+## 例
 
-次のコードは、埋め込みスマート オブジェクトのサポートを示しています。
+以下のコードは埋め込みスマートオブジェクトのサポートを示しています。
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤーを変更し、スマート オブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
+// この例は、PSD ファイル内のスマートオブジェクトレイヤーを変更し、スマートオブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // 埋め込まれたスマート オブジェクト イメージを PSD スマート オブジェクト レイヤーからエクスポートしましょう
+        // PSD のスマートオブジェクトレイヤーから埋め込みスマートオブジェクト画像をエクスポートしましょう
         smartObjectLayer.ExportContents(exportPath);
 
-        // 元の画像が正しく保存されているか確認してみましょう
+        // 元の画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -79,7 +80,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // 元のスマートオブジェクトの画像を反転させましょう
+            // 元のスマートオブジェクト画像を反転させましょう
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,11 +91,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // PSD レイヤーに埋め込まれたスマート オブジェクト画像を置き換えましょう
+            // PSD レイヤー内の埋め込みスマートオブジェクト画像を置き換えましょう
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 更新された画像が正しく保存されているか確認してみましょう
+        // 更新された画像が正しく保存されているか確認しましょう
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -104,7 +105,7 @@ foreach (FileFormat format in formats)
 ### 関連項目
 
 * class [SmartObjectLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

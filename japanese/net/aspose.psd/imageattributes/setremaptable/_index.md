@@ -1,51 +1,52 @@
 ---
-title: ImageAttributes.SetRemapTable
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. デフォルト カテゴリのカラー リマップ テーブルを設定します
+title: "ImageAttributes.SetRemapTable"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。デフォルトカテゴリのカラーリマップテーブルを設定します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.psd/imageattributes/setremaptable/
 ---
+{{< psd/tize >}}
 ## SetRemapTable(ColorMap[]) {#setremaptable}
 
-デフォルト カテゴリのカラー リマップ テーブルを設定します。
+デフォルトカテゴリのカラーリマップテーブルを設定します。
 
 ```csharp
 public void SetRemapTable(ColorMap[] map)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| map | ColorMap[] | タイプの色ペアの配列[`ColorMap`](../../colormap/).各色のペアには、既存の色 (最初の値) とマップ先の色 (2 番目の値) が含まれます。 |
+| map | ColorMap[] | [`ColorMap`](../../colormap/) 型のカラーペアの配列です。各カラーペアは既存の色（最初の値）と、マップ先の色（2 番目の値）を含みます。 |
 
 ### 関連項目
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetRemapTable(ColorMap[], ColorAdjustType) {#setremaptable_1}
 
-指定したカテゴリのカラー リマップ テーブルを設定します。
+指定されたカテゴリのカラーリマップテーブルを設定します。
 
 ```csharp
 public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| map | ColorMap[] | タイプの色ペアの配列[`ColorMap`](../../colormap/).各色のペアには、既存の色 (最初の値) とマップ先の色 (2 番目の値) が含まれます。 |
-| type | ColorAdjustType | の要素[`ColorAdjustType`](../../coloradjusttype/)カラー リマップ テーブルを設定するカテゴリを指定します。 |
+| map | ColorMap[] | [`ColorMap`](../../colormap/) 型のカラーペアの配列です。各カラーペアは既存の色（最初の値）と、マップ先の色（2 番目の値）を含みます。 |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) の要素で、カラーリマップテーブルを設定するカテゴリを指定します。 |
 
 ### 関連項目
 
 * class [ColorMap](../../colormap/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

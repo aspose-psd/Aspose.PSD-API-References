@@ -1,27 +1,28 @@
 ---
-title: Layer.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. 画像の高さを取得します.
+title: "Layer.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。画像の高さを取得します"
 type: docs
-weight: 160
+weight: 170
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
-画像の高さを取得します.
+画像の高さを取得します。
 
 ```csharp
 public override int Height { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像の高さ.
+画像の高さです。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

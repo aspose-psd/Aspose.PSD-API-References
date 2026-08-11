@@ -1,14 +1,15 @@
 ---
-title: Enum LayerLockType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType 列挙. レイヤー ロック オプション
+title: "列挙型 LayerLockType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType 列挙型。レイヤーロックオプションです。"
 type: docs
-weight: 2580
+weight: 2890
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
+{{< psd/tize >}}
 ## LayerLockType enumeration
 
-レイヤー ロック オプション
+レイヤーロックオプション
 
 ```csharp
 [Flags]
@@ -17,17 +18,17 @@ public enum LayerLockType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | None | `0` | レイヤーロックなし |
-| LockTransparentPixels | `1` | レイヤーを部分的にロック - 編集をレイヤーの不透明部分に限定します。 このオプションは、以前のバージョンの Photoshop の [透明度を保持] オプションと同等です。 |
-| LockImagePixels | `2` | レイヤーを部分的にロック - ペイント ツールを使用してレイヤーのピクセルを変更できないようにします。 |
-| LockPosition | `4` | レイヤーを部分的にロック - レイヤーのピクセルが動かないようにします. |
+| LockTransparentPixels | `1` | レイヤーを部分的にロックします - 編集をレイヤーの不透明部分に限定します。このオプションは、以前のバージョンの Photoshop の「透明度を保持」オプションと同等です。 |
+| LockImagePixels | `2` | レイヤーを部分的にロックします - ペイントツールによるレイヤーのピクセルの変更を防止します。 |
+| LockPosition | `4` | レイヤーを部分的にロックします - レイヤーのピクセルが移動するのを防止します。 |
 | LockAll | `7` | レイヤーのすべてのプロパティをロックします |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

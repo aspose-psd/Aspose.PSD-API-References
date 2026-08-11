@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage 分野. 評価が拒否された値.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage フィールド。評価が拒否された値"
 type: docs
-weight: 120
+weight: 150
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-評価が拒否された値.
+評価の拒否値。
 
 ```csharp
 public const int RatingRejected;
@@ -17,7 +18,7 @@ public const int RatingRejected;
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

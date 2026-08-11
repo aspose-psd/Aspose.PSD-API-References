@@ -1,14 +1,15 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 方法. リソース値を検証します
+title: "ThumbnailResource.ValidateValues"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource メソッド。リソースの値を検証します"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ValidateValues method
 
-リソース値を検証します。
+リソースの値を検証します。
 
 ```csharp
 public override void ValidateValues()
@@ -17,7 +18,7 @@ public override void ValidateValues()
 ### 関連項目
 
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

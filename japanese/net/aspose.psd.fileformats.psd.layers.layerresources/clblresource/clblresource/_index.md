@@ -1,34 +1,15 @@
 ---
-title: ClblResource.ClblResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClblResource コンストラクタ. の新しいインスタンスを初期化しますClblResourceclass.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClblResource コンストラクタ。ClblResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-の新しいインスタンスを初期化します[`ClblResource`](../)class.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| パラメータ | タイプ | 説明 |
-| --- | --- | --- |
-| blendClippedElements | Boolean | に設定した場合`真実` [クリップされた要素をブレンド]。 |
-
-### 関連項目
-
-* class [ClblResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* 組み立て [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-の新しいインスタンスを初期化します[`ClblResource`](../)class.
+[`ClblResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClblResource()
@@ -37,33 +18,53 @@ public ClblResource()
 ### 関連項目
 
 * class [ClblResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+[`ClblResource`](../) クラスの新しいインスタンスを初期化します。
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| blendClippedElements | Boolean | `true` に設定された場合、[blend clipped elements]。 |
+
+### 関連項目
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`ClblResource`](../) class. カスタムまたは不明な値を使用
+[`ClblResource`](../) クラスの新しいインスタンスを初期化します。カスタムまたは不明な値を使用
 
 ```csharp
 public ClblResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソース データ。 |
+| データ | Byte[] | リソース データ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | clbl リソース値が無効です |
+| ArgumentException | 無効な clbl リソース値 |
 
 ### 関連項目
 
 * class [ClblResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

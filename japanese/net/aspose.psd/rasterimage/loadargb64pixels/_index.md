@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 64 ビット ARGB ピクセルをロードします
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。64 ビット ARGB ピクセルをロードします"
 type: docs
 weight: 360
 url: /ja/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-64 ビット ARGB ピクセルをロードします。
+64ビット ARGB ピクセルを読み込みます。
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | ピクセルの読み込み元の四角形。 |
+| 矩形 | Rectangle | ピクセルをロードする矩形。 |
 
 ### 戻り値
 
-ロードされた 64 ビット ARGB ピクセル配列。
+ロードされた 64 ビット ARGB ピクセル配列です。
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

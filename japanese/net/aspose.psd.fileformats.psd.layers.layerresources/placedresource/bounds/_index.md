@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Bounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. PSD ファイルに配置されたレイヤーの境界を取得または設定します
+title: "PlacedResource.Bounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource プロパティ。PSD ファイル内の配置レイヤーの境界を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bounds property
 
-PSD ファイルに配置されたレイヤーの境界を取得または設定します。
+PSD ファイル内の配置レイヤーの境界を取得または設定します。
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤーの境界。
+配置レイヤーの境界です。
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

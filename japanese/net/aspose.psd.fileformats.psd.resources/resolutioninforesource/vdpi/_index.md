@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResolutionInfoResource 財産. 垂直 DPI.
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResolutionInfoResource プロパティ。垂直 DPI"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
-垂直 DPI.
+垂直 DPI。
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-垂直 dpi.
+垂直 DPI。
 
 ### 関連項目
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

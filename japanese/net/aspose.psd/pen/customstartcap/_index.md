@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. これで描画された線の始点で使用するカスタム キャップを取得または設定しますPen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。 この Pen で描画される線の開始部で使用するカスタムキャップを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-これで描画された線の始点で使用するカスタム キャップを取得または設定します[`Pen`](../) .
+この [`Pen`](../) で描画される線の開始部で使用するカスタムキャップを取得または設定します。
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`CustomLineCap`](../../customlinecap/)これは、これで描かれた線の先頭に使用されるキャップを表します[`Pen`](../).
+[`CustomLineCap`](../../customlinecap/) は、この [`Pen`](../) で描画される線の開始部で使用されるキャップを表します。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`CustomStartCap`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `CustomStartCap` プロパティは、[`Pen`](../) クラスが返すような不変の [`Pen`](../) に設定されます。 |
 
 ### 関連項目
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

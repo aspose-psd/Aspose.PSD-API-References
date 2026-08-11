@@ -1,14 +1,15 @@
 ---
-title: PdfCoreOptions.PdfCoreOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: PdfCoreOptions コンストラクタ. デフォルトのコンストラクター
+title: "PdfCoreOptions.PdfCoreOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PdfCoreOptions コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PdfCoreOptions()
@@ -17,7 +18,7 @@ public PdfCoreOptions()
 ### 関連項目
 
 * class [PdfCoreOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

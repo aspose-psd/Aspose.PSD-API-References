@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: WorkingPathResource 財産. リソース データ サイズをバイト単位で取得します
+title: "WorkingPathResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "WorkingPathResource プロパティ。リソースデータサイズ（バイト単位）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/workingpathresource/datasize/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [WorkingPathResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

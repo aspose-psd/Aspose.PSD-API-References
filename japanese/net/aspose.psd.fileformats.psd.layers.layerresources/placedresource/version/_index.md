@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. PSD ファイルに配置されたレイヤーのバージョンを取得します通常は 3. です
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource プロパティ。PSD ファイル内の配置レイヤーのバージョンを取得します（通常は 3）"
 type: docs
-weight: 210
+weight: 200
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-PSD ファイルに配置されたレイヤーのバージョンを取得します。通常は 3. です。
+配置されたレイヤーの PSD ファイルのバージョンを取得します（通常は 3）。
 
 ```csharp
 public int Version { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤーのバージョン.
+配置レイヤーのバージョンです。
 
 ### 関連項目
 
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

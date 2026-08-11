@@ -1,14 +1,15 @@
 ---
-title: Class AiLayerSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection クラス. Ai 形式のレイヤー セクション
+title: "クラス AiLayerSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Ai.AiLayerSection クラス。AI 形式のレイヤーセクションです。"
 type: docs
-weight: 1270
+weight: 1280
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
-Ai 形式のレイヤー セクション
+Ai フォーマットのレイヤーセクション
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -18,32 +19,34 @@ public sealed class AiLayerSection : AiDataSection
 
 | 名前 | 説明 |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | 青色コンポーネントを取得または設定します。 |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | 色番号を取得または設定します。 -1 は、赤、緑、青のプロパティからのカスタム カラー値です。 レイヤーの色設定を指定します。 |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | 薄暗い値をパーセンテージで取得または設定します。 |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | 青色成分を取得または設定します。 |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | 色のインデックスを取得または設定します。この引数は –1 から 26 の間の値を取ります。各整数は、ユーザー識別用にレイヤーに割り当てられる色を表します。 |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | カラー番号を取得または設定します。-1 は、赤、緑、青プロパティからのカスタムカラー値です。レイヤーのカラー設定を指定します。 |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | ディム値をパーセンテージで取得または設定します。レイヤーに含まれるリンク画像およびビットマップ画像の強度を指定されたパーセンテージに減少させます。 |
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | このインスタンスが破棄されているかどうかを示す値を取得します。 |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | 緑の色成分を取得または設定します。 |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | このレイヤーが淡色表示されているかどうかを示す値を取得または設定します。 リンクされた画像とレイヤーに含まれるビットマップ画像の強度を下げます。 |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | このレイヤーがロックされているかどうかを示す値を取得または設定します。 アイテムへの変更を防ぎます。 |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | このレイヤーがプレビューかどうかを示す値を取得または設定します。 レイヤーに含まれるアートワークをアウトラインではなくカラーで表示します。 |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | このレイヤーが印刷されるかどうかを示す値を取得または設定します。 true の場合、レイヤーに含まれるアートワークを印刷可能にします。 |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | このレイヤーが表示されているかどうかを示す値を取得または設定します。 true の場合、レイヤーに含まれるすべてのアートワークをアートボードに表示します。 |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | このレイヤーがテンプレート レイヤーかどうかを示す値を取得または設定します。 |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | レイヤー名を取得または設定します。 レイヤー パネルに表示されるアイテムの名前を指定します。 |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | ラスター イメージを取得します。 |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | 赤色コンポーネントを取得または設定します。 |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | 緑色成分を取得または設定します。 |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | このインスタンスがマルチレイヤーマスクを持つかどうかを示す値を取得または設定します。 |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | このレイヤーが暗くなるかどうかを示す値を取得または設定します。レイヤーに含まれるリンク画像およびビットマップ画像の強度を減少させます。 |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | このレイヤーがロックされているかどうかを示す値を取得または設定します。アイテムへの変更を防止します。 |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | このレイヤーがプレビューかどうかを示す値を取得または設定します。レイヤーに含まれるアートワークを輪郭ではなくカラーで表示します。 |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | このレイヤーが印刷されるかどうかを示す値を取得または設定します。true の場合、レイヤーに含まれるアートワークを印刷可能にします。 |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | このレイヤーが表示されるかどうかを示す値を取得または設定します。true の場合、レイヤーに含まれるすべてのアートワークをアートボードに表示します。 |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | このレイヤーがテンプレートレイヤーかどうかを示す値を取得または設定します。 |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | レイヤー名を取得または設定します。レイヤーパネルに表示されるアイテムの名前を指定します。 |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | ラスタ画像を取得します。 |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | 赤色成分を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | ラスター イメージを追加します。 |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | ラスタ画像を追加します。 |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | 現在のインスタンスを破棄します。 |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | 文字列データを取得します。 |
 
-### 例
+## 例
 
-次のコードは、AI 形式ファイルのラスター イメージの設定を読み込む方法を示しています。
+以下のコードは、AI 形式ファイルのラスタ画像設定をロードする方法を示しています。
 
 ```csharp
 [C#]
@@ -89,7 +92,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 ### 関連項目
 
 * class [AiDataSection](../aidatasection/)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IKeyedObject
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IKeyedObject インターフェース. キーを持つオブジェクトのインターフェイスを表します
+title: "インターフェイス IKeyedObject"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IKeyedObject インターフェイス。キーを持つオブジェクトのインターフェイスを表します"
 type: docs
-weight: 4480
+weight: 4950
 url: /ja/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
 キーを持つオブジェクトのインターフェイスを表します。
@@ -18,11 +19,11 @@ public interface IKeyedObject
 
 | 名前 | 説明 |
 | --- | --- |
-| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | オブジェクトキーを取得します。 |
+| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | オブジェクトのキーを取得します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

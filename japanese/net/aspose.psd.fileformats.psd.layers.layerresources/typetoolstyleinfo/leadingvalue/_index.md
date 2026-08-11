@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolStyleInfo 財産. 先行値を取得または設定します
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolStyleInfo プロパティ。リーディング値を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-先行値を取得または設定します。
+リーディング値を取得または設定します。
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-先行値.
+リーディング値です。
 
 ### 関連項目
 
 * class [TypeToolStyleInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum PixelFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.PixelFormat 列挙. ピクセル データ形式の実際の意味.
+title: "列挙型 PixelFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.PixelFormat 列挙型。ピクセルデータ形式の実際の意味"
 type: docs
-weight: 5240
+weight: 5730
 url: /ja/net/aspose.psd/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelFormat enumeration
 
-ピクセル データ形式の実際の意味.
+ピクセル データ形式の実際の意味です。
 
 ```csharp
 public enum PixelFormat
@@ -16,19 +17,19 @@ public enum PixelFormat
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Grayscale | `0` | グレースケール色空間 |
-| Bgr | `1` | BGR 色空間。 |
-| Rgb | `2` | RGB 色空間。 |
-| YCbCr | `3` | YCbCr 色空間。 |
-| Cmyk | `4` | CMYK 色空間。 |
-| Ycck | `5` | YCCK 色空間。 |
-| CieLab | `6` | CIE ラボの色空間。 |
+| Grayscale | `0` | グレースケール カラースペース |
+| Bgr | `1` | BGR カラースペースです。 |
+| Rgb | `2` | RGB カラースペースです。 |
+| YCbCr | `3` | YCbCr カラースペースです。 |
+| Cmyk | `4` | CMYK カラースペースです。 |
+| Ycck | `5` | YCCK カラースペースです。 |
+| CieLab | `6` | CIE Lab カラースペースです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

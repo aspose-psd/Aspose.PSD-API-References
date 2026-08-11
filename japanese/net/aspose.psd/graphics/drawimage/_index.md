@@ -1,117 +1,118 @@
 ---
-title: Graphics.DrawImage
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. 指定されたImage元の物理サイズを使用して指定された場所で.
+title: "Graphics.DrawImage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。指定された場所に、元の実際のサイズで指定された Image を描画します。"
 type: docs
-weight: 220
+weight: 230
 url: /ja/net/aspose.psd/graphics/drawimage/
 ---
+{{< psd/tize >}}
 ## DrawImage(Image, PointF) {#drawimage_1}
 
-指定された[`Image`](../image/)、元の物理サイズを使用して、指定された場所で.
+指定された場所に、元の実際のサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, PointF point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| point | PointF | [`PointF`](../../pointf/)描画された画像の左上隅を表す構造。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| point | PointF | 描画された画像の左上隅を表す [`PointF`](../../pointf/) 構造体。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float) {#drawimage_22}
 
-指定された[`Image`](../image/)、元の物理サイズを使用して、指定された場所で.
+指定された場所に、元の実際のサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| x | Single | 描画されたイメージの左上隅の x 座標。 |
-| y | Single | 描画されたイメージの左上隅の y 座標。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| x | シングル | 描画された画像の左上隅の x 座標です。 |
+| y | シングル | 描画された画像の左上隅の y 座標です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF) {#drawimage_15}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)描画イメージの位置とサイズを指定する構造体。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rect | RectangleF | 描画された画像の位置とサイズを指定する [`RectangleF`](../../rectanglef/) 構造体。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit) {#drawimage_11}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectDestination | Rectangle | 宛先の四角形。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectDestination | Rectangle | 目的地の矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -119,30 +120,30 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit) {#drawimage_16}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectDestination | RectangleF | 宛先の四角形。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectDestination | RectangleF | 目的地の矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -150,32 +151,32 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_12}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectDestination | Rectangle | 宛先の四角形。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
-| imageAttributes | ImageAttributes | 画像の属性。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectDestination | Rectangle | 目的地の矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
+| imageAttributes | ImageAttributes | 画像属性です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -184,32 +185,32 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_17}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectDestination | RectangleF | 描画先の四角形。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
-| imageAttributes | ImageAttributes | 画像の属性。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectDestination | RectangleF | 描画先の矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
+| imageAttributes | ImageAttributes | 画像属性です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -218,32 +219,32 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_13}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
     GraphicsUnit graphicsUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectSource | Rectangle | rect ソース。 |
-| rectDestination | Rectangle | rect 宛先。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectSource | Rectangle | ソース矩形です。 |
+| rectDestination | Rectangle | 宛先矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -251,32 +252,32 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_18}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
     GraphicsUnit graphicsUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectSource | RectangleF | rect ソース。 |
-| rectDestination | RectangleF | rect 宛先。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectSource | RectangleF | ソース矩形です。 |
+| rectDestination | RectangleF | 宛先矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -284,33 +285,33 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_14}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
     GraphicsUnit graphicsUnit, ImageAttributes imageAttributes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectSource | Rectangle | rect ソース。 |
-| rectDestination | Rectangle | rect 宛先。 |
-| graphicsUnit | GraphicsUnit | グラフィックユニット。 |
-| imageAttributes | ImageAttributes | 画像の属性。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectSource | Rectangle | ソース矩形です。 |
+| rectDestination | Rectangle | 宛先矩形です。 |
+| graphicsUnit | GraphicsUnit | グラフィックス単位です。 |
+| imageAttributes | ImageAttributes | 画像属性です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -319,33 +320,33 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_19}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
     GraphicsUnit graphicsUnit, ImageAttributes imageAttributes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rectSource | RectangleF | ソースの四角形。 |
-| rectDestination | RectangleF | 宛先の四角形。 |
-| graphicsUnit | GraphicsUnit | 使用するグラフィックス ユニット。 |
-| imageAttributes | ImageAttributes | 使用する画像属性。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rectSource | RectangleF | ソース矩形です。 |
+| rectDestination | RectangleF | 目的地の矩形です。 |
+| graphicsUnit | GraphicsUnit | 使用するグラフィックス単位です。 |
+| imageAttributes | ImageAttributes | 使用する画像属性です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
@@ -354,47 +355,47 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[]) {#drawimage_6}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | Point[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
+| image | Image | 描画する画像です。 |
+| destPoints | Point[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle) {#drawimage_7}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | Point[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
-| srcRect | Rectangle | ソースの四角形。 |
+| image | Image | 描画する画像です。 |
+| destPoints | Point[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
+| srcRect | Rectangle | ソース矩形です。 |
 
 ### 関連項目
 
@@ -402,25 +403,25 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 * struct [Point](../../point/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit) {#drawimage_8}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | Point[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
-| srcRect | Rectangle | ソースの四角形。 |
-| srcUnit | GraphicsUnit | 測定単位。 |
+| image | Image | 描画する画像です。 |
+| destPoints | Point[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
+| srcRect | Rectangle | ソース矩形です。 |
+| srcUnit | GraphicsUnit | 測定単位です。 |
 
 ### 関連項目
 
@@ -429,27 +430,27 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_9}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | Point[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
-| srcRect | Rectangle | ソースの四角形。 |
-| srcUnit | GraphicsUnit | 測定単位。 |
-| imageAttributes | ImageAttributes | 画像の属性。 |
+| image | Image | 描画する画像です。 |
+| destPoints | Point[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
+| srcRect | Rectangle | ソース矩形です。 |
+| srcUnit | GraphicsUnit | 測定単位です。 |
+| imageAttributes | ImageAttributes | 画像属性です。 |
 
 ### 関連項目
 
@@ -459,53 +460,53 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[]) {#drawimage_2}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | PointF[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
+| image | Image | 描画する画像です。 |
+| destPoints | PointF[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 画像 |
+| ArgumentNullException | image |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF) {#drawimage_3}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | PointF[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
-| srcRect | RectangleF | ソースの四角形。 |
+| image | Image | 描画する画像です。 |
+| destPoints | PointF[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
+| srcRect | RectangleF | ソース矩形です。 |
 
 ### 関連項目
 
@@ -513,25 +514,25 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit) {#drawimage_4}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | PointF[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
-| srcRect | RectangleF | ソースの四角形。 |
-| srcUnit | GraphicsUnit | 測定単位。 |
+| image | Image | 描画する画像です。 |
+| destPoints | PointF[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
+| srcRect | RectangleF | ソース矩形です。 |
+| srcUnit | GraphicsUnit | 測定単位です。 |
 
 ### 関連項目
 
@@ -540,27 +541,27 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_5}
 
-指定されたオブジェクトの指定された部分を描画します*image*指定された場所に、指定されたサイズで.
+指定された場所に、指定されたサイズで指定された *image* の指定された部分を描画します。
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | 描くイメージ。 |
-| destPoints | PointF[] | 平行四辺形を定義する 3 つの PointF 構造体の配列。 |
-| srcRect | RectangleF | ソースの四角形。 |
-| srcUnit | GraphicsUnit | 測定単位。 |
-| imageAttributes | ImageAttributes | 画像の属性。 |
+| image | Image | 描画する画像です。 |
+| destPoints | PointF[] | 平行四辺形を定義する3つの PointF 構造体の配列です。 |
+| srcRect | RectangleF | ソース矩形です。 |
+| srcUnit | GraphicsUnit | 測定単位です。 |
+| imageAttributes | ImageAttributes | 画像属性です。 |
 
 ### 関連項目
 
@@ -570,156 +571,156 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float, float, float) {#drawimage_23}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y, float width, float height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| x | Single | 描画されたイメージの左上隅の x 座標。 |
-| y | Single | 描画されたイメージの左上隅の y 座標。 |
-| width | Single | 描画イメージの幅。 |
-| height | Single | 描画イメージの高さ。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| x | シングル | 描画された画像の左上隅の x 座標です。 |
+| y | シングル | 描画された画像の左上隅の y 座標です。 |
+| width | シングル | 描画された画像の幅です。 |
+| height | シングル | 描画された画像の高さです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point) {#drawimage}
 
-指定された[`Image`](../image/)、元の物理サイズを使用して、指定された場所で.
+指定された場所に、元の実際のサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, Point point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| point | Point | [`Point`](../../point/)描画されたイメージの左上隅の位置を表す構造体。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| point | Point | [`Point`](../../point/) 構造体は、描画された画像の左上隅の位置を表します。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int) {#drawimage_20}
 
-座標ペアで指定された位置に、元の物理サイズを使用して、指定されたイメージを描画します。
+座標のペアで指定された場所に、元の物理サイズを使用して指定された画像を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| x | Int32 | 描画されたイメージの左上隅の x 座標。 |
-| y | Int32 | 描画されたイメージの左上隅の y 座標。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| x | Int32 | 描画された画像の左上隅の x 座標です。 |
+| y | Int32 | 描画された画像の左上隅の y 座標です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle) {#drawimage_10}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)描画イメージの位置とサイズを指定する構造体。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) 構造体は、描画された画像の位置とサイズを指定します。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int, int, int) {#drawimage_21}
 
-指定された[`Image`](../image/)指定された場所に、指定されたサイズで.
+指定された場所と指定されたサイズで指定された [`Image`](../image/) を描画します。
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sourceImage | Image | 描画するイメージ。 |
-| x | Int32 | 描画されたイメージの左上隅の x 座標。 |
-| y | Int32 | 描画されたイメージの左上隅の y 座標。 |
-| width | Int32 | 描画イメージの幅。 |
-| height | Int32 | 描画イメージの高さ。 |
+| sourceImage | Image | 描画に使用する画像です。 |
+| x | Int32 | 描画された画像の左上隅の x 座標です。 |
+| y | Int32 | 描画された画像の左上隅の y 座標です。 |
+| width | Int32 | 描画された画像の幅です。 |
+| height | Int32 | 描画された画像の高さです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*無効である。 |
+| ArgumentNullException | *sourceImage* は null です。 |
 
 ### 関連項目
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

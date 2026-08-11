@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Inequality
-second_title: Aspose.PSD for .NET API リファレンス
-description: PointF 方法. 指定した点の座標が等しくないかどうかを判定します
+title: "PointF.op_Inequality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PointF メソッド。指定された点の座標が等しくないかどうかを判定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/pointf/op_inequality/
 ---
+{{< psd/tize >}}
 ## PointF Inequality operator
 
-指定した点の座標が等しくないかどうかを判定します。
+指定された点の座標が等しくないかどうかを判定します。
 
 ```csharp
 public static bool operator !=(PointF point1, PointF point2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point1 | PointF | 最初の[`PointF`](../)比べる。 |
-| point2 | PointF | 2番目[`PointF`](../)比べる。 |
+| point1 | PointF | 比較対象となる最初の[`PointF`](../)です。 |
+| point2 | PointF | 比較対象となる2番目の[`PointF`](../)です。 |
 
 ### 戻り値
 
-を示す場合は True[`X`](../x/)と[`Y`](../y/)の値*point1*と*point2*等しくありません。それ以外の場合は false。
+*point1* と *point2* の [`X`](../x/) と [`Y`](../y/) の値が等しくないことを示す場合は true、そうでない場合は false です。
 
 ### 関連項目
 
 * struct [PointF](../)
-* 名前空間 [Aspose.PSD](../../pointf/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

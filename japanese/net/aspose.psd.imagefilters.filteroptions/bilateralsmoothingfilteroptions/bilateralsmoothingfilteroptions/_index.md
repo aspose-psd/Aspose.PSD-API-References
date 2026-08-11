@@ -1,34 +1,35 @@
 ---
-title: BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: BilateralSmoothingFilterOptions コンストラクタ. の新しいインスタンスを初期化しますBilateralSmoothingFilterOptionsclass.
+title: "BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BilateralSmoothingFilterOptions コンストラクタ。BilateralSmoothingFilterOptions クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions(int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`BilateralSmoothingFilterOptions`](../)class.
+[`BilateralSmoothingFilterOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BilateralSmoothingFilterOptions(int size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size | Int32 | カーネルのサイズ。 |
+| サイズ | Int32 | カーネルのサイズです。 |
 
 ### 関連項目
 
 * class [BilateralSmoothingFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BilateralSmoothingFilterOptions() {#constructor}
 
-の新しいインスタンスを初期化します[`BilateralSmoothingFilterOptions`](../)class.
+[`BilateralSmoothingFilterOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BilateralSmoothingFilterOptions()
@@ -37,7 +38,7 @@ public BilateralSmoothingFilterOptions()
 ### 関連項目
 
 * class [BilateralSmoothingFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

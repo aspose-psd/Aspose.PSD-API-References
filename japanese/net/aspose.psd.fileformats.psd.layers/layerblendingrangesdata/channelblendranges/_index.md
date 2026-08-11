@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.ChannelBlendRanges
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerBlendingRangesData 財産. チャンネル ブレンド範囲を取得または設定します
+title: "LayerBlendingRangesData.ChannelBlendRanges"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerBlendingRangesData プロパティ。チャンネル ブレンド範囲を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.ChannelBlendRanges property
 
-チャンネル ブレンド範囲を取得または設定します。
+チャンネルのブレンド範囲を取得または設定します。
 
 ```csharp
 public BlendRange[] ChannelBlendRanges { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-チャンネルのブレンド範囲.
+チャンネル ブレンド範囲です。
 
 ### 関連項目
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

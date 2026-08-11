@@ -1,27 +1,28 @@
 ---
-title: AiImage.IsCached
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. オブジェクトのデータが現在キャッシュされておりデータの読み取りが不要かどうかを示す値を取得します
+title: "AiImage.IsCached"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。オブジェクトのデータが現在キャッシュされており、データの読み取りが不要であるかどうかを示す値を取得します"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
+{{< psd/tize >}}
 ## AiImage.IsCached property
 
-オブジェクトのデータが現在キャッシュされており、データの読み取りが不要かどうかを示す値を取得します。
+オブジェクトのデータが現在キャッシュされており、データ読み取りが不要であるかどうかを示す値を取得します。
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`オブジェクトのデータがキャッシュされている場合。さもないと、`間違い` .
+`true` はオブジェクトのデータがキャッシュされている場合、そうでなければ `false` です。
 
 ### 関連項目
 
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

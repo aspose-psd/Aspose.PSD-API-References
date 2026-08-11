@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.ShapeSegments
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間には形状を組み合わせたさまざまな形状セグメントが含まれています.
+title: "Aspose.PSD.ShapeSegments"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、形状を結合するさまざまなシェイプセグメントが含まれています"
 type: docs
-weight: 500
+weight: 540
 url: /ja/net/aspose.psd.shapesegments/
 ---
-名前空間には、形状を組み合わせたさまざまな形状セグメントが含まれています.
+{{< psd/tize >}}
+名前空間には、形状を結合するさまざまなシェイプセグメントが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [BezierSegment](./beziersegment/) | ある点から次の点へ移動し、2 つの制御点を使用するベジェ セグメント。 |
-| [LineSegment](./linesegment/) | 特定のポイントから次のポイントまで直進するセグメントを表します。 |
+| [BezierSegment](./beziersegment/) | 2 つの制御点を使用して、ある点から次の点へ進むベジェセグメントです。 |
+| [LineSegment](./linesegment/) | 特定の点から次の点へ直接導くセグメントを表します。 |
 
 

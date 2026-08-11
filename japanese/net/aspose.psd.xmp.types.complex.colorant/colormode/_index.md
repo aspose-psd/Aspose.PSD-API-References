@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode 列挙. カラーモードを表します.
+title: "列挙体 ColorMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode 列挙体。カラー モードを表します"
 type: docs
-weight: 5990
+weight: 6490
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-カラーモードを表します.
+カラーモードを表します。
 
 ```csharp
 public enum ColorMode
@@ -16,15 +17,15 @@ public enum ColorMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Cmyk | `1` | CMYK カラーモード. |
-| Rgb | `2` | RGB カラーモード. |
-| Lab | `3` | LABカラーモード. |
+| Cmyk | `1` | CMYK カラーモード。 |
+| Rgb | `2` | RGB カラーモード。 |
+| Lab | `3` | LAB カラーモード。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerResourcesRegistry 財産. 登録された記述子を取得します
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerResourcesRegistry プロパティ。登録されたディスクリプタを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
 登録された記述子を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registered
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-登録された記述子。
+登録されたディスクリプタです。
 
 ### 関連項目
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

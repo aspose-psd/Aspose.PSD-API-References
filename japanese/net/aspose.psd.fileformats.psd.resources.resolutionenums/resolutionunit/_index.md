@@ -1,14 +1,15 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit 列挙. 解像度情報 resolution unit
+title: "列挙体 ResolutionUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit enum. 解像度情報の解像度単位"
 type: docs
-weight: 3870
+weight: 4340
 url: /ja/net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-解像度情報 resolution unit
+解像度情報の解像度単位
 
 ```csharp
 public enum ResolutionUnit
@@ -16,14 +17,14 @@ public enum ResolutionUnit
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| PxPerInch | `1` | 1 インチあたりのピクセル数 |
-| PxPerCm | `2` | cm あたりのピクセル数 |
+| PxPerInch | `1` | インチあたりのピクセル数 |
+| PxPerCm | `2` | センチメートルあたりのピクセル数 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

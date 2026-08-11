@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 財産. この要素を表す浮動小数点値の配列を取得しますMatrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix プロパティ。 この Matrix の要素を表す浮動小数点値の配列を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-この要素を表す浮動小数点値の配列を取得します[`Matrix`](../) .
+この [`Matrix`](../) の要素を表す浮動小数点値の配列を取得します。
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-この要素を表す浮動小数点値の配列[`Matrix`](../).
+この [`Matrix`](../) の要素を表す浮動小数点値の配列です。
 
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

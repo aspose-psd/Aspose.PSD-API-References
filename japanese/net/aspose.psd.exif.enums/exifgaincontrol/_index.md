@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifGainControl 列挙. exif ゲイン コントロール enum.
+title: "列挙型 ExifGainControl"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl 列挙型。exif ゲイン制御 列挙型"
 type: docs
-weight: 880
+weight: 890
 url: /ja/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-exif ゲイン コントロール enum.
+exif ゲイン制御列挙。
 
 ```csharp
 public enum ExifGainControl
@@ -16,17 +17,17 @@ public enum ExifGainControl
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | ゲイン制御なし. |
-| LowGainUp | `1` | ローゲインアップ. |
-| HighGainUp | `2` | ハイゲインアップ. |
-| LowGainDown | `3` | ローゲインダウン. |
-| HighGainDown | `4` | ハイゲインダウン. |
+| None | `0` | ゲイン制御なし。 |
+| LowGainUp | `1` | 低ゲイン上げ。 |
+| HighGainUp | `2` | 高ゲイン上げ。 |
+| LowGainDown | `3` | 低ゲイン下げ。 |
+| HighGainDown | `4` | 高ゲインが低下しました。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

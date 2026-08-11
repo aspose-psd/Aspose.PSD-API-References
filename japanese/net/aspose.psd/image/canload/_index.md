@@ -1,107 +1,108 @@
 ---
-title: Image.CanLoad
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. 指定したファイル パスからイメージをロードできるかどうかを判断します
+title: "Image.CanLoad"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。指定されたファイルパスから画像をロードできるかどうかを判断します。"
 type: docs
-weight: 250
+weight: 260
 url: /ja/net/aspose.psd/image/canload/
 ---
+{{< psd/tize >}}
 ## CanLoad(string) {#canload_2}
 
-指定したファイル パスからイメージをロードできるかどうかを判断します。
+指定されたファイルパスから画像をロードできるかどうかを判断します。
 
 ```csharp
 public static bool CanLoad(string filePath)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| filePath | String | ファイルパス. |
+| filePath | 文字列 | ファイルパス。 |
 
 ### 戻り値
 
-`真実`指定されたファイルからイメージをロードできる場合。さもないと、`間違い` .
+指定されたファイルから画像をロードできる場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(string, LoadOptions) {#canload_3}
 
-指定されたファイル パスから、オプションで指定された開くオプションを使用してイメージをロードできるかどうかを決定します。
+指定されたファイルパスから画像をロードできるか、またはオプションで指定されたオープンオプションを使用してロードできるかどうかを判断します。
 
 ```csharp
 public static bool CanLoad(string filePath, LoadOptions loadOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| filePath | String | ファイルパス. |
-| loadOptions | LoadOptions | ロード オプション。 |
+| filePath | 文字列 | ファイルパス。 |
+| loadOptions | LoadOptions | ロードオプション。 |
 
 ### 戻り値
 
-`真実`指定されたファイルからイメージをロードできる場合。さもないと、`間違い` .
+指定されたファイルから画像をロードできる場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream) {#canload}
 
-指定されたストリームからイメージをロードできるかどうかを決定します。
+指定されたストリームから画像をロードできるかどうかを判断します。
 
 ```csharp
 public static bool CanLoad(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ロード元のストリーム。 |
+| ストリーム | ストリーム | ロード元のストリームです。 |
 
 ### 戻り値
 
-`真実`指定されたストリームからイメージをロードできる場合。さもないと、`間違い` .
+指定されたストリームから画像をロードできる場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream, LoadOptions) {#canload_1}
 
-指定されたストリームから、オプションで指定されたストリームを使用してイメージをロードできるかどうかを決定します*loadOptions* .
+指定されたストリームから画像をロードできるか、またはオプションで指定された *loadOptions* を使用してロードできるかどうかを判断します。
 
 ```csharp
 public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ロード元のストリーム。 |
-| loadOptions | LoadOptions | ロード オプション。 |
+| ストリーム | ストリーム | ロード元のストリームです。 |
+| loadOptions | LoadOptions | ロードオプション。 |
 
 ### 戻り値
 
-`真実`指定されたストリームからイメージをロードできる場合。さもないと、`間違い` .
+指定されたストリームから画像をロードできる場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 財産. 平面数を取得または設定します
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource プロパティ。プレーン数を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-平面数を取得または設定します。
+プレーン数を取得または設定します。
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-サムネイル プレーンがカウントされます。
+サムネイルのプレーン数です。
 
 ### 関連項目
 
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. テキスト行の先頭と最初のタブ ストップの間のスペース数を取得します
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。テキスト行の開始位置と最初のタブ位置との間のスペース数を取得します。"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-テキスト行の先頭と最初のタブ ストップの間のスペース数を取得します。
+テキスト行の開始位置と最初のタブ位置の間のスペース数を取得します。
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最初のタブ オフセット。
+最初のタブオフセットです。
 
-### 備考
+## 備考
 
-このプロパティは、削除されたメソッド GetTabStops に導入されています。
+このプロパティは削除されたメソッド GetTabStops 用に導入されました。
 
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

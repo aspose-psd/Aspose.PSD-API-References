@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeBoundingBox 財産. 単位値クアッド バージョンを取得または設定します
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeBoundingBox プロパティ。単位値のクアッドバージョンを取得または設定します"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-単位値クアッド バージョンを取得または設定します。
+単位値クアッドバージョンを取得または設定します。
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-クアッド バージョン。
+四角形バージョンです。
 
 ### 関連項目
 
 * class [VectorShapeBoundingBox](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

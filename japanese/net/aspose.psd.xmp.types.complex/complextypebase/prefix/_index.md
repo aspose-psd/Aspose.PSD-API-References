@@ -1,11 +1,12 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Aspose.PSD for .NET API リファレンス
-description: ComplexTypeBase 財産. プレフィックスを取得します
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ComplexTypeBase プロパティ。プレフィックスを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
 プレフィックスを取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 public string Prefix { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-プレフィックス.
+プレフィックスです。
 
 ### 関連項目
 
 * class [ComplexTypeBase](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

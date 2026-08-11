@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPackageBaseCollection 方法. の配列を取得XmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPackageBaseCollection メソッド。XmpPackage の配列を取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-の配列を取得[`XmpPackage`](../../xmppackage/) .
+[`XmpPackage`](../../xmppackage/) の配列を取得します。
 
 ```csharp
 public XmpPackage[] GetPackages()
@@ -22,7 +23,7 @@ XMP パッケージの配列を返します。
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

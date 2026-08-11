@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolStyleInfo 財産. ベース シフト値を取得または設定します
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolStyleInfo プロパティ。ベースシフト値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
-ベース シフト値を取得または設定します。
+ベースシフト値を取得または設定します。
 
 ```csharp
 public int BaseShiftValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ベースシフト値.
+ベースシフト値です。
 
 ### 関連項目
 
 * class [TypeToolStyleInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

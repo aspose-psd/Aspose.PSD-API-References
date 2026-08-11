@@ -1,14 +1,15 @@
 ---
-title: Class RleCompressorException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.Compressors.RleCompressorException クラス. rle コンプレッサ例外
+title: "クラス RleCompressorException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.Compressors.RleCompressorException クラス。rle compressor exception"
 type: docs
 weight: 460
 url: /ja/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException class
 
-rle コンプレッサ例外。
+rle 圧縮器の例外です。
 
 ```csharp
 public class RleCompressorException : CompressorException
@@ -18,13 +19,13 @@ public class RleCompressorException : CompressorException
 
 | 名前 | 説明 |
 | --- | --- |
-| [RleCompressorException](rlecompressorexception/#constructor)(string) | の新しいインスタンスを初期化します`RleCompressorException`class. |
-| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`RleCompressorException`class. |
+| [RleCompressorException](rlecompressorexception/#constructor)(string) | `RleCompressorException` クラスの新しいインスタンスを初期化します。 |
+| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | `RleCompressorException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

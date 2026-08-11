@@ -1,14 +1,15 @@
 ---
-title: Class AiSetupSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection クラス. Ai 形式のセットアップ セクション
+title: "クラス AiSetupSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Ai.AiSetupSection クラス。Ai フォーマットのセットアップ セクション"
 type: docs
-weight: 1300
+weight: 1310
 url: /ja/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
-Ai 形式のセットアップ セクション
+Ai フォーマットのセットアップセクション
 
 ```csharp
 public sealed class AiSetupSection : AiSection
@@ -23,7 +24,7 @@ public sealed class AiSetupSection : AiSection
 ### 関連項目
 
 * class [AiSection](../aisection/)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Blend.Blend
-second_title: Aspose.PSD for .NET API リファレンス
-description: Blend コンストラクタ. の新しいインスタンスを初期化しますBlendクラス factor 配列と blend 配列の要素数は 1. になります
+title: "Blend.Blend"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Blend コンストラクタ。Blend クラスの新しいインスタンスを初期化します。factor 配列と blend 配列の要素数は 1 になります。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-の新しいインスタンスを初期化します[`Blend`](../)クラス。 factor 配列と blend 配列の要素数は 1. になります。
+[`Blend`](../) クラスの新しいインスタンスを初期化します。factor 配列と blend 配列の要素数は 1 になります。
 
 ```csharp
 public Blend()
@@ -17,27 +18,27 @@ public Blend()
 ### 関連項目
 
 * class [Blend](../)
-* 名前空間 [Aspose.PSD](../../blend/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Blend`](../)指定された数の因子と位置を持つクラス.
+[`Blend`](../) クラスの新しいインスタンスを、指定された factor と position の数で初期化します。
 
 ```csharp
 public Blend(int count)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| count | Int32 | factor 配列と position 配列の要素数。 |
+| カウント | Int32 | factor 配列と position 配列の要素数です。 |
 
 ### 関連項目
 
 * class [Blend](../)
-* 名前空間 [Aspose.PSD](../../blend/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. このレイヤーがロックされているかどうかを示す値を取得または設定します アイテムへの変更を防ぎます
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。このレイヤーがロックされているかどうかを示す値を取得または設定します。アイテムへの変更を防止します。"
 type: docs
-weight: 60
+weight: 80
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-このレイヤーがロックされているかどうかを示す値を取得または設定します。 アイテムへの変更を防ぎます。
+このレイヤーがロックされているかどうかを示す値を取得または設定します。アイテムへの変更を防止します。
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このレイヤーがロックされている場合。さもないと、`間違い` .
+`true` このレイヤーがロックされている場合; それ以外は `false`。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMap 財産. 新しいColor変換先の構造体.
+title: "ColorMap.NewColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMap プロパティ。 変換先の新しい Color 構造体を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-新しい[`Color`](../../color/)変換先の構造体.
+変換先の新しい [`Color`](../../color/) 構造体を取得または設定します。
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-新しい[`Color`](../../color/)変換先の構造。
+変換先の新しい[`Color`](../../color/)構造体。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* 名前空間 [Aspose.PSD](../../colormap/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

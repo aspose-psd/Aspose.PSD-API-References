@@ -1,32 +1,33 @@
 ---
-title: ColorPaletteHelper.Create8BitGrayscale
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorPaletteHelper 方法. 8 ビット グレースケール パレットを作成します
+title: "ColorPaletteHelper.Create8BitGrayscale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorPaletteHelper メソッド。8 ビットグレースケール パレットを作成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/colorpalettehelper/create8bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8BitGrayscale method
 
-8 ビット グレースケール パレットを作成します。
+8ビットのグレースケールパレットを作成します。
 
 ```csharp
 public static IColorPalette Create8BitGrayscale(bool minIsWhite)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| minIsWhite | Boolean | に設定した場合`真実`パレットは白で始まり、それ以外の場合は黒で始まります。 |
+| minIsWhite | Boolean | `true` に設定すると、パレットは白色で開始し、そうでなければ黒色で開始します。 |
 
 ### 戻り値
 
-8 ビット グレースケール パレット。
+8 ビットグレースケール パレットです。
 
 ### 関連項目
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* 名前空間 [Aspose.PSD](../../colorpalettehelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

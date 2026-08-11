@@ -1,14 +1,15 @@
 ---
-title: Class LinkedLayersManager
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager クラス. リンクされたレイヤ マネージャ クラス.
+title: "クラス LinkedLayersManager"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager クラス。リンクされたレイヤー管理クラス"
 type: docs
-weight: 3400
+weight: 3800
 url: /ja/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager class
 
-リンクされたレイヤ マネージャ クラス.
+リンクされたレイヤー管理クラスです。
 
 ```csharp
 public sealed class LinkedLayersManager
@@ -18,14 +19,14 @@ public sealed class LinkedLayersManager
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | リンク グループ ID でレイヤーを取得します。 |
-| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | レイヤーに関連付けられたリンク グループ ID を取得します。 |
-| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | 入力レイヤーをリンクし、LingGroupId. を返します |
-| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | レイヤーのリンクを解除します.. |
+| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | リンクグループIDでレイヤーを取得します。 |
+| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | レイヤーに関連付けられたリンクグループIDを取得します。 |
+| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | 入力レイヤーをリンクし、LingGroupId を返します。 |
+| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | レイヤーのリンクを解除します。 |
 
-### 例
+## 例
 
-次の例は、Aspose.PSD でリンク レイヤーを操作する方法を示しています。
+以下の例は、Aspose.PSD でリンクされたレイヤーを操作する方法を示しています。
 
 ```csharp
 [C#]
@@ -33,31 +34,31 @@ public sealed class LinkedLayersManager
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // 1 つのリンクされたグループ内のすべてのレイヤーをリンクします
+    // すべてのレイヤーを1つのリンクグループにリンクします。
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // 1 つのレイヤーの ID を取得します
+    // 1つのレイヤーの ID を取得します。
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // リンク グループ ID でリンクされたすべてのレイヤーを取得します。
+    // リンクグループIDで全てのリンクされたレイヤーを取得します。
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // グループから各レイヤーのリンクを解除
+    // 各レイヤーをグループからリンク解除します。
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // グループ内にレイヤーがないリンク グループ ID の場合は NULL を取得します。
+    // グループにレイヤーが存在しないリンクグループIDに対して NULL を返します。
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -69,7 +70,7 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

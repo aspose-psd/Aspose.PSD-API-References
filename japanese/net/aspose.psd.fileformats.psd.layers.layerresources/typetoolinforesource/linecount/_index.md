@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfoResource 財産. 行数を取得します
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfoResource プロパティ。行数を取得します。"
 type: docs
-weight: 130
+weight: 120
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
 行数を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short LineCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-行数.
+行数です。
 
 ### 関連項目
 
 * class [TypeToolInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

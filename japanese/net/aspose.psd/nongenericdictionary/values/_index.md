@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 財産. を取得しますICollection の値を含むオブジェクトIDictionaryobject.
+title: "NonGenericDictionary.Values"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary プロパティ。 IDictionary オブジェクトの値を含む ICollection オブジェクトを取得します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-を取得しますICollection の値を含むオブジェクトIDictionaryobject.
+IDictionary オブジェクトの値を含む ICollection オブジェクトを取得します。
 
 ```csharp
 public ICollection Values { get; }
@@ -16,12 +17,12 @@ public ICollection Values { get; }
 
 ### 戻り値
 
-アンICollectionの値を含むオブジェクトIDictionary物体。
+IDictionary オブジェクトの値を含む ICollection オブジェクトです。
 
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

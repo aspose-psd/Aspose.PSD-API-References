@@ -1,11 +1,12 @@
 ---
-title: IAsyncTaskState.IsCanceled
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTaskState 財産. 非同期タスクがキャンセルされたかどうかを示す値を取得します
+title: "IAsyncTaskState.IsCanceled"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTaskState プロパティ。非同期タスクがキャンセルされたかどうかを示す値を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.IsCanceled property
 
 非同期タスクがキャンセルされたかどうかを示す値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 public bool IsCanceled { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`非同期タスクがキャンセルされた場合。さもないと、`間違い` .
+`true` は非同期タスクがキャンセルされた場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * interface [IAsyncTaskState](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

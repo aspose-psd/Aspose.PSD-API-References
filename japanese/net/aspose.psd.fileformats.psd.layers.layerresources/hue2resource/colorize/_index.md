@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Colorize
-second_title: Aspose.PSD for .NET API リファレンス
-description: Hue2Resource 財産. これがHue2Resourcecolorize. です
+title: "Hue2Resource.Colorize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Hue2Resource プロパティ。この Hue2Resource がカラー化されているかどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Colorize property
 
-これが[`Hue2Resource`](../)colorize. です
+この [`Hue2Resource`](../) がカラー化されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`色付けする場合;さもないと、`間違い` .
+`true` はカラー化されている場合です。そうでなければ `false` です。
 
 ### 関連項目
 
 * class [Hue2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

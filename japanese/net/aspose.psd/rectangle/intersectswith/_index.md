@@ -1,31 +1,32 @@
 ---
-title: Rectangle.IntersectsWith
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. この長方形が交差するかどうかを決定しますrect .
+title: "Rectangle.IntersectsWith"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。この矩形が rect と交差するかどうかを判定します。"
 type: docs
 weight: 250
 url: /ja/net/aspose.psd/rectangle/intersectswith/
 ---
+{{< psd/tize >}}
 ## Rectangle.IntersectsWith method
 
-この長方形が交差するかどうかを決定します*rect* .
+この矩形が *rect* と交差するかどうかを判断します。
 
 ```csharp
 public bool IntersectsWith(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | テストする四角形。 |
+| rect | Rectangle | テスト対象の矩形。 |
 
 ### 戻り値
 
-このメソッドは、交差がある場合は true を返し、そうでない場合は false を返します。
+交差がある場合は true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

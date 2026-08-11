@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: SizeF 方法. を変換しますSizeFにSizeサイズ値が切り捨てられた構造体.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SizeF メソッド。SizeF を切り捨てたサイズ値を持つ Size 構造体に変換します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-を変換します[`SizeF`](../)に[`Size`](../../size/)サイズ値が切り捨てられた構造体.
+`[`SizeF`](../)` を切り捨てたサイズ値を持つ [`Size`](../../size/) 構造体に変換します。
 
 ```csharp
 public Size ToSize()
@@ -16,13 +17,13 @@ public Size ToSize()
 
 ### 戻り値
 
-を返します[`Size`](../../size/)構造。
+`[`Size`](../../size/)` 構造体を返します。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

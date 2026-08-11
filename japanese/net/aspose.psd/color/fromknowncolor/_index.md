@@ -1,32 +1,33 @@
 ---
-title: Color.FromKnownColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. を作成しますColor指定された事前定義された color. からの構造
+title: "Color.FromKnownColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。 指定された事前定義色から Color 構造体を作成します。"
 type: docs
 weight: 1440
 url: /ja/net/aspose.psd/color/fromknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.FromKnownColor method
 
-を作成します[`Color`](../)指定された事前定義された color. からの構造
+指定された事前定義色から [`Color`](../) 構造体を作成します。
 
 ```csharp
 public static Color FromKnownColor(KnownColor color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | KnownColor | の要素[`KnownColor`](../../knowncolor/)列挙。 |
+| color | KnownColor | 列挙体 [`KnownColor`](../../knowncolor/) の要素です。 |
 
 ### 戻り値
 
-の[`Color`](../)このメソッドが作成するもの。
+このメソッドが作成する [`Color`](../) です。
 
 ### 関連項目
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

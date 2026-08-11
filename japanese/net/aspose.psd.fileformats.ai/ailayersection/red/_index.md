@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. 赤色コンポーネントを取得または設定します
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。赤色成分を取得または設定します"
 type: docs
-weight: 130
+weight: 150
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-赤色コンポーネントを取得または設定します。
+赤色成分を取得または設定します。
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-赤の色成分.
+赤色成分。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: JpegLsPresetCodingParameters.JpegLsPresetCodingParameters
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegLsPresetCodingParameters コンストラクタ. デフォルトのコンストラクター
+title: "JpegLsPresetCodingParameters.JpegLsPresetCodingParameters"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegLsPresetCodingParameters コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public JpegLsPresetCodingParameters()
@@ -17,7 +18,7 @@ public JpegLsPresetCodingParameters()
 ### 関連項目
 
 * class [JpegLsPresetCodingParameters](../)
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

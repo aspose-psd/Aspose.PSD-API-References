@@ -1,14 +1,15 @@
 ---
-title: Class XmpTypeBase
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.XmpTypeBase クラス. 基本的な XMP タイプの基本クラスを表します
+title: "XmpTypeBase クラス。"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.XmpTypeBase クラス。基本的な XMP タイプの基底クラスを表します。"
 type: docs
-weight: 6200
+weight: 6700
 url: /ja/net/aspose.psd.xmp.types/xmptypebase/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase class
 
-基本的な XMP タイプの基本クラスを表します。
+基本 XMP 型の基底クラスを表します。
 
 ```csharp
 public abstract class XmpTypeBase : IXmpType
@@ -18,12 +19,12 @@ public abstract class XmpTypeBase : IXmpType
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
 ### 関連項目
 
 * interface [IXmpType](../ixmptype/)
-* 名前空間 [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

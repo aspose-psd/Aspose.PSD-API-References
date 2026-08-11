@@ -1,105 +1,106 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffSRational 方法. 指定された値を分数に近似します
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffSRational メソッド。指定された値を分数に近似します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-指定された値を分数に近似します。
+提供された値を分数に近似します。
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value, double epsilon)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Double | 値。 |
-| epsilon | Double | エラーは許容されました。 |
+| 値 | Double | 値です。 |
+| イプシロン | Double | 許容されるエラー。 |
 
 ### 戻り値
 
-以下の誤差を持つ有理数*epsilon*.
+エラーが *epsilon* 未満の有理数。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-指定された値を分数に近似します。
+提供された値を分数に近似します。
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Double | 値。 |
+| 値 | Double | 値です。 |
 
 ### 戻り値
 
-以下の誤差を持つ有理数[`Epsilon`](../epsilon/) .
+エラーが [`Epsilon`](../epsilon/) 未満の有理数。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-指定された値を分数に近似します。
+提供された値を分数に近似します。
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value, double epsilon)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Single | 値。 |
-| epsilon | Double | エラーは許容されました。 |
+| 値 | シングル | 値です。 |
+| イプシロン | Double | 許容されるエラー。 |
 
 ### 戻り値
 
-以下の誤差を持つ有理数*epsilon*.
+エラーが *epsilon* 未満の有理数。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-指定された値を分数に近似します。
+提供された値を分数に近似します。
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Single | 値。 |
+| 値 | シングル | 値です。 |
 
 ### 戻り値
 
-以下の誤差を持つ有理数[`Epsilon`](../epsilon/) .
+エラーが [`Epsilon`](../epsilon/) 未満の有理数。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

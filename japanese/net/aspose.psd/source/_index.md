@@ -1,14 +1,15 @@
 ---
-title: Class Source
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Source クラス. ソースはオブジェクト パイプのすべての関連情報を含めるために使用されます
+title: "クラス Source"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Source クラス。ソースはオブジェクト パイプに関するすべての関連情報を保持するために使用されます。"
 type: docs
-weight: 5580
+weight: 6080
 url: /ja/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-ソースは、オブジェクト パイプのすべての関連情報を含めるために使用されます。
+ソースはオブジェクトパイプに関するすべての関連情報を保持するために使用されます。
 
 ```csharp
 public abstract class Source
@@ -18,11 +19,11 @@ public abstract class Source
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | ストリーム コンテナーを取得します。 |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | ストリーム コンテナを取得します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpResource.XmpResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpResource コンストラクタ. デフォルトのコンストラクター
+title: "XmpResource.XmpResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpResource コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpresource/
 ---
+{{< psd/tize >}}
 ## XmpResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public XmpResource()
@@ -17,7 +18,7 @@ public XmpResource()
 ### 関連項目
 
 * class [XmpResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

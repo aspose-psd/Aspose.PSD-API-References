@@ -1,51 +1,52 @@
 ---
-title: Pen.TranslateTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 方法. 指定された次元でローカル ジオメトリック変換を変換しますこのメソッドは変換を変換の先頭に追加します
+title: "Pen.TranslateTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen メソッド。 指定された寸法でローカルの幾何変換を平行移動させます。このメソッドは平行移動を変換の先頭に追加します。"
 type: docs
 weight: 240
 url: /ja/net/aspose.psd/pen/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-指定された次元でローカル ジオメトリック変換を変換します。このメソッドは、変換を変換の先頭に追加します。
+ローカルの幾何変換を指定された寸法だけ平行移動します。このメソッドは平行移動を変換の先頭に追加します。
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| dx | Single | x の平行移動の値。 |
-| dy | Single | y の平行移動の値。 |
+| dx | シングル | x 方向の平行移動の値。 |
+| dy | シングル | y 方向の平行移動の値。 |
 
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-指定された順序で、指定された次元でローカル ジオメトリック変換を変換します。
+ローカルの幾何変換を指定された寸法で、指定された順序で平行移動します。
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| dx | Single | x の平行移動の値。 |
-| dy | Single | y の平行移動の値。 |
-| order | MatrixOrder | 翻訳を適用する順序 (先頭または末尾)。 |
+| dx | シングル | x 方向の平行移動の値。 |
+| dy | シングル | y 方向の平行移動の値。 |
+| order | MatrixOrder | 平行移動を適用する順序（前置または後置）。 |
 
 ### 関連項目
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

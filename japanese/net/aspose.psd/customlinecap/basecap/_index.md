@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: Aspose.PSD for .NET API リファレンス
-description: CustomLineCap 財産. を取得または設定しますLineCapこれの列挙CustomLineCapベースです.
+title: "CustomLineCap.BaseCap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CustomLineCap プロパティ。この CustomLineCap が基づく LineCap 列挙体を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-を取得または設定します[`LineCap`](../../linecap/)これの列挙[`CustomLineCap`](../)ベースです.
+この [`CustomLineCap`](../) が基づく [`LineCap`](../../linecap/) 列挙体を取得または設定します。
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-の[`LineCap`](../../linecap/)これの列挙[`CustomLineCap`](../)にもとづいて。
+この [`CustomLineCap`](../) が基づく [`LineCap`](../../linecap/) 列挙体。
 
 ### 関連項目
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* 名前空間 [Aspose.PSD](../../customlinecap/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

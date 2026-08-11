@@ -1,150 +1,151 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font コンストラクタ. 新しいFont指定された既存のFontとFontStyle列挙.
+title: "Font.Font"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font コンストラクター。指定された既存の Font と FontStyle 列挙体を使用する新しい Font を初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/font/font/
 ---
+{{< psd/tize >}}
 ## Font(Font, FontStyle) {#constructor}
 
-新しい[`Font`](../)指定された既存の[`Font`](../)と[`FontStyle`](../../fontstyle/)列挙.
+指定された既存の[`Font`](../)と[`FontStyle`](../../fontstyle/)列挙体を使用する新しい[`Font`](../)を初期化します。
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| prototype | Font | 既存の[`Font`](../)そこから新しいものを作成する[`Font`](../). |
-| newStyle | FontStyle | の[`FontStyle`](../../fontstyle/)新規に申し込む[`Font`](../).の複数の値[`FontStyle`](../../fontstyle/)列挙は OR 演算子と組み合わせることができます。 |
+| prototype | Font | 新しい[`Font`](../)を作成する元となる既存の[`Font`](../)です。 |
+| newStyle | FontStyle | 新しい[`Font`](../)に適用する[`FontStyle`](../../fontstyle/)です。[`FontStyle`](../../fontstyle/)列挙体の複数の値は OR 演算子で組み合わせることができます。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *prototype*無効である。 |
+| ArgumentNullException | *prototype* は null です。 |
 
 ### 関連項目
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-新しい[`Font`](../)指定サイズを使用。文字セットはDefault、グラフィックスユニットをPoint、フォント スタイルRegular .
+指定されたサイズを使用して新しい[`Font`](../)を初期化します。文字セットは Default に、グラフィック単位は Point に、フォントスタイルは Regular に設定されます。
 
 ```csharp
 public Font(string fontName, float emSize)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontName | String | の文字列表現[`Font`](../)名前。 |
-| emSize | Single | 新しいフォントの em サイズ (ポイント単位)。 |
+| fontName | String | [`Font`](../) 名の文字列表現です。 |
+| emSize | シングル | 新しいフォントの em サイズ（ポイント単位）です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*が 0 以下であるか、無限に評価されるか、有効な数値ではありません。 |
-| ArgumentNullException | *fontName*無効である。 |
+| ArgumentOutOfRangeException | *emSize* が 0 以下、無限大になる、または有効な数値でない場合です。 |
+| ArgumentNullException | *fontName* は null です。 |
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-新しい[`Font`](../)指定されたサイズとスタイルを使用します。文字セットはDefault、グラフィックスユニットをPoint .
+指定されたサイズとスタイルを使用して新しい[`Font`](../)を初期化します。文字セットは Default に、グラフィック単位は Point に設定されます。
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontName | String | の文字列表現[`Font`](../)名前。 |
-| emSize | Single | 新しいフォントの em サイズ (ポイント単位)。 |
-| style | FontStyle | の[`FontStyle`](../../fontstyle/)新しいフォントの。 |
+| fontName | String | [`Font`](../) 名の文字列表現です。 |
+| emSize | シングル | 新しいフォントの em サイズ（ポイント単位）です。 |
+| style | FontStyle | 新しいフォントの[`FontStyle`](../../fontstyle/)です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*が 0 以下であるか、無限に評価されるか、有効な数値ではありません。 |
-| ArgumentNullException | *fontName*無効である。 |
+| ArgumentOutOfRangeException | *emSize* が 0 以下、無限大になる、または有効な数値でない場合です。 |
+| ArgumentNullException | *fontName* は null です。 |
 
 ### 関連項目
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-新しい[`Font`](../)指定されたサイズと単位を使用します。文字セットはDefault、スタイルはに設定されていますRegular .
+指定されたサイズと単位を使用して新しい[`Font`](../)を初期化します。文字セットは Default に、スタイルは Regular に設定されます。
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontName | String | の文字列表現[`Font`](../)名前。 |
-| emSize | Single | によって指定された単位での新しいフォントの全角サイズ。*unit*パラメータ。 |
-| unit | GraphicsUnit | の[`GraphicsUnit`](../../graphicsunit/)新しいフォントの。 |
+| fontName | String | [`Font`](../) 名の文字列表現です。 |
+| emSize | シングル | *unit* パラメーターで指定された単位での新しいフォントの em サイズです。 |
+| unit | GraphicsUnit | 新しいフォントの[`GraphicsUnit`](../../graphicsunit/)です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*が 0 以下であるか、無限に評価されるか、有効な数値ではありません。 |
-| ArgumentNullException | *fontName*無効である。 |
+| ArgumentOutOfRangeException | *emSize* が 0 以下、無限大になる、または有効な数値でない場合です。 |
+| ArgumentNullException | *fontName* は null です。 |
 
 ### 関連項目
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-新しい[`Font`](../)指定されたサイズ、スタイル、単位、および文字セットを使用します。
+指定されたサイズ、スタイル、単位、文字セットを使用して新しい[`Font`](../)を初期化します。
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
     CharacterSet characterSet)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontName | String | の文字列表現[`Font`](../)名前。 |
-| emSize | Single | によって指定された単位での新しいフォントの全角サイズ。*unit*パラメータ。 |
-| style | FontStyle | の[`FontStyle`](../../fontstyle/)新しいフォントの。 |
-| unit | GraphicsUnit | の[`GraphicsUnit`](../../graphicsunit/)新しいフォントの。 |
-| characterSet | CharacterSet | このフォントに使用する文字セット。 |
+| fontName | String | [`Font`](../) 名の文字列表現です。 |
+| emSize | シングル | *unit* パラメーターで指定された単位での新しいフォントの em サイズです。 |
+| style | FontStyle | 新しいフォントの[`FontStyle`](../../fontstyle/)です。 |
+| unit | GraphicsUnit | 新しいフォントの[`GraphicsUnit`](../../graphicsunit/)です。 |
+| characterSet | CharacterSet | このフォントで使用する文字セットです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*が 0 以下であるか、無限に評価されるか、有効な数値ではありません。 |
-| ArgumentNullException | *fontName*無効である。 |
+| ArgumentOutOfRangeException | *emSize* が 0 以下、無限大になる、または有効な数値でない場合です。 |
+| ArgumentNullException | *fontName* は null です。 |
 
 ### 関連項目
 
@@ -152,39 +153,39 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 * enum [GraphicsUnit](../../graphicsunit/)
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-新しい[`Font`](../)指定されたサイズ、スタイル、および単位を使用します。
+指定されたサイズ、スタイル、単位を使用して新しい[`Font`](../)を初期化します。
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontName | String | の文字列表現[`Font`](../)名前。 |
-| emSize | Single | によって指定された単位での新しいフォントの全角サイズ。*unit*パラメータ。 |
-| style | FontStyle | の[`FontStyle`](../../fontstyle/)新しいフォントの。 |
-| unit | GraphicsUnit | の[`GraphicsUnit`](../../graphicsunit/)新しいフォントの。 |
+| fontName | String | [`Font`](../) 名の文字列表現です。 |
+| emSize | シングル | *unit* パラメーターで指定された単位での新しいフォントの em サイズです。 |
+| style | FontStyle | 新しいフォントの[`FontStyle`](../../fontstyle/)です。 |
+| unit | GraphicsUnit | 新しいフォントの[`GraphicsUnit`](../../graphicsunit/)です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*が 0 以下であるか、無限に評価されるか、有効な数値ではありません。 |
-| ArgumentNullException | *fontName*無効である。 |
+| ArgumentOutOfRangeException | *emSize* が 0 以下、無限大になる、または有効な数値でない場合です。 |
+| ArgumentNullException | *fontName* は null です。 |
 
 ### 関連項目
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

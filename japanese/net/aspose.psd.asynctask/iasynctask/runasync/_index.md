@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTask 方法. このタスクを実行します
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTask メソッド。このタスクを実行します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 このタスクを実行します。
@@ -17,8 +18,8 @@ public void RunAsync()
 ### 関連項目
 
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ public void RunAsync()
 public void RunAsync(ThreadPriority priority)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| priority | ThreadPriority | スレッドの優先度。 |
+| 優先度 | ThreadPriority | スレッドの優先度です。 |
 
 ### 関連項目
 
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.NonDropTimecode5994
-second_title: Aspose.PSD for .NET API リファレンス
-description: TimeFormat 財産. ノンドロップタイムコードを取得します5994.
+title: "TimeFormat.NonDropTimecode5994"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TimeFormat プロパティ。 non drop timecode5994 を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode5994/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode5994 property
 
-ノンドロップタイムコードを取得します5994.
+非ドロップ timecode5994 を取得します。
 
 ```csharp
 public static TimeFormat NonDropTimecode5994 { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ノンドロップ タイムコード5994.
+non drop timecode5994です。
 
 ### 関連項目
 
 * class [TimeFormat](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

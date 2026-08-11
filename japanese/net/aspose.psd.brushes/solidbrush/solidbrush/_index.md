@@ -1,14 +1,15 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: Aspose.PSD for .NET API リファレンス
-description: SolidBrush コンストラクタ. の新しいインスタンスを初期化しますSolidBrushclass.
+title: "SolidBrush.SolidBrush"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SolidBrush コンストラクタ。SolidBrush クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-の新しいインスタンスを初期化します[`SolidBrush`](../)class.
+`[`SolidBrush`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SolidBrush()
@@ -17,28 +18,28 @@ public SolidBrush()
 ### 関連項目
 
 * class [SolidBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../solidbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SolidBrush`](../)class.
+`[`SolidBrush`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SolidBrush(Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | ソリッド ブラシの色。 |
+| 色 | 色 | ソリッドブラシの色です。 |
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../solidbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

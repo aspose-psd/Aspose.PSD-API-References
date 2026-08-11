@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleOpacity
-second_title: Aspose.PSD for .NET API リファレンス
-description: VstkResource 財産. ストローク スタイルの不透明度 0  100 を取得または設定します
+title: "VstkResource.StrokeStyleOpacity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VstkResource プロパティ。ストロークスタイルの不透明度 0100 を取得または設定します"
 type: docs
-weight: 180
+weight: 160
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleOpacity property
 
-ストローク スタイルの不透明度 (0 ～ 100%) を取得または設定します。
+ストロークスタイルの不透明度 (0-100%) を取得または設定します。
 
 ```csharp
 public int StrokeStyleOpacity { get; set; }
@@ -17,7 +18,7 @@ public int StrokeStyleOpacity { get; set; }
 ### 関連項目
 
 * class [VstkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. ヘッダーを取得します
+title: "AiImage.Header"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。ヘッダーを取得します"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
 ヘッダーを取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.ai/aiimage/header/
 public AiHeader Header { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ヘッダー.
+ヘッダーです。
 
 ### 関連項目
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

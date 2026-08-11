@@ -1,14 +1,15 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD for .NET API リファレンス
-description: PngOptions 分野. デフォルトの圧縮レベル
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PngOptions フィールド。 デフォルトの圧縮レベル"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
-デフォルトの圧縮レベル。
+デフォルトの圧縮レベルです。
 
 ```csharp
 public const int DefaultCompressionLevel;
@@ -17,7 +18,7 @@ public const int DefaultCompressionLevel;
 ### 関連項目
 
 * class [PngOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

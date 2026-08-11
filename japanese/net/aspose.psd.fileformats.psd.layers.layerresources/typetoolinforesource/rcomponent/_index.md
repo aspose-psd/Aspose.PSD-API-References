@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.RComponent
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfoResource 財産. r コンポーネントを取得または設定します
+title: "TypeToolInfoResource.RComponent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfoResource プロパティ。r コンポーネントを取得または設定します"
 type: docs
-weight: 160
+weight: 140
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.RComponent property
 
-r コンポーネントを取得または設定します。
+r 成分を取得または設定します。
 
 ```csharp
 public short RComponent { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-r コンポーネント.
+r コンポーネントです。
 
 ### 関連項目
 
 * class [TypeToolInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

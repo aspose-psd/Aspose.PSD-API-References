@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinearGradientBrush 財産. グラデーションの終了色を取得または設定します
+title: "LinearGradientBrush.EndColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinearGradientBrush プロパティ。終了グラデーションの色を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
-グラデーションの終了色を取得または設定します。
+終了グラデーション色を取得または設定します。
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-終了のグラデーション カラー。
+終了グラデーションの色です。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 財産. を取得しますImageコンテナ.
+title: "Image.Container"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image プロパティ。Image コンテナを取得します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-を取得します[`Image`](../)コンテナ.
+[`Image`](../) コンテナを取得します。
 
 ```csharp
 public Image Container { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`Image`](../)コンテナ.
+この [`Image`](../) コンテナ。
 
-### 備考
+## 備考
 
 このプロパティが null でない場合、画像が別の画像に含まれていることを示します。
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

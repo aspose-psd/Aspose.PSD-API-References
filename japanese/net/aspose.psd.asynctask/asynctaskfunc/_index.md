@@ -1,31 +1,32 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: Aspose.PSD for .NET API リファレンス
-description: ジェネリック型の結果を持つ非同期タスクの長い操作デリゲート
+title: "デリゲート AsyncTaskFunc"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ジェネリック型結果を持つ非同期タスクの長時間操作デリゲート"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-ジェネリック型の結果を持つ非同期タスクの長い操作デリゲート。
+汎用型結果を持つ非同期タスク用の長時間操作デリゲートです。
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | 非同期タスクの状態。 |
+| taskState | IAsyncTaskState | 非同期タスクの状態です。 |
 
 ### 戻り値
 
-長い操作の結果。
+長時間操作の結果です。
 
 ### 関連項目
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* 名前空間 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

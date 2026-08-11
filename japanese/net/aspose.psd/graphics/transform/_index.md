@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 財産. このジオメトリック ワールド変換のコピーを取得または設定しますGraphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics プロパティ。この Graphics の幾何的ワールド変換のコピーを取得または設定します。"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-このジオメトリック ワールド変換のコピーを取得または設定します[`Graphics`](../) .
+この [`Graphics`](../) の幾何学的ワールド変換のコピーを取得または設定します。
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-のコピー[`Matrix`](../../matrix/)これは、この幾何学的世界の変換を表します[`Graphics`](../) .
+この [`Graphics`](../) の幾何学的ワールド変換を表す [`Matrix`](../../matrix/) のコピーです。
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

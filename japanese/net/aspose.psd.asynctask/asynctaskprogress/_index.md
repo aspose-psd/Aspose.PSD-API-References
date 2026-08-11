@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress クラス. 非同期タスクの進捗情報を提供します
+title: "クラス AsyncTaskProgress"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.AsyncTask.AsyncTaskProgress クラス。非同期タスクの進捗情報を提供します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
 非同期タスクの進捗情報を提供します。
@@ -18,18 +19,18 @@ public class AsyncTaskProgress
 
 | 名前 | 説明 |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | の新しいインスタンスを初期化します`AsyncTaskProgress`class. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | `AsyncTaskProgress` クラスの新しいインスタンスを初期化します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | 非同期タスクの期間. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | 非同期タスクの進行状況 (パーセント). |
+| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | 非同期タスクの期間です。 |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | 非同期タスクの進捗率（パーセント）です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

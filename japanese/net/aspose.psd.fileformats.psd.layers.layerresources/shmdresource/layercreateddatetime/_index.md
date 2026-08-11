@@ -1,27 +1,28 @@
 ---
-title: ShmdResource.LayerCreatedDateTime
-second_title: Aspose.PSD for .NET API リファレンス
-description: ShmdResource 財産. レイヤーの作成時刻を取得または設定しますレイヤー作成時間が指定されていない場合新しい DateTime0 が返されます
+title: "ShmdResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ShmdResource プロパティ。レイヤー作成時間を取得または設定します。レイヤー作成時間が指定されていない場合は新しい DateTime0 を返します"
 type: docs
-weight: 30
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## ShmdResource.LayerCreatedDateTime property
 
-レイヤーの作成時刻を取得または設定します。レイヤー作成時間が指定されていない場合、新しい DateTime(0) が返されます
+レイヤーの作成時間を取得または設定します。 レイヤーの作成時間が指定されていない場合は new DateTime(0) を返します。
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤー作成時間.
+レイヤー作成時間です。
 
 ### 関連項目
 
 * class [ShmdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

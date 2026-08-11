@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Width
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 財産. サムネイルの幅をピクセル単位で取得または設定します
+title: "ThumbnailResource.Width"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource プロパティ。サムネイルの幅（ピクセル単位）を取得または設定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/width/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Width property
 
-サムネイルの幅をピクセル単位で取得または設定します。
+サムネイルの幅（ピクセル単位）を取得または設定します。
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-サムネイルの幅。
+サムネイルの幅です。
 
 ### 関連項目
 
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

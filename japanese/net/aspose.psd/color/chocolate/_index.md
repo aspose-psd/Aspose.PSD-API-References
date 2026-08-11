@@ -1,11 +1,12 @@
 ---
-title: Color.Chocolate
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 財産. システム定義の色を取得します
+title: "Color.Chocolate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color プロパティ。システム定義の色を取得します"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/color/chocolate/
 ---
+{{< psd/tize >}}
 ## Color.Chocolate property
 
 システム定義の色を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/color/chocolate/
 public static Color Chocolate { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`Color`](../)システム定義の色を表します。
+システム定義の色を表す [`Color`](../) です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

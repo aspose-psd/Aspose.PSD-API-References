@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. これで描かれた破線に使用されるスタイルを取得または設定しますPen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。 この Pen で描画される破線に使用されるスタイルを取得または設定します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-これで描かれた破線に使用されるスタイルを取得または設定します[`Pen`](../) .
+この [`Pen`](../) で描画される破線に使用されるスタイルを取得または設定します。
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ`DashStyle`これで描かれた破線に使用されるスタイルを表す[`Pen`](../).
+`DashStyle` は、この [`Pen`](../) で描画される破線に使用されるスタイルを表します。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`DashStyle`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `DashStyle` プロパティは、[`Pen`](../) クラスが返すような不変の [`Pen`](../) に設定されます。 |
 
 ### 関連項目
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

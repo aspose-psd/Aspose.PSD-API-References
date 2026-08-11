@@ -1,14 +1,15 @@
 ---
-title: Pen.ResetTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 方法. この幾何変換行列をリセットしますPenidentity. へ
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen メソッド。 この Pen の幾何変換行列を単位行列にリセットします。"
 type: docs
 weight: 200
 url: /ja/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-この幾何変換行列をリセットします[`Pen`](../)identity. へ
+この [`Pen`](../) の幾何変換行列を単位行列にリセットします。
 
 ```csharp
 public void ResetTransform()
@@ -17,7 +18,7 @@ public void ResetTransform()
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

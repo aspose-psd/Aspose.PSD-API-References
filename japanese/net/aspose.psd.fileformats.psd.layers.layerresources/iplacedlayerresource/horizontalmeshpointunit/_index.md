@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.HorizontalMeshPointUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPlacedLayerResource 財産. 水平メッシュ ポイントの計測単位を取得または設定します
+title: "IPlacedLayerResource.HorizontalMeshPointUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPlacedLayerResource プロパティ。水平メッシュポイントの測定単位を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.HorizontalMeshPointUnit property
 
-水平メッシュ ポイントの計測単位を取得または設定します。
+水平メッシュポイントの測定単位を取得または設定します。
 
 ```csharp
 public UnitTypes HorizontalMeshPointUnit { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-水平メッシュ ポイントの計測単位。
+水平メッシュポイントの測定単位。
 
 ### 関連項目
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

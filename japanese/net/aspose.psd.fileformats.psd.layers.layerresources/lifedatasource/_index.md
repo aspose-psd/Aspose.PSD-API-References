@@ -1,14 +1,15 @@
 ---
-title: Class LiFeDataSource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource クラス. 外部リンク ファイルに関する情報を含む LnkeDataSource クラスを定義します これはAdobe Photoshop ファイルの変更に役立つ PSD ファイル形式操作 API の一部です
+title: "クラス LiFeDataSource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource クラス。外部リンクファイルに関する情報を含む LnkeDataSource クラスを定義します。これは Adobe Photoshop ファイルの変更を支援する PSD ファイルフォーマット操作 API の一部です。"
 type: docs
-weight: 2680
+weight: 2980
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-外部リンク ファイルに関する情報を含む LnkeDataSource クラスを定義します。 これは、Adobe® Photoshop® ファイルの変更に役立つ PSD ファイル形式操作 API の一部です
+外部リンクファイルに関する情報を含む LnkeDataSource クラスを定義します。これは、Adobe® Photoshop® ファイルの変更を支援する PSD ファイル形式操作 API の一部です。
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
@@ -18,40 +19,40 @@ public class LiFeDataSource : LinkDataSource
 
 | 名前 | 説明 |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | の新しいインスタンスを初期化します`LiFeDataSource`class. |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | の新しいインスタンスを初期化します`LiFeDataSource`class. |
+| [LiFeDataSource](lifedatasource/#constructor)() | `LiFeDataSource` クラスの新しいインスタンスを初期化します。 |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | `LiFeDataSource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Adobe® Photoshop® CC ライブラリのグラフィック ライブラリ AdobeStockId を取得または設定します。 |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Adobe® Photoshop® CC ライブラリについて、利用可能な場合は Adobe Stock ライセンスの状態を取得します。 |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | PSD アセットがロックされているかどうかを示す値を取得または設定します。 Adobe® Photoshop® СС Libraries アセットのアセット ロック状態。 |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Adobe® Photoshop® СС Libraries アセットのアセット変更時刻を取得または設定します。 |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Lnk2 / LnkE Adobe® Photoshop® リソースの liFE または liFD データ ソースの子ドキュメント識別子を取得または設定します。 |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | 子ドキュメントの現在選択されているコンプの ID を取得または設定します。何も選択されていない場合は -1 になります。 コンプは、デザイナーが作成できるページ レイアウトのコンポジションです。レイヤーカンプを使用すると、1 つの Adobe® Photoshop® ファイルでレイアウトの複数のバージョン を作成、管理、および表示できます。レイヤーカンプは、レイヤーパネルの状態のスナップショットです。レイヤーカンプは 3 種類のレイヤーオプションを保存しますが、 このプロパティは、スマートオブジェクトのレイヤーカンプ選択識別子を取得します. [スマートオブジェクトのレイヤーカンプ](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | PSD LnkE リソースの LiFE データ ソース内の外部ファイルの最終書き込み日時を取得または設定します。 |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Adobe® Photoshop® CC ライブラリのグラフィック ライブラリ要素名を取得または設定します。 |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Adobe® Photoshop® CC ライブラリのグラフィック ライブラリ要素参照を取得または設定します。 |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | PSD 形式のファイル作成者を取得または設定します LnkE / Lnk2 リソース. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | PSD リンク リソース内の外部ファイルまたは埋め込みファイルの名前を取得または設定します。 |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | PSD LnkE リソースの LiFE データ ソース内の外部ファイルのサイズを取得または設定します。 |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Adobe® Photoshop® Lnk2 / LnkE リソースに含まれる、またはリンクされる埋め込みファイルまたは外部ファイルのタイプを取得または設定します。 |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | PSD LnkE リソースの LiFE データ ソース内の外部ファイルのフル パスを取得または設定します。 |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | このリンク データ ソースに次のファイル オープン記述子があるかどうかを示す値を取得または設定します: CompId および OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | この PSD リンク データ ソースが Adobe® Photoshop® СС ライブラリ アイテムにリンクしているかどうかを示す値を取得します。 |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | リンク データ ソースの長さをバイト単位で取得します。 |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | 子ドキュメントで現在選択されている Comp の元の ID を取得します。何も選択されていない場合は -1 になります。 このプロパティは、スマート オブジェクトの元のレイヤー Comp 選択識別子を取得します。 [スマートオブジェクトのレイヤーカンプ](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Adobe® Photoshop® グローバル リンク リソース内のデータ ソースの元のファイル名を取得します。 |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | PSD LnkE リソースの LiFE データ ソース内の外部ファイルの相対パスを取得または設定します。 |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Adobe® Photoshop® グローバル リンク データ ソース タイプを取得します。次のいずれか、またはなしのいずれかになります。 PSD に対応する埋め込みリンク ファイル liFD Lnk2Resource PSD に対応する外部リンク ファイル liFE LnkeResource リンク ファイル エイリアス liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | PSD リンク リソース内のデータ ソースのグローバル一意識別子を取得します。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | PSD LnkE / Lnk2 リソース内のデータ ソースのバージョンを取得します。 |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Adobe® Photoshop® CC ライブラリ用のグラフィックライブラリ AdobeStockId を取得または設定します。 |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | 利用可能な場合、Adobe® Photoshop® CC ライブラリ用の Adobe Stock ライセンスの状態を取得します。 |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | PSD アセットがロックされているかどうかを示す値を取得または設定します。Adobe® Photoshop® СС ライブラリ資産のロック状態です。 |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Adobe® Photoshop® СС ライブラリ資産の変更日時を取得または設定します。 |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Lnk2 / LnkE Adobe® Photoshop® リソースの liFE または liFD データソース内の子ドキュメント識別子を取得または設定します。 |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | 取得または設定します 現在選択されている子ドキュメントのコンプの ID を取得または設定します。選択されていない場合は -1 になります。コンプはデザイナーが作成できるページレイアウトの構成です。レイヤーコンプを使用すると、単一の Adobe® Photoshop® ファイル内でレイアウトの複数バージョンを作成、管理、表示できます。レイヤーコンプはレイヤーパネルの状態のスナップショットです。レイヤーコンプは 3 種類のレイヤーオプションを保存しますが、このプロパティはスマートオブジェクト用のレイヤーコンプ選択識別子を取得します。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | 取得または設定します PSD LnkE リソースの LiFE データソースにある外部ファイルの最終書き込み日時を取得または設定します。 |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | 取得または設定します Adobe® Photoshop® CC Libraries 用のグラフィックライブラリ要素名を取得または設定します。 |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | 取得または設定します Adobe® Photoshop® CC Libraries 用のグラフィックライブラリ要素参照を取得または設定します。 |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | 取得または設定します PSD フォーマットの LnkE / Lnk2 リソースにおけるファイル作成者を取得または設定します。 |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | 取得または設定します PSD リンクリソース内の外部または埋め込みファイルの名前を取得または設定します。 |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | 取得または設定します PSD LnkE リソースの LiFE データソースにある外部ファイルのサイズを取得または設定します。 |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | 取得または設定します Adobe® Photoshop® Lnk2 / LnkE リソースが含むまたはリンクする埋め込みまたは外部ファイルのタイプを取得または設定します。 |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | 取得または設定します PSD LnkE リソースの LiFE データソースにある外部ファイルのフルパスを取得または設定します。 |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | 取得または設定します このリンクデータソースがファイルオープン記述子（CompId と OriginalCompId）を持つかどうかを示す値を取得または設定します。 |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | 取得します この PSD リンクデータソースが Adobe® Photoshop® СС Library アイテムにリンクしているかどうかを示す値を取得します。 |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | 取得します リンクデータソースの長さ（バイト単位）を取得します。 |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | 取得します 子ドキュメントの現在選択されているコンプの元の ID を取得します。選択されていない場合は -1 になります。このプロパティはスマートオブジェクト用の元のレイヤーコンプ選択識別子を取得します。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | 取得します Adobe® Photoshop® グローバルリンクリソース内のデータソースの元のファイル名を取得します。 |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | 取得または設定します PSD LnkE リソースの LiFE データソースにある外部ファイルの相対パスを取得または設定します。 |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | 取得します Adobe® Photoshop® グローバルリンクデータソースのタイプを取得します。以下のいずれか、またはなしです：PSD Lnk2Resource に対応する埋め込みリンクファイル liFD、PSD LnkeResource に対応する外部リンクファイル liFE、リンクファイルエイリアス liFA |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | 取得します PSD リンクリソース内のデータソースのグローバル一意識別子を取得します。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | 取得します PSD LnkE / Lnk2 リソース内のデータソースのバージョンを取得します。 |
 
-### 例
+## 例
 
-この例では、Psd LnkE リソースのプロパティを取得および設定する方法を示します。
+この例は Psd LnkE リソースのプロパティを取得および設定する方法を示します。
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、外部リンク ファイルに関する情報を含む Psd LnkE リソースのプロパティを取得および設定する方法を示します。
+// この例は外部リンクファイルに関する情報を含む Psd LnkE リソースのプロパティを取得および設定する方法を示します。
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -142,7 +143,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// この例では、外部リンク JPEG ファイルに関する情報を含む Psd LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク JPEG ファイルに関する情報を含む Psd LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -161,7 +162,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// この例では、外部リンク PNG ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク PNG ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -180,7 +181,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// この例では、外部リンクされた 2 つの PNG および PSD ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク PNG と PSD の 2 つのファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// この例では、外部リンクされた CC ライブラリ アセットに関する情報を含む Photoshop Psd LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク CC Libraries アセットに関する情報を含む Photoshop Psd LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -219,7 +220,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-次のコードは、LnkeResource リソースのサポートを示しています。
+以下のコードは LnkeResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -444,7 +445,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### 関連項目
 
 * class [LinkDataSource](../linkdatasource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

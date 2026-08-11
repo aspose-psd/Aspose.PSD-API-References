@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleF 方法. を返しますRectangleF 2 つの長方形の交点を表す構造交差点がなく空いている場合RectangleF返されます.
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleF メソッド。2 つの矩形の交差を表す RectangleF 構造体を返します。交差がない場合は空の RectangleF が返されます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-を返します[`RectangleF`](../) 2 つの長方形の交点を表す構造。交差点がなく、空いている場合[`RectangleF`](../)返されます.
+2 つの矩形の交差を表す [`RectangleF`](../) 構造体を返します。交差がない場合は、空の [`RectangleF`](../) が返されます。
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| a | RectangleF | 交差する最初の四角形。 |
-| b | RectangleF | 交差する 2 番目の四角形。 |
+| a | RectangleF | 交差させる最初の rectangleです。 |
+| b | RectangleF | 交差させる 2 番目の rectangleです。 |
 
 ### 戻り値
 
-三分の一[`RectangleF`](../)指定された 2 つの長方形の重なり合う領域を表すサイズの構造体。
+指定された 2 つの矩形の重なり合う領域を表すサイズを持つ 3 番目の [`RectangleF`](../) 構造体です。
 
 ### 関連項目
 
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-これを置き換えます[`RectangleF`](../)それ自体と指定されたものとの交点を持つ構造[`RectangleF`](../)構造体.
+この [`RectangleF`](../) 構造体を、それ自身と指定された [`RectangleF`](../) 構造体との交差で置き換えます。
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | 交差する四角形。 |
+| rect | RectangleF | 交差させる rectangle です。 |
 
 ### 関連項目
 
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

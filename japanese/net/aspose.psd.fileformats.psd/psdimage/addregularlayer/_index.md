@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 新しい通常レイヤーを追加します
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。新しいレギュラーレイヤーを追加します"
 type: docs
-weight: 410
+weight: 440
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 新しい通常レイヤーを追加します。
@@ -16,11 +17,11 @@ public Layer AddRegularLayer()
 
 ### 戻り値
 
-通常レイヤーを作成しました.
+レギュラーレイヤーが作成されました。
 
-### 例
+## 例
 
-次のコードは、新しく生成された通常のレイヤーを PsdImage に追加する方法を示しています。
+以下のコードは、新しく生成されたレギュラーレイヤーを PsdImage に追加する方法を示しています。
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // 2 つの int 配列を準備する
+    // 2 つの int 配列を準備しています
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -70,7 +71,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

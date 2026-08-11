@@ -1,34 +1,35 @@
 ---
-title: Region.Transform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これを変換しますRegion指定されたMatrix .
+title: "Region.Transform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。指定された Matrix によってこの Region を変換します。"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.psd/region/transform/
 ---
+{{< psd/tize >}}
 ## Region.Transform method
 
-これを変換します[`Region`](../)指定された[`Matrix`](../../matrix/) .
+指定された [`Matrix`](../../matrix/) によってこの [`Region`](../) を変換します。
 
 ```csharp
 public void Transform(Matrix matrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | の[`Matrix`](../../matrix/)これを変換する方法[`Region`](../). |
+| matrix | Matrix | この [`Region`](../) を変換するための [`Matrix`](../../matrix/)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *matrix*無効である。 |
+| ArgumentNullException | *matrix* は null です。 |
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

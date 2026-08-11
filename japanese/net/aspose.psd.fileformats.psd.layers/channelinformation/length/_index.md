@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: ChannelInformation 財産. チャネル長をバイト単位で取得します
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ChannelInformation プロパティ。チャンネルの長さ（バイト）を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
-チャネル長をバイト単位で取得します。
+チャンネルの長さ（バイト単位）を取得します。
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-長さ.
+長さです。
 
 ### 関連項目
 
 * class [ChannelInformation](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

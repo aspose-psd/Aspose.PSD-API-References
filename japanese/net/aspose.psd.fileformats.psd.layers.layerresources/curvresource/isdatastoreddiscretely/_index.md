@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvResource 財産. このインスタンスが個別に格納されたデータであるかどうかを示す値を取得または設定します
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvResource プロパティ。このインスタンスがデータを離散的に格納しているかどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-このインスタンスが個別に格納されたデータであるかどうかを示す値を取得または設定します。
+取得または設定します。このインスタンスが離散的にデータが保存されているかどうかを示す値。
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが個別に格納されたデータである場合。さもないと、`間違い` .
+`true` はこのインスタンスがデータを離散的に格納している場合です。そうでない場合は `false` です。
 
 ### 関連項目
 
 * class [CurvResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

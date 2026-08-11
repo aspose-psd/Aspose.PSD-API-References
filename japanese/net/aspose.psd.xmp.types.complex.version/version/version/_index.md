@@ -1,14 +1,15 @@
 ---
-title: Version.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: Version コンストラクタ. デフォルトのコンストラクター
+title: "Version.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Version コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex.version/version/version/
 ---
+{{< psd/tize >}}
 ## Version constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public Version()
@@ -17,7 +18,7 @@ public Version()
 ### 関連項目
 
 * class [Version](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

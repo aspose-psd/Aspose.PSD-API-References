@@ -1,11 +1,12 @@
 ---
-title: DisposableObject.Disposed
-second_title: Aspose.PSD for .NET API リファレンス
-description: DisposableObject 財産. このインスタンスが破棄されているかどうかを示す値を取得します
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DisposableObject プロパティ。インスタンスが破棄されているかどうかを示す値を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
 このインスタンスが破棄されているかどうかを示す値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/disposableobject/disposed/
 public bool Disposed { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`処分された場合;さもないと、`間違い`.
+`true` は破棄された場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [DisposableObject](../)
-* 名前空間 [Aspose.PSD](../../disposableobject/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

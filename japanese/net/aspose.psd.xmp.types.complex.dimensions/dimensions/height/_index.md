@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: Dimensions 財産. 高さを取得または設定します
+title: "Dimensions.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Dimensions プロパティ。高さを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
 高さを取得または設定します。
@@ -14,20 +15,20 @@ url: /ja/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 public float Height { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-高さ.
+高さです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 値;高さは 0 未満にはできません |
+| ArgumentOutOfRangeException | value;高さはゼロ未満にできません |
 
 ### 関連項目
 
 * class [Dimensions](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetSkewAngle
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 傾斜角度を取得します このメソッドはスキャン時の傾斜角度を決定するためにスキャンされたテキスト ドキュメントに適用されます
+title: "RasterImage.GetSkewAngle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。傾き角度を取得します。このメソッドは、スキャン時に傾き角度を判定するため、スキャンされたテキスト文書に適用できます。"
 type: docs
 weight: 330
 url: /ja/net/aspose.psd/rasterimage/getskewangle/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetSkewAngle method
 
-傾斜角度を取得します。 このメソッドは、スキャン時の傾斜角度を決定するために、スキャンされたテキスト ドキュメントに適用されます。
+傾き角度を取得します。このメソッドはスキャンされたテキスト文書に適用でき、スキャン時の傾き角度を判定します。
 
 ```csharp
 public float GetSkewAngle()
@@ -16,12 +17,12 @@ public float GetSkewAngle()
 
 ### 戻り値
 
-スキュー角度 (度単位)。
+傾き角度（度）です。
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection クラス. AI ラスター画像セクション
+title: "クラス AiRasterImageSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection クラス。AI ラスタ画像セクション"
 type: docs
-weight: 1280
+weight: 1290
 url: /ja/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-AI ラスター画像セクション
+AI ラスタ画像セクション
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -20,17 +21,17 @@ public sealed class AiRasterImageSection
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | 角度を取得します。 |
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | 高さを取得します。 |
-| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | 画像の四角形を取得します。 |
+| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | 画像の矩形を取得します。 |
 | [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | 左下シフトを取得します。 |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | ラスター イメージの名前を取得します。 |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | ラスタ画像の名前を取得します。 |
 | [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | オフセット X を取得します。 |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | オフセット Y を取得します。 |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int カラー ピクセルの配列を取得します。 |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int 型のカラーピクセル配列を取得します。 |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | 幅を取得します。 |
 
-### 例
+## 例
 
-次のコードは、AI 形式ファイルのラスター イメージの設定を読み込む方法を示しています。
+以下のコードは、AI 形式ファイルのラスタ画像設定をロードする方法を示しています。
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

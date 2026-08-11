@@ -1,14 +1,15 @@
 ---
-title: Size.IsEmpty
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size 財産. かどうかを示す値を取得しますSize幅と高さは 0. です
+title: "Size.IsEmpty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size プロパティ。この Size の幅と高さが 0 かどうかを示す値を取得します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/size/isempty/
 ---
+{{< psd/tize >}}
 ## Size.IsEmpty property
 
-かどうかを示す値を取得します。[`Size`](../)幅と高さは 0. です
+この [`Size`](../) の幅と高さが 0 かどうかを示す値を取得します。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -17,7 +18,7 @@ public bool IsEmpty { get; }
 ### 関連項目
 
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

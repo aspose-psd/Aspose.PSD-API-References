@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpMediaManagementPackage 方法. ドキュメント識別子を設定します
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpMediaManagementPackage メソッド。 ドキュメント識別子を設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 ドキュメント識別子を設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumenti
 public void SetDocumentId(Guid guid)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | Guid | 一意の識別子。 |
+| guid | Guid | 一意の識別子です。 |
 
 ### 関連項目
 
 * class [XmpMediaManagementPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetDocumentId(Guid guid)
 public void SetDocumentId(string guid)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | String | 一意の識別子。 |
+| guid | 文字列 | 一意の識別子です。 |
 
 ### 関連項目
 
 * class [XmpMediaManagementPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

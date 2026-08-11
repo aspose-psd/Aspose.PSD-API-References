@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. ストリップ バイト数を取得または設定します
+title: "TiffOptions.StripByteCounts"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。ストリップバイト数を取得または設定します"
 type: docs
-weight: 460
+weight: 470
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-ストリップ バイト数を取得または設定します。
+ストリップのバイト数を取得または設定します。
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ストリップ バイト カウント.
+ストリップバイト数。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

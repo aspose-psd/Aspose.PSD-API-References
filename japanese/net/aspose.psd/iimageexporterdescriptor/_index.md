@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporterDescriptor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IImageExporterDescriptor インターフェース. イメージ エクスポータ記述子を表しますエクスポータ記述子は各エクスポータ instance をメモリ内に含める必要性とマルチスレッドの問題を克服するために使用されます.
+title: "インターフェイス IImageExporterDescriptor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IImageExporterDescriptor インターフェイス。画像エクスポーター記述子を表します。エクスポーター記述子は、各エクスポーターインスタンスをメモリに保持する必要性やマルチスレッドの問題を回避するために使用されます。"
 type: docs
-weight: 4440
+weight: 4910
 url: /ja/net/aspose.psd/iimageexporterdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor interface
 
-イメージ エクスポータ記述子を表します。エクスポータ記述子は、各エクスポータ instance をメモリ内に含める必要性とマルチスレッドの問題を克服するために使用されます.
+画像エクスポーターディスクリプタを表します。エクスポーターディスクリプタは、各エクスポーターインスタンスをメモリに保持する必要性やマルチスレッドの問題を回避するために使用されます。
 
 ```csharp
 public interface IImageExporterDescriptor : IImageDescriptor
@@ -18,13 +19,13 @@ public interface IImageExporterDescriptor : IImageDescriptor
 
 | 名前 | 説明 |
 | --- | --- |
-| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | 画像エクスポーターが指定された画像を、保存オプションで指定された指定された画像形式にエクスポートできるかどうかを決定します。 |
-| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | 新しいエクスポーター インスタンスを作成します。 |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | 画像エクスポーターが、保存オプションで指定された画像形式に指定された画像をエクスポートできるかどうかを判断します。 |
+| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | 新しいエクスポーターインスタンスを作成します。 |
 
 ### 関連項目
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: OuterGlowEffect 財産. ブレンド モードを取得または設定します
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OuterGlowEffect プロパティ。ブレンドモードを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
-ブレンド モードを取得または設定します。
+ブレンドモードを取得または設定します。
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ブレンドモード.
+ブレンドモード。
 
-### 例
+## 例
 
-次のコードは、OuterGlowEffect のサポートを示しています。
+以下のコードは、OuterGlowEffect のサポートを示しています。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

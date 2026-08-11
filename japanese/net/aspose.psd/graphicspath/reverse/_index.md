@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Reverse
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 方法. この各形状の図形形状点の順序を逆にしますGraphicsPath .
+title: "GraphicsPath.Reverse"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath メソッド。この GraphicsPath の各形状内の図形、シェイプ、ポイントの順序を逆にします。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/graphicspath/reverse/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reverse method
 
-この各形状の図形、形状、点の順序を逆にします[`GraphicsPath`](../) .
+この[`GraphicsPath`](../)の各シェイプ内の図形、シェイプ、ポイントの順序を逆にします。
 
 ```csharp
 public void Reverse()
@@ -17,7 +18,7 @@ public void Reverse()
 ### 関連項目
 
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

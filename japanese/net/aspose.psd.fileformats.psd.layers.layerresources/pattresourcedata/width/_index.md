@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Width
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResourceData 財産. 幅を取得します
+title: "PattResourceData.Width"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResourceData プロパティ。幅を取得します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Width property
 
 幅を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/w
 public short Width { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-幅。
+幅です。
 
 ### 関連項目
 
 * class [PattResourceData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

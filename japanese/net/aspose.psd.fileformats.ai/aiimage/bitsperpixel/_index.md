@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. ピクセルあたりの画像ビット数を取得します
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。画像のビット/ピクセル数を取得します"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-ピクセルあたりの画像ビット数を取得します。
+画像のピクセルあたりのビット数を取得します。
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ピクセルあたりの画像ビット数.
+画像のビット/ピクセル数です。
 
 ### 関連項目
 
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

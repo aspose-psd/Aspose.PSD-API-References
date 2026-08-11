@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 財産. 行幅をバイト単位で取得します
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource プロパティ。バイト単位で行の幅を取得します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
-行幅をバイト単位で取得します。
+行幅（バイト単位）を取得します。
 
 ```csharp
 public int WidthBytes { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-行幅 (バイト単位)。
+バイト単位の行幅です。
 
 ### 関連項目
 
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

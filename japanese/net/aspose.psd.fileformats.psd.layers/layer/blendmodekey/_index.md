@@ -1,24 +1,25 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. ブレンド モード キーを取得または設定します
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。ブレンドモードキーを取得または設定します"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-ブレンド モード キーを取得または設定します。
+ブレンドモードキーを取得または設定します。
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ブレンドモードキー.
+ブレンドモードキーです。
 
-### 例
+## 例
 
 次の例は、Aspose.PSD で PassThrough レイヤー ブレンド モードを使用する方法を示しています。
 
@@ -65,7 +66,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

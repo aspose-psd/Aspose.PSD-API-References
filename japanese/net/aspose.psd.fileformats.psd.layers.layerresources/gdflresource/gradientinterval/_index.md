@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Aspose.PSD for .NET API リファレンス
-description: GdFlResource 財産. グラデーション間隔を取得または設定します
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GdFlResource プロパティ。グラデーション間隔を取得または設定します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
 グラデーション間隔を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradi
 public double GradientInterval { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-勾配間隔.
+グラデーション間隔です。
 
 ### 関連項目
 
 * class [GdFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

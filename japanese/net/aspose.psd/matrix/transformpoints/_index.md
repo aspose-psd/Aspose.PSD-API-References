@@ -1,28 +1,29 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 方法. これで表される幾何学的変換を適用しますMatrixポイントの指定された配列に.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix メソッド。この Matrix が表す幾何変換を指定された点の配列に適用します。"
 type: docs
 weight: 180
 url: /ja/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-これで表される幾何学的変換を適用します[`Matrix`](../)ポイントの指定された配列に.
+この [`Matrix`](../) が表す幾何変換を指定された点の配列に適用します。
 
 ```csharp
 public void TransformPoints(PointF[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| points | PointF[] | ポイント。 |
+| ポイント | PointF[] | ポイントです。 |
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

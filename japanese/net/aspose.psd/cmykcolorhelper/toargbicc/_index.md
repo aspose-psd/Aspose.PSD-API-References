@@ -1,111 +1,112 @@
 ---
-title: CmykColorHelper.ToArgbIcc
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColorHelper 方法. デフォルトのプロファイルで Icc 変換を使用した CMYK カラーから ARGB カラーへの変換.
+title: "CmykColorHelper.ToArgbIcc"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColorHelper メソッド。デフォルトプロファイルを使用した ICC 変換により、CMYK カラーから ARGB カラーへの変換を行います"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/cmykcolorhelper/toargbicc/
 ---
+{{< psd/tize >}}
 ## ToArgbIcc(int[]) {#toargbicc_2}
 
-デフォルトのプロファイルで Icc 変換を使用した CMYK カラーから ARGB カラーへの変換.
+デフォルトプロファイルを使用した ICC 変換により、CMYK カラーから ARGB カラーへの変換。
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK ピクセルは、32 ビットの整数値として表されます。 |
+| cmykPixels | Int32[] | CMYK ピクセルは 32 ビット整数値として表されます。 |
 
 ### 戻り値
 
-ARGB カラー.
+ARGB カラーです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int[], Stream, Stream) {#toargbicc_3}
 
-カスタム プロファイルによる Icc 変換を使用した CMYK カラーから ARGB カラーへの変換。
+カスタムプロファイルを使用した ICC 変換により、CMYK カラーから ARGB カラーへの変換。
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream rgbIccStream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| cmykPixels | Int32[] | 32 ビット整数値として表される CMYK カラー。 |
-| cmykIccStream | Stream | CMYK Icc プロファイルを含むストリーム。 |
-| rgbIccStream | Stream | RGB Icc プロファイルを含むストリーム。 |
+| cmykPixels | Int32[] | CMYK カラーは 32 ビット整数値として表されます。 |
+| cmykIccStream | ストリーム | CMYK Icc プロファイルを含むストリームです。 |
+| rgbIccStream | ストリーム | RGB Icc プロファイルを含むストリームです。 |
 
 ### 戻り値
 
-ARGB カラー.
+ARGB カラーです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int) {#toargbicc}
 
-デフォルト プロファイルの Icc 変換を使用した CMYK カラーから ARGB カラーへの変換.
+デフォルトプロファイルを使用した ICC 変換により、CMYK カラーから ARGB カラーへの変換。
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| cmykPixel | Int32 | 32 ビット整数値として表される CMYK カラー。 |
+| cmykPixel | Int32 | CMYK カラーは 32 ビット整数値として表されます。 |
 
 ### 戻り値
 
-ARGB カラー.
+ARGB カラーです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int, Stream, Stream) {#toargbicc_1}
 
-カスタムプロファイルによる Icc 変換を使用した CMYK カラーから ARGB カラーへの変換.
+カスタムプロファイルを使用した ICC 変換により、CMYK カラーから ARGB カラーへの変換。
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIccStream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| cmykPixel | Int32 | 32 ビット整数値として表される CMYK カラー。 |
-| cmykIccStream | Stream | CMYK Icc プロファイルを含むストリーム。 |
-| rgbIccStream | Stream | RGB Icc プロファイルを含むストリーム。 |
+| cmykPixel | Int32 | CMYK カラーは 32 ビット整数値として表されます。 |
+| cmykIccStream | ストリーム | CMYK Icc プロファイルを含むストリームです。 |
+| rgbIccStream | ストリーム | RGB Icc プロファイルを含むストリームです。 |
 
 ### 戻り値
 
-ARGB カラー.
+ARGB カラーです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

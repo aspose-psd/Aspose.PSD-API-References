@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. 総ページ数を取得します
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。総ページ数を取得します。"
 type: docs
-weight: 560
+weight: 570
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
 総ページ数を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 public ushort TotalPages { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-総ページ数.
+総ページ数。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

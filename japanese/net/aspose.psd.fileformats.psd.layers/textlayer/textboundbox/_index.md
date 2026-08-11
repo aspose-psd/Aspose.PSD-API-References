@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextLayer 財産. テキスト バインド ボックスを取得または設定します
+title: "TextLayer.TextBoundBox"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextLayer プロパティ。テキストバウンドボックスを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-テキスト バインド ボックスを取得または設定します。
+テキストのバウンドボックスを取得または設定します。
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキスト バインド ボックス.
+テキストバウンドボックスです。
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

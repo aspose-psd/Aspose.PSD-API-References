@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. 左レイヤーの位置を取得または設定します.
+title: "Layer.Left"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。左レイヤー位置を取得または設定します。"
 type: docs
-weight: 240
+weight: 250
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-左レイヤーの位置を取得または設定します.
+左側のレイヤー位置を取得または設定します。
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-左レイヤー位置.
+左レイヤーの位置です。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpMediaManagementPackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Schemas.XmpMm.XmpMediaManagementPackage クラス. XMP Media Management 名前空間を表します
+title: "クラス XmpMediaManagementPackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Schemas.XmpMm.XmpMediaManagementPackage class. XMP メディア管理名前空間を表します"
 type: docs
-weight: 5920
+weight: 6420
 url: /ja/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage class
 
-XMP Media Management 名前空間を表します。
+XMP メディア管理名前空間を表します。
 
 ```csharp
 public sealed class XmpMediaManagementPackage : XmpPackage
@@ -18,13 +19,13 @@ public sealed class XmpMediaManagementPackage : XmpPackage
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpMediaManagementPackage](xmpmediamanagementpackage/)() | デフォルトのコンストラクター。 |
+| [XmpMediaManagementPackage](xmpmediamanagementpackage/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | を取得または設定しますObject指定されたキーで. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | 指定されたキーに対応するオブジェクトを取得または設定します。 |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | XMP パッケージ内のキーを取得します。 |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | 名前空間 URI を取得します。 |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | プレフィックスを取得します。 |
@@ -36,7 +37,7 @@ public sealed class XmpMediaManagementPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue/)(string, string) | 文字列プロパティを追加します。 |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | このインスタンスをクリアします。 |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | 指定されたキーにキーが含まれているかどうかを判断します. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | 指定されたキーが含まれているかどうかを判断します。 |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | コレクションを反復処理する列挙子を返します。 |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | XMP 値を XML 表現に変換します。 |
 | virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | 指定されたキーの値を削除します。 |
@@ -53,7 +54,7 @@ public sealed class XmpMediaManagementPackage : XmpPackage
 ### 関連項目
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpMm](../../aspose.psd.xmp.schemas.xmpmm/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../)
 
 

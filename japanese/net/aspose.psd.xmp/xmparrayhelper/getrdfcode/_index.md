@@ -1,38 +1,39 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpArrayHelper 方法. 特定の RDF コードを取得しますXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpArrayHelper メソッド。特定の XmpArrayType の RDF コードを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-特定の RDF コードを取得します。[`XmpArrayType`](../../xmparraytype/) .
+特定の [`XmpArrayType`](../../xmparraytype/) の RDF コードを取得します。
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| xmpArrayType | XmpArrayType | XMP アレイのタイプ。 |
+| xmpArrayType | XmpArrayType | XMP 配列のタイプ。 |
 
 ### 戻り値
 
-特定の RDF コードを返します。[`XmpArrayType`](../../xmparraytype/).
+特定の [`XmpArrayType`](../../xmparraytype/) の RDF コードを返します。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | 無効な列挙引数の例外 |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | 無効な enum 引数例外 |
 
 ### 関連項目
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

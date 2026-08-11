@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Count
-second_title: Aspose.PSD for .NET API リファレンス
-description: UrlListResource 財産. カウントを取得または設定します
+title: "UrlListResource.Count"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UrlListResource プロパティ。count を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
 カウントを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 public int Count { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カウント.
+カウント。
 
 ### 関連項目
 
 * class [UrlListResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

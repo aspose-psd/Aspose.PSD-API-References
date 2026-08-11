@@ -1,14 +1,15 @@
 ---
-title: PattResource.TypeToolKey2
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResource 分野. 16 ビット用のPat2タイプのツール情報キー
+title: "PattResource.TypeToolKey2"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResource フィールド。16ビット用の Pat2 タイプツール情報キー"
 type: docs
-weight: 90
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey2 field
 
-16 ビット用の「Pat2」タイプのツール情報キー。
+16ビット用の 'Pat2' タイプ ツール情報キーです。
 
 ```csharp
 public const int TypeToolKey2;
@@ -17,7 +18,7 @@ public const int TypeToolKey2;
 ### 関連項目
 
 * class [PattResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

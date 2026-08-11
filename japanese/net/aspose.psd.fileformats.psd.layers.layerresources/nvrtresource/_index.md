@@ -1,14 +1,15 @@
 ---
-title: Class NvrtResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource クラス. クラス NvrtResource反転調整レイヤーのリソース.
+title: "クラス NvrtResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource クラス。クラス NvrtResource。インバート調整レイヤーのリソースです。"
 type: docs
-weight: 2840
+weight: 3180
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource class
 
-クラス NvrtResource。反転調整レイヤーのリソース.
+NvrtResource クラス。Invert 調整レイヤーのリソース。
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
@@ -18,34 +19,34 @@ public class NvrtResource : AdjustmentLayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [NvrtResource](nvrtresource/#constructor)() | の新しいインスタンスを初期化します`NvrtResource`class. |
-| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | の新しいインスタンスを初期化します`NvrtResource`class. |
+| [NvrtResource](nvrtresource/#constructor)() | `NvrtResource` クラスの新しいインスタンスを初期化します。 |
+| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | `NvrtResource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/) { get; } | PSD バージョンを取得します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | 署名を取得します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | 指定したストリーム コンテナーにリソースを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | リソースを指定されたストリームコンテナに保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | タイプツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | タイプツール情報キーです。 |
 
-### 例
+## 例
 
-次の例は、NvrtResource を取得する方法を示しています。
+以下の例は NvrtResource の取得方法を示しています。
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
             {
                 if (layerResource is NvrtResource)
                 {
-                    // NvrtResource がサポートされています。
+                    // NvrtResource はサポートされています。
                     resource = (NvrtResource)layerResource;
                     break;
                 }
@@ -76,7 +77,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

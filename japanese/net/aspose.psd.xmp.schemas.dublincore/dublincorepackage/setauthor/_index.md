@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD for .NET API リファレンス
-description: DublinCorePackage 方法. 作者を追加します.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DublinCorePackage メソッド。著者を追加します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
-作者を追加します.
+作者を追加します。
 
 ```csharp
 public void SetAuthor(string author)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| author | String | 著者。 |
+| 著者 | 文字列 | 著者です。 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetAuthor(string[]) {#setauthor_1}
 
-作者を追加します.
+作者を追加します。
 
 ```csharp
 public void SetAuthor(string[] author)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| author | String[] | 著者。 |
+| 著者 | String[] | 著者です。 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

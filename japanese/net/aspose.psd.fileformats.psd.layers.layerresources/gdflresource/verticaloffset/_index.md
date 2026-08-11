@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: Aspose.PSD for .NET API リファレンス
-description: GdFlResource 財産. 垂直オフセットを取得または設定します
+title: "GdFlResource.VerticalOffset"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GdFlResource プロパティ。垂直オフセットを取得または設定します"
 type: docs
-weight: 180
+weight: 240
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
-垂直オフセットを取得または設定します。
+取得または設定します。垂直オフセット。
 
 ```csharp
 public double VerticalOffset { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-垂直オフセット。
+垂直オフセットです。
 
-### 例
+## 例
 
-次の例は、GdFlResource リソースの読み込みのサポートを示しています。
+次の例は GdFlResource のリソース読み込みのサポートを示しています。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 読む
+                    // 読み取り
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // 編集中
+                    // 編集
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -117,7 +118,7 @@ using (im)
 ### 関連項目
 
 * class [GdFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

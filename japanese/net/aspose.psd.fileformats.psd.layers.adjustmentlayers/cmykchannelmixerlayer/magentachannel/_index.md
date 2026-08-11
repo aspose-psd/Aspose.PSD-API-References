@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.MagentaChannel
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykChannelMixerLayer 財産. マゼンタ チャネルを取得します
+title: "CmykChannelMixerLayer.MagentaChannel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykChannelMixerLayer プロパティ。マゼンタチャンネルを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/magentachannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.MagentaChannel property
 
-マゼンタ チャネルを取得します。
+マゼンタチャンネルを取得します。
 
 ```csharp
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-マゼンタ チャネル。
+マゼンタチャンネルです。
 
 ### 関連項目
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

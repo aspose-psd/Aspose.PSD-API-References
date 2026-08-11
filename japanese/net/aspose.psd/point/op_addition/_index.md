@@ -1,33 +1,34 @@
 ---
-title: Point.op_Addition
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. を変換しますPoint与えられたSize .
+title: "Point.op_Addition"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。与えられた Size によって Point を平行移動します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd/point/op_addition/
 ---
+{{< psd/tize >}}
 ## Point Addition operator
 
-を変換します[`Point`](../)与えられた[`Size`](../../size/) .
+与えられた [`Size`](../../size/) によって [`Point`](../) を平行移動します。
 
 ```csharp
 public static Point operator +(Point point, Size size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../)翻訳すること。 |
-| size | Size | あ[`Size`](../../size/)の座標に追加する数値のペアを指定します*point*. |
+| point | Point | 平行移動対象の [`Point`](../)です。 |
+| size | Size | 座標に加える 2 つの数値のペアを指定する [`Size`](../../size/)（*point* 用）。 |
 
 ### 戻り値
 
-翻訳された[`Point`](../).
+平行移動後の [`Point`](../)です。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

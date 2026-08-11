@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetThreshold
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. 既定のカテゴリのしきい値 透明度の範囲 を設定します
+title: "ImageAttributes.SetThreshold"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。デフォルトカテゴリのしきい値透明度範囲を設定します。"
 type: docs
 weight: 200
 url: /ja/net/aspose.psd/imageattributes/setthreshold/
 ---
+{{< psd/tize >}}
 ## SetThreshold(float) {#setthreshold}
 
-既定のカテゴリのしきい値 (透明度の範囲) を設定します。
+デフォルトカテゴリのしきい値（透過範囲）を設定します。
 
 ```csharp
 public void SetThreshold(float threshold)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| threshold | Single | しきい値を指定する実数。 |
+| 閾値 | シングル | しきい値を指定する実数です。 |
 
 ### 関連項目
 
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetThreshold(float, ColorAdjustType) {#setthreshold_1}
 
-指定したカテゴリのしきい値 (透明度の範囲) を設定します。
+指定されたカテゴリのしきい値（透過範囲）を設定します。
 
 ```csharp
 public void SetThreshold(float threshold, ColorAdjustType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| threshold | Single | 最大値または最小値にマップされる色をソートするためのブレークポイントとして使用される 0.0 から 1.0 までのしきい値。 |
-| type | ColorAdjustType | の要素[`ColorAdjustType`](../../coloradjusttype/)色のしきい値が設定されているカテゴリを指定します。 |
+| 閾値 | シングル | 0.0 から 1.0 の範囲のしきい値で、最大値または最小値にマップされる色を分類するブレークポイントとして使用されます。 |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) の要素で、カラーしきい値を設定するカテゴリを指定します。 |
 
 ### 関連項目
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

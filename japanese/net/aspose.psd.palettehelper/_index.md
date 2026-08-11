@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.PaletteHelper
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはカラー パレットを画像の色に調整したりその逆の調整を行うためのクラスが含まれています
+title: "Aspose.PSD.PaletteHelper"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、カラーパレットを画像の色に合わせて調整するクラスとその逆のクラスが含まれています。"
 type: docs
-weight: 470
+weight: 510
 url: /ja/net/aspose.psd.palettehelper/
 ---
-名前空間には、カラー パレットを画像の色に調整したり、その逆の調整を行うためのクラスが含まれています。
+{{< psd/tize >}}
+この名前空間には、カラーパレットを画像の色に合わせて調整する、またはその逆を行うクラスが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [AdjustPalette](./adjustpalette/) | カラーパレット調整 class |
+| [AdjustPalette](./adjustpalette/) | カラーパレット調整クラス |
 
 

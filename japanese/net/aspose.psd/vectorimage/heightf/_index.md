@@ -1,27 +1,28 @@
 ---
-title: VectorImage.HeightF
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorImage 財産. オブジェクトの高さをインチで取得します.
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorImage プロパティ。オブジェクトの高さ（インチ）を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
-オブジェクトの高さをインチで取得します.
+オブジェクトの高さをインチ単位で取得します。
 
 ```csharp
 public virtual float HeightF { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクトの高さ (インチ単位)。
+オブジェクトの高さ（インチ）。
 
 ### 関連項目
 
 * class [VectorImage](../)
-* 名前空間 [Aspose.PSD](../../vectorimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

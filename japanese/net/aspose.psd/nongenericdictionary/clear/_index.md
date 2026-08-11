@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Clear
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 方法. からすべての要素を削除しますIDictionaryobject.
+title: "NonGenericDictionary.Clear"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary メソッド。 IDictionary オブジェクトからすべての要素を削除します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/nongenericdictionary/clear/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Clear method
 
-からすべての要素を削除しますIDictionaryobject.
+IDictionary オブジェクトからすべての要素を削除します。
 
 ```csharp
 public void Clear()
@@ -17,7 +18,7 @@ public void Clear()
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

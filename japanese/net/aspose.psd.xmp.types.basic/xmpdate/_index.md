@@ -1,14 +1,15 @@
 ---
-title: Class XmpDate
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Basic.XmpDate クラス. XMP パケットの日付を表します
+title: "クラス XmpDate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpDate クラス。XMP パケット内の日付を表します"
 type: docs
-weight: 5950
+weight: 6450
 url: /ja/net/aspose.psd.xmp.types.basic/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate class
 
-XMP パケットの日付を表します。
+XMP パケット内の日付を表します。
 
 ```csharp
 public sealed class XmpDate : XmpTypeBase
@@ -18,8 +19,8 @@ public sealed class XmpDate : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpDate](xmpdate/#constructor)(DateTime) | の新しいインスタンスを初期化します`XmpDate`class. |
-| [XmpDate](xmpdate/#constructor_1)(string) | の新しいインスタンスを初期化します`XmpDate`class. |
+| [XmpDate](xmpdate/#constructor)(DateTime) | `XmpDate` クラスの新しいインスタンスを初期化します。 |
+| [XmpDate](xmpdate/#constructor_1)(string) | `XmpDate` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -32,22 +33,22 @@ public sealed class XmpDate : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で返します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | XMP 形式で含まれる文字列値を返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | ISO 8601 (ラウンドトリップ) フォーマット文字列. |
+| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | ISO 8601（ラウンドトリップ）形式の文字列です。 |
 
-### 備考
+## 備考
 
-日時の値は、日付と時刻の形式で定義されている形式のサブセットを使用して表されます。 MM-DDThh:mm:ss.sTZD
+日付時刻の値は、Date and Time Formatsで定義されたフォーマットのサブセットを使用して表されます: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ss.sTZD
 
 ### 関連項目
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

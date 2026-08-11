@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextLayer 方法. テキストを更新します
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextLayer メソッド。 テキストを更新します"
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 テキストを更新します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 public void UpdateText(string text)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
+| text | 文字列 | テキストの値。 |
 
 ### 関連項目
 
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public void UpdateText(string text)
 public void UpdateText(string text, float fontSize)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| fontSize | Single | フォントのサイズ。 |
+| text | 文字列 | テキストの値。 |
+| fontSize | シングル | フォントのサイズ。 |
 
 ### 関連項目
 
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -55,17 +56,17 @@ public void UpdateText(string text, float fontSize)
 public void UpdateText(string text, Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| color | Color | 色の値。 |
+| text | 文字列 | テキストの値。 |
+| 色 | 色 | 色の値。 |
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,18 +78,18 @@ public void UpdateText(string text, Color color)
 public void UpdateText(string text, float fontSize, Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| fontSize | Single | フォントのサイズ。 |
-| color | Color | 色の値。 |
+| text | 文字列 | テキストの値。 |
+| fontSize | シングル | フォントのサイズ。 |
+| 色 | 色 | 色の値。 |
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -100,18 +101,18 @@ public void UpdateText(string text, float fontSize, Color color)
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| leftTopCoordinate | Point | 左上の座標。 |
-| fontSize | Single | フォントのサイズ。 |
+| text | 文字列 | テキストの値。 |
+| leftTopCoordinate | Point | 左上座標。 |
+| fontSize | シングル | フォントのサイズ。 |
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -123,19 +124,19 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 public void UpdateText(string text, Point leftTopCoordinate, Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| leftTopCoordinate | Point | 左上の座標。 |
-| color | Color | 色の値。 |
+| text | 文字列 | テキストの値。 |
+| leftTopCoordinate | Point | 左上座標。 |
+| 色 | 色 | 色の値。 |
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -147,17 +148,17 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 public void UpdateText(string text, Point leftTopCoordinate)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| leftTopCoordinate | Point | 左上の座標。 |
+| text | 文字列 | テキストの値。 |
+| leftTopCoordinate | Point | 左上座標。 |
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -169,19 +170,19 @@ public void UpdateText(string text, Point leftTopCoordinate)
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| leftTopCoordinate | Point | 左上の座標。 |
-| fontSize | Single | フォントのサイズ。 |
-| color | Color | 色の値。 |
+| text | 文字列 | テキストの値。 |
+| leftTopCoordinate | Point | 左上座標。 |
+| fontSize | シングル | フォントのサイズ。 |
+| 色 | 色 | 色の値。 |
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

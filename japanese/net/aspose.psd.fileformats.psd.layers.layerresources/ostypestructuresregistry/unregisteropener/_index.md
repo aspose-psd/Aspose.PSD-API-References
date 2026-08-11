@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.UnregisterOpener
-second_title: Aspose.PSD for .NET API リファレンス
-description: OSTypeStructuresRegistry 方法. オープナーの登録を解除します
+title: "OSTypeStructuresRegistry.UnregisterOpener"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OSTypeStructuresRegistry メソッド。オープナーの登録を解除します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.UnregisterOpener method
 
 オープナーの登録を解除します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresre
 public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | 登録解除するオープナー記述子。 |
+| openerDescriptor | IOSTypeStructureLoader | 登録解除するオープナー記述子です。 |
 
 ### 関連項目
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

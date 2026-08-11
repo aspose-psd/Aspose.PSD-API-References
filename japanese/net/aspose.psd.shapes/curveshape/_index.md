@@ -1,14 +1,15 @@
 ---
-title: Class CurveShape
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Shapes.CurveShape クラス. 曲線のスプライン形状を表します
+title: "クラス CurveShape"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Shapes.CurveShape クラス。曲線スプラインシェイプを表します"
 type: docs
-weight: 5480
+weight: 5980
 url: /ja/net/aspose.psd.shapes/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape class
 
-曲線のスプライン形状を表します。
+曲線スプライン形状を表します。
 
 ```csharp
 public sealed class CurveShape : PolygonShape
@@ -18,11 +19,11 @@ public sealed class CurveShape : PolygonShape
 
 | 名前 | 説明 |
 | --- | --- |
-| [CurveShape](curveshape/#constructor)() | の新しいインスタンスを初期化します`CurveShape`class. |
-| [CurveShape](curveshape/#constructor_1)(PointF[]) | の新しいインスタンスを初期化します`CurveShape`クラス。デフォルトの張力 0.5 が使用されます。 |
-| [CurveShape](curveshape/#constructor_2)(PointF[], bool) | の新しいインスタンスを初期化します`CurveShape`クラス。デフォルトの張力 0.5 が使用されます。 |
-| [CurveShape](curveshape/#constructor_3)(PointF[], float) | の新しいインスタンスを初期化します`CurveShape`class. |
-| [CurveShape](curveshape/#constructor_4)(PointF[], float, bool) | の新しいインスタンスを初期化します`CurveShape`class. |
+| [CurveShape](curveshape/#constructor)() | `CurveShape` クラスの新しいインスタンスを初期化します。 |
+| [CurveShape](curveshape/#constructor_1)(PointF[]) | `CurveShape` クラスの新しいインスタンスを初期化します。デフォルトのテンション 0.5 が使用されます。 |
+| [CurveShape](curveshape/#constructor_2)(PointF[], bool) | `CurveShape` クラスの新しいインスタンスを初期化します。デフォルトのテンション 0.5 が使用されます。 |
+| [CurveShape](curveshape/#constructor_3)(PointF[], float) | `CurveShape` クラスの新しいインスタンスを初期化します。 |
+| [CurveShape](curveshape/#constructor_4)(PointF[], float, bool) | `CurveShape` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,13 +31,13 @@ public sealed class CurveShape : PolygonShape
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/curveshape/bounds/) { get; } | オブジェクトの境界を取得します。 |
 | override [Center](../../aspose.psd.shapes/curveshape/center/) { get; } | 形状の中心を取得します。 |
-| virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint/) { get; } | 形状の終了点を取得します。 |
+| virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint/) { get; } | シェイプの終了点を取得します。 |
 | override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments/) { get; } | 形状にセグメントがあるかどうかを示す値を取得します。 |
-| [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | 形状が閉じているかどうかを示す値を取得または設定します。 |
-| [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | 曲線ポイントを取得または設定します。 |
-| override [Segments](../../aspose.psd.shapes/curveshape/segments/) { get; } | 形状セグメントを取得します。 |
-| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | 形状の開始点を取得します。 |
-| [Tension](../../aspose.psd.shapes/curveshape/tension/) { get; set; } | 曲線の張力を取得または設定します。 |
+| [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | シェイプが閉じているかどうかを示す値を取得または設定します。 |
+| [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | 曲線のポイントを取得または設定します。 |
+| override [Segments](../../aspose.psd.shapes/curveshape/segments/) { get; } | シェイプのセグメントを取得します。 |
+| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | シェイプの開始点を取得します。 |
+| [Tension](../../aspose.psd.shapes/curveshape/tension/) { get; set; } | 曲線のテンションを取得または設定します。 |
 
 ## メソッド
 
@@ -45,12 +46,12 @@ public sealed class CurveShape : PolygonShape
 | override [GetBounds](../../aspose.psd.shapes/curveshape/getbounds/#getbounds)(Matrix) | オブジェクトの境界を取得します。 |
 | override [GetBounds](../../aspose.psd.shapes/curveshape/getbounds/#getbounds_1)(Matrix, Pen) | オブジェクトの境界を取得します。 |
 | [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | このシェイプのポイントの順序を逆にします。 |
-| override [Transform](../../aspose.psd.shapes/polygonshape/transform/)(Matrix) | 指定された変換を形状に適用します。 |
+| override [Transform](../../aspose.psd.shapes/polygonshape/transform/)(Matrix) | 指定された変換をシェイプに適用します。 |
 
 ### 関連項目
 
 * class [PolygonShape](../polygonshape/)
-* 名前空間 [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

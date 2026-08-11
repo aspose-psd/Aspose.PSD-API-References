@@ -1,14 +1,15 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Aspose.PSD for .NET API リファレンス
-description: DisposableObject コンストラクタ. デフォルトのコンストラクター
+title: "DisposableObject.DisposableObject"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DisposableObject コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public DisposableObject()
@@ -17,7 +18,7 @@ public DisposableObject()
 ### 関連項目
 
 * class [DisposableObject](../)
-* 名前空間 [Aspose.PSD](../../disposableobject/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

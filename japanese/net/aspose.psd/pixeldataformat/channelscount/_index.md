@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. チャネル数を取得します
+title: "PixelDataFormat.ChannelsCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。チャンネル数を取得します。"
 type: docs
 weight: 330
 url: /ja/net/aspose.psd/pixeldataformat/channelscount/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelsCount property
 
-チャネル数を取得します。
+チャンネル数を取得します。
 
 ```csharp
 public int ChannelsCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-チャンネル数.
+チャンネル数です。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

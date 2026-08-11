@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.GammaCorrection
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinearGradientBrushBase 財産. ガンマ補正が有効かどうかを示す値を取得または設定しますLinearGradientBrushBase .
+title: "LinearGradientBrushBase.GammaCorrection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinearGradientBrushBase プロパティ。この LinearGradientBrushBase に対してガンマ補正が有効かどうかを示す値を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.GammaCorrection property
 
-ガンマ補正が有効かどうかを示す値を取得または設定します[`LinearGradientBrushBase`](../) .
+この [`LinearGradientBrushBase`](../) に対してガンマ補正が有効かどうかを示す値を取得または設定します。
 
 ```csharp
 public bool GammaCorrection { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-これに対してガンマ補正が有効になっている場合、値は true です。[`LinearGradientBrushBase`](../);それ以外の場合は false。
+この [`LinearGradientBrushBase`](../) でガンマ補正が有効な場合は true、そうでない場合は false です。
 
 ### 関連項目
 
 * class [LinearGradientBrushBase](../)
-* 名前空間 [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

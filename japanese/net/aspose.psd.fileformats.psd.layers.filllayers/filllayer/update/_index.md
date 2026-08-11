@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD for .NET API リファレンス
-description: FillLayer 方法. 実際に従って塗りつぶしレイヤー ピクセル データを更新しますIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FillLayer メソッド。現在の IFillSettings に基づいてフィルレイヤーのピクセルデータを更新します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-実際に従って塗りつぶしレイヤー ピクセル データを更新します。[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+現在の [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) に基づいてフィルレイヤーのピクセルデータを更新します。
 
 ```csharp
 public void Update()
@@ -16,18 +17,18 @@ public void Update()
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | FillType のタイプが不明です |
+| ArgumentOutOfRangeException | 不明な FillType が検出されたときにスローされます。 |
 
-### 例
+## 例
 
-次のコードは、塗りつぶしレイヤーのサポートを示しています。
+次のコードは Fill レイヤーのサポートを示しています: カラー塗り。
 
 ```csharp
 [C#]
 
-// 塗りつぶしレイヤーのサポートを追加: カラー塗りつぶし
+// Fill レイヤーのサポートを追加します: カラー塗り
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-次のコードは、さまざまなタイプのグラデーションで画像を保存し、Aspose.PSD がグラデーションを描画する方法を示しています。
+次のコードは、異なるタイプのグラデーションで画像を保存し、Aspose.PSD がグラデーションを描画する方法を示します。
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-次のコードは、パターン フィル レイヤーを使用して画像を保存し、Aspose.PSD がパターンをレンダリングする方法を示します。
+以下のコードはパターン塗りつぶしレイヤーで画像を保存し、Aspose.PSD がパターンをレンダリングする方法を示します。
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -134,7 +135,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### 関連項目
 
 * class [FillLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

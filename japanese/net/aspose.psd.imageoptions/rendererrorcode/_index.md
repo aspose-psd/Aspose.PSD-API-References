@@ -1,14 +1,15 @@
 ---
-title: Enum RenderErrorCode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageOptions.RenderErrorCode 列挙. CAD ファイルの欠落セクションの可能性を表します
+title: "列挙体 RenderErrorCode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageOptions.RenderErrorCode 列挙体。CAD ファイルで欠落している可能性のあるセクションを表します"
 type: docs
-weight: 4920
+weight: 5410
 url: /ja/net/aspose.psd.imageoptions/rendererrorcode/
 ---
+{{< psd/tize >}}
 ## RenderErrorCode enumeration
 
-CAD ファイルの欠落セクションの可能性を表します
+CAD ファイルの欠落している可能性のあるセクションを表します
 
 ```csharp
 public enum RenderErrorCode
@@ -16,7 +17,7 @@ public enum RenderErrorCode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | MissingHeader | `0` | ヘッダーがありません |
 | MissingLayouts | `1` | レイアウト情報がありません |
@@ -26,7 +27,7 @@ public enum RenderErrorCode
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

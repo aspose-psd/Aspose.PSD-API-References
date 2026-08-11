@@ -1,50 +1,51 @@
 ---
-title: XmpArray.XmpArray
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpArray コンストラクタ. の新しいインスタンスを初期化しますXmpArrayclass.
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpArray コンストラクタ。XmpArray クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpArray`](../)class.
+[`XmpArray`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| type | XmpArrayType | 配列のタイプ。 |
-| items | String[] | アイテム一覧です。 |
+| 型 | XmpArrayType | 配列の型です。 |
+| 項目 | String[] | 項目リストです。 |
 
 ### 関連項目
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmparray/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-の新しいインスタンスを初期化します[`XmpArray`](../)class.
+[`XmpArray`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpArray(XmpArrayType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| type | XmpArrayType | 配列のタイプ。 |
+| 型 | XmpArrayType | 配列の型です。 |
 
 ### 関連項目
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmparray/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

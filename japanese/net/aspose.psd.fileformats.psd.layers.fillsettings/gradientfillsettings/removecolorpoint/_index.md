@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.RemoveColorPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientFillSettings 方法. カラー ポイントを削除します
+title: "GradientFillSettings.RemoveColorPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientFillSettings メソッド。カラー ポイントを削除します"
 type: docs
-weight: 170
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveColorPoint method
 
 カラー ポイントを削除します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public void RemoveColorPoint(IGradientColorPoint point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | IGradientColorPoint | ポイント。 |
+| ポイント | IGradientColorPoint | ポイントです。 |
 
 ### 関連項目
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

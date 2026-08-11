@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. オーディオ チャネル タイプを設定します
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。オーディオチャンネルタイプを設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
-オーディオ チャネル タイプを設定します。
+オーディオチャンネルタイプを設定します。
 
 ```csharp
 public void SetAudioChannelType(AudioChannelType audioChannelType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| audioChannelType | AudioChannelType | オーディオ チャネルの種類。 |
+| audioChannelType | AudioChannelType | オーディオ チャネルタイプ。 |
 
 ### 関連項目
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

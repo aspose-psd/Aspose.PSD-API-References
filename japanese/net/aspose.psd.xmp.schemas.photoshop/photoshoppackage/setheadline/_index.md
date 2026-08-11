@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. 見出しを設定します
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。ヘッドラインを設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
-見出しを設定します。
+ヘッドラインを設定します。
 
 ```csharp
 public void SetHeadline(string headline)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| headline | String | 見出し。 |
+| ヘッドライン | 文字列 | このヘッドラインです。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

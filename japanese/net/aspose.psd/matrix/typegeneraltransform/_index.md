@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeGeneralTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 分野. この定数はこの object によって定義された変換が入力座標の任意の変換を実行することを示します この変換が上記の定数のいずれかによって分類できる場合 タイプは定数 TypeIdentity または適切なフラグの組み合わせ a になりますこの変換が実行するさまざまな座標 変換のビット.
+title: "Matrix.TypeGeneralTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix フィールド。この定数は、このオブジェクトで定義された変換が入力座標の任意の変換を実行することを示します。この変換が上記のいずれかの定数で分類できる場合、タイプは定数 TypeIdentity になるか、またはこの変換が実行するさまざまな座標変換に対応する適切なフラグビットの組み合わせになります。"
 type: docs
 weight: 230
 url: /ja/net/aspose.psd/matrix/typegeneraltransform/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralTransform field
 
-この定数は、この object によって定義された変換が、入力座標の任意の変換を実行することを示します。 この変換が上記の定数のいずれかによって分類できる場合、 タイプは、定数 TypeIdentity または適切なフラグの組み合わせ a になります。この変換が実行するさまざまな座標 変換のビット.
+この定数は、このオブジェクトで定義された変換が入力座標の任意の変換を行うことを示します。上記の定数のいずれかでこの変換を分類できる場合、タイプは定数 TypeIdentity になるか、またはこの変換が実行するさまざまな座標変換に対応するフラグビットの組み合わせになります。
 
 ```csharp
 public const int TypeGeneralTransform;
@@ -17,7 +18,7 @@ public const int TypeGeneralTransform;
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

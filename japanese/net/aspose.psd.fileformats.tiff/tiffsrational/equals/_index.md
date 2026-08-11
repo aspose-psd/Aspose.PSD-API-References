@@ -1,31 +1,32 @@
 ---
-title: TiffSRational.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffSRational 方法. 指定されたObjectこのインスタンスと等しい.
+title: "TiffSRational.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffSRational メソッド。指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.tiff/tiffsrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Equals method
 
-指定されたObjectこのインスタンスと等しい.
+指定された Object がこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | Object | このインスタンスと比較する Object。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+`true`：指定された Object がこのインスタンスと等しい場合。そうでなければ `false`。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

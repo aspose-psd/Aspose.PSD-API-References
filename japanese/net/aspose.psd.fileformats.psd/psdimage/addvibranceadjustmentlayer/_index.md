@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 自然な彩度調整レイヤーを追加します
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。Vibrance 調整レイヤーを追加します"
 type: docs
-weight: 430
+weight: 490
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-自然な彩度調整レイヤーを追加します。
+バイブランス調整レイヤーを追加します。
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -16,11 +17,11 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### 戻り値
 
-新しく作成されたバイブランス レイヤー。
+新しく作成された Vibrance レイヤーです。
 
-### 例
+## 例
 
-次のコード例は、VibranceLayer レイヤーのサポートと、この調整を編集する機能を示しています。
+以下のコード例は VibranceLayer レイヤーのサポートと、この調整を編集する機能を示しています。
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // 新しい VibranceLayer を作成する
+    // 新しい VibranceLayer の作成
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

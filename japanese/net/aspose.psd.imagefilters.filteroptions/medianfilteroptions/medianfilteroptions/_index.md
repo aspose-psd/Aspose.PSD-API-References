@@ -1,27 +1,28 @@
 ---
-title: MedianFilterOptions.MedianFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: MedianFilterOptions コンストラクタ. の新しいインスタンスを初期化しますMedianFilterOptionsclass.
+title: "MedianFilterOptions.MedianFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MedianFilterOptions コンストラクタ。MedianFilterOptions クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions constructor
 
-の新しいインスタンスを初期化します[`MedianFilterOptions`](../)class.
+[`MedianFilterOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public MedianFilterOptions(int size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size | Int32 | フィルター四角形のサイズ。 |
+| サイズ | Int32 | フィルタ矩形のサイズです。 |
 
 ### 関連項目
 
 * class [MedianFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

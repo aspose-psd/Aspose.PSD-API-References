@@ -1,11 +1,12 @@
 ---
-title: Class PsdOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageOptions.PsdOptions クラス. psd ファイル形式の作成オプション
+title: "クラス PsdOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageOptions.PsdOptions クラス。psd ファイル形式の作成オプションです。"
 type: docs
-weight: 4900
+weight: 5390
 url: /ja/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
 psd ファイル形式の作成オプション。
@@ -18,43 +19,45 @@ public class PsdOptions : ImageOptionsBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | の新しいインスタンスを初期化します`PsdOptions`class. |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | の新しいインスタンスを初期化します`PsdOptions`class. |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | の新しいインスタンスを初期化します`PsdOptions`class. |
+| [PsdOptions](psdoptions/#constructor)() | `PsdOptions` クラスの新しいインスタンスを初期化します。 |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | `PsdOptions` クラスの新しいインスタンスを初期化します。 |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | `PsdOptions` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | すべての内部バッファーの最大許容サイズが定義されているバッファー サイズのヒントを取得または設定します。 |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | カラー チャネルごとのビット数を取得または設定します。 |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | 背景色を取得または設定します。透明オブジェクトの下で確認できます。 |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | すべての内部バッファに対して定義された最大許容サイズであるバッファサイズヒントを取得または設定します。 |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | 色チャネルごとのビット数を取得または設定します。 |
 | [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | カラー チャネル数を取得または設定します。 |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | psd カラー モードを取得または設定します。 |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | psd 圧縮方法を取得または設定します。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | デフォルトの置換フォントを取得または設定します (PSD ファイル内の既存のレイヤー フォントがシステムに表示されない場合、ラスターにエクスポートするときにテキストの描画に使用されるフォント)。 デフォルト フォントの適切な名前を取得するには、次のコード スニペットを使用できます。 : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] ファミリー = col.Families; 文字列 defaultFontName = ファミリー[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | PSD のカラーモードを取得または設定します。 |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | PSD の圧縮方式を取得または設定します。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | デフォルトの置換フォントを取得または設定します（PSD ファイルの既存レイヤーフォントがシステムに存在しない場合に、ラスタにエクスポートするときにテキスト描画に使用されるフォント）。デフォルトフォント名を取得するには、次のコードスニペットを使用できます: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | このインスタンスが破棄されているかどうかを示す値を取得します。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | [フル フレーム] かどうかを示す値を取得または設定します。 |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | マルチページ オプション |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | カラー パレットを取得または設定します。 |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | 進行状況イベント ハンドラーを取得または設定します。 |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | ファイル形式のバージョンを取得または設定します。 PSD または PSB を指定できます。 |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | [画像プレビュー データの更新] - 別の PSD 画像ビューアとの互換性を最大化するために使用されるオプションかどうかを示す値を取得または設定します。 |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | 次のいずれかを示す値を取得または設定します - グローバル テキスト エンジン リソースを削除します - 処理後に Adobe Photoshop で開くことができない場合にのみ、一部のテキスト レイヤー psd ファイルに使用されます (ほとんどの場合、関連するフォント テキスト レイヤーがない場合)。 このオプションを使用した後、Photoshop ファイルで開いたファイルを次のように作成する必要があります: メニュー "テキスト" -&gt; "存在しないフォントの処理"。この操作の後、すべてのテキストが再び表示されます. この操作により、最終的なレイアウトが変更される場合があることに注意してください. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | フルフレームかどうかを示す値を取得または設定します。 |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | マルチページオプション |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | カラーパレットを取得または設定します。 |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | 取得または設定するのは、進行状況イベント ハンドラーです。 |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | ファイル形式のバージョンを取得または設定します。PSD または PSB にできます。 |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | 画像プレビュー データの [refresh image preview data] を更新するかどうかを示す値を取得または設定します。これは他の PSD 画像ビューアとの互換性を最大化するためのオプションです。Compact Framework プラットフォームでは、テキストレイヤーの最終レイアウトへの描画はサポートされていないことに注意してください。 |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | グローバル テキスト エンジン リソースを削除するかどうかを示す値を取得または設定します。このオプションは、処理後に Adobe Photoshop で開けなくなるテキストレイヤー付き PSD ファイル（主にフォントが欠如しているテキストレイヤーに関連）で使用されます。このオプションを使用した後、ユーザーは Photoshop で開いたファイルで次の操作を行う必要があります：メニュー「Text」→「Process absent fonts」。この操作により、すべてのテキストが再び表示されます。ただし、この操作により最終レイアウトが一部変更される可能性があることに注意してください。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | 解像度設定を取得または設定します。 |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | psd リソースを取得または設定します。 |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | でイメージを作成するソースを取得または設定します。 |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | ベクター ラスター化オプションを取得または設定します。 |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | psd ファイルのバージョンを取得または設定します。 |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | XMP データを取得または設定する container |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | PSD リソースを取得または設定します。値が NULL の場合は元の ImageResources を保存します（既定の動作）。空でない場合は、このプロパティに渡されたリソースと [required resources] を保存します。空の場合は、[required resources] のみが保存されます。必須リソース: ResolutionInfoResource、XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 画像を作成するソースを取得または設定します。 |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | メタデータを [update metadata] するかどうかを示す値を取得または設定します。値が true の場合、画像を保存する際にメタデータが更新されます。 |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | ベクターラスタライズオプションを取得または設定します。 |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | PSD ファイルのバージョンを取得または設定します。 |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | XMP データ コンテナを取得または設定します |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | このインスタンスを複製します。 |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | このインスタンスをクローンします。 |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | 現在のインスタンスを破棄します。 |
 
-### 例
+## 例
 
 次の例は、Aspose.PSD で AI ファイルを PSD および PNG 形式にエクスポートする方法を示しています。
 
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-この例では、PsdOptions インスタンスの Source プロパティで指定されたディスクの場所に新しいイメージ ファイルを作成します。実際のイメージを作成する前に、PsdOptions インスタンスのいくつかのプロパティが設定されます。特に、この場合、実際のディスクの場所を参照する Source プロパティ。
+この例では、PsdOptions インスタンスの Source プロパティで指定されたディスク上の場所に新しい Image ファイルを作成します。PsdOptions インスタンスの複数のプロパティが実際の画像を作成する前に設定されます。特に、この場合は実際のディスク位置を指す Source プロパティです。
 
 ```csharp
 [C#]
 
-// PsdOptions のインスタンスを作成し、そのさまざまなプロパティを設定します
+//PsdOptions のインスタンスを作成し、さまざまなプロパティを設定します。
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// FileCreateSource のインスタンスを作成し、それを PsdOptions のインスタンスの Source として割り当てます
-//2 番目のブール値パラメーターは、作成するファイルが IsTemporal かどうかを決定します
+//FileCreateSource のインスタンスを作成し、PsdOptions インスタンスの Source として割り当てます。
+//2 番目の Boolean パラメーターは、作成するファイルが一時的かどうかを決定します。
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-// Image のインスタンスを作成し、Create メソッドを呼び出して PsdOptions のインスタンスで初期化します
+//Image のインスタンスを作成し、Create メソッドを呼び出して PsdOptions のインスタンスで初期化します。
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // 画像処理を行います
+    //画像処理を行います。
 
-    // すべての変更を保存
+    // すべての変更を保存します。
     image.Save();
 }
 ```
 
-次の例は、グレースケール 16 ビット PSD ファイルを読み込んでチャンネル RGB ごとに 16 ビットに保存すると、例外なく正しく動作することを示しています。
+次の例は、グレースケール 16 ビット PSD ファイルをチャンネルごとに 16 ビットの RGB に読み込み保存することが正しく例外なく動作することを示しています。
 
 ```csharp
 [C#]
@@ -120,12 +123,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // ここも例外ではありません。
+    // ここでは例外は発生しないはずです。
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-次の例は、グレースケール 16 ビット PSD ファイルの読み取りと、チャネルあたり 8 ビットのグレースケールへの保存が例外なく正しく機能することを示しています。
+次の例は、グレースケール 16 ビット PSD ファイルをチャンネルごとに 8 ビットのグレースケールに読み込み保存することが正しく例外なく動作することを示しています。
 
 ```csharp
 [C#]
@@ -153,7 +156,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // ここも例外ではありません。
+    // ここでは例外は発生しないはずです。
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
@@ -199,7 +202,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-次の例は、ドキュメント変換の進行状況が例外なく正しく機能することを示しています。
+次の例は、ドキュメント変換の進行状況が正しく例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -243,52 +246,52 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-この例では、Type Color の配列にピクセル情報をロードし、配列を操作して画像に戻す方法を示します。これらの操作を実行するために、この例では、MemoryStream オブジェクトを使用して新しいイメージ ファイル (PSD 形式) を作成します。
+この例では、Color 型の配列にピクセル情報をロードし、配列を操作して画像に戻す方法を示します。これらの操作を実行するために、MemoryStream オブジェクトを使用して新しい Image ファイル（PSD 形式）を作成します。
 
 ```csharp
 [C#]
 
-//MemoryStream のインスタンスを作成する
+//MemoryStream のインスタンスを作成します。
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //PsdOptions のインスタンスを作成し、Source プロパティを含むさまざまなプロパティを設定します
+    //PsdOptions のインスタンスを作成し、Source プロパティを含むさまざまなプロパティを設定します。
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Image のインスタンスを作成する
+    //Image のインスタンスを作成します。
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //領域を画像境界として指定して、画像のピクセルを取得します
+        //画像の境界を領域として指定して、画像のピクセルを取得します
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //配列をループし、代替インデックス付きピクセルの色を設定します
+        //配列をループし、代替インデックスピクセルの色を設定します
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //インデックス付きピクセルの色を黄色に設定
+                //インデックスピクセルの色を黄色に設定します
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //インデックス付きピクセルの色を青に設定
+                //インデックスピクセルの色を青に設定します
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // ピクセルの変更を画像に適用します
+        //画像にピクセルの変更を適用します
         image.SavePixels(image.Bounds, pixels);
 
         // すべての変更を保存します。
         image.Save();
     }
 
-    //メモリストリームをファイルに書き込む
+    //MemoryStream をファイルに書き込みます
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-次の例は、グレースケール 16 ビット PSD ファイルの読み取りと保存が例外なく正しく機能することを示しています。
+次の例は、グレースケール 16 ビット PSD ファイルの読み取りと保存が正しく、例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -334,7 +337,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // ここも例外ではありません。
+        // ここでは例外は発生しないはずです。
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -353,7 +356,7 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 ### 関連項目
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* 名前空間 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

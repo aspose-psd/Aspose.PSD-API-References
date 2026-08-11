@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. レイヤーを追加します
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。レイヤーを追加します"
 type: docs
-weight: 370
+weight: 390
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 レイヤーを追加します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 public void AddLayer(Layer layer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| layer | Layer | 層。 |
+| レイヤー | レイヤー | レイヤーです。 |
 
-### 例
+## 例
 
-次の例は、単純なコンストラクター バージョンが Aspose.PSD で使用されている場合に、新しく作成されたレイヤーに描画する方法を示しています。
+以下の例は、Aspose.PSD でシンプルコンストラクタ バージョンを使用した場合に、新しく作成されたレイヤーに描画できる方法を示しています
 
 ```csharp
 [C#]
@@ -39,10 +40,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // ペンツールで長方形を描く
+    // ペンツールで矩形を描く
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // 青色のソリッド ブラシで別の四角形を描画します
+    // Solid Brush を使用して青色で別の長方形を描画する
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -53,7 +54,7 @@ using (var image = new PsdImage(width, height))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

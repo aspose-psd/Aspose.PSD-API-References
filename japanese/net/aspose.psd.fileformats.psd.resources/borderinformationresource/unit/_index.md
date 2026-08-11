@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Aspose.PSD for .NET API リファレンス
-description: BorderInformationResource 財産. 境界単位を取得または設定します
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BorderInformationResource プロパティ。ボーダーの単位を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
 境界単位を取得または設定します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit
 public PhysicalUnit Unit { get; set; }
 ```
 
-### 例
+## 例
 
-次の例は、BorderInformationResource リソースのサポートを示しています。
+次の例は BorderInformationResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BorderInformationResource を更新します
+    // BorderInformationResource を更新する
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -49,7 +50,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

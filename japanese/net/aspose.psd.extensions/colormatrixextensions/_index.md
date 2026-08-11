@@ -1,14 +1,15 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.ColorMatrixExtensions クラス. ColorMatrix拡張メソッド.
+title: "クラス ColorMatrixExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.ColorMatrixExtensions クラス。ColorMatrix の拡張メソッドです。"
 type: docs
-weight: 1070
+weight: 1080
 url: /ja/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-[`ColorMatrix`](../../aspose.psd/colormatrix/)拡張メソッド.
+[`ColorMatrix`](../../aspose.psd/colormatrix/) の拡張メソッドです。
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -18,11 +19,11 @@ public static class ColorMatrixExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | は[`ColorMatrix`](../../aspose.psd/colormatrix/)にColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | [`ColorMatrix`](../../aspose.psd/colormatrix/) を ColorMatrix に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

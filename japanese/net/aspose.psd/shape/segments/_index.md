@@ -1,28 +1,29 @@
 ---
-title: Shape.Segments
-second_title: Aspose.PSD for .NET API リファレンス
-description: Shape 財産. 形状セグメントを取得します
+title: "Shape.Segments"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Shape プロパティ。シェイプのセグメントを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-形状セグメントを取得します。
+シェイプのセグメントを取得します。
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-シェイプ セグメント。
+シェイプのセグメントです。
 
 ### 関連項目
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* 名前空間 [Aspose.PSD](../../shape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

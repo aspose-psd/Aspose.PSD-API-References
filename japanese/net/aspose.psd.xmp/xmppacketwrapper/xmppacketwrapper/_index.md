@@ -1,24 +1,25 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper コンストラクタ. の新しいインスタンスを初期化しますXmpPacketWrapperclass.
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper コンストラクタ。 XmpPacketWrapper クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpPacketWrapper`](../)class.
+[`XmpPacketWrapper`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| header | XmpHeaderPi | 処理命令の XMP ヘッダー。 |
-| trailer | XmpTrailerPi | 処理命令の XMP トレーラー。 |
-| xmpMeta | XmpMeta | XMP メタデータ。 |
+| ヘッダー | XmpHeaderPi | 処理指示の XMP ヘッダーです。 |
+| トレーラ | XmpTrailerPi | 処理指示の XMP トレーラです。 |
+| xmpMeta | XmpMeta | XMP メタデータです。 |
 
 ### 関連項目
 
@@ -26,14 +27,14 @@ public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMet
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-の新しいインスタンスを初期化します[`XmpPacketWrapper`](../)class.
+[`XmpPacketWrapper`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpPacketWrapper()
@@ -42,7 +43,7 @@ public XmpPacketWrapper()
 ### 関連項目
 
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

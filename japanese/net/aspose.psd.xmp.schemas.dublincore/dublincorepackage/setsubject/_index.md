@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: Aspose.PSD for .NET API リファレンス
-description: DublinCorePackage 方法. 件名を追加します
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DublinCorePackage メソッド。件名を追加します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
-件名を追加します。
+主題を追加します。
 
 ```csharp
 public void SetSubject(string subject)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| subject | String | 件名。 |
+| 件名 | 文字列 | 件名です。 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSubject(string[]) {#setsubject_1}
 
-件名を追加します。
+主題を追加します。
 
 ```csharp
 public void SetSubject(string[] subject)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| subject | String[] | 件名。 |
+| 件名 | String[] | 件名です。 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

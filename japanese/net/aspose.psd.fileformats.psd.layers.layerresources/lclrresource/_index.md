@@ -1,14 +1,15 @@
 ---
-title: Class LclrResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource クラス. Class LclrResource. このリソースにはレイヤー リストのレイヤーの色に関する情報が含まれています only です
+title: "クラス LclrResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource クラス。クラス LclrResource。このリソースは、PS のレイヤーリスト内のレイヤーの色に関する情報を含みます。それだけです。"
 type: docs
-weight: 2620
+weight: 2930
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-Class LclrResource. このリソースには、レイヤー リストのレイヤーの色に関する情報が含まれています。 only です
+クラス LclrResource。このリソースは、PS のレイヤーリストにあるレイヤーの色に関する情報を含みます。これは唯一です。
 
 ```csharp
 public class LclrResource : LayerResource
@@ -18,36 +19,36 @@ public class LclrResource : LayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | の新しいインスタンスを初期化します`LclrResource`class. |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | の新しいインスタンスを初期化します`LclrResource`class. |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | の新しいインスタンスを初期化します`LclrResource`class. |
+| [LclrResource](lclrresource/#constructor)() | `LclrResource` クラスの新しいインスタンスを初期化します。 |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | `LclrResource` クラスの新しいインスタンスを初期化します。 |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | `LclrResource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | レイヤーの色を取得または設定します。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | psd バージョンを取得します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | 署名を取得します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | 指定したストリーム コンテナーにリソースを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | リソースを指定されたストリームコンテナに保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | タイプ ツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | タイプツール情報キーです。 |
 
-### 例
+## 例
 
-次の例は、Aspose.PSD (シート カラー設定) でシート カラー ハイライトを変更する方法を示しています。
+以下の例は Aspose.PSD でシートカラーのハイライトを変更する方法を示しています（シートカラー設定）。
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ public class LclrResource : LayerResource
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// ファイルでは、レイヤーのハイライトの色はこの順序になっています
+// ファイル内ではレイヤーのハイライト色はこの順序です。
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color は、レイヤを視覚的に強調するために使用されます。 
-// たとえば、PSD のいくつかのレイヤーを更新してから、注目を集めたいレイヤーを色で強調表示できます。
+// レイヤーシートカラーはレイヤーを視覚的にハイライトするために使用されます。
+// 例えば、PSD のいくつかのレイヤーを更新し、注目させたいレイヤーを色でハイライトすることができます。
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -77,7 +78,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // 色を反転する必要があります
+    // 色は逆順にする必要があります。
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl リソースは常に psd ファイル リソース リストに表示されます。
+            // lcrl リソースは常に PSD ファイルのリソースリストに存在します。
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -100,7 +101,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // スタイルシートの色を反転。レイヤーカラーハイライトの設定。
+                // スタイルシートの色を逆転させます。レイヤーのカラー ハイライトを設定します。
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -112,7 +113,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 ### 関連項目
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnitArrayStructure 財産. ユニット配列構造体の値を取得または設定します
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnitArrayStructure プロパティ。単位配列構造の値を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-ユニット配列構造体の値を取得または設定します。
+ユニット配列構造の値を取得または設定します。
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ユニット配列構造体の値.
+単位配列構造の値です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | ArgumentNullException | Values プロパティは null であってはなりません。 |
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [UnitArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD for .NET API リファレンス
-description: LyidResource 財産. 値を取得します
+title: "LyidResource.Value"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LyidResource プロパティ。値を取得します。"
 type: docs
-weight: 60
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
 値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value
 public int Value { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-値.
+値です。
 
 ### 関連項目
 
 * class [LyidResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

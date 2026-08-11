@@ -1,14 +1,15 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType 列挙. 配置されたレイヤー PlLd リソースの PlacedLayerType 列挙を定義します
+title: "列挙体 PlacedLayerType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType 列挙体。配置レイヤー PlLd リソース用の PlacedLayerType 列挙体を定義します。"
 type: docs
-weight: 2930
+weight: 3280
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-配置されたレイヤー PlLd リソースの PlacedLayerType 列挙を定義します。
+配置レイヤー PlLd リソース用に PlacedLayerType 列挙体を定義します。
 
 ```csharp
 public enum PlacedLayerType
@@ -16,16 +17,16 @@ public enum PlacedLayerType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Unknown | `0` | 不明な配置レイヤー type |
-| Vector | `1` | ベクター配置レイヤー type |
-| Raster | `2` | ラスター配置レイヤー type |
-| ImageStack | `3` | レイヤーに配置された画像スタック type |
+| Unknown | `0` | 不明な配置レイヤータイプ |
+| Vector | `1` | ベクトル配置レイヤータイプ |
+| Raster | `2` | ラスタ配置レイヤータイプ |
+| ImageStack | `3` | 画像スタック配置レイヤータイプ |
 
-### 例
+## 例
 
-次のコードは、PlLdResource リソースのサポートを示しています。
+以下のコードは PlLdResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -207,15 +208,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 一部のパラメータには注意してください: 画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+                // いくつかのパラメータには注意してください: 画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-                // または、下線付きのスマート オブジェクトをベクター型に変更します
+                // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+                // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+                // このユニーク ID を持つ有効な PlLdResource が必要です。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -230,7 +232,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

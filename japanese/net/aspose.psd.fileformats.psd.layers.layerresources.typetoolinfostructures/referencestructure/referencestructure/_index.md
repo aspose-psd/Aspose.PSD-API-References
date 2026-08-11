@@ -1,20 +1,21 @@
 ---
-title: ReferenceStructure.ReferenceStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: ReferenceStructure コンストラクタ. の新しいインスタンスを初期化しますReferenceStructureclass.
+title: "ReferenceStructure.ReferenceStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ReferenceStructure コンストラクタ。ReferenceStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure constructor
 
-の新しいインスタンスを初期化します[`ReferenceStructure`](../)class.
+[`ReferenceStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
 
@@ -22,7 +23,7 @@ public ReferenceStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ReferenceStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

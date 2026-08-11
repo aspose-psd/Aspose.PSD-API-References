@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.ImageLoadException クラス. 画像読み込み例外画像の読み込み中に発生します.
+title: "クラス ImageLoadException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException クラス。画像読み込み例外です。画像の読み込み中に発生します。"
 type: docs
 weight: 620
 url: /ja/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-画像読み込み例外。画像の読み込み中に発生します.
+画像読み込み例外です。画像の読み込み中に発生します。
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -18,13 +19,13 @@ public class ImageLoadException : ImageException
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | の新しいインスタンスを初期化します`ImageLoadException`class. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`ImageLoadException`class. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | `ImageLoadException` クラスの新しいインスタンスを初期化します。 |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | `ImageLoadException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [ImageException](../imageexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

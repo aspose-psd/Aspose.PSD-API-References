@@ -1,14 +1,15 @@
 ---
-title: GlobalAngleResource.GlobalAngleResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalAngleResource コンストラクタ. デフォルトのコンストラクター
+title: "GlobalAngleResource.GlobalAngleResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalAngleResource コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangleresource/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public GlobalAngleResource()
@@ -17,7 +18,7 @@ public GlobalAngleResource()
 ### 関連項目
 
 * class [GlobalAngleResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

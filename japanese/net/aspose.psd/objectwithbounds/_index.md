@@ -1,11 +1,12 @@
 ---
-title: Class ObjectWithBounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ObjectWithBounds クラス. 境界を持つオブジェクト
+title: "クラス ObjectWithBounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ObjectWithBounds クラス。境界を持つオブジェクト"
 type: docs
-weight: 5160
+weight: 5650
 url: /ja/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
 境界を持つオブジェクト。
@@ -26,11 +27,11 @@ public abstract class ObjectWithBounds
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds)(Matrix) | オブジェクトの境界を取得します。 |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | オブジェクトの境界を取得します。 |
-| abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | 指定された変換を形状に適用します。 |
+| abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | 指定された変換をシェイプに適用します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

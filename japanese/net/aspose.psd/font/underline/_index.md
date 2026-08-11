@@ -1,27 +1,28 @@
 ---
-title: Font.Underline
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. かどうかを示す値を取得しますFont下線が引かれています.
+title: "Font.Underline"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 この Font が下線付きかどうかを示す値を取得します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/font/underline/
 ---
+{{< psd/tize >}}
 ## Font.Underline property
 
-かどうかを示す値を取得します。[`Font`](../)下線が引かれています.
+この[`Font`](../)が下線付きかどうかを示す値を取得します。
 
 ```csharp
 public bool Underline { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これなら真[`Font`](../)下線が引かれています。それ以外の場合は false。
+この[`Font`](../)が下線付きの場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

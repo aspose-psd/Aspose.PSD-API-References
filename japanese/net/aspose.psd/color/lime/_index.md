@@ -1,11 +1,12 @@
 ---
-title: Color.Lime
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 財産. システム定義の色を取得します
+title: "Color.Lime"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color プロパティ。システム定義の色を取得します"
 type: docs
 weight: 780
 url: /ja/net/aspose.psd/color/lime/
 ---
+{{< psd/tize >}}
 ## Color.Lime property
 
 システム定義の色を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/color/lime/
 public static Color Lime { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`Color`](../)システム定義の色を表します。
+システム定義の色を表す [`Color`](../) です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

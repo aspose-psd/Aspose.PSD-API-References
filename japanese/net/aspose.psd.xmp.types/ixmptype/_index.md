@@ -1,14 +1,15 @@
 ---
-title: Interface IXmpType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.IXmpType インターフェース. XMP タイプのベース インターフェイス
+title: "IXmpType インターフェイス。"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.IXmpType インターフェイス。XMP タイプの基本インターフェイスです。"
 type: docs
-weight: 6190
+weight: 6690
 url: /ja/net/aspose.psd.xmp.types/ixmptype/
 ---
+{{< psd/tize >}}
 ## IXmpType interface
 
-XMP タイプのベース インターフェイス。
+XMP 型の基底インターフェイスです。
 
 ```csharp
 public interface IXmpType
@@ -18,11 +19,11 @@ public interface IXmpType
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

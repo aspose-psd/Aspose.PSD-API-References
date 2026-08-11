@@ -1,14 +1,15 @@
 ---
-title: Class SoLeResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource クラス. PSD ファイル内のスマート オブジェクト レイヤーに関する情報を含む SoLeResource クラスを定義します はAdobe Photoshop 画像内の外部ファイル リンクでスマート オブジェクト レイヤーをサポートするために使用されます
+title: "クラス SoLeResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource クラス。PSD ファイル内のスマートオブジェクトレイヤーに関する情報を含む SoLeResource クラスを定義します。Adobe Photoshop 画像で外部ファイルリンクを持つスマートオブジェクトレイヤーをサポートするために使用されます。"
 type: docs
-weight: 3030
+weight: 3380
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource class
 
-PSD ファイル内のスマート オブジェクト レイヤーに関する情報を含む SoLeResource クラスを定義します。 は、Adobe® Photoshop® 画像内の外部ファイル リンクでスマート オブジェクト レイヤーをサポートするために使用されます。
+SoLeResource クラスを定義し、PSD ファイル内のスマートオブジェクトレイヤーに関する情報を含みます。外部ファイルリンクを伴うスマートオブジェクトレイヤーを Adobe� Photoshop� 画像でサポートするために使用されます。
 
 ```csharp
 public class SoLeResource : SmartObjectResource
@@ -18,72 +19,72 @@ public class SoLeResource : SmartObjectResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [SoLeResource](soleresource/#constructor)() | の新しいインスタンスを初期化します`SoLeResource`class. |
-| [SoLeResource](soleresource/#constructor_1)(Guid, bool, bool) | の新しいインスタンスを初期化します`SoLeResource`class. |
+| [SoLeResource](soleresource/#constructor)() | `SoLeResource` クラスの新しいインスタンスを初期化します。 |
+| [SoLeResource](soleresource/#constructor_1)(Guid, bool, bool) | `SoLeResource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD 画像のスマート オブジェクト レイヤー データのアンチ エイリアス ポリシーを取得または設定します。 |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD 画像に配置されたレイヤーの下部の位置を取得または設定します。 |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD ファイルに配置されたレイヤーの境界を取得または設定します。 |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データの comp 値を取得または設定します。 [スマートオブジェクトのレイヤーカンプ](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | 子ドキュメントの現在選択されているコンプの ID を取得または設定します。何も選択されていない場合は -1 になります。 コンプは、デザイナーが作成できるページ レイアウトのコンポジションです。レイヤーカンプを使用すると、1 つの Adobe® Photoshop® ファイルでレイアウトの複数のバージョン を作成、管理、および表示できます。レイヤーカンプは、レイヤーパネルの状態のスナップショットです。レイヤー構成は 3 種類のレイヤー オプションを保存しますが、 このプロパティは、PSD ファイル内のスマート オブジェクト レイヤーのレイヤー構成選択識別子を取得します. [スマートオブジェクトのレイヤーカンプ](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD 画像のスマート オブジェクト レイヤー データのクロップを取得または設定します。 |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | 継続時間の分母を取得または設定します。 |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD 画像内のスマートオブジェクトレイヤーデータのアンチエイリアスポリシーを取得または設定します。 |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD 画像内の配置レイヤーの下部位置を取得または設定します。 |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD ファイル内の配置レイヤーの境界を取得または設定します。 |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの comp 値を取得または設定します。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | 子ドキュメントの現在選択されている comp の ID を取得または設定します。選択されていない場合は -1 になります。Comp はデザイナーが作成できるページレイアウトの構成です。レイヤーコンプを使用すると、単一の Adobe Photoshop ファイル内でレイアウトの複数バージョンを作成、管理、表示できます。レイヤーコンプはレイヤーパネルの状態のスナップショットです。レイヤーコンプは 3 種類のレイヤーオプションを保存しますが、このプロパティは PSD ファイル内のスマートオブジェクトレイヤーのレイヤーコンプ選択識別子を取得します。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD 画像内のスマートオブジェクトレイヤーデータのクロップを取得または設定します。 |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | 期間の分母を取得または設定します。 |
 | [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | 期間の分子を取得または設定します。 |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データのフレーム カウントを取得または設定します。 |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | フレーム ステップの分母を取得または設定します。 |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | フレーム ステップ分子を取得または設定します。 |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータのフレーム数を取得または設定します。 |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | フレームステップの分母を取得または設定します。 |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | フレームステップの分子を取得または設定します。 |
 | [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | 高さを取得または設定します。 |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD ファイルに配置されたレイヤーの水平メッシュ ポイントを取得または設定します。 |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 水平メッシュ ポイントの計測単位を取得または設定します。 |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | このインスタンス ワープ スタイルがカスタムかどうかを示す値を取得または設定します。 true の場合、メッシュ ポイントが含まれます。 false に設定すると、メッシュ ポイントが消去されます。 |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データの記述子項目を取得または設定します。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/key/) { get; } | 唯一のスマート オブジェクト レイヤー リソース キーを取得します。 |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD ファイルに配置されたレイヤーの左の位置を取得または設定します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | スマート オブジェクト リソースの長さをバイト単位で取得します。 |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データの非アフィン変換行列を取得または設定します。 |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | 子ドキュメントの現在選択されている Comp の元の ID を取得します。何も選択されていない場合は -1 になります。 このプロパティは、PSD ファイル内のスマート オブジェクト レイヤーの元のレイヤー Comp 選択識別子を取得します。 [スマートオブジェクトのレイヤーカンプ](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データのページ番号を取得または設定します。 |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD ファイルに配置されたレイヤーの遠近値を取得または設定します。 |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD ファイルに配置されたレイヤーのパースペクティブその他の値を取得または設定します。 |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD 画像内のこのスマート オブジェクト レイヤー データの一意の識別子を取得または設定します。 |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データのタイプを取得または設定します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | スマート オブジェクト リソースに必要な最小限の psd バージョンを取得します。 0 は制限なしを示します。 |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD ファイルのスマート オブジェクト レイヤー データの解像度を取得または設定します。 |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データの解像度測定単位を取得または設定します。 |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD ファイルに配置されたレイヤーの正しい位置を取得または設定します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | スマート オブジェクト リソースの署名を取得します。 |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD 画像に配置されたレイヤーの最上部の位置を取得または設定します。 |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データの総ページ数を取得または設定します。 |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD ファイル内のスマート オブジェクト レイヤー データの変換行列を取得または設定します。 |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | スマート オブジェクト レイヤー データのグローバル一意識別子を取得または設定します[`SmartObjectResource`](../smartobjectresource/)PSD 画像で. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD ファイルに配置されたレイヤーの U オーダー値を取得または設定します。 |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD 画像に配置されたレイヤーのワープ値を取得または設定します。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD ファイルに配置されたレイヤーのバージョンを取得します。通常は 3. です。 |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD ファイルに配置されたレイヤーの水平メッシュ ポイントを取得または設定します。 |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 垂直メッシュ ポイントの測定単位を取得または設定します。 |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD ファイルに配置されたレイヤーの V オーダー値を取得または設定します。 |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD ファイル内の配置レイヤーの水平メッシュポイントを取得または設定します。 |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 水平メッシュポイントの測定単位を取得または設定します。 |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | このインスタンスのワープスタイルがカスタムかどうかを示す値を取得または設定します。true の場合、メッシュポイントが含まれます。false に設定すると、メッシュポイントが消去されます。 |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの記述子項目を取得または設定します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD ファイル内の配置レイヤーの左位置を取得または設定します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | スマートオブジェクトリソースの長さ（バイト単位）を取得します。 |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの非アフィン変換行列を取得または設定します。 |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | 子ドキュメントの現在選択されている Comp の元の ID を取得します。選択されていない場合は -1 になります。このプロパティは、PSD ファイル内のスマートオブジェクトレイヤーの元のレイヤー Comp 選択識別子を取得します。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータのページ番号を取得または設定します。 |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD ファイル内の配置レイヤーの遠近値を取得または設定します。 |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD ファイル内の配置レイヤーのその他の遠近値を取得または設定します。 |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD 画像内のこのスマートオブジェクトレイヤーデータの一意識別子を取得または設定します。 |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータのタイプを取得または設定します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの解像度を取得または設定します。 |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの解像度測定単位を取得または設定します。 |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD ファイル内の配置レイヤーの右位置を取得または設定します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD 画像内の配置レイヤーの上部位置を取得または設定します。 |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの総ページ数を取得または設定します。 |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD ファイル内のスマートオブジェクトレイヤーデータの変換行列を取得または設定します。 |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | PSD 画像内のスマートオブジェクトレイヤーデータ [`SmartObjectResource`](../smartobjectresource/) のグローバル一意識別子を取得または設定します。 |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | 配置されたレイヤーの PSD ファイルにおける U 順序値を取得または設定します。 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | 配置されたレイヤーの PSD 画像におけるワープ値を取得または設定します。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | 配置されたレイヤーの PSD ファイルのバージョンを取得します（通常は 3）。 |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD ファイル内の配置レイヤーの水平メッシュポイントを取得または設定します。 |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 垂直メッシュポイントの測定単位を取得または設定します。 |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | 配置されたレイヤーの PSD ファイルにおける V 順序値を取得または設定します。 |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | 幅を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | スマート オブジェクト リソースを指定されたストリーム コンテナーに保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | 指定されたストリームコンテナにスマートオブジェクトリソースを保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/) | タイプ ツール情報キー: 'SoLE'. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/) | タイプツール情報キー: 'SoLE'。 |
 
-### 例
+## 例
 
-次のコードは、SoLEResource、SmartObjectResource、および PlacedResource リソースのサポートを示しています。
+以下のコードは SoLEResource、SmartObjectResource、PlacedResource のサポートを示しています。
 
 ```csharp
 [C#]
@@ -169,7 +170,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // この値はリソースでは変更しません
+    // この値はリソース内で変更しません。
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -177,8 +178,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // この値は、PlLdResource でも (UniqueId を指定して) 変更する必要があります
-    // そして、それらのいくつかは、LinkDataSource の下にあるスマート オブジェクトと一致している必要があります
+    // この値は PlLdResource（指定された UniqueId を持つ）でも変更する必要があります。
+    // また、それらの一部は LinkDataSource 内の基になるスマートオブジェクトと一致している必要があります。
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -204,7 +205,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // この一意の ID は、参照があれば変更する必要があります
+    // このユニーク ID は、参照がある場合は変更する必要があります。
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -214,15 +215,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 一部のパラメータには注意してください: 保存された画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+    // いくつかのパラメータに注意してください：保存された画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-    // または、下線付きのスマート オブジェクトをベクター型に変更します
+    // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+    // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+    // このユニーク ID を持つ有効な PlLdResource が必要です。
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -389,7 +391,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [SmartObjectResource](../smartobjectresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

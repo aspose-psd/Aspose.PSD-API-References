@@ -1,14 +1,15 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PSD for .NET API リファレンス
-description: BuildVersionInfo 分野. 商品名.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BuildVersionInfo フィールド。製品のタイトル"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
-商品名.
+製品のタイトルです。
 
 ```csharp
 public static readonly string Product;
@@ -17,7 +18,7 @@ public static readonly string Product;
 ### 関連項目
 
 * class [BuildVersionInfo](../)
-* 名前空間 [Aspose.PSD](../../buildversioninfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

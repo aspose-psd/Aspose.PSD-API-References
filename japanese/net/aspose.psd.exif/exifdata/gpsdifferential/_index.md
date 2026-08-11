@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 差分補正が GPS 受信機に適用されているかどうかを示す GPS 値を取得または設定します
+title: "ExifData.GPSDifferential"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 受信機に差分補正が適用されているかどうかを示す GPS 値を取得または設定します"
 type: docs
 weight: 480
 url: /ja/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
-差分補正が GPS 受信機に適用されているかどうかを示す GPS 値を取得または設定します。
+GPS受信機に差分補正が適用されているかどうかを示すGPS値を取得または設定します。
 
 ```csharp
 public ushort GPSDifferential { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-差分補正が GPS 受信機に適用されているかどうかを示す GPS 値。
+GPS 受信機に差分補正が適用されているかどうかを示す GPS 値です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

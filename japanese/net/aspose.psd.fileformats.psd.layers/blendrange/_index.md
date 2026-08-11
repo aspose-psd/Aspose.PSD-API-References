@@ -1,14 +1,15 @@
 ---
-title: Class BlendRange
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange クラス. ブレンド範囲.
+title: "クラス BlendRange"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange クラス。ブレンド範囲"
 type: docs
-weight: 1890
+weight: 2000
 url: /ja/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
-ブレンド範囲.
+ブレンド範囲です。
 
 ```csharp
 public sealed class BlendRange
@@ -18,18 +19,18 @@ public sealed class BlendRange
 
 | 名前 | 説明 |
 | --- | --- |
-| [BlendRange](blendrange/)() | デフォルトのコンストラクター。 |
+| [BlendRange](blendrange/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | 宛先ブレンド範囲を取得または設定します。 |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | ソース ブレンド範囲を取得または設定します。 |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | 対象のブレンド範囲を取得または設定します。 |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | ソースのブレンド範囲を取得または設定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

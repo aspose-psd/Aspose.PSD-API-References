@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Inequality
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleF 方法. 2 つのRectangleF構造は場所またはサイズが異なります.
+title: "RectangleF.op_Inequality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleF メソッド。2 つの RectangleF 構造体が位置またはサイズで異なるかどうかをテストします。"
 type: docs
 weight: 290
 url: /ja/net/aspose.psd/rectanglef/op_inequality/
 ---
+{{< psd/tize >}}
 ## RectangleF Inequality operator
 
-2 つの[`RectangleF`](../)構造は場所またはサイズが異なります.
+2 つの [`RectangleF`](../) 構造体が位置またはサイズで異なるかどうかをテストします。
 
 ```csharp
 public static bool operator !=(RectangleF left, RectangleF right)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| left | RectangleF | の[`RectangleF`](../)不等式演算子の左側にある構造。 |
-| right | RectangleF | の[`RectangleF`](../)不等式演算子の右側にある構造。 |
+| left | RectangleF | 不等号演算子の左側にある [`RectangleF`](../) 構造体です。 |
+| right | RectangleF | 不等号演算子の右側にある [`RectangleF`](../) 構造体です。 |
 
 ### 戻り値
 
-この演算子は、次のいずれかの場合に true を返します。[`X`](../x/) 、[`Y`](../y/) 、[`Width`](../width/) 、 また[`Height`](../height/)二つの性質[`RectangleF`](../)構造は等しくありません。それ以外の場合は false。
+この演算子は、2 つの [`RectangleF`](../) 構造体の [`X`](../x/) 、[`Y`](../y/) 、[`Width`](../width/) 、または [`Height`](../height/) プロパティのいずれかが等しくない場合に true を返し、そうでなければ false を返します。
 
 ### 関連項目
 
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

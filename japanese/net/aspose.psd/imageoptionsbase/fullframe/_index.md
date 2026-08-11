@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageOptionsBase 財産. フル フレーム かどうかを示す値を取得または設定します
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageOptionsBase プロパティ。フルフレームかどうかを示す値を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-[フル フレーム] かどうかを示す値を取得または設定します。
+フルフレームかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [フルフレーム] の場合;さもないと、`間違い` .
+`true` は [full frame] の場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [ImageOptionsBase](../)
-* 名前空間 [Aspose.PSD](../../imageoptionsbase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

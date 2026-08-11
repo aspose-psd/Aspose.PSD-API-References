@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. PSD ファイルに配置されたレイヤーの変換行列を取得または設定します
+title: "PlacedResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource プロパティ。配置レイヤーの変換行列を取得または設定します（PSD ファイル内）。"
 type: docs
-weight: 170
+weight: 160
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-PSD ファイルに配置されたレイヤーの変換行列を取得または設定します。
+PSD ファイル内の配置レイヤーの変換行列を取得または設定します。
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤーの変換行列.
+配置レイヤーの変換行列。
 
 ### 関連項目
 
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

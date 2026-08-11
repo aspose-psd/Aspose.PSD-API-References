@@ -1,75 +1,76 @@
 ---
-title: ImageAttributes.SetWrapMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. シェイプ全体またはシェイプ境界でテクスチャをタイリングする方法を決定するために使用されるラップ モードを設定しますテクスチャが塗りつぶしている形状よりも小さい場合テクスチャは形状全体にタイル張りされて塗りつぶされます.
+title: "ImageAttributes.SetWrapMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。テクスチャを形状全体または形状境界にタイル配置する方法を決定するラップモードを設定します。テクスチャが対象の形状より小さい場合、テクスチャは形状全体にタイル配置されて埋められます。"
 type: docs
 weight: 210
 url: /ja/net/aspose.psd/imageattributes/setwrapmode/
 ---
+{{< psd/tize >}}
 ## SetWrapMode(WrapMode) {#setwrapmode}
 
-シェイプ全体またはシェイプ境界でテクスチャをタイリングする方法を決定するために使用されるラップ モードを設定します。テクスチャが塗りつぶしている形状よりも小さい場合、テクスチャは形状全体にタイル張りされて塗りつぶされます.
+テクスチャをシェイプ全体またはシェイプの境界でタイル状に配置する方法を決定するために使用されるラップモードを設定します。テクスチャがシェイプより小さい場合、テクスチャはシェイプ全体を埋めるようにタイル状に配置されます。
 
 ```csharp
 public void SetWrapMode(WrapMode mode)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| mode | WrapMode | の要素[`WrapMode`](../../wrapmode/)これは、画像の繰り返しコピーを使用して領域をタイル化する方法を指定します。 |
+| mode | WrapMode | [`WrapMode`](../../wrapmode/) の要素で、画像の繰り返しコピーがエリアにタイル配置される方法を指定します。 |
 
 ### 関連項目
 
 * enum [WrapMode](../../wrapmode/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color) {#setwrapmode_1}
 
-シェイプ全体またはシェイプ境界でテクスチャをタイル化する方法を決定するために使用されるラップ モードと色を設定します。テクスチャが塗りつぶしている形状よりも小さい場合、テクスチャは形状全体にタイル張りされて塗りつぶされます.
+テクスチャをシェイプ全体またはシェイプの境界でタイル状に配置する方法を決定するために使用されるラップモードとカラーを設定します。テクスチャがシェイプより小さい場合、テクスチャはシェイプ全体を埋めるようにタイル状に配置されます。
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| mode | WrapMode | の要素[`WrapMode`](../../wrapmode/)これは、画像の繰り返しコピーを使用して領域をタイル化する方法を指定します。 |
-| color | Color | アン[`ImageAttributes`](../)レンダリングされたイメージの外側のピクセルの色を指定するオブジェクト。この色は、モード パラメータが に設定されている場合に表示されます。Clamp DrawImage に渡されたソースの四角形は、画像自体よりも大きいです。 |
+| mode | WrapMode | [`WrapMode`](../../wrapmode/) の要素で、画像の繰り返しコピーがエリアにタイル配置される方法を指定します。 |
+| color | Color | [`ImageAttributes`](../) オブジェクトで、レンダリングされた画像の外側のピクセルの色を指定します。モードパラメータが Clamp に設定され、DrawImage に渡されるソース矩形が画像自体より大きい場合にこの色が表示されます。 |
 
 ### 関連項目
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color, bool) {#setwrapmode_2}
 
-シェイプ全体またはシェイプ境界でテクスチャをタイル化する方法を決定するために使用されるラップ モードと色を設定します。テクスチャが塗りつぶしている形状よりも小さい場合、テクスチャは形状全体にタイル張りされて塗りつぶされます.
+テクスチャをシェイプ全体またはシェイプの境界でタイル状に配置する方法を決定するために使用されるラップモードとカラーを設定します。テクスチャがシェイプより小さい場合、テクスチャはシェイプ全体を埋めるようにタイル状に配置されます。
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color, bool clamp)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| mode | WrapMode | の要素[`WrapMode`](../../wrapmode/)これは、画像の繰り返しコピーを使用して領域をタイル化する方法を指定します。 |
-| color | Color | レンダリングされたイメージの外側のピクセルの色を指定する色オブジェクト。この色は、モード パラメータが に設定されている場合に表示されます。Clamp DrawImage に渡されたソースの四角形は、画像自体よりも大きいです。 |
-| clamp | Boolean | このパラメータは無効です。 false に設定します。 |
+| mode | WrapMode | [`WrapMode`](../../wrapmode/) の要素で、画像の繰り返しコピーがエリアにタイル配置される方法を指定します。 |
+| 色 | 色 | レンダリングされた画像の外側のピクセルの色を指定するカラーオブジェクトです。モードパラメータが Clamp に設定され、DrawImage に渡されるソース矩形が画像自体より大きい場合にこの色が表示されます。 |
+| クランプ | Boolean | このパラメーターは効果がありません。false に設定してください。 |
 
 ### 関連項目
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

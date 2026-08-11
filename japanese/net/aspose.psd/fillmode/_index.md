@@ -1,14 +1,15 @@
 ---
-title: Enum FillMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FillMode 列挙. 閉じたパスの内部をどのように塗りつぶすかを指定します.
+title: "列挙型 FillMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FillMode 列挙型。閉じたパスの内部がどのように塗りつぶされるかを指定します"
 type: docs
-weight: 4260
+weight: 4730
 url: /ja/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
-閉じたパスの内部をどのように塗りつぶすかを指定します.
+閉じたパスの内部がどのように塗りつぶされるかを指定します。
 
 ```csharp
 public enum FillMode
@@ -16,14 +17,14 @@ public enum FillMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Alternate | `0` | 代替フィル モードを指定します。 |
-| Winding | `1` | ワインディング フィル モードを指定します。 |
+| Alternate | `0` | 代替塗りつぶしモードを指定します。 |
+| Winding | `1` | ワインディング塗りつぶしモードを指定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

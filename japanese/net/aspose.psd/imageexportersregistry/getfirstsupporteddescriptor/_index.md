@@ -1,32 +1,33 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageExportersRegistry 方法. 指定された保存オプションとイメージに適した最初に見つかったサポートされている記述子を取得します
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageExportersRegistry メソッド。指定された保存オプションと画像に適合する最初に見つかったサポートされている記述子を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-指定された保存オプションとイメージに適した最初に見つかったサポートされている記述子を取得します。
+指定された保存オプションと画像に適した最初に見つかったサポートされている記述子を取得します。
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
     ImageOptionsBase options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | Image | エクスポートするイメージ。 |
-| options | ImageOptionsBase | オプション。 |
+| image | Image | エクスポートする画像。 |
+| オプション | ImageOptionsBase | オプションです。 |
 
 ### 戻り値
 
-指定されたイメージおよび保存オプションをサポートするエクスポーター記述子、またはそのような記述子が見つからない場合は null.
+指定された画像と保存オプションをサポートするエクスポーター記述子、または該当する記述子が見つからない場合は null。
 
-### 備考
+## 備考
 
-最初のエクスポーター記述子は、実際には最後に登録されたものになります.
+最初のエクスポーター記述子は実際には最後に登録されたものになります。
 
 ### 関連項目
 
@@ -34,7 +35,7 @@ public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image,
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* 名前空間 [Aspose.PSD](../../imageexportersregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

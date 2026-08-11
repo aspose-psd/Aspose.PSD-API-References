@@ -1,14 +1,15 @@
 ---
-title: RasterImage.ToBitmap
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. ラスター イメージをビットマップに変換します
+title: "RasterImage.ToBitmap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。ラスター画像をビットマップに変換します"
 type: docs
-weight: 580
+weight: 600
 url: /ja/net/aspose.psd/rasterimage/tobitmap/
 ---
+{{< psd/tize >}}
 ## RasterImage.ToBitmap method
 
-ラスター イメージをビットマップに変換します。
+ラスタ画像をビットマップに変換します。
 
 ```csharp
 public virtual Bitmap ToBitmap()
@@ -21,7 +22,7 @@ public virtual Bitmap ToBitmap()
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

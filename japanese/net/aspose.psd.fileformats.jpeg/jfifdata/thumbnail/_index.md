@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Aspose.PSD for .NET API リファレンス
-description: JFIFData 財産. サムネイルを取得または設定します
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JFIFData プロパティ。サムネイルを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
 サムネイルを取得または設定します。
@@ -18,7 +19,7 @@ public RasterImage Thumbnail { get; set; }
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

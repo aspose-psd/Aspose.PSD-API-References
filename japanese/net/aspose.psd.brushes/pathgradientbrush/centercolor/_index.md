@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: PathGradientBrush 財産. パス グラデーションの中心の色を取得または設定します
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PathGradientBrush プロパティ。 パスグラデーションの中心の色を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-パス グラデーションの中心の色を取得または設定します。
+パスグラデーションの中心の色を取得または設定します。
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`Color`](../../../aspose.psd/color/)これは、パス グラデーションの中心の色を表します。
+パスグラデーションの中心の色を表す [`Color`](../../../aspose.psd/color/) です。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

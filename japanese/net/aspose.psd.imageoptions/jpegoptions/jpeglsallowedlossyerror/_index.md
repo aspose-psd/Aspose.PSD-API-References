@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.JpegLsAllowedLossyError
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegOptions 財産. ニア ロスレス コーディングの JPEGLS 差分バウンドを取得または設定します JPEGLS 仕様の NEAR パラメータ.
+title: "JpegOptions.JpegLsAllowedLossyError"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegOptions プロパティ。JPEGLS 仕様の NEAR パラメータに基づく、近似ロスレス符号化用の JPEGLS 差分境界を取得または設定します"
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsAllowedLossyError property
 
-ニア ロスレス コーディングの JPEG-LS 差分バウンドを取得または設定します (JPEG-LS 仕様の NEAR パラメータ).
+ニアロスレス符号化のための JPEG-LS 差分境界 (JPEG-LS 仕様の NEAR パラメータ) を取得または設定します。
 
 ```csharp
 public int JpegLsAllowedLossyError { get; set; }
@@ -17,7 +18,7 @@ public int JpegLsAllowedLossyError { get; set; }
 ### 関連項目
 
 * class [JpegOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

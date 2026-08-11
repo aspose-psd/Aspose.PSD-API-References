@@ -1,14 +1,15 @@
 ---
-title: Class LayerMaskData
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskData クラス. PSD ファイルのレイヤー マスク データに関する情報を含む基本 LayerMaskData クラスを定義します Adobe Photoshop ファイルをプログラムで変更しPSD 形式の編集を自動化するのに役立ちます レイヤーにラスター マスクしかない場合ImageData にはラスターが含まれます mask data bytes. レイヤーにベクター マスクしかない場合ImageData にはベクター マスクのラスター化 キャッシュ されたデータ バイトが含まれますのImageDataバイト長は等しくなければなりません 幅  高さMaskRectangleproperties. チャネルが更新されないためLayerMaskData を削除/追加/更新するだけでは適切な save には不十分であることに注意してくださいただし正しいレンダリングが提供される場合があります. AddLayerMaskそのためにメソッドを使用する必要があります.
+title: "クラス LayerMaskData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerMaskData クラス。PSD ファイル内のレイヤーマスクデータに関する情報を含む基本的な LayerMaskData クラスを定義します。これにより、Adobe Photoshop ファイルをプログラムで変更したり、PSD 形式の編集を自動化したりできます。レイヤーにラスターマスクのみがある場合、ImageData はラスターマスクのデータバイトを含みます。ベクターマスクのみがある場合、ImageData はベクターマスクのラスタライズされたキャッシュデータバイトを含みます。レイヤーとベクターマスクの両方がある場合、ImageData はラスターマスクとラスタライズされたベクターマスクを結合したものを含みます。ImageData のバイト長は MaskRectangle プロパティの Width と Height に等しい必要があります。LayerMaskData を単に削除/追加/更新するだけでは、チャネルが更新されないため正しく保存できませんが、正しいレンダリングは提供できる場合があります。そのためには AddLayerMask メソッドを使用すべきです。"
 type: docs
-weight: 2240
+weight: 2440
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdata/
 ---
+{{< psd/tize >}}
 ## LayerMaskData class
 
-PSD ファイルのレイヤー マスク データに関する情報を含む基本 LayerMaskData クラスを定義します。 Adobe® Photoshop® ファイルをプログラムで変更し、PSD 形式の編集を自動化するのに役立ちます。 レイヤーにラスター マスクしかない場合、ImageData にはラスターが含まれます。 mask data bytes. レイヤーにベクター マスクしかない場合、ImageData にはベクター マスクのラスター化 (キャッシュ) されたデータ バイトが含まれます。の[`ImageData`](./imagedata/)バイト長は等しくなければなりません 幅 * 高さ[`MaskRectangle`](./maskrectangle/)properties. チャネルが更新されないため、LayerMaskData を削除/追加/更新するだけでは、適切な save には不十分であることに注意してください。ただし、正しいレンダリングが提供される場合があります. [`AddLayerMask`](../layer/addlayermask/)そのためにメソッドを使用する必要があります.
+基本的な LayerMaskData クラスを定義し、PSD ファイル内のレイヤーマスクデータに関する情報を含みます。これにより、Adobe® Photoshop® ファイルをプログラムで変更したり、PSD 形式の編集を自動化したりできます。レイヤーにラスターマスクのみがある場合、ImageData はラスターマスクのデータバイトを含みます。ベクターマスクのみがある場合、ImageData はベクターマスクのラスタライズされた（キャッシュされた）データバイトを含みます。レイヤーとベクターマスクの両方がある場合、ImageData はラスターマスクとラスタライズされたベクターマスクを結合したものを含みます。[`ImageData`](./imagedata/) のバイト長は [`MaskRectangle`](./maskrectangle/) プロパティの Width * Height に等しい必要があります。LayerMaskData を単に削除/追加/更新するだけでは、チャネルが更新されないため正しく保存できませんが、正しいレンダリングは提供できる場合があります。そのためには [`AddLayerMask`](../layer/addlayermask/) メソッドを使用すべきです。
 
 ```csharp
 public abstract class LayerMaskData
@@ -18,19 +19,19 @@ public abstract class LayerMaskData
 
 | 名前 | 説明 |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | 最下層のマスク位置を取得または設定します。 |
-| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | レイヤーマスクマスクデータのサイズを取得します. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | 下部レイヤーマスクの位置を取得または設定します。 |
+| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | レイヤーマスクデータのサイズを取得します。 |
 | [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | デフォルトの色を取得または設定します。 |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | レイヤー マスク フラグを取得または設定します。 |
-| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | PSD ファイル内のレイヤー マスク データ (または、ベクター マスクがある場合は結合/最終マスク) を取得または設定します。 |
-| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | 左レイヤー マスクの位置を取得または設定します。 |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | マスクを取得または設定します[`Rectangle`](../../aspose.psd/rectangle/)PSDファイルのレイヤーマスクの. 左、右、上、下のプロパティを取り、作成します[`Rectangle`](../../aspose.psd/rectangle/) |
-| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | 正しいレイヤー マスクの位置を取得または設定します。 |
-| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | 最上層のマスク位置を取得または設定します。 |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | レイヤーマスクのフラグを取得または設定します。 |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | PSD ファイル内のレイヤーマスクデータ（ベクターマスクがある場合は結合/最終マスク）を取得または設定します。 |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | 左側レイヤーマスクの位置を取得または設定します。 |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | PSD ファイル内のレイヤーマスクのマスク [`Rectangle`](../../aspose.psd/rectangle/) を取得または設定します。左、右、上、下のプロパティを受け取り、[`Rectangle`](../../aspose.psd/rectangle/) を作成します。 |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | 右側レイヤーマスクの位置を取得または設定します。 |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | 上部レイヤーマスクの位置を取得または設定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

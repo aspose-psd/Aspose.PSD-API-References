@@ -1,11 +1,12 @@
 ---
-title: LclrResource.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: LclrResource 財産. レイヤーの色を取得または設定します
+title: "LclrResource.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LclrResource プロパティ。レイヤーの色を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
 レイヤーの色を取得または設定します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色.
+色です。
 
-### 例
+## 例
 
-次の例は、Aspose.PSD (シート カラー設定) でシート カラー ハイライトを変更する方法を示しています。
+以下の例は Aspose.PSD でシートカラーのハイライトを変更する方法を示しています（シートカラー設定）。
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SheetColorHighlightEnum Color { get; set; }
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// ファイルでは、レイヤーのハイライトの色はこの順序になっています
+// ファイル内ではレイヤーのハイライト色はこの順序です。
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color は、レイヤを視覚的に強調するために使用されます。 
-// たとえば、PSD のいくつかのレイヤーを更新してから、注目を集めたいレイヤーを色で強調表示できます。
+// レイヤーシートカラーはレイヤーを視覚的にハイライトするために使用されます。
+// 例えば、PSD のいくつかのレイヤーを更新し、注目させたいレイヤーを色でハイライトすることができます。
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -50,7 +51,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // 色を反転する必要があります
+    // 色は逆順にする必要があります。
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl リソースは常に psd ファイル リソース リストに表示されます。
+            // lcrl リソースは常に PSD ファイルのリソースリストに存在します。
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // スタイルシートの色を反転。レイヤーカラーハイライトの設定。
+                // スタイルシートの色を逆転させます。レイヤーのカラー ハイライトを設定します。
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -86,7 +87,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

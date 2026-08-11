@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PerspectiveOther
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPlacedLayerResource 財産. PSD ファイルに配置されたレイヤーのパースペクティブその他の値を取得または設定します
+title: "IPlacedLayerResource.PerspectiveOther"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPlacedLayerResource プロパティ。配置されたレイヤーの他のパースペクティブ値を取得または設定します（PSD ファイル）"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PerspectiveOther property
 
-PSD ファイルに配置されたレイヤーのパースペクティブその他の値を取得または設定します。
+PSD ファイル内の配置レイヤーのその他の遠近値を取得または設定します。
 
 ```csharp
 public double PerspectiveOther { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置したレイヤーのパースその他の値.
+配置されたレイヤーの透視他の値です。
 
 ### 関連項目
 
 * interface [IPlacedLayerResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

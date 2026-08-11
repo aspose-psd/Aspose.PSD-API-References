@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 財産. 生データの読み込みが可能かどうかを示す値を取得します
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage プロパティ。生データのロードが利用可能かどうかを示す値を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-生データの読み込みが可能かどうかを示す値を取得します。
+生データのロードが利用可能かどうかを示す値を取得します。
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`この生データの読み込みが利用可能な場合。さもないと、`間違い` .
+`true` この生データのロードが利用可能な場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

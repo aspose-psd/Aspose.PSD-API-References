@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. この文字セットを指定するバイト値を取得しますFontuses.
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 この Font が使用する文字セットを指定するバイト値を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-この文字セットを指定するバイト値を取得します[`Font`](../)uses.
+この[`Font`](../)が使用する文字セットを指定するバイト値を取得します。
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-この文字セット[`Font`](../)使用します。
+この[`Font`](../)が使用する文字セット。
 
 ### 関連項目
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

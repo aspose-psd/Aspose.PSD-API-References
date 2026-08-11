@@ -1,14 +1,15 @@
 ---
-title: ExifData.ExifData
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData コンストラクタ. の新しいインスタンスを初期化しますExifDataclass.
+title: "ExifData.ExifData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData コンストラクタ。ExifData クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-の新しいインスタンスを初期化します[`ExifData`](../)class.
+[`ExifData`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ExifData()
@@ -17,51 +18,51 @@ public ExifData()
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ExifData`](../)array. からのデータを持つクラス
+配列からのデータを使用して、[`ExifData`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | 一般的なタグと GPS タグを含む EXIF タグの配列。 |
+| exifdata | TiffDataType[] | 共通タグと GPS タグを含む EXIF タグの配列です。 |
 
 ### 関連項目
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`ExifData`](../)array. からのデータを持つクラス
+配列からのデータを使用して、[`ExifData`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| commonTags | TiffDataType[] | 共通タグ。 |
-| exifTags | TiffDataType[] | EXIF タグ。 |
-| gpsTags | TiffDataType[] | GPS タグ。 |
+| commonTags | TiffDataType[] | 共通タグです。 |
+| exifTags | TiffDataType[] | EXIF タグです。 |
+| gpsTags | TiffDataType[] | GPS タグです。 |
 
 ### 関連項目
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

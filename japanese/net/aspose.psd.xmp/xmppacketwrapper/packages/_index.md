@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper 財産. の配列を取得しますXmpPackageXMP. 内
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper プロパティ。XMP 内の XmpPackage 配列を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-の配列を取得します[`XmpPackage`](../../xmppackage/)XMP. 内
+XMP 内の [`XmpPackage`](../../xmppackage/) 配列を取得します。
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-の配列[`XmpPackage`](../../xmppackage/)XMP. 内
+XMP 内の [`XmpPackage`](../../xmppackage/) 配列。
 
 ### 関連項目
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

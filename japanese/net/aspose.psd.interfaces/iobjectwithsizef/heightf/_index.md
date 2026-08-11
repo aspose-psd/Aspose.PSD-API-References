@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: Aspose.PSD for .NET API リファレンス
-description: IObjectWithSizeF 財産. オブジェクトの高さをインチで取得します.
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IObjectWithSizeF プロパティ。オブジェクトの高さ（インチ）を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
-オブジェクトの高さをインチで取得します.
+オブジェクトの高さをインチ単位で取得します。
 
 ```csharp
 public float HeightF { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクトの高さ (インチ単位)。
+オブジェクトの高さ（インチ）。
 
 ### 関連項目
 
 * interface [IObjectWithSizeF](../)
-* 名前空間 [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

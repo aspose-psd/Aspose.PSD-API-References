@@ -1,14 +1,15 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. リンクされたレイヤー マネージャーを取得します
+title: "PsdImage.LinkedLayersManager"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。リンクされたレイヤーマネージャーを取得します"
 type: docs
 weight: 210
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
-リンクされたレイヤー マネージャーを取得します。
+リンクされたレイヤーマネージャーを取得します。
 
 ```csharp
 public LinkedLayersManager LinkedLayersManager { get; }
@@ -18,7 +19,7 @@ public LinkedLayersManager LinkedLayersManager { get; }
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

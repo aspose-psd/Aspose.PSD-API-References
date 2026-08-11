@@ -1,53 +1,54 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle コンストラクタ. の新しいインスタンスを初期化しますRectangle指定された場所とサイズの構造体.
+title: "Rectangle.Rectangle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle コンストラクタ。指定された位置とサイズで Rectangle 構造体の新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/rectangle/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle(int, int, int, int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Rectangle`](../)指定された場所とサイズの構造体.
+指定された位置とサイズで、[`Rectangle`](../) 構造体の新しいインスタンスを初期化します。
 
 ```csharp
 public Rectangle(int x, int y, int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Int32 | 四角形の左上隅の x 座標。 |
-| y | Int32 | 四角形の左上隅の y 座標。 |
-| width | Int32 | 長方形の幅。 |
-| height | Int32 | 長方形の高さ。 |
+| x | Int32 | 矩形の左上隅の x 座標です。 |
+| y | Int32 | 矩形の左上隅の y 座標です。 |
+| width | Int32 | 矩形の幅です。 |
+| height | Int32 | 矩形の高さです。 |
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rectangle(Point, Size) {#constructor}
 
-の新しいインスタンスを初期化します[`Rectangle`](../)指定された場所とサイズの構造体.
+指定された位置とサイズで、[`Rectangle`](../) 構造体の新しいインスタンスを初期化します。
 
 ```csharp
 public Rectangle(Point location, Size size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| location | Point | あ[`Point`](../../point/)これは、長方形領域の左上隅を表します。 |
-| size | Size | あ[`Size`](../../size/)これは、長方形領域の幅と高さを表します。 |
+| location | Point | 矩形領域の左上隅を表す [`Point`](../../point/) です。 |
+| size | Size | 矩形領域の幅と高さを表す [`Size`](../../size/) です。 |
 
 ### 関連項目
 
 * struct [Point](../../point/)
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

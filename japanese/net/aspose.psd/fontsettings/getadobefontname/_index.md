@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD for .NET API リファレンス
-description: FontSettings 方法. フォント ファミリ名から Adobe フォント名を取得します
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FontSettings メソッド。フォントファミリ名から Adobe フォント名を取得します。"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-フォント ファミリ名から Adobe フォント名を取得します。
+フォントファミリ名から Adobe フォント名を取得します。
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontFamilyName | String | フォントファミリ名。 |
+| fontFamilyName | 文字列 | フォントファミリ名。 |
 
 ### 戻り値
 
-フォントファミリ名別のAdobeフォント名。
+フォントファミリ名から Adobe フォント名。
 
-### 例
+## 例
 
-次のコードは、部分スタイルでフォント名を変更する機能を示しています。
+以下のコードは、部分スタイルでフォント名を変更する機能を示しています。
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -80,7 +81,7 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 ### 関連項目
 
 * class [FontSettings](../)
-* 名前空間 [Aspose.PSD](../../fontsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

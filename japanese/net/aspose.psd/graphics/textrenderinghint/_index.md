@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 財産. テキスト レンダリング ヒントを取得または設定します
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics プロパティ。テキストレンダリングヒントを取得または設定します。"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-テキスト レンダリング ヒントを取得または設定します。
+テキストレンダリングヒントを取得または設定します。
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキスト レンダリングのヒント。
+テキストレンダリングヒント。
 
 ### 関連項目
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

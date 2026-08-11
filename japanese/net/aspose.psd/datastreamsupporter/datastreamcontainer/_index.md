@@ -1,28 +1,29 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD for .NET API リファレンス
-description: DataStreamSupporter 財産. オブジェクトのデータ ストリームを取得します
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DataStreamSupporter プロパティ。オブジェクトのデータストリームを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
-オブジェクトのデータ ストリームを取得します。
+オブジェクトのデータストリームを取得します。
 
 ```csharp
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクトのデータ ストリーム。
+オブジェクトのデータストリームです。
 
 ### 関連項目
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* 名前空間 [Aspose.PSD](../../datastreamsupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

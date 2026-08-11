@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.Xmp.Types
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間には基本型 複合型および派生型の 3 つの基本カテゴリで XMP プロパティの値を表すクラスが含まれています
+title: "Aspose.PSD.Xmp.Types"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、XMP プロパティの値を 3 つの基本カテゴリ（基本型、複合型、派生型）で表すクラスが含まれています。"
 type: docs
-weight: 600
+weight: 640
 url: /ja/net/aspose.psd.xmp.types/
 ---
-名前空間には、基本型、 複合型および派生型の 3 つの基本カテゴリで XMP プロパティの値を表すクラスが含まれています。
+{{< psd/tize >}}
+名前空間には、XMP プロパティの値を 3 つの基本カテゴリ（基本型、複合型、派生型）で表すクラスが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [XmpTypeBase](./xmptypebase/) | 基本的な XMP タイプの基本クラスを表します。 |
-## インターフェース
+| [XmpTypeBase](./xmptypebase/) | 基本 XMP 型の基底クラスを表します。 |
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [IXmpType](./ixmptype/) | XMP タイプのベース インターフェイス。 |
+| [IXmpType](./ixmptype/) | XMP 型の基底インターフェイスです。 |
 
 

@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Blue
-second_title: Aspose.PSD for .NET API リファレンス
-description: RgbMixerChannel 財産. 青を取得または設定します
+title: "RgbMixerChannel.Blue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RgbMixerChannel プロパティ。青を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Blue property
 
-青を取得または設定します。
+青色を取得または設定します。
 
 ```csharp
 public short Blue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-青.
+青です。
 
 ### 関連項目
 
 * class [RgbMixerChannel](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

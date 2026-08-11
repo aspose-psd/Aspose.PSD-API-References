@@ -1,32 +1,33 @@
 ---
-title: Size.op_Inequality
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size 方法. 2 つのSize構造が異なります.
+title: "Size.op_Inequality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size メソッド。2 つの Size 構造体が異なるかどうかをテストします。"
 type: docs
 weight: 180
 url: /ja/net/aspose.psd/size/op_inequality/
 ---
+{{< psd/tize >}}
 ## Size Inequality operator
 
-2 つの[`Size`](../)構造が異なります.
+2 つの [`Size`](../) 構造体が異なるかどうかをテストします。
 
 ```csharp
 public static bool operator !=(Size size1, Size size2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size1 | Size | の[`Size`](../)不等式演算子の左側の構造。 |
-| size2 | Size | の[`Size`](../)不等式演算子の右側の構造。 |
+| size1 | Size | 不等号演算子の左側にある [`Size`](../) 構造体です。 |
+| size2 | Size | 不等号演算子の右側にある [`Size`](../) 構造体です。 |
 
 ### 戻り値
 
-真の場合*size1*と*size2*幅または高さが異なります。偽の場合*size1*と*size2*は同じ。
+*size1* と *size2* が幅または高さのいずれかで異なる場合は true、*size1* と *size2* が等しい場合は false。
 
 ### 関連項目
 
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

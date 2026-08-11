@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IRasterImageRawDataLoader インターフェース. ラスター画像生データ ローダー
+title: "インターフェイス IRasterImageRawDataLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IRasterImageRawDataLoader インターフェイス。ラスタ画像の生データローダー。"
 type: docs
-weight: 4580
+weight: 5050
 url: /ja/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
-ラスター画像生データ ローダー。
+ラスタ画像の生データローダー。
 
 ```csharp
 public interface IRasterImageRawDataLoader
@@ -18,8 +19,8 @@ public interface IRasterImageRawDataLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | 生データの読み込みがサポートされているかどうかを示す値を取得します。 |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | 現在の生データ設定を取得します。これらの設定を使用する場合、データは変換されずに読み込まれることに注意してください。 |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | 生データのロードがサポートされているかどうかを示す値を取得します。 |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | 現在の生データ設定を取得します。これらの設定を使用すると、データは変換せずにロードされることに注意してください。 |
 
 ## メソッド
 
@@ -29,7 +30,7 @@ public interface IRasterImageRawDataLoader
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

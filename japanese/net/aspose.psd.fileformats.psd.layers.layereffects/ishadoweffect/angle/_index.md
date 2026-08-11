@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Angle
-second_title: Aspose.PSD for .NET API リファレンス
-description: IShadowEffect 財産. 度単位の角度を取得または設定します.
+title: "IShadowEffect.Angle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IShadowEffect プロパティ。角度を度単位で取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Angle property
 
-度単位の角度を取得または設定します.
+角度（度）を取得または設定します。
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-角度.
+角度です。
 
 ### 関連項目
 
 * interface [IShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TransparencyIndexResource.TransparencyIndexResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransparencyIndexResource コンストラクタ. デフォルトのコンストラクター
+title: "TransparencyIndexResource.TransparencyIndexResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransparencyIndexResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public TransparencyIndexResource()
@@ -17,7 +18,7 @@ public TransparencyIndexResource()
 ### 関連項目
 
 * class [TransparencyIndexResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

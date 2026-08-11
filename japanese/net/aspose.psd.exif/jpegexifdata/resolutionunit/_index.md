@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegExifData 財産. 解像度の単位を取得または設定します
+title: "JpegExifData.ResolutionUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegExifData プロパティ。解像度単位を取得または設定します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
 解像度の単位を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-解像度の単位。
+解像度単位です。
 
 ### 関連項目
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

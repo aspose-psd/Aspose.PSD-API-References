@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. フォント caps.
+title: "ITextStyle.FontCaps"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。フォントキャップス"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-フォント caps.
+フォントの大文字化。
 
 ```csharp
 public FontCaps FontCaps { get; set; }
@@ -18,7 +19,7 @@ public FontCaps FontCaps { get; set; }
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

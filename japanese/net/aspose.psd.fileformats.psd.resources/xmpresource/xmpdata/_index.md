@@ -1,14 +1,15 @@
 ---
-title: XmpResource.XmpData
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpResource 財産. XMP データを取得または設定する container
+title: "XmpResource.XmpData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpResource プロパティ。XMP データ コンテナを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpdata/
 ---
+{{< psd/tize >}}
 ## XmpResource.XmpData property
 
-XMP データを取得または設定する container
+XMP データ コンテナを取得または設定します
 
 ```csharp
 public XmpPacketWrapper XmpData { get; set; }
@@ -18,7 +19,7 @@ public XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [XmpResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

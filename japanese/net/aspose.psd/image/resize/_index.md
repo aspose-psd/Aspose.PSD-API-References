@@ -1,11 +1,12 @@
 ---
-title: Image.Resize
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. 画像のサイズを変更します
+title: "Image.Resize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。画像をリサイズします。"
 type: docs
-weight: 190
+weight: 200
 url: /ja/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 画像のサイズを変更します。
@@ -14,37 +15,37 @@ url: /ja/net/aspose.psd/image/resize/
 public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅. |
-| newHeight | Int32 | 新しい高さ. |
-| resizeType | ResizeType | リサイズタイプ. |
+| newWidth | Int32 | 新しい幅です。 |
+| newHeight | Int32 | 新しい高さです。 |
+| resizeType | ResizeType | リサイズタイプです。 |
 
 ### 関連項目
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int) {#resize}
 
-画像のサイズを変更します。デフォルトLeftTopToLeftTop使用されています.
+画像のサイズを変更します。デフォルトの NearestNeighbourResample が使用されます。
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅. |
-| newHeight | Int32 | 新しい高さ. |
+| newWidth | Int32 | 新しい幅です。 |
+| newHeight | Int32 | 新しい高さです。 |
 
-### 例
+## 例
 
-次の例は、Aspose.PSD で取得した PSD イメージと結果のサイズを変更する方法を示しています。
+以下の例は、PSD 画像をリサイズする方法と Aspose.PSD によって得られる結果を示します。
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -64,8 +65,8 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,17 +78,17 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅。 |
-| newHeight | Int32 | 新しい高さ。 |
-| settings | ImageResizeSettings | リサイズの設定。 |
+| newWidth | Int32 | 新しい幅です。 |
+| newHeight | Int32 | 新しい高さです。 |
+| 設定 | ImageResizeSettings | リサイズ設定です。 |
 
 ### 関連項目
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

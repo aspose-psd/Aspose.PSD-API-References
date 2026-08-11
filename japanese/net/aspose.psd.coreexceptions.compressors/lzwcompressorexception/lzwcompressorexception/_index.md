@@ -1,48 +1,49 @@
 ---
-title: LzwCompressorException.LzwCompressorException
-second_title: Aspose.PSD for .NET API リファレンス
-description: LzwCompressorException コンストラクタ. の新しいインスタンスを初期化しますLzwCompressorExceptionclass.
+title: "LzwCompressorException.LzwCompressorException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LzwCompressorException コンストラクタ。LzwCompressorException クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`LzwCompressorException`](../)class.
+[`LzwCompressorException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LzwCompressorException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [LzwCompressorException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LzwCompressorException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LzwCompressorException`](../)class.
+[`LzwCompressorException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LzwCompressorException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [LzwCompressorException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

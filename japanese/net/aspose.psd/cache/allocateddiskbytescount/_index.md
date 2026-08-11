@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: Cache 財産. 割り当てられたディスクのバイト数を取得します
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Cache プロパティ。割り当てられたディスクバイト数を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-割り当てられたディスクのバイト数を取得します。
+割り当てられたディスクバイト数を取得します。
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-割り当てられたディスクのバイト数。
+割り当てられたディスクバイト数です。
 
 ### 関連項目
 
 * class [Cache](../)
-* 名前空間 [Aspose.PSD](../../cache/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

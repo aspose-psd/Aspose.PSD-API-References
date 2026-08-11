@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Aspose.PSD for .NET API リファレンス
-description: IGradientFillSettings 財産. スケールを取得または設定します
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IGradientFillSettings プロパティ。正規化されたグラデーションスケール（パーセント）を取得または設定します"
 type: docs
-weight: 100
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-スケールを取得または設定します。
+**normalized** グラデーションスケール（パーセンテージ）を取得または設定します。
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スケール.
+スケールです。
 
-### 例
+## 例
 
-次の例は、Scale プロパティを使用して FillLayer をグラデーションでスケーリングする方法を示しています。
+次の例は、Scale プロパティを使用してグラデーション付きの FillLayer をスケーリングする方法を示しています。
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // 塗りつぶしレイヤーを取得
+    // フィルレイヤーを取得する
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,9 +44,9 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // スケール値を更新
+    // スケール値を更新する
     settings.Scale = 200;
-    fillLayer.Update(); // ピクセルデータを更新
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * interface [IGradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

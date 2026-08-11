@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.ValueD
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffSRational 財産. double 値を取得します
+title: "TiffSRational.ValueD"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffSRational プロパティ。double 値を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.tiff/tiffsrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffSRational.ValueD property
 
 double 値を取得します。
@@ -14,14 +15,14 @@ double 値を取得します。
 public double ValueD { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-double 値.
+double 値。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

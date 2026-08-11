@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Bounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: BezierShape 財産. オブジェクトの境界を取得します
+title: "BezierShape.Bounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BezierShape プロパティ。オブジェクトの境界を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
 オブジェクトの境界を取得します。
@@ -14,7 +15,7 @@ url: /ja/net/aspose.psd.shapes/beziershape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 オブジェクトの境界。
 
@@ -22,7 +23,7 @@ public override RectangleF Bounds { get; }
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

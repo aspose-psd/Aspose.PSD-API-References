@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤーのリストで装飾シートの色のハイライトを取得または設定します
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーリスト内の装飾シートカラーのハイライトを取得または設定します"
 type: docs
-weight: 300
+weight: 310
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-レイヤーのリストで装飾シートの色のハイライトを取得または設定します
+レイヤーリスト内の装飾シートカラーのハイライトを取得または設定します
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-シートの色のハイライト.
+シートカラーのハイライト。
 
 ### 関連項目
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

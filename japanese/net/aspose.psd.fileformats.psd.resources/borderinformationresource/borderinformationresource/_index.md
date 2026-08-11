@@ -1,14 +1,15 @@
 ---
-title: BorderInformationResource.BorderInformationResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: BorderInformationResource コンストラクタ. デフォルトのコンストラクター
+title: "BorderInformationResource.BorderInformationResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BorderInformationResource コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/borderinformationresource/borderinformationresource/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public BorderInformationResource()
@@ -17,7 +18,7 @@ public BorderInformationResource()
 ### 関連項目
 
 * class [BorderInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

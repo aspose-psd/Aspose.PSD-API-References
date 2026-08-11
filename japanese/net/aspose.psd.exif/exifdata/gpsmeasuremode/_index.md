@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 測定モードを取得または設定します
+title: "ExifData.GPSMeasureMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 測定モードを取得または設定します"
 type: docs
 weight: 570
 url: /ja/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
 GPS 測定モードを取得または設定します。
@@ -14,14 +15,14 @@ GPS 測定モードを取得または設定します。
 public string GPSMeasureMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GPS 測定モード。
+GPS 測定モードです。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmykBytes
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColorHelper 方法. RGB を CMYK に変換します
+title: "CmykColorHelper.ToCmykBytes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColorHelper メソッド。RGB を CMYK に変換します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd/cmykcolorhelper/tocmykbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykBytes method
 
 RGB を CMYK に変換します。
@@ -14,20 +15,20 @@ RGB を CMYK に変換します。
 public static byte[] ToCmykBytes(int[] argbPixels, int startIndex, int length)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| argbPixels | Int32[] | 32 ビット整数値として表される RGB カラー。 |
-| startIndex | Int32 | RGB カラーの開始インデックス。 |
-| length | Int32 | 変換する RGB ピクセルの数。 |
+| argbPixels | Int32[] | RGB カラーは 32 ビット整数値として表されます。 |
+| startIndex | Int32 | RGB カラーの開始インデックスです。 |
+| 長さ | Int32 | 変換する RGB ピクセルの数です。 |
 
 ### 戻り値
 
-バイト配列として表示される CMYK カラー。
+CMYK カラーはバイト配列として表されます。
 
 ### 関連項目
 
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GlobalLayerMaskInfo.GlobalLayerMaskInfo
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalLayerMaskInfo コンストラクタ. デフォルトのコンストラクター
+title: "GlobalLayerMaskInfo.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalLayerMaskInfo コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public GlobalLayerMaskInfo()
@@ -17,7 +18,7 @@ public GlobalLayerMaskInfo()
 ### 関連項目
 
 * class [GlobalLayerMaskInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

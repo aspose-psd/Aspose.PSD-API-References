@@ -1,14 +1,15 @@
 ---
-title: Class VectorPathRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord クラス. ベクトル パス レコード Class
+title: "クラス VectorPathRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord クラス。Vector Path Record クラスです。"
 type: docs
-weight: 1400
+weight: 1410
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
-ベクトル パス レコード Class
+Vector Path Record クラス
 
 ```csharp
 public abstract class VectorPathRecord
@@ -18,11 +19,11 @@ public abstract class VectorPathRecord
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | 型を取得します. |
+| abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | 型を取得します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

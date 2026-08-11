@@ -1,32 +1,33 @@
 ---
-title: ColorMapExtensions.ToGdiColorMaps
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMapExtensions 方法. はColorMapへの配列ColorMap配列.
+title: "ColorMapExtensions.ToGdiColorMaps"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMapExtensions メソッド。ColorMap 配列を ColorMap 配列に変換します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.extensions/colormapextensions/togdicolormaps/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMaps method
 
-は[`ColorMap`](../../../aspose.psd/colormap/)への配列ColorMap配列.
+[`ColorMap`](../../../aspose.psd/colormap/) 配列を ColorMap 配列に変換します。
 
 ```csharp
 public static ColorMap[] ToGdiColorMaps(ColorMap[] colorMaps)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| colorMaps | ColorMap[] | 変換するカラー マップ。 |
+| colorMaps | ColorMap[] | 変換するカラーマップです。 |
 
 ### 戻り値
 
-変換されたColorMap配列.
+変換された ColorMap 配列です。
 
 ### 関連項目
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../colormapextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

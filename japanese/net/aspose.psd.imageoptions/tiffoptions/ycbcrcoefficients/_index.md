@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. YCbCrCoefficients. を取得または設定します
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。YCbCrCoefficients を取得または設定します"
 type: docs
-weight: 660
+weight: 670
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-YCbCrCoefficients. を取得または設定します
+YCbCrCoefficients を取得または設定します。
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-YCbCrCoefficients.
+YCbCrCoefficients。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 有理係数値の無効なカウント。 3. に等しい必要があります |
-| ArgumentNullException | 価値 |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 有理係数値の数が無効です。3 と等しい必要があります。 |
+| ArgumentNullException | 値 |
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

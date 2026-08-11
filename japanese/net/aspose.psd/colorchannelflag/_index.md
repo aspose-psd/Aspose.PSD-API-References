@@ -1,14 +1,15 @@
 ---
-title: Enum ColorChannelFlag
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ColorChannelFlag 列挙. CMYK シアンマゼンタイエローブラック 色空間の個々のチャネルを指定しますこの列挙はSetOutputChannel メソッドによって使用されます
+title: "列挙体 ColorChannelFlag"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ColorChannelFlag 列挙体。CMYKシアン・マゼンタ・イエロー・ブラック色空間の個々のチャンネルを指定します。この列挙体は SetOutputChannel メソッドで使用されます。"
 type: docs
 weight: 320
 url: /ja/net/aspose.psd/colorchannelflag/
 ---
+{{< psd/tize >}}
 ## ColorChannelFlag enumeration
 
-CMYK (シアン、マゼンタ、イエロー、ブラック) 色空間の個々のチャネルを指定します。この列挙は、SetOutputChannel メソッドによって使用されます。
+CMYK（シアン、マゼンタ、イエロー、ブラック）カラースペースの個々のチャンネルを指定します。この列挙は SetOutputChannel メソッドで使用されます。
 
 ```csharp
 public enum ColorChannelFlag
@@ -16,17 +17,17 @@ public enum ColorChannelFlag
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| ColorChannelC | `0` | シアン カラー チャネル。 |
-| ColorChannelM | `1` | マゼンタ カラー チャネル。 |
-| ColorChannelY | `2` | 黄色のチャネル。 |
-| ColorChannelK | `3` | 黒色チャンネル。 |
-| ColorChannelLast | `4` | 最後に選択したチャンネルを使用する必要があります. |
+| ColorChannelC | `0` | シアン カラーチャンネル。 |
+| ColorChannelM | `1` | マゼンタ カラーチャンネル。 |
+| ColorChannelY | `2` | イエロー カラーチャンネル。 |
+| ColorChannelK | `3` | ブラック カラーチャンネル。 |
+| ColorChannelLast | `4` | 最後に選択されたチャンネルが使用されます。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

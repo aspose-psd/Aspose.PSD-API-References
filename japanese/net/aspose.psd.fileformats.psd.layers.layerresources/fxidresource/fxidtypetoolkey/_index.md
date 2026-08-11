@@ -1,14 +1,15 @@
 ---
-title: FXidResource.FXidTypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: FXidResource 分野. タイプ ツール情報キー FXid.
+title: "FXidResource.FXidTypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FXidResource フィールド。タイプツール情報キー FXid"
 type: docs
-weight: 100
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/
 ---
+{{< psd/tize >}}
 ## FXidResource.FXidTypeToolKey field
 
-タイプ ツール情報キー FXid.
+タイプツール情報キー FXid。
 
 ```csharp
 public const int FXidTypeToolKey;
@@ -17,7 +18,7 @@ public const int FXidTypeToolKey;
 ### 関連項目
 
 * class [FXidResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

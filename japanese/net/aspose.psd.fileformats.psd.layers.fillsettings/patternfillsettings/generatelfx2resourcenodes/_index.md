@@ -1,33 +1,34 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD for .NET API リファレンス
-description: PatternFillSettings 方法. LFX2 リソース ノードを生成します
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PatternFillSettings メソッド。LFX2 リソース ノードを生成します"
 type: docs
-weight: 140
+weight: 160
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
-LFX2 リソース ノードを生成します。
+LFX2 リソースノードを生成します。
 
 ```csharp
 public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string pointType, Color color, 
     string patternName, string identifier, double scale, bool linked, PointF offset)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pointType | String | ポイントのタイプ。 |
-| color | Color | 色。 |
-| patternName | String | パターンの名前。 |
-| identifier | String | 識別子。 |
-| scale | Double | スケール。 |
-| linked | Boolean | に設定した場合`真実` [リンク]。 |
+| pointType | 文字列 | ポイントのタイプ。 |
+| 色 | 色 | 色です。 |
+| patternName | 文字列 | パターンの名前。 |
+| identifier | 文字列 | 識別子。 |
+| scale | Double | スケールです。 |
+| linked | Boolean | 設定が `true` の場合 [linked]。 |
 | offset | PointF | オフセット。 |
 
 ### 戻り値
 
-一覧[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) のリスト
 
 ### 関連項目
 
@@ -35,7 +36,7 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

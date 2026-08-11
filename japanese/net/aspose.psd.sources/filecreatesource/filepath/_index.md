@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD for .NET API リファレンス
-description: FileCreateSource 財産. 作成するファイル パスを取得します
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FileCreateSource プロパティ。作成するファイルのパスを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
-作成するファイル パスを取得します。
+作成するファイルのパスを取得します。
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-作成するファイル パス。
+作成するファイルのパスです。
 
 ### 関連項目
 
 * class [FileCreateSource](../)
-* 名前空間 [Aspose.PSD.Sources](../../filecreatesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

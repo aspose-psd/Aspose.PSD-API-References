@@ -1,14 +1,15 @@
 ---
-title: Point.X
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 財産. この x 座標を取得または設定しますPoint .
+title: "Point.X"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point プロパティ。この Point の x 座標を取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-この x 座標を取得または設定します[`Point`](../) .
+この [`Point`](../) の x 座標を取得または設定します。
 
 ```csharp
 public int X { get; set; }
@@ -17,7 +18,7 @@ public int X { get; set; }
 ### 関連項目
 
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

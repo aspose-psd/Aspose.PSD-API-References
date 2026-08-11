@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTime
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. DateTime タグの秒の端数を取得または設定します
+title: "ExifData.SubsecTime"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。DateTime タグの秒以下の小数部分を取得または設定します"
 type: docs
 weight: 1030
 url: /ja/net/aspose.psd.exif/exifdata/subsectime/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTime property
 
-DateTime タグの秒の端数を取得または設定します。
+DateTime タグの秒以下の小数部を取得または設定します。
 
 ```csharp
 public string SubsecTime { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-DateTime タグの秒の端数。
+DateTime タグの秒以下の小数部分。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IImageDescriptor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IImageDescriptor インターフェース. イメージ記述子他のすべてのイメージ記述子タイプの基本プロパティとメソッドが含まれています.
+title: "インターフェイス IImageDescriptor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IImageDescriptor インターフェイス。画像記述子です。すべての他の画像記述子タイプの基本プロパティとメソッドを含みます。"
 type: docs
-weight: 4420
+weight: 4890
 url: /ja/net/aspose.psd/iimagedescriptor/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor interface
 
-イメージ記述子。他のすべてのイメージ記述子タイプの基本プロパティとメソッドが含まれています.
+画像ディスクリプタです。すべての他の画像ディスクリプタタイプの基本プロパティとメソッドを含みます。
 
 ```csharp
 public interface IImageDescriptor
@@ -22,7 +23,7 @@ public interface IImageDescriptor
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 方法. 画像を回転反転または回転して反転します
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage メソッド。画像を回転・反転、または回転と反転を行います"
 type: docs
-weight: 160
+weight: 190
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
-画像を回転、反転、または回転して反転します。
+画像を回転、フリップ、または回転とフリップを行います。
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | 回転フリップのタイプ。 |
+| rotateFlipType | RotateFlipType | rotate flip の型。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | NotImplementedException | 未実装 |
 
@@ -28,7 +29,7 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

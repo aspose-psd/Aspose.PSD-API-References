@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.PSD for .NET API リファレンス
-description: FileStreamContainer 財産. ストリームが明示的に作成されたかどうかを示す値を取得します
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FileStreamContainer プロパティ。ストリームが明示的に作成されたかどうかを示す値を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
 ストリームが明示的に作成されたかどうかを示す値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/filestreamcontainer/iscreated/
 public bool IsCreated { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ストリームが明示的に作成された場合。さもないと、`間違い` .
+`true` はストリームが明示的に作成された場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [FileStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../filestreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

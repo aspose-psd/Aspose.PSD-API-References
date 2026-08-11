@@ -1,14 +1,15 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PSD for .NET API リファレンス
-description: Metered 方法. 消費ファイルサイズを取得
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Metered メソッド。消費ファイルサイズを取得します"
 type: docs
-weight: 50
+weight: 60
 url: /ja/net/aspose.psd/metered/getconsumptionquantity/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionQuantity method
 
-消費ファイルサイズを取得
+消費ファイルサイズを取得します
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -21,7 +22,7 @@ public static decimal GetConsumptionQuantity()
 ### 関連項目
 
 * class [Metered](../)
-* 名前空間 [Aspose.PSD](../../metered/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.ThumbnailArgb32Data
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 財産. 32 ビット ARGB サムネイル データを取得または設定します
+title: "ThumbnailResource.ThumbnailArgb32Data"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource プロパティ。32 ビット ARGB サムネイルデータを取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailArgb32Data property
 
-32 ビット ARGB サムネイル データを取得または設定します。
+32 ビット ARGB サムネイルデータを取得または設定します。
 
 ```csharp
 public int[] ThumbnailArgb32Data { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-32 ビット ARGB サムネイル データ。
+32 ビット ARGB サムネイルデータです。
 
 ### 関連項目
 
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

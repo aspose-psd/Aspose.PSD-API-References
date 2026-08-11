@@ -1,11 +1,12 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 方法. マスクを現在のレイヤーに追加します
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer メソッド。現在のレイヤーにマスクを追加します"
 type: docs
-weight: 330
+weight: 340
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
 マスクを現在のレイヤーに追加します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 public void AddLayerMask(LayerMaskData layerMask)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| layerMask | LayerMaskData | レイヤーマスク。 |
+| layerMask | LayerMaskData | レイヤーマスクです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 完全なレイヤー マスクの設定はまだサポートされていません。LayerMaskDataShort を使用してください。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | フルレイヤーマスクはまだ設定に対応していません。代わりに LayerMaskDataShort を使用してください |
 
 ### 関連項目
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

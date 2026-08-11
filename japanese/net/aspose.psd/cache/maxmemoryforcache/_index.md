@@ -1,31 +1,32 @@
 ---
-title: Cache.MaxMemoryForCache
-second_title: Aspose.PSD for .NET API リファレンス
-description: Cache 財産. メモリ内のキャッシュに使用できる最大メモリを取得または設定します指定された値はメガバイト count. です
+title: "Cache.MaxMemoryForCache"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Cache プロパティ。キャッシュのメモリ内で利用可能な最大メモリを取得または設定します。指定された値はメガバイト数です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/cache/maxmemoryforcache/
 ---
+{{< psd/tize >}}
 ## Cache.MaxMemoryForCache property
 
-メモリ内のキャッシュに使用できる最大メモリを取得または設定します。指定された値は、メガバイト count. です。
+キャッシュ用の最大利用可能メモリ容量を取得または設定します。指定された値はメガバイト数です。
 
 ```csharp
 public static int MaxMemoryForCache { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-キャッシュの最大メモリ。
+キャッシュの最大メモリです。
 
-### 備考
+## 備考
 
-0 の値は、使用可能なすべてのメモリを消費し、上限として機能しません。
+0 の値は利用可能なすべてのメモリを消費し、上限なしとして機能します。
 
 ### 関連項目
 
 * class [Cache](../)
-* 名前空間 [Aspose.PSD](../../cache/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

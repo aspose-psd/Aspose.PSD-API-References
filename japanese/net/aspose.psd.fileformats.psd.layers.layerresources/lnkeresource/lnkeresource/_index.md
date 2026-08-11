@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LnkeResource コンストラクタ. の新しいインスタンスを初期化しますLnkeResourceclass.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LnkeResource コンストラクタ。LnkeResource クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-の新しいインスタンスを初期化します[`LnkeResource`](../)class.
+[`LnkeResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LnkeResource()
@@ -17,28 +18,28 @@ public LnkeResource()
 ### 関連項目
 
 * class [LnkeResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LnkeResource`](../)class.
+[`LnkeResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| dataSources | LinkDataSource[] | データ ソース。 |
+| dataSources | LinkDataSource[] | データソースです。 |
 
 ### 関連項目
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

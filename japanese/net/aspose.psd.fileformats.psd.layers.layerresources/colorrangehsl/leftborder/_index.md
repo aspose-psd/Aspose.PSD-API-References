@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorRangeHsl 財産. 左の境界線を取得または設定します
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorRangeHsl プロパティ。左境界を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-左の境界線を取得または設定します。
+左境界を取得または設定します。
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-左ボーダー.
+左境界です。
 
 ### 関連項目
 
 * class [ColorRangeHsl](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

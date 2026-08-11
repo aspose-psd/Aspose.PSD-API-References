@@ -1,40 +1,41 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 画層グループを追加します
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。レイヤー グループを追加します"
 type: docs
-weight: 380
+weight: 400
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
-画層グループを追加します。
+レイヤー グループを追加します。
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| groupName | String | グループの名前。 |
-| index | Int32 | 後に挿入するレイヤーのインデックス。 |
-| startBehaviour | Boolean | に設定した場合`真実` [開始動作] グループは起動時に開いた状態になり、それ以外の場合は最小化された状態になります。 |
+| groupName | 文字列 | グループの名前です。 |
+| インデックス | Int32 | 挿入後のレイヤーのインデックスです。 |
+| startBehaviour | Boolean | `true` に設定された場合、[start behaviour] は起動時にグループが開いた状態になります。設定されていない場合は最小化された状態になります。 |
 
 ### 戻り値
 
-オープニンググループ layer
+グループレイヤーを開く
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | インデックスはレイヤー数の境界内にある必要があります |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | インデックスはレイヤー数の範囲内である必要があります |
 
 ### 関連項目
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

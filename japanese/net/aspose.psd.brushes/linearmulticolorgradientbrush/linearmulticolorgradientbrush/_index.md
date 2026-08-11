@@ -1,14 +1,15 @@
 ---
-title: LinearMulticolorGradientBrush.LinearMulticolorGradientBrush
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinearMulticolorGradientBrush コンストラクタ. の新しいインスタンスを初期化しますLinearMulticolorGradientBrushクラスのデフォルト パラメータ. 開始色は黒終了色は白角度は 45 度四角形は 00 に位置しサイズは 11.
+title: "LinearMulticolorGradientBrush.LinearMulticolorGradientBrush"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinearMulticolorGradientBrush コンストラクタ。LinearMulticolorGradientBrush クラスの新しいインスタンスをデフォルトパラメータで初期化します。開始色は黒、終了色は白、角度は 45 度、矩形は (0,0) にサイズ (1,1) で配置されます"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.brushes/linearmulticolorgradientbrush/linearmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush() {#constructor}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)クラスのデフォルト パラメータ. 開始色は黒、終了色は白、角度は 45 度、四角形は (0,0) に位置し、サイズは (1,1).
+デフォルトパラメータで [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。開始色は黒、終了色は白、角度は 45 度、矩形は (0,0) にサイズ (1,1) で配置されます。
 
 ```csharp
 public LinearMulticolorGradientBrush()
@@ -17,141 +18,141 @@ public LinearMulticolorGradientBrush()
 ### 関連項目
 
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Point, Point) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)指定されたポイントを持つクラス.
+指定されたポイントで [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LinearMulticolorGradientBrush(Point point1, Point point2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point1 | Point | あ[`Point`](../../../aspose.psd/point/)線形グラデーションの開始点を表す構造体。 |
-| point2 | Point | あ[`Point`](../../../aspose.psd/point/)線形グラデーションの終点を表す構造体。 |
+| point1 | Point | 線形グラデーションの開始点を表す [`Point`](../../../aspose.psd/point/) 構造体です。 |
+| point2 | Point | 線形グラデーションの終了点を表す [`Point`](../../../aspose.psd/point/) 構造体です。 |
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(PointF, PointF) {#constructor_2}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)指定されたポイントを持つクラス.
+指定されたポイントで [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LinearMulticolorGradientBrush(PointF point1, PointF point2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point1 | PointF | あ[`PointF`](../../../aspose.psd/pointf/)線形グラデーションの開始点を表す構造体。 |
-| point2 | PointF | あ[`PointF`](../../../aspose.psd/pointf/)線形グラデーションの終点を表す構造体。 |
+| point1 | PointF | 線形グラデーションの開始点を表す [`PointF`](../../../aspose.psd/pointf/) 構造体です。 |
+| point2 | PointF | 線形グラデーションの終了点を表す [`PointF`](../../../aspose.psd/pointf/) 構造体です。 |
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float) {#constructor_3}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)長方形と方向角に基づくクラス.
+矩形と向き角に基づいて [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | あ[`RectangleF`](../../../aspose.psd/rectanglef/)線形グラデーションの境界を指定する構造体。 |
-| angle | Single | グラデーションの方向線の角度 (x 軸から時計回りに度単位で測定)。 |
+| rect | Rectangle | 線形グラデーションの境界を指定する [`RectangleF`](../../../aspose.psd/rectanglef/) 構造体です。 |
+| 角度 | シングル | 勾配の向き線の角度（x 軸から時計回りに測定した度数）です。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float) {#constructor_5}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)長方形と方向角に基づくクラス.
+矩形と向き角に基づいて [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | あ[`RectangleF`](../../../aspose.psd/rectanglef/)線形グラデーションの境界を指定する構造体。 |
-| angle | Single | グラデーションの方向線の角度 (x 軸から時計回りに度単位で測定)。 |
+| rect | RectangleF | 線形グラデーションの境界を指定する [`RectangleF`](../../../aspose.psd/rectanglef/) 構造体です。 |
+| 角度 | シングル | 勾配の向き線の角度（x 軸から時計回りに測定した度数）です。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float, bool) {#constructor_4}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)長方形と方向角に基づくクラス.
+矩形と向き角に基づいて [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleScalable)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | あ[`RectangleF`](../../../aspose.psd/rectanglef/)線形グラデーションの境界を指定する構造体。 |
-| angle | Single | グラデーションの方向線の角度 (x 軸から時計回りに度単位で測定)。 |
-| isAngleScalable | Boolean | に設定した場合`真実`これで変身中に角度が変わる[`LinearMulticolorGradientBrush`](../). |
+| rect | Rectangle | 線形グラデーションの境界を指定する [`RectangleF`](../../../aspose.psd/rectanglef/) 構造体です。 |
+| 角度 | シングル | 勾配の向き線の角度（x 軸から時計回りに測定した度数）です。 |
+| isAngleScalable | Boolean | `true` に設定すると、この [`LinearMulticolorGradientBrush`](../) で変換中に角度が変更されます。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float, bool) {#constructor_6}
 
-の新しいインスタンスを初期化します[`LinearMulticolorGradientBrush`](../)長方形と方向角に基づくクラス.
+矩形と向き角に基づいて [`LinearMulticolorGradientBrush`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleScalable)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | あ[`RectangleF`](../../../aspose.psd/rectanglef/)線形グラデーションの境界を指定する構造体。 |
-| angle | Single | グラデーションの方向線の角度 (x 軸から時計回りに度単位で測定)。 |
-| isAngleScalable | Boolean | に設定した場合`真実`これで変身中に角度が変わる[`LinearMulticolorGradientBrush`](../). |
+| rect | RectangleF | 線形グラデーションの境界を指定する [`RectangleF`](../../../aspose.psd/rectanglef/) 構造体です。 |
+| 角度 | シングル | 勾配の向き線の角度（x 軸から時計回りに測定した度数）です。 |
+| isAngleScalable | Boolean | `true` に設定すると、この [`LinearMulticolorGradientBrush`](../) で変換中に角度が変更されます。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

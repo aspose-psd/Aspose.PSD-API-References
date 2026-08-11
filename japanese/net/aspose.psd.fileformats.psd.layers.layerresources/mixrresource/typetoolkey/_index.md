@@ -1,14 +1,15 @@
 ---
-title: MixrResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: MixrResource 分野. タイプ ツール情報キー
+title: "MixrResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MixrResource フィールド。タイプツール情報キー"
 type: docs
-weight: 90
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MixrResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [MixrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

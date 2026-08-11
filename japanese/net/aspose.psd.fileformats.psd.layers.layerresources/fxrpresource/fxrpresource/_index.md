@@ -1,35 +1,36 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: FxrpResource コンストラクタ. の新しいインスタンスを初期化しますFxrpResourceclass.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FxrpResource コンストラクタ。FxrpResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-の新しいインスタンスを初期化します[`FxrpResource`](../)class.
+[`FxrpResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Double | 基準点の x 座標 |
-| y | Double | 基準点の y 座標 |
+| x | Double | 参照点の x 座標 |
+| y | Double | 参照点の y 座標 |
 
 ### 関連項目
 
 * class [FxrpResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-の新しいインスタンスを初期化します[`FxrpResource`](../)class.
+[`FxrpResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FxrpResource()
@@ -38,33 +39,33 @@ public FxrpResource()
 ### 関連項目
 
 * class [FxrpResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`FxrpResource`](../) class. カスタムまたは不明な値を使用
+`[`FxrpResource`](../)` クラスの新しいインスタンスを初期化します。カスタムまたは不明な値で
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソース データ。 |
+| データ | Byte[] | リソース データ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Fxrp リソース値が無効です |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な Fxrp Resource 値 |
 
 ### 関連項目
 
 * class [FxrpResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

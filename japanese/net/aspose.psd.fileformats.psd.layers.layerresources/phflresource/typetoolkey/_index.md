@@ -1,14 +1,15 @@
 ---
-title: PhflResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhflResource 分野. タイプ ツール情報キー
+title: "PhflResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhflResource フィールド。タイプツール情報キーです"
 type: docs
-weight: 80
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PhflResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [PhflResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

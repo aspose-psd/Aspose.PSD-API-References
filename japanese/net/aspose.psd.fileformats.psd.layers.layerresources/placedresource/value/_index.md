@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Value
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. PSD 画像に配置されたレイヤーのワープ値を取得または設定します
+title: "PlacedResource.Value"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource プロパティ。PSD 画像内の配置レイヤーのワープ値を取得または設定します"
 type: docs
-weight: 200
+weight: 190
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Value property
 
-PSD 画像に配置されたレイヤーのワープ値を取得または設定します。
+配置されたレイヤーの PSD 画像におけるワープ値を取得または設定します。
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置したレイヤーのワープ値.
+配置レイヤーのワープ値です。
 
 ### 関連項目
 
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

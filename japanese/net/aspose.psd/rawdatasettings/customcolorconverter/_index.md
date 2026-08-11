@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Aspose.PSD for .NET API リファレンス
-description: RawDataSettings 財産. カスタム カラー コンバーターを取得または設定します
+title: "RawDataSettings.CustomColorConverter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RawDataSettings プロパティ。カスタムカラーコンバータを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/rawdatasettings/customcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.CustomColorConverter property
 
-カスタム カラー コンバーターを取得または設定します
+カスタムカラーコンバータを取得または設定します
 
 ```csharp
 public IColorConverter CustomColorConverter { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カスタム カラー コンバーター
+カスタムカラーコンバータです。
 
 ### 関連項目
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* 名前空間 [Aspose.PSD](../../rawdatasettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

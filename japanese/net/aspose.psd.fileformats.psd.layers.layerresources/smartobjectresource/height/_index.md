@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. 高さを取得または設定します
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。高さを取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
 高さを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public double Height { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-高さ.
+高さです。
 
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class FileFormatExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.FileFormatExtensions クラス. を含むFileFormat拡張メソッド.
+title: "クラス FileFormatExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.FileFormatExtensions クラス。FileFormat の拡張メソッドを含みます。"
 type: docs
-weight: 1080
+weight: 1090
 url: /ja/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-を含む[`FileFormat`](../../aspose.psd/fileformat/)拡張メソッド.
+[`FileFormat`](../../aspose.psd/fileformat/) の拡張メソッドを含みます。
 
 ```csharp
 public static class FileFormatExtensions
@@ -18,11 +19,11 @@ public static class FileFormatExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | 単一のファイル形式が定義されているかどうかを決定します. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | 単一のファイル形式が定義されているかどうかを判断します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

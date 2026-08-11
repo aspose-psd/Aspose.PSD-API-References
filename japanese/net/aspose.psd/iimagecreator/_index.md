@@ -1,14 +1,15 @@
 ---
-title: Interface IImageCreator
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IImageCreator インターフェース. 画像作成者.
+title: "インターフェイス IImageCreator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IImageCreator インターフェイス。画像クリエイターです。"
 type: docs
-weight: 4400
+weight: 4870
 url: /ja/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
-画像作成者.
+画像クリエイター。
 
 ```csharp
 public interface IImageCreator
@@ -18,11 +19,11 @@ public interface IImageCreator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | で新しいイメージ インスタンスを作成します*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | *imageOptions* を使用して新しい画像インスタンスを作成します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BezierShape.GetBounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: BezierShape 方法. オブジェクトの境界を取得します
+title: "BezierShape.GetBounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BezierShape メソッド。オブジェクトの境界を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.shapes/beziershape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 オブジェクトの境界を取得します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.shapes/beziershape/getbounds/
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | 境界が計算される前に適用する行列。 |
+| matrix | Matrix | 境界が計算される前に適用する行列です。 |
 
 ### 戻り値
 
-推定されたオブジェクトの境界。
+推定されたオブジェクトの境界です。
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,14 +41,14 @@ public override RectangleF GetBounds(Matrix matrix)
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | 境界が計算される前に適用する行列。 |
-| pen | Pen | オブジェクトに使用するペン。これは、オブジェクトの境界サイズに影響を与える可能性があります。 |
+| matrix | Matrix | 境界が計算される前に適用する行列です。 |
+| pen | Pen | オブジェクトに使用するペンです。これによりオブジェクトの境界サイズに影響を与える可能性があります。 |
 
 ### 戻り値
 
-推定されたオブジェクトの境界。
+推定されたオブジェクトの境界です。
 
 ### 関連項目
 
@@ -55,7 +56,7 @@ public override RectangleF GetBounds(Matrix matrix, Pen pen)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

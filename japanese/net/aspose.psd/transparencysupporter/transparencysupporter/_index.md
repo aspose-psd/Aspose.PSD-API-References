@@ -1,14 +1,15 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransparencySupporter コンストラクタ. デフォルトのコンストラクター
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransparencySupporter コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public TransparencySupporter()
@@ -17,7 +18,7 @@ public TransparencySupporter()
 ### 関連項目
 
 * class [TransparencySupporter](../)
-* 名前空間 [Aspose.PSD](../../transparencysupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

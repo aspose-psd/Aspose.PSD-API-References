@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpHeaderPi 財産. ヘッダー GUID を表します
+title: "XmpHeaderPi.Guid"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpHeaderPi プロパティ。ヘッダー Guid を表します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
-ヘッダー GUID を表します。
+ヘッダー Guid を表します。
 
 ```csharp
 public string Guid { get; set; }
 ```
 
-### 備考
+## 備考
 
-ヘッダー PI のテキストには GUID が含まれているため、データ ストリームに誤って表示される可能性は低くなります。
+ヘッダー PI のテキストには GUID が含まれており、データストリームで偶然現れる可能性が低くなります。
 
 ### 関連項目
 
 * class [XmpHeaderPi](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

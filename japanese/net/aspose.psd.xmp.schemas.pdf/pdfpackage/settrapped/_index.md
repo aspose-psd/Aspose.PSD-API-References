@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD for .NET API リファレンス
-description: PdfPackage 方法. トラップを設定します
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PdfPackage メソッド。トラップ状態を設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-トラップを設定します。
+トラップ情報を設定します。
 
 ```csharp
 public void SetTrapped(bool isTrapped)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| isTrapped | Boolean | に設定した場合`真実`ドキュメントがトラップされました。 |
+| isTrapped | Boolean | `true` に設定すると、ドキュメントはトラップされています。 |
 
 ### 関連項目
 
 * class [PdfPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CgEdResource.CgEdResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: CgEdResource コンストラクタ. デフォルトのコンストラクター
+title: "CgEdResource.CgEdResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CgEdResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public CgEdResource()
@@ -17,7 +18,7 @@ public CgEdResource()
 ### 関連項目
 
 * class [CgEdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

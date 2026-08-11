@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: Aspose.PSD for .NET API リファレンス
-description: CustomLineCap 財産. を取得または設定しますLineJoinこれを構成する行を決定する列挙CustomLineCapオブジェクトが結合されています.
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CustomLineCap プロパティ。この CustomLineCap オブジェクトを構成する線がどのように結合されるかを決定する LineJoin 列挙体を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-を取得または設定します[`LineJoin`](../../linejoin/)これを構成する行を決定する列挙[`CustomLineCap`](../)オブジェクトが結合されています.
+この [`CustomLineCap`](../) オブジェクトを構成する線がどのように結合されるかを決定する [`LineJoin`](../../linejoin/) 列挙体を取得または設定します。
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-の[`LineJoin`](../../linejoin/)列挙これ[`CustomLineCap`](../)オブジェクトは線を結合するために使用します。
+この [`CustomLineCap`](../) オブジェクトが線を結合するために使用する [`LineJoin`](../../linejoin/) 列挙体。
 
 ### 関連項目
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* 名前空間 [Aspose.PSD](../../customlinecap/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

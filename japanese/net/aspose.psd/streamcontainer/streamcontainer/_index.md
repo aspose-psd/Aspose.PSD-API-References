@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamContainer コンストラクタ. の新しいインスタンスを初期化しますStreamContainerclass.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamContainer コンストラクタ。StreamContainer クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-の新しいインスタンスを初期化します[`StreamContainer`](../)class.
+[`StreamContainer`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | ストリーム。 |
+| ストリーム | ストリーム | ストリームです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`StreamContainer`](../)class.
+[`StreamContainer`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | データ ストリーム。 |
-| disposeStream | Boolean | に設定した場合`真実`コンテナが破棄されると、ストリームは破棄されます。 |
+| ストリーム | ストリーム | データストリームです。 |
+| disposeStream | Boolean | `true` に設定すると、コンテナが破棄されるときにストリームも破棄されます。 |
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

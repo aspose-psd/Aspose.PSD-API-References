@@ -1,51 +1,52 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 幅を比例してサイズ変更します
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。幅を比例的にリサイズします"
 type: docs
-weight: 600
+weight: 660
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-幅を比例してサイズ変更します。
+幅を比例的にリサイズします。
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅。 |
-| settings | ImageResizeSettings | 画像のリサイズ設定。 |
+| newWidth | Int32 | 新しい幅です。 |
+| 設定 | ImageResizeSettings | 画像リサイズの設定です。 |
 
 ### 関連項目
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-幅を比例してサイズ変更します。
+幅を比例的にリサイズします。
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅。 |
-| resizeType | ResizeType | サイズ変更のタイプ。 |
+| newWidth | Int32 | 新しい幅です。 |
+| resizeType | ResizeType | リサイズの種類です。 |
 
 ### 関連項目
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

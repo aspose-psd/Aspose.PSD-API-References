@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen コンストラクタ. の新しいインスタンスを初期化しますPen指定された色のクラス.
+title: "Pen.Pen"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen コンストラクタ。 指定された色で Pen クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-の新しいインスタンスを初期化します[`Pen`](../)指定された色のクラス.
+指定された色で [`Pen`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Pen(Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | あ[`Color`](../color/)この色を示す構造[`Pen`](../). |
+| color | Color | この [`Pen`](../) の色を示す [`Color`](../color/) 構造体。 |
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-の新しいインスタンスを初期化します[`Pen`](../)指定されたクラス[`Color`](../color/)と[`Width`](../width/)プロパティ.
+指定された [`Color`](../color/) と [`Width`](../width/) プロパティで [`Pen`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | あ[`Color`](../color/)この色を示す構造[`Pen`](../). |
-| width | Single | この幅を示す値[`Pen`](../). |
+| color | Color | この [`Pen`](../) の色を示す [`Color`](../color/) 構造体。 |
+| width | Single | この [`Pen`](../) の幅を示す値。 |
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-の新しいインスタンスを初期化します[`Pen`](../)指定されたクラス[`Brush`](../brush/) .
+指定された [`Brush`](../brush/) で [`Pen`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | あ[`Brush`](../brush/)これは、この塗りつぶしプロパティを決定します[`Pen`](../). |
+| brush | Brush | この [`Pen`](../) の塗りプロパティを決定する [`Brush`](../brush/)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*無効である。 |
+| ArgumentNullException | *brush* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Pen`](../)指定されたクラス[`Brush`](../brush/)と[`Width`](../width/) .
+指定された [`Brush`](../brush/) と [`Width`](../width/) で [`Pen`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | あ[`Brush`](../brush/)これの特性を決定する[`Pen`](../). |
-| width | Single | 新品の幅[`Pen`](../). |
+| brush | Brush | この [`Pen`](../) の特性を決定する [`Brush`](../brush/)。 |
+| width | Single | 新しい [`Pen`](../) の幅。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*無効である。 |
+| ArgumentNullException | *brush* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

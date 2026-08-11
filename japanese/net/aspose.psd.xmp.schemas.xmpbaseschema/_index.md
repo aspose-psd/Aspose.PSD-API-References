@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpBaseSchema
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間には基本的な記述情報を提供する XMP 基本スキーマ関連のヘルパー クラス定数およびメソッドが含まれます
+title: "Aspose.PSD.Xmp.Schemas.XmpBaseSchema"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "名前空間には、基本的な記述情報を提供する XMP Basic Schema に関連するヘルパークラス、定数、メソッドが含まれています。"
 type: docs
-weight: 560
+weight: 600
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/
 ---
-名前空間には、基本的な記述情報を提供する XMP 基本スキーマ関連のヘルパー クラス、定数、およびメソッドが含まれます。
+{{< psd/tize >}}
+名前空間には、基本的な記述情報を提供する XMP Basic Schema 関連のヘルパークラス、定数、メソッドが含まれています。
 
 ## クラス
 

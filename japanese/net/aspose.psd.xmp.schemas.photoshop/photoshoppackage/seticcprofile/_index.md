@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetIccProfile
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. icc プロファイルを設定します
+title: "PhotoshopPackage.SetIccProfile"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。ICC プロファイルを設定します"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seticcprofile/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetIccProfile method
 
-icc プロファイルを設定します。
+ICC プロファイルを設定します。
 
 ```csharp
 public void SetIccProfile(string iccProfile)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| iccProfile | String | ICC プロファイル。 |
+| iccプロファイル | 文字列 | icc プロファイル。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

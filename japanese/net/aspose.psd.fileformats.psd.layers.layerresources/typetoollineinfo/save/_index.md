@@ -1,29 +1,30 @@
 ---
-title: TypeToolLineInfo.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolLineInfo 方法. はTypeToolLineInfo指定されたストリーム コンテナーへの情報
+title: "TypeToolLineInfo.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolLineInfo メソッド。指定されたストリームコンテナに TypeToolLineInfo の情報を保存します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Save method
 
-は[`TypeToolLineInfo`](../)指定されたストリーム コンテナーへの情報。
+[`TypeToolLineInfo`](../) の情報を指定されたストリームコンテナに保存します。
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 保存先のストリーム コンテナー。 |
-| psdVersion | Int32 | PSD版です。 |
+| streamContainer | StreamContainer | 保存先のストリームコンテナです。 |
+| psdVersion | Int32 | PSD バージョンです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolLineInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

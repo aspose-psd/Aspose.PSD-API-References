@@ -1,14 +1,15 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResolutionSetting コンストラクタ. の新しいインスタンスを初期化しますResolutionSettingclass.
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResolutionSetting コンストラクタ。ResolutionSetting クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-の新しいインスタンスを初期化します[`ResolutionSetting`](../)class.
+[`ResolutionSetting`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ResolutionSetting()
@@ -17,28 +18,28 @@ public ResolutionSetting()
 ### 関連項目
 
 * class [ResolutionSetting](../)
-* 名前空間 [Aspose.PSD](../../resolutionsetting/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ResolutionSetting`](../)class.
+[`ResolutionSetting`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | horizontalResolution | Double | 水平解像度。 |
-| verticalResolution | Double | 垂直解像度. |
+| verticalResolution | Double | 垂直解像度です。 |
 
 ### 関連項目
 
 * class [ResolutionSetting](../)
-* 名前空間 [Aspose.PSD](../../resolutionsetting/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearColorMatrix
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. デフォルト カテゴリの色調整マトリックスをクリアします
+title: "ImageAttributes.ClearColorMatrix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。デフォルト カテゴリのカラー調整マトリックスをクリアします"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/imageattributes/clearcolormatrix/
 ---
+{{< psd/tize >}}
 ## ClearColorMatrix() {#clearcolormatrix}
 
-デフォルト カテゴリの色調整マトリックスをクリアします。
+デフォルト カテゴリのカラー調整マトリックスをクリアします。
 
 ```csharp
 public void ClearColorMatrix()
@@ -17,28 +18,28 @@ public void ClearColorMatrix()
 ### 関連項目
 
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorMatrix(ColorAdjustType) {#clearcolormatrix_1}
 
-指定したカテゴリの色調整マトリックスをクリアします。
+指定されたカテゴリのカラー調整マトリックスをクリアします。
 
 ```csharp
 public void ClearColorMatrix(ColorAdjustType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| type | ColorAdjustType | の要素[`ColorAdjustType`](../../coloradjusttype/)色調整マトリックスをクリアするカテゴリを指定します。 |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) の要素で、カラー調整マトリックスがクリアされるカテゴリを指定します。 |
 
 ### 関連項目
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class RectangleExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.RectangleExtensions クラス. の拡張メソッドが含まれていますRectangle .
+title: "RectangleExtensions クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.RectangleExtensions クラス。Rectangle の拡張メソッドを含みます"
 type: docs
-weight: 1160
+weight: 1170
 url: /ja/net/aspose.psd.extensions/rectangleextensions/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions class
 
-の拡張メソッドが含まれています[`Rectangle`](../../aspose.psd/rectangle/) .
+[`Rectangle`](../../aspose.psd/rectangle/) の拡張メソッドを含みます。
 
 ```csharp
 public static class RectangleExtensions
@@ -18,13 +19,13 @@ public static class RectangleExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | は[`Rectangle`](../../aspose.psd/rectangle/)にRectangle . |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | は[`RectangleF`](../../aspose.psd/rectanglef/)にRectangle . |
-| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | 2 つの長方形を結合します。 |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | [`Rectangle`](../../aspose.psd/rectangle/) を Rectangle に変換します。 |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | [`RectangleF`](../../aspose.psd/rectanglef/) を Rectangle に変換します。 |
+| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | 2つの矩形を結合します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

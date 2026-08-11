@@ -1,27 +1,28 @@
 ---
-title: Font.Strikeout
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. かどうかを示す値を取得しますFontフォントを通る水平線を指定します
+title: "Font.Strikeout"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 この Font が取り消し線（横線）を指定しているかどうかを示す値を取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/font/strikeout/
 ---
+{{< psd/tize >}}
 ## Font.Strikeout property
 
-かどうかを示す値を取得します。[`Font`](../)フォントを通る水平線を指定します。
+この[`Font`](../)が取り消し線（横線）を指定しているかどうかを示す値を取得します。
 
 ```csharp
 public bool Strikeout { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これなら真[`Font`](../)横線があります。それ以外の場合は false。
+この[`Font`](../)に横線がある場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

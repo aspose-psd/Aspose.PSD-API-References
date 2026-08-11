@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientFillSettings 財産. 色を取得または設定します
+title: "GradientFillSettings.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientFillSettings プロパティ。色を取得または設定します"
 type: docs
-weight: 40
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Color property
 
 色を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public Color Color { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色.
+色です。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

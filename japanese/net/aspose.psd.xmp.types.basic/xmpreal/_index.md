@@ -1,14 +1,15 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal クラス. XMP リアルを表します
+title: "クラス XmpReal"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpReal クラス。XMP Real を表します"
 type: docs
-weight: 5970
+weight: 6470
 url: /ja/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-XMP リアルを表します。
+XMP Real を表します。
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -18,8 +19,8 @@ public sealed class XmpReal : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | の新しいインスタンスを初期化します`XmpReal`class. |
-| [XmpReal](xmpreal/#constructor_1)(string) | の新しいインスタンスを初期化します`XmpReal`class. |
+| [XmpReal](xmpreal/#constructor)(float) | `XmpReal` クラスの新しいインスタンスを初期化します。 |
+| [XmpReal](xmpreal/#constructor_1)(string) | `XmpReal` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -31,12 +32,12 @@ public sealed class XmpReal : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
 ### 関連項目
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

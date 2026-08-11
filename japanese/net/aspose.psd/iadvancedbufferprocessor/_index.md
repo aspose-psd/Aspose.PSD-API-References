@@ -1,14 +1,15 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IAdvancedBufferProcessor インターフェース. 高度なバッファ プロセッサ
+title: "インターフェイス IAdvancedBufferProcessor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IAdvancedBufferProcessor インターフェイス。高度なバッファ プロセッサです。"
 type: docs
-weight: 4360
+weight: 4830
 url: /ja/net/aspose.psd/iadvancedbufferprocessor/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor interface
 
-高度なバッファ プロセッサ。
+高度なバッファプロセッサ。
 
 ```csharp
 public interface IAdvancedBufferProcessor : IBufferProcessor
@@ -24,7 +25,7 @@ public interface IAdvancedBufferProcessor : IBufferProcessor
 ### 関連項目
 
 * interface [IBufferProcessor](../ibufferprocessor/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

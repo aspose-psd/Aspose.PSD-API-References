@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpRightsManagementPackage 方法. 所有者を設定します
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpRightsManagementPackage メソッド。所有者を設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
 所有者を設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 public void SetOwners(string[] owners)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| owners | String[] | 所有者たち。 |
+| owners | String[] | 所有者です。 |
 
 ### 関連項目
 
 * class [XmpRightsManagementPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 
