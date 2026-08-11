@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.GetNearestColorIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorPalette 방법. 가장 가까운 색상의 인덱스를 가져옵니다.
+title: "ColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorPalette 메서드. 가장 가까운 색상의 인덱스를 가져옵니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/colorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
 가장 가까운 색상의 인덱스를 가져옵니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd/colorpalette/getnearestcolorindex/
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | argb32Color | Int32 | 32비트 ARGB 색상입니다. |
 
@@ -22,11 +23,11 @@ public int GetNearestColorIndex(int argb32Color)
 
 가장 가까운 색상의 인덱스입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorPalette](../)
-* 네임스페이스 [Aspose.PSD](../../colorpalette/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,19 +39,19 @@ public int GetNearestColorIndex(int argb32Color)
 public int GetNearestColorIndex(Color color)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| color | Color | 그 색깔. |
+| 색상 | 색상 | 색상. |
 
 ### 반환 값
 
 가장 가까운 색상의 인덱스입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* 네임스페이스 [Aspose.PSD](../../colorpalette/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lr32Resource.Layers
-second_title: .NET API 참조용 Aspose.PSD
-description: Lr32Resource 재산. 레이어를 가져오거나 설정합니다.
+title: "Lr32Resource.Layers"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Lr32Resource 속성. 레이어를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Layers property
 
 레이어를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layer
 public Layer[] Layers { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-레이어.
+레이어들입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [Lr32Resource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

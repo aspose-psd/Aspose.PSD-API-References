@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 재산. 가져오거나 설정합니다.Brush 이것의 속성을 결정하는Pen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 속성. 이 Pen의 속성을 결정하는 Brush를 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-가져오거나 설정합니다.`Brush` 이것의 속성을 결정하는[`Pen`](../) .
+이 [`Pen`](../)의 속성을 결정하는 `Brush`를 가져오거나 설정합니다.
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ`Brush` 이것의 속성을 결정하는[`Pen`](../).
+이 [`Pen`](../)의 속성을 결정하는 `Brush`입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 그만큼`Brush` 속성이 변경 불가능으로 설정됨[`Pen`](../) , 예를 들어[`Pen`](../) 수업. |
+| ArgumentException | `Brush` 속성은 불변 [`Pen`](../)에 설정됩니다. 예를 들어 [`Pen`](../) 클래스에서 반환되는 경우와 같습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

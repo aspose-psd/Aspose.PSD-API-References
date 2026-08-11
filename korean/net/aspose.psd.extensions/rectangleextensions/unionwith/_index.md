@@ -1,33 +1,34 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleExtensions 방법. 두 개의 직사각형을 결합합니다.
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleExtensions 메서드. 두 사각형을 합칩니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
-두 개의 직사각형을 결합합니다.
+두 개의 사각형을 합칩니다.
 
 ```csharp
 public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectangle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | RectangleF | 첫 번째 직사각형. |
-| otherRectangle | RectangleF | 두 번째 사각형입니다. |
+| 사각형 | RectangleF | 첫 번째 사각형. |
+| otherRectangle | RectangleF | 두 번째 사각형. |
 
 ### 반환 값
 
-합집합 연산 결과로 새 사각형
+합집합 연산 결과로 새로운 사각형
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../rectangleextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelsCount
-second_title: .NET API 참조용 Aspose.PSD
-description: Layer 재산. 레이어의 채널 수를 가져옵니다.
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Layer 속성. 레이어 채널 수를 가져옵니다"
 type: docs
-weight: 80
+weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
 레이어의 채널 수를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 public ushort ChannelsCount { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-레이어의 채널 수입니다.
+레이어의 채널 수.
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

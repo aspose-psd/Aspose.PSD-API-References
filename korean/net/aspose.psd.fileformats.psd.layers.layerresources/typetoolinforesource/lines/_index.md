@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: .NET API 참조용 Aspose.PSD
-description: TypeToolInfoResource 재산. 라인을 가져오거나 설정합니다.
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TypeToolInfoResource 속성. 라인을 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 130
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
-라인을 가져오거나 설정합니다.
+줄을 가져오거나 설정합니다.
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-라인.
+라인입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

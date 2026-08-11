@@ -1,31 +1,32 @@
 ---
-title: Enum PlacedLayerType
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType 열거형. 배치된 레이어 PlLd 리소스에 대한 PlacedLayerType 열거를 정의합니다.
+title: "Enum PlacedLayerType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType 열거형. PlacedLayerType 열거형을 배치된 레이어 PlLd 리소스에 대해 정의합니다."
 type: docs
-weight: 2930
+weight: 3280
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-배치된 레이어 PlLd 리소스에 대한 PlacedLayerType 열거를 정의합니다.
+배치된 레이어 PlLd 리소스를 위한 PlacedLayerType 열거형을 정의합니다.
 
 ```csharp
 public enum PlacedLayerType
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Unknown | `0` | 알 수 없는 배치된 레이어 type |
-| Vector | `1` | 벡터 배치 레이어 type |
-| Raster | `2` | 래스터 배치 레이어 type |
-| ImageStack | `3` | 이미지 스택 배치 레이어 type |
+| Unknown | `0` | 알 수 없는 배치된 레이어 유형 |
+| Vector | `1` | 벡터 배치된 레이어 유형 |
+| Raster | `2` | 래스터 배치된 레이어 유형 |
+| ImageStack | `3` | 이미지 스택 배치된 레이어 유형 |
 
-### 예
+## 예제
 
-다음 코드는 PlLdResource 리소스의 지원을 보여줍니다.
+다음 코드는 PlLdResource 리소스 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -207,12 +208,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 일부 매개변수에 주의: Adobe® Photoshop®에서 이미지를 읽을 수 없게 될 수 있습니다.
+                // 일부 매개변수에 주의하십시오: 이미지가 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // 변경하지 않으면 자유 변형을 사용할 수 없습니다.
-                // 또는 밑줄 스마트 객체를 벡터 유형으로 변경
+                // 이를 변경하지 마세요, 그렇지 않으면 자유 변형을 사용할 수 없습니다.
+                // 또는 기본 스마트 오브젝트를 벡터 유형으로 변경하십시오.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // 이 고유 ID를 가진 유효한 PlLdResource가 있어야 합니다.
@@ -228,9 +229,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: .NET API 참조용 Aspose.PSD
-description: Layer 재산. 최상위 레이어 위치를 가져오거나 설정합니다.
+title: "Layer.Top"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Layer 속성. 최상위 레이어 위치를 가져오거나 설정합니다"
 type: docs
-weight: 310
+weight: 320
 url: /ko/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-최상위 레이어 위치를 가져오거나 설정합니다.
+상단 레이어 위치를 가져오거나 설정합니다.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 최상위 레이어 위치.
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

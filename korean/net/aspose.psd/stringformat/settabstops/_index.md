@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: .NET API 참조용 Aspose.PSD
-description: StringFormat 방법. 이에 대한 탭 중지를 설정합니다.StringFormat object.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringFormat 메서드. 이 StringFormat 객체의 탭 정지를 설정합니다."
 type: docs
-weight: 140
+weight: 170
 url: /ko/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-이에 대한 탭 중지를 설정합니다.[`StringFormat`](../) object.
+이 [`StringFormat`](../) 객체의 탭 정지를 설정합니다.
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| firstTabOffset | Single | 텍스트 줄의 시작과 첫 번째 탭 정지 사이의 공백 수입니다. |
-| tabStops | Single[] | 에 의해 지정된 단위의 탭 정지 사이의 거리 배열[`PageUnit`](../../graphics/pageunit/) 재산. |
+| firstTabOffset | 단일 | 텍스트 줄의 시작과 첫 번째 탭 정지 사이의 공백 수. |
+| tabStops | Single[] | [`PageUnit`](../../graphics/pageunit/) 속성에서 지정한 단위로 측정된 탭 정지 사이 거리의 배열. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

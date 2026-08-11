@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: .NET API 참조용 Aspose.PSD
-description: BlackWhiteAdjustmentLayer 재산. Red Tint Color 이중 값을 가져오거나 설정합니다.
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlackWhiteAdjustmentLayer 속성. 빨간색 색조 색상의 double 값을 가져오거나 설정합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
-Red Tint Color 이중 값을 가져오거나 설정합니다.
+Red Tint Color의 double 값을 가져오거나 설정합니다.
 
 ```csharp
 public double TintColorRed { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-Red Tint Color 이중 값입니다.
+빨간색 색조 색상의 double 값.
 
-### 예
+## 예제
 
-다음 예는 Aspose.PSD에서 흑백 조정 레이어 속성을 조작하는 방법을 보여줍니다.
+다음 예제는 Aspose.PSD에서 흑백 조정 레이어 속성을 조작하는 방법을 보여줍니다
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // 테스트 편집 및 저장
+                // 편집 및 저장 테스트
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -151,10 +152,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

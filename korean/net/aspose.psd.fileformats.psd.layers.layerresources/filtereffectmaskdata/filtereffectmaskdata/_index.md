@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.FilterEffectMaskData
-second_title: .NET API 참조용 Aspose.PSD
-description: FilterEffectMaskData 건설자. 의 새 인스턴스를 초기화합니다.FilterEffectMaskData 클래스.
+title: "FilterEffectMaskData.FilterEffectMaskData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FilterEffectMaskData 생성자. FilterEffectMaskData 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData constructor
 
-의 새 인스턴스를 초기화합니다.[`FilterEffectMaskData`](../) 클래스.
+새 인스턴스를 초기화합니다 [`FilterEffectMaskData`](../) 클래스의.
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -16,18 +17,18 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
     ChannelInformation sheetMask)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| guid | String | 리소스 가이드입니다. |
-| rectangle | Rectangle | 채널 직사각형. |
-| pixelsDepth | Int32 | 픽셀 깊이입니다. |
-| maxChannels | Int32 | 최대 채널 값입니다. |
-| channels | ChannelInformation[] | 채널. |
-| userMask | ChannelInformation | 사용자 마스크입니다. |
+| guid | String | 리소스 GUID. |
+| 사각형 | Rectangle | 채널 사각형. |
+| pixelsDepth | Int32 | 픽셀 깊이. |
+| maxChannels | Int32 | 최대 채널 값. |
+| channels | ChannelInformation[] | 채널들. |
+| userMask | ChannelInformation | 사용자 마스크. |
 | maskRectangle | Rectangle | 시트 마스크 사각형. |
-| sheetMask | ChannelInformation | 시트 마스크입니다. |
+| sheetMask | ChannelInformation | 시트 마스크. |
 
-### 예
+## 예제
 
 이 예제는 FXidResource 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
@@ -38,7 +39,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -74,12 +75,12 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

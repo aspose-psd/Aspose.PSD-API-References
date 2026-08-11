@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageAttributesExtensions 방법. 변환ImageAttributes 로ImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageAttributesExtensions 메서드. ImageAttributes를 ImageAttributes로 변환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-변환[`ImageAttributes`](../../../aspose.psd/imageattributes/) ~로ImageAttributes .
+[`ImageAttributes`](../../../aspose.psd/imageattributes/)을 ImageAttributes로 변환합니다.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | 그만큼[`ImageAttributes`](../../../aspose.psd/imageattributes/) 변환하다. |
+| imageAttributes | ImageAttributes | 변환할 [`ImageAttributes`](../../../aspose.psd/imageattributes/). |
 
 ### 반환 값
 
-개종자ImageAttributes.
+변환된 ImageAttributes.
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

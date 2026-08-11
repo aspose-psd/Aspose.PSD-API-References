@@ -1,14 +1,15 @@
 ---
-title: Class SmartObjectResource
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource 수업. PSD 파일의 스마트 개체 레이어에 대한 정보를 포함하는 SmartObjectResource 클래스를 정의합니다. Is는 Adobe Photoshop 이미지에서 스마트 개체 레이어를 지원하는 데 사용되는 Sold 및 Sole 리소스의 기본 클래스입니다.
+title: "클래스 SmartObjectResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource 클래스. PSD 파일에서 스마트 오브젝트 레이어에 대한 정보를 포함하는 SmartObjectResource 클래스를 정의합니다. 이는 Adobe Photoshop 이미지에서 스마트 오브젝트 레이어를 지원하기 위해 사용되는 Sold 및 Sole 리소스의 기본 클래스입니다."
 type: docs
-weight: 2990
+weight: 3340
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource class
 
-PSD 파일의 스마트 개체 레이어에 대한 정보를 포함하는 SmartObjectResource 클래스를 정의합니다. Is는 Adobe® Photoshop® 이미지에서 스마트 개체 레이어를 지원하는 데 사용되는 Sold 및 Sole 리소스의 기본 클래스입니다.
+SmartObjectResource 클래스를 정의하며, PSD 파일에서 스마트 오브젝트 레이어에 대한 정보를 포함합니다. 이는 Adobe® Photoshop® 이미지에서 스마트 오브젝트 레이어를 지원하는 Sold 및 Sole 리소스의 기본 클래스입니다.
 
 ```csharp
 public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerResource
@@ -18,57 +19,57 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 
 | 이름 | 설명 |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD 이미지에서 스마트 개체 레이어 데이터의 앤티 앨리어스 정책을 가져오거나 설정합니다. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD 이미지에서 스마트 오브젝트 레이어 데이터의 안티앨리어싱 정책을 가져오거나 설정합니다. |
 | [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD 이미지에서 배치된 레이어의 하단 위치를 가져오거나 설정합니다. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD 파일에 배치된 레이어의 경계를 가져오거나 설정합니다. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 comp 값을 가져오거나 설정합니다. [스마트 오브젝트의 레이어 구성 요소](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | 자식 문서에 대해 현재 선택된 구성 요소의 ID를 가져오거나 설정합니다. 아무것도 선택하지 않으면 -1이 됩니다. 구성 요소는 디자이너가 만들 수 있는 페이지 레이아웃의 구성 요소입니다. 레이어 구성 요소를 사용하면 단일 Adobe® Photoshop® 파일에서 레이아웃의 여러 버전 을 만들고 관리하고 볼 수 있습니다. 레이어 구성 요소는 레이어 패널 상태의 스냅샷입니다. 레이어 구성 요소는 세 가지 유형의 레이어 옵션을 저장하지만 이 속성은 PSD 파일에서 고급 개체 레이어에 대한 레이어 구성 요소 선택 식별자를 가져옵니다. [스마트 오브젝트의 레이어 구성 요소](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD 이미지에서 스마트 개체 레이어 데이터의 자르기를 가져오거나 설정합니다. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD 파일에서 배치된 레이어의 경계를 가져오거나 설정합니다. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD 파일에서 스마트 오브젝트 레이어 데이터의 컴프 값을 가져오거나 설정합니다. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | 현재 선택된 자식 문서의 컴프 ID를 가져오거나 설정합니다. 선택된 것이 없으면 -1이 됩니다. 컴프는 디자이너가 만들 수 있는 페이지 레이아웃의 구성을 의미합니다. 레이어 컴프를 사용하면 단일 Adobe Photoshop 파일에서 레이아웃의 여러 버전을 만들고, 관리하고, 볼 수 있습니다. 레이어 컴프는 레이어 패널 상태의 스냅샷입니다. 레이어 컴프는 세 가지 유형의 레이어 옵션을 저장하지만, 이 속성은 PSD 파일에서 스마트 오브젝트 레이어에 대한 레이어 컴프 선택 식별자를 가져옵니다. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD 이미지에서 스마트 오브젝트 레이어 데이터의 크롭을 가져오거나 설정합니다. |
 | [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | 기간 분모를 가져오거나 설정합니다. |
 | [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | 기간 분자를 가져오거나 설정합니다. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 프레임 수를 가져오거나 설정합니다. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | 프레임 단계 분모를 가져오거나 설정합니다. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD 파일에서 스마트 오브젝트 레이어 데이터의 프레임 수를 가져오거나 설정합니다. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | 프레임 스텝 분모를 가져오거나 설정합니다. |
 | [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | 프레임 단계 분자를 가져오거나 설정합니다. |
 | [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | 높이를 가져오거나 설정합니다. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD 파일에 배치된 레이어의 수평 메쉬 포인트를 가져오거나 설정합니다. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 수평 메쉬 포인트의 측정 단위를 가져오거나 설정합니다. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | 이 인스턴스 뒤틀기 스타일이 사용자 지정인지 여부를 나타내는 값을 가져오거나 설정합니다. true인 경우 메쉬 포인트를 포함합니다. false로 설정하면 메쉬 점을 지웁니다. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 설명자 항목을 가져오거나 설정합니다. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD 파일에서 배치된 레이어의 수평 메시 포인트를 가져오거나 설정합니다. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 수평 메시 포인트의 측정 단위를 가져오거나 설정합니다. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | 이 인스턴스의 왜곡 스타일이 사용자 지정인지 여부를 나타내는 값을 가져오거나 설정합니다. true이면 메시 포인트를 포함하고, false로 설정하면 메시 포인트를 삭제합니다. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터에 대한 디스크립터 항목을 가져오거나 설정합니다. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD 파일에서 배치된 레이어의 왼쪽 위치를 가져오거나 설정합니다. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | 스마트 개체 리소스 길이를 바이트 단위로 가져옵니다. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 비아핀 변환 매트릭스를 가져오거나 설정합니다. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | 하위 문서에 대해 현재 선택한 Comp의 원래 ID를 가져옵니다. 아무것도 선택하지 않은 경우 -1이 됩니다. 이 속성은 PSD 파일의 스마트 개체 레이어에 대한 원래 레이어 Comp 선택 식별자를 가져옵니다. [스마트 오브젝트의 레이어 구성 요소](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 페이지 번호를 가져오거나 설정합니다. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD 파일에 배치된 레이어의 원근 값을 가져오거나 설정합니다. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD 파일에 배치된 레이어의 원근 다른 값을 가져오거나 설정합니다. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD 이미지에서 이 스마트 개체 레이어 데이터의 고유 식별자를 가져오거나 설정합니다. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 유형을 가져오거나 설정합니다. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | 스마트 개체 리소스에 필요한 최소 psd 버전을 가져옵니다. 0은 제한이 없음을 나타냅니다. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 해상도를 가져오거나 설정합니다. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 해상도 측정 단위를 가져오거나 설정합니다. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD 파일에서 배치된 레이어의 올바른 위치를 가져오거나 설정합니다. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | 스마트 개체 리소스 서명을 가져옵니다. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | 스마트 오브젝트 리소스의 길이를 바이트 단위로 가져옵니다. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터에 대한 비선형 변환 행렬을 가져오거나 설정합니다. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | 현재 선택된 자식 문서의 Comp에 대한 원래 ID를 가져오며, 선택된 것이 없으면 -1이 됩니다. 이 속성은 PSD 파일의 스마트 오브젝트 레이어에 대한 원래 레이어 Comp 선택 식별자를 가져옵니다. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터 페이지 번호를 가져오거나 설정합니다. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD 파일에서 배치된 레이어의 원근값을 가져오거나 설정합니다. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD 파일에서 배치된 레이어의 기타 원근값을 가져오거나 설정합니다. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD 이미지의 이 스마트 오브젝트 레이어 데이터 고유 식별자를 가져오거나 설정합니다. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터 유형을 가져오거나 설정합니다. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 레이어 리소스에 필요한 최소 PSD 버전을 가져옵니다. 0은 제한이 없음을 나타냅니다. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터 해상도를 가져오거나 설정합니다. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터 해상도 측정 단위를 가져오거나 설정합니다. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD 파일에서 배치된 레이어의 오른쪽 위치를 가져오거나 설정합니다. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 서명을 가져옵니다. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD 이미지에서 배치된 레이어의 상단 위치를 가져오거나 설정합니다. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 총 페이지 수를 가져오거나 설정합니다. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD 파일에서 스마트 개체 레이어 데이터의 변형 매트릭스를 가져오거나 설정합니다. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | 스마트 개체 레이어 데이터의 전역 고유 식별자를 가져오거나 설정합니다.`SmartObjectResource` PSD 이미지에서. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD 파일에 배치된 레이어의 U 순서 값을 가져오거나 설정합니다. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD 이미지에 배치된 레이어의 워프 값을 가져오거나 설정합니다. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD 파일에 배치된 레이어의 버전을 가져옵니다. 일반적으로 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD 파일에 배치된 레이어의 수평 메쉬 포인트를 가져오거나 설정합니다. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 수직 메쉬 포인트의 측정 단위를 가져오거나 설정합니다. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD 파일에 배치된 레이어의 V 순서 값을 가져오거나 설정합니다. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터 전체 페이지 수를 가져오거나 설정합니다. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD 파일의 스마트 오브젝트 레이어 데이터 변환 행렬을 가져오거나 설정합니다. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | PSD 이미지의 스마트 오브젝트 레이어 데이터 `SmartObjectResource` 전역 고유 식별자를 가져오거나 설정합니다. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD 파일에서 배치된 레이어의 U 순서 값을 가져오거나 설정합니다. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD 이미지에서 배치된 레이어의 왜곡 값을 가져오거나 설정합니다. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD 파일에서 배치된 레이어의 버전을 가져옵니다(보통 3). |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD 파일에서 배치된 레이어의 수평 메시 포인트를 가져오거나 설정합니다. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 수직 메시 포인트의 측정 단위를 가져오거나 설정합니다. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD 파일에서 배치된 레이어의 V 순서 값을 가져오거나 설정합니다. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | 너비를 가져오거나 설정합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | 스마트 개체 리소스를 지정된 스트림 컨테이너에 저장합니다. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 반환String 이 instance. 를 나타냅니다. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | 스마트 오브젝트 리소스를 지정된 스트림 컨테이너에 저장합니다. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 이 인스턴스를 나타내는 문자열을 반환합니다. |
 
-### 예
+## 예제
 
 다음 코드는 SoLEResource, SmartObjectResource 및 PlacedResource 리소스의 지원을 보여줍니다.
 
@@ -164,10 +165,10 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // 이 값은 PlLdResource(지정된 UniqueId 포함)에서도 변경되어야 합니다.
-    // 그리고 그 중 일부는 LinkDataSource의 밑줄 스마트 개체와 일치해야 합니다.
+    // 이 값은 지정된 UniqueId가 있는 PlLdResource에서도 변경되어야 합니다.
+    // 그리고 그 중 일부는 LinkDataSource에 있는 기본 스마트 오브젝트와 일치해야 합니다.
     resource.PageNumber = (int)newValues[2]; // 2;
-    resource.TotalPages = (int)newValues[3]; // 삼;
+    resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
@@ -191,7 +192,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // 이 고유 ID는 참조에서 변경되어야 합니다.
+    // 해당 고유 ID는 참조가 있는 경우 변경되어야 합니다.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -201,12 +202,12 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 일부 매개변수에 주의: 저장된 이미지를 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
+    // 일부 매개변수에 주의하십시오: 저장된 이미지가 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // 변경하지 않으면 자유 변형을 사용할 수 없습니다.
-    // 또는 밑줄 스마트 객체를 벡터 유형으로 변경
+    // 이를 변경하지 마세요, 그렇지 않으면 자유 변형을 사용할 수 없습니다.
+    // 또는 기본 스마트 오브젝트를 벡터 유형으로 변경하십시오.
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
     // 이 고유 ID를 가진 유효한 PlLdResource가 있어야 합니다.
@@ -373,13 +374,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
 * class [PlacedResource](../placedresource/)
 * interface [ISmartObjectLayerResource](../ismartobjectlayerresource/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

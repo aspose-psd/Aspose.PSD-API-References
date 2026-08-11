@@ -1,30 +1,31 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: .NET API 참조용 Aspose.PSD
-description: IRasterImagePixelLoader 방법. 픽셀을 부분적으로 로드합니다블록 단위.
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IRasterImagePixelLoader 메서드. 블록 단위로 픽셀을 부분적으로 로드합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/irasterimagepixelloader/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
-픽셀을 부분적으로 로드합니다(블록 단위).
+픽셀을 부분적으로(블록 단위로) 로드합니다.
 
 ```csharp
 public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPixelLoader)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 픽셀을 로드할 사각형입니다. |
+| 사각형 | Rectangle | 픽셀을 로드할 사각형. |
 | partialPixelLoader | IPartialPixelLoader | 부분 픽셀 로더. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* 네임스페이스 [Aspose.PSD](../../irasterimagepixelloader/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

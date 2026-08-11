@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Name
-second_title: .NET API 참조용 Aspose.PSD
-description: AiRasterImageSection 재산. 래스터 이미지의 이름을 가져옵니다.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiRasterImageSection 속성. 래스터 이미지의 이름을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
 래스터 이미지의 이름을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 public string Name { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-래스터 이미지의 이름입니다.
+래스터 이미지의 이름.
 
-### 또한보십시오
+### 또 보기
 
 * class [AiRasterImageSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

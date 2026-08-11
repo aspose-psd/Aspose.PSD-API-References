@@ -1,70 +1,71 @@
 ---
-title: StringFormat.StringFormat
-second_title: .NET API 참조용 Aspose.PSD
-description: StringFormat 건설자. 새 항목을 초기화합니다.StringFormat object.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringFormat 생성자. 새 StringFormat 객체를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-새 항목을 초기화합니다.[`StringFormat`](../) object.
+새 [`StringFormat`](../) 객체를 초기화합니다.
 
 ```csharp
 public StringFormat()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-새 항목을 초기화합니다.[`StringFormat`](../) 지정된 객체[`StringFormatFlags`](../../stringformatflags/) 열거 및 언어.
+지정된 [`StringFormatFlags`](../../stringformatflags/) 열거형 및 언어를 사용하여 새 [`StringFormat`](../) 객체를 초기화합니다.
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| options | StringFormatFlags | 그만큼[`StringFormatFlags`](../../stringformatflags/) 새로운 것에 대한 열거[`StringFormat`](../) 물체. |
+| options | StringFormatFlags | 새 [`StringFormat`](../) 객체에 대한 [`StringFormatFlags`](../../stringformatflags/) 열거형. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-새 항목을 초기화합니다.[`StringFormat`](../) 지정된 기존의 객체[`StringFormat`](../) object.
+지정된 기존 [`StringFormat`](../) 객체에서 새 [`StringFormat`](../) 객체를 초기화합니다.
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| format | StringFormat | 그만큼[`StringFormat`](../) 새 항목을 초기화할 개체[`StringFormat`](../) 물체. |
+| format | StringFormat | 새 [`StringFormat`](../) 객체를 초기화할 [`StringFormat`](../) 객체. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *format* null입니다. |
+| ArgumentNullException | *format*은 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

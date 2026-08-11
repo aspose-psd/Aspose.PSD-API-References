@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: .NET API 참조용 Aspose.PSD
-description: StreamContainer 재산. 이 스트림이 닫힐 때 폐기되는지 여부를 나타내는 값을 가져옵니다.
+title: "StreamContainer.IsStreamDisposedOnClose"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StreamContainer 속성. 이 스트림이 닫힐 때 폐기되는지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/streamcontainer/isstreamdisposedonclose/
 ---
+{{< psd/tize >}}
 ## StreamContainer.IsStreamDisposedOnClose property
 
-이 스트림이 닫힐 때 폐기되는지 여부를 나타내는 값을 가져옵니다.
+이 스트림이 닫힐 때 해제되는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public virtual bool IsStreamDisposedOnClose { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 스트림이 닫힐 때 처리되는 경우; 그렇지 않으면,`거짓`.
+`true`이면 스트림이 닫힐 때 폐기됩니다; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

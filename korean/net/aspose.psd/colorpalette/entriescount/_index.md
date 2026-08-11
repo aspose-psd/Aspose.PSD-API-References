@@ -1,27 +1,28 @@
 ---
-title: ColorPalette.EntriesCount
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorPalette 재산. 항목 수를 가져옵니다.
+title: "ColorPalette.EntriesCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorPalette 속성. 항목 수를 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/colorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## ColorPalette.EntriesCount property
 
-항목 수를 가져옵니다.
+엔트리 수를 가져옵니다.
 
 ```csharp
 public int EntriesCount { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-항목이 중요합니다.
+항목 수.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorPalette](../)
-* 네임스페이스 [Aspose.PSD](../../colorpalette/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum PsdVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.PsdVersion 열거형. 파일 형식 버전
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion 열거형. 파일 형식 버전"
 type: docs
-weight: 3600
+weight: 4060
 url: /ko/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
 파일 형식 버전
@@ -14,16 +15,16 @@ url: /ko/net/aspose.psd.fileformats.psd/psdversion/
 public enum PsdVersion : byte
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Psd | `1` | 기본 PSD 버전입니다. |
 | Psb | `2` | PSB 버전입니다. |
 
-### 예
+## 예제
 
-다음 예는 PSD 파일을 PSB로 또는 그 반대로 변환하는 기능을 보여줍니다.
+다음 예제는 PSD 파일을 PSB로, 그리고 그 반대로 변환하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -45,9 +46,9 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,18 +1,25 @@
 ---
-title: Class ColorFillSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings 수업. 색상 채우기 효과 settings
+title: "클래스 ColorFillSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings 클래스. 색상 채우기 효과 설정"
 type: docs
-weight: 1930
+weight: 2040
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-색상 채우기 효과 settings
+색상 채우기 효과 설정
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
+
+## 생성자
+
+| 이름 | 설명 |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | 기본 생성자입니다. |
 
 ## 속성
 
@@ -21,9 +28,9 @@ public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | 색상을 가져오거나 설정합니다. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | 채우기 유형 |
 
-### 예
+## 예제
 
-다음 코드는 채우기 유형 - 색상이 있는 획 효과 레이어의 지원을 보여줍니다.
+다음 코드는 채우기 유형 - 색상인 스트로크 효과 레이어 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

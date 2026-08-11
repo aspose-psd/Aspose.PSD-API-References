@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb24Bpp
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelDataFormat 재산. 가져오기PixelDataFormat 알파 빨강 녹색 및 파랑 각각에 대해 8비트로 픽셀당 24비트로 정의되며 알파는 정의되지 않습니다.
+title: "PixelDataFormat.Rgb24Bpp"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelDataFormat 속성. 알파, 레드, 그린, 블루 각각 8비트로 픽셀당 24비트인 PixelDataFormat을 가져옵니다(알파는 정의되지 않음)."
 type: docs
 weight: 70
 url: /ko/net/aspose.psd/pixeldataformat/rgb24bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb24Bpp property
 
-가져오기[`PixelDataFormat`](../) 알파, 빨강, 녹색 및 파랑 각각에 대해 8비트로 픽셀당 24비트로 정의되며 알파는 정의되지 않습니다.
+[`PixelDataFormat`](../)을 가져옵니다. 알파, 레드, 그린, 블루 각각 8비트로 픽셀당 24비트이며 알파는 정의되지 않음.
 
 ```csharp
 public static PixelDataFormat Rgb24Bpp { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-[`PixelDataFormat`](../) 알파, 빨강, 녹색 및 파랑 각각에 대해 8비트로 픽셀당 24비트로 정의되며 알파는 정의되지 않습니다.
+[`PixelDataFormat`](../)은 알파, 레드, 그린, 블루 각각 8비트로 픽셀당 24비트이며 알파는 정의되지 않습니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PixelDataFormat](../)
-* 네임스페이스 [Aspose.PSD](../../pixeldataformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

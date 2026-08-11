@@ -1,11 +1,12 @@
 ---
-title: LayerStateInformationResource.LayerStateInformationResource
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerStateInformationResource 건설자. 기본 생성자입니다.
+title: "LayerStateInformationResource.LayerStateInformationResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerStateInformationResource 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerstateinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/
 public LayerStateInformationResource()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerStateInformationResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

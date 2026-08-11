@@ -1,11 +1,12 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: .NET API 참조용 Aspose.PSD
-description: IImageCreatorDescriptor 방법. 새 생성자 인스턴스를 생성합니다.
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IImageCreatorDescriptor 메서드. 새 생성자 인스턴스를 생성합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
 새 생성자 인스턴스를 생성합니다.
@@ -16,13 +17,13 @@ public IImageCreator CreateInstance()
 
 ### 반환 값
 
-새로운 생성자 인스턴스.
+새 생성자 인스턴스.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* 네임스페이스 [Aspose.PSD](../../iimagecreatordescriptor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

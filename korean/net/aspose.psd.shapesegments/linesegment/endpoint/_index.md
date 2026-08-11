@@ -1,11 +1,12 @@
 ---
-title: LineSegment.EndPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: LineSegment 재산. 끝점을 가져옵니다.
+title: "LineSegment.EndPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LineSegment 속성. 끝점을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.shapesegments/linesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.EndPoint property
 
 끝점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapesegments/linesegment/endpoint/
 public override PointF EndPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-종료 지점입니다.
+끝점.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* 네임스페이스 [Aspose.PSD.ShapeSegments](../../linesegment/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

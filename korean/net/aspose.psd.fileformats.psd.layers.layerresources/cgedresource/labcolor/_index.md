@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.LabColor
-second_title: .NET API 참조용 Aspose.PSD
-description: CgEdResource 재산. 실험실 색상 사용 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "CgEdResource.LabColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CgEdResource 속성. lab 색상이 사용되는지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
-weight: 60
+weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
+{{< psd/tize >}}
 ## CgEdResource.LabColor property
 
-[실험실 색상] 사용 여부를 나타내는 값을 가져오거나 설정합니다.
+[lab color]가 사용되는지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실`사용하는 경우 [실험실 색상]; 그렇지 않으면,`거짓` .
+`true` if used [lab color]; otherwise, `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [CgEdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

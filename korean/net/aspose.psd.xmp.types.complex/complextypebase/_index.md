@@ -1,11 +1,12 @@
 ---
-title: Class ComplexTypeBase
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase 수업. XMP 복합 값 유형에 대한 기본 추상화를 나타냅니다.
+title: "Class ComplexTypeBase"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase class. XMP 복합 값 유형에 대한 기본 추상화를 나타냅니다."
 type: docs
-weight: 6050
+weight: 6550
 url: /ko/net/aspose.psd.xmp.types.complex/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase class
 
 XMP 복합 값 유형에 대한 기본 추상화를 나타냅니다.
@@ -18,7 +19,7 @@ public class ComplexTypeBase : XmpTypeBase
 
 | 이름 | 설명 |
 | --- | --- |
-| [ComplexTypeBase](complextypebase/)(string, string) | 의 새 인스턴스를 초기화합니다.`ComplexTypeBase` 클래스. |
+| [ComplexTypeBase](complextypebase/)(string, string) | 새 `ComplexTypeBase` 클래스 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -27,20 +28,20 @@ public class ComplexTypeBase : XmpTypeBase
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | 기본 네임스페이스 URI를 가져옵니다. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | 접두사를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | XMP 형식의 값이 포함된 문자열을 가져옵니다. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | XMP 형식으로 포함된 문자열 값을 가져옵니다. |
 
-### 비고
+## 비고
 
-자세히 보기: XMP 사양 2부, 1.2.2장
+자세히 보기: XMP Specification Part 2, Chapter 1.2.2
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../)
 
 

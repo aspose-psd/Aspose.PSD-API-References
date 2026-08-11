@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientFillSettings 재산. 레이어와 정렬. 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientFillSettings 속성. 레이어와 정렬할지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-[레이어와 정렬]. 여부를 나타내는 값을 가져오거나 설정합니다.
+레이어와 정렬되는지를 나타내는 값을 가져오거나 설정합니다 [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` if [레이어와 정렬]; 그렇지 않으면,`거짓` .
+`true`이면 [align with layer]; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.DeepClone
-second_title: .NET API 참조용 Aspose.PSD
-description: GraphicsPath 방법. 이 그래픽 경로의 전체 복제를 수행합니다.
+title: "GraphicsPath.DeepClone"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GraphicsPath 메서드. 이 그래픽 경로를 깊은 복제합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.psd/graphicspath/deepclone/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.DeepClone method
 
-이 그래픽 경로의 전체 복제를 수행합니다.
+이 그래픽 경로를 깊게 복제합니다.
 
 ```csharp
 public GraphicsPath DeepClone()
@@ -16,12 +17,12 @@ public GraphicsPath DeepClone()
 
 ### 반환 값
 
-그래픽 경로의 딥 클론.
+그래픽 경로의 깊은 복제본입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

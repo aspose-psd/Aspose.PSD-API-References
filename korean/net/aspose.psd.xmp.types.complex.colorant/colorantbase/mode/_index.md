@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.Mode
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorantBase 재산. 가져오기ColorMode .
+title: "ColorantBase.Mode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorantBase 속성. ColorMode를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.types.complex.colorant/colorantbase/mode/
 ---
+{{< psd/tize >}}
 ## ColorantBase.Mode property
 
-가져오기[`ColorMode`](../../colormode/) .
+가져옵니다 [`ColorMode`](../../colormode/).
 
 ```csharp
 public ColorMode Mode { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-색상 모드입니다.
+색상 모드.
 
-### 또한보십시오
+### 또 보기
 
 * enum [ColorMode](../../colormode/)
 * class [ColorantBase](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

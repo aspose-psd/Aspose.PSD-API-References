@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.Signature
-second_title: .NET API 참조용 Aspose.PSD
-description: Lfx2Resource 재산. 레이어 리소스 서명을 가져옵니다.
+title: "Lfx2Resource.Signature"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Lfx2Resource 속성. 레이어 리소스 서명을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signature/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Signature property
 
 레이어 리소스 서명을 가져옵니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signa
 public override int Signature { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Lfx2Resource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

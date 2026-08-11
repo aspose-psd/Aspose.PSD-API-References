@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.UOrder
-second_title: .NET API 참조용 Aspose.PSD
-description: PlacedResource 재산. PSD 파일에 배치된 레이어의 U 순서 값을 가져오거나 설정합니다.
+title: "PlacedResource.UOrder"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PlacedResource 속성. 배치 레이어의 U 순서 값을 가져오거나 설정합니다. PSD 파일에서"
 type: docs
-weight: 190
+weight: 180
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UOrder property
 
-PSD 파일에 배치된 레이어의 U 순서 값을 가져오거나 설정합니다.
+PSD 파일에서 배치된 레이어의 U 순서 값을 가져오거나 설정합니다.
 
 ```csharp
 public int UOrder { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-배치된 레이어의 U 순서 값입니다.
+배치 레이어의 U 순서 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [PlacedResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

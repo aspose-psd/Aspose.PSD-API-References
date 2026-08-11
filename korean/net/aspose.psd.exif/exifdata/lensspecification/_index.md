@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensSpecification
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 렌즈 사양을 가져오거나 설정합니다
+title: "ExifData.LensSpecification"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 렌즈 사양을 가져오거나 설정합니다"
 type: docs
 weight: 760
 url: /ko/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
 렌즈 사양을 가져오거나 설정합니다
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.exif/exifdata/lensspecification/
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-렌즈 사양.
+렌즈 사양입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

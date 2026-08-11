@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions 수업. 선명 효과 필터 options
+title: "클래스 SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions 클래스. 샤프닝 필터 옵션"
 type: docs
-weight: 4740
+weight: 5210
 url: /ko/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-선명 효과 필터 options
+Sharpen 필터 옵션
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -18,22 +19,22 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 | 이름 | 설명 |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | 의 새 인스턴스를 초기화합니다.`SharpenFilterOptions` class. 기본 설정. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | 의 새 인스턴스를 초기화합니다.`SharpenFilterOptions` 클래스. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | 새 `SharpenFilterOptions` 클래스의 인스턴스를 초기화합니다. 기본 설정 사용. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | 새 `SharpenFilterOptions` 클래스의 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | 바이어스를 가져오거나 설정합니다. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | 계수를 가져오거나 설정합니다. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | 시그마를 가져오거나 설정합니다. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | bias를 가져오거나 설정합니다. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | factor를 가져오거나 설정합니다. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | sigma를 가져오거나 설정합니다. |
 | [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | 크기를 가져오거나 설정합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

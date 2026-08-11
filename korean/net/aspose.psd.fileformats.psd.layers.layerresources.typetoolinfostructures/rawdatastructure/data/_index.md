@@ -1,11 +1,12 @@
 ---
-title: RawDataStructure.Data
-second_title: .NET API 참조용 Aspose.PSD
-description: RawDataStructure 재산. 데이터를 가져오거나 설정합니다.
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RawDataStructure 속성. 데이터를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
 데이터를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public byte[] Data { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-데이터.
+데이터입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [RawDataStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

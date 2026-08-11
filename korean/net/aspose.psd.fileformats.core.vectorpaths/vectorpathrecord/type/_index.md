@@ -1,28 +1,29 @@
 ---
-title: VectorPathRecord.Type
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorPathRecord 재산. 유형을 가져옵니다.
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorPathRecord 속성. 유형을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
-유형을 가져옵니다.
+형식을 가져옵니다.
 
 ```csharp
 public abstract VectorPathType Type { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-벡터 경로 유형입니다.
+벡터 경로 유형.
 
-### 또한보십시오
+### 또 보기
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

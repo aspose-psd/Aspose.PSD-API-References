@@ -1,28 +1,29 @@
 ---
-title: TypeToolFontInfo.Save
-second_title: .NET API 참조용 Aspose.PSD
-description: TypeToolFontInfo 방법. 저장TypeToolFontInfo 지정된 스트림 컨테이너에 대한 정보.
+title: "TypeToolFontInfo.Save"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TypeToolFontInfo 메서드. TypeToolFontInfo 정보를 지정된 스트림 컨테이너에 저장합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Save method
 
-저장[`TypeToolFontInfo`](../) 지정된 스트림 컨테이너에 대한 정보.
+[`TypeToolFontInfo`](../) 정보를 지정된 스트림 컨테이너에 저장합니다.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 저장할 스트림 컨테이너입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolFontInfo](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

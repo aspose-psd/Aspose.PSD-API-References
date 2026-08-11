@@ -1,31 +1,32 @@
 ---
-title: Point.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: Point 방법. 이 여부를 지정합니다.Point 지정된 것과 동일한 좌표를 포함합니다.Object .
+title: "Point.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Point 메서드. 이 Point가 지정된 객체와 동일한 좌표를 포함하는지 여부를 지정합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/point/equals/
 ---
+{{< psd/tize >}}
 ## Point.Equals method
 
-이 여부를 지정합니다.[`Point`](../) 지정된 것과 동일한 좌표를 포함합니다.Object .
+이 [`Point`](../)가 지정된 객체와 동일한 좌표를 포함하는지 여부를 지정합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 그만큼Object 테스트합니다. |
+| obj | Object | 테스트할 객체. |
 
 ### 반환 값
 
-참이면*obj* 이다[`Point`](../) 이것과 같은 좌표를 가집니다[`Point`](../).
+*obj*가 [`Point`](../)이며 이 [`Point`](../)와 동일한 좌표를 갖는 경우 true.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../)
-* 네임스페이스 [Aspose.PSD](../../point/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

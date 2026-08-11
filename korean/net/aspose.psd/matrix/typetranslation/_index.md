@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeTranslation
-second_title: .NET API 참조용 Aspose.PSD
-description: Matrix 필드. 이동은 벡터의 길이나 각도를 변경하지 않고 x 및 y에서 일정한 양만큼 좌표를 이동합니다.
+title: "Matrix.TypeTranslation"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Matrix 필드. 변환은 x와 y 방향으로 좌표를 일정량 이동시키며, 벡터의 길이와 각도는 변경하지 않습니다."
 type: docs
 weight: 280
 url: /ko/net/aspose.psd/matrix/typetranslation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeTranslation field
 
-이동은 벡터의 길이나 각도를 변경하지 않고 x 및 y에서 일정한 양만큼 좌표를 이동합니다.
+변환은 x와 y 방향으로 좌표를 일정량 이동시키며, 벡터의 길이와 각도는 변경하지 않습니다.
 
 ```csharp
 public const int TypeTranslation;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

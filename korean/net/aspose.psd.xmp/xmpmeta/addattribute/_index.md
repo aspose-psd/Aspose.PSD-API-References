@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpMeta 방법. 속성을 추가합니다.
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpMeta 메서드. 속성을 추가합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 속성을 추가합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp/xmpmeta/addattribute/
 public override void AddAttribute(string attribute, string value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| attribute | String | 속성. |
-| value | String | 가치. |
+| 속성 | String | 속성입니다. |
+| 값 | String | 값. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpMeta](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmpmeta/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

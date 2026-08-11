@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.EffectType
-second_title: .NET API 참조용 Aspose.PSD
-description: OuterGlowEffect 재산. 효과 유형 가져오기 type
+title: "OuterGlowEffect.EffectType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "OuterGlowEffect 속성. 효과 유형의 타입을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.EffectType property
 
-효과 유형 가져오기 type
+효과 유형의 타입을 가져옵니다.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [OuterGlowEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

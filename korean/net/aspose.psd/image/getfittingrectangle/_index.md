@@ -1,11 +1,12 @@
 ---
-title: Image.GetFittingRectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 현재 이미지에 맞는 사각형을 가져옵니다.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 현재 이미지에 맞는 사각형을 가져옵니다"
 type: docs
-weight: 270
+weight: 280
 url: /ko/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
 현재 이미지에 맞는 사각형을 가져옵니다.
@@ -14,22 +15,22 @@ url: /ko/net/aspose.psd/image/getfittingrectangle/
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 적합한 사각형을 가져올 사각형입니다. |
-| width | Int32 | 개체 너비입니다. |
-| height | Int32 | 개체 높이입니다. |
+| 사각형 | Rectangle | 맞는 사각형을 얻기 위한 사각형. |
+| width | Int32 | 객체 너비. |
+| height | Int32 | 객체 높이. |
 
 ### 반환 값
 
-적합한 직사각형 또는 적합한 직사각형을 찾을 수 없는 경우 예외입니다.
+맞는 사각형 또는 맞는 사각형을 찾을 수 없을 경우 예외.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,22 +43,22 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
     int height)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 적합한 사각형을 가져올 사각형입니다. |
-| pixels | Int32[] | 32비트 ARGB 픽셀. |
-| width | Int32 | 개체 너비입니다. |
-| height | Int32 | 개체 높이입니다. |
+| 사각형 | Rectangle | 맞는 사각형을 얻기 위한 사각형. |
+| 픽셀 | Int32[] | 32비트 ARGB 픽셀. |
+| width | Int32 | 객체 너비. |
+| height | Int32 | 객체 높이. |
 
 ### 반환 값
 
-적합한 직사각형 또는 적합한 직사각형을 찾을 수 없는 경우 예외입니다.
+맞는 사각형 또는 맞는 사각형을 찾을 수 없을 경우 예외.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

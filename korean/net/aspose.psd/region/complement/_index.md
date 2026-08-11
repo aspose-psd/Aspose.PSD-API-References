@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: .NET API 참조용 Aspose.PSD
-description: Region 방법. 업데이트Region 지정된 부분을 포함하려면RectangleF 이것과 교차하지 않는 구조Region .
+title: "Region.Complement"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Region 메서드. 이 Region을 지정된 RectangleF 구조 중 이 Region과 교차하지 않는 부분을 포함하도록 업데이트합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-업데이트[`Region`](../) 지정된 부분을 포함하려면[`RectangleF`](../../rectanglef/) 이것과 교차하지 않는 구조[`Region`](../) .
+이 [`Region`](../)을 지정된 [`RectangleF`](../../rectanglef/) 구조 중 이 [`Region`](../)과 교차하지 않는 부분을 포함하도록 업데이트합니다.
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | RectangleF | 그만큼[`RectangleF`](../../rectanglef/) 이를 보완하는 구조[`Region`](../). |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) 구조를 이 [`Region`](../)와 보완합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-업데이트[`Region`](../) 지정된 부분을 포함하려면[`Rectangle`](../../rectangle/) 이것과 교차하지 않는 구조[`Region`](../) .
+이 [`Region`](../)을 지정된 [`Rectangle`](../../rectangle/) 구조 중 이 [`Region`](../)과 교차하지 않는 부분을 포함하도록 업데이트합니다.
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 그만큼[`Rectangle`](../../rectangle/) 이를 보완하는 구조[`Region`](../). |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) 구조를 이 [`Region`](../)와 보완합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-업데이트[`Region`](../) 지정된 부분을 포함하려면[`GraphicsPath`](../../graphicspath/) 이것과 교차하지 않는[`Region`](../) .
+이 [`Region`](../)을 지정된 [`GraphicsPath`](../../graphicspath/) 중 이 [`Region`](../)과 교차하지 않는 부분을 포함하도록 업데이트합니다.
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| path | GraphicsPath | 그만큼[`GraphicsPath`](../../graphicspath/) 이를 보완하기 위해[`Region`](../). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/)을 이 [`Region`](../)와 보완합니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-업데이트[`Region`](../) 지정된 부분을 포함하려면[`Region`](../) 이것과 교차하지 않는[`Region`](../) .
+이 [`Region`](../)을 지정된 [`Region`](../) 중 이 [`Region`](../)과 교차하지 않는 부분을 포함하도록 업데이트합니다.
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| region | Region | 그만큼[`Region`](../) 이를 보완하기 위한 반대[`Region`](../) 물체. |
+| region | Region | 이 [`Region`](../) 객체를 보완하는 [`Region`](../) 객체. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* null인지. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

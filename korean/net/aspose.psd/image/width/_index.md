@@ -1,11 +1,12 @@
 ---
-title: Image.Width
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 재산. 이미지 너비를 가져옵니다.
+title: "Image.Width"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 속성. 이미지의 너비를 가져옵니다."
 type: docs
-weight: 150
+weight: 160
 url: /ko/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
 이미지 너비를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/image/width/
 public abstract int Width { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 이미지 너비입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

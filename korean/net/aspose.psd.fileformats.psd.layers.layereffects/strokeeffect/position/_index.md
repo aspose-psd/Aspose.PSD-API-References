@@ -1,22 +1,23 @@
 ---
-title: StrokeEffect.Position
-second_title: .NET API 참조용 Aspose.PSD
-description: StrokeEffect 재산. PSD 레이어 콘텐츠에 대한 획의 정렬을 제어하기 위해 획 효과의 위치를 가져오거나 설정합니다. 값은 다음과 같습니다.Inside PSD 레이어 콘텐츠 내부에 스트로크를 그리려면 또는Outside PSD 레이어 콘텐츠 주위에 스트로크를 그리고Center 안쪽과 바깥쪽에 모두 스트로크를 그립니다.
+title: "StrokeEffect.Position"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StrokeEffect 속성. 스트로크 효과의 위치를 가져오거나 설정하여 스트로크를 PSD 레이어 콘텐츠에 맞게 정렬합니다. 값은 Inside를 선택하면 PSD 레이어 콘텐츠 내부에 스트로크를 그리며, Outside를 선택하면 PSD 레이어 콘텐츠 주변에 스트로크를 그리고, Center를 선택하면 스트로크를 내부와 외부 모두에 그립니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Position property
 
-PSD 레이어 콘텐츠에 대한 획의 정렬을 제어하기 위해 획 효과의 위치를 가져오거나 설정합니다. 값은 다음과 같습니다.Inside PSD 레이어 콘텐츠 내부에 스트로크를 그리려면 또는Outside PSD 레이어 콘텐츠, 주위에 스트로크를 그리고Center 안쪽과 바깥쪽에 모두 스트로크를 그립니다.
+스트로크 효과의 위치를 가져오거나 설정하여 스트로크를 PSD 레이어 내용에 맞게 정렬합니다. 값은 Inside(스트로크를 레이어 내용 내부에 그리기), Outside(레이어 내용 주변에 그리기), Center(내부와 외부 모두에 스트로크를 그리기) 중 하나가 될 수 있습니다.
 
 ```csharp
 public StrokePosition Position { get; set; }
 ```
 
-### 예
+## 예제
 
-이 예는 색상, 그라데이션 또는 패턴과 같은 다양한 유형의 채우기로 획 효과를 추가하는 기능을 보여줍니다.
+이 예제는 Color, Gradient 또는 Pattern과 같은 다양한 채우기 유형으로 스트로크 효과를 추가하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -28,28 +29,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. 내부 위치에 색상 채우기를 추가합니다.
+    // 1. Color 채우기를 추가합니다, 위치 Inside
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. 외부 위치에 색상 채우기를 추가합니다.
+    // 2. Color 채우기를 추가합니다, 위치 Outside
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Center 위치에 색상 채우기를 추가합니다.
+    // 3. Color 채우기를 추가합니다, 위치 Center
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. 내부 위치에 그라디언트 채우기를 추가합니다.
+    // 4. Gradient 채우기를 추가합니다, 위치 Inside
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -57,7 +58,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. 외부 위치에 그라데이션 채우기를 추가합니다.
+    // 5. Gradient 채우기를 추가합니다, 위치 Outside
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. 위치 중심에 그라데이션 채우기를 추가합니다.
+    // 6. Gradient 채우기를 추가합니다, 위치 Center
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -73,21 +74,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. 내부 위치에 패턴 채우기를 추가합니다.
+    // 7. Pattern 채우기를 추가합니다, 위치 Inside
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. 외부 위치에 패턴 채우기를 추가합니다.
+    // 8. Pattern 채우기를 추가합니다, 위치 Outside
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Center 위치에 패턴 채우기를 추가합니다.
+    // 9. Pattern 채우기를 추가합니다, 위치 Center
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -98,11 +99,11 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [StrokePosition](../../strokeposition/)
 * class [StrokeEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

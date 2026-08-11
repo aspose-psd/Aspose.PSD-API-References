@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.TypeValue
-second_title: .NET API 참조용 Aspose.PSD
-description: TypeToolInfoResource 재산. 유형 값을 가져오거나 설정합니다.
+title: "TypeToolInfoResource.TypeValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TypeToolInfoResource 속성. 유형 값을 가져오거나 설정합니다"
 type: docs
-weight: 240
+weight: 210
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TypeValue property
 
 유형 값을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short TypeValue { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-유형 값입니다.
+유형 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [TypeToolInfoResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

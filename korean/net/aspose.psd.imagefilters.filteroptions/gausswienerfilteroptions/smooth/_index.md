@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: .NET API 참조용 Aspose.PSD
-description: GaussWienerFilterOptions 재산. 평활도를 가져오거나 설정합니다.
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GaussWienerFilterOptions 속성. 부드러움을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
-평활도를 가져오거나 설정합니다.
+smooth를 가져오거나 설정합니다.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-매끄럽다.
+부드러움입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [GaussWienerFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDOP
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. GPS DOP데이터 정밀도를 가져오거나 설정합니다.
+title: "ExifData.GPSDOP"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. GPS DOP 데이터 정밀도 정도를 가져오거나 설정합니다"
 type: docs
 weight: 490
 url: /ko/net/aspose.psd.exif/exifdata/gpsdop/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDOP property
 
-GPS DOP(데이터 정밀도)를 가져오거나 설정합니다.
+GPS DOP(정밀도 데이터 정도)를 가져오거나 설정합니다.
 
 ```csharp
 public TiffRational GPSDOP { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 GPS DOP(데이터 정밀도).
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

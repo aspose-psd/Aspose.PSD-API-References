@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: .NET API 참조용 Aspose.PSD
-description: ClassID 건설자. 의 새 인스턴스를 초기화합니다.ClassID 클래스.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ClassID 생성자. ClassID 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`ClassID`](../) 클래스.
+`[`ClassID`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| classID | Byte[] | 일련의 바이트로 된 클래스 ID입니다. |
+| classID | Byte[] | 클래스 ID를 바이트 시퀀스로 나타냅니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`ClassID`](../) 클래스.
+`[`ClassID`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| classID | Byte[] | 일련의 바이트로 된 클래스 ID입니다. |
-| isZeroLength | Boolean | 로 설정된 경우`진실` [길이가 0임]. 기록된 문자열 길이는 0이지만 실제 길이는 4입니다. |
+| classID | Byte[] | 클래스 ID를 바이트 시퀀스로 나타냅니다. |
+| isZeroLength | Boolean | `true` 로 설정하면 [길이가 0입니다]. 기록된 문자열 길이는 0이지만 실제는 4입니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | classID가 null입니다. |
+| ArgumentNullException | classID는 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`ClassID`](../) 클래스.
+`[`ClassID`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| classID | Int32 | 클래스 ID입니다. |
+| classID | Int32 | 클래스 ID. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-의 새 인스턴스를 초기화합니다.[`ClassID`](../) 클래스.
+`[`ClassID`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| classID | UInt32 | 클래스 ID입니다. |
+| classID | UInt32 | 클래스 ID. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-의 새 인스턴스를 초기화합니다.[`ClassID`](../) 클래스.
+`[`ClassID`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| classID | String | ASCII 인코딩의 클래스 ID입니다. |
-| isZeroLength | Boolean | 로 설정된 경우`진실` [길이가 0입니다]. |
+| classID | String | ASCII 인코딩의 클래스 ID. |
+| isZeroLength | Boolean | `true` 로 설정하면 [길이가 0입니다]. |
 
-### 예
+## 예제
 
-이 예제는 이미지에서 가져온 레이어가 스마트 오브젝트 레이어로 변환되고 저장된 PSD 파일이 올바른지 보여줍니다.
+이 예제는 이미지에서 가져온 레이어가 smart object 레이어로 변환되고 저장된 PSD 파일이 올바른 것을 보여줍니다.
 
 ```csharp
 [C#]
 
-// 이미지에서 가져온 레이어가 스마트 오브젝트 레이어로 변환되고 저장된 PSD 파일이 올바른지 테스트합니다.
+// 이미지에서 가져온 레이어가 smart object 레이어로 변환되고 저장된 PSD 파일이 올바른지 테스트합니다.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,30 +153,30 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-의 새 인스턴스를 초기화합니다.[`ClassID`](../) 클래스.
+`[`ClassID`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| classID | String | ASCII 인코딩의 클래스 ID입니다. |
+| classID | String | ASCII 인코딩의 클래스 ID. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

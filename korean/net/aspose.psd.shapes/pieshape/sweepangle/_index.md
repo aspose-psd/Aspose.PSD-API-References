@@ -1,27 +1,28 @@
 ---
-title: PieShape.SweepAngle
-second_title: .NET API 참조용 Aspose.PSD
-description: PieShape 재산. 스위프 각도를 가져오거나 설정합니다.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PieShape 속성. 스윕 각도를 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
-스위프 각도를 가져오거나 설정합니다.
+스윕 각도를 가져오거나 설정합니다.
 
 ```csharp
 public float SweepAngle { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 스윕 각도입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PieShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../pieshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

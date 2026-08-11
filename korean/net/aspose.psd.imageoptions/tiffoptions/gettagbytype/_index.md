@@ -1,33 +1,34 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 방법. 유형별로 태그의 인스턴스를 가져옵니다.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 메서드. 유형별 태그 인스턴스를 가져옵니다"
 type: docs
-weight: 720
+weight: 730
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-유형별로 태그의 인스턴스를 가져옵니다.
+형식별 태그 인스턴스를 가져옵니다.
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| tagKey | TiffTags | 태그 키입니다. |
+| tagKey | TiffTags | 태그 키. |
 
 ### 반환 값
 
-존재하는 경우 태그의 인스턴스 또는 그렇지 않은 경우 null.
+태그가 존재하면 그 인스턴스, 없으면 null입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

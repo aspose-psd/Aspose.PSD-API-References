@@ -1,26 +1,27 @@
 ---
-title: FXidResource.FXidResource
-second_title: .NET API 참조용 Aspose.PSD
-description: FXidResource 건설자. 의 새 인스턴스를 초기화합니다.FXidResource 클래스.
+title: "FXidResource.FXidResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FXidResource 생성자. FXidResource 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-의 새 인스턴스를 초기화합니다.[`FXidResource`](../) 클래스.
+[`FXidResource`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| key | Int32 | 리소스 키입니다. |
-| version | Int32 | 버전. |
-| filterEffectMasks | FilterEffectMaskData[] | 필터 효과 마스크. |
+| 키 | Int32 | 리소스 키입니다. |
+| 버전 | Int32 | 버전. |
+| filterEffectMasks | FilterEffectMaskData[] | 필터 효과 마스크입니다. |
 
-### 예
+## 예제
 
 이 예제는 FXidResource 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -67,11 +68,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

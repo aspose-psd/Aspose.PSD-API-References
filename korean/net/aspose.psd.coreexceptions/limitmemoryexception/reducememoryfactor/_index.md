@@ -1,27 +1,28 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: .NET API 참조용 Aspose.PSD
-description: LimitMemoryException 재산. 메모리 감소 요소를 가져오거나 설정합니다.
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LimitMemoryException 속성. 메모리 감소 계수를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
-메모리 감소 요소를 가져오거나 설정합니다.
+메모리 감소 계수를 가져오거나 설정합니다.
 
 ```csharp
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-메모리 팩터 감소.
+메모리 감소 계수.
 
-### 또한보십시오
+### 또 보기
 
 * class [LimitMemoryException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

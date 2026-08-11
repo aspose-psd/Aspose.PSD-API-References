@@ -1,32 +1,33 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: .NET API 참조용 Aspose.PSD
-description: FileFormatExtensions 방법. 단일 파일 형식이 정의되었는지 여부를 결정합니다.
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FileFormatExtensions 메서드. 단일 파일 형식이 정의되어 있는지 확인합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-단일 파일 형식이 정의되었는지 여부를 결정합니다.
+단일 파일 형식이 정의되어 있는지 확인합니다.
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fileFormat | FileFormat | 확인할 파일 형식입니다. |
+| fileFormat | FileFormat | 확인할 파일 형식. |
 
 ### 반환 값
 
-`진실` 단일 파일 형식이 정의된 경우; 그렇지 않으면,`거짓` .
+`True`가 단일 파일 형식이 정의된 경우; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../fileformatextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

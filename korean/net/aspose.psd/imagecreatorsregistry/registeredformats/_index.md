@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.RegisteredFormats
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageCreatorsRegistry 재산. 등록된 이미지 생성 형식을 가져옵니다.
+title: "ImageCreatorsRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageCreatorsRegistry 속성. 등록된 이미지 생성 형식을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/imagecreatorsregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredFormats property
 
 등록된 이미지 생성 형식을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/imagecreatorsregistry/registeredformats/
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 등록된 이미지 생성 형식입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* 네임스페이스 [Aspose.PSD](../../imagecreatorsregistry/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

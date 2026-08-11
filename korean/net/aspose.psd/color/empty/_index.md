@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 재산. 비어 있음Color .
+title: "Color.Empty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color 속성. 빈 Color를 가져옵니다."
 type: docs
 weight: 430
 url: /ko/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-비어 있음[`Color`](../) .
+빈 [`Color`](../)을 가져옵니다.
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-빈[`Color`](../).
+빈 [`Color`](../).
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

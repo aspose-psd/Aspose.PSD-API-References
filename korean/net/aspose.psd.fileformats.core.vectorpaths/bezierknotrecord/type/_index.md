@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.Type
-second_title: .NET API 참조용 Aspose.PSD
-description: BezierKnotRecord 재산. 유형을 가져옵니다.
+title: "BezierKnotRecord.Type"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BezierKnotRecord 속성. 유형을 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Type property
 
-유형을 가져옵니다.
+형식을 가져옵니다.
 
 ```csharp
 public override VectorPathType Type { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-유형.
+유형입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [BezierKnotRecord](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

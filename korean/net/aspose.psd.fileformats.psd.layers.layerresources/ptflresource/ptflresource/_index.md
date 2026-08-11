@@ -1,28 +1,45 @@
 ---
-title: PtFlResource.PtFlResource
-second_title: .NET API 참조용 Aspose.PSD
-description: PtFlResource 건설자. 의 새 인스턴스를 초기화합니다.PtFlResource 클래스.
+title: "PtFlResource.PtFlResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PtFlResource 생성자. PtFlResource 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
-## PtFlResource constructor
+{{< psd/tize >}}
+## PtFlResource() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`PtFlResource`](../) 클래스.
+[`PtFlResource`](../) 클래스의 새 인스턴스를 초기화합니다.
+
+```csharp
+public PtFlResource()
+```
+
+### 또 보기
+
+* class [PtFlResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## PtFlResource(string, string) {#constructor_1}
+
+[`PtFlResource`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public PtFlResource(string patternName, string patternId)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| patternName | String | 패턴의 이름입니다. |
-| patternId | String | 패턴 식별자입니다. |
+| patternName | String | 패턴 이름. |
+| patternId | String | 패턴 식별자. |
 
-### 또한보십시오
+### 또 보기
 
 * class [PtFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

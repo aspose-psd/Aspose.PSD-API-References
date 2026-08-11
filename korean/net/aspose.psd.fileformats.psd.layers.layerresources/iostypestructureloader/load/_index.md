@@ -1,33 +1,34 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: .NET API 참조용 Aspose.PSD
-description: IOSTypeStructureLoader 방법. 로드OSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IOSTypeStructureLoader 메서드. OSTypeStructure를 로드합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-로드[`OSTypeStructure`](../../ostypestructure/) .
+[`OSTypeStructure`](../../ostypestructure/)을 로드합니다.
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 로드할 스트림 컨테이너입니다. |
 
 ### 반환 값
 
-로드된[`OSTypeStructure`](../../ostypestructure/) 리소스.
+로드된 [`OSTypeStructure`](../../ostypestructure/) 리소스입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

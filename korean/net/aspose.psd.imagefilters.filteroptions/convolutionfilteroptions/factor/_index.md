@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: .NET API 참조용 Aspose.PSD
-description: ConvolutionFilterOptions 재산. 계수를 가져오거나 설정합니다.
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ConvolutionFilterOptions 속성. 팩터를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
-계수를 가져오거나 설정합니다.
+factor를 가져오거나 설정합니다.
 
 ```csharp
 public double Factor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-계수.
+팩터입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ConvolutionFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

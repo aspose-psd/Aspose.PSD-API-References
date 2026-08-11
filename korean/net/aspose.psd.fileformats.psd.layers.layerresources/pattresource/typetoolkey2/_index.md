@@ -1,11 +1,12 @@
 ---
-title: PattResource.TypeToolKey2
-second_title: .NET API 참조용 Aspose.PSD
-description: PattResource 필드. 16비트용 Pat2 유형 도구 정보 키입니다.
+title: "PattResource.TypeToolKey2"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PattResource 필드. 16비트용 Pat2 타입 도구 정보 키"
 type: docs
-weight: 90
+weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey2 field
 
 16비트용 'Pat2' 유형 도구 정보 키입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typet
 public const int TypeToolKey2;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PattResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

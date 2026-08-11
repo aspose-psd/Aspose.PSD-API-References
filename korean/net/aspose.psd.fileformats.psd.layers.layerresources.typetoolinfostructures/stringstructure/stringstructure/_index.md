@@ -1,46 +1,47 @@
 ---
-title: StringStructure.StringStructure
-second_title: .NET API 참조용 Aspose.PSD
-description: StringStructure 건설자. 의 새 인스턴스를 초기화합니다.StringStructure 클래스.
+title: "StringStructure.StringStructure"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringStructure 생성자. StringStructure 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure(ClassID) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`StringStructure`](../) 클래스.
+[`StringStructure`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StringStructure(ClassID keyName)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | keyName | ClassID | 키 이름입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`StringStructure`](../)값이 있는 클래스.
+[`StringStructure`](../) 클래스의 새 인스턴스를 값과 함께 초기화합니다.
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | keyName | ClassID | 키 이름입니다. |
-| value | String | 가치. |
+| 값 | String | 값. |
 
-### 예
+## 예제
 
 이 예제는 Psd LnkE 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
@@ -56,7 +57,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 이 예제는 외부 링크 파일에 대한 정보가 포함된 Psd LnkE 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 파일에 대한 정보를 포함하는 Psd LnkE 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -133,7 +134,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// 이 예제는 외부 연결된 JPEG 파일에 대한 정보를 포함하는 Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 JPEG 파일에 대한 정보를 포함하는 Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -152,7 +153,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// 이 예제는 외부 링크된 PNG 파일에 대한 정보가 포함된 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 PNG 파일에 대한 정보를 포함하는 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -171,7 +172,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// 이 예제는 두 개의 외부 연결된 PNG 및 PSD 파일에 대한 정보가 포함된 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 두 개의 외부 링크 PNG 및 PSD 파일에 대한 정보를 포함하는 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -190,7 +191,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// 이 예제는 연결된 외부 CC Libraries 자산에 대한 정보가 포함된 Photoshop Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 CC Libraries 자산에 대한 정보를 포함하는 Photoshop Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -210,11 +211,11 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

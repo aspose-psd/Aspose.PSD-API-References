@@ -1,28 +1,29 @@
 ---
-title: Figure.RemoveShape
-second_title: .NET API 참조용 Aspose.PSD
-description: Figure 방법. 그림에서 모양을 제거합니다.
+title: "Figure.RemoveShape"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Figure 메서드. 도형에서 모양을 제거합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/figure/removeshape/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShape method
 
-그림에서 모양을 제거합니다.
+도형에서 모양을 제거합니다.
 
 ```csharp
 public void RemoveShape(Shape shape)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| shape | Shape | 제거할 모양입니다. |
+| 모양 | Shape | 제거할 모양. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* 네임스페이스 [Aspose.PSD](../../figure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

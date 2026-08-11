@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Magenta
-second_title: .NET API 참조용 Aspose.PSD
-description: CmykMixerChannel 재산. 자홍색을 가져오거나 설정합니다.
+title: "CmykMixerChannel.Magenta"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CmykMixerChannel 속성. 마젠타를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Magenta property
 
-자홍색을 가져오거나 설정합니다.
+마젠타색을 가져오거나 설정합니다.
 
 ```csharp
 public short Magenta { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-자홍색.
+마젠타.
 
-### 또한보십시오
+### 또 보기
 
 * class [CmykMixerChannel](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

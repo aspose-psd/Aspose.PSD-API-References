@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Write
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffStreamWriter 방법. 지정된 데이터를 씁니다.
+title: "TiffStreamWriter.Write"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffStreamWriter 메서드. 지정된 데이터를 씁니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[], int, int) {#write_1}
 
 지정된 데이터를 씁니다.
@@ -14,17 +15,17 @@ url: /ko/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 public void Write(byte[] data, int offset, int dataLength)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| data | Byte[] | 쓸 데이터입니다. |
-| offset | Int32 | 데이터 오프셋입니다. |
-| dataLength | Int32 | 작성자에 대한 데이터의 길이. |
+| 데이터 | Byte[] | 쓸 데이터. |
+| offset | Int32 | 데이터 오프셋. |
+| dataLength | Int32 | 데이터를 기록할 길이. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffStreamWriter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void Write(byte[] data, int offset, int dataLength)
 public void Write(byte[] data)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| data | Byte[] | 쓸 데이터입니다. |
+| 데이터 | Byte[] | 쓸 데이터. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffStreamWriter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

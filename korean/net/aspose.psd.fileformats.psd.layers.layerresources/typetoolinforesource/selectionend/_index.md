@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: .NET API 참조용 Aspose.PSD
-description: TypeToolInfoResource 재산. 선택 끝을 가져오거나 설정합니다.
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TypeToolInfoResource 속성. 선택 종료를 가져오거나 설정합니다"
 type: docs
-weight: 180
+weight: 160
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
 선택 끝을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int SelectionEnd { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-선택 끝.
+선택 종료.
 
-### 또한보십시오
+### 또 보기
 
 * class [TypeToolInfoResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: RasterCachedImage.Crop
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterCachedImage 방법. 이미지 자르기.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterCachedImage 메서드. 이미지 자르기"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
-이미지 자르기.
+이미지를 자릅니다.
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 직사각형. |
+| 사각형 | Rectangle | 직사각형입니다. |
 
-### 예
+## 예제
 
 다음 코드는 특정 사각형으로 이미지를 자르는 기능을 보여줍니다.
 
@@ -78,11 +79,11 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

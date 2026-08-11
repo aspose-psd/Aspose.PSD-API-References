@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.HorizontalScale
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 수평 스케일.
+title: "ITextStyle.HorizontalScale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 수평 배율"
 type: docs
 weight: 160
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.HorizontalScale property
 
-수평 스케일.
+수평 배율.
 
 ```csharp
 public double HorizontalScale { get; set; }
 ```
 
-### 예
+## 예제
 
 다음 코드는 새로운 ITextStyle 속성 지원을 보여줍니다.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

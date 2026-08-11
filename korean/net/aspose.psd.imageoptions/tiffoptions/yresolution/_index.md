@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yresolution
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. y 해상도를 가져오거나 설정합니다.
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. y 해상도를 가져오거나 설정합니다."
 type: docs
-weight: 690
+weight: 700
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
 y 해상도를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ y 해상도를 가져오거나 설정합니다.
 public TiffRational Yresolution { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 y 해상도.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

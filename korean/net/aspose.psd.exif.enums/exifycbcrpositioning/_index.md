@@ -1,29 +1,30 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning 열거형. exif y cb cr 포지셔닝 열거형.
+title: "열거형 ExifYCbCrPositioning"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifYCbCrPositioning 열거형. exif y cb cr 위치 지정 열거형"
 type: docs
-weight: 980
+weight: 990
 url: /ko/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr 포지셔닝 열거형.
+exif YCbCr 위치 지정 열거형.
 
 ```csharp
 public enum ExifYCbCrPositioning
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Centered | `1` | 중심 YCbCr |
-| CoSited | `2` | 공동 사이트 위치 |
+| CoSited | `2` | 공동 위치 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

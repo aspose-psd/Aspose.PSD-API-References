@@ -1,36 +1,37 @@
 ---
-title: Layer.DrawImage
-second_title: .NET API 참조용 Aspose.PSD
-description: Layer 방법. 레이어에 이미지를 그립니다.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Layer 메서드. 레이어에 이미지를 그립니다."
 type: docs
-weight: 340
+weight: 360
 url: /ko/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
-레이어에 이미지를 그립니다.
+이미지를 레이어에 그립니다.
 
 ```csharp
 public void DrawImage(Point location, RasterImage image)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| location | Point | 위치. |
+| 위치 | Point | 위치. |
 | image | RasterImage | 이미지. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 위치는 음수가 아니어야 합니다. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 위치는 음수가 될 수 없습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

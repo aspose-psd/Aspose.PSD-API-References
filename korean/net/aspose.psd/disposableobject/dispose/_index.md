@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: .NET API 참조용 Aspose.PSD
-description: DisposableObject 방법. 현재 인스턴스를 삭제합니다.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DisposableObject 메서드. 현재 인스턴스를 해제합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-현재 인스턴스를 삭제합니다.
+현재 인스턴스를 해제합니다.
 
 ```csharp
 public void Dispose()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [DisposableObject](../)
-* 네임스페이스 [Aspose.PSD](../../disposableobject/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

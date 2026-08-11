@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Width
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorImage 재산. 이미지 너비를 가져옵니다.
+title: "VectorImage.Width"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorImage 속성. 이미지의 너비를 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
 이미지 너비를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/vectorimage/width/
 public override int Width { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이미지 너비.
+이미지 너비입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorImage](../)
-* 네임스페이스 [Aspose.PSD](../../vectorimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

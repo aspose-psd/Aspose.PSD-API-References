@@ -1,31 +1,32 @@
 ---
-title: ColorBlend.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorBlend 방법. 지정된 개체가ColorBlend 클래스이며 이것과 동일합니다.ColorBlend 클래스.
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorBlend 메서드. 지정된 객체가 ColorBlend 클래스이며 이 ColorBlend 클래스와 동등한지 테스트합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-지정된 개체가[`ColorBlend`](../) 클래스이며 이것과 동일합니다.[`ColorBlend`](../) 클래스.
+지정된 객체가 [`ColorBlend`](../) 클래스이며 이 [`ColorBlend`](../) 클래스와 동등한지 테스트합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 테스트할 개체입니다. |
+| obj | Object | 테스트할 객체입니다. |
 
 ### 반환 값
 
-참이면*obj* 이다[`ColorBlend`](../) 이에 상응하는 클래스[`ColorBlend`](../) 수업; 그렇지 않으면 거짓입니다.
+*obj*가 이 [`ColorBlend`](../) 클래스와 동등한 경우 true; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorBlend](../)
-* 네임스페이스 [Aspose.PSD](../../colorblend/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

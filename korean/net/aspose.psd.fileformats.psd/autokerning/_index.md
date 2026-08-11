@@ -1,28 +1,29 @@
 ---
-title: Enum AutoKerning
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.AutoKerning 열거형. Photoshop 자동 커닝 모드기호 간 거리.
+title: "열거형 AutoKerning"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Photoshop 자동 커닝 모드, 기호 사이의 거리"
 type: docs
-weight: 1600
+weight: 1610
 url: /ko/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Photoshop 자동 커닝 모드(기호 간 거리).
+Photoshop 자동 커닝 모드(기호 사이의 거리)입니다.
 
 ```csharp
 public enum AutoKerning
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Manual | `0` | 수동 커닝 값. |
-| Metric | `1` | 메트릭 커닝은 디자이너가 제공하는 대부분의 글꼴에 포함된 커닝 쌍을 사용합니다. |
-| Optical | `2` | 시각적 커닝은 모양에 따라 인접한 문자 사이의 간격을 조정합니다. |
+| Metric | `1` | 메트릭스 커닝은 대부분의 글꼴에 포함된 커닝 쌍을 사용합니다(디자이너 제공). |
+| Optical | `2` | 옵티컬 커닝은 인접 문자들의 형태에 따라 간격을 조정합니다. |
 
-### 예
+## 예제
 
 다음 코드는 새로운 ITextStyle 속성 지원을 보여줍니다.
 
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

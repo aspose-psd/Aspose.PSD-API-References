@@ -1,51 +1,52 @@
 ---
-title: Pen.TranslateTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 방법. 지정된 치수로 로컬 기하 변환을 변환합니다. 이 방법은 변환을 변환 앞에 추가합니다.
+title: "Pen.TranslateTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 메서드. 지정된 치수만큼 로컬 기하 변환을 평행 이동합니다. 이 메서드는 이동을 변환 앞에 추가합니다."
 type: docs
 weight: 240
 url: /ko/net/aspose.psd/pen/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-지정된 치수로 로컬 기하 변환을 변환합니다. 이 방법은 변환을 변환 앞에 추가합니다.
+지정된 치수만큼 로컬 기하학적 변환을 평행 이동합니다. 이 메서드는 평행 이동을 변환 앞에 추가합니다.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| dx | Single | x에서의 번역 값입니다. |
-| dy | Single | y의 변환 값입니다. |
+| dx | 단일 | x 방향 평행 이동의 값. |
+| dy | 단일 | y 방향 평행 이동의 값. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-지정된 순서로 지정된 치수로 로컬 기하 변환을 변환합니다.
+지정된 순서대로 지정된 치수만큼 로컬 기하학적 변환을 평행 이동합니다.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| dx | Single | x에서의 번역 값입니다. |
-| dy | Single | y의 변환 값입니다. |
-| order | MatrixOrder | 번역을 적용할 순서(앞에 추가 또는 추가)입니다. |
+| dx | 단일 | x 방향 평행 이동의 값. |
+| dy | 단일 | y 방향 평행 이동의 값. |
+| order | MatrixOrder | 평행 이동을 적용할 순서(앞에 추가 또는 뒤에 추가). |
 
-### 또한보십시오
+### 또 보기
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

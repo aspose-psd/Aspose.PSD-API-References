@@ -1,14 +1,15 @@
 ---
-title: Class BritResource
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BritResource 수업. 클래스 BritResource. 밝기/대비 조정 레이어 리소스
+title: "클래스 BritResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BritResource 클래스. Class BritResource. 밝기/대비 조정 레이어의 리소스"
 type: docs
-weight: 2340
+weight: 2600
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
+{{< psd/tize >}}
 ## BritResource class
 
-클래스 BritResource. 밝기/대비 조정 레이어 리소스
+BritResource 클래스. 밝기/대비 조정 레이어의 리소스
 
 ```csharp
 public class BritResource : AdjustmentLayerResource
@@ -18,9 +19,9 @@ public class BritResource : AdjustmentLayerResource
 
 | 이름 | 설명 |
 | --- | --- |
-| [BritResource](britresource/#constructor)() | 의 새 인스턴스를 초기화합니다.`BritResource` 클래스. |
-| [BritResource](britresource/#constructor_1)(byte[]) | 의 새 인스턴스를 초기화합니다.`BritResource`class. PSD 형식 사양에는 다음 설명이 포함되어 있습니다. 2 Brightness 2 Contrast 2 밝기 및 대비의 평균값 1 Lab color only CgEd가 있는 최신 PSD(CS5 이상)에서는 사용되지 않습니다. CgEd는 정보 properties 를 저장합니다. |
-| [BritResource](britresource/#constructor_2)(short, short, short, bool) | 의 새 인스턴스를 초기화합니다.`BritResource` 클래스. |
+| [BritResource](britresource/#constructor)() | `BritResource` 클래스의 새 인스턴스를 초기화합니다. |
+| [BritResource](britresource/#constructor_1)(byte[]) | `BritResource` 클래스의 새 인스턴스를 초기화합니다. PSD 형식 사양에는 다음 설명이 포함됩니다: 2 밝기 2 대비 2 밝기와 대비의 평균값 1 Lab 색상만 사용됩니다. 이는 CgEd가 있는 최신 PSD(CS5 이상)에서는 사용되지 않습니다. CgEd는 정보 속성을 저장합니다. |
+| [BritResource](britresource/#constructor_2)(short, short, short, bool) | `BritResource` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -28,31 +29,31 @@ public class BritResource : AdjustmentLayerResource
 | --- | --- |
 | [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/) { get; set; } | 밝기를 가져오거나 설정합니다. |
 | [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/) { get; set; } | 대비를 가져오거나 설정합니다. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/) { get; set; } | [실험실 색상]. 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/) { get; set; } | [lab color]인지 여부를 나타내는 값을 가져오거나 설정합니다. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length/) { get; } | 레이어 리소스 길이를 바이트 단위로 가져옵니다. |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/) { get; set; } | 밝기와 대비의 평균값을 가져오거나 설정합니다. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion/) { get; } | psd 버전을 가져옵니다. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | 서명을 받습니다. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/) { get; set; } | 밝기와 대비에 대한 평균 값을 가져오거나 설정합니다. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 레이어 리소스에 필요한 최소 PSD 버전을 가져옵니다. 0은 제한이 없음을 나타냅니다. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 서명을 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | 리소스를 지정된 스트림 컨테이너에 저장합니다. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 반환String 이 instance. 를 나타냅니다. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 이 인스턴스를 나타내는 문자열을 반환합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/) | 유형 도구 정보 키입니다. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/) | 타입 툴 정보 키. |
 
-### 또한보십시오
+### 또 보기
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

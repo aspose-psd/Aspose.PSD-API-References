@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.Item
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 재산. 지정된 인덱스에서 요소를 가져오거나 설정합니다.
+title: "NonGenericList.Item"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 속성. 지정된 인덱스의 요소를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
-지정된 인덱스에서 요소를 가져오거나 설정합니다.
+지정된 인덱스의 요소를 가져오거나 설정합니다.
 
 ```csharp
 public object this[int index] { get; set; }
 ```
 
-| 모수 | 설명 |
+| 매개변수 | 설명 |
 | --- | --- |
-| index | 색인. |
+| index | 인덱스. |
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

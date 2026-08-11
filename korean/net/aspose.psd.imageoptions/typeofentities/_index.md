@@ -1,29 +1,30 @@
 ---
-title: Enum TypeOfEntities
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageOptions.TypeOfEntities 열거형. 는 render 에 대한 엔터티 유형을 나타냅니다.
+title: "Enum TypeOfEntities"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities enum. 렌더링할 엔터티 유형을 나타냅니다"
 type: docs
-weight: 4970
+weight: 5460
 url: /ko/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
-는 render 에 대한 엔터티 유형을 나타냅니다.
+렌더링할 엔티티 유형을 나타냅니다
 
 ```csharp
 public enum TypeOfEntities
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Entities2D | `0` | 2D 엔티티 렌더링 |
-| Entities3D | `1` | 3D 엔티티 렌더링 |
+| Entities2D | `0` | 2D 엔터티를 렌더링합니다 |
+| Entities3D | `1` | 3D 엔터티를 렌더링합니다 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Multiply
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 방법. 연산자 . 를 구현합니다.
+title: "RectangleF.op_Multiply"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 메서드. 연산자를 구현합니다."
 type: docs
 weight: 300
 url: /ko/net/aspose.psd/rectanglef/op_multiply/
 ---
+{{< psd/tize >}}
 ## RectangleF Multiply operator
 
-연산자 *. 를 구현합니다.
+연산자 *를 구현합니다.
 
 ```csharp
 public static RectangleF operator *(RectangleF rectangle, float multiplier)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | RectangleF | 직사각형. |
-| multiplier | Single | 승수. |
+| 사각형 | RectangleF | 직사각형입니다. |
+| 곱셈 인자 | 단일 | 곱셈 인자입니다. |
 
 ### 반환 값
 
 연산자의 결과입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

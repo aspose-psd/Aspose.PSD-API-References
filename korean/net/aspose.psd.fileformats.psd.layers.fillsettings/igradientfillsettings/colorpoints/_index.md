@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: .NET API 참조용 Aspose.PSD
-description: IGradientFillSettings 재산. 색상 포인트를 가져옵니다.
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IGradientFillSettings 속성. 색상 포인트를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
 색상 포인트를 가져옵니다.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 색상 포인트.
 
-### 예
+## 예제
 
-다음 예제는 Gradient FillLayer 지원 및 IGradientFillSettings 편집 옵션을 보여줍니다.
+다음 예제는 Gradient FillLayer 지원 및 IGradientFillSettings 편집 옵션을 보여줍니다..
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

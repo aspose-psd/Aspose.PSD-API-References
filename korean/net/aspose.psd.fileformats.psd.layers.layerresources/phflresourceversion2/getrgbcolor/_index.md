@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.GetRgbColor
-second_title: .NET API 참조용 Aspose.PSD
-description: PhflResourceVersion2 방법. 색상을 가져옵니다.
+title: "PhflResourceVersion2.GetRgbColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhflResourceVersion2 메서드. 색상을 가져옵니다"
 type: docs
-weight: 100
+weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.GetRgbColor method
 
 색상을 가져옵니다.
@@ -18,11 +19,11 @@ public override Color GetRgbColor()
 
 RGB 색상
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion2](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

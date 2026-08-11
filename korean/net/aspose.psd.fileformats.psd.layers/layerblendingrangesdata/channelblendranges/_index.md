@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.ChannelBlendRanges
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerBlendingRangesData 재산. 채널 혼합 범위를 가져오거나 설정합니다.
+title: "LayerBlendingRangesData.ChannelBlendRanges"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerBlendingRangesData 속성. 채널 블렌드 범위를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.ChannelBlendRanges property
 
-채널 혼합 범위를 가져오거나 설정합니다.
+채널 블렌드 범위를 가져오거나 설정합니다.
 
 ```csharp
 public BlendRange[] ChannelBlendRanges { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-채널 혼합 범위입니다.
+채널 블렌드 범위.
 
-### 또한보십시오
+### 또 보기
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 최소 샘플 값을 가져오거나 설정합니다. 값에는 샘플 데이터와 가장 일치하는 필드 유형Byte Short 또는 Long 유형이 있습니다.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 최소 샘플 값을 가져오거나 설정합니다. 이 값은 샘플 데이터인 Byte, Short 또는 Long 유형에 가장 적합한 필드 유형을 가집니다."
 type: docs
-weight: 440
+weight: 450
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-최소 샘플 값을 가져오거나 설정합니다. 값에는 샘플 데이터와 가장 일치하는 필드 유형(Byte, Short 또는 Long 유형)이 있습니다.
+최소 샘플 값을 가져오거나 설정합니다. 이 값은 샘플 데이터에 가장 적합한 필드 유형(바이트, 쇼트 또는 롱 유형)을 가집니다.
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-최소 샘플 값입니다.
+최소 샘플 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: PdfOptions.PdfCoreOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: PdfOptions 재산. PDF 핵심 options
+title: "PdfOptions.PdfCoreOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PdfOptions 속성. PDF 핵심 옵션"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfCoreOptions property
 
-PDF 핵심 options
+PDF 핵심 옵션
 
 ```csharp
 public PdfCoreOptions PdfCoreOptions { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

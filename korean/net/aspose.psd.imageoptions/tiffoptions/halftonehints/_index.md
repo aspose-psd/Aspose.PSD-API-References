@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 하프톤 힌트를 가져오거나 설정합니다.
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 하프톤 힌트를 가져오거나 설정합니다"
 type: docs
-weight: 170
+weight: 180
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
 하프톤 힌트를 가져오거나 설정합니다.
@@ -14,21 +15,21 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 하프톤 힌트입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | ArgumentNullException | 값 |
-| ArgumentOutOfRangeException | 값;하프톤 힌트 배열 길이는 2와 같아야 합니다. |
+| ArgumentOutOfRangeException | value;Halftone hints 배열 길이는 2와 같아야 합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Figure.Reverse
-second_title: .NET API 참조용 Aspose.PSD
-description: Figure 방법. 이 그림 모양 순서를 반대로 하고 점 순서를 모양 지정합니다.
+title: "Figure.Reverse"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Figure 메서드. 이 도형의 모양 순서와 모양 점 순서를 반전시킵니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-이 그림 모양 순서를 반대로 하고 점 순서를 모양 지정합니다.
+이 도형의 모양 순서와 점 순서를 반전시킵니다.
 
 ```csharp
 public void Reverse()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Figure](../)
-* 네임스페이스 [Aspose.PSD](../../figure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

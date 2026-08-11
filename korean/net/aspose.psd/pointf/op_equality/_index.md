@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Equality
-second_title: .NET API 참조용 Aspose.PSD
-description: PointF 방법. 두 개를 비교합니다.PointF 구조. 결과는X 그리고Y 둘의 속성PointF 구조가 동일합니다.
+title: "PointF.op_Equality"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PointF 메서드. 두 PointF 구조체를 비교합니다. 결과는 두 PointF 구조체의 X 및 Y 속성 값이 동일한지 여부를 지정합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-두 개를 비교합니다.[`PointF`](../) 구조. 결과는[`X`](../x/) 그리고[`Y`](../y/) 둘의 속성[`PointF`](../) 구조가 동일합니다.
+두 [`PointF`](../) 구조체를 비교합니다. 결과는 두 [`PointF`](../) 구조체의 [`X`](../x/) 및 [`Y`](../y/) 속성 값이 동일한지 여부를 지정합니다.
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point1 | PointF | 첫 번째[`PointF`](../) 비교하기 위해서. |
-| point2 | PointF | 잠시만요[`PointF`](../) 비교하기 위해서. |
+| point1 | PointF | 비교할 첫 번째 [`PointF`](../). |
+| point2 | PointF | 비교할 두 번째 [`PointF`](../). |
 
 ### 반환 값
 
-다음과 같은 경우 참[`X`](../x/) 그리고[`Y`](../y/) 첫 번째와 두 번째 값[`PointF`](../) 구조는 동일합니다. 그렇지 않으면 거짓입니다.
+첫 번째와 두 번째 [`PointF`](../) 구조체의 [`X`](../x/) 및 [`Y`](../y/) 값이 동일하면 true; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../)
-* 네임스페이스 [Aspose.PSD](../../pointf/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

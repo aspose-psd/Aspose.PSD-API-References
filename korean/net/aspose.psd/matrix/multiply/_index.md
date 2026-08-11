@@ -1,49 +1,50 @@
 ---
-title: Matrix.Multiply
-second_title: .NET API 참조용 Aspose.PSD
-description: Matrix 방법. 이 행렬에 행렬 매개 변수에 지정된 행렬을 order 매개 변수에 지정된 순서대로 곱합니다.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Matrix 메서드. 이 Matrix를 matrix 매개변수에 지정된 행렬과 order 매개변수에 지정된 순서대로 곱합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-이 행렬에 행렬 매개 변수에 지정된 행렬을 order 매개 변수에 지정된 순서대로 곱합니다.
+이 Matrix에 matrix 매개변수에 지정된 행렬을 곱하고, order 매개변수에 지정된 순서대로 수행합니다.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| Tx | Matrix | 텍사스. 텍사스. 텍사스. |
-| order | MatrixOrder | 순서. 순서. 순서. |
+| Tx | 행렬 | tx입니다. tx입니다. tx입니다. |
+| order | MatrixOrder | 그 order. 그 order. 그 order. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-이 행렬에 (기본값) Prepend order. 를 사용하여 행렬 매개 변수에 지정된 행렬을 곱합니다.
+이 Matrix에 matrix 매개변수에 지정된 행렬을 (기본) Prepend 순서로 곱합니다.
 
 ```csharp
 public void Multiply(Matrix Tx)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| Tx | Matrix | 곱할 행렬입니다. |
+| Tx | 행렬 | 곱할 matrix. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

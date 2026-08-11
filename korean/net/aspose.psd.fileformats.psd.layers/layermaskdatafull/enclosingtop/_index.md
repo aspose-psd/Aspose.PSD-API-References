@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingTop
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerMaskDataFull 재산. PSD 이미지 레이어에서 래스터 마스크의 둘러싸는 상단 위치를 가져오거나 설정합니다.
+title: "LayerMaskDataFull.EnclosingTop"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerMaskDataFull 속성. PSD 이미지 레이어에서 래스터 마스크의 상단 위치를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingTop property
 
-PSD 이미지 레이어에서 래스터 마스크의 둘러싸는 상단 위치를 가져오거나 설정합니다.
+PSD 이미지 레이어에서 래스터 마스크의 상단 위치를 가져오거나 설정합니다.
 
 ```csharp
 public int EnclosingTop { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-최상위 레이어 마스크 위치.
+상단 레이어 마스크 위치.
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerMaskDataFull](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

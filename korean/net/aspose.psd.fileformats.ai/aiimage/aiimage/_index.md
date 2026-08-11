@@ -1,23 +1,24 @@
 ---
-title: AiImage.AiImage
-second_title: .NET API 참조용 Aspose.PSD
-description: AiImage 건설자. 기본 생성자입니다.
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiImage 생성자. AiImage 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-기본 생성자입니다.
+`[`AiImage`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public AiImage()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AiImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

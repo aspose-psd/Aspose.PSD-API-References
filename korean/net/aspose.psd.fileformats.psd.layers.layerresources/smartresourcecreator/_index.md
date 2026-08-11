@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator 수업. PlLd SoLd 및 SoLe 리소스를 생성할 수 있는 SmartResourceCreator 클래스를 정의합니다. Adobe Photoshop 이미지에서 스마트 개체 레이어를 지원하는 데 사용됩니다.
+title: "클래스 SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator class. SmartResourceCreator 클래스를 정의하며 PlLd, SoLd 및 SoLe 리소스를 생성할 수 있습니다. Adobe Photoshop 이미지의 스마트 오브젝트 레이어를 지원하는 데 사용됩니다."
 type: docs
-weight: 3000
+weight: 3350
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-PlLd, SoLd 및 SoLe 리소스를 생성할 수 있는 SmartResourceCreator 클래스를 정의합니다. Adobe® Photoshop® 이미지에서 스마트 개체 레이어를 지원하는 데 사용됩니다.
+SmartResourceCreator 클래스를 정의하며 PlLd, SoLd 및 SoLe 리소스를 생성할 수 있습니다. Adobe® Photoshop® 이미지에서 스마트 객체 레이어를 지원하는 데 사용됩니다.
 
 ```csharp
 public class SmartResourceCreator
@@ -18,19 +19,19 @@ public class SmartResourceCreator
 
 | 이름 | 설명 |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | 의 새 인스턴스를 초기화합니다.`SmartResourceCreator` 클래스. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | 의 새 인스턴스를 초기화합니다.`SmartResourceCreator` 주어진 template. 가 있는 class |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | 의 새 인스턴스를 초기화합니다.`SmartResourceCreator` 클래스. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | `SmartResourceCreator` 클래스의 새 인스턴스를 초기화합니다. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | 주어진 템플릿으로 `SmartResourceCreator` 클래스의 새 인스턴스를 초기화합니다. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | `SmartResourceCreator` 클래스의 새 인스턴스를 초기화합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | 배치된 리소스를 생성합니다. |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | 포함된 스마트 개체 리소스를 생성합니다. |
-| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | 외부 스마트 개체 리소스를 생성합니다. |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | 임베드된 스마트 오브젝트 리소스를 생성합니다. |
+| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | 외부 스마트 오브젝트 리소스를 생성합니다. |
 
-### 예
+## 예제
 
 다음 코드는 SoLEResource, SmartObjectResource 및 PlacedResource 리소스의 지원을 보여줍니다.
 
@@ -126,10 +127,10 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // 이 값은 PlLdResource(지정된 UniqueId 포함)에서도 변경되어야 합니다.
-    // 그리고 그 중 일부는 LinkDataSource의 밑줄 스마트 개체와 일치해야 합니다.
+    // 이 값은 지정된 UniqueId가 있는 PlLdResource에서도 변경되어야 합니다.
+    // 그리고 그 중 일부는 LinkDataSource에 있는 기본 스마트 오브젝트와 일치해야 합니다.
     resource.PageNumber = (int)newValues[2]; // 2;
-    resource.TotalPages = (int)newValues[3]; // 삼;
+    resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // 이 고유 ID는 참조에서 변경되어야 합니다.
+    // 해당 고유 ID는 참조가 있는 경우 변경되어야 합니다.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,12 +164,12 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 일부 매개변수에 주의: 저장된 이미지를 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
+    // 일부 매개변수에 주의하십시오: 저장된 이미지가 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // 변경하지 않으면 자유 변형을 사용할 수 없습니다.
-    // 또는 밑줄 스마트 객체를 벡터 유형으로 변경
+    // 이를 변경하지 마세요, 그렇지 않으면 자유 변형을 사용할 수 없습니다.
+    // 또는 기본 스마트 오브젝트를 벡터 유형으로 변경하십시오.
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
     // 이 고유 ID를 가진 유효한 PlLdResource가 있어야 합니다.
@@ -335,12 +336,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

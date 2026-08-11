@@ -1,33 +1,34 @@
 ---
-title: Point.Add
-second_title: .NET API 참조용 Aspose.PSD
-description: Point 방법. 지정된 항목을 추가합니다.Size 지정된Point .
+title: "Point.Add"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Point 메서드. 지정된 Size를 지정된 Point에 추가합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-지정된 항목을 추가합니다.[`Size`](../../size/) 지정된[`Point`](../) .
+지정된 [`Size`](../../size/)를 지정된 [`Point`](../)에 추가합니다.
 
 ```csharp
 public static Point Add(Point point, Size size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point | Point | 그만큼[`Point`](../) 에 추가합니다. |
-| size | Size | 그만큼[`Size`](../../size/) 에 추가하기 위해*point*. |
+| point | Point | 추가할 [`Point`](../). |
+| size | Size | 추가할 [`Size`](../../size/)는 *point*에. |
 
 ### 반환 값
 
-그만큼[`Point`](../) 그것은 더하기 연산의 결과입니다.
+덧셈 연산의 결과인 [`Point`](../).
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* 네임스페이스 [Aspose.PSD](../../point/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

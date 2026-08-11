@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Scale
-second_title: .NET API 참조용 Aspose.PSD
-description: PtFlResource 재산. 배율을 가져오거나 설정합니다.
+title: "PtFlResource.Scale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PtFlResource 속성. 스케일을 가져오거나 설정합니다"
 type: docs
-weight: 100
+weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Scale property
 
-배율을 가져오거나 설정합니다.
+스케일을 가져오거나 설정합니다.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-저울.
+스케일입니다.
 
-### 예
+## 예제
 
-다음 예는 PtFlResource 리소스 로드 및 편집 지원을 보여줍니다.
+다음 예제는 PtFlResource 리소스의 로드 및 편집 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // 독서
+                    // 읽기
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PtFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

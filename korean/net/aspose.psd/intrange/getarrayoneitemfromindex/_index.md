@@ -1,37 +1,38 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: IntRange 방법. 지정된 index 에서 하나의 항목 배열을 반환합니다.
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IntRange 메서드. 지정된 인덱스에서 하나의 항목 배열을 반환합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-지정된 index 에서 하나의 항목 배열을 반환합니다.
+지정된 인덱스에서 하나의 항목 배열을 반환합니다.
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | index | Int32 | 범위 인덱스입니다. |
 
 ### 반환 값
 
-의 배열Int32
+Int32 배열
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 인덱스가 범위를 벗어났습니다. |
+| ArgumentException | 인덱스가 범위를 벗어났습니다 |
 
-### 또한보십시오
+### 또 보기
 
 * class [IntRange](../)
-* 네임스페이스 [Aspose.PSD](../../intrange/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

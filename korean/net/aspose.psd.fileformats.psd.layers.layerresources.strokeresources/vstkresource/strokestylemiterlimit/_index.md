@@ -1,11 +1,12 @@
 ---
-title: VstkResource.StrokeStyleMiterLimit
-second_title: .NET API 참조용 Aspose.PSD
-description: VstkResource 재산. 스트로크 스타일 마이터 제한을 가져오거나 설정합니다.
+title: "VstkResource.StrokeStyleMiterLimit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VstkResource 속성. 스트로크 스타일 마이터 제한을 가져오거나 설정합니다"
 type: docs
-weight: 170
+weight: 150
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleMiterLimit property
 
 스트로크 스타일 마이터 제한을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public double StrokeStyleMiterLimit { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-획 스타일 마이터 제한입니다.
+스트로크 스타일 마이터 제한.
 
-### 또한보십시오
+### 또 보기
 
 * class [VstkResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

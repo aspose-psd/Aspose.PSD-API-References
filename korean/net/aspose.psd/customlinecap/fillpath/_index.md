@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.FillPath
-second_title: .NET API 참조용 Aspose.PSD
-description: CustomLineCap 재산. 사용자 지정 캡의 채우기를 정의하는 개체를 가져오거나 설정합니다.
+title: "CustomLineCap.FillPath"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CustomLineCap 속성. 사용자 정의 캡의 채우기를 정의하는 객체를 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/customlinecap/fillpath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.FillPath property
 
-사용자 지정 캡의 채우기를 정의하는 개체를 가져오거나 설정합니다.
+사용자 정의 캡의 채우기를 정의하는 객체를 가져오거나 설정합니다.
 
 ```csharp
 public GraphicsPath FillPath { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-사용자 정의 캡의 채우기를 정의하는 개체입니다.
+사용자 정의 캡의 채우기를 정의하는 객체.
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* 네임스페이스 [Aspose.PSD](../../customlinecap/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

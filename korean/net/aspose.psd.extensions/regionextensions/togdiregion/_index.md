@@ -1,32 +1,33 @@
 ---
-title: RegionExtensions.ToGdiRegion
-second_title: .NET API 참조용 Aspose.PSD
-description: RegionExtensions 방법. 변환Region 로Region .
+title: "RegionExtensions.ToGdiRegion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RegionExtensions 메서드. Region을 Region으로 변환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/regionextensions/togdiregion/
 ---
+{{< psd/tize >}}
 ## RegionExtensions.ToGdiRegion method
 
-변환[`Region`](../../../aspose.psd/region/) ~로Region .
+`[`Region`](../../../aspose.psd/region/)`를 Region으로 변환합니다.
 
 ```csharp
 public static Region ToGdiRegion(Region region)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| region | Region | 그만큼[`Region`](../../../aspose.psd/region/) 변환하다. |
+| region | Region | 변환할 `[`Region`](../../../aspose.psd/region/)`. |
 
 ### 반환 값
 
-개종자Region.
+변환된 Region.
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../../../aspose.psd/region/)
 * class [RegionExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../regionextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

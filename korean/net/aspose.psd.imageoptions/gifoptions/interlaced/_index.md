@@ -1,23 +1,24 @@
 ---
-title: GifOptions.Interlaced
-second_title: .NET API 참조용 Aspose.PSD
-description: GifOptions 재산. 이미지가 인터레이스되어야 하는 경우 True입니다.
+title: "GifOptions.Interlaced"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GifOptions 속성. 이미지가 인터레이스되어야 하면 true."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-이미지가 인터레이스되어야 하는 경우 True입니다.
+이미지를 인터레이스해야 하는 경우 true.
 
 ```csharp
 public bool Interlaced { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GifOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

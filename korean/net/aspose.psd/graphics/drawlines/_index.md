@@ -1,67 +1,68 @@
 ---
-title: Graphics.DrawLines
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 배열을 연결하는 일련의 선분을 그립니다.Point 구조.
+title: "Graphics.DrawLines"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. Point 구조체 배열을 연결하는 일련의 선분을 그립니다."
 type: docs
-weight: 260
+weight: 270
 url: /ko/net/aspose.psd/graphics/drawlines/
 ---
+{{< psd/tize >}}
 ## DrawLines(Pen, Point[]) {#drawlines_1}
 
-배열을 연결하는 일련의 선분을 그립니다.[`Point`](../../point/) 구조.
+[`Point`](../../point/) 구조체 배열을 연결하는 일련의 선분을 그립니다.
 
 ```csharp
 public void DrawLines(Pen pen, Point[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) 선분의 색상, 너비 및 스타일을 결정합니다. |
-| points | Point[] | 의 배열[`Point`](../../point/) 연결할 점을 나타내는 구조. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 선분의 색상, 너비 및 스타일을 결정합니다. |
+| points | Point[] | 연결할 점을 나타내는 [`Point`](../../point/) 구조체 배열. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. -또는- *points* null입니다. |
-| ArgumentException | 그만큼*points* 배열에 2개 미만의 포인트가 포함되어 있습니다. |
+| ArgumentNullException | *pen*이 null입니다. -or- *points*가 null입니다. |
+| ArgumentException | *points* 배열에 점이 2개 미만 있습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLines(Pen, PointF[]) {#drawlines}
 
-배열을 연결하는 일련의 선분을 그립니다.[`PointF`](../../pointf/) 구조.
+[`PointF`](../../pointf/) 구조체 배열을 연결하는 일련의 선분을 그립니다.
 
 ```csharp
 public void DrawLines(Pen pen, PointF[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) 선분의 색상, 너비 및 스타일을 결정합니다. |
-| points | PointF[] | 의 배열[`PointF`](../../pointf/) 연결할 점을 나타내는 구조. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 선분의 색상, 너비 및 스타일을 결정합니다. |
+| points | PointF[] | 연결할 점을 나타내는 [`PointF`](../../pointf/) 구조체 배열. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. -또는- *points* null입니다. |
-| ArgumentException | 그만큼*points* 배열에 2개 미만의 포인트가 포함되어 있습니다. |
+| ArgumentNullException | *pen*이 null입니다. -or- *points*가 null입니다. |
+| ArgumentException | *points* 배열에 점이 2개 미만 있습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: SmartObjectResource.PlacedId
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectResource 재산. PSD 이미지에서 이 스마트 개체 레이어 데이터의 고유 식별자를 가져오거나 설정합니다.
+title: "SmartObjectResource.PlacedId"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectResource property. PSD 이미지에서 이 스마트 오브젝트 레이어 데이터의 고유 식별자를 가져오거나 설정합니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PlacedId property
 
-PSD 이미지에서 이 스마트 개체 레이어 데이터의 고유 식별자를 가져오거나 설정합니다.
+PSD 이미지의 이 스마트 오브젝트 레이어 데이터 고유 식별자를 가져오거나 설정합니다.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 스마트 개체 계층 리소스의 고유 식별자입니다.
+이 스마트 객체 레이어 리소스의 고유 식별자입니다.
 
-### 예
+## 예제
 
 다음 코드는 SoLEResource, SmartObjectResource 및 PlacedResource 리소스의 지원을 보여줍니다.
 
@@ -114,10 +115,10 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // 이 값은 PlLdResource(지정된 UniqueId 포함)에서도 변경되어야 합니다.
-    // 그리고 그 중 일부는 LinkDataSource의 밑줄 스마트 개체와 일치해야 합니다.
+    // 이 값은 지정된 UniqueId가 있는 PlLdResource에서도 변경되어야 합니다.
+    // 그리고 그 중 일부는 LinkDataSource에 있는 기본 스마트 오브젝트와 일치해야 합니다.
     resource.PageNumber = (int)newValues[2]; // 2;
-    resource.TotalPages = (int)newValues[3]; // 삼;
+    resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // 이 고유 ID는 참조에서 변경되어야 합니다.
+    // 해당 고유 ID는 참조가 있는 경우 변경되어야 합니다.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,12 +152,12 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 일부 매개변수에 주의: 저장된 이미지를 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
+    // 일부 매개변수에 주의하십시오: 저장된 이미지가 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // 변경하지 않으면 자유 변형을 사용할 수 없습니다.
-    // 또는 밑줄 스마트 객체를 벡터 유형으로 변경
+    // 이를 변경하지 마세요, 그렇지 않으면 자유 변형을 사용할 수 없습니다.
+    // 또는 기본 스마트 오브젝트를 벡터 유형으로 변경하십시오.
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
     // 이 고유 ID를 가진 유효한 PlLdResource가 있어야 합니다.
@@ -323,12 +324,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-다음 코드는 SoLdResource 리소스의 지원을 보여줍니다.
+다음 코드는 SoLdResource 리소스 지원을 보여줍니다.
 
 ```csharp
 [C#]
 
-// 이 예제는 PSD 파일의 스마트 개체 레이어 데이터 속성을 가져오거나 설정하는 방법을 보여줍니다.
+// 이 예제는 PSD 파일의 스마트 오브젝트 레이어 데이터 속성을 가져오거나 설정하는 방법을 보여줍니다.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +563,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // 이 값은 PlLdResource(지정된 UniqueId 포함)에서도 변경되어야 합니다.
-                // 그리고 그 중 일부는 LinkDataSource의 밑줄 스마트 개체와 일치해야 합니다.
+                // 이 값은 지정된 UniqueId가 있는 PlLdResource에서도 변경되어야 합니다.
+                // 그리고 그 중 일부는 LinkDataSource에 있는 기본 스마트 오브젝트와 일치해야 합니다.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,15 +609,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // 이 고유 ID는 참조에서 변경되어야 합니다.
+                // 해당 고유 ID는 참조가 있는 경우 변경되어야 합니다.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 일부 매개변수에 주의: Adobe® Photoshop®에서 이미지를 읽을 수 없게 될 수 있습니다.
+                // 일부 매개변수에 주의하십시오: 이미지가 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // 변경하지 않으면 자유 변형을 사용할 수 없습니다.
-                // 또는 밑줄 스마트 객체를 벡터 유형으로 변경
+                // 이를 변경하지 마세요, 그렇지 않으면 자유 변형을 사용할 수 없습니다.
+                // 또는 기본 스마트 오브젝트를 벡터 유형으로 변경하십시오.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // 이 고유 ID를 가진 유효한 PlLdResource가 있어야 합니다.
@@ -632,10 +633,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartObjectResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

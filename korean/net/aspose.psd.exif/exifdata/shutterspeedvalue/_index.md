@@ -1,11 +1,12 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 셔터 속도 값을 가져오거나 설정합니다.
+title: "ExifData.ShutterSpeedValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 셔터 속도 값을 가져오거나 설정합니다"
 type: docs
 weight: 950
 url: /ko/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
 셔터 속도 값을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-셔터 속도 값입니다.
+셔터 속도 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

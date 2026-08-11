@@ -1,30 +1,31 @@
 ---
-title: LiFeDataSource.Date
-second_title: .NET API 참조용 Aspose.PSD
-description: LiFeDataSource 재산. PSD LnkE 리소스의 LiFE 데이터 소스에서 외부 파일의 마지막 쓰기 날짜 및 시간을 가져오거나 설정합니다.
+title: "LiFeDataSource.Date"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LiFeDataSource 속성. PSD LnkE 리소스의 LiFE 데이터 소스에서 외부 파일의 마지막 쓰기 날짜와 시간을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.Date property
 
-PSD LnkE 리소스의 LiFE 데이터 소스에서 외부 파일의 마지막 쓰기 날짜 및 시간을 가져오거나 설정합니다.
+PSD LnkE 리소스의 LiFE 데이터 소스에 있는 외부 파일의 마지막 쓰기 날짜와 시간을 가져오거나 설정합니다.
 
 ```csharp
 public DateTime Date { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-외부 파일의 마지막 쓰기 날짜 및 시간입니다.
+외부 파일의 마지막 쓰기 날짜와 시간.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 날짜 속성에 액세스할 수 없습니다. 버전 3 이상의 liFE 데이터 소스에서만 사용할 수 있습니다 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Date 속성에 접근할 수 없습니다. 버전 3 이상인 liFE 데이터 소스에서만 사용할 수 있습니다 |
 
-### 예
+## 예제
 
 이 예제는 Psd LnkE 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 이 예제는 외부 링크 파일에 대한 정보가 포함된 Psd LnkE 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 파일에 대한 정보를 포함하는 Psd LnkE 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// 이 예제는 외부 연결된 JPEG 파일에 대한 정보를 포함하는 Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 JPEG 파일에 대한 정보를 포함하는 Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// 이 예제는 외부 링크된 PNG 파일에 대한 정보가 포함된 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 PNG 파일에 대한 정보를 포함하는 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// 이 예제는 두 개의 외부 연결된 PNG 및 PSD 파일에 대한 정보가 포함된 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 두 개의 외부 링크 PNG 및 PSD 파일에 대한 정보를 포함하는 PSD LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// 이 예제는 연결된 외부 CC Libraries 자산에 대한 정보가 포함된 Photoshop Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 외부 링크 CC Libraries 자산에 대한 정보를 포함하는 Photoshop Psd LnkeResource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,10 +195,10 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LiFeDataSource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ColorantCmyk.ColorValueMin
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorantCmyk 필드. CMYK 착색제의 색상 최소값.
+title: "ColorantCmyk.ColorValueMin"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorantCmyk 필드. CMYK 색상에서 최소 색상 값"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMin field
 
-CMYK 착색제의 색상 최소값.
+CMYK 컬러런트의 최소 색상 값.
 
 ```csharp
 public const float ColorValueMin;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorantCmyk](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

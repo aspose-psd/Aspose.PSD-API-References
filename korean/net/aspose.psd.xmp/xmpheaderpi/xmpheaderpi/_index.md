@@ -1,43 +1,44 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpHeaderPi 건설자. 의 새 인스턴스를 초기화합니다.XmpHeaderPi 클래스.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpHeaderPi 생성자. XmpHeaderPi 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`XmpHeaderPi`](../) 클래스.
+새 인스턴스를 초기화합니다 [`XmpHeaderPi`](../) 클래스의.
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpHeaderPi](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`XmpHeaderPi`](../) 클래스.
+새 인스턴스를 초기화합니다 [`XmpHeaderPi`](../) 클래스의.
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | guid | String | 고유 식별자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpHeaderPi](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

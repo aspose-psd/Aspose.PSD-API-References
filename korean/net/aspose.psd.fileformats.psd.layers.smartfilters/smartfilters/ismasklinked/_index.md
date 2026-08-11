@@ -1,11 +1,12 @@
 ---
-title: SmartFilters.IsMaskLinked
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartFilters 재산. 스마트 필터의 마스크 연결 상태를 가져옵니다.
+title: "SmartFilters.IsMaskLinked"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartFilters 속성. 스마트 필터의 마스크 연결 상태를 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskLinked property
 
 스마트 필터의 마스크 연결 상태를 가져옵니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskl
 public bool IsMaskLinked { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartFilters](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

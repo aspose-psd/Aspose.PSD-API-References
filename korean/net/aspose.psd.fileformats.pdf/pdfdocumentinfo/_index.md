@@ -1,14 +1,15 @@
 ---
-title: Class PdfDocumentInfo
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo 수업. 이 클래스는 문서 설명에 대한 메타데이터 집합을 나타냅니다.
+title: "클래스 PdfDocumentInfo"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo 클래스. 이 클래스는 문서 설명을 위한 메타데이터 집합을 나타냅니다."
 type: docs
-weight: 1570
+weight: 1580
 url: /ko/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo class
 
-이 클래스는 문서 설명에 대한 메타데이터 집합을 나타냅니다.
+이 클래스는 문서 설명을 위한 메타데이터 집합을 나타냅니다.
 
 ```csharp
 public class PdfDocumentInfo
@@ -24,14 +25,14 @@ public class PdfDocumentInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | 문서 작성자를 가져오거나 설정합니다. |
+| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | 문서의 저자를 가져오거나 설정합니다. |
 | [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | 문서의 키워드를 가져오거나 설정합니다. |
-| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | 문서의 제목을 가져오거나 설정합니다. |
+| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | 문서의 주제를 가져오거나 설정합니다. |
 | [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | 문서의 제목을 가져오거나 설정합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

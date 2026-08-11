@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 알파 저장소 옵션을 가져오거나 설정합니다. 이외의 옵션Unspecified 는 3개 이상 있을 때 사용됩니다.SamplesPerPixel 정의됨.
+title: "TiffOptions.AlphaStorage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 알파 저장 옵션을 가져오거나 설정합니다. Unspecified가 아닌 옵션은 SamplesPerPixel가 3개 이상 정의된 경우에 사용됩니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/alphastorage/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AlphaStorage property
 
-알파 저장소 옵션을 가져오거나 설정합니다. 이외의 옵션Unspecified 는 3개 이상 있을 때 사용됩니다.[`SamplesPerPixel`](../samplesperpixel/) 정의됨.
+알파 저장 옵션을 가져오거나 설정합니다. Unspecified가 아닌 옵션은 [`SamplesPerPixel`](../samplesperpixel/)가 3개 이상 정의된 경우에 사용됩니다.
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-알파 저장소 옵션입니다.
+알파 저장 옵션.
 
-### 또한보십시오
+### 또 보기
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

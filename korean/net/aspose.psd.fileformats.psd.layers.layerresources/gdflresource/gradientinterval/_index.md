@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: .NET API 참조용 Aspose.PSD
-description: GdFlResource 재산. 그라데이션 간격을 가져오거나 설정합니다.
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GdFlResource 속성. 그라디언트 간격을 가져오거나 설정합니다"
 type: docs
-weight: 70
+weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-그라데이션 간격을 가져오거나 설정합니다.
+그라디언트 간격을 가져오거나 설정합니다.
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-그라데이션 간격입니다.
+그라디언트 간격.
 
-### 또한보십시오
+### 또 보기
 
 * class [GdFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

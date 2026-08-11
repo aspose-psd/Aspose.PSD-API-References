@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: .NET API 참조용 Aspose.PSD
-description: Region 방법. 업데이트Region 지정된 것과 교차하지 않는 내부 부분만 포함합니다.RectangleF구조.
+title: "Region.Exclude"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Region 메서드. 이 Region의 내부 중 지정된 RectangleF 구조와 교차하지 않는 부분만 포함하도록 업데이트합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-업데이트[`Region`](../) 지정된 것과 교차하지 않는 내부 부분만 포함합니다.[`RectangleF`](../../rectanglef/)구조.
+이 [`Region`](../)을 지정된 [`RectangleF`](../../rectanglef/) 구조와 교차하지 않는 내부 부분만 포함하도록 업데이트합니다.
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | RectangleF | 그만큼[`RectangleF`](../../rectanglef/) 제외하는 구조[`Region`](../). |
+| rect | RectangleF | 이 [`Region`](../)에서 제외할 [`RectangleF`](../../rectanglef/) 구조. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-업데이트[`Region`](../) 지정된 것과 교차하지 않는 내부 부분만 포함합니다.[`Rectangle`](../../rectangle/)구조.
+이 [`Region`](../)을 업데이트하여 지정된 [`Rectangle`](../../rectangle/) 구조와 교차하지 않는 내부 영역만 포함하도록 합니다.
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 그만큼[`Rectangle`](../../rectangle/) 제외하는 구조[`Region`](../). |
+| rect | Rectangle | 이 [`Region`](../)에서 제외할 [`Rectangle`](../../rectangle/) 구조. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-업데이트[`Region`](../) 지정된 것과 교차하지 않는 내부 부분만 포함합니다.[`GraphicsPath`](../../graphicspath/) .
+이 [`Region`](../)을 업데이트하여 지정된 [`GraphicsPath`](../../graphicspath/)와 교차하지 않는 내부 부분만 포함하도록 합니다.
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| path | GraphicsPath | 그만큼[`GraphicsPath`](../../graphicspath/) 이를 제외하기 위해[`Region`](../). |
+| path | GraphicsPath | 이 [`Region`](../)에서 제외할 [`GraphicsPath`](../../graphicspath/). |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *path* null입니다. |
+| ArgumentNullException | *path*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-업데이트[`Region`](../) 지정된 것과 교차하지 않는 내부 부분만 포함합니다.[`Region`](../) .
+이 [`Region`](../)을 업데이트하여 지정된 [`Region`](../)과 교차하지 않는 내부 영역만 포함하도록 합니다.
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| region | Region | 그만큼[`Region`](../) 이를 제외하기 위해[`Region`](../). |
+| region | Region | 이 [`Region`](../)에서 제외할 [`Region`](../). |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *region* null입니다. |
+| ArgumentNullException | *region*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

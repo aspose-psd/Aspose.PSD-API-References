@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: .NET API 참조용 Aspose.PSD
-description: AiImage 재산. 이미지 너비를 가져옵니다.
+title: "AiImage.Width"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiImage 속성. 이미지 너비를 가져옵니다"
 type: docs
-weight: 120
+weight: 140
 url: /ko/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 이미지 너비를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.ai/aiimage/width/
 public override int Width { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이미지 너비.
+이미지 너비입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [AiImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColor
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorExtensions 방법. 변환Color 로Color .
+title: "ColorExtensions.ToGdiColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorExtensions 메서드. Color를 Color로 변환합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/colorextensions/togdicolor/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColor method
 
-변환[`Color`](../../../aspose.psd/color/) ~로Color .
+[`Color`](../../../aspose.psd/color/)를 Color로 변환합니다.
 
 ```csharp
 public static Color ToGdiColor(Color color)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| color | Color | 그만큼[`Color`](../../../aspose.psd/color/) 변환하다. |
+| color | Color | 변환할[`Color`](../../../aspose.psd/color/) |
 
 ### 반환 값
 
-개종자Color.
+변환된 Color.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../colorextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

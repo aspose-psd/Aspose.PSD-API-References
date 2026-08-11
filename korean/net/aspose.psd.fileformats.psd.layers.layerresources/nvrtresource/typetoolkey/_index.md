@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.TypeToolKey
-second_title: .NET API 참조용 Aspose.PSD
-description: NvrtResource 필드. 유형 도구 정보 키입니다.
+title: "NvrtResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NvrtResource 필드. 타입 툴 정보 키"
 type: docs
-weight: 60
+weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## NvrtResource.TypeToolKey field
 
-유형 도구 정보 키입니다.
+타입 툴 정보 키.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [NvrtResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ImageSaveException
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageSaveException 수업. 이미지 저장 예외입니다. 이미지 저장 중 발생.
+title: "클래스 ImageSaveException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException 클래스. 이미지 저장 예외. 이미지 저장 중에 발생합니다."
 type: docs
 weight: 630
 url: /ko/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
-이미지 저장 예외입니다. 이미지 저장 중 발생.
+이미지 저장 예외. 이미지 저장 중에 발생합니다.
 
 ```csharp
 public class ImageSaveException : ImageException
@@ -18,13 +19,13 @@ public class ImageSaveException : ImageException
 
 | 이름 | 설명 |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | 의 새 인스턴스를 초기화합니다.`ImageSaveException` 클래스. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | 의 새 인스턴스를 초기화합니다.`ImageSaveException` 클래스. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | 새 `ImageSaveException` 클래스 인스턴스를 초기화합니다. |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | 새 `ImageSaveException` 클래스 인스턴스를 초기화합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageException](../imageexception/)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageAttributes 방법. 이 브러시 색상 재매핑 테이블을 지웁니다.ImageAttributes object.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageAttributes 메서드. 이 ImageAttributes 객체의 브러시 colorremap 테이블을 지웁니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-이 브러시 색상 재매핑 테이블을 지웁니다.[`ImageAttributes`](../) object.
+이 [`ImageAttributes`](../) 객체의 브러시 color-remap 테이블을 지웁니다.
 
 ```csharp
 public void ClearBrushRemapTable()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageAttributes](../)
-* 네임스페이스 [Aspose.PSD](../../imageattributes/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: .NET API 참조용 Aspose.PSD
-description: TypeToolFontInfo 재산. 따라야 할 디자인 축 벡터를 가져오거나 설정합니다.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TypeToolFontInfo 속성. 따라야 할 디자인 축 벡터를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
 따라야 할 디자인 축 벡터를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/d
 public int DesignAxes { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-따라야 할 디자인 축 벡터입니다.
+디자인 축 벡터를 따라야 합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TypeToolFontInfo](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

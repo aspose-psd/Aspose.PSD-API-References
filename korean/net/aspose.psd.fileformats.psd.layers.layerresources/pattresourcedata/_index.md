@@ -1,14 +1,15 @@
 ---
-title: Class PattResourceData
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData 수업. 패턴 데이터를 저장할 클래스PattResource 리소스.
+title: "클래스 PattResourceData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData 클래스. PattResource 리소스의 패턴 데이터를 저장하는 클래스"
 type: docs
-weight: 2880
+weight: 3230
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData class
 
-패턴 데이터를 저장할 클래스[`PattResource`](../pattresource/) 리소스.
+[`PattResource`](../pattresource/) 리소스의 패턴 데이터를 저장하는 클래스.
 
 ```csharp
 public sealed class PattResourceData
@@ -33,16 +34,16 @@ public sealed class PattResourceData
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version/) { get; } | 버전을 가져옵니다. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/) { get; } | 너비를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/)(StreamContainer) | 패턴 데이터를 저장합니다. |
-| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | 패턴을 설정합니다. |
+| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | 패턴 픽셀 버퍼와 대상 크기를 설정하고, [`Width`](./width/) / [`Height`](./height/)를 업데이트하며, 기본 압축 모드(0)를 사용하여 저장하기 위한 데이터를 저장합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

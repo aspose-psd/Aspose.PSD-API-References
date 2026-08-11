@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: .NET API 참조용 Aspose.PSD
-description: AiLayerSection 재산. 레이어 이름을 가져오거나 설정합니다. 레이어 패널에 나타나는 항목의 이름을 지정합니다.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiLayerSection 속성. 레이어 이름을 가져오거나 설정합니다. 레이어 패널에 표시되는 항목의 이름을 지정합니다"
 type: docs
-weight: 110
+weight: 130
 url: /ko/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-레이어 이름을 가져오거나 설정합니다. 레이어 패널에 나타나는 항목의 이름을 지정합니다.
+레이어 이름을 가져오거나 설정합니다. 레이어 패널에 표시되는 항목의 이름을 지정합니다.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 레이어 이름입니다.
 
-### 예
+## 예제
 
-다음 예제는 AI 형식 파일의 레이어 지원을 보여줍니다.
+다음 예제는 AI 형식 파일에서 레이어 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AiLayerSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

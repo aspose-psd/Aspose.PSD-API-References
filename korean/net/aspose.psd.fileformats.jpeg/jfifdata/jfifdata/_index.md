@@ -1,23 +1,24 @@
 ---
-title: JFIFData.JFIFData
-second_title: .NET API 참조용 Aspose.PSD
-description: JFIFData 건설자. 의 새 인스턴스를 초기화합니다.JFIFData 클래스.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JFIFData 생성자. JFIFData 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-의 새 인스턴스를 초기화합니다.[`JFIFData`](../) 클래스.
+[`JFIFData`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public JFIFData()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JFIFData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

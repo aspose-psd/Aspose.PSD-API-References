@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: .NET API 참조용 Aspose.PSD
-description: FontSettings 방법. 기본 글꼴 폴더를 가져옵니다.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FontSettings 메서드. 기본 폰트 폴더를 가져옵니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
 기본 글꼴 폴더를 가져옵니다.
@@ -16,12 +17,12 @@ public static string[] GetDefaultFontsFolders()
 
 ### 반환 값
 
-시스템 폴더 반환
+시스템 폴더를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [FontSettings](../)
-* 네임스페이스 [Aspose.PSD](../../fontsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

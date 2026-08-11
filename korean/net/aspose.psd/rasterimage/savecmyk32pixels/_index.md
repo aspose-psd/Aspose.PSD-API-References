@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveCmyk32Pixels
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterImage 방법. 픽셀을 저장합니다.
+title: "RasterImage.SaveCmyk32Pixels"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterImage 메서드. 픽셀을 저장합니다"
 type: docs
-weight: 510
+weight: 520
 url: /ko/net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveCmyk32Pixels method
 
 픽셀을 저장합니다.
@@ -14,16 +15,16 @@ url: /ko/net/aspose.psd/rasterimage/savecmyk32pixels/
 public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 픽셀을 저장할 사각형입니다. |
-| pixels | Int32[] | CMYK 픽셀은 32비트 정수 값으로 표시됩니다. |
+| 사각형 | Rectangle | 픽셀을 저장할 사각형. |
+| 픽셀 | Int32[] | CMYK 픽셀이 32비트 정수 값으로 표시됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* 네임스페이스 [Aspose.PSD](../../rasterimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

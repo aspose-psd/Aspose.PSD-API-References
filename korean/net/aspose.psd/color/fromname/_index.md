@@ -1,31 +1,32 @@
 ---
-title: Color.FromName
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 방법. 생성Color미리 정의된 color. 의 지정된 이름에서 구조
+title: "Color.FromName"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color 메서드. 지정된 사전 정의 색상의 이름으로부터 Color 구조체를 생성합니다."
 type: docs
 weight: 1450
 url: /ko/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-생성[`Color`](../)미리 정의된 color. 의 지정된 이름에서 구조
+지정된 사전 정의 색상의 이름으로부터 [`Color`](../) 구조체를 생성합니다.
 
 ```csharp
 public static Color FromName(string name)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| name | String | 미리 정의된 색상의 이름인 문자열입니다. 유효한 이름은 요소의 이름과 동일합니다.[`KnownColor`](../../knowncolor/) 열거. |
+| name | String | 사전 정의 색상의 이름인 문자열입니다. 유효한 이름은 [`KnownColor`](../../knowncolor/) 열거형의 요소 이름과 동일합니다. |
 
 ### 반환 값
 
-그만큼[`Color`](../) 이 메서드가 만드는 것입니다.
+이 메서드가 생성하는 [`Color`](../)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

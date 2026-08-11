@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.GenerateLfx2ResourceNodes
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientFillSettings 방법. LFX2 리소스 노드를 생성합니다.
+title: "GradientFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientFillSettings 메서드. LFX2 리소스 노드를 생성합니다"
 type: docs
-weight: 190
+weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.GenerateLfx2ResourceNodes method
 
 LFX2 리소스 노드를 생성합니다.
@@ -16,13 +17,13 @@ public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 
 ### 반환 값
 
-생성된 목록[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+생성된 [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) 목록
 
-### 또한보십시오
+### 또 보기
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [GradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: GifOptions.GifOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: GifOptions 건설자. 의 새 인스턴스를 초기화합니다.GifOptions 클래스.
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GifOptions 생성자. GifOptions 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`GifOptions`](../) 클래스.
+[`GifOptions`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GifOptions()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GifOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`GifOptions`](../) 클래스.
+[`GifOptions`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | gifOptions | GifOptions | GIF 옵션. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GifOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

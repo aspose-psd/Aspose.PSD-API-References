@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.JpegLsAllowedLossyError
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 재산. 거의 무손실 코딩을 위한 JPEGLS 차이 범위를 가져오거나 설정합니다JPEGLS 사양의 NEAR 매개변수.
+title: "JpegOptions.JpegLsAllowedLossyError"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 속성. JPEGLS 사양의 NEAR 매개변수에 따른 근손실 코딩을 위한 JPEGLS 차이 한계를 가져오거나 설정합니다"
 type: docs
-weight: 100
+weight: 110
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsAllowedLossyError property
 
-거의 무손실 코딩을 위한 JPEG-LS 차이 범위를 가져오거나 설정합니다(JPEG-LS 사양의 NEAR 매개변수).
+근손실 코딩을 위한 JPEG-LS 차이 한계값을 가져오거나 설정합니다 (JPEG-LS 사양의 NEAR 매개변수).
 
 ```csharp
 public int JpegLsAllowedLossyError { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

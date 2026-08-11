@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Location
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 재산. 왼쪽 위 모서리의 좌표를 가져오거나 설정합니다.Rectangle구조.
+title: "Rectangle.Location"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 속성. 이 Rectangle 구조의 왼쪽 위 모서리 좌표를 가져오거나 설정합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/rectangle/location/
 ---
+{{< psd/tize >}}
 ## Rectangle.Location property
 
-왼쪽 위 모서리의 좌표를 가져오거나 설정합니다.[`Rectangle`](../)구조.
+이 [`Rectangle`](../) 구조의 왼쪽 위 모서리 좌표를 가져오거나 설정합니다.
 
 ```csharp
 public Point Location { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`Point`](../../point/) 왼쪽 상단 모서리를 나타내는[`Rectangle`](../) 구조.
+이 [`Rectangle`](../) 구조의 왼쪽 위 모서리를 나타내는 [`Point`](../../point/)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

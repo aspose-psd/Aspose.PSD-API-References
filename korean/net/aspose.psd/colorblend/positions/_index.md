@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.Positions
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorBlend 재산. 그라데이션 선을 따라 위치를 가져오거나 설정합니다.
+title: "ColorBlend.Positions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorBlend 속성. 그라디언트 라인상의 위치를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/colorblend/positions/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Positions property
 
-그라데이션 선을 따라 위치를 가져오거나 설정합니다.
+그라디언트 라인상의 위치를 가져오거나 설정합니다.
 
 ```csharp
 public float[] Positions { get; set; }
@@ -16,12 +17,12 @@ public float[] Positions { get; set; }
 
 ### 반환 값
 
-그라데이션 선을 따라 거리의 백분율을 지정하는 값의 배열입니다.
+그라디언트 라인상의 거리 비율을 지정하는 값들의 배열.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorBlend](../)
-* 네임스페이스 [Aspose.PSD](../../colorblend/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

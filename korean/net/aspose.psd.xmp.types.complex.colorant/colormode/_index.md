@@ -1,11 +1,12 @@
 ---
-title: Enum ColorMode
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode 열거형. 색상 모드를 나타냅니다.
+title: "열거형 ColorMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode 열거형. 색상 모드를 나타냅니다"
 type: docs
-weight: 5990
+weight: 6490
 url: /ko/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
 색상 모드를 나타냅니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd.xmp.types.complex.colorant/colormode/
 public enum ColorMode
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
@@ -22,9 +23,9 @@ public enum ColorMode
 | Rgb | `2` | RGB 색상 모드. |
 | Lab | `3` | LAB 색상 모드. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

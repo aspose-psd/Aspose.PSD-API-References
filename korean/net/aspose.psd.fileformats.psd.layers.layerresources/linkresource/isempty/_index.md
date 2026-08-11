@@ -1,11 +1,12 @@
 ---
-title: LinkResource.IsEmpty
-second_title: .NET API 참조용 Aspose.PSD
-description: LinkResource 재산. 이 링크 리소스 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다.
+title: "LinkResource.IsEmpty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LinkResource 속성. 이 링크 리소스 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
+{{< psd/tize >}}
 ## LinkResource.IsEmpty property
 
 이 링크 리소스 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isemp
 public bool IsEmpty { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 이 링크 리소스가 비어 있으면; 그렇지 않으면,`거짓` .
+`true`이면 이 링크 리소스가 비어 있습니다; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [LinkResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

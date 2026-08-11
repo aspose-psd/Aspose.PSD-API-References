@@ -1,33 +1,34 @@
 ---
-title: Enum DashStyle
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.DashStyle 열거형. a로 그린 파선의 스타일을 지정합니다.Pen object.
+title: "열거형 DashStyle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.DashStyle 열거형. 펜 객체로 그린 점선의 스타일을 지정합니다."
 type: docs
-weight: 720
+weight: 730
 url: /ko/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-a로 그린 파선의 스타일을 지정합니다.[`Pen`](../pen/) object.
+[`Pen`](../pen/) 객체로 그린 점선의 스타일을 지정합니다.
 
 ```csharp
 public enum DashStyle
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Solid | `0` | 실선을 지정합니다. |
-| Dash | `1` | 대시로 구성된 줄을 지정합니다. |
-| Dot | `2` | 점으로 구성된 선을 지정합니다. |
-| DashDot | `3` | 대시-점의 반복 패턴으로 구성된 라인을 지정합니다. |
-| DashDotDot | `4` | 대시-점-점의 반복 패턴으로 구성된 라인을 지정합니다. |
-| Custom | `5` | 사용자 정의 대시 스타일을 지정합니다. |
+| Dash | `1` | 대시(–)로 구성된 선을 지정합니다. |
+| Dot | `2` | 점(.)으로 구성된 선을 지정합니다. |
+| DashDot | `3` | 대시-점 패턴이 반복되는 선을 지정합니다. |
+| DashDotDot | `4` | 대시-점-점 패턴이 반복되는 선을 지정합니다. |
+| Custom | `5` | 사용자 정의 맞춤 대시 스타일을 지정합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.Color
-second_title: .NET API 참조용 Aspose.PSD
-description: PatternFillSettings 재산. 색상을 가져오거나 설정합니다.
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PatternFillSettings 속성. 색상을 가져오거나 설정합니다."
 type: docs
-weight: 20
+weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
 색상을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public Color Color { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 색상.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

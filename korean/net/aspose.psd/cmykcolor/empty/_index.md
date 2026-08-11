@@ -1,23 +1,24 @@
 ---
-title: CmykColor.Empty
-second_title: .NET API 참조용 Aspose.PSD
-description: CmykColor 재산. 비어 있음을 가져옵니다.
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CmykColor 속성. 비어 있는 값을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-비어 있음을 가져옵니다.
+비어 있는 값을 가져옵니다.
 
 ```csharp
 public static CmykColor Empty { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [CmykColor](../)
-* 네임스페이스 [Aspose.PSD](../../cmykcolor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.GradientType
-second_title: .NET API 참조용 Aspose.PSD
-description: GdFlResource 재산. 그라데이션 유형을 가져오거나 설정합니다.
+title: "GdFlResource.GradientType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GdFlResource 속성. 그라디언트 유형을 가져오거나 설정합니다"
 type: docs
-weight: 90
+weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientType property
 
-그라데이션 유형을 가져오거나 설정합니다.
+그라디언트의 유형을 가져오거나 설정합니다.
 
 ```csharp
 public GradientType GradientType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-그라데이션 유형입니다.
+그라디언트 유형.
 
-### 또한보십시오
+### 또 보기
 
 * enum [GradientType](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/)
 * class [GdFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

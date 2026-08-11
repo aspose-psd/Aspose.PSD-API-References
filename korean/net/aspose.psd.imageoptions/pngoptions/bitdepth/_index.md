@@ -1,23 +1,24 @@
 ---
-title: PngOptions.BitDepth
-second_title: .NET API 참조용 Aspose.PSD
-description: PngOptions 재산. 비트 심도.
+title: "PngOptions.BitDepth"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PngOptions 속성. 비트 깊이"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imageoptions/pngoptions/bitdepth/
 ---
+{{< psd/tize >}}
 ## PngOptions.BitDepth property
 
-비트 심도.
+비트 깊이입니다.
 
 ```csharp
 public byte BitDepth { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PngOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

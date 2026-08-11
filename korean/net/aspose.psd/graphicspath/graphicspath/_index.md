@@ -1,88 +1,89 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: .NET API 참조용 Aspose.PSD
-description: GraphicsPath 건설자. 의 새 인스턴스를 초기화합니다.GraphicsPath 클래스.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GraphicsPath 생성자. GraphicsPath 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`GraphicsPath`](../) 클래스.
+[`GraphicsPath`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GraphicsPath()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`GraphicsPath`](../) 클래스.
+[`GraphicsPath`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GraphicsPath(Figure[] figures)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| figures | Figure[] | 초기화할 숫자입니다. |
+| 도형 | Figure[] | 초기화할 도형. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`GraphicsPath`](../) 클래스.
+[`GraphicsPath`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| figures | Figure[] | 초기화할 숫자입니다. |
+| 도형 | Figure[] | 초기화할 도형. |
 | fillMode | FillMode | 채우기 모드. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-의 새 인스턴스를 초기화합니다.[`GraphicsPath`](../) 클래스.
+[`GraphicsPath`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | fillMode | FillMode | 채우기 모드. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

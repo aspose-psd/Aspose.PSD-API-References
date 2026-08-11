@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.Points
-second_title: .NET API 참조용 Aspose.PSD
-description: BezierKnotRecord 재산. 포인트를 가져오거나 설정합니다.
+title: "BezierKnotRecord.Points"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BezierKnotRecord property. 포인트를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
 포인트를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 public Point[] Points { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-포인트.
+포인트입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

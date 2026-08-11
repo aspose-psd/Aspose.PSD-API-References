@@ -1,14 +1,15 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo 수업. 이 클래스는 최종 사용자 에 대한 변환 진행률을 표시하기 위해 외부 응용 프로그램에서 사용할 수 있는 이미지 로드/저장/내보내기 작업 진행률 에 대한 정보를 나타냅니다.
+title: "클래스 ProgressEventHandlerInfo"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo 클래스. 이 클래스는 외부 애플리케이션에서 변환 진행 상황을 최종 사용자에게 표시하기 위해 사용할 수 있는 이미지 로드/저장/내보내기 작업 진행에 대한 정보를 나타냅니다."
 type: docs
-weight: 5300
+weight: 5800
 url: /ko/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-이 클래스는 최종 사용자 에 대한 변환 진행률을 표시하기 위해 외부 응용 프로그램에서 사용할 수 있는 이미지 로드/저장/내보내기 작업 진행률, 에 대한 정보를 나타냅니다.
+이 클래스는 이미지 로드/저장/내보내기 작업 진행에 대한 정보를 나타내며, 외부 애플리케이션에서 최종 사용자에게 변환 진행 상황을 표시하는 데 사용할 수 있습니다.
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -18,14 +19,14 @@ public class ProgressEventHandlerInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | event 에 대한 설명을 가져옵니다. |
-| [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | 이벤트 유형을 가져옵니다. |
-| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | 상한 진행 값 제한을 가져옵니다. |
+| [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | 이벤트의 설명을 가져옵니다 |
+| [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | 이벤트의 유형을 가져옵니다. |
+| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | 상위 진행 값 한계를 가져옵니다. |
 | [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | 현재 진행 값을 가져옵니다. |
 
-### 예
+## 예제
 
-다음 예는 문서 변환 진행이 예외 없이 올바르게 작동함을 보여줍니다.
+다음 예제는 문서 변환 진행 상황이 올바르게 작동하고 예외 없이 수행됨을 보여줍니다.
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

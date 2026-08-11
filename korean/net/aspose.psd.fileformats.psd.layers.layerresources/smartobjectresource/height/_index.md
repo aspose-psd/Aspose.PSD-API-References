@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Height
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectResource 재산. 높이를 가져오거나 설정합니다.
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectResource 속성. 높이를 가져오거나 설정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
 높이를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public double Height { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 높이.
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartObjectResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSVersionID
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. GPS 버전 식별자를 가져오거나 설정합니다.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. GPS 버전 식별자를 가져오거나 설정합니다"
 type: docs
 weight: 670
 url: /ko/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
 GPS 버전 식별자를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ GPS 버전 식별자를 가져오거나 설정합니다.
 public byte[] GPSVersionID { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 GPS 버전 식별자입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

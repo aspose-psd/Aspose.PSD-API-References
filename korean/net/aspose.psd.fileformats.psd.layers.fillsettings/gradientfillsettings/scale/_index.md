@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientFillSettings 재산. 배율을 가져오거나 설정합니다.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientFillSettings 속성. 백분율로 정규화된 그라디언트 스케일을 가져오거나 설정합니다"
 type: docs
-weight: 120
+weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-배율을 가져오거나 설정합니다.
+**정규화된** 그라디언트 스케일(퍼센트)을 가져오거나 설정합니다.
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-저울.
+스케일입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 척도는 1에서 1000 사이의 범위에 있어야 합니다. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 스케일은 1에서 1000 사이여야 합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.PageHeight
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorRasterizationOptions 재산. 페이지 높이를 가져오거나 설정합니다.
+title: "VectorRasterizationOptions.PageHeight"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorRasterizationOptions 속성. 페이지 높이를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.imageoptions/vectorrasterizationoptions/pageheight/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageHeight property
 
 페이지 높이를 가져오거나 설정합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.imageoptions/vectorrasterizationoptions/pageheight/
 public float PageHeight { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorRasterizationOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

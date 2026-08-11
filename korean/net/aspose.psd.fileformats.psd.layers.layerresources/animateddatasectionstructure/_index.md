@@ -1,14 +1,15 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure 수업. 애니메이션 데이터가 있는 섹션.
+title: "클래스 AnimatedDataSectionStructure"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure 클래스. 애니메이션 데이터가 포함된 섹션"
 type: docs
-weight: 2300
+weight: 2510
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
-애니메이션 데이터가 있는 섹션.
+애니메이션 데이터가 포함된 섹션.
 
 ```csharp
 public class AnimatedDataSectionStructure : OSTypeStructure
@@ -21,23 +22,23 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | 애니메이션 데이터 섹션 구조를 가져오거나 설정합니다. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | 구조 키를 가져옵니다. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 키 이름을 가져오거나 설정합니다. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | 가져오기[`OSTypeStructure`](../ostypestructure/) 바이트 길이. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | 바이트 단위로 [`OSTypeStructure`](../ostypestructure/) 길이를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 헤더 길이를 가져옵니다. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 지정된 스트림 컨테이너에 구조를 저장합니다. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 지정된 스트림 컨테이너에 구조를 저장합니다. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 구조를 지정된 스트림 컨테이너에 저장합니다. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 구조를 지정된 스트림 컨테이너에 저장합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | AnDs. 의 구조 키를 식별합니다. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | AnDs의 구조 키를 식별합니다. |
 
-### 예
+## 예제
 
 다음 코드는 애니메이션 데이터의 타임라인 프레임에서 지연 시간을 설정/업데이트하는 방법을 보여줍니다.
 
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 1초에 해당하는 100센티초 값으로 프레임 지연 레코드를 생성합니다.
+            // 1초에 해당하는 100센티초 값을 가진 프레임 지연 레코드를 생성합니다.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // 시간을 센티초 단위로 설정합니다.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -105,10 +106,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [OSTypeStructure](../ostypestructure/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

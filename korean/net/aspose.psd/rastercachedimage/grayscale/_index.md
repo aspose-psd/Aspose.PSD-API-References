@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.Grayscale
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterCachedImage 방법. 이미지를 그레이스케일 표현으로 변환
+title: "RasterCachedImage.Grayscale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterCachedImage 메서드. 이미지를 회색조 표현으로 변환합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/rastercachedimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Grayscale method
 
-이미지를 그레이스케일 표현으로 변환
+이미지를 회색조 표현으로 변환
 
 ```csharp
 public override void Grayscale()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

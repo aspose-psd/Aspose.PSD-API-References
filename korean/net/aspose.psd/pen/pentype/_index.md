@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 재산. 이것으로 그린 선의 스타일을 가져옵니다.Pen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 속성. 이 Pen으로 그린 선의 스타일을 가져옵니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-이것으로 그린 선의 스타일을 가져옵니다.[`Pen`](../) .
+이 [`Pen`](../)으로 그린 선의 스타일을 가져옵니다.
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ`PenType` 이것으로 그리는 선의 스타일을 지정하는 열거형[`Pen`](../).
+`PenType` 열거형은 이 [`Pen`](../)으로 그린 선의 스타일을 지정합니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawBeziers
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 배열에서 일련의 베지어 스플라인을 그립니다.Point 구조.
+title: "Graphics.DrawBeziers"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. Point 구조체 배열에서 일련의 Bézier 스플라인을 그립니다."
 type: docs
-weight: 180
+weight: 190
 url: /ko/net/aspose.psd/graphics/drawbeziers/
 ---
+{{< psd/tize >}}
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-배열에서 일련의 베지어 스플라인을 그립니다.[`Point`](../../point/) 구조.
+[`Point`](../../point/) 구조체 배열에서 일련의 Bézier 스플라인을 그립니다.
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) 곡선의 색상, 너비 및 스타일을 결정합니다. |
-| points | Point[] | 의 배열[`Point`](../../point/)곡선을 결정하는 점을 나타내는 구조. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 곡선의 색상, 너비 및 스타일을 결정합니다. |
+| points | Point[] | 곡선을 결정하는 점들을 나타내는 [`Point`](../../point/) 구조체 배열. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. -또는- *points* null입니다. |
+| ArgumentNullException | *pen*이 null입니다. -or- *points*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-배열에서 일련의 베지어 스플라인을 그립니다.[`PointF`](../../pointf/) 구조.
+[`PointF`](../../pointf/) 구조체 배열에서 일련의 Bézier 스플라인을 그립니다.
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) 곡선의 색상, 너비 및 스타일을 결정합니다. |
-| points | PointF[] | 의 배열[`PointF`](../../pointf/)곡선을 결정하는 점을 나타내는 구조. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 곡선의 색상, 너비 및 스타일을 결정합니다. |
+| points | PointF[] | 곡선을 결정하는 점들을 나타내는 [`PointF`](../../pointf/) 구조체 배열. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. -또는- *points* null입니다. |
+| ArgumentNullException | *pen*이 null입니다. -or- *points*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

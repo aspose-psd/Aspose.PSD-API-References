@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions 수업. 혼합 옵션. Layer effects 에 대한 API를 제공하는 Lfx2Resource의 래퍼입니다.
+title: "클래스 BlendingOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions 클래스. BlendingOptions. BaseFxResource의 래퍼이며 레이어 효과를 위한 API를 제공합니다."
 type: docs
-weight: 2100
+weight: 2290
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-혼합 옵션. Layer effects 에 대한 API를 제공하는 Lfx2Resource의 래퍼입니다.
+BlendingOptions. 레이어 효과를 위한 API를 제공하는 BaseFxResource의 래퍼입니다.
 
 ```csharp
 public class BlendingOptions
@@ -18,21 +19,22 @@ public class BlendingOptions
 
 | 이름 | 설명 |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | 효과를 얻습니다. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | 모든 레이어 효과의 가시성을 가져오거나 설정합니다. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | 효과를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | 색상 오버레이를 추가합니다. |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | 그림자 효과를 추가합니다. |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | 드롭 섀도우 효과를 추가합니다. |
 | [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | 그라디언트 오버레이를 추가합니다. |
 | [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | 내부 그림자 효과를 추가합니다. |
-| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | 외부 광선 효과를 추가합니다. |
+| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | 외부 글로우 효과를 추가합니다. |
 | [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | 패턴 오버레이를 추가합니다. |
 | [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | 스트로크 효과를 추가합니다. |
 
-### 예
+## 예제
 
 다음 코드는 내부 그림자 레이어 효과의 설정을 변경하는 방법을 보여줍니다.
 
@@ -42,7 +44,7 @@ public class BlendingOptions
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

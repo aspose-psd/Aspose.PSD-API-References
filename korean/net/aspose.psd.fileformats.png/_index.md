@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: .NET API 참조용 Aspose.PSD
-description: 네임스페이스는 Png 파일 형식 처리를 처리합니다.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "네임스페이스는 Png 파일 형식 처리를 담당합니다."
 type: docs
-weight: 190
+weight: 200
 url: /ko/net/aspose.psd.fileformats.png/
 ---
-네임스페이스는 Png 파일 형식 처리를 처리합니다.
+{{< psd/tize >}}
+네임스페이스는 PNG 파일 형식 처리를 담당합니다.
 
-## 열거
+## 열거형
 
-| 열거 | 설명 |
+| 열거형 | 설명 |
 | --- | --- |
 | [PngColorType](./pngcolortype/) | PNG 이미지 색상 유형을 나타냅니다. |
-| [PngFilterType](./pngfiltertype/) | png 필터 유형입니다. |
+| [PngFilterType](./pngfiltertype/) | png 필터 유형. |
 
 

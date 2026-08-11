@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericTypographic
-second_title: .NET API 참조용 Aspose.PSD
-description: StringFormat 재산. 일반 타이포그래피를 가져옵니다.StringFormat object.
+title: "StringFormat.GenericTypographic"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringFormat 속성. 일반적인 타이포그래픽 StringFormat 객체를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/stringformat/generictypographic/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericTypographic property
 
-일반 타이포그래피를 가져옵니다.[`StringFormat`](../) object.
+일반적인 타이포그래픽 [`StringFormat`](../) 객체를 가져옵니다.
 
 ```csharp
 public static StringFormat GenericTypographic { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-일반적인 타이포그래피[`StringFormat`](../) 물체.
+일반적인 타이포그래픽 [`StringFormat`](../) 객체.
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

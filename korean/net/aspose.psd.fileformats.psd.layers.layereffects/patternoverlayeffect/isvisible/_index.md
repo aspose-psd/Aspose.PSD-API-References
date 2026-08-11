@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect.IsVisible
-second_title: .NET API 참조용 Aspose.PSD
-description: PatternOverlayEffect 재산. 이 인스턴스가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "PatternOverlayEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PatternOverlayEffect 속성. 이 인스턴스가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.IsVisible property
 
 이 인스턴스가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect
 public bool IsVisible { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 이 인스턴스가 표시되면; 그렇지 않으면,`거짓` .
+`true`이면 이 인스턴스가 표시됩니다; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [PatternOverlayEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

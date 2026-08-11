@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 기준선 이동.
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 기준선 이동"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
 기준선 이동.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 public double BaselineShift { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

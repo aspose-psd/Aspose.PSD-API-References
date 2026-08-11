@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: .NET API 참조용 Aspose.PSD
-description: DocumentSpecificIdsResource 재산. 식별자를 가져오거나 설정합니다.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DocumentSpecificIdsResource 속성. 식별자를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
 식별자를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id
 public int Id { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-식별자입니다.
+식별자.
 
-### 또한보십시오
+### 또 보기
 
 * class [DocumentSpecificIdsResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

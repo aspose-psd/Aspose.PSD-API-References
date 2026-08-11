@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: .NET API 참조용 Aspose.PSD
-description: ConvolutionFilterOptions 재산. 바이어스를 가져오거나 설정합니다.
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ConvolutionFilterOptions 속성. 바이어스를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
-바이어스를 가져오거나 설정합니다.
+bias를 가져오거나 설정합니다.
 
 ```csharp
 public int Bias { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-바이어스.
+바이어스입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ConvolutionFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

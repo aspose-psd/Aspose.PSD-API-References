@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Top
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 재산. 이 위쪽 가장자리의 y 좌표를 가져오거나 설정합니다.RectangleF구조.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 속성. 이 RectangleF 구조의 상단 가장자리 y좌표를 가져오거나 설정합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-이 위쪽 가장자리의 y 좌표를 가져오거나 설정합니다.[`RectangleF`](../)구조.
+이 [`RectangleF`](../) 구조의 상단 가장자리 y좌표를 가져오거나 설정합니다.
 
 ```csharp
 public float Top { get; set; }
@@ -16,12 +17,12 @@ public float Top { get; set; }
 
 ### 반환 값
 
-이 상단 가장자리의 y 좌표[`RectangleF`](../) 구조.
+이 [`RectangleF`](../) 구조의 상단 가장자리 y좌표.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

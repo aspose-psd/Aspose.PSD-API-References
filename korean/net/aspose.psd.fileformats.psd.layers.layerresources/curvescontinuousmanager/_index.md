@@ -1,14 +1,15 @@
 ---
-title: Class CurvesContinuousManager
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager 수업. 곡선을 조작하는 곡선 조정 레이어의 관리자
+title: "클래스 CurvesContinuousManager"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager 클래스. 곡선을 조작하는 Curves Adjustment Layer를 위한 관리자"
 type: docs
-weight: 2410
+weight: 2670
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-곡선을 조작하는 곡선 조정 레이어의 관리자
+곡선을 조작하는 Curves Adjustment Layer 매니저
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
@@ -18,7 +19,7 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 | 이름 | 설명 |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | 의 새 인스턴스를 초기화합니다.`CurvesContinuousManager` 클래스. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | `CurvesContinuousManager` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -26,20 +27,20 @@ public sealed class CurvesContinuousManager : CurvesManager
 | --- | --- |
 | [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | 최대 채널 수를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | 곡선점을 추가합니다. |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | 인덱스로 커브 포인트를 가져옵니다. |
+| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | 곡선 포인트를 추가합니다. |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | 인덱스로 곡선 포인트를 가져옵니다. |
 | [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | 곡선 포인트 수를 가져옵니다. |
-| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | 곡선의 점을 제거합니다. |
-| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | 곡선의 점을 업데이트합니다. |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | 곡선 포인트를 제거합니다. |
+| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | 곡선 포인트를 업데이트합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [CurvesManager](../curvesmanager/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

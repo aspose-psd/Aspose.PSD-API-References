@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: .NET API 참조용 Aspose.PSD
-description: DublinCorePackage 방법. 설명을 추가합니다.
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DublinCorePackage 메서드. 설명을 추가합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 설명을 추가합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 public void SetDescription(string desc)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| desc | String | 설명. |
+| 설명 | String | 설명입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [DublinCorePackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ public void SetDescription(string desc)
 public void SetDescription(LangAlt desc)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| desc | LangAlt | 설명. |
+| 설명 | LangAlt | 설명입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

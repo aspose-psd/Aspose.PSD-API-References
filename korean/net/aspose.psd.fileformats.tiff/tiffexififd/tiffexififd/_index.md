@@ -1,47 +1,48 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffExifIfd 건설자. 의 새 인스턴스를 초기화합니다.TiffExifIfd 클래스.
+title: "TiffExifIfd.TiffExifIfd"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffExifIfd 생성자. TiffExifIfd 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.tiff/tiffexififd/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`TiffExifIfd`](../) 클래스.
+[`TiffExifIfd`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public TiffExifIfd()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffExifIfd](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`TiffExifIfd`](../) 클래스.
+[`TiffExifIfd`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| ifdOffset | UInt32 | Exif IFD에 대한 포인터입니다. |
+| ifdOffset | UInt32 | Exif IFD에 대한 포인터. |
 
-### 비고
+## 비고
 
-상호 운용성, Exif IFD는 TIFF에 명시된 IFD와 동일한 구조를 가집니다. 일반적으로 그러나 TIFF의 경우와 같이 이미지 데이터를 포함하지 않습니다.
+상호 운용성, Exif IFD는 TIFF에 지정된 IFD와 동일한 구조를 가지고 있습니다. 그러나 일반적으로 TIFF와 달리 이미지 데이터를 포함하지 않습니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffExifIfd](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

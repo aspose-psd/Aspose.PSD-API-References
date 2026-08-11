@@ -1,14 +1,15 @@
 ---
-title: Class TiffImageException
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException 수업. Tiff 이미지 exception
+title: "클래스 TiffImageException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException 클래스. Tiff 이미지 예외입니다"
 type: docs
 weight: 610
 url: /ko/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException class
 
-Tiff 이미지 exception
+Tiff 이미지 예외.
 
 ```csharp
 public class TiffImageException : ImageException
@@ -18,10 +19,10 @@ public class TiffImageException : ImageException
 
 | 이름 | 설명 |
 | --- | --- |
-| [TiffImageException](tiffimageexception/#constructor_1)(string) | 의 새 인스턴스를 초기화합니다.`TiffImageException` 클래스. |
-| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | 의 새 인스턴스를 초기화합니다.`TiffImageException` 클래스. |
-| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | 의 새 인스턴스를 초기화합니다.`TiffImageException` 클래스. |
-| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | 의 새 인스턴스를 초기화합니다.`TiffImageException` 클래스. |
+| [TiffImageException](tiffimageexception/#constructor_1)(string) | `TiffImageException` 클래스의 새 인스턴스를 초기화합니다. |
+| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | `TiffImageException` 클래스의 새 인스턴스를 초기화합니다. |
+| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | `TiffImageException` 클래스의 새 인스턴스를 초기화합니다. |
+| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | `TiffImageException` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -29,10 +30,10 @@ public class TiffImageException : ImageException
 | --- | --- |
 | [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | tiff 옵션 오류를 가져옵니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* 네임스페이스 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

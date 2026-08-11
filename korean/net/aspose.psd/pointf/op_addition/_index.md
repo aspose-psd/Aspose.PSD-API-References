@@ -1,59 +1,60 @@
 ---
-title: PointF.op_Addition
-second_title: .NET API 참조용 Aspose.PSD
-description: PointF 방법. 번역PointF 주어진Size .
+title: "PointF.op_Addition"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PointF 메서드. 주어진 Size만큼 PointF를 변환합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/pointf/op_addition/
 ---
+{{< psd/tize >}}
 ## operator + {#op_addition}
 
-번역[`PointF`](../) 주어진[`Size`](../../size/) .
+주어진 [`Size`](../../size/)만큼 [`PointF`](../)를 변환합니다.
 
 ```csharp
 public static PointF operator +(PointF point, Size size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point | PointF | 그만큼[`PointF`](../) 번역하다. |
-| size | Size | ㅏ[`Size`](../../size/) 의 좌표에 추가할 숫자 쌍을 지정합니다.*point*. |
+| point | PointF | 변환할 [`PointF`](../). |
+| size | Size | *point*의 좌표에 더할 두 숫자 쌍을 지정하는 [`Size`](../../size/)입니다. |
 
 ### 반환 값
 
-번역된 것을 돌려줍니다[`PointF`](../).
+변환된 [`PointF`](../)를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* 네임스페이스 [Aspose.PSD](../../pointf/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator + {#op_addition_1}
 
-번역[`PointF`](../) 지정된[`SizeF`](../../sizef/) .
+지정된 [`SizeF`](../../sizef/)에 따라 [`PointF`](../)을 변환합니다.
 
 ```csharp
 public static PointF operator +(PointF point, SizeF size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point | PointF | 그만큼[`PointF`](../) 번역하다. |
-| size | SizeF | 그만큼[`SizeF`](../../sizef/) 의 x 및 y 좌표에 추가할 숫자를 지정합니다.*point*. |
+| point | PointF | 변환할 [`PointF`](../). |
+| size | SizeF | [`SizeF`](../../sizef/)는 *point*의 x 및 y 좌표에 더할 숫자를 지정합니다. |
 
 ### 반환 값
 
-번역된[`PointF`](../).
+변환된 [`PointF`](../).
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* 네임스페이스 [Aspose.PSD](../../pointf/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

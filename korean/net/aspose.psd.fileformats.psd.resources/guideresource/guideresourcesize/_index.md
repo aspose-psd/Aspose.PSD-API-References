@@ -1,23 +1,24 @@
 ---
-title: GuideResource.GuideResourceSize
-second_title: .NET API 참조용 Aspose.PSD
-description: GuideResource 필드. 가이드 리소스 블록 크기입니다.
+title: "GuideResource.GuideResourceSize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GuideResource 필드. 가이드 리소스 블록 크기"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
+{{< psd/tize >}}
 ## GuideResource.GuideResourceSize field
 
-가이드 리소스 블록 크기입니다.
+가이드 리소스 블록 크기.
 
 ```csharp
 public const int GuideResourceSize;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GuideResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

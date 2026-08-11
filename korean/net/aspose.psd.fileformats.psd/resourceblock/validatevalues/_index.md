@@ -1,23 +1,24 @@
 ---
-title: ResourceBlock.ValidateValues
-second_title: .NET API 참조용 Aspose.PSD
-description: ResourceBlock 방법. 리소스 값의 유효성을 검사합니다.
+title: "ResourceBlock.ValidateValues"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResourceBlock 메서드. 리소스 값을 검증합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.fileformats.psd/resourceblock/validatevalues/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ValidateValues method
 
-리소스 값의 유효성을 검사합니다.
+리소스 값을 검증합니다.
 
 ```csharp
 public virtual void ValidateValues()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ResourceBlock](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

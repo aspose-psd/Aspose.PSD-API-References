@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorExtensions 방법. 변환Color 에 배열Color 배열.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorExtensions 메서드. Color 배열을 Color 배열로 변환합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-변환[`Color`](../../../aspose.psd/color/) 에 배열Color 배열.
+[`Color`](../../../aspose.psd/color/) 배열을 Color 배열로 변환합니다.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| colors | Color[] | 그만큼[`Color`](../../../aspose.psd/color/) 변환할 배열. |
+| colors | Color[] | 변환할[`Color`](../../../aspose.psd/color/) 배열. |
 
 ### 반환 값
 
-개종자Color 정렬.
+변환된 Color 배열.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../colorextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

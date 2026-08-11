@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle 수업. 벡터 모양 반지름 사각형 정의 class
+title: "클래스 VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle 클래스. 벡터 형태 반경 사각형 클래스를 정의합니다."
 type: docs
-weight: 1450
+weight: 1460
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-벡터 모양 반지름 사각형 정의 class
+벡터 형태 반경 사각형 클래스를 정의합니다
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -24,20 +25,20 @@ public sealed class VectorShapeRadiiRectangle
 
 | 이름 | 설명 |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | 바닥을 가져오거나 설정합니다. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | 오른쪽 하단을 가져오거나 설정합니다. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | 아래쪽을 가져오거나 설정합니다. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | 오른쪽 아래를 가져오거나 설정합니다. |
 | [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | 단위 값 쿼드 버전을 가져오거나 설정합니다. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | 왼쪽 상단을 가져오거나 설정합니다. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | 오른쪽 상단을 가져오거나 설정합니다. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | 좌측 상단을 가져오거나 설정합니다. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | 우측 상단을 가져오거나 설정합니다. |
 
-### 예
+## 예제
 
-이 예는 모양 레이어와 벡터 경로가 있는 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
+이 예제는 형태 레이어와 벡터 경로가 포함된 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
 
 ```csharp
 [C#]
 
-// 이 예제는 모양 레이어와 벡터 경로가 있는 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
+// 이 예제는 형태 레이어와 벡터 경로가 포함된 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

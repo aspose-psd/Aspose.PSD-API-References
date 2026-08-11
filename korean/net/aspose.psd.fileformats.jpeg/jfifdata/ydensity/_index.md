@@ -1,11 +1,12 @@
 ---
-title: JFIFData.YDensity
-second_title: .NET API 참조용 Aspose.PSD
-description: JFIFData 재산. y 밀도를 가져오거나 설정합니다.
+title: "JFIFData.YDensity"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JFIFData 속성. y 밀도를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
 y 밀도를 가져오거나 설정합니다.
@@ -14,10 +15,10 @@ y 밀도를 가져오거나 설정합니다.
 public short YDensity { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JFIFData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

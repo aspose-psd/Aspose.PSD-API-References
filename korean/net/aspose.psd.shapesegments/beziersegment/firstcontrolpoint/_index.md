@@ -1,11 +1,12 @@
 ---
-title: BezierSegment.FirstControlPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: BezierSegment 재산. 베지어 스플라인의 첫 번째 제어점을 가져옵니다.
+title: "BezierSegment.FirstControlPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BezierSegment 속성. 베지어 스플라인의 첫 번째 제어점을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.FirstControlPoint property
 
 베지어 스플라인의 첫 번째 제어점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 public PointF FirstControlPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-첫 번째 제어 지점입니다.
+첫 번째 제어점.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* 네임스페이스 [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

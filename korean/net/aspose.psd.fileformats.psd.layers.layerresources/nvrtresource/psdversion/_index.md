@@ -1,11 +1,12 @@
 ---
-title: NvrtResource.PsdVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: NvrtResource 재산. PSD 버전을 가져옵니다.
+title: "NvrtResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NvrtResource 속성. PSD 버전을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/
 ---
+{{< psd/tize >}}
 ## NvrtResource.PsdVersion property
 
 PSD 버전을 가져옵니다.
@@ -14,10 +15,10 @@ PSD 버전을 가져옵니다.
 public override int PsdVersion { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [NvrtResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

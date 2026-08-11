@@ -1,11 +1,12 @@
 ---
-title: ColorFillSettings.FillType
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorFillSettings 재산. 채우기 유형
+title: "ColorFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorFillSettings 속성. 채우기 유형"
 type: docs
-weight: 20
+weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings.FillType property
 
 채우기 유형
@@ -14,11 +15,11 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/fi
 public override FillType FillType { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [FillType](../../filltype/)
 * class [ColorFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

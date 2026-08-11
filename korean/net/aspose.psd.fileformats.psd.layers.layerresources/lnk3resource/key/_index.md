@@ -1,11 +1,12 @@
 ---
-title: Lnk3Resource.Key
-second_title: .NET API 참조용 Aspose.PSD
-description: Lnk3Resource 재산. 레이어 리소스 키를 가져옵니다.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Lnk3Resource 속성. 레이어 리소스 키를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
 레이어 리소스 키를 가져옵니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 public override int Key { get; }
 ```
 
-### 예
+## 예제
 
-이 예제에서는 Lnk2Resource 및 Lnk3Resource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+이 예제는 Lnk2Resource와 Lnk3Resource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// PSD 파일에 있는 스마트 오브젝트의 데이터를 파일로 저장합니다.
+// PSD 파일의 스마트 오브젝트 데이터를 파일에 저장합니다.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// PSD Lnk2 / Lnk3 리소스의 속성과 PSD 이미지의 liFD 데이터 소스를 가져오고 설정합니다.
+// PSD 이미지에서 PSD Lnk2 / Lnk3 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정합니다.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 채널당 32비트 저장은 아직 지원되지 않습니다.
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// 이 예제는 채널당 8비트에 대한 PSD Lnk2 리소스 및 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 채널당 8비트인 PSD Lnk2 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// 이 예제는 채널당 32비트에 대한 PSD Lnk3 리소스 및 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 채널당 32비트인 PSD Lnk3 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// 이 예제는 채널당 16비트에 대한 PSD Lnk2 리소스 및 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 채널당 16비트인 PSD Lnk2 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Lnk3Resource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

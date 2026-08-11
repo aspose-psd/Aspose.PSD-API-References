@@ -1,14 +1,15 @@
 ---
-title: Class GradientOverlayEffect
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect 수업. 그라데이션 레이어 효과
+title: "GradientOverlayEffect 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect 클래스. 그라디언트 레이어 효과"
 type: docs
-weight: 2130
+weight: 2320
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect class
 
-그라데이션 레이어 효과
+그라디언트 레이어 효과
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
@@ -18,15 +19,21 @@ public class GradientOverlayEffect : ILayerEffect
 
 | 이름 | 설명 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | 혼합 모드를 가져오거나 설정합니다. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | effect 유형을 가져옵니다. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | 블렌드 모드를 가져오거나 설정합니다. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | 효과 유형을 가져옵니다. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | 이 인스턴스가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | 불투명도를 가져오거나 설정합니다. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | 설정을 가져오거나 설정합니다. |
 
-### 예
+## 메서드
 
-다음 코드는 그래디언트 오버레이 효과의 지원을 보여줍니다.
+| 이름 | 설명 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/geteffectbounds/)(Rectangle, int) | 입력 레이어 픽셀 경계를 기반으로 효과 픽셀의 경계를 계산하고 가져옵니다. |
+
+## 예제
+
+다음 코드는 그라디언트 오버레이 효과의 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -62,8 +69,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual((byte)255, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var settings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, settings.Color);
+    var settings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
+    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, settings.FillType);
     AssertAreEqual(true, settings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, settings.GradientType);
@@ -74,7 +82,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, settings.Reverse);
 
     // 색상 포인트
-    var colorPoints = settings.ColorPoints;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(3, colorPoints.Length);
 
     AssertAreEqual(Color.FromArgb(9, 0, 178), colorPoints[0].Color);
@@ -89,8 +97,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(4096, colorPoints[2].Location);
     AssertAreEqual(50, colorPoints[2].MedianPointLocation);
 
-    // 투명 포인트
-    var transparencyPoints = settings.TransparencyPoints;
+    // 투명도 포인트
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -101,8 +109,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // 테스트 편집
-    settings.Color = Color.Green;
+    // 편집 테스트
+    solidGradient.Color = Color.Green;
 
     gradientOverlay.Opacity = 193;
     gradientOverlay.BlendMode = BlendMode.Lighten;
@@ -115,23 +123,23 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     settings.VerticalOffset = 11;
     settings.Reverse = true;
 
-    // 새로운 색상 포인트 추가
-    var colorPoint = settings.AddColorPoint();
+    // 새 색상 포인트 추가
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // 이전 포인트 위치 변경
-    settings.ColorPoints[2].Location = 3000;
+    solidGradient.ColorPoints[2].Location = 3000;
 
-    // 새로운 투명도 포인트 추가
-    var transparencyPoint = settings.AddTransparencyPoint();
+    // 새 투명도 포인트 추가
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
     // 이전 투명도 포인트 위치 변경
-    settings.TransparencyPoints[1].Location = 2315;
+    solidGradient.TransparencyPoints[1].Location = 2315;
     im.Save(exportPath);
 }
 
@@ -144,57 +152,58 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual((byte)193, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var fillSettings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, fillSettings.Color);
+    var fillSettings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
+    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // 색상 포인트 확인
-    AssertAreEqual(4, fillSettings.ColorPoints.Length);
+    AssertAreEqual(4, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.FromArgb(9, 0, 178), point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Red, point.Color);
     AssertAreEqual(2048, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.FromArgb(255, 252, 0), point.Color);
     AssertAreEqual(3000, point.Location);
 
-    point = fillSettings.ColorPoints[3];
+    point = solidGradient.ColorPoints[3];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // 투명한 점 확인
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // 투명 포인트 확인
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(2315, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.0, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ILayerEffect](../ilayereffect/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

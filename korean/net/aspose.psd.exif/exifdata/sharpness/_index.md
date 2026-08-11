@@ -1,11 +1,12 @@
 ---
-title: ExifData.Sharpness
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 선명도를 가져오거나 설정합니다.
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 선명도를 가져오거나 설정합니다"
 type: docs
 weight: 940
 url: /ko/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
 선명도를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.exif/exifdata/sharpness/
 public ushort Sharpness { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-선명도.
+선명도입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

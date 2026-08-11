@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.ReferenceBlackWhite
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. 참조 검정 흰색을 가져오거나 설정합니다.
+title: "JpegExifData.ReferenceBlackWhite"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. 기준 흑백을 가져오거나 설정합니다"
 type: docs
 weight: 160
 url: /ko/net/aspose.psd.exif/jpegexifdata/referenceblackwhite/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ReferenceBlackWhite property
 
-참조 검정 흰색을 가져오거나 설정합니다.
+참조 흑백을 가져오거나 설정합니다.
 
 ```csharp
 public TiffRational[] ReferenceBlackWhite { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-참조 블랙 화이트.
+기준 흑백.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LangAlt.AddLanguage
-second_title: .NET API 참조용 Aspose.PSD
-description: LangAlt 방법. 언어를 추가합니다.
+title: "LangAlt.AddLanguage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LangAlt 메서드. 언어를 추가합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp/langalt/addlanguage/
 ---
+{{< psd/tize >}}
 ## LangAlt.AddLanguage method
 
 언어를 추가합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp/langalt/addlanguage/
 public virtual void AddLanguage(string language, string value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| language | String | 언어. |
-| value | String | 언어 값입니다. |
+| 언어 | String | 언어입니다. |
+| 값 | String | 언어 값입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LangAlt](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../langalt/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

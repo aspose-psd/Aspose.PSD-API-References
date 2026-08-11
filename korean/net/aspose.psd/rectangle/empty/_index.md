@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Empty
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 재산. 의 새 인스턴스를 가져옵니다.Rectangle 가지고 있는 구조X Y Width 그리고Height 0으로 설정된 값.
+title: "Rectangle.Empty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 속성. X, Y, Width, Height 값이 0으로 설정된 새로운 Rectangle 구조 인스턴스를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/rectangle/empty/
 ---
+{{< psd/tize >}}
 ## Rectangle.Empty property
 
-의 새 인스턴스를 가져옵니다.[`Rectangle`](../) 가지고 있는 구조[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) 그리고[`Height`](../height/) 0으로 설정된 값.
+새로운 [`Rectangle`](../) 구조의 인스턴스를 가져옵니다. 이 인스턴스는 [`X`](../x/), [`Y`](../y/), [`Width`](../width/) 및 [`Height`](../height/) 값이 0으로 설정됩니다.
 
 ```csharp
 public static Rectangle Empty { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

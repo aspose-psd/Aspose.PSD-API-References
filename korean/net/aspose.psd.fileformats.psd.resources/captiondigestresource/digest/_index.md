@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: .NET API 참조용 Aspose.PSD
-description: CaptionDigestResource 재산. 다이제스트를 가져오거나 설정합니다.
+title: "CaptionDigestResource.Digest"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CaptionDigestResource 속성. 다이제스트를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
 다이제스트를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 public byte[] Digest { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-다이제스트.
+그 다이제스트.
 
-### 또한보십시오
+### 또 보기
 
 * class [CaptionDigestResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

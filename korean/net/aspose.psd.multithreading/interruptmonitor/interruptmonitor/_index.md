@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: .NET API 참조용 Aspose.PSD
-description: InterruptMonitor 건설자. 기본 생성자입니다.
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "InterruptMonitor 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 public InterruptMonitor()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [InterruptMonitor](../)
-* 네임스페이스 [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

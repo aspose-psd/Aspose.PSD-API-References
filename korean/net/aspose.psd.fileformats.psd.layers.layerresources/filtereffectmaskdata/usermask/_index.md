@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.UserMask
-second_title: .NET API 참조용 Aspose.PSD
-description: FilterEffectMaskData 재산. 사용자 마스크를 가져옵니다.
+title: "FilterEffectMaskData.UserMask"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FilterEffectMaskData 속성. 사용자 마스크를 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.UserMask property
 
 사용자 마스크를 가져옵니다.
@@ -14,11 +15,11 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public ChannelInformation UserMask { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

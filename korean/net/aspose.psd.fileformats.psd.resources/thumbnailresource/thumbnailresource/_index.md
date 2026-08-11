@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.ThumbnailResource
-second_title: .NET API 참조용 Aspose.PSD
-description: ThumbnailResource 건설자. 기본 생성자입니다.
+title: "ThumbnailResource.ThumbnailResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ThumbnailResource 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailresource/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailres
 public ThumbnailResource()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ThumbnailResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

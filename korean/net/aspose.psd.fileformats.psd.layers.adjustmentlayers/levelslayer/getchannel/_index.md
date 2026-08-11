@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: .NET API 참조용 Aspose.PSD
-description: LevelsLayer 방법. 채널을 가져옵니다.
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LevelsLayer 메서드. 채널을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
 채널을 가져옵니다.
@@ -14,19 +15,19 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getc
 public LevelChannel GetChannel(int index)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 색인. |
+| index | Int32 | 인덱스. |
 
 ### 반환 값
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) 색인으로
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
-### 또한보십시오
+### 또 보기
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

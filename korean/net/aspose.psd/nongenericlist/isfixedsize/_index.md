@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsFixedSize
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 재산. 여부를 나타내는 값을 가져옵니다.IList 크기가 고정되어 있습니다.
+title: "NonGenericList.IsFixedSize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 속성. IList가 고정 크기인지 여부를 나타내는 값을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/nongenericlist/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsFixedSize property
 
-여부를 나타내는 값을 가져옵니다.IList 크기가 고정되어 있습니다.
+IList가 고정 크기를 갖는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

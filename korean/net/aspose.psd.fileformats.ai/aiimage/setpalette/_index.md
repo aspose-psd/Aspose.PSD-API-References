@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetPalette
-second_title: .NET API 참조용 Aspose.PSD
-description: AiImage 방법. 이미지 팔레트를 설정합니다.
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiImage 메서드. 이미지 팔레트를 설정합니다"
 type: docs
-weight: 170
+weight: 200
 url: /ko/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
 이미지 팔레트를 설정합니다.
@@ -14,22 +15,22 @@ url: /ko/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| palette | IColorPalette | 설정할 팔레트입니다. |
-| updateColors | Boolean | 로 설정된 경우`진실` 색상은 새 팔레트에 따라 업데이트됩니다. 그렇지 않으면 색상 인덱스가 변경되지 않습니다. 일부 인덱스에 해당 팔레트 항목이 없는 경우 변경되지 않은 인덱스는 로드 시 이미지와 충돌할 수 있습니다. |
+| 팔레트 | IColorPalette | 설정할 팔레트. |
+| updateColors | Boolean | `true` 로 설정하면 색상이 새 팔레트에 따라 업데이트됩니다; 그렇지 않으면 색인은 변경되지 않은 상태로 유지됩니다. 변경되지 않은 색인은 일부 색인에 해당하는 팔레트 항목이 없을 경우 로드 시 이미지가 충돌할 수 있습니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | NotImplementedException | 구현되지 않음 |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

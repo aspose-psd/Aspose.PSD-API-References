@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Dither
-second_title: .NET API 참조용 Aspose.PSD
-description: IGradientFillSettings 재산. 이 여부를 나타내는 값을 가져오거나 설정합니다.IGradientFillSettings 디더입니다.
+title: "IGradientFillSettings.Dither"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IGradientFillSettings 속성. 이 IGradientFillSettings가 디더링인지 여부를 가져오거나 설정합니다"
 type: docs
-weight: 50
+weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Dither property
 
-이 여부를 나타내는 값을 가져오거나 설정합니다.[`IGradientFillSettings`](../) 디더입니다.
+이 [`IGradientFillSettings`](../)가 디더링인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 떨리는 경우; 그렇지 않으면,`거짓` .
+`true`이면 디더링; 그렇지 않으면 `false`.
 
-### 예
+## 예제
 
-다음 예제는 Gradient FillLayer 지원 및 IGradientFillSettings 편집 옵션을 보여줍니다.
+다음 예제는 Gradient FillLayer 지원 및 IGradientFillSettings 편집 옵션을 보여줍니다..
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
+            var solidGradient = (SolidGradient)settings.Gradient;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -47,14 +49,14 @@ using (im)
              settings.Reverse != false ||
              Math.Abs(settings.HorizontalOffset - (-39)) > 0.25 ||
              Math.Abs(settings.VerticalOffset - (-5)) > 0.25 ||
-             settings.TransparencyPoints.Length != 3 ||
-             settings.ColorPoints.Length != 2 ||
-             Math.Abs(100.0 - settings.TransparencyPoints[0].Opacity) > 0.25 ||
-             settings.TransparencyPoints[0].Location != 0 ||
-             settings.TransparencyPoints[0].MedianPointLocation != 50 ||
-             settings.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
-             settings.ColorPoints[0].Location != 0 ||
-             settings.ColorPoints[0].MedianPointLocation != 50)
+             solidGradient.TransparencyPoints.Length != 3 ||
+             solidGradient.ColorPoints.Length != 2 ||
+             Math.Abs(100.0 - solidGradient.TransparencyPoints[0].Opacity) > 0.25 ||
+             solidGradient.TransparencyPoints[0].Location != 0 ||
+             solidGradient.TransparencyPoints[0].MedianPointLocation != 50 ||
+             solidGradient.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+             solidGradient.ColorPoints[0].Location != 0 ||
+             solidGradient.ColorPoints[0].MedianPointLocation != 50)
             {
                 throw new Exception("Gradient Fill was not read correctly");
             }
@@ -64,8 +66,8 @@ using (im)
             settings.Reverse = true;
             settings.HorizontalOffset = 25;
             settings.VerticalOffset = -15;
-            var colorPoints = new List<IGradientColorPoint>(settings.ColorPoints);
-            var transparencyPoints = new List<IGradientTransparencyPoint>(settings.TransparencyPoints);
+            var colorPoints = new List<IGradientColorPoint>(solidGradient.ColorPoints);
+            var transparencyPoints = new List<IGradientTransparencyPoint>(solidGradient.TransparencyPoints);
             colorPoints.Add(new GradientColorPoint()
             {
                 Color = Color.Violet,
@@ -80,8 +82,8 @@ using (im)
                 MedianPointLocation = 25
             });
             transparencyPoints[2].Location = 3000;
-            settings.ColorPoints = colorPoints.ToArray();
-            settings.TransparencyPoints = transparencyPoints.ToArray();
+            solidGradient.ColorPoints = colorPoints.ToArray();
+            solidGradient.TransparencyPoints = transparencyPoints.ToArray();
             fillLayer.Update();
             im.Save(outputFile, new PsdOptions(im));
             break;
@@ -90,10 +92,10 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [IGradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

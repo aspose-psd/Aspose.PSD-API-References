@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: .NET API 참조용 Aspose.PSD
-description: GraphicsPath 재산. 경로 수치를 가져옵니다.
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GraphicsPath 속성. 경로 도형을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-경로 수치를 가져옵니다.
+경로 도형을 가져옵니다.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-경로 수치입니다.
+경로 도형입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageAttributes 방법. 브러시 범주에 대한 색상 재매핑 테이블을 설정합니다.
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageAttributes 메서드. 브러시 카테고리의 colorremap 테이블을 설정합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-브러시 범주에 대한 색상 재매핑 테이블을 설정합니다.
+브러시 카테고리의 색상-재매핑 테이블을 설정합니다.
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| map | ColorMap[] | 배열[`ColorMap`](../../colormap/) 사물. |
+| map | ColorMap[] | [`ColorMap`](../../colormap/) 객체들의 배열입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* 네임스페이스 [Aspose.PSD](../../imageattributes/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

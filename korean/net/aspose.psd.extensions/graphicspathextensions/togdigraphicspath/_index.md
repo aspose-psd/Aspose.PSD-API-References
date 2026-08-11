@@ -1,32 +1,33 @@
 ---
-title: GraphicsPathExtensions.ToGdiGraphicsPath
-second_title: .NET API 참조용 Aspose.PSD
-description: GraphicsPathExtensions 방법. 변환GraphicsPath 로GraphicsPath .
+title: "GraphicsPathExtensions.ToGdiGraphicsPath"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GraphicsPathExtensions 메서드. GraphicsPath를 GraphicsPath로 변환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-변환[`GraphicsPath`](../../../aspose.psd/graphicspath/) ~로GraphicsPath .
+`[`GraphicsPath`](../../../aspose.psd/graphicspath/)`을 GraphicsPath로 변환합니다.
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| graphicsPath | GraphicsPath | 변환할 그래픽 경로입니다. |
+| graphicsPath | GraphicsPath | 변환할 graphics path. |
 
 ### 반환 값
 
-개종자GraphicsPath.
+변환된 GraphicsPath.
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../graphicspathextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

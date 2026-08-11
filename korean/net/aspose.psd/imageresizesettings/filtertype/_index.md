@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageResizeSettings 재산. 필터 유형을 가져오거나 설정합니다.
+title: "ImageResizeSettings.FilterType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageResizeSettings 속성. 필터 유형을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
 필터 유형을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/imageresizesettings/filtertype/
 public ImageFilterType FilterType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-필터 유형입니다.
+필터 유형.
 
-### 또한보십시오
+### 또 보기
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* 네임스페이스 [Aspose.PSD](../../imageresizesettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

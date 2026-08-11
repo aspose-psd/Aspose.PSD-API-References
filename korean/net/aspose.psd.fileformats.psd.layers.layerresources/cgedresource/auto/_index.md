@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Auto
-second_title: .NET API 참조용 Aspose.PSD
-description: CgEdResource 재산. 이 여부를 나타내는 값을 가져오거나 설정합니다.CgEdResource 자동입니다.
+title: "CgEdResource.Auto"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CgEdResource 속성. 이 CgEdResource가 자동인지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Auto property
 
-이 여부를 나타내는 값을 가져오거나 설정합니다.[`CgEdResource`](../) 자동입니다.
+이 [`CgEdResource`](../)가 자동인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool Auto { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 자동인 경우; 그렇지 않으면,`거짓` .
+`true` if automatic; otherwise, `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [CgEdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

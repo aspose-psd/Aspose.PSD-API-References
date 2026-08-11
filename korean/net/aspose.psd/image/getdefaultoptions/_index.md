@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 기본 옵션을 가져옵니다.
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 기본 옵션을 가져옵니다"
 type: docs
-weight: 170
+weight: 180
 url: /ko/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 기본 옵션을 가져옵니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd/image/getdefaultoptions/
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | args | Object[] | 인수. |
 
@@ -22,11 +23,11 @@ public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 
 기본 옵션
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

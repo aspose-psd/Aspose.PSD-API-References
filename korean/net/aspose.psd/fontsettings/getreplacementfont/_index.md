@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: .NET API 참조용 Aspose.PSD
-description: FontSettings 방법. 가장 적합한 대체 글꼴을 가져옵니다. 모든 대체가 허용되지 않으면 먼저 허용되고 사용 가능한 글꼴이 반환됩니다. 사용 가능한 글꼴이 없으면 인수 에서 글꼴이 반환됩니다.
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FontSettings 메서드. 가장 적합한 교체 글꼴을 가져옵니다. 모든 교체가 허용되지 않으면 첫 번째 허용되고 사용 가능한 글꼴을 반환합니다. 사용 가능한 글꼴이 없으면 인수로 전달된 글꼴을 반환합니다."
 type: docs
-weight: 70
+weight: 80
 url: /ko/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-가장 적합한 대체 글꼴을 가져옵니다. 모든 대체가 허용되지 않으면 먼저 허용되고 사용 가능한 글꼴이 반환됩니다. 사용 가능한 글꼴이 없으면 인수 에서 글꼴이 반환됩니다.
+가장 적합한 교체 글꼴을 가져옵니다. 모든 교체가 허용되지 않으면 첫 번째 허용되고 사용 가능한 글꼴이 반환됩니다. 사용 가능한 글꼴이 없으면 인수로 전달된 글꼴이 반환됩니다.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fontName | String | 글꼴의 이름입니다. |
+| fontName | String | 글꼴 이름. |
 
 ### 반환 값
 
 교체된 글꼴의 이름
 
-### 예
+## 예제
 
-다음 코드는 다음을 사용하여 프로그래밍 방식으로 글꼴을 제한하는 기능을 보여줍니다.
+다음 코드는 프로그래밍 방식으로 폰트를 제한하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [FontSettings](../)
-* 네임스페이스 [Aspose.PSD](../../fontsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

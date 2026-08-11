@@ -1,36 +1,37 @@
 ---
-title: SmartObjectProvider.NewSmartObjectViaCopy
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectProvider 방법. 원본 레이어를 복사하여 새로운 스마트 개체 레이어를 생성합니다.
+title: "SmartObjectProvider.NewSmartObjectViaCopy"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectProvider 메서드. 소스 레이어를 복사하여 새로운 스마트 객체 레이어를 생성합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-원본 레이어를 복사하여 새로운 스마트 개체 레이어를 생성합니다.
+원본 레이어를 복사하여 새로운 스마트 객체 레이어를 생성합니다.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| sourceLayer | SmartObjectLayer | 소스 레이어. |
+| sourceLayer | SmartObjectLayer | 소스 레이어입니다. |
 
 ### 반환 값
 
-복제된[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) 인스턴스.
+복제된 [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) 인스턴스입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 포함된 고급 개체만 교체할 수 있습니다. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 임베드된 스마트 객체만 교체할 수 있습니다. |
 
-### 예
+## 예제
 
-이 예제는 PSD 이미지에서 스마트 개체 레이어를 복사하는 방법을 보여줍니다.
+이 예제들은 PSD 이미지에서 스마트 객체 레이어를 복사하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// 이 예제는 PSD 이미지에서 스마트 개체 레이어를 복사하는 방법을 보여줍니다.
+// 이 예제들은 PSD 이미지에서 스마트 객체 레이어를 복사하는 방법을 보여줍니다.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -46,7 +47,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // 복사할 레이어 번호
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -67,17 +68,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // 포함된 스마트 개체 이미지를 반전시키겠습니다(내부 PSD 이미지의 경우 첫 번째 레이어만 반전함).
+            // 임베드된 스마트 객체 이미지를 반전시켜 보겠습니다 (내부 PSD 이미지의 경우 첫 번째 레이어만 반전합니다).
             InvertImage(innerImage);
 
-            // PSD 레이어에 포함된 스마트 오브젝트 이미지를 교체해 보겠습니다.
+            // PSD 레이어의 임베디드 스마트 객체 이미지를 교체합시다
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 복제된 레이어는 포함된 이미지를 원본 스마트 개체와 공유합니다.
-        // 명시적으로 업데이트해야 하며 그렇지 않으면 렌더링 캐시가 변경되지 않은 상태로 유지됩니다.
-        // NewSmartObjectViaCopy에 의해 생성된 새 레이어가
-        // 포함된 이미지를 다른 사람과 공유하지 않습니다.
+        // 복제된 레이어는 원본 스마트 오브젝트와 임베드된 이미지를 공유합니다.
+        // 그리고 명시적으로 업데이트해야 하며, 그렇지 않으면 렌더링 캐시가 변경되지 않은 상태로 유지됩니다.
+        // 우리는 NewSmartObjectViaCopy에 의해 생성된 새 레이어가
+        // 다른 레이어와 임베드된 이미지를 공유하지 않도록 합니다.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -122,11 +123,11 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

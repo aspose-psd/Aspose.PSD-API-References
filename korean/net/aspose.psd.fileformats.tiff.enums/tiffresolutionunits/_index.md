@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits 열거형. Tiff 해상도 단위 Enum
+title: "열거형 TiffResolutionUnits"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff 해상도 단위 열거형"
 type: docs
-weight: 4150
+weight: 4620
 url: /ko/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Tiff 해상도 단위 Enum
+tiff 해상도 단위 열거형
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | None | `1` | 의미 있는 단위가 없습니다. |
-| Inch | `2` | 영어 시스템. |
-| Centimeter | `3` | 미터법. |
+| Inch | `2` | 영국식 시스템. |
+| Centimeter | `3` | 미터법 시스템. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

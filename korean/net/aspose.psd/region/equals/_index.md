@@ -1,39 +1,64 @@
 ---
-title: Region.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: Region 방법. 지정된Region 이것과 동일하다Region 지정된 도면 표면에.
+title: "Region.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Region 메서드. 지정된 그리기 표면에서 지정된 Region이 이 Region과 동일한지 테스트합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/region/equals/
 ---
-## Region.Equals method
+{{< psd/tize >}}
+## Equals(Region, Graphics) {#equals}
 
-지정된[`Region`](../) 이것과 동일하다[`Region`](../) 지정된 도면 표면에.
+지정된 그리기 표면에서 지정된 [`Region`](../)이 이 [`Region`](../)과 동일한지 테스트합니다.
 
 ```csharp
 public bool Equals(Region region, Graphics g)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| region | Region | 그만큼[`Region`](../) 테스트합니다. |
-| g | Graphics | ㅏ[`Graphics`](../../graphics/) 그리기 표면을 나타냅니다. |
+| region | Region | 테스트할 [`Region`](../). |
+| g | Graphics | 그리기 표면을 나타내는 [`Graphics`](../../graphics/)입니다. |
 
 ### 반환 값
 
-변환이 수행될 때 영역 내부가 이 영역의 내부와 동일하면 참입니다.*g*매개변수가 적용됩니다. 그렇지 않으면 false.
+*g* 매개변수와 연관된 변환이 적용될 때 region의 내부가 이 region의 내부와 동일하면 True; 그렇지 않으면 false.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *g *또는* region* null입니다. |
+| ArgumentNullException | *g *or* region*은 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+객체가 동일한지 확인합니다.
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| obj | Object | 다른 객체. |
+
+### 반환 값
+
+동등성 비교 결과.
+
+### 또 보기
+
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

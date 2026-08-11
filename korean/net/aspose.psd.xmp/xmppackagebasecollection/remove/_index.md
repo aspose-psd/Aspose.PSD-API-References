@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Remove
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackageBaseCollection 방법. 지정된 XMP 패키지를 제거합니다.
+title: "XmpPackageBaseCollection.Remove"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackageBaseCollection 메서드. 지정된 XMP 패키지를 제거합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Remove method
 
 지정된 XMP 패키지를 제거합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 public void Remove(XmpPackage package)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| package | XmpPackage | 제거할 XMP 패키지입니다. |
+| 패키지 | XmpPackage | 제거할 XMP 패키지. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

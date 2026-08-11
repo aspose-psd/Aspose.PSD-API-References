@@ -1,35 +1,36 @@
 ---
-title: Enum ExifMeteringMode
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode 열거형. exif 측정 모드 enum.
+title: "열거형 ExifMeteringMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode 열거형. exif 측광 모드 열거형"
 type: docs
-weight: 900
+weight: 910
 url: /ko/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-exif 측정 모드 enum.
+exif 측광 모드 열거형.
 
 ```csharp
 public enum ExifMeteringMode
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Unknown | `0` | 정의되지 않은 mode |
-| Average | `1` | 평균 측정 |
-| Centerweightedaverage | `2` | 중앙 가중 평균. |
+| Unknown | `0` | 정의되지 않은 모드 |
+| Average | `1` | 평균 측광 |
+| Centerweightedaverage | `2` | 중심 가중 평균. |
 | Spot | `3` | 스팟 측광 |
 | MultiSpot | `4` | 멀티 스팟 측광 |
-| MultiSegment | `5` | 다중 세그먼트 측정. |
-| Partial | `6` | 부분 계량. |
-| Other | `255` | 다른 모드의 경우. |
+| MultiSegment | `5` | 멀티 세그먼트 측광. |
+| Partial | `6` | 부분 측광. |
+| Other | `255` | 다른 모드에 대해. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

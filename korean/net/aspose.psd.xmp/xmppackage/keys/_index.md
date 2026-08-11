@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Keys
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackage 재산. XMP 패키지의 키를 가져옵니다.
+title: "XmpPackage.Keys"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackage 속성. XMP 패키지의 키를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
 XMP 패키지의 키를 가져옵니다.
@@ -14,14 +15,14 @@ XMP 패키지의 키를 가져옵니다.
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-XMP 패키지의 키입니다.
+XMP 패키지의 키.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

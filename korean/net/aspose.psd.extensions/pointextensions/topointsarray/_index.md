@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: .NET API 참조용 Aspose.PSD
-description: PointExtensions 방법. 변환Point 에 배열PointF 배열.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PointExtensions 메서드. Point 배열을 PointF 배열로 변환합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-변환[`Point`](../../../aspose.psd/point/) 에 배열[`PointF`](../../../aspose.psd/pointf/) 배열.
+`[`Point`](../../../aspose.psd/point/)` 배열을 `[`PointF`](../../../aspose.psd/pointf/)` 배열로 변환합니다.
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| points | Point[] | 그만큼[`Point`](../../../aspose.psd/point/) 변환할 배열. |
+| points | Point[] | 변환할 `[`Point`](../../../aspose.psd/point/)` 배열. |
 
 ### 반환 값
 
-개종자[`PointF`](../../../aspose.psd/pointf/) 정렬.
+변환된 `[`PointF`](../../../aspose.psd/pointf/)` 배열.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../pointextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

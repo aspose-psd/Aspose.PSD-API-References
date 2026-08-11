@@ -1,28 +1,29 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 재산. 스마트 개체 공급자를 가져옵니다.
+title: "PsdImage.SmartObjectProvider"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 속성. 스마트 객체 제공자를 가져옵니다"
 type: docs
 weight: 240
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
-스마트 개체 공급자를 가져옵니다.
+스마트 객체 제공자를 가져옵니다.
 
 ```csharp
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-스마트 개체 공급자입니다.
+스마트 객체 제공자.
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

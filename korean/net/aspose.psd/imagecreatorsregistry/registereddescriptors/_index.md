@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageCreatorsRegistry 재산. 등록된 설명자를 가져옵니다.
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageCreatorsRegistry 속성. 등록된 설명자를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
-등록된 설명자를 가져옵니다.
+등록된 디스크립터를 가져옵니다.
 
 ```csharp
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-등록된 설명자입니다.
+등록된 설명자.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* 네임스페이스 [Aspose.PSD](../../imagecreatorsregistry/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 포인터를 EXIF IFD로 가져오거나 설정합니다.
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. EXIF IFD에 대한 포인터를 가져오거나 설정합니다"
 type: docs
-weight: 130
+weight: 140
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-포인터를 EXIF IFD로 가져오거나 설정합니다.
+EXIF IFD에 대한 포인터를 가져오거나 설정합니다.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 EXIF IFD에 대한 포인터.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

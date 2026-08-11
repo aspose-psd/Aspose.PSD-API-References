@@ -1,11 +1,12 @@
 ---
-title: Configuration.BufferSizeHint
-second_title: .NET API 참조용 Aspose.PSD
-description: Configuration 재산. 모든 내부 버퍼에 대해 정의된 최대 허용 크기인 버퍼 크기 힌트를 가져오거나 설정합니다.
+title: "Configuration.BufferSizeHint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Configuration 속성. 모든 내부 버퍼에 대해 정의된 최대 허용 크기인 버퍼 크기 힌트를 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Configuration.BufferSizeHint property
 
 모든 내부 버퍼에 대해 정의된 최대 허용 크기인 버퍼 크기 힌트를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 public static int BufferSizeHint { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-버퍼 크기 힌트(MB). 비양수 값은 내부 버퍼에 대한 메모리 제한이 없음을 의미합니다.
+버퍼 크기 힌트(메가바이트 단위). 0 이하 값은 내부 버퍼에 메모리 제한이 없음을 의미합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Configuration](../)
-* 네임스페이스 [Aspose.PSD.MemoryManagement](../../configuration/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.MemoryManagement](../../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

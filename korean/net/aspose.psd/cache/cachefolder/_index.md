@@ -1,11 +1,12 @@
 ---
-title: Cache.CacheFolder
-second_title: .NET API 참조용 Aspose.PSD
-description: Cache 재산. 캐시 폴더를 가져오거나 설정합니다.
+title: "Cache.CacheFolder"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Cache 속성. 캐시 폴더를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
 캐시 폴더를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/cache/cachefolder/
 public static string CacheFolder { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 캐시 폴더.
 
-### 또한보십시오
+### 또 보기
 
 * class [Cache](../)
-* 네임스페이스 [Aspose.PSD](../../cache/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

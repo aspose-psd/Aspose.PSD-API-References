@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: .NET API 참조용 Aspose.PSD
-description: Jpeg2000Options 재산. 압축 비율의 배열을 가져오거나 설정합니다. 연속 레이어에 대한 다른 압축 비율. 각 품질 수준에 지정된 비율은 원하는 압축 비율입니다. 비율 감소가 필요합니다.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Jpeg2000Options 속성. 압축 비율 배열을 가져오거나 설정합니다. 연속 레이어마다 다른 압축 비율을 사용합니다. 각 품질 수준에 지정된 비율은 원하는 압축 계수이며, 비율을 감소시켜야 합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-압축 비율의 배열을 가져오거나 설정합니다. 연속 레이어에 대한 다른 압축 비율. 각 품질 수준에 지정된 비율은 원하는 압축 비율입니다. 비율 감소가 필요합니다.
+압축 비율 배열을 가져오거나 설정합니다. 연속 레이어마다 다른 압축 비율을 사용합니다. 각 품질 수준에 지정된 비율은 원하는 압축 계수이며, 비율을 감소시켜야 합니다.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-압축률.
+압축 비율.
 
-### 또한보십시오
+### 또 보기
 
 * class [Jpeg2000Options](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

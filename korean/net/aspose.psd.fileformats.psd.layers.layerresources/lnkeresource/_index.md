@@ -1,14 +1,15 @@
 ---
-title: Class LnkeResource
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource 수업. PSD 형식 이미지의 외부 링크 파일 또는 자산에 대한 정보를 포함하는 LnkeResource 클래스를 정의합니다. 링크 리소스에는 여러 개가 포함될 수 있습니다.LiFeDataSource 인덱서에서 액세스할 수 있는 인스턴스입니다. Adobe Photoshop 파일을 프로그래밍 방식으로 수정하는 데 도움이 되는 PSD 파일 형식 조작 API의 일부입니다.
+title: "클래스 LnkeResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource 클래스. 외부 링크된 파일 또는 자산에 대한 정보를 포함하는 LnkeResource 클래스를 정의합니다. 링크 리소스는 인덱서를 통해 접근할 수 있는 여러 LiFeDataSource 인스턴스를 포함할 수 있습니다. 이는 Adobe Photoshop 파일을 프로그래밍 방식으로 수정하는 데 도움이 되는 PSD 파일 형식 조작 API의 일부입니다."
 type: docs
-weight: 2740
+weight: 3050
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-PSD 형식 이미지의 외부 링크 파일 또는 자산에 대한 정보를 포함하는 LnkeResource 클래스를 정의합니다. 링크 리소스에는 여러 개가 포함될 수 있습니다.[`LiFeDataSource`](../lifedatasource/) 인덱서에서 액세스할 수 있는 인스턴스입니다. Adobe® Photoshop® 파일을 프로그래밍 방식으로 수정하는 데 도움이 되는 PSD 파일 형식 조작 API의 일부입니다.
+외부 링크된 파일 또는 자산에 대한 정보를 포함하는 LnkeResource 클래스를 정의합니다. 링크 리소스는 인덱서를 통해 접근할 수 있는 여러 [`LiFeDataSource`](../lifedatasource/) 인스턴스를 포함할 수 있습니다. 이는 Adobe® Photoshop® 파일을 프로그래밍 방식으로 수정하는 데 도움이 되는 PSD 파일 형식 조작 API의 일부입니다.
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -18,35 +19,35 @@ public class LnkeResource : LinkResource
 
 | 이름 | 설명 |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | 의 새 인스턴스를 초기화합니다.`LnkeResource` 클래스. |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | 의 새 인스턴스를 초기화합니다.`LnkeResource` 클래스. |
+| [LnkeResource](lnkeresource/#constructor)() | `LnkeResource` 클래스의 새 인스턴스를 초기화합니다. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | `LnkeResource` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | 인덱서에서 액세스할 수 있는 링크 데이터 소스의 수를 가져옵니다. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | 인덱서를 통해 접근할 수 있는 링크 데이터 소스의 개수를 가져옵니다. |
 | [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | 이 링크 리소스 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | 가져오기[`LiFeDataSource`](../lifedatasource/) 지정된 index. 에서 (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Adobe® Photoshop® 글로벌 리소스 키를 가져옵니다. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | 지정된 인덱스에 있는 [`LiFeDataSource`](../lifedatasource/)를 가져옵니다. (인덱서 2개) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | PSD 전역 링크 리소스 길이를 바이트 단위로 가져옵니다. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | PSD 형식 버전을 가져옵니다. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | PSD 전역 링크 리소스 서명을 가져옵니다. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 레이어 리소스에 필요한 최소 PSD 버전을 가져옵니다. 0은 제한이 없음을 나타냅니다. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 서명을 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | 리소스 블록 데이터를 저장합니다. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 반환String 이 instance. 를 나타냅니다. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 이 인스턴스를 나타내는 문자열을 반환합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | 유형 도구 정보 키입니다. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | 타입 툴 정보 키. |
 
-### 예
+## 예제
 
 다음 코드는 LnkeResource 리소스의 지원을 보여줍니다.
 
@@ -270,11 +271,11 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

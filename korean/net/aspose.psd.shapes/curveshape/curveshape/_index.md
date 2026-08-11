@@ -1,111 +1,112 @@
 ---
-title: CurveShape.CurveShape
-second_title: .NET API 참조용 Aspose.PSD
-description: CurveShape 건설자. 의 새 인스턴스를 초기화합니다.CurveShape 클래스.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CurveShape 생성자. CurveShape 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`CurveShape`](../) 클래스.
+`[`CurveShape`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CurveShape()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [CurveShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../curveshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`CurveShape`](../) 수업. 기본 장력 0.5를 사용합니다.
+`[`CurveShape`](../)` 클래스의 새 인스턴스를 초기화합니다. 기본 장력 0.5가 사용됩니다.
 
 ```csharp
 public CurveShape(PointF[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| points | PointF[] | 포인트 배열입니다. |
+| 포인트 | PointF[] | 포인트 배열. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../curveshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`CurveShape`](../) 수업. 기본 장력 0.5를 사용합니다.
+`[`CurveShape`](../)` 클래스의 새 인스턴스를 초기화합니다. 기본 장력 0.5가 사용됩니다.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| points | PointF[] | 포인트 배열입니다. |
-| isClosed | Boolean | 로 설정된 경우`진실` 곡선이 닫힙니다. |
+| 포인트 | PointF[] | 포인트 배열. |
+| isClosed | Boolean | `true` 로 설정하면 곡선이 닫힙니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../curveshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-의 새 인스턴스를 초기화합니다.[`CurveShape`](../) 클래스.
+`[`CurveShape`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| points | PointF[] | 포인트 배열입니다. |
-| tension | Single | 곡선 장력. |
+| 포인트 | PointF[] | 포인트 배열. |
+| 장력 | 단일 | 곡선 장력입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../curveshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-의 새 인스턴스를 초기화합니다.[`CurveShape`](../) 클래스.
+`[`CurveShape`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| points | PointF[] | 포인트 배열입니다. |
-| tension | Single | 곡선 장력. |
-| isClosed | Boolean | 로 설정된 경우`진실` 곡선이 닫힙니다. |
+| 포인트 | PointF[] | 포인트 배열. |
+| 장력 | 단일 | 곡선 장력입니다. |
+| isClosed | Boolean | `true` 로 설정하면 곡선이 닫힙니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../curveshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

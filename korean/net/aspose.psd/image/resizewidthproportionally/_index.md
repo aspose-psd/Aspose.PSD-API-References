@@ -1,28 +1,29 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 너비를 비례적으로 조정합니다.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 너비를 비례적으로 조정합니다. 기본값인 NearestNeighbourResample이 사용됩니다."
 type: docs
-weight: 210
+weight: 220
 url: /ko/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-너비를 비례적으로 조정합니다.
+너비를 비례적으로 조정합니다. 기본 NearestNeighbourResample이 사용됩니다.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
+| newWidth | Int32 | 새로운 너비. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ public void ResizeWidthProportionally(int newWidth)
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| resizeType | ResizeType | 크기 조정 유형입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| resizeType | ResizeType | 리사이즈 유형입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| settings | ImageResizeSettings | 이미지 크기 조정 설정입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| 설정 | ImageResizeSettings | 이미지 리사이즈 설정입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

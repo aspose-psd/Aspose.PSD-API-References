@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 생동감 조정 레이어를 추가합니다.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. Vibrance 조정 레이어를 추가합니다"
 type: docs
-weight: 430
+weight: 490
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-생동감 조정 레이어를 추가합니다.
+비브런스 조정 레이어를 추가합니다.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -16,11 +17,11 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### 반환 값
 
-새로 생성된 Vibrance 레이어.
+새로 만든 Vibrance 레이어입니다.
 
-### 예
+## 예제
 
-다음 코드 예제는 VibranceLayer 레이어 지원과 이 조정을 편집하는 기능을 보여줍니다.
+다음 코드 예제는 VibranceLayer 레이어 지원과 이 조정을 편집할 수 있는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // 새로운 VibranceLayer 생성
+    // 새 VibranceLayer 만들기
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

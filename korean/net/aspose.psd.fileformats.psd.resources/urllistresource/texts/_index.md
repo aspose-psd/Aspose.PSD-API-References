@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Texts
-second_title: .NET API 참조용 Aspose.PSD
-description: UrlListResource 재산. 텍스트를 가져오거나 설정합니다.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "UrlListResource 속성. 텍스트를 가져오거나 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
 텍스트를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 public string[] Texts { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-텍스트.
+텍스트들입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [UrlListResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

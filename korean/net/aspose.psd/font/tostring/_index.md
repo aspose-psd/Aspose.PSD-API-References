@@ -1,14 +1,15 @@
 ---
-title: Font.ToString
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 방법. 사람이 읽을 수 있는 문자열 표현을 반환합니다.Font .
+title: "Font.ToString"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 메서드. 이 Font의 사람이 읽을 수 있는 문자열 표현을 반환합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-사람이 읽을 수 있는 문자열 표현을 반환합니다.[`Font`](../) .
+이 [`Font`](../)의 사람이 읽을 수 있는 문자열 표현을 반환합니다.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 반환 값
 
-이것을 나타내는 문자열[`Font`](../).
+이 [`Font`](../)을 나타내는 문자열입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

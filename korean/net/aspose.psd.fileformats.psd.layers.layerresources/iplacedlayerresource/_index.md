@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource 상호 작용. PSD 파일에 배치된 레이어에 대한 정보가 포함된 IPlacedLayerResource 인터페이스를 정의합니다. Is는 Adobe Photoshop 이미지에서 PlLd Sold 및 Sole 리소스를 지정하는 데 사용되는 마크업 인터페이스입니다. Is는 스마트 개체 레이어를 지원하는 데 사용됩니다. Adobe Photoshop 이미지.
+title: "인터페이스 IPlacedLayerResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource 인터페이스. IPlacedLayerResource 인터페이스를 정의하며, PSD 파일의 배치된 레이어에 대한 정보를 포함합니다. Adobe Photoshop 이미지에서 PlLd Sold 및 Sole 리소스를 지정하는 데 사용되는 마크업 인터페이스입니다. Adobe Photoshop 이미지에서 스마트 오브젝트 레이어를 지원하는 데 사용됩니다."
 type: docs
-weight: 2530
+weight: 2820
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-PSD 파일에 배치된 레이어에 대한 정보가 포함된 IPlacedLayerResource 인터페이스를 정의합니다. Is는 Adobe® Photoshop® 이미지에서 PlLd, Sold 및 Sole 리소스를 지정하는 데 사용되는 마크업 인터페이스입니다. Is는 스마트 개체 레이어를 지원하는 데 사용됩니다. Adobe® Photoshop® 이미지.
+IPlacedLayerResource 인터페이스를 정의하며 PSD 파일의 배치된 레이어에 대한 정보를 포함합니다. Adobe® Photoshop® 이미지에서 PlLd, Sold 및 Sole 리소스를 지정하는 마크업 인터페이스이며, Adobe® Photoshop® 이미지에서 스마트 객체 레이어를 지원하는 데 사용됩니다.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -18,38 +19,38 @@ public interface IPlacedLayerResource
 
 | 이름 | 설명 |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | PSD 이미지에 배치된 레이어의 앤티 앨리어스 정책을 가져오거나 설정합니다. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | PSD 이미지에서 배치된 레이어의 앤티앨리어싱 정책을 가져오거나 설정합니다. |
 | [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | PSD 이미지에서 배치된 레이어의 하단 위치를 가져오거나 설정합니다. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | PSD 파일에 배치된 레이어의 경계를 가져오거나 설정합니다. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | PSD 파일에 배치된 레이어의 수평 메쉬 포인트를 가져오거나 설정합니다. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | 수평 메쉬 포인트의 측정 단위를 가져오거나 설정합니다. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | 이 인스턴스 뒤틀기 스타일이 사용자 지정인지 여부를 나타내는 값을 가져오거나 설정합니다. true인 경우 메쉬 포인트를 포함합니다. false로 설정하면 메쉬 점을 지웁니다. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | 워프 항목을 가져오거나 설정합니다. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | PSD 파일에서 배치된 레이어의 경계를 가져오거나 설정합니다. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | PSD 파일에서 배치된 레이어의 수평 메시 포인트를 가져오거나 설정합니다. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | 수평 메시 포인트의 측정 단위를 가져오거나 설정합니다. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | 이 인스턴스의 왜곡 스타일이 사용자 지정인지 여부를 나타내는 값을 가져오거나 설정합니다. true이면 메시 포인트를 포함하고, false로 설정하면 메시 포인트를 삭제합니다. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | 왜곡 항목을 가져오거나 설정합니다. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | PSD 파일에서 배치된 레이어의 왼쪽 위치를 가져오거나 설정합니다. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | PSD 파일에 배치된 레이어의 페이지 번호를 가져오거나 설정합니다. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | PSD 파일에 배치된 레이어의 원근 값을 가져오거나 설정합니다. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | PSD 파일에 배치된 레이어의 원근 다른 값을 가져오거나 설정합니다. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | PSD 파일에 배치된 레이어의 유형을 가져오거나 설정합니다. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | PSD 파일에서 배치된 레이어의 올바른 위치를 가져오거나 설정합니다. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | PSD 파일에서 배치된 레이어의 페이지 번호를 가져오거나 설정합니다. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | PSD 파일에서 배치된 레이어의 원근값을 가져오거나 설정합니다. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | PSD 파일에서 배치된 레이어의 기타 원근값을 가져오거나 설정합니다. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | PSD 파일에서 배치된 레이어의 유형을 가져오거나 설정합니다. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | PSD 파일에서 배치된 레이어의 오른쪽 위치를 가져오거나 설정합니다. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | PSD 이미지에서 배치된 레이어의 상단 위치를 가져오거나 설정합니다. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | PSD 파일에 배치된 레이어의 총 페이지 수를 가져오거나 설정합니다. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | PSD 파일에 배치된 레이어의 변환 매트릭스를 가져오거나 설정합니다. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | PSD 이미지에 배치된 스마트 개체 또는 스마트 개체의 전역 고유 식별자를 가져오거나 설정합니다. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | PSD 파일에 배치된 레이어의 U 순서 값을 가져오거나 설정합니다. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | PSD 이미지에 배치된 레이어의 워프 값을 가져오거나 설정합니다. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | PSD 파일에 배치된 레이어의 버전을 가져옵니다. 일반적으로 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | PSD 파일에 배치된 레이어의 수평 메쉬 포인트를 가져오거나 설정합니다. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | 수직 메쉬 포인트의 측정 단위를 가져오거나 설정합니다. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | PSD 파일에 배치된 레이어의 V 순서 값을 가져오거나 설정합니다. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | PSD 파일에서 배치된 레이어의 전체 페이지 수를 가져오거나 설정합니다. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | PSD 파일에서 배치된 레이어의 변환 행렬을 가져오거나 설정합니다. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | PSD 이미지에서 스마트 오브젝트 배치 레이어의 전역 고유 식별자를 가져오거나 설정합니다. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | PSD 파일에서 배치된 레이어의 U 순서 값을 가져오거나 설정합니다. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | PSD 이미지에서 배치된 레이어의 왜곡 값을 가져오거나 설정합니다. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | PSD 파일에 배치된 레이어의 버전을 가져옵니다. 일반적으로 3-5입니다. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | PSD 파일에서 배치된 레이어의 수평 메시 포인트를 가져오거나 설정합니다. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | 수직 메시 포인트의 측정 단위를 가져오거나 설정합니다. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | PSD 파일에서 배치된 레이어의 V 순서 값을 가져오거나 설정합니다. |
 
-### 예
+## 예제
 
-다음 코드는 SoLdResource 리소스의 지원을 보여줍니다.
+다음 코드는 SoLdResource 리소스 지원을 보여줍니다.
 
 ```csharp
 [C#]
 
-// 이 예제는 PSD 파일의 스마트 개체 레이어 데이터 속성을 가져오거나 설정하는 방법을 보여줍니다.
+// 이 예제는 PSD 파일의 스마트 오브젝트 레이어 데이터 속성을 가져오거나 설정하는 방법을 보여줍니다.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // 이 값은 PlLdResource(지정된 UniqueId 포함)에서도 변경되어야 합니다.
-                // 그리고 그 중 일부는 LinkDataSource의 밑줄 스마트 개체와 일치해야 합니다.
+                // 이 값은 지정된 UniqueId가 있는 PlLdResource에서도 변경되어야 합니다.
+                // 그리고 그 중 일부는 LinkDataSource에 있는 기본 스마트 오브젝트와 일치해야 합니다.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,15 +330,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // 이 고유 ID는 참조에서 변경되어야 합니다.
+                // 해당 고유 ID는 참조가 있는 경우 변경되어야 합니다.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 일부 매개변수에 주의: Adobe® Photoshop®에서 이미지를 읽을 수 없게 될 수 있습니다.
+                // 일부 매개변수에 주의하십시오: 이미지가 Adobe® Photoshop®에서 읽을 수 없게 될 수 있습니다.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // 변경하지 않으면 자유 변형을 사용할 수 없습니다.
-                // 또는 밑줄 스마트 객체를 벡터 유형으로 변경
+                // 이를 변경하지 마세요, 그렇지 않으면 자유 변형을 사용할 수 없습니다.
+                // 또는 기본 스마트 오브젝트를 벡터 유형으로 변경하십시오.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // 이 고유 ID를 가진 유효한 PlLdResource가 있어야 합니다.
@@ -353,9 +354,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: ShapeSegment 재산. 끝점을 가져옵니다.
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ShapeSegment 속성. 끝점을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
 끝점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/shapesegment/endpoint/
 public abstract PointF EndPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-종료 지점입니다.
+끝점.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* 네임스페이스 [Aspose.PSD](../../shapesegment/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

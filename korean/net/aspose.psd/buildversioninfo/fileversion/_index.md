@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: BuildVersionInfo 필드. 파일 버전.
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BuildVersionInfo 필드. 파일 버전"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/buildversioninfo/fileversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.FileVersion field
 
-파일 버전.
+파일 버전입니다.
 
 ```csharp
 public static readonly string FileVersion;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BuildVersionInfo](../)
-* 네임스페이스 [Aspose.PSD](../../buildversioninfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Explicit
-second_title: .NET API 참조용 Aspose.PSD
-description: SizeF 방법. 지정된SizeF 에게PointF .
+title: "SizeF.op_Explicit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SizeF 메서드. 지정된 SizeF를 PointF로 변환합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/sizef/op_explicit/
 ---
+{{< psd/tize >}}
 ## SizeF Explicit operator
 
-지정된[`SizeF`](../) ~에게[`PointF`](../../pointf/) .
+지정된 [`SizeF`](../)를 [`PointF`](../../pointf/)으로 변환합니다.
 
 ```csharp
 public static explicit operator PointF(SizeF size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size | SizeF | 그만큼[`SizeF`](../) 변환할 구조 |
+| size | SizeF | 변환될 [`SizeF`](../) 구조체. |
 
 ### 반환 값
 
-그만큼[`PointF`](../../pointf/) 이 연산자가 변환하는 구조체입니다.
+이 연산자가 변환하는 [`PointF`](../../pointf/) 구조체.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

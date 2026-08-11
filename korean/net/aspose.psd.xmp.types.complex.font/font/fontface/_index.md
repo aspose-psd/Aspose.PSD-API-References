@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 재산. 글꼴을 가져오거나 설정합니다.
+title: "Font.FontFace"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 속성. 글꼴 모양을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-글꼴을 가져오거나 설정합니다.
+글꼴 얼굴을 가져오거나 설정합니다.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-글꼴.
+글꼴 모양입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

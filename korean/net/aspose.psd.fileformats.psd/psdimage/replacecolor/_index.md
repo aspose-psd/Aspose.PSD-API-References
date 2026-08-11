@@ -1,29 +1,30 @@
 ---
-title: PsdImage.ReplaceColor
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 한 색상을 허용되는 차이가 있는 다른 색상으로 바꾸고 원래 알파 값을 유지하여 매끄러운 가장자리를 저장합니다.
+title: "PsdImage.ReplaceColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 허용된 차이로 한 색상을 다른 색상으로 교체하고 원본 알파 값을 보존하여 부드러운 가장자리를 유지합니다"
 type: docs
-weight: 570
+weight: 630
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceColor method
 
-한 색상을 허용되는 차이가 있는 다른 색상으로 바꾸고 원래 알파 값을 유지하여 매끄러운 가장자리를 저장합니다.
+허용된 차이로 한 색상을 다른 색상으로 교체하고 원래 알파 값을 유지하여 부드러운 가장자리를 보존합니다.
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| oldColorArgb | Int32 | 교체할 이전 색상 ARGB 값입니다. |
-| oldColorDiff | Byte | 대체된 색조를 넓힐 수 있도록 이전 색상의 차이를 허용했습니다. |
-| newColorArgb | Int32 | 이전 색상을 대체할 새 색상 ARGB 값입니다. |
+| oldColorArgb | Int32 | 교체될 이전 색상 ARGB 값. |
+| oldColorDiff | 바이트 | 교체된 색조를 넓히기 위해 이전 색상의 허용 차이. |
+| newColorArgb | Int32 | 이전 색상을 교체할 새로운 색상 ARGB 값. |
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

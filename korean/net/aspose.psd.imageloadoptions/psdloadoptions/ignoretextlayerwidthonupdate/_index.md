@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdLoadOptions 재산. UpdateText 작업 실행 시 PSD 텍스트 레이어 고정 너비를 무시할지 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdLoadOptions 속성. UpdateText 작업 실행 시 PSD 텍스트 레이어 고정 너비를 무시할지 여부를 나타내는 값을 가져오거나 설정합니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-UpdateText 작업 실행 시 PSD 텍스트 레이어 고정 너비를 무시할지 여부를 나타내는 값을 가져오거나 설정합니다.
+PSD 텍스트 레이어 고정 너비가 UpdateText 작업 실행 시 무시될지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` if [텍스트 레이어 폭 무시]; 그렇지 않으면,`거짓` .
+`true`이면 [텍스트 레이어 너비 무시]; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdLoadOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

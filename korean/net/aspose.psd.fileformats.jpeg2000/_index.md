@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: .NET API 참조용 Aspose.PSD
-description: 네임스페이스는 Jpeg2000 파일 형식 처리를 처리합니다.
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "네임스페이스는 Jpeg2000 파일 형식 처리를 담당합니다"
 type: docs
-weight: 170
+weight: 180
 url: /ko/net/aspose.psd.fileformats.jpeg2000/
 ---
-네임스페이스는 Jpeg2000 파일 형식 처리를 처리합니다.
+{{< psd/tize >}}
+네임스페이스는 JPEG2000 파일 형식 처리를 담당합니다.
 
 ## 클래스
 
-| 수업 | 설명 |
+| 클래스 | 설명 |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg 코드 생성 exception |
-## 열거
+| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg 코드에서 발생한 예외 |
+## 열거형
 
-| 열거 | 설명 |
+| 열거형 | 설명 |
 | --- | --- |
-| [Jpeg2000Codec](./jpeg2000codec/) | 는 JPEG2000 이미지 type 를 나타냅니다. |
+| [Jpeg2000Codec](./jpeg2000codec/) | JPEG2000 이미지 유형을 나타냅니다 |
 
 

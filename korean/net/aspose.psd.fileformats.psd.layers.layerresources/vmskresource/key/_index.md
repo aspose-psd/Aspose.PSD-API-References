@@ -1,11 +1,12 @@
 ---
-title: VmskResource.Key
-second_title: .NET API 참조용 Aspose.PSD
-description: VmskResource 재산. 레이어 리소스 키를 가져옵니다.
+title: "VmskResource.Key"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VmskResource 속성. 레이어 리소스 키를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key/
 ---
+{{< psd/tize >}}
 ## VmskResource.Key property
 
 레이어 리소스 키를 가져옵니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key/
 public override int Key { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VmskResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerGroupsEnabledResource.MinimalVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerGroupsEnabledResource 재산. 필요한 최소 PSD 버전을 가져옵니다.
+title: "LayerGroupsEnabledResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerGroupsEnabledResource 속성. 최소 요구 PSD 버전을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.MinimalVersion property
 
 필요한 최소 PSD 버전을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/min
 public override int MinimalVersion { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 최소 PSD 버전.
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerGroupsEnabledResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

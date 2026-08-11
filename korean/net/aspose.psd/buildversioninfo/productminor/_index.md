@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ProductMinor
-second_title: .NET API 참조용 Aspose.PSD
-description: BuildVersionInfo 필드. 부 제품 버전입니다.
+title: "BuildVersionInfo.ProductMinor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BuildVersionInfo 필드. 마이너 제품 버전"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/buildversioninfo/productminor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMinor field
 
 부 제품 버전입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd/buildversioninfo/productminor/
 public static readonly int ProductMinor;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BuildVersionInfo](../)
-* 네임스페이스 [Aspose.PSD](../../buildversioninfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

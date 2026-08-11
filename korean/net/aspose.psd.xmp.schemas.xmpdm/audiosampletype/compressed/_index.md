@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Compressed
-second_title: .NET API 참조용 Aspose.PSD
-description: AudioSampleType 재산. 압축된 오디오 샘플을 나타냅니다.
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AudioSampleType 속성. 압축된 오디오 샘플을 나타냅니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
 압축된 오디오 샘플을 나타냅니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 public static AudioSampleType Compressed { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AudioSampleType](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

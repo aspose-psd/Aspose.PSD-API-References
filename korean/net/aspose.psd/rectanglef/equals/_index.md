@@ -1,31 +1,32 @@
 ---
-title: RectangleF.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 방법. 여부를 테스트합니다.obj 이다RectangleF 같은 위치와 크기로RectangleF .
+title: "RectangleF.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 메서드. obj가 이 RectangleF와 동일한 위치와 크기를 가진 RectangleF인지 테스트합니다."
 type: docs
 weight: 200
 url: /ko/net/aspose.psd/rectanglef/equals/
 ---
+{{< psd/tize >}}
 ## RectangleF.Equals method
 
-여부를 테스트합니다.*obj* 이다[`RectangleF`](../) 같은 위치와 크기로[`RectangleF`](../) .
+*obj*가 이 [`RectangleF`](../)와 동일한 위치와 크기를 가진 [`RectangleF`](../)인지 테스트합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 그만큼Object 테스트합니다. |
+| obj | Object | 테스트할 객체. |
 
 ### 반환 값
 
-이 메서드는 다음과 같은 경우 true를 반환합니다.*obj* 이다[`RectangleF`](../) X, Y, Width 및 Height 속성은 이것의 해당 속성과 같습니다.[`RectangleF`](../); 그렇지 않으면 거짓입니다.
+이 메서드는 *obj*가 [`RectangleF`](../)이며 그 X, Y, Width, Height 속성이 이 [`RectangleF`](../)의 해당 속성과 동일하면 true를 반환하고, 그렇지 않으면 false를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

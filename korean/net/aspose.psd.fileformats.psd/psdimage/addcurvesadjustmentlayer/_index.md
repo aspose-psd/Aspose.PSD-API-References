@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 곡선 조정 레이어를 추가합니다.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 커브 조정 레이어를 추가합니다"
 type: docs
-weight: 330
+weight: 340
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
 곡선 조정 레이어를 추가합니다.
@@ -16,13 +17,13 @@ public CurvesLayer AddCurvesAdjustmentLayer()
 
 ### 반환 값
 
-만들어진[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) 층
+생성된 [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) 레이어
 
-### 또한보십시오
+### 또 보기
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

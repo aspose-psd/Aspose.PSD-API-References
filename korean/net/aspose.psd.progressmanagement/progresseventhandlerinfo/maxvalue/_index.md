@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: .NET API 참조용 Aspose.PSD
-description: ProgressEventHandlerInfo 재산. 상한 진행 값 제한을 가져옵니다.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ProgressEventHandlerInfo 속성. 상한 진행 값 제한을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
-상한 진행 값 제한을 가져옵니다.
+상위 진행 값 한계를 가져옵니다.
 
 ```csharp
 public int MaxValue { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-상한 진행 값 제한.
+상한 진행 값 제한입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ProgressEventHandlerInfo](../)
-* 네임스페이스 [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

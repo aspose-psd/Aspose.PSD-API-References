@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPacketWrapper 재산. 트레일러 처리 명령을 가져옵니다.
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPacketWrapper 속성. 트레일러 처리 지시문을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
-트레일러 처리 명령을 가져옵니다.
+트레일러 처리 지시문을 가져옵니다.
 
 ```csharp
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-트레일러 처리 명령.
+트레일러 처리 지시문.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

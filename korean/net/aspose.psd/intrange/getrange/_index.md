@@ -1,24 +1,25 @@
 ---
-title: IntRange.GetRange
-second_title: .NET API 참조용 Aspose.PSD
-description: IntRange 방법. start 에서 시작하는 int 요소의 카운트 범위를 가져옵니다.
+title: "IntRange.GetRange"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IntRange 메서드. start부터 시작하는 int 요소들의 개수 범위를 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/intrange/getrange/
 ---
+{{< psd/tize >}}
 ## IntRange.GetRange method
 
-start 에서 시작하는 int 요소의 카운트 범위를 가져옵니다.
+시작 위치에서 시작하는 int 요소의 개수 범위를 가져옵니다.
 
 ```csharp
 public static IEnumerable<int> GetRange(int start, int count, int delta)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| start | Int32 | 시작. |
-| count | Int32 | 카운트. |
-| delta | Int32 | 델타. |
+| start | Int32 | 시작입니다. |
+| count | Int32 | 개수입니다. |
+| delta | Int32 | 델타입니다. |
 
 ### 반환 값
 
@@ -26,14 +27,14 @@ public static IEnumerable<int> GetRange(int start, int count, int delta)
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 개수는 1 또는 보다 사랑할 수 없습니다. {D255958A-8513-4226-94B9-080D98F904A1}시작 페이지는 0보다 사랑할 수 없습니다. |
+| ArgumentException | Count는 1보다 작을 수 없으며 {D255958A-8513-4226-94B9-080D98F904A1}Start 페이지는 0보다 작을 수 없습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [IntRange](../)
-* 네임스페이스 [Aspose.PSD](../../intrange/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

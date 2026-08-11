@@ -1,38 +1,39 @@
 ---
-title: TiffStreamReader.ReadSShortArray
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffStreamReader 방법. 스트림에서 서명된 짧은 값의 배열을 읽습니다.
+title: "TiffStreamReader.ReadSShortArray"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffStreamReader 메서드. 스트림에서 부호가 있는 짧은 정수 값 배열을 읽습니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShortArray method
 
-스트림에서 서명된 짧은 값의 배열을 읽습니다.
+스트림에서 부호 있는 short 값 배열을 읽습니다.
 
 ```csharp
 public short[] ReadSShortArray(long position, long count)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| position | Int64 | 읽을 위치입니다. |
-| count | Int64 | 요소가 중요합니다. |
+| 위치 | Int64 | 읽을 위치. |
+| count | Int64 | 요소 개수. |
 
 ### 반환 값
 
-부호 있는 짧은 값의 배열입니다.
+부호가 있는 짧은 정수 값 배열입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | 카운트; 양수가 예상됩니다. |
+| ArgumentOutOfRangeException | count;양의 숫자를 예상합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffStreamReader](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

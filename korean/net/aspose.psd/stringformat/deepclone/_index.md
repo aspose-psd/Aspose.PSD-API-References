@@ -1,14 +1,15 @@
 ---
-title: StringFormat.DeepClone
-second_title: .NET API 참조용 Aspose.PSD
-description: StringFormat 방법. 이것의 딥 클론을 생성합니다.StringFormat object.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringFormat 메서드. 이 StringFormat 객체의 깊은 복제본을 생성합니다."
 type: docs
-weight: 130
+weight: 140
 url: /ko/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-이것의 딥 클론을 생성합니다.[`StringFormat`](../) object.
+이 [`StringFormat`](../) 객체의 깊은 복제본을 생성합니다.
 
 ```csharp
 public StringFormat DeepClone()
@@ -16,12 +17,12 @@ public StringFormat DeepClone()
 
 ### 반환 값
 
-현재의 딥 클론[`StringFormat`](../) .
+현재 [`StringFormat`](../)의 깊은 복제본.
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

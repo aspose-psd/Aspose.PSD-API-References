@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.Register
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageLoadersRegistry 방법. 지정된 이미지 로더 설명자를 등록합니다.
+title: "ImageLoadersRegistry.Register"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageLoadersRegistry 메서드. 지정된 이미지 로더 설명자를 등록합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd/imageloadersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.Register method
 
 지정된 이미지 로더 설명자를 등록합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/imageloadersregistry/register/
 public static void Register(IImageLoaderDescriptor imageLoaderDescriptor)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| imageLoaderDescriptor | IImageLoaderDescriptor | 이미지 로더 설명자입니다. |
+| imageLoaderDescriptor | IImageLoaderDescriptor | 이미지 로더 설명자. |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* 네임스페이스 [Aspose.PSD](../../imageloadersregistry/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

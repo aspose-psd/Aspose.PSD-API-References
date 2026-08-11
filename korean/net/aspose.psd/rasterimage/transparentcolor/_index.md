@@ -1,11 +1,12 @@
 ---
-title: RasterImage.TransparentColor
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterImage 재산. 이미지 투명 색상을 가져옵니다.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterImage 속성. 이미지 투명 색상을 가져옵니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
 이미지 투명 색상을 가져옵니다.
@@ -14,11 +15,11 @@ url: /ko/net/aspose.psd/rasterimage/transparentcolor/
 public virtual Color TransparentColor { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 네임스페이스 [Aspose.PSD](../../rasterimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

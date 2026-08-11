@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 재산. 이것의 얼굴 이름을 얻습니다.Font .
+title: "Font.Name"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 속성. 이 Font의 글꼴 이름을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-이것의 얼굴 이름을 얻습니다.[`Font`](../) .
+이 [`Font`](../)의 글꼴 이름을 가져옵니다.
 
 ```csharp
 public string Name { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 얼굴 이름의 문자열 표현[`Font`](../).
+이 [`Font`](../)의 글꼴 이름에 대한 문자열 표현입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

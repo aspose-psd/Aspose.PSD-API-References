@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.ExifData
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 재산. exif 데이터 가져오기 또는 설정 container
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 속성. exif 데이터 컨테이너를 가져오거나 설정합니다"
 type: docs
-weight: 70
+weight: 80
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-exif 데이터 가져오기 또는 설정 container
+exif 데이터 컨테이너를 가져오거나 설정합니다.
 
 ```csharp
 public JpegExifData ExifData { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

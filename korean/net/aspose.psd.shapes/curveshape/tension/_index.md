@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Tension
-second_title: .NET API 참조용 Aspose.PSD
-description: CurveShape 재산. 곡선 장력을 가져오거나 설정합니다.
+title: "CurveShape.Tension"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CurveShape 속성. 곡선 장력을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
 곡선 장력을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.shapes/curveshape/tension/
 public float Tension { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-곡선 장력.
+곡선 장력입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [CurveShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../curveshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

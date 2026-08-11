@@ -1,22 +1,23 @@
 ---
-title: BackgroundColorResource.Color
-second_title: .NET API 참조용 Aspose.PSD
-description: BackgroundColorResource 재산. 배경색을 가져오거나 설정합니다.
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BackgroundColorResource 속성. 배경 색상을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
-배경색을 가져오거나 설정합니다.
+배경 색상을 가져오거나 설정합니다.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### 예
+## 예제
 
-다음 예제는 BackgroundColorResource 자원의 지원을 보여줍니다.
+다음 예제는 BackgroundColorResource 리소스의 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -44,11 +45,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

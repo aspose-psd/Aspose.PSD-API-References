@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.RemovePackage
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPacketWrapper 방법. XMP 패키지를 제거합니다.
+title: "XmpPacketWrapper.RemovePackage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPacketWrapper 메서드. XMP 패키지를 제거합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd.xmp/xmppacketwrapper/removepackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.RemovePackage method
 
 XMP 패키지를 제거합니다.
@@ -14,15 +15,15 @@ XMP 패키지를 제거합니다.
 public void RemovePackage(XmpPackage package)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| package | XmpPackage | 패키지. |
+| 패키지 | XmpPackage | 패키지입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

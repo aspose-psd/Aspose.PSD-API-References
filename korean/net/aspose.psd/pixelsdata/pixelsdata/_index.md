@@ -1,32 +1,33 @@
 ---
-title: PixelsData.PixelsData
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelsData 건설자. 의 새 인스턴스를 초기화합니다.PixelsData 클래스.
+title: "PixelsData.PixelsData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelsData 생성자. PixelsData 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/pixelsdata/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`PixelsData`](../) 클래스.
+`[`PixelsData`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public PixelsData()
 ```
 
-### 예
+## 예제
 
-다음 코드는 사용자 지정 렌더러가 있는 사용자 지정 스마트 필터를 만드는 방법을 보여줍니다.
+다음 코드는 사용자 지정 렌더러를 가진 커스텀 스마트 필터를 만드는 방법을 보여줍니다.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // 입력 배열에서 지원되지 않는 'Crystallize' 스마트 필터를 초기화합니다.
+    // 지원되지 않는 'Crystallize' 스마트 필터를 입력 배열에 초기화합니다.
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'Crystallize' 스마트 필터 ID입니다.
+        // 'Crystallize' 스마트 필터 ID.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -76,15 +77,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'Crystallize' 스마트 필터 ID입니다.
+        // 'Crystallize' 스마트 필터 ID.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // 필터 구조 얻기
+        // 필터 구조 가져오기
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Crystallize Size의 값을 얻습니다.
+        // Crystallize Size 값 가져오기
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -100,40 +101,40 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PixelsData](../)
-* 네임스페이스 [Aspose.PSD](../../pixelsdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PixelsData(int[], Rectangle) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`PixelsData`](../) 클래스.
+`[`PixelsData`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public PixelsData(int[] pixels, Rectangle bounds)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pixels | Int32[] | 픽셀 데이터입니다. |
-| bounds | Rectangle | 픽셀 경계 사각형입니다. |
+| 픽셀 | Int32[] | 픽셀 데이터. |
+| bounds | Rectangle | 픽셀 경계 사각형. |
 
-### 예
+## 예제
 
-다음 코드는 사용자 지정 렌더러가 있는 사용자 지정 스마트 필터를 만드는 방법을 보여줍니다.
+다음 코드는 사용자 지정 렌더러를 가진 커스텀 스마트 필터를 만드는 방법을 보여줍니다.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // 입력 배열에서 지원되지 않는 'Crystallize' 스마트 필터를 초기화합니다.
+    // 지원되지 않는 'Crystallize' 스마트 필터를 입력 배열에 초기화합니다.
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'Crystallize' 스마트 필터 ID입니다.
+        // 'Crystallize' 스마트 필터 ID.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -183,15 +184,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'Crystallize' 스마트 필터 ID입니다.
+        // 'Crystallize' 스마트 필터 ID.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // 필터 구조 얻기
+        // 필터 구조 가져오기
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Crystallize Size의 값을 얻습니다.
+        // Crystallize Size 값 가져오기
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -207,11 +208,11 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [PixelsData](../)
-* 네임스페이스 [Aspose.PSD](../../pixelsdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Font.FontFileName
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 재산. 전체 경로 없이 글꼴 파일 이름을 가져오거나 설정합니다.
+title: "Font.FontFileName"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 속성. 전체 경로 없이 글꼴 파일 이름을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.xmp.types.complex.font/font/fontfilename/
 ---
+{{< psd/tize >}}
 ## Font.FontFileName property
 
 전체 경로 없이 글꼴 파일 이름을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.types.complex.font/font/fontfilename/
 public string FontFileName { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-전체 경로가 없는 글꼴 파일 이름입니다.
+전체 경로 없이 글꼴 파일 이름입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

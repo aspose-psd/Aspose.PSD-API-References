@@ -1,14 +1,15 @@
 ---
-title: Class License
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.License 수업. 구성 요소에 라이선스를 부여하는 방법을 제공합니다.
+title: "Class License"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.License 클래스. 구성 요소에 라이선스를 적용하는 메서드를 제공합니다."
 type: docs
-weight: 5050
+weight: 5540
 url: /ko/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
-구성 요소에 라이선스를 부여하는 방법을 제공합니다.
+구성 요소에 라이선스를 부여하는 메서드를 제공합니다.
 
 ```csharp
 public class License
@@ -20,16 +21,16 @@ public class License
 | --- | --- |
 | [License](license/)() | 이 클래스의 새 인스턴스를 초기화합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | 구성 요소에 라이선스를 부여합니다. |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | 구성 요소에 라이선스를 부여합니다. |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | 구성 요소에 라이선스를 적용합니다. |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | 구성 요소에 라이선스를 적용합니다. |
 
-### 예
+## 예제
 
-이 예에서는 구성 요소가 포함된 폴더, 호출 어셈블리가 포함된 폴더, 항목 어셈블리의 폴더에서 라는 라이센스 파일을 찾은 다음 호출 어셈블리의 포함 리소스.
+이 예제에서는 구성 요소가 포함된 폴더, 호출 어셈블리가 포함된 폴더, 진입 어셈블리 폴더, 그리고 호출 어셈블리의 임베디드 리소스에서 MyLicense.lic이라는 라이선스 파일을 찾으려고 시도합니다.
 
 ```csharp
 [C#]
@@ -44,9 +45,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

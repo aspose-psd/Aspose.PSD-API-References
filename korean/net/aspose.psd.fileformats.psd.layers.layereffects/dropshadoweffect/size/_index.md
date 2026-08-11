@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Size
-second_title: .NET API 참조용 Aspose.PSD
-description: DropShadowEffect 재산. 블러 값을 픽셀 단위로 가져오거나 설정합니다.
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DropShadowEffect 속성. 픽셀 단위의 블러 값을 가져오거나 설정합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
 블러 값을 픽셀 단위로 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/siz
 public int Size { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-크기.
+크기입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [DropShadowEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

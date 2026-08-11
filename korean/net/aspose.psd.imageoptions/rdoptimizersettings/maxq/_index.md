@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.MaxQ
-second_title: .NET API 참조용 Aspose.PSD
-description: RdOptimizerSettings 재산. 최대 양자화 값을 가져오거나 설정합니다.
+title: "RdOptimizerSettings.MaxQ"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RdOptimizerSettings 속성. 최대 양자화 값을 가져오거나 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxQ property
 
 최대 양자화 값을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 public int MaxQ { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 최대 양자화 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [RdOptimizerSettings](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

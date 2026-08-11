@@ -1,32 +1,33 @@
 ---
-title: Size.Ceiling
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 지정된SizeF 에 구조Size 의 값을 반올림하여 구조Size 구조를 다음으로 높은 정수 값으로 바꿉니다.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 지정된 SizeF 구조체를 Size 구조체로 변환하며, Size 구조체의 값을 다음 높은 정수값으로 반올림합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-지정된[`SizeF`](../../sizef/) 에 구조[`Size`](../) 의 값을 반올림하여 구조[`Size`](../) 구조를 다음으로 높은 정수 값으로 바꿉니다.
+지정된 [`SizeF`](../../sizef/) 구조체를 [`Size`](../) 구조체로 변환하며, [`Size`](../) 구조체의 값을 다음 높은 정수값으로 반올림합니다.
 
 ```csharp
 public static Size Ceiling(SizeF size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size | SizeF | 그만큼[`SizeF`](../../sizef/) 변환하는 구조. |
+| size | SizeF | 변환할 [`SizeF`](../../sizef/) 구조체. |
 
 ### 반환 값
 
-그만큼[`Size`](../) 이 메서드가 변환하는 구조입니다.
+이 메서드가 변환하는 [`Size`](../) 구조체입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

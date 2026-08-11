@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ColorMode
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 재산. 색상 모드를 가져오거나 설정합니다.
+title: "PsdImage.ColorMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 속성. 색상 모드를 가져오거나 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/colormode/
 ---
+{{< psd/tize >}}
 ## PsdImage.ColorMode property
 
-색상 모드를 가져오거나 설정합니다.
+색 모드를 가져오거나 설정합니다.
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-색상 모드입니다.
+색상 모드.
 
-### 또한보십시오
+### 또 보기
 
 * enum [ColorModes](../../colormodes/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

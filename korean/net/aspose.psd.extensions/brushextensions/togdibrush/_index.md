@@ -1,32 +1,33 @@
 ---
-title: BrushExtensions.ToGdiBrush
-second_title: .NET API 참조용 Aspose.PSD
-description: BrushExtensions 방법. 변환Brush 로Brush .
+title: "BrushExtensions.ToGdiBrush"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BrushExtensions 메서드. Brush를 Brush로 변환합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
+{{< psd/tize >}}
 ## BrushExtensions.ToGdiBrush method
 
-변환[`Brush`](../../../aspose.psd/brush/) ~로Brush .
+`[`Brush`](../../../aspose.psd/brush/)`를 Brush로 변환합니다.
 
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| brush | Brush | 그만큼[`Brush`](../../../aspose.psd/brush/) 변환하다. |
+| brush | Brush | 변환할 `[`Brush`](../../../aspose.psd/brush/)`. |
 
 ### 반환 값
 
-개종자Brush.
+변환된 Brush.
 
-### 또한보십시오
+### 또 보기
 
 * class [Brush](../../../aspose.psd/brush/)
 * class [BrushExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../brushextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

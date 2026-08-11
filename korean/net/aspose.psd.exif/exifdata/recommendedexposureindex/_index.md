@@ -1,11 +1,12 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 권장 노출 지수를 가져오거나 설정합니다.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 권장 노출 지수를 가져오거나 설정합니다"
 type: docs
 weight: 870
 url: /ko/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
 권장 노출 지수를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-권장 노출 지수입니다.
+권장 노출 지수.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

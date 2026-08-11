@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.Name
-second_title: .NET API 참조용 Aspose.PSD
-description: AddNoiseSmartFilter 재산. 스마트 필터 이름을 가져옵니다.
+title: "AddNoiseSmartFilter.Name"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AddNoiseSmartFilter 속성. 스마트 필터 이름을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Name property
 
 스마트 필터 이름을 가져옵니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 public override string Name { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AddNoiseSmartFilter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BlendRange
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange 수업. 혼합 범위입니다.
+title: "클래스 BlendRange"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange 클래스. 블렌드 범위"
 type: docs
-weight: 1890
+weight: 2000
 url: /ko/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
-혼합 범위입니다.
+블렌드 범위.
 
 ```csharp
 public sealed class BlendRange
@@ -24,12 +25,12 @@ public sealed class BlendRange
 
 | 이름 | 설명 |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | 대상 혼합 범위를 가져오거나 설정합니다. |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | 소스 혼합 범위를 가져오거나 설정합니다. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | 대상 블렌드 범위를 가져오거나 설정합니다. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | 소스 블렌드 범위를 가져오거나 설정합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

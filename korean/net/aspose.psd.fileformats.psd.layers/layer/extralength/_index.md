@@ -1,11 +1,12 @@
 ---
-title: Layer.ExtraLength
-second_title: .NET API 참조용 Aspose.PSD
-description: Layer 재산. 레이어 추가 정보 길이를 바이트 단위로 가져옵니다.
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Layer 속성. 레이어 추가 정보 길이를 바이트 단위로 가져옵니다"
 type: docs
-weight: 110
+weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
 레이어 추가 정보 길이를 바이트 단위로 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 public int ExtraLength { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 추가 레이어 길이.
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

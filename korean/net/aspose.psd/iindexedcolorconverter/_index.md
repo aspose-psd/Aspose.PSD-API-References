@@ -1,28 +1,29 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.IIndexedColorConverter 상호 작용. 인덱스 이미지 형식을 위한 색상 변환기.
+title: "인터페이스 IIndexedColorConverter"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.IIndexedColorConverter 인터페이스. 인덱스 이미지 형식용 색상 변환기"
 type: docs
-weight: 4470
+weight: 4940
 url: /ko/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-인덱스 이미지 형식을 위한 색상 변환기.
+인덱스 이미지 형식을 위한 색상 변환기입니다.
 
 ```csharp
 public interface IIndexedColorConverter
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | 인덱스 이미지 변환 맵에 인덱스를 채웁니다. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | 인덱스에서 인덱스로 이미지 변환 맵을 채웁니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

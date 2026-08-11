@@ -1,32 +1,33 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackageBaseCollection 방법. 가져오기XmpPackage 그것의 namespaceURI. 에 의해
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackageBaseCollection 메서드. namespaceURI로 XmpPackage를 가져옵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-가져오기[`XmpPackage`](../../xmppackage/) 그것의 namespaceURI. 에 의해
+네임스페이스 URI로 [`XmpPackage`](../../xmppackage/)을 가져옵니다.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| namespaceUri | String | 패키지를 가져올 네임스페이스 URI입니다. |
+| namespaceUri | String | 패키지를 가져올 네임스페이스 URI. |
 
 ### 반환 값
 
-지정된 네임스페이스 Uri에 대한 XMP 패키지를 반환합니다.
+지정된 네임스페이스 URI에 대한 XMP 패키지를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

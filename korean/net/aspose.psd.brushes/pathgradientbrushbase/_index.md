@@ -1,14 +1,15 @@
 ---
-title: Class PathGradientBrushBase
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Brushes.PathGradientBrushBase 수업. 는Brush 기본 경로 그래디언트 기능 포함.
+title: "클래스 PathGradientBrushBase"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Brushes.PathGradientBrushBase 클래스. 기본 경로 그라디언트 기능을 갖는 브러시를 나타냅니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.psd.brushes/pathgradientbrushbase/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase class
 
-는[`Brush`](../../aspose.psd/brush/) 기본 경로 그래디언트 기능 포함.
+기본 경로 그라디언트 기능을 갖는 [`Brush`](../../aspose.psd/brush/)를 나타냅니다.
 
 ```csharp
 public abstract class PathGradientBrushBase : TransformBrush
@@ -18,40 +19,40 @@ public abstract class PathGradientBrushBase : TransformBrush
 
 | 이름 | 설명 |
 | --- | --- |
-| [CenterPoint](../../aspose.psd.brushes/pathgradientbrushbase/centerpoint/) { get; set; } | 경로 그라데이션의 중심점을 가져오거나 설정합니다. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 이 인스턴스가 삭제되었는지 여부를 나타내는 값을 가져옵니다. |
-| [FocusScales](../../aspose.psd.brushes/pathgradientbrushbase/focusscales/) { get; set; } | 그래디언트 폴오프의 초점 포인트를 가져오거나 설정합니다. |
-| [GraphicsPath](../../aspose.psd.brushes/pathgradientbrushbase/graphicspath/) { get; } | 이 브러시가 빌드된 그래픽 경로를 가져옵니다. |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | 어떤 식으로든 변환이 변경되었는지 여부를 나타내는 값을 가져옵니다. 예를 들어 변환 행렬을 설정하거나 변환 행렬을 변경하는 메서드를 호출합니다. 이 속성은 GDI+. 와의 하위 호환성을 위해 도입되었습니다. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | 브러시 불투명도를 가져오거나 설정합니다. 값은 0과 1 사이여야 합니다. 값이 0이면 브러시가 완전히 표시되고 값이 1이면 브러시가 완전히 불투명합니다. |
-| [PathPoints](../../aspose.psd.brushes/pathgradientbrushbase/pathpoints/) { get; } | 이 브러시가 빌드된 경로 지점을 가져옵니다. |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | 복사본을 가져오거나 설정합니다.[`Matrix`](../../aspose.psd/matrix/) 이에 대한 로컬 기하학적 변환을 정의합니다.[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | 가져오거나 설정합니다.[`WrapMode`](../../aspose.psd/wrapmode/) 이것에 대한 래핑 모드를 나타내는 열거[`TransformBrush`](../transformbrush/) . |
+| [CenterPoint](../../aspose.psd.brushes/pathgradientbrushbase/centerpoint/) { get; set; } | 경로 그라디언트의 중심점을 가져오거나 설정합니다. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 이 인스턴스가 해제되었는지 여부를 나타내는 값을 가져옵니다. |
+| [FocusScales](../../aspose.psd.brushes/pathgradientbrushbase/focusscales/) { get; set; } | 그라디언트 감소를 위한 포커스 포인트를 가져오거나 설정합니다. |
+| [GraphicsPath](../../aspose.psd.brushes/pathgradientbrushbase/graphicspath/) { get; } | 이 브러시가 기반으로 하는 그래픽 경로를 가져옵니다. |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | 변환이 어떤 방식으로든 변경되었는지를 나타내는 값을 가져옵니다. 예를 들어 변환 행렬을 설정하거나 변환 행렬을 변경하는 메서드를 호출하는 경우입니다. 이 속성은 GDI+와의 이전 호환성을 위해 도입되었습니다. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | 브러시 불투명도를 가져오거나 설정합니다. 값은 0과 1 사이여야 합니다. 0은 브러시가 완전히 투명함을 의미하고, 1은 브러시가 완전히 불투명함을 의미합니다. |
+| [PathPoints](../../aspose.psd.brushes/pathgradientbrushbase/pathpoints/) { get; } | 이 브러시가 기반으로 하는 경로 포인트를 가져옵니다. |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | 이 [`TransformBrush`](../transformbrush/)에 대한 로컬 기하 변환을 정의하는 복사본 [`Matrix`](../../aspose.psd/matrix/)을 가져오거나 설정합니다. |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | `[`WrapMode`](../../aspose.psd/wrapmode/)` 열거형을 가져오거나 설정합니다. 이 열거형은 이 [`TransformBrush`](../transformbrush/)의 랩 모드를 나타냅니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | 현재의 새로운 딥 클론을 생성합니다.[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 현재 인스턴스를 삭제합니다. |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | 곱하기[`Matrix`](../../aspose.psd/matrix/) 이것은 이것의 국지적 기하학적 변환을 나타냅니다.[`LinearGradientBrush`](../lineargradientbrush/) 지정된[`Matrix`](../../aspose.psd/matrix/) 지정된[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | 곱하기[`Matrix`](../../aspose.psd/matrix/) 이것은 이것의 국지적 기하학적 변환을 나타냅니다.[`LinearGradientBrush`](../lineargradientbrush/) 지정된[`Matrix`](../../aspose.psd/matrix/) 지정된 order. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | 재설정[`Transform`](../transformbrush/transform/) 신원에 재산. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | 로컬 기하 변환을 지정된 양만큼 회전합니다. 이 방법은 변환 앞에 회전을 추가합니다. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | 지정된 순서로 지정된 양만큼 로컬 기하 변환을 회전합니다. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | 지정된 양만큼 로컬 기하 변환의 크기를 조정합니다. 이 방법은 스케일링 행렬을 transform. 앞에 추가합니다. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | 지정된 순서로 지정된 양만큼 로컬 기하 변환을 확장합니다. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | 지정된 치수로 로컬 기하 변환을 변환합니다. 이 방법은 변환을 transform. 앞에 추가합니다. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | 지정된 순서로 지정된 치수로 로컬 기하 변환을 변환합니다. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | 현재 [`Brush`](../../aspose.psd/brush/)의 새로운 깊은 복제본을 생성합니다. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 현재 인스턴스를 해제합니다. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | 이 [`LinearGradientBrush`](../lineargradientbrush/)의 로컬 기하 변환을 나타내는 [`Matrix`](../../aspose.psd/matrix/)에 지정된 [`Matrix`](../../aspose.psd/matrix/)을 앞에 추가하여 곱합니다. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | 이 [`LinearGradientBrush`](../lineargradientbrush/)의 로컬 기하 변환을 나타내는 [`Matrix`](../../aspose.psd/matrix/)에 지정된 순서대로 지정된 [`Matrix`](../../aspose.psd/matrix/)를 곱합니다. |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | `[`Transform`](../transformbrush/transform/)` 속성을 항등 행렬로 재설정합니다. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | 지정된 양만큼 로컬 기하 변환을 회전합니다. 이 메서드는 회전을 변환 앞에 추가합니다. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | 지정된 순서대로 지정된 양만큼 로컬 기하 변환을 회전합니다. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | 지정된 양만큼 로컬 기하 변환을 스케일링합니다. 이 메서드는 스케일링 행렬을 변환 앞에 추가합니다. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | 지정된 순서대로 지정된 양만큼 로컬 기하 변환을 스케일링합니다. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | 지정된 차원만큼 로컬 기하 변환을 평행 이동합니다. 이 메서드는 평행 이동을 변환 앞에 추가합니다. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | 지정된 순서대로 지정된 차원만큼 로컬 기하 변환을 평행 이동합니다. |
 
-### 비고
+## 비고
 
-생성할 때`PathGradientBrushBase` 클래스는 최소 2포인트로 초기화되어야 합니다. 내부 경로 created 는 항상 닫힌 그림이 될 것이며 마지막 점이 첫 번째 점을 연결합니다. 그 모양은 이것으로 채워져`PathGradientBrushBase`. GDI+ 구현은OutOfMemoryException 동일한 좌표를 갖는 빈 배열 또는 포인트 세트를 전달할 때. The`PathGradientBrushBase` 포인트 배열에 2개 미만의 포인트가 포함된 경우 예외가 발생합니다.ArgumentException is 가 아닌OutOfMemoryException 점 배열이 허용되지 않는 경우. 중심점은 기본적으로 전달된 점의 질량 중심으로 계산됩니다. 사용자는 나중에 이 포인트를 변경할 수 있습니다. 포커스 스케일은 기본적으로 빈 포인트(0.0, 0.0)입니다.
+`PathGradientBrushBase` 클래스를 만들 때 최소 2개의 점으로 초기화해야 합니다. 생성된 내부 경로는 항상 닫힌 도형이며, 마지막 점이 첫 번째 점과 연결됩니다. 해당 도형은 이 `PathGradientBrushBase` 로 채워집니다. GDI+ 구현은 빈 배열이나 동일한 좌표를 가진 점 집합을 전달하면 OutOfMemoryException을 발생시킵니다. 점 배열에 2개 미만의 점이 포함된 경우 `PathGradientBrushBase`는 예외를 발생시키며, 이 경우 ArgumentException이 OutOfMemoryException 대신 발생합니다. 중심점은 기본적으로 전달된 점들의 질량 중심으로 계산됩니다. 사용자는 이후에 이 점을 변경할 수 있습니다. 포커스 스케일은 기본적으로 빈 점 (0.0, 0.0)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TransformBrush](../transformbrush/)
-* 네임스페이스 [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

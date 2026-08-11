@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: .NET API 참조용 Aspose.PSD
-description: Matrix 필드. 이 상수는 모든 회전 플래그 비트에 대한 비트 마스크입니다.
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Matrix 필드. 이 상수는 회전 플래그 비트 중 하나에 대한 비트 마스크입니다."
 type: docs
 weight: 250
 url: /ko/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-이 상수는 모든 회전 플래그 비트에 대한 비트 마스크입니다.
+이 상수는 회전 플래그 비트 중 어느 것이든 적용할 수 있는 비트 마스크입니다.
 
 ```csharp
 public const int TypeMaskRotation;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

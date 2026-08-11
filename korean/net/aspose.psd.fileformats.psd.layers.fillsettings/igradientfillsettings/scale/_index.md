@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: .NET API 참조용 Aspose.PSD
-description: IGradientFillSettings 재산. 배율을 가져오거나 설정합니다.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IGradientFillSettings 속성. 정규화된 그라디언트 스케일을 백분율로 가져오거나 설정합니다."
 type: docs
-weight: 100
+weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-배율을 가져오거나 설정합니다.
+**정규화된** 그라디언트 스케일(퍼센트)을 가져오거나 설정합니다.
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-저울.
+스케일입니다.
 
-### 예
+## 예제
 
-다음 예제에서는 Scale 속성을 사용하여 Gradient로 FillLayer의 크기를 조정하는 방법을 보여줍니다.
+다음 예제는 Scale 속성을 사용하여 그라디언트가 적용된 FillLayer를 스케일링하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // 채우기 레이어 가져오기
+    // FillLayer 가져오기
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -45,16 +46,16 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     // 스케일 값 업데이트
     settings.Scale = 200;
-    fillLayer.Update(); // 픽셀 데이터 업데이트
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [IGradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

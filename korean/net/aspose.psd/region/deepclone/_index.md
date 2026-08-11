@@ -1,14 +1,15 @@
 ---
-title: Region.DeepClone
-second_title: .NET API 참조용 Aspose.PSD
-description: Region 방법. 이것의 정확한 딥 카피를 생성합니다.Region .
+title: "Region.DeepClone"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Region 메서드. 이 Region의 정확한 깊은 복사본을 생성합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/region/deepclone/
 ---
+{{< psd/tize >}}
 ## Region.DeepClone method
 
-이것의 정확한 딥 카피를 생성합니다.[`Region`](../) .
+이 [`Region`](../)의 정확한 깊은 복사본을 생성합니다.
 
 ```csharp
 public Region DeepClone()
@@ -16,12 +17,12 @@ public Region DeepClone()
 
 ### 반환 값
 
-그만큼[`Region`](../) 이 메서드가 만드는 것입니다.
+이 메서드가 생성하는 [`Region`](../)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

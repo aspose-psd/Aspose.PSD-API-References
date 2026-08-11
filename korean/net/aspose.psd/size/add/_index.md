@@ -1,32 +1,33 @@
 ---
-title: Size.Add
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 너비와 높이를 하나 더합니다.Size 구조를 다른 너비와 높이로Size구조.
+title: "Size.Add"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 하나의 Size 구조체의 너비와 높이를 다른 Size 구조체의 너비와 높이에 더합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/size/add/
 ---
+{{< psd/tize >}}
 ## Size.Add method
 
-너비와 높이를 하나 더합니다.[`Size`](../) 구조를 다른 너비와 높이로[`Size`](../)구조.
+하나의 [`Size`](../) 구조체의 너비와 높이를 다른 [`Size`](../) 구조체의 너비와 높이에 더합니다.
 
 ```csharp
 public static Size Add(Size size1, Size size2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size1 | Size | 첫번째[`Size`](../) 추가합니다. |
-| size2 | Size | 두번째[`Size`](../) 추가합니다. |
+| size1 | Size | 첫 번째 추가할 [`Size`](../). |
+| size2 | Size | 두 번째 추가할 [`Size`](../). |
 
 ### 반환 값
 
-ㅏ[`Size`](../) 더하기 연산의 결과인 구조입니다.
+덧셈 연산의 결과인 [`Size`](../) 구조체.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

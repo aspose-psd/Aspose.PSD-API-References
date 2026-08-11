@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.YCbCr
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelDataFormat 재산. 가져오기PixelDataFormat 루마 블루차이 및 레드차이 채도 구성 요소 각각에 대해 8비트로 픽셀당 24비트로 정의됩니다.
+title: "PixelDataFormat.YCbCr"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelDataFormat 속성. 픽셀당 24비트이며 휘도, 청차, 적차 각 8비트를 가진 크로마 구성 요소에 대한 PixelDataFormat을 가져옵니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.psd/pixeldataformat/ycbcr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.YCbCr property
 
-가져오기[`PixelDataFormat`](../) 루마, 블루-차이 및 레드-차이 채도 구성 요소 각각에 대해 8비트로 픽셀당 24비트로 정의됩니다.
+픽셀당 24비트이며 휘도, 청차, 적차 각 8비트를 가진 크로마 구성 요소에 대한 [`PixelDataFormat`](../)을 가져옵니다.
 
 ```csharp
 public static PixelDataFormat YCbCr { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-[`PixelDataFormat`](../) 루마, 블루-차이 및 레드-차이 채도 구성 요소 각각에 대해 8비트로 픽셀당 24비트로 정의됩니다.
+이 [`PixelDataFormat`](../)은 픽셀당 24비트이며 휘도, 청차, 적차 각 8비트를 가진 크로마 구성 요소로 정의됩니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PixelDataFormat](../)
-* 네임스페이스 [Aspose.PSD](../../pixeldataformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

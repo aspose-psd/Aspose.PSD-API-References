@@ -1,32 +1,33 @@
 ---
-title: ColorMapExtensions.ToGdiColorMap
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorMapExtensions 방법. 변환ColorMap 로ColorMap .
+title: "ColorMapExtensions.ToGdiColorMap"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorMapExtensions 메서드. ColorMap을 ColorMap으로 변환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMap method
 
-변환[`ColorMap`](../../../aspose.psd/colormap/) ~로ColorMap .
+[`ColorMap`](../../../aspose.psd/colormap/)을 ColorMap으로 변환합니다.
 
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| colorMap | ColorMap | 변환할 색상 맵입니다. |
+| colorMap | ColorMap | 변환할 색상 맵. |
 
 ### 반환 값
 
-변환된ColorMap .
+변환된 ColorMap.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../colormapextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

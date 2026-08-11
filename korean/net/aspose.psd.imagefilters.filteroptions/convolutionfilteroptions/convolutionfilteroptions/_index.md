@@ -1,23 +1,24 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: ConvolutionFilterOptions 건설자. 의 새 인스턴스를 초기화합니다.ConvolutionFilterOptions 클래스.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ConvolutionFilterOptions 생성자. ConvolutionFilterOptions 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-의 새 인스턴스를 초기화합니다.[`ConvolutionFilterOptions`](../) 클래스.
+[`ConvolutionFilterOptions`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ConvolutionFilterOptions()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ConvolutionFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

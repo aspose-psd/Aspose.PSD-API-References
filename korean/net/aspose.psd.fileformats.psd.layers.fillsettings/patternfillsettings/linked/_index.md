@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: .NET API 참조용 Aspose.PSD
-description: PatternFillSettings 재산. 이 여부를 나타내는 값을 가져오거나 설정합니다.PatternFillSettings연결되어 있습니다.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PatternFillSettings 속성. 이 PatternFillSettings가 연결되어 있는지 여부를 나타내는 값을 가져오거나 설정합니다."
 type: docs
-weight: 50
+weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-이 여부를 나타내는 값을 가져오거나 설정합니다.[`PatternFillSettings`](../)연결되어 있습니다.
+이 [`PatternFillSettings`](../)가 연결되어 있는지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 연결된 경우; 그렇지 않으면,`거짓` .
+`true`이면 연결됨; 그렇지 않으면 `false`.
 
-### 예
+## 예제
 
-다음 코드는 채우기 레이어 패턴 편집 지원을 보여줍니다.
+다음 코드는 Fill Layer 패턴 편집 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PatternFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

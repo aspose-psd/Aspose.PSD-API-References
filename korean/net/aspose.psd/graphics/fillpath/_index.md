@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillPath
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 내부를 채웁니다.GraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. GraphicsPath의 내부를 채웁니다."
 type: docs
-weight: 360
+weight: 370
 url: /ko/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-내부를 채웁니다.[`GraphicsPath`](../../graphicspath/) .
+[`GraphicsPath`](../../graphicspath/)의 내부를 채웁니다.
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)채우기의 특성을 결정합니다. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) 채울 경로를 나타냅니다. |
+| brush | Brush | `[`Brush`](../../brush/)`는 채우기의 특성을 결정합니다. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/)은(는) 채울 경로를 나타냅니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *brush* null입니다. -또는- *path* null입니다. |
+| ArgumentNullException | *brush*가 null입니다. -or- *path*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

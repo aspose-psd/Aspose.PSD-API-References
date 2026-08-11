@@ -1,11 +1,12 @@
 ---
-title: AdjustmentLayerResource.Save
-second_title: .NET API 참조용 Aspose.PSD
-description: AdjustmentLayerResource 방법. 리소스를 지정된 스트림 컨테이너에 저장합니다.
+title: "AdjustmentLayerResource.Save"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AdjustmentLayerResource 메서드. 지정된 스트림 컨테이너에 리소스를 저장합니다."
 type: docs
-weight: 20
+weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Save method
 
 리소스를 지정된 스트림 컨테이너에 저장합니다.
@@ -14,16 +15,16 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerres
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 저장할 스트림 컨테이너입니다. |
 | psdVersion | Int32 | PSD 버전입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [AdjustmentLayerResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

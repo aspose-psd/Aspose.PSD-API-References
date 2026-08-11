@@ -1,14 +1,15 @@
 ---
-title: PostResource.Levels
-second_title: .NET API 참조용 Aspose.PSD
-description: PostResource 재산. 포스터라이즈 레이어 레벨.
+title: "PostResource.Levels"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PostResource 속성. 포스터라이즈 레이어의 레벨"
 type: docs
-weight: 40
+weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/
 ---
+{{< psd/tize >}}
 ## PostResource.Levels property
 
-포스터라이즈 레이어 레벨.
+Posterize 레이어의 레벨.
 
 ```csharp
 public short Levels { get; set; }
@@ -16,12 +17,39 @@ public short Levels { get; set; }
 
 ### 반환 값
 
-레벨 int 값
+Levels 정수 값
 
-### 또한보십시오
+## 예제
+
+다음 코드는 PostResource 조작 기능을 보여줍니다.
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
+
+### 또 보기
 
 * class [PostResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: GradientTransparencyPoint.GradientTransparencyPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientTransparencyPoint 건설자. 의 새 인스턴스를 초기화합니다.GradientTransparencyPoint 클래스.
+title: "GradientTransparencyPoint.GradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientTransparencyPoint 생성자. GradientTransparencyPoint 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint constructor
 
-의 새 인스턴스를 초기화합니다.[`GradientTransparencyPoint`](../) 클래스.
+`[`GradientTransparencyPoint`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GradientTransparencyPoint()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientTransparencyPoint](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

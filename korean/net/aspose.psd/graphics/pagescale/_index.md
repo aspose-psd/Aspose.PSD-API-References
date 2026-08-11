@@ -1,27 +1,28 @@
 ---
-title: Graphics.PageScale
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 재산. 이 Aspose.PSD.Graphics. 에 대한 세계 단위와 페이지 단위 간의 배율을 가져오거나 설정합니다.
+title: "Graphics.PageScale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 속성. 이 Aspose.PSD.Graphics에 대한 세계 단위와 페이지 단위 사이의 스케일을 가져오거나 설정합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/graphics/pagescale/
 ---
+{{< psd/tize >}}
 ## Graphics.PageScale property
 
-이 Aspose.PSD.Graphics. 에 대한 세계 단위와 페이지 단위 간의 배율을 가져오거나 설정합니다.
+이 Aspose.PSD.Graphics에 대한 세계 단위와 페이지 단위 사이의 스케일링을 가져오거나 설정합니다.
 
 ```csharp
 public float PageScale { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 Aspose.PSD.Graphics. 에 대한 세계 단위와 페이지 단위 사이의 스케일링
+이 Aspose.PSD.Graphics에 대한 세계 단위와 페이지 단위 사이의 스케일.
 
-### 또한보십시오
+### 또 보기
 
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

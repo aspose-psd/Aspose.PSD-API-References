@@ -1,14 +1,15 @@
 ---
-title: Class XmpPackageBaseCollection
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Xmp.XmpPackageBaseCollection 수업. 컬렉션을 나타냅니다.XmpPackage .
+title: "클래스 XmpPackageBaseCollection"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Xmp.XmpPackageBaseCollection 클래스. XmpPackage 컬렉션을 나타냅니다"
 type: docs
-weight: 6280
+weight: 6780
 url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection class
 
-컬렉션을 나타냅니다.[`XmpPackage`](../xmppackage/) .
+[`XmpPackage`](../xmppackage/) 컬렉션을 나타냅니다.
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -26,21 +27,21 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 | --- | --- |
 | [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | 컬렉션의 요소 수를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | 의 새 인스턴스를 추가합니다.[`XmpPackage`](../xmppackage/) . |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | 모두 지우기[`XmpPackage`](../xmppackage/) 내부 컬렉션. |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | [`XmpPackage`](../xmppackage/)의 새 인스턴스를 추가합니다. |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | 컬렉션 내의 모든 [`XmpPackage`](../xmppackage/)을(를) 삭제합니다. |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | 컬렉션을 반복하는 열거자를 반환합니다. |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | 가져오기[`XmpPackage`](../xmppackage/) 그것의 namespaceURI. 에 의해 |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | 배열 가져오기[`XmpPackage`](../xmppackage/) . |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | [`XmpPackage`](../xmppackage/)를 namespaceURI로 가져옵니다. |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | [`XmpPackage`](../xmppackage/) 배열을 가져옵니다. |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | 지정된 XMP 패키지를 제거합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../xmppackage/)
-* 네임스페이스 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

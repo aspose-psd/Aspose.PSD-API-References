@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterCachedImage 방법. 이미지의 밝기를 조정합니다.
+title: "RasterCachedImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterCachedImage 메서드. 이미지 밝기 조정"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/rastercachedimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustBrightness method
 
-이미지의 밝기를 조정합니다.
+이미지 밝기를 조정합니다.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| brightness | Int32 | 밝기 값. |
+| 밝기 | Int32 | 밝기 값. |
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

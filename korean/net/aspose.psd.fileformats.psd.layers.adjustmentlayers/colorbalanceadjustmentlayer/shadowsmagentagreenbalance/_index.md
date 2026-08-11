@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorBalanceAdjustmentLayer 재산. Shadows Magenta Green Balance. 를 가져오거나 설정합니다.
+title: "ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorBalanceAdjustmentLayer 속성. Shadows Magenta Green Balance를 가져오거나 설정합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
-Shadows Magenta Green Balance. 를 가져오거나 설정합니다.
+Shadows Magenta Green Balance를 가져오거나 설정합니다.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-섀도우 마젠타 그린 밸런스.
+Shadows Magenta Green Balance.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | ArgumentOutOfRangeException | Shadows Magenta Green Balance는 -100에서 +100 사이여야 합니다. |
 
-### 예
+## 예제
 
 다음 코드는 ColorBalanceAdjustmentLayer에 대한 지원을 보여줍니다.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: .NET API 참조용 Aspose.PSD
-description: IPatternFillSettings 재산. 패턴 데이터를 가져오거나 설정합니다.
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IPatternFillSettings 속성. 패턴 데이터를 가져옵니다"
 type: docs
-weight: 30
+weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-패턴 데이터를 가져오거나 설정합니다.
+패턴 데이터를 가져옵니다.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 패턴 데이터.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IPatternFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.Length
-second_title: .NET API 참조용 Aspose.PSD
-description: BlwhResource 재산. 레이어 리소스 길이를 바이트 단위로 가져옵니다.
+title: "BlwhResource.Length"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlwhResource property. 레이어 리소스 길이를 바이트 단위로 가져옵니다"
 type: docs
-weight: 80
+weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
 레이어 리소스 길이를 바이트 단위로 가져옵니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/lengt
 public override int Length { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BlwhResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

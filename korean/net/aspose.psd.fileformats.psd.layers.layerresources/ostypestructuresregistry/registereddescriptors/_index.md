@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: .NET API 참조용 Aspose.PSD
-description: OSTypeStructuresRegistry 재산. 등록된 설명자를 가져옵니다.
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "OSTypeStructuresRegistry 속성. 등록된 디스크립터를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
-등록된 설명자를 가져옵니다.
+등록된 디스크립터를 가져옵니다.
 
 ```csharp
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-등록된 설명자입니다.
+등록된 설명자.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

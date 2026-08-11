@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpBasicPackage 필드. 정격 최대값.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpBasicPackage 필드. 최대 평점 값"
 type: docs
-weight: 100
+weight: 130
 url: /ko/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-정격 최대값.
+평점 최대값.
 
 ```csharp
 public const int RatingMax;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

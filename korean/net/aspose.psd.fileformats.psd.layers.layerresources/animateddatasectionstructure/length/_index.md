@@ -1,23 +1,24 @@
 ---
-title: AnimatedDataSectionStructure.Length
-second_title: .NET API 참조용 Aspose.PSD
-description: AnimatedDataSectionStructure 재산. 가져오기OSTypeStructure 바이트 길이.
+title: "AnimatedDataSectionStructure.Length"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AnimatedDataSectionStructure 속성. OSTypeStructure 길이를 바이트 단위로 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Length property
 
-가져오기[`OSTypeStructure`](../../ostypestructure/) 바이트 길이.
+Gets the [`OSTypeStructure`](../../ostypestructure/) 길이를 바이트 단위로 가져옵니다.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AnimatedDataSectionStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

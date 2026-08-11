@@ -1,31 +1,32 @@
 ---
-title: TiffSRational.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffSRational 방법. 지정된Object 이 인스턴스와 같습니다.
+title: "TiffSRational.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffSRational 메서드. 지정된 Object가 이 인스턴스와 같은지 여부를 결정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.tiff/tiffsrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Equals method
 
-지정된Object 이 인스턴스와 같습니다.
+지정된 Object가 이 인스턴스와 같은지 여부를 판단합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 그만큼Object 이 인스턴스와 비교합니다. |
+| obj | Object | 이 인스턴스와 비교할 Object. |
 
 ### 반환 값
 
-`진실` 지정된 경우Object 이 인스턴스와 같습니다. 그렇지 않으면,`거짓` .
+`true`이면 지정된 Object가 이 인스턴스와 같고, 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffSRational](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

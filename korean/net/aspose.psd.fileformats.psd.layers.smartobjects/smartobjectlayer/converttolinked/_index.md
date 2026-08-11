@@ -1,27 +1,28 @@
 ---
-title: SmartObjectLayer.ConvertToLinked
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectLayer 방법. 이 포함된 스마트 개체를 연결된 스마트 개체로 변환합니다.
+title: "SmartObjectLayer.ConvertToLinked"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectLayer 메서드. 이 임베드된 스마트 객체를 링크된 스마트 객체로 변환합니다."
 type: docs
-weight: 70
+weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ConvertToLinked method
 
-이 포함된 스마트 개체를 연결된 스마트 개체로 변환합니다.
+이 포함된 스마트 객체를 연결된 스마트 객체로 변환합니다.
 
 ```csharp
 public void ConvertToLinked(string linkedPath)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| linkedPath | String | 연결된 경로입니다. |
+| linkedPath | String | 연결된 경로. |
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartObjectLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

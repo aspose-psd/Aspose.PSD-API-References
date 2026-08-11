@@ -1,11 +1,12 @@
 ---
-title: IOrderedShape.EndPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: IOrderedShape 재산. 끝 모양 점을 가져옵니다.
+title: "IOrderedShape.EndPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IOrderedShape 속성. 도형의 끝점을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/iorderedshape/endpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.EndPoint property
 
 끝 모양 점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/iorderedshape/endpoint/
 public PointF EndPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-끝 모양 점입니다.
+끝 도형 포인트.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* 네임스페이스 [Aspose.PSD](../../iorderedshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Metered.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: Metered 방법. 지정된Object  이 인스턴스와 같습니다.
+title: "Metered.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Metered 메서드. 지정된 객체가 이 인스턴스와 같은지 여부를 결정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/metered/equals/
 ---
+{{< psd/tize >}}
 ## Metered.Equals method
 
-지정된Object , 이 인스턴스와 같습니다.
+지정된 객체가 이 인스턴스와 같은지 여부를 결정합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 그만큼Object 이 인스턴스와 비교합니다. |
+| obj | Object | 이 인스턴스와 비교할 Object. |
 
 ### 반환 값
 
-`진실` 지정된 경우Object 이 인스턴스와 같습니다. 그렇지 않으면,`거짓` .
+`true`이면 지정된 Object가 이 인스턴스와 같고, 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [Metered](../)
-* 네임스페이스 [Aspose.PSD](../../metered/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

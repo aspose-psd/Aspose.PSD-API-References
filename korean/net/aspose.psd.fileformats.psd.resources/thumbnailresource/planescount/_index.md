@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: .NET API 참조용 Aspose.PSD
-description: ThumbnailResource 재산. 평면 수를 가져오거나 설정합니다.
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ThumbnailResource 속성. 평면 수를 가져오거나 설정합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-평면 수를 가져오거나 설정합니다.
+플레인 수를 가져오거나 설정합니다.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-썸네일 평면이 중요합니다.
+썸네일 평면 수.
 
-### 또한보십시오
+### 또 보기
 
 * class [ThumbnailResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

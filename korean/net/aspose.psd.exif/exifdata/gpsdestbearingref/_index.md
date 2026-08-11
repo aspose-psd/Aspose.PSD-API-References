@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 목적지 지점까지 방위를 제공하는 데 사용되는 GPS 참조를 가져오거나 설정합니다.
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 목적지 지점에 대한 방위를 제공하는 데 사용되는 GPS 기준을 가져오거나 설정합니다"
 type: docs
 weight: 410
 url: /ko/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-목적지 지점까지 방위를 제공하는 데 사용되는 GPS 참조를 가져오거나 설정합니다.
+목적지에 대한 방위를 제공하는 데 사용되는 GPS 기준을 가져오거나 설정합니다.
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-목적지 지점까지 방위를 제공하는 데 사용되는 GPS 참조입니다.
+목적지 지점에 대한 방위를 제공하는 데 사용되는 GPS 기준입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

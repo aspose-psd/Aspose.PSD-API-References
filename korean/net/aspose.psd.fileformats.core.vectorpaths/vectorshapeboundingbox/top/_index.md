@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorShapeBoundingBox 재산. 상단을 가져오거나 설정합니다.
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorShapeBoundingBox 속성. 상단을 가져오거나 설정합니다"
 type: docs
-weight: 70
+weight: 80
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
-상단을 가져오거나 설정합니다.
+위쪽을 가져오거나 설정합니다.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 상단.
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorShapeBoundingBox](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpBasicPackage 필드. 등급 거부 값.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpBasicPackage 필드. 거부된 등급 값"
 type: docs
-weight: 120
+weight: 150
 url: /ko/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-등급 거부 값.
+평점 거부값.
 
 ```csharp
 public const int RatingRejected;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

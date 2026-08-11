@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: .NET API 참조용 Aspose.PSD
-description: MultiPageOptions 재산. 페이지 제목을 가져오거나 설정합니다.
+title: "MultiPageOptions.PageTitles"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "MultiPageOptions 속성. 페이지 제목을 가져오거나 설정합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
 페이지 제목을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 public string[] PageTitles { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-페이지 제목입니다.
+페이지 제목.
 
-### 또한보십시오
+### 또 보기
 
 * class [MultiPageOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

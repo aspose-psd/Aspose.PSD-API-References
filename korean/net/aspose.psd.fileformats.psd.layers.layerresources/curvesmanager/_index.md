@@ -1,14 +1,15 @@
 ---
-title: Class CurvesManager
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager 수업. CurvResource 를 관리하기 위한 기본 클래스
+title: "클래스 CurvesManager"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager 클래스. CurvResource를 관리하기 위한 기본 클래스"
 type: docs
-weight: 2430
+weight: 2690
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
-CurvResource 를 관리하기 위한 기본 클래스
+CurvResource를 관리하기 위한 기본 클래스
 
 ```csharp
 public abstract class CurvesManager
@@ -18,7 +19,7 @@ public abstract class CurvesManager
 
 | 이름 | 설명 |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | 의 새 인스턴스를 초기화합니다.`CurvesManager` 클래스. |
+| [CurvesManager](curvesmanager/)(int) | `CurvesManager` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -26,9 +27,9 @@ public abstract class CurvesManager
 | --- | --- |
 | [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | 최대 채널 수를 가져옵니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

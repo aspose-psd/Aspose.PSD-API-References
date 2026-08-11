@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpMediaManagementPackage 방법. 문서 식별자를 설정합니다.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpMediaManagementPackage 메서드. 문서 식별자를 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 문서 식별자를 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumenti
 public void SetDocumentId(Guid guid)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | guid | Guid | 고유 식별자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpMediaManagementPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetDocumentId(Guid guid)
 public void SetDocumentId(string guid)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | guid | String | 고유 식별자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpMediaManagementPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

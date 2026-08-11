@@ -1,36 +1,37 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 크기 조정 없이 지정된 이미지를 그리고 필요한 경우 지정된 사각형에 맞게 자릅니다.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. 지정된 이미지를 스케일링하지 않고 그리며, 필요에 따라 지정된 사각형에 맞추기 위해 클립합니다."
 type: docs
-weight: 240
+weight: 250
 url: /ko/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-크기 조정 없이 지정된 이미지를 그리고 필요한 경우 지정된 사각형에 맞게 자릅니다.
+지정된 이미지를 확대/축소 없이 그리며, 필요에 따라 지정된 사각형에 맞게 클리핑합니다.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| sourceImage | Image | 그릴 이미지입니다. |
-| rect | Rectangle | 그만큼[`Rectangle`](../../rectangle/) 이미지를 그릴 곳. |
+| sourceImage | Image | 그릴 이미지. |
+| rect | Rectangle | 이미지를 그릴 [`Rectangle`](../../rectangle/)입니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *sourceImage* null입니다. |
+| ArgumentNullException | *sourceImage*이 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

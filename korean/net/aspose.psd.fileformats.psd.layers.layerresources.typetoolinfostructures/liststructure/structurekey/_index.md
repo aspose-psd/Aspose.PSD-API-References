@@ -1,11 +1,12 @@
 ---
-title: ListStructure.StructureKey
-second_title: .NET API 참조용 Aspose.PSD
-description: ListStructure 필드. 구조 키를 식별합니다.
+title: "ListStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ListStructure 필드. 구조 키를 식별합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ListStructure.StructureKey field
 
 구조 키를 식별합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ListStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

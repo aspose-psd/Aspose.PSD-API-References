@@ -1,14 +1,15 @@
 ---
-title: SizeF.IsEmpty
-second_title: .NET API 참조용 Aspose.PSD
-description: SizeF 재산. 이 여부를 나타내는 값을 가져옵니다.SizeF 너비와 높이가 0입니다.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SizeF 속성. 이 SizeF가 너비와 높이가 0인지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-이 여부를 나타내는 값을 가져옵니다.[`SizeF`](../) 너비와 높이가 0입니다.
+이 [`SizeF`](../)가 너비와 높이가 0인지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### 반환 값
 
-이 속성은 다음과 같은 경우 true를 반환합니다.[`SizeF`](../) 너비와 높이가 모두 0입니다. 그렇지 않으면 거짓입니다.
+이 속성은 이 [`SizeF`](../)의 너비와 높이가 모두 0일 때 true를 반환하고, 그렇지 않으면 false를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

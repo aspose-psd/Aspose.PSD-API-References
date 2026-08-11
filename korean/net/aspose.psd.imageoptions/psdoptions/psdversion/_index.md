@@ -1,11 +1,12 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdOptions 재산. 파일 형식 버전을 가져오거나 설정합니다. PSD 또는 PSB일 수 있습니다.
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdOptions 속성. 파일 형식 버전을 가져오거나 설정합니다. PSD 또는 PSB일 수 있습니다."
 type: docs
-weight: 60
+weight: 70
 url: /ko/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
 파일 형식 버전을 가져오거나 설정합니다. PSD 또는 PSB일 수 있습니다.
@@ -14,13 +15,13 @@ url: /ko/net/aspose.psd.imageoptions/psdoptions/psdversion/
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-파일 형식 버전입니다.
+파일 형식 버전.
 
-### 예
+## 예제
 
-다음 예는 PSD 파일을 PSB로 또는 그 반대로 변환하는 기능을 보여줍니다.
+다음 예제는 PSD 파일을 PSB로, 그리고 그 반대로 변환하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

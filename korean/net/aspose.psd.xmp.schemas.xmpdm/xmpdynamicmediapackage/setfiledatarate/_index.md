@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetFileDataRate
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpDynamicMediaPackage 방법. 파일 데이터 속도를 설정합니다.
+title: "XmpDynamicMediaPackage.SetFileDataRate"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpDynamicMediaPackage 메서드. 파일 데이터 전송률을 설정합니다"
 type: docs
 weight: 210
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setfiledatarate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetFileDataRate method
 
-파일 데이터 속도를 설정합니다.
+파일 데이터 전송률을 설정합니다.
 
 ```csharp
 public void SetFileDataRate(Rational rate)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rate | Rational | 파일 데이터 속도(초당 메가바이트)입니다. |
+| 레이트 | 합리적 | 파일 데이터 전송률은 초당 메가바이트 단위입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [XmpDynamicMediaPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

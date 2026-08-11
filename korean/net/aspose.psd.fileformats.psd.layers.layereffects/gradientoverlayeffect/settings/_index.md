@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.Settings
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientOverlayEffect 재산. 설정을 가져오거나 설정합니다.
+title: "GradientOverlayEffect.Settings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientOverlayEffect property. 설정을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Settings property
 
 설정을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffec
 public GradientFillSettings Settings { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 설정.
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/)
 * class [GradientOverlayEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

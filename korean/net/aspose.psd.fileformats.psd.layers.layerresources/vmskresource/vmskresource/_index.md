@@ -1,48 +1,49 @@
 ---
-title: VmskResource.VmskResource
-second_title: .NET API 참조용 Aspose.PSD
-description: VmskResource 건설자. 의 새 인스턴스를 초기화합니다.VmskResource 클래스.
+title: "VmskResource.VmskResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VmskResource 생성자. VmskResource 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/vmskresource/
 ---
+{{< psd/tize >}}
 ## VmskResource(byte[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`VmskResource`](../) 클래스.
+`[`VmskResource`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public VmskResource(byte[] data)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| data | Byte[] | 리소스 데이터입니다. |
+| 데이터 | Byte[] | 리소스 데이터. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 잘못된 Vmsk 리소스 값 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 잘못된 Vmsk Resource 값 |
 
-### 또한보십시오
+### 또 보기
 
 * class [VmskResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## VmskResource() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`VmskResource`](../) 클래스.
+`[`VmskResource`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public VmskResource()
 ```
 
-### 예
+## 예제
 
-다음 코드 예제에서는 벡터 경로 개체를 조작하는 클래스를 제공하고 해당 클래스를 사용하는 방법을 보여 줍니다.
+다음 코드 예제는 벡터 경로 객체를 조작하는 클래스를 제공하고 해당 클래스를 사용하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -70,15 +71,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// <see cref="Layer"/> 및 <see cref="VectorPath"/>.
+/// <see cref=\"Layer\"/>와 <see cref=\"VectorPath\"/> 사이의 작업을 제공하는 클래스.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// <see cref="VectorPath"/> 입력 레이어의 리소스를 기반으로 하는 인스턴스.
+    /// 입력 레이어의 리소스를 기반으로 <see cref=\"VectorPath\"/> 인스턴스를 생성합니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
+    /// <returns>입력 레이어의 리소스를 기반으로 한 <see cref=\"VectorPath\"/> 인스턴스.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -97,11 +98,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPath"/>에서 입력 레이어 리소스를 업데이트합니다. 인스턴스를 변경하거나 새 경로 리소스 및 업데이트로 교체합니다.
+    /// <see cref=\"VectorPath\"/> 인스턴스로부터 입력 레이어 리소스를 업데이트하거나 새 경로 리소스로 교체하고 업데이트합니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
-    /// <param name="vectorPath">벡터 경로입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
+    /// <param name=\"vectorPath\">벡터 경로.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -119,7 +120,7 @@ public static class VectorDataProvider
     /// <summary>
     /// 입력 레이어에서 벡터 경로 데이터를 제거합니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -142,13 +143,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPath"/>에서 리소스 데이터를 업데이트합니다. 사례.
+    /// <see cref=\"VectorPath\"/> 인스턴스로부터 리소스 데이터를 업데이트합니다.
     /// </summary>
-    /// <param name="pathResource">경로 리소스입니다.</param>
-    /// <param name="vogkResource">벡터 원본 데이터 리소스입니다.</param>
-    /// <param name="socoResource">단색 리소스입니다.</param>
-    /// <param name="vectorPath">벡터 경로입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name=\"pathResource\">경로 리소스.</param>
+    /// <param name=\"vogkResource\">벡터 원점 데이터 리소스.</param>
+    /// <param name=\"socoResource\">단색 색상 리소스.</param>
+    /// <param name=\"vectorPath\">벡터 경로.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -175,12 +176,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// 레이어의 리소스를 업데이트되거나 새로운 리소스로 바꿉니다.
+    /// 레이어의 리소스를 업데이트된 것이나 새로운 것으로 교체합니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
-    /// <param name="pathResource">경로 리소스입니다.</param>
-    /// <param name="vogkResource">벡터 원본 데이터 리소스입니다.</param>
-    /// <param name="socoResource">단색 리소스입니다.</param>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
+    /// <param name=\"pathResource\">경로 리소스.</param>
+    /// <param name=\"vogkResource\">벡터 원점 데이터 리소스.</param>
+    /// <param name=\"socoResource\">단색 색상 리소스.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -227,11 +228,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPathDataResource"/> 입력 레이어 리소스의 리소스.
+    /// 입력 레이어 리소스에서 <see cref=\"VectorPathDataResource\"/> 리소스를 찾습니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
-    /// <param name="createIfNotExist">리소스가 존재하지 않으면 <see cref="true"/> 새 리소스를 생성하고 그렇지 않으면 <see cref="null"/>.</param>을 반환합니다.
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
+    /// <param name=\"createIfNotExist\">리소스가 존재하지 않으면 <see cref=\"true\"/>에 대해 새 리소스를 생성하고, 그렇지 않으면 <see cref=\"null\"/>을 반환합니다.</param>
+    /// <returns><see cref=\"VectorPathDataResource\"/> 리소스.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -253,11 +254,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VogkResource"/> 입력 레이어 리소스의 리소스.
+    /// 입력 레이어 리소스에서 <see cref=\"VogkResource\"/> 리소스를 찾습니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
-    /// <param name="createIfNotExist">리소스가 존재하지 않으면 <see cref="true"/> 새 리소스를 생성하고 그렇지 않으면 <see cref="null"/>.</param>을 반환합니다.
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
+    /// <param name=\"createIfNotExist\">리소스가 존재하지 않으면 <see cref=\"true\"/>에 대해 새 리소스를 생성하고, 그렇지 않으면 <see cref=\"null\"/>을 반환합니다.</param>
+    /// <returns>해당 <see cref=\"VogkResource\"/> 리소스.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -279,11 +280,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="SoCoResource"/> 입력 레이어 리소스의 리소스.
+    /// 입력 레이어 리소스에서 <see cref=\"SoCoResource\"/> 리소스를 찾습니다.
     /// </summary>
-    /// <param name="psdLayer">PSD 레이어입니다.</param>
-    /// <param name="createIfNotExist">리소스가 존재하지 않으면 <see cref="true"/> 새 리소스를 생성하고 그렇지 않으면 <see cref="null"/>.</param>을 반환합니다.
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd 레이어.</param>
+    /// <param name=\"createIfNotExist\">리소스가 존재하지 않으면 <see cref=\"true\"/>에 대해 새 리소스를 생성하고, 그렇지 않으면 <see cref=\"null\"/>을 반환합니다.</param>
+    /// <returns>해당 <see cref=\"SoCoResource\"/> 리소스.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -305,10 +306,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorDataProvider"/>와 함께 작동하도록 계층을 검증합니다. 수업.
+    /// 레이어가 <see cref=\"VectorDataProvider\"/> 클래스를 사용하도록 검증합니다.
     /// </summary>
-    /// <param name="layer"></param>
-    /// <예외 cref="ArgumentNullException"></exception>
+    /// <param name=\"layer\"></param>
+    /// <exception cref=\"ArgumentNullException\"></exception>
     private static void ValidateLayer(Layer layer)
     {
         if (layer == null)
@@ -324,22 +325,22 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// Bezier 곡선 매듭, 하나의 고정점과 두 개의 제어점을 포함합니다.
+/// Bezier 곡선 노드이며, 하나의 앵커 포인트와 두 개의 제어 포인트를 포함합니다.
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// 경로 포인트 비율에 대한 이미지.
+    /// 이미지와 경로 포인트 비율.
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// <see cref="BezierKnot" />의 새 인스턴스를 초기화합니다. 수업.
+    /// 새로운 <see cref=\"BezierKnot\" /> 클래스 인스턴스를 초기화합니다.
     /// </summary>
-    /// <param name="anchorPoint">앵커 포인트입니다.</param>
-    /// <param name="controlPoint1">첫 번째 제어점입니다.</param>
-    /// <param name="controlPoint2">두 번째 제어점.</param>
-    /// <param name="isLinked">이 매듭의 연결 여부를 나타내는 값.</param>
+    /// <param name=\"anchorPoint\">앵커 포인트.</param>
+    /// <param name=\"controlPoint1\">첫 번째 제어 포인트.</param>
+    /// <param name=\"controlPoint2\">두 번째 제어 포인트.</param>
+    /// <param name=\"isLinked\">이 노드가 연결되어 있는지 여부를 나타내는 값.</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -349,10 +350,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// <see cref="BezierKnot" />의 새 인스턴스를 초기화합니다. <see cref="BezierKnotRecord"/>에 기반한 클래스입니다.
+    /// 새로운 <see cref=\"BezierKnot\" /> 클래스 인스턴스를 <see cref=\"BezierKnotRecord\"/>를 기반으로 초기화합니다.
     /// </summary>
-    /// <param name="bezierKnotRecord"><see cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name=\"bezierKnotRecord\">해당 <see cref=\"BezierKnotRecord\"/>.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -362,22 +363,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// <see cref="BezierKnot" />의 새 인스턴스를 초기화합니다. 수업.
+    /// 새로운 <see cref=\"BezierKnot\" /> 클래스 인스턴스를 초기화합니다.
     /// </summary>
-    /// <param name="anchorPoint">앵커가 될 포인트와 제어 포인트.</param>
-    /// <param name="isLinked">이 매듭의 연결 여부를 나타내는 값.</param>
+    /// <param name=\"anchorPoint\">앵커 및 제어 포인트가 될 포인트.</param>
+    /// <param name=\"isLinked\">이 노드가 연결되어 있는지 여부를 나타내는 값.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// 이 인스턴스가 연결되었는지 여부를 나타내는 값을 가져오거나 설정합니다.
+    /// 이 인스턴스가 연결되어 있는지 여부를 나타내는 값을 가져오거나 설정합니다.
     /// </summary>
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// 첫 번째 제어점을 가져오거나 설정합니다.
+    /// 첫 번째 제어 포인트를 가져오거나 설정합니다.
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
@@ -387,16 +388,16 @@ public class BezierKnot
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// 두 번째 제어점을 가져오거나 설정합니다.
+    /// 두 번째 제어 포인트를 가져오거나 설정합니다.
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// <see cref="BezierKnotRecord"/> 이 인스턴스를 기반으로 합니다.
+    /// 이 인스턴스를 기반으로 <see cref=\"BezierKnotRecord\"/> 인스턴스를 생성합니다.
     /// </summary>
-    /// <param name="isClosed">이 매듭이 닫힌 모양인지 여부를 나타냅니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name=\"isClosed\">이 노드가 닫힌 형태인지 여부를 나타냅니다.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
+    /// <returns>이 인스턴스를 기반으로 한 <see cref=\"BezierKnotRecord\"/> 인스턴스.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -413,10 +414,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// 이 노트 포인트를 입력 값으로 이동합니다.
+    /// 입력 값에 따라 이 노드 포인트를 이동합니다.
     /// </summary>
-    /// <param name="xOffset">x 오프셋입니다.</param>
-    /// <param name="yOffset">y 오프셋입니다.</param>
+    /// <param name=\"xOffset\">x 오프셋.</param>
+    /// <param name=\"yOffset\">y 오프셋.</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -425,11 +426,11 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// 포인트 값을 리소스에서 일반으로 변환합니다.
+    /// 리소스에서 일반으로 포인트 값을 변환합니다.
     /// </summary>
-    /// <param name="point">resource.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name=\"point\">리소스에서 가져온 값이 있는 포인트.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
+    /// <returns>일반으로 변환된 포인트.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
@@ -438,9 +439,9 @@ public class BezierKnot
     /// <summary>
     /// 일반 포인트 값을 리소스 포인트로 변환합니다.
     /// </summary>
-    /// <param name="point">점입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"point\">포인트.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
+    /// <returns>리소스를 위한 값이 있는 포인트.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -448,12 +449,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// 베지어 곡선의 매듭에서 나온 그림.
+/// 베지어 곡선의 노드에서 얻은 도형.
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// <see cref="PathShape" />의 새 인스턴스를 초기화합니다. 수업.
+    /// <see cref=\"PathShape\" /> 클래스의 새 인스턴스를 초기화합니다.
     /// </summary>
     public PathShape()
     {
@@ -462,11 +463,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// <see cref="PathShape" />의 새 인스턴스를 초기화합니다. <see cref="VectorPathRecord"/>에 기반한 클래스입니다.
+    /// <see cref=\"PathShape\" /> 클래스의 새 인스턴스를 <see cref=\"VectorPathRecord\"/> 기반으로 초기화합니다.
     /// </summary>
-    /// <param name="lengthRecord">레코드 길이입니다.</param>
-    /// <param name="bezierKnotRecords">베지어 매듭 레코드입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name=\"lengthRecord\">길이 레코드.</param>
+    /// <param name=\"bezierKnotRecords\">베지어 노드 레코드.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -477,33 +478,33 @@ public class PathShape
     }
 
     /// <summary>
-    /// 이 인스턴스가 닫혔는지 여부를 나타내는 값을 가져오거나 설정합니다.
+    /// 이 인스턴스가 닫혀 있는지 여부를 나타내는 값을 가져오거나 설정합니다.
     /// </summary>
-    /// <값>
-    /// <c>참</c> 이 인스턴스가 닫히면; 그렇지 않으면 <c>false</c>입니다.
-    /// </값>
+    /// <value>
+    ///   <c>true</c> 이 인스턴스가 닫혀 있으면; 그렇지 않으면 <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// 경로 연산(부울 연산)을 가져오거나 설정합니다.
+    /// 경로 연산(불리언 연산)을 가져오거나 설정합니다.
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// 레이어에서 현재 경로 모양의 인덱스를 가져오거나 설정합니다.
+    /// 레이어에서 현재 경로 도형의 인덱스를 가져오거나 설정합니다.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// 베지어 곡선의 점을 가져옵니다.
+    /// 베지어 곡선의 포인트를 가져옵니다.
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// <see cref="VectorPathRecord"/> 이 인스턴스를 기반으로 하는 레코드입니다.
+    /// 이 인스턴스를 기반으로 <see cref=\"VectorPathRecord\"/> 레코드를 생성합니다.
     /// </summary>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
+    /// <returns>이 인스턴스의 각 포인트에 대해 하나의 <see cref=\"LengthRecord\"/>와 <see cref=\"BezierKnotRecord\"/>를 반환합니다.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -526,8 +527,8 @@ public class PathShape
     /// <summary>
     /// 입력 레코드를 기반으로 값을 초기화합니다.
     /// </summary>
-    /// <param name="bezierKnotRecords">베지어 매듭 레코드입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name=\"bezierKnotRecords\">베지어 노드 레코드.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -547,21 +548,21 @@ public class PathShape
 public class VectorPath
 {
     /// <summary>
-    /// <see cref="VectorPath" />의 새 인스턴스를 초기화합니다. <see cref="VectorPathDataResource"/>를 기반으로 하는 클래스입니다.
+    /// <see cref=\"VectorPath\" /> 클래스의 새 인스턴스를 <see cref=\"VectorPathDataResource\"/> 기반으로 초기화합니다.
     /// </summary>
-    /// <param name="vectorPathDataResource">벡터 경로 데이터 리소스입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name=\"vectorPathDataResource\">벡터 경로 데이터 리소스.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// 채우기가 모든 픽셀로 시작하는지 여부를 나타내는 값을 가져오거나 설정합니다.
+    /// 채우기가 모든 픽셀부터 시작되는지 여부를 나타내는 값을 가져오거나 설정합니다.
     /// </summary>
-    /// <값>
-    /// 채우기는 모든 픽셀에서 시작합니다.
-    /// </값>
+    /// <value>
+    /// 채우기가 모든 픽셀부터 시작됩니다.
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
@@ -577,40 +578,40 @@ public class VectorPath
     /// <summary>
     /// 버전을 가져오거나 설정합니다.
     /// </summary>
-    /// <값>
-    /// 버전.
-    /// </값>
+    /// <value>
+    /// 버전입니다.
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
     /// 이 인스턴스가 비활성화되었는지 여부를 나타내는 값을 가져오거나 설정합니다.
     /// </summary>
-    /// <값>
-    /// <c>참</c> 이 인스턴스가 비활성화된 경우 그렇지 않으면 <c>false</c>입니다.
-    /// </값>
+    /// <value>
+    ///   <c>true</c> 이 인스턴스가 비활성화된 경우; 그렇지 않으면 <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
     /// 이 인스턴스가 연결되지 않았는지 여부를 나타내는 값을 가져오거나 설정합니다.
     /// </summary>
-    /// <값>
-    /// <c>참</c> 이 인스턴스가 연결되지 않은 경우; 그렇지 않으면 <c>false</c>입니다.
-    /// </값>
+    /// <value>
+    ///   <c>true</c> 이 인스턴스가 연결되지 않은 경우; 그렇지 않으면 <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
     /// 이 인스턴스가 반전되었는지 여부를 나타내는 값을 가져오거나 설정합니다.
     /// </summary>
-    /// <값>
-    /// <c>참</c> 이 인스턴스가 반전된 경우; 그렇지 않으면 <c>false</c>입니다.
-    /// </값>
+    /// <value>
+    ///   <c>true</c> 이 인스턴스가 반전된 경우; 그렇지 않으면 <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// 입력 <see cref="VectorPathDataResource"/>를 기반으로 값을 초기화합니다. 자원.
+    /// 입력 <see cref="VectorPathDataResource"/> 리소스를 기반으로 값을 초기화합니다.
     /// </summary>
-    /// <param name="resource">벡터 경로 데이터 리소스입니다.</param>
-    /// <param name="imageSize"> 변환점 좌표를 보정하기 위한 이미지 크기.</param>
+    /// <param name="resource">벡터 경로 데이터 리소스.</param>
+    /// <param name=\"imageSize\">점 좌표 변환을 보정하기 위한 이미지 크기.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -661,10 +662,10 @@ public class VectorPath
 #endregion
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VmskResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

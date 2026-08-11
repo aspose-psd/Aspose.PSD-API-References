@@ -1,32 +1,33 @@
 ---
-title: Size.op_Subtraction
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 너비와 높이를 뺍니다.Size 다른 너비와 높이의 구조Size구조.
+title: "Size.op_Subtraction"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 한 Size 구조체의 너비와 높이를 다른 Size 구조체의 너비와 높이에서 빼습니다."
 type: docs
 weight: 190
 url: /ko/net/aspose.psd/size/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Size Subtraction operator
 
-너비와 높이를 뺍니다.[`Size`](../) 다른 너비와 높이의 구조[`Size`](../)구조.
+한 [`Size`](../) 구조체의 너비와 높이를 다른 [`Size`](../) 구조체의 너비와 높이에서 뺍니다.
 
 ```csharp
 public static Size operator -(Size size1, Size size2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size1 | Size | 그만큼[`Size`](../) 빼기 연산자의 왼쪽에 있는 구조입니다. |
-| size2 | Size | 그만큼[`Size`](../) 빼기 연산자의 오른쪽에 있는 구조입니다. |
+| size1 | Size | 뺄셈 연산자 왼쪽에 있는 [`Size`](../) 구조체. |
+| size2 | Size | `[`Size`](../)` 구조체는 뺄셈 연산자의 오른쪽에 있습니다. |
 
 ### 반환 값
 
-ㅏ[`Size`](../) 빼기 연산의 결과인 구조입니다.
+뺄셈 연산의 결과인 [`Size`](../) 구조체.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

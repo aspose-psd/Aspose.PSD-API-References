@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawFallbackIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterImage 재산. 팔레트 인덱스가 범위를 벗어날 때 사용할 폴백 인덱스를 가져오거나 설정합니다.
+title: "RasterImage.RawFallbackIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterImage 속성. 팔레트 인덱스가 범위를 벗어났을 때 사용할 폴백 인덱스를 가져오거나 설정합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd/rasterimage/rawfallbackindex/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawFallbackIndex property
 
-팔레트 인덱스가 범위를 벗어날 때 사용할 폴백 인덱스를 가져오거나 설정합니다.
+팔레트 인덱스가 범위를 벗어났을 때 사용할 대체 인덱스를 가져오거나 설정합니다.
 
 ```csharp
 public int RawFallbackIndex { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-팔레트 인덱스가 범위를 벗어날 때 사용할 폴백 인덱스
+팔레트 인덱스가 범위를 벗어났을 때 사용할 대체 인덱스입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterImage](../)
-* 네임스페이스 [Aspose.PSD](../../rasterimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VstkResource.StrokeStyleLineCapType
-second_title: .NET API 참조용 Aspose.PSD
-description: VstkResource 재산. 획 스타일 선 끝의 유형을 가져오거나 설정합니다.
+title: "VstkResource.StrokeStyleLineCapType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VstkResource 속성. 스트로크 스타일 라인 캡 유형을 가져오거나 설정합니다"
 type: docs
-weight: 110
+weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapType property
 
-획 스타일 선 끝의 유형을 가져오거나 설정합니다.
+스트로크 스타일 라인 캡 유형을 가져오거나 설정합니다.
 
 ```csharp
 public LineCapType StrokeStyleLineCapType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-획 스타일 선 끝의 유형입니다.
+스트로크 스타일 라인 캡의 유형.
 
-### 또한보십시오
+### 또 보기
 
 * enum [LineCapType](../../linecaptype/)
 * class [VstkResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

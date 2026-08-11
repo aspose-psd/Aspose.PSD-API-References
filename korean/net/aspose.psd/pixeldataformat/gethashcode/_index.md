@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetHashCode
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelDataFormat 방법. 이 인스턴스에 대한 해시 코드를 반환합니다.
+title: "PixelDataFormat.GetHashCode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelDataFormat 메서드. 이 인스턴스에 대한 해시 코드를 반환합니다."
 type: docs
 weight: 360
 url: /ko/net/aspose.psd/pixeldataformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetHashCode method
 
 이 인스턴스에 대한 해시 코드를 반환합니다.
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 반환 값
 
-해시 테이블과 같은 데이터 구조 및 해시 알고리즘에 사용하기에 적합한 이 인스턴스의 해시 코드입니다.
+해시 테이블과 같은 해싱 알고리즘 및 데이터 구조에서 사용하기에 적합한 이 인스턴스의 해시 코드.
 
-### 또한보십시오
+### 또 보기
 
 * class [PixelDataFormat](../)
-* 네임스페이스 [Aspose.PSD](../../pixeldataformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

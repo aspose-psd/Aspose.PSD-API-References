@@ -1,28 +1,29 @@
 ---
-title: IObjectWithSizeF.SizeF
-second_title: .NET API 참조용 Aspose.PSD
-description: IObjectWithSizeF 재산. 개체 크기를 인치 단위로 가져옵니다.
+title: "IObjectWithSizeF.SizeF"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IObjectWithSizeF 속성. 객체 크기를 인치 단위로 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.interfaces/iobjectwithsizef/sizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.SizeF property
 
-개체 크기를 인치 단위로 가져옵니다.
+객체 크기를 인치 단위로 가져옵니다.
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-개체 크기(인치)입니다.
+객체 크기(인치).
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * interface [IObjectWithSizeF](../)
-* 네임스페이스 [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

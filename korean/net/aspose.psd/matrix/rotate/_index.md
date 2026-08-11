@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: .NET API 참조용 Aspose.PSD
-description: Matrix 방법. 지정된 순서로 이 매트릭스의 원점제로 x 및 y 좌표을 기준으로 각도 매개변수에 지정된 양의 시계 방향 회전을 적용합니다.
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Matrix 메서드. 지정된 순서에서 이 Matrix의 원점(0,0) 주위를 angle 매개변수에 지정된 양만큼 시계 방향으로 회전시킵니다."
 type: docs
 weight: 140
 url: /ko/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-지정된 순서로 이 매트릭스의 원점(제로 x 및 y 좌표)을 기준으로 각도 매개변수에 지정된 양의 시계 방향 회전을 적용합니다.
+이 Matrix에 대해 지정된 순서로 원점(좌표 x와 y가 0인 위치) 주위를 각도 매개변수에 지정된 양만큼 시계 방향으로 회전시킵니다.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| angle | Single | 회전 각도입니다. |
-| order | MatrixOrder | 행렬 순서입니다. |
+| 각도 | 단일 | 회전 각도. |
+| order | MatrixOrder | 행렬 순서. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-기본(앞에 추가) 순서로 이 매트릭스의 원점(제로 x 및 y 좌표)을 기준으로 각도 매개변수에 지정된 양의 시계 방향 회전을 적용합니다.
+이 Matrix에 대해 기본 (Prepend) 순서로 원점(좌표 x와 y가 0인 위치) 주위를 각도 매개변수에 지정된 양만큼 시계 방향으로 회전시킵니다.
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| angle | Single | 회전 각도입니다. |
+| 각도 | 단일 | 회전 각도. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum LinkDataSourceType
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType 열거형. PSD 링크 리소스의 데이터 소스에 대한 LinkDataSourceType 열거형을 정의합니다.
+title: "열거형 LinkDataSourceType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType 열거형. PSD 링크 리소스의 데이터 소스를 위한 LinkDataSourceType 열거형을 정의합니다."
 type: docs
-weight: 2700
+weight: 3000
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-PSD 링크 리소스의 데이터 소스에 대한 LinkDataSourceType 열거형을 정의합니다.
+PSD 링크 리소스의 데이터 소스를 위한 LinkDataSourceType 열거형을 정의합니다.
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | None | `0` | 빈 링크 리소스입니다. |
-| liFD | `1` | 포함된 링크 파일 data |
-| liFE | `2` | 외부 링크 파일 data |
-| liFA | `3` | 연결된 파일 별칭 data |
+| liFD | `1` | 임베드된 연결 파일 데이터 |
+| liFE | `2` | 외부 연결 파일 데이터 |
+| liFA | `3` | 연결된 파일 별칭 데이터 |
 
-### 예
+## 예제
 
 다음 코드는 LnkeResource 리소스의 지원을 보여줍니다.
 
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

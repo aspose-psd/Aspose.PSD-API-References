@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. 휘도 구성 요소와 관련된 색차 구성 요소의 샘플링 비율을 가져오거나 설정합니다.
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. 색차 성분에 대한 샘플링 비율을 휘도 성분에 대해 가져오거나 설정합니다"
 type: docs
 weight: 250
 url: /ko/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-휘도 구성 요소와 관련된 색차 구성 요소의 샘플링 비율을 가져오거나 설정합니다.
+휘도 성분에 대한 색차 성분의 샘플링 비율을 가져오거나 설정합니다.
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 휘도 성분에 대한 색차 성분의 샘플링 비율.
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

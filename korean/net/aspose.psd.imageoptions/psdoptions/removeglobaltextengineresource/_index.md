@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RemoveGlobalTextEngineResource
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdOptions 재산. 다음 여부를 나타내는 값을 가져오거나 설정합니다.  전역 텍스트 엔진 리소스 제거  일부 텍스트 레이어 psd 파일에 대해 처리 후 Adobe Photoshop에서 열 수 없는 경우에만 사용됩니다대부분 관련된 글꼴 텍스트 레이어가 없는 경우. 이 옵션을 사용한 후 사용자는 Photoshop 파일에서 다음 항목을 만들어야 합니다 메뉴 텍스트  프로세스 부재 글꼴. 이 작업 후에 모든 텍스트가 다시 나타납니다. 이 작업으로 인해 일부 최종 레이아웃이 변경될 수 있습니다.
+title: "PsdOptions.RemoveGlobalTextEngineResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdOptions 속성. 전역 텍스트 엔진 리소스를 제거할지 여부를 나타내는 값을 가져오거나 설정합니다. 주로 폰트가 누락된 텍스트 레이어와 관련된 psd 파일을 처리한 후 Adobe Photoshop에서 열 수 없을 때 사용됩니다. 이 옵션을 사용한 후에는 Photoshop에서 파일을 열고 메뉴에서 텍스트 → 누락된 폰트 처리 를 수행해야 합니다. 그 후 모든 텍스트가 다시 표시됩니다. 이 작업은 최종 레이아웃에 일부 변경을 일으킬 수 있음을 유의하십시오."
 type: docs
-weight: 80
+weight: 90
 url: /ko/net/aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RemoveGlobalTextEngineResource property
 
-다음 여부를 나타내는 값을 가져오거나 설정합니다. - 전역 텍스트 엔진 리소스 제거 - 일부 텍스트 레이어 psd 파일에 대해 처리 후 Adobe Photoshop에서 열 수 없는 경우에만 사용됩니다(대부분 관련된 글꼴 텍스트 레이어가 없는 경우). 이 옵션을 사용한 후 사용자는 Photoshop 파일에서 다음 항목을 만들어야 합니다: 메뉴 "텍스트" -&gt; "프로세스 부재 글꼴". 이 작업 후에 모든 텍스트가 다시 나타납니다. 이 작업으로 인해 일부 최종 레이아웃이 변경될 수 있습니다.
+전역 텍스트 엔진 리소스를 제거할지 여부를 가져오거나 설정합니다. 이 옵션은 처리 후 Adobe Photoshop에서 열 수 없는 일부 텍스트 레이어가 포함된 PSD 파일에 사용됩니다(주로 누락된 폰트와 관련된 텍스트 레이어). 이 옵션을 사용한 후에는 Photoshop에서 연 파일에서 다음을 수행해야 합니다: 메뉴 "Text" -&gt; "Process absent fonts". 해당 작업이 완료되면 모든 텍스트가 다시 표시됩니다. 이 작업으로 인해 최종 레이아웃이 일부 변경될 수 있음을 참고하십시오.
 
 ```csharp
 public bool RemoveGlobalTextEngineResource { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` if [글로벌 텍스트 엔진 리소스 제거]; 그렇지 않으면,`거짓` .
+`true`이면 [remove global text engine resource]; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: ShapeSegment 재산. 시작점을 가져옵니다.
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ShapeSegment 속성. 시작점을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
 시작점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/shapesegment/startpoint/
 public abstract PointF StartPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-출발점.
+시작점.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* 네임스페이스 [Aspose.PSD](../../shapesegment/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

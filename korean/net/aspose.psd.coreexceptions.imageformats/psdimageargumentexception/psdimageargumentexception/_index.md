@@ -1,48 +1,49 @@
 ---
-title: PsdImageArgumentException.PsdImageArgumentException
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImageArgumentException 건설자. 의 새 인스턴스를 초기화합니다.PsdImageArgumentException 클래스.
+title: "PsdImageArgumentException.PsdImageArgumentException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImageArgumentException 생성자. PsdImageArgumentException 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException(string) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`PsdImageArgumentException`](../) 클래스.
+[`PsdImageArgumentException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public PsdImageArgumentException(string message)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImageArgumentException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageArgumentException(string, Exception) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`PsdImageArgumentException`](../) 클래스.
+[`PsdImageArgumentException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public PsdImageArgumentException(string message, Exception innerException)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 | innerException | Exception | 내부 예외. |
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImageArgumentException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.IRasterImageRawDataLoader 상호 작용. 래스터 이미지 원시 데이터 로더.
+title: "인터페이스 IRasterImageRawDataLoader"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.IRasterImageRawDataLoader 인터페이스. 래스터 이미지 원시 데이터 로더"
 type: docs
-weight: 4580
+weight: 5050
 url: /ko/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
 래스터 이미지 원시 데이터 로더.
@@ -18,18 +19,18 @@ public interface IRasterImageRawDataLoader
 
 | 이름 | 설명 |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | 원시 데이터 로드가 지원되는지 여부를 나타내는 값을 가져옵니다. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | 현재 원시 데이터 설정을 가져옵니다. 이러한 설정을 사용하면 변환 없이 데이터가 로드됩니다. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | 원시 데이터 로딩이 지원되는지 여부를 나타내는 값을 가져옵니다. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | 현재 원시 데이터 설정을 가져옵니다. 이러한 설정을 사용할 때 데이터가 변환 없이 로드된다는 점에 유의하십시오. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | 원시 데이터를 로드합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

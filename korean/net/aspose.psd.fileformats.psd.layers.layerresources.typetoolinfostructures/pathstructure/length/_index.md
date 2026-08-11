@@ -1,22 +1,23 @@
 ---
-title: PathStructure.Length
-second_title: .NET API 참조용 Aspose.PSD
-description: PathStructure 재산. 가져오기OSTypeStructure 바이트 길이.
+title: "PathStructure.Length"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PathStructure 속성. OSTypeStructure 길이를 바이트 단위로 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/
 ---
+{{< psd/tize >}}
 ## PathStructure.Length property
 
-가져오기[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) 바이트 길이.
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)의 길이를 바이트 단위로 가져옵니다.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 예
+## 예제
 
-다음 코드는 PathStructure 구조로 파일을 로드하는 기능을 보여줍니다.
+다음 코드는 PathStructure 구조를 사용하여 파일을 로드하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PathStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

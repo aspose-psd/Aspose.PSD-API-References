@@ -1,11 +1,12 @@
 ---
-title: TextShape.TextFormat
-second_title: .NET API 참조용 Aspose.PSD
-description: TextShape 재산. 텍스트 형식을 가져오거나 설정합니다.
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextShape 속성. 텍스트 형식을 가져오거나 설정합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
 텍스트 형식을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapes/textshape/textformat/
 public StringFormat TextFormat { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-텍스트 형식입니다.
+텍스트 형식.
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../textshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

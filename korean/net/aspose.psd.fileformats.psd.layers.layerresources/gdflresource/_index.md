@@ -1,14 +1,15 @@
 ---
-title: Class GdFlResource
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource 수업. 클래스 GdFlResource. 이 리소스에는 잘린 요소의 혼합에 대한 정보가 포함되어 있습니다.
+title: "클래스 GdFlResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource 클래스. 클래스 GdFlResource. 이 리소스는 클리핑된 요소의 블렌딩에 대한 정보를 포함합니다."
 type: docs
-weight: 2500
+weight: 2760
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource class
 
-클래스 GdFlResource. 이 리소스에는 잘린 요소의 혼합에 대한 정보가 포함되어 있습니다.
+클래스 GdFlResource. 이 리소스는 클리핑된 요소의 블렌딩에 대한 정보를 포함합니다.
 
 ```csharp
 public class GdFlResource : FillLayerResource
@@ -24,38 +25,47 @@ public class GdFlResource : FillLayerResource
 
 | 이름 | 설명 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | [레이어와 정렬]. 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | 레이어와 정렬되는지를 나타내는 값을 가져오거나 설정합니다 [align with layer]. |
 | [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | 각도를 가져오거나 설정합니다. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | RGB의 색상을 가져옵니다. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | RGB 색상을 가져옵니다. |
+| [ColorModel](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colormodel/) { get; set; } | 색상 모델 - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | 색상 포인트를 가져옵니다. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | 이 여부를 나타내는 값을 가져오거나 설정합니다.`GdFlResource` 디더입니다. |
-| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | 그라데이션 간격을 가져오거나 설정합니다. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | 그라데이션의 이름을 가져오거나 설정합니다. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | 그라데이션 유형을 가져오거나 설정합니다. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | 이 `GdFlResource`가 디더인지 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | 그라디언트 간격을 가져오거나 설정합니다. |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientmode/) { get; set; } | 이 그라디언트의 모드. 'Gradient Type' = 'Solid/Noise' = "CstS"/"ClNs". |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | 그라디언트의 이름을 가져오거나 설정합니다. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | 그라디언트의 유형을 가져오거나 설정합니다. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | 수평 오프셋을 가져오거나 설정합니다. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/interpolationmethod/) { get; set; } | 그라디언트에 대한 보간 방법을 가져오거나 설정합니다. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 레이어 리소스 키를 가져옵니다. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | 레이어 리소스 길이를 바이트 단위로 가져옵니다. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/) { get; } | 레이어 리소스에 필요한 최소 psd 버전을 가져옵니다. 0은 제한이 없음을 나타냅니다. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | 이 여부를 나타내는 값을 가져오거나 설정합니다.`GdFlResource` 반대입니다. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | 배율을 가져오거나 설정합니다. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/) { get; } | 레이어 리소스 서명을 가져옵니다. |
+| [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/maximumcolor/) { get; set; } | PixelDataFormat의 최대 색상. |
+| [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/minimumcolor/) { get; set; } | PixelDataFormat의 최소 색상. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 레이어 리소스에 필요한 최소 PSD 버전을 가져옵니다. 0은 제한이 없음을 나타냅니다. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | 이 `GdFlResource`가 역방향인지 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/rndnumberseed/) { get; set; } | 노이즈 그라디언트 색상을 생성하는 데 사용되는 난수 시드. |
+| [Roughness](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/roughness/) { get; set; } | 거칠기 계수. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | 스케일을 가져오거나 설정합니다. |
+| [ShowTransparency](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/showtransparency/) { get; set; } | 투명성을 표시하기 위한 플래그. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 서명을 가져옵니다. |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | 투명도 포인트를 가져옵니다. |
+| [UseVectorColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/usevectorcolor/) { get; set; } | 벡터 색상을 사용하기 위한 플래그. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | 수직 오프셋을 가져오거나 설정합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | 리소스를 지정된 스트림 컨테이너에 저장합니다. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 반환String 이 instance. 를 나타냅니다. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 이 인스턴스를 나타내는 문자열을 반환합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | 유형 도구 정보 키입니다. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | 타입 툴 정보 키. |
 
-### 예
+## 예제
 
 다음 예제는 GdFlResource 리소스 로드 지원을 보여줍니다.
 
@@ -77,7 +87,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 독서
+                    // 읽기
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -151,11 +161,11 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

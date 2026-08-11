@@ -1,57 +1,58 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleExtensions 방법. 변환Rectangle 로Rectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleExtensions 메서드. Rectangle를 Rectangle로 변환합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-변환[`Rectangle`](../../../aspose.psd/rectangle/) ~로Rectangle .
+[`Rectangle`](../../../aspose.psd/rectangle/)을 Rectangle로 변환합니다.
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 변환할 사각형입니다. |
+| 사각형 | Rectangle | 변환할 사각형. |
 
 ### 반환 값
 
-개종자Rectangle.
+변환된 Rectangle.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../rectangleextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-변환[`RectangleF`](../../../aspose.psd/rectanglef/) ~로Rectangle .
+[`RectangleF`](../../../aspose.psd/rectanglef/)을 Rectangle로 변환합니다.
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | RectangleF | 변환할 사각형입니다. |
+| 사각형 | RectangleF | 변환할 사각형. |
 
 ### 반환 값
 
-개종자RectangleF.
+변환된 RectangleF.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../rectangleextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

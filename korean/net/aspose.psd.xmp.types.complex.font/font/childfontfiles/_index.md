@@ -1,27 +1,28 @@
 ---
-title: Font.ChildFontFiles
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 재산. 합성 글꼴을 구성하는 글꼴의 파일 이름 배열을 가져오거나 설정합니다.
+title: "Font.ChildFontFiles"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 속성. 복합 글꼴을 구성하는 글꼴들의 파일 이름 배열을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.types.complex.font/font/childfontfiles/
 ---
+{{< psd/tize >}}
 ## Font.ChildFontFiles property
 
-합성 글꼴을 구성하는 글꼴의 파일 이름 배열을 가져오거나 설정합니다.
+복합 글꼴을 구성하는 글꼴들의 파일 이름 배열을 가져오거나 설정합니다.
 
 ```csharp
 public string[] ChildFontFiles { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-합성 글꼴을 구성하는 글꼴의 파일 이름 배열입니다.
+복합 글꼴을 구성하는 글꼴들의 파일 이름 배열.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

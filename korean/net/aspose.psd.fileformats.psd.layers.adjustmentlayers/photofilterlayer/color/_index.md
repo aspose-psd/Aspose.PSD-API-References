@@ -1,11 +1,12 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: .NET API 참조용 Aspose.PSD
-description: PhotoFilterLayer 재산. 필터의 RGB 색상을 가져오거나 설정합니다.
+title: "PhotoFilterLayer.Color"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhotoFilterLayer 속성. 필터의 RGB 색상을 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
 필터의 RGB 색상을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer
 public Color Color { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 색상.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

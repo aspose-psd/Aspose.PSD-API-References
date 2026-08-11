@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTag
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 방법. 새 태그를 추가합니다.
+title: "TiffOptions.AddTag"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 메서드. 새 태그를 추가합니다"
 type: docs
-weight: 700
+weight: 710
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/addtag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTag method
 
 새 태그를 추가합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/addtag/
 public void AddTag(TiffDataType tagToAdd)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| tagToAdd | TiffDataType | 추가할 태그입니다. |
+| tagToAdd | TiffDataType | 추가할 태그. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

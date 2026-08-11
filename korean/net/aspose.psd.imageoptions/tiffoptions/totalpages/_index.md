@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TotalPages
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 총 페이지를 가져옵니다.
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 전체 페이지 수를 가져옵니다"
 type: docs
-weight: 560
+weight: 570
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
-총 페이지를 가져옵니다.
+전체 페이지 수를 가져옵니다.
 
 ```csharp
 public ushort TotalPages { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-총 페이지 수.
+전체 페이지 수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

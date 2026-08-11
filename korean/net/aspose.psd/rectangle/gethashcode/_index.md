@@ -1,14 +1,15 @@
 ---
-title: Rectangle.GetHashCode
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 방법. 이에 대한 해시 코드를 반환합니다.Rectangle구조.
+title: "Rectangle.GetHashCode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 메서드. 이 Rectangle 구조의 해시 코드를 반환합니다."
 type: docs
 weight: 240
 url: /ko/net/aspose.psd/rectangle/gethashcode/
 ---
+{{< psd/tize >}}
 ## Rectangle.GetHashCode method
 
-이에 대한 해시 코드를 반환합니다.[`Rectangle`](../)구조.
+이 [`Rectangle`](../) 구조의 해시 코드를 반환합니다.
 
 ```csharp
 public override int GetHashCode()
@@ -18,10 +19,10 @@ public override int GetHashCode()
 
 이 사각형의 해시 코드를 나타내는 정수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

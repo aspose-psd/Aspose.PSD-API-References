@@ -1,11 +1,12 @@
 ---
-title: Font.FontName
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 재산. PostScript 글꼴 이름을 가져오거나 설정합니다.
+title: "Font.FontName"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 속성. PostScript 글꼴 이름을 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.xmp.types.complex.font/font/fontname/
 ---
+{{< psd/tize >}}
 ## Font.FontName property
 
 PostScript 글꼴 이름을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ PostScript 글꼴 이름을 가져오거나 설정합니다.
 public string FontName { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-PostScript 글꼴 이름의 이름입니다.
+PostScript 글꼴 이름입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

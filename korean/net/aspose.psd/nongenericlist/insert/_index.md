@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.Insert
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 방법. 항목을IList 지정된 index. 에서
+title: "NonGenericList.Insert"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 메서드. 지정된 인덱스에 IList에 항목을 삽입합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.psd/nongenericlist/insert/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Insert method
 
-항목을IList 지정된 index. 에서
+지정된 인덱스에 항목을 IList에 삽입합니다.
 
 ```csharp
 public void Insert(int index, object value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 0부터 시작하는 인덱스*value* 삽입해야 합니다. |
-| value | Object | 그만큼Object 에 삽입하기 위해IList. |
+| index | Int32 | 삽입되어야 하는 *value*의 0 기반 인덱스입니다. |
+| 값 | Object | IList에 삽입할 객체입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

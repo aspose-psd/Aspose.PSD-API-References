@@ -1,11 +1,12 @@
 ---
-title: MedianFilterOptions.Size
-second_title: .NET API 참조용 Aspose.PSD
-description: MedianFilterOptions 재산. 크기를 가져오거나 설정합니다.
+title: "MedianFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "MedianFilterOptions 속성. 크기를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
 크기를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 public int Size { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-필터 사각형의 크기입니다.
+필터 사각형의 크기.
 
-### 또한보십시오
+### 또 보기
 
 * class [MedianFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

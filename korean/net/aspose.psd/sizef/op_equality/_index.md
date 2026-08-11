@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Equality
-second_title: .NET API 참조용 Aspose.PSD
-description: SizeF 방법. 두SizeF 구조가 동일합니다.
+title: "SizeF.op_Equality"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SizeF 메서드. 두 SizeF 구조체가 같은지 테스트합니다."
 type: docs
 weight: 140
 url: /ko/net/aspose.psd/sizef/op_equality/
 ---
+{{< psd/tize >}}
 ## SizeF Equality operator
 
-두[`SizeF`](../) 구조가 동일합니다.
+두 [`SizeF`](../) 구조체가 같은지 테스트합니다.
 
 ```csharp
 public static bool operator ==(SizeF size1, SizeF size2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size1 | SizeF | 그만큼[`SizeF`](../) 항등 연산자의 왼쪽에 있는 구조입니다. |
-| size2 | SizeF | 그만큼[`SizeF`](../) 같음 연산자의 오른쪽에 있는 구조입니다. |
+| size1 | SizeF | 동등 연산자 왼쪽에 있는 [`SizeF`](../) 구조체. |
+| size2 | SizeF | 동등 연산자 오른쪽에 있는 [`SizeF`](../) 구조체. |
 
 ### 반환 값
 
-이 연산자는 다음과 같은 경우 true를 반환합니다.*size1* 그리고*size2* 너비와 높이가 동일합니다. 그렇지 않으면 거짓입니다.
+이 연산자는 *size1*과 *size2*의 너비와 높이가 동일하면 true를 반환하고, 그렇지 않으면 false를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

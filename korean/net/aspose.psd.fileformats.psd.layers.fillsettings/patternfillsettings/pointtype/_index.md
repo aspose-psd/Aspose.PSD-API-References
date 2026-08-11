@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PointType
-second_title: .NET API 참조용 Aspose.PSD
-description: PatternFillSettings 재산. 포인트 유형을 가져오거나 설정합니다.
+title: "PatternFillSettings.PointType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PatternFillSettings 속성. 포인트의 유형을 가져오거나 설정합니다"
 type: docs
-weight: 110
+weight: 130
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PointType property
 
 포인트 유형을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public string PointType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-점의 유형입니다.
+포인트의 유형입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PatternFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

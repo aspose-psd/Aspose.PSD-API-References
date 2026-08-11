@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetColorMode
-second_title: .NET API 참조용 Aspose.PSD
-description: PhotoshopPackage 방법. 색상 모드를 설정합니다.
+title: "PhotoshopPackage.SetColorMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhotoshopPackage 메서드. 색상 모드를 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetColorMode method
 
 색상 모드를 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 public void SetColorMode(ColorMode colorMode)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| colorMode | ColorMode | 색상 모드입니다. |
+| colorMode | ColorMode | 색상 모드. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

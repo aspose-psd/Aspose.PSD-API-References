@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: .NET API 참조용 Aspose.PSD
-description: AiRasterImageSection 재산. int 색상 픽셀의 배열을 가져옵니다.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiRasterImageSection 속성. int 색상 픽셀 배열을 가져옵니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-int 색상 픽셀의 배열을 가져옵니다.
+int 색상 픽셀 배열을 가져옵니다.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-int 색상 픽셀의 배열입니다.
+int 색상 픽셀 배열.
 
-### 또한보십시오
+### 또 보기
 
 * class [AiRasterImageSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

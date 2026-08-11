@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 주제 영역을 가져오거나 설정합니다.
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 피사체 영역을 가져오거나 설정합니다"
 type: docs
 weight: 990
 url: /ko/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-주제 영역을 가져오거나 설정합니다.
+피사체 영역을 가져오거나 설정합니다.
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-주제 영역.
+The subject area.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

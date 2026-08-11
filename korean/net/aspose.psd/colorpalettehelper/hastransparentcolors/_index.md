@@ -1,38 +1,39 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorPaletteHelper 방법. 지정된 팔레트에 투명한 색상이 있는지 여부를 결정합니다.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorPaletteHelper 메서드. 지정된 팔레트에 투명 색상이 있는지 확인합니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
-지정된 팔레트에 투명한 색상이 있는지 여부를 결정합니다.
+지정된 팔레트에 투명 색상이 있는지 확인합니다.
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| palette | IColorPalette | 팔레트. |
+| 팔레트 | IColorPalette | 팔레트. |
 
 ### 반환 값
 
-`진실` 지정된 팔레트에 투명한 색상이 있는 경우; 그렇지 않으면,`거짓` .
+`true` 지정된 팔레트에 투명 색상이 있는 경우; 그렇지 않으면 `false`.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *palette* null입니다. |
+| ArgumentNullException | *palette*이 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* 네임스페이스 [Aspose.PSD](../../colorpalettehelper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

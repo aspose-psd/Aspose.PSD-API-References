@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorBalanceAdjustmentLayer 재산. 하이라이트 노란색 파란색 균형을 가져오거나 설정합니다.
+title: "ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorBalanceAdjustmentLayer 속성. Highlights Yellow Blue Balance를 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance property
 
-하이라이트 노란색 파란색 균형을 가져오거나 설정합니다.
+Highlights Yellow Blue Balance를 가져오거나 설정합니다.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-하이라이트 옐로우 블루 밸런스.
+Highlights Yellow Blue Balance.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | 하이라이트 노란색 파란색 균형은 -100에서 +100 사이여야 합니다. |
+| ArgumentOutOfRangeException | Highlights Yellow Blue Balance는 -100에서 +100 사이여야 합니다. |
 
-### 예
+## 예제
 
 다음 코드는 ColorBalanceAdjustmentLayer에 대한 지원을 보여줍니다.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

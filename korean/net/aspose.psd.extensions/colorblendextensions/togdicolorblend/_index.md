@@ -1,32 +1,33 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorBlendExtensions 방법. 변환ColorBlend 에게ColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorBlendExtensions 메서드. ColorBlend를 ColorBlend로 변환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-변환[`ColorBlend`](../../../aspose.psd/colorblend/) 에게ColorBlend .
+[`ColorBlend`](../../../aspose.psd/colorblend/)를 ColorBlend로 변환합니다.
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| colorBlend | ColorBlend | 색상 혼합입니다. |
+| colorBlend | ColorBlend | 색상 블렌드. |
 
 ### 반환 값
 
-개종자ColorBlend.
+변환된 ColorBlend.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../colorblendextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

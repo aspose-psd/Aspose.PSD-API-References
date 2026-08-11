@@ -1,23 +1,24 @@
 ---
-title: Cache.SetDefaults
-second_title: .NET API 참조용 Aspose.PSD
-description: Cache 방법. 설정Cache 기본값으로 설정.
+title: "Cache.SetDefaults"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Cache 메서드. Cache 설정을 기본값으로 설정합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.psd/cache/setdefaults/
 ---
+{{< psd/tize >}}
 ## Cache.SetDefaults method
 
-설정[`Cache`](../) 기본값으로 설정.
+[`Cache`](../) 설정을 기본값으로 설정합니다.
 
 ```csharp
 public static void SetDefaults()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Cache](../)
-* 네임스페이스 [Aspose.PSD](../../cache/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class AiLayerSection
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection 수업. Ai 형식 레이어 Section
+title: "클래스 AiLayerSection"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Ai.AiLayerSection 클래스. Ai 형식 레이어 섹션"
 type: docs
-weight: 1270
+weight: 1280
 url: /ko/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
-Ai 형식 레이어 Section
+Ai 형식 레이어 섹션
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -19,29 +20,31 @@ public sealed class AiLayerSection : AiDataSection
 | 이름 | 설명 |
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | 파란색 구성 요소를 가져오거나 설정합니다. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | 색상 번호를 가져오거나 설정합니다. -1은 Red, Green, Blue 속성의 사용자 정의 색상 값입니다. 레이어의 색상 설정을 지정합니다. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | 희미한 값을 백분율로 가져오거나 설정합니다. 레이어에 포함된 연결된 이미지 및 비트맵 이미지의 강도를 지정된 백분율로 줄입니다. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 이 인스턴스가 삭제되었는지 여부를 나타내는 값을 가져옵니다. |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | 색상의 인덱스를 가져오거나 설정합니다. 이 인수는 –1에서 26 사이의 값을 가질 수 있습니다. 각 정수는 사용자 식별을 위해 레이어에 할당될 수 있는 색상을 나타냅니다. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | 색상 번호를 가져오거나 설정합니다. -1은 빨강, 초록, 파랑 속성에서 가져온 사용자 정의 색상 값입니다. 레이어의 색상 설정을 지정합니다. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | 디밍 값을 백분율로 가져오거나 설정합니다. 레이어에 포함된 연결된 이미지와 비트맵 이미지의 강도를 지정된 백분율로 감소시킵니다. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 이 인스턴스가 해제되었는지 여부를 나타내는 값을 가져옵니다. |
 | [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | 녹색 구성 요소를 가져오거나 설정합니다. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | 이 레이어가 흐리게 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다. 레이어에 포함된 연결된 이미지와 비트맵 이미지의 강도를 줄입니다. |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | 이 인스턴스에 다중 레이어 마스크가 있는지 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | 이 레이어가 디밍되었는지 여부를 나타내는 값을 가져오거나 설정합니다. 레이어에 포함된 연결된 이미지와 비트맵 이미지의 강도를 감소시킵니다. |
 | [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | 이 레이어가 잠겨 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 항목에 대한 변경을 방지합니다. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | 이 레이어가 미리보기인지 여부를 나타내는 값을 가져오거나 설정합니다. 레이어에 포함된 아트웍을 윤곽선 대신 컬러로 표시합니다. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | 이 레이어가 인쇄되는지 여부를 나타내는 값을 가져오거나 설정합니다. true인 경우 레이어에 포함된 아트웍을 인쇄 가능하게 만듭니다. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | 이 레이어가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다. true인 경우 아트보드의 레이어에 포함된 모든 아트워크를 표시합니다. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | 이 레이어가 미리보기인지 여부를 나타내는 값을 가져오거나 설정합니다. 레이어에 포함된 아트워크를 윤곽선 대신 색상으로 표시합니다. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | 이 레이어가 인쇄되는지 여부를 나타내는 값을 가져오거나 설정합니다. true인 경우 레이어에 포함된 아트워크를 인쇄 가능하게 합니다. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | 이 레이어가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다. true인 경우 레이어에 포함된 모든 아트워크를 아트보드에 표시합니다. |
 | [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | 이 레이어가 템플릿 레이어인지 여부를 나타내는 값을 가져오거나 설정합니다. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | 레이어 이름을 가져오거나 설정합니다. 레이어 패널에 나타나는 항목의 이름을 지정합니다. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | 레이어 이름을 가져오거나 설정합니다. 레이어 패널에 표시되는 항목의 이름을 지정합니다. |
 | [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | 래스터 이미지를 가져옵니다. |
 | [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | 빨간색 구성 요소를 가져오거나 설정합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | 래스터 이미지를 추가합니다. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 현재 인스턴스를 삭제합니다. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 현재 인스턴스를 해제합니다. |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | 문자열 데이터를 가져옵니다. |
 
-### 예
+## 예제
 
 다음 코드는 AI 형식 파일에서 래스터 이미지 설정을 로드하는 방법을 보여줍니다.
 
@@ -86,10 +89,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AiDataSection](../aidatasection/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

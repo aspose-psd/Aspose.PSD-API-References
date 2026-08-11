@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilters
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters 수업. 의 스마트 필터SmartObjectLayer .
+title: "클래스 SmartFilters"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters 클래스. SmartObjectLayer의 스마트 필터."
 type: docs
-weight: 3470
+weight: 3890
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartFilters class
 
-의 스마트 필터[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
+[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)의 스마트 필터.
 
 ```csharp
 public class SmartFilters
@@ -19,21 +20,21 @@ public class SmartFilters
 | 이름 | 설명 |
 | --- | --- |
 | [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | 스마트 필터를 가져오거나 설정합니다. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | 스마트 필터 마스크의 활성화 상태를 가져옵니다. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | 스마트 필터 마스크의 활성화 여부를 가져옵니다. |
 | [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | 스마트 필터의 마스크 활성화 상태를 가져옵니다. |
-| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | 스마트 필터의 흰색 상태로 확장된 마스크를 가져옵니다. |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | 스마트 필터의 마스크가 흰색으로 확장된 상태를 가져옵니다. |
 | [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | 스마트 필터의 마스크 연결 상태를 가져옵니다. |
-| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | 스마트 필터의 유효한 위치 상태를 가져옵니다. |
+| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | 스마트 필터의 위치에서 유효한 상태를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | 스마트 필터 데이터를[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) . |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/)에 스마트 필터 데이터를 업데이트합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

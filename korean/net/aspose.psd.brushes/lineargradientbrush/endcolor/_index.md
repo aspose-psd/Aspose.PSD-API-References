@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: .NET API 참조용 Aspose.PSD
-description: LinearGradientBrush 재산. 끝 그라데이션 색상을 가져오거나 설정합니다.
+title: "LinearGradientBrush.EndColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LinearGradientBrush 속성. 끝 그라디언트 색상을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
-끝 그라데이션 색상을 가져오거나 설정합니다.
+끝 그라디언트 색상을 가져오거나 설정합니다.
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-종료 그라데이션 색상입니다.
+끝 그라디언트 색상.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

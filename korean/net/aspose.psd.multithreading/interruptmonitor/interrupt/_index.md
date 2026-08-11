@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: .NET API 참조용 Aspose.PSD
-description: InterruptMonitor 방법. 작업 중단 요청을 보냅니다.
+title: "InterruptMonitor.Interrupt"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "InterruptMonitor 메서드. 작업을 중단하도록 요청을 보냅니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.Interrupt method
 
 작업 중단 요청을 보냅니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 public void Interrupt()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [InterruptMonitor](../)
-* 네임스페이스 [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

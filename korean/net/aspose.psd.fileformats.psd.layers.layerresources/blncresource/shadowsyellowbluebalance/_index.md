@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: .NET API 참조용 Aspose.PSD
-description: BlncResource 재산. 그림자 노랑 파랑 균형을 가져오거나 설정합니다.
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlncResource 속성. 그림자 노랑 파랑 균형을 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
-그림자 노랑 파랑 균형을 가져오거나 설정합니다.
+그림자 노란색 파란색 균형을 가져오거나 설정합니다.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-섀도우 옐로우 블루 밸런스.
+그림자 노란 파랑 균형입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [BlncResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

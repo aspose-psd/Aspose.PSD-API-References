@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpMediaManagementPackage 방법. 인스턴스 ID를 설정합니다.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpMediaManagementPackage 메서드. 인스턴스 ID를 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
 인스턴스 ID를 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstancei
 public void SetInstanceId(Guid guid)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | guid | Guid | 고유 식별자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpMediaManagementPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetInstanceId(Guid guid)
 public void SetInstanceId(string guid)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | guid | String | 고유 식별자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpMediaManagementPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

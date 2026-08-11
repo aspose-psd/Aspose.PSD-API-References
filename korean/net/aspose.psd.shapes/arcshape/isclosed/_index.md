@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: .NET API 참조용 Aspose.PSD
-description: ArcShape 재산. 정렬된 모양이 닫혀 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 닫힌 순서 모양을 처리할 때 시작점과 끝점은 의미가 없습니다.
+title: "ArcShape.IsClosed"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ArcShape 속성. 정렬된 도형이 닫혔는지 여부를 나타내는 값을 가져오거나 설정합니다. 닫힌 정렬된 도형을 처리할 때 시작점과 끝점은 의미가 없습니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-정렬된 모양이 닫혀 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 닫힌 순서 모양을 처리할 때 시작점과 끝점은 의미가 없습니다.
+정렬된 도형이 닫혀 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 닫힌 정렬 도형을 처리할 때 시작점과 끝점은 의미가 없습니다.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 이 정렬된 모양이 닫혀 있으면; 그렇지 않으면,`거짓` .
+`True` if this ordered shape is closed; otherwise, `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [ArcShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../arcshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

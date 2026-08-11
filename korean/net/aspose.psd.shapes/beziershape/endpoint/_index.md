@@ -1,11 +1,12 @@
 ---
-title: BezierShape.EndPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: BezierShape 재산. 끝 모양 점을 가져옵니다.
+title: "BezierShape.EndPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BezierShape 속성. 도형의 끝점을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
 끝 모양 점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapes/beziershape/endpoint/
 public override PointF EndPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-끝 모양 점입니다.
+끝 도형 포인트.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../beziershape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

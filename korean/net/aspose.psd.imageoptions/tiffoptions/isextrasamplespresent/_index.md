@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 추가 샘플이 있는지 여부를 나타내는 값을 가져옵니다.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 추가 샘플이 존재하는지 여부를 나타내는 값을 가져옵니다"
 type: docs
-weight: 230
+weight: 240
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-추가 샘플이 있는지 여부를 나타내는 값을 가져옵니다.
+추가 샘플이 존재하는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 추가 샘플이 있는 경우; 그렇지 않으면,`거짓` .
+`true`이면 추가 샘플이 존재합니다; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

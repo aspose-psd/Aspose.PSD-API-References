@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: .NET API 참조용 Aspose.PSD
-description: StringFormat 재산. 가져오거나 설정합니다.HotkeyPrefix 이에 대한 객체StringFormat object.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringFormat 속성. 이 StringFormat 객체에 대한 HotkeyPrefix 객체를 가져오거나 설정합니다."
 type: docs
-weight: 90
+weight: 100
 url: /ko/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-가져오거나 설정합니다.[`HotkeyPrefix`](../../hotkeyprefix/) 이에 대한 객체[`StringFormat`](../) object.
+이 [`StringFormat`](../) 객체에 대한 [`HotkeyPrefix`](../../hotkeyprefix/) 객체를 가져오거나 설정합니다.
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-그만큼[`HotkeyPrefix`](../../hotkeyprefix/) 이에 대한 객체[`StringFormat`](../) 객체, 기본값은None.
+이 [`StringFormat`](../) 객체에 대한 [`HotkeyPrefix`](../../hotkeyprefix/) 객체이며, 기본값은 None입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* 네임스페이스 [Aspose.PSD](../../stringformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

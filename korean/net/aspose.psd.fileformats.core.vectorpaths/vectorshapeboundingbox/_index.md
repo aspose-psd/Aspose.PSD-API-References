@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox 수업. 벡터 모양 경계 상자 클래스를 정의합니다.
+title: "클래스 VectorShapeBoundingBox"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox 클래스. 벡터 형태 경계 상자 클래스를 정의합니다."
 type: docs
-weight: 1430
+weight: 1440
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-벡터 모양 경계 상자 클래스를 정의합니다.
+벡터 형태 경계 상자 클래스를 정의합니다.
 
 ```csharp
 public sealed class VectorShapeBoundingBox
@@ -24,21 +25,22 @@ public sealed class VectorShapeBoundingBox
 
 | 이름 | 설명 |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | 바닥을 가져오거나 설정합니다. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | 모양 경계 상자의 경계를 가져오거나 설정합니다. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | 아래쪽을 가져오거나 설정합니다. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | 형태 경계 상자의 경계를 가져오거나 설정합니다. |
 | [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | 왼쪽을 가져오거나 설정합니다. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | 상자의 모서리를 결정하는 포인트의 단위 유형을 가져오거나 설정합니다. |
 | [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | 단위 값 쿼드 버전을 가져오거나 설정합니다. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | 권한을 가져오거나 설정합니다. |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | 상단을 가져오거나 설정합니다. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | 오른쪽을 가져오거나 설정합니다. |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | 위쪽을 가져오거나 설정합니다. |
 
-### 예
+## 예제
 
-이 예는 모양 레이어와 벡터 경로가 있는 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
+이 예제는 형태 레이어와 벡터 경로가 포함된 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
 
 ```csharp
 [C#]
 
-// 이 예제는 모양 레이어와 벡터 경로가 있는 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
+// 이 예제는 형태 레이어와 벡터 경로가 포함된 PSD 이미지를 로드하고 저장하는 것이 올바르게 작동함을 보여줍니다.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -163,9 +165,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

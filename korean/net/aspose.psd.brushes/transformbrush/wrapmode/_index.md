@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.WrapMode
-second_title: .NET API 참조용 Aspose.PSD
-description: TransformBrush 재산. 가져오거나 설정합니다.WrapMode 이것에 대한 래핑 모드를 나타내는 열거TransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TransformBrush 속성. 이 TransformBrush의 랩 모드를 나타내는 WrapMode 열거형을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-가져오거나 설정합니다.[`WrapMode`](../../../aspose.psd/wrapmode/) 이것에 대한 래핑 모드를 나타내는 열거[`TransformBrush`](../) .
+[`WrapMode`](../../../aspose.psd/wrapmode/) 열거형을 가져오거나 설정합니다. 이는 이 [`TransformBrush`](../)의 랩 모드를 나타냅니다.
 
 ```csharp
 public WrapMode WrapMode { get; set; }
@@ -16,13 +17,13 @@ public WrapMode WrapMode { get; set; }
 
 ### 반환 값
 
-ㅏ[`WrapMode`](../../../aspose.psd/wrapmode/) 이 요소로 칠하는 방법을 지정합니다.[`TransformBrush`](../) 타일입니다.
+이 [`TransformBrush`](../)으로 그린 채우기가 어떻게 타일링되는지를 지정하는 [`WrapMode`](../../../aspose.psd/wrapmode/)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../transformbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetWebStatement
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpRightsManagementPackage 방법. 웹 명세서를 설정합니다.
+title: "XmpRightsManagementPackage.SetWebStatement"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpRightsManagementPackage 메서드. 웹 진술을 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetWebStatement method
 
-웹 명세서를 설정합니다.
+웹 진술을 설정합니다.
 
 ```csharp
 public void SetWebStatement(string webStatementUrl)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| webStatementUrl | String | 웹 명세서 URL입니다. |
+| webStatementUrl | String | 웹 진술 URL입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpRightsManagementPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

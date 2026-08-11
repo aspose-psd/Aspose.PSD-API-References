@@ -1,11 +1,12 @@
 ---
-title: Enum ExifUnit
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifUnit 열거형. exif 단위 열거형.
+title: "열거형 ExifUnit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifUnit 열거형. exif 단위 열거형"
 type: docs
-weight: 960
+weight: 970
 url: /ko/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
 exif 단위 열거형.
@@ -14,7 +15,7 @@ exif 단위 열거형.
 public enum ExifUnit
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
@@ -22,9 +23,9 @@ public enum ExifUnit
 | Inch | `2` | 인치 단위 |
 | Cm | `3` | 미터법 센티미터 단위 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

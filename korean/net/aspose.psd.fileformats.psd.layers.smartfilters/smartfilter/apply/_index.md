@@ -1,28 +1,29 @@
 ---
-title: SmartFilter.Apply
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartFilter 방법. 현재 필터를 입력에 적용RasterImage 이미지.
+title: "SmartFilter.Apply"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartFilter 메서드. 현재 필터를 입력 RasterImage 이미지에 적용합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Apply method
 
-현재 필터를 입력에 적용[`RasterImage`](../../../aspose.psd/rasterimage/) 이미지.
+현재 필터를 입력 [`RasterImage`](../../../aspose.psd/rasterimage/) 이미지에 적용합니다.
 
 ```csharp
 public void Apply(RasterImage rasterImage)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rasterImage | RasterImage | 래스터 이미지입니다. |
+| rasterImage | RasterImage | 래스터 이미지. |
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [SmartFilter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

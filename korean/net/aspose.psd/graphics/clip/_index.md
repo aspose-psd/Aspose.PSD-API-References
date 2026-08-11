@@ -1,11 +1,12 @@
 ---
-title: Graphics.Clip
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 재산. 클립 영역을 가져오거나 설정합니다.
+title: "Graphics.Clip"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 속성. 클립 영역을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
 클립 영역을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/graphics/clip/
 public Region Clip { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-클립 영역입니다.
+클립 영역.
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ImageException
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageException 수업. 이미지 예외입니다.
+title: "클래스 ImageException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.ImageException 클래스. 이미지 예외."
 type: docs
 weight: 500
 url: /ko/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
-이미지 예외입니다.
+이미지 예외.
 
 ```csharp
 public class ImageException : Exception
@@ -18,12 +19,12 @@ public class ImageException : Exception
 
 | 이름 | 설명 |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | 의 새 인스턴스를 초기화합니다.`ImageException` 클래스. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | 의 새 인스턴스를 초기화합니다.`ImageException` 클래스. |
+| [ImageException](imageexception/#constructor)(string) | 새 `ImageException` 클래스 인스턴스를 초기화합니다. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | 새 `ImageException` 클래스 인스턴스를 초기화합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

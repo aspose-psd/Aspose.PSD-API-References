@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadException
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageLoadException 수업. 이미지 로드 예외입니다. 이미지 로딩 중 발생.
+title: "ImageLoadException 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException 클래스. 이미지 로드 예외. 이미지 로드 중에 발생합니다"
 type: docs
 weight: 620
 url: /ko/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-이미지 로드 예외입니다. 이미지 로딩 중 발생.
+이미지 로드 예외. 이미지 로드 중에 발생합니다.
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -18,13 +19,13 @@ public class ImageLoadException : ImageException
 
 | 이름 | 설명 |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | 의 새 인스턴스를 초기화합니다.`ImageLoadException` 클래스. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | 의 새 인스턴스를 초기화합니다.`ImageLoadException` 클래스. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | `ImageLoadException` 클래스의 새 인스턴스를 초기화합니다. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | `ImageLoadException` 클래스의 새 인스턴스를 초기화합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageException](../imageexception/)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

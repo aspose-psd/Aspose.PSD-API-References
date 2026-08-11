@@ -1,24 +1,25 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterCachedImage 방법. 이미지를 회전 뒤집기 또는 회전하고 뒤집습니다.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterCachedImage 메서드. 이미지를 회전 뒤집거나 회전 및 뒤집기를 수행합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
-이미지를 회전, 뒤집기 또는 회전하고 뒤집습니다.
+이미지를 회전하거나 뒤집거나 회전 및 뒤집기를 수행합니다.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | 회전 뒤집기 유형입니다. |
+| rotateFlipType | RotateFlipType | 회전 뒤집기 유형. |
 
-### 예
+## 예제
 
 다음 코드는 이미지를 회전하는 방법을 보여줍니다.
 
@@ -40,11 +41,11 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

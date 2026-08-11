@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 방법. 여부를 테스트합니다.obj 이다Rectangle동일한 위치와 크기의 구조Rectangle구조.
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 메서드. obj가 이 Rectangle 구조와 동일한 위치와 크기를 가진 Rectangle 구조인지 테스트합니다."
 type: docs
 weight: 230
 url: /ko/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-여부를 테스트합니다.*obj* 이다[`Rectangle`](../)동일한 위치와 크기의 구조[`Rectangle`](../)구조.
+테스트: *obj*가 이 [`Rectangle`](../) 구조와 동일한 위치와 크기를 가진 [`Rectangle`](../) 구조인지 확인합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 그만큼Object 테스트합니다. |
+| obj | Object | 테스트할 객체. |
 
 ### 반환 값
 
-이 메서드는 다음과 같은 경우 true를 반환합니다.*obj* 이다[`Rectangle`](../) 구조와 그[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , 그리고[`Height`](../height/) 속성은 이것의 해당 속성과 동일합니다.[`Rectangle`](../) 구조; 그렇지 않으면 거짓입니다.
+이 메서드는 *obj*가 [`Rectangle`](../) 구조이며 그 [`X`](../x/), [`Y`](../y/), [`Width`](../width/), [`Height`](../height/) 속성이 이 [`Rectangle`](../) 구조의 해당 속성과 동일하면 true를 반환하고, 그렇지 않으면 false를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

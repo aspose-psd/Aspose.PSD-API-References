@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 재산. 이 위쪽 가장자리의 y 좌표를 가져오거나 설정합니다.Rectangle구조.
+title: "Rectangle.Top"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 속성. 이 Rectangle 구조체의 상단 가장자리 y좌표를 가져오거나 설정합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-이 위쪽 가장자리의 y 좌표를 가져오거나 설정합니다.[`Rectangle`](../)구조.
+이 [`Rectangle`](../) 구조의 상단 가장자리 y좌표를 가져오거나 설정합니다.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 상단 가장자리의 y 좌표[`Rectangle`](../)구조.
+이 [`Rectangle`](../) 구조의 상단 가장자리 y좌표.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

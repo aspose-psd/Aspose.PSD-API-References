@@ -1,14 +1,15 @@
 ---
-title: Color.ToKnownColor
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 방법. 가져오기KnownColor 이것의 가치Color구조.
+title: "Color.ToKnownColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color 메서드. 이 Color 구조체의 KnownColor 값을 가져옵니다."
 type: docs
 weight: 1600
 url: /ko/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-가져오기[`KnownColor`](../../knowncolor/) 이것의 가치[`Color`](../)구조.
+이 [`Color`](../) 구조체의 [`KnownColor`](../../knowncolor/) 값을 가져옵니다.
 
 ```csharp
 public KnownColor ToKnownColor()
@@ -16,13 +17,13 @@ public KnownColor ToKnownColor()
 
 ### 반환 값
 
-의 요소[`KnownColor`](../../knowncolor/)열거형인 경우[`Color`](../) 다음 중 하나를 사용하여 미리 정의된 색상에서 생성됩니다.[`FromName`](../fromname/) 방법 또는[`FromKnownColor`](../fromknowncolor/) 방법; 그렇지 않으면 0입니다.
+[`KnownColor`](../../knowncolor/) 열거형의 요소이며, [`Color`](../)이 사전 정의된 색을 [`FromName`](../fromname/) 메서드 또는 [`FromKnownColor`](../fromknowncolor/) 메서드를 사용하여 생성된 경우; 그렇지 않으면 0입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 최소 샘플 값을 가져오거나 설정합니다.
+title: "TiffOptions.MinSampleValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 최소 샘플 값을 가져오거나 설정합니다"
 type: docs
-weight: 270
+weight: 280
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MinSampleValue property
 
 최소 샘플 값을 가져오거나 설정합니다.
@@ -14,21 +15,21 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 public ushort[] MinSampleValue { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-최소 샘플 값입니다.
+최소 샘플 값.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | ArgumentNullException | 값 |
-| ArgumentOutOfRangeException | 값;배열 길이는 픽셀당 샘플 수와 일치해야 합니다. |
+| ArgumentOutOfRangeException | value;배열 길이는 픽셀당 샘플 수와 일치해야 합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

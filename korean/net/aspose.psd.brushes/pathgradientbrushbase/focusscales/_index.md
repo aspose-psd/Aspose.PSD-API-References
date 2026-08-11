@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: .NET API 참조용 Aspose.PSD
-description: PathGradientBrushBase 재산. 그래디언트 폴오프의 초점 포인트를 가져오거나 설정합니다.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PathGradientBrushBase 속성. 그라디언트 감소를 위한 초점 포인트를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-그래디언트 폴오프의 초점 포인트를 가져오거나 설정합니다.
+그라디언트 감소를 위한 포커스 포인트를 가져오거나 설정합니다.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`PointF`](../../../aspose.psd/pointf/) 그래디언트 폴오프의 초점 포인트를 나타냅니다.
+그라디언트 감소를 위한 초점 포인트를 나타내는 [`PointF`](../../../aspose.psd/pointf/)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

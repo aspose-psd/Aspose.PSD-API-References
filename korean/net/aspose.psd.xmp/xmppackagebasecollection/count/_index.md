@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackageBaseCollection 재산. 컬렉션의 요소 수를 가져옵니다.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackageBaseCollection 속성. 컬렉션의 요소 수를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
 컬렉션의 요소 수를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/count/
 public int Count { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 컬렉션의 요소 수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackageBaseCollection](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

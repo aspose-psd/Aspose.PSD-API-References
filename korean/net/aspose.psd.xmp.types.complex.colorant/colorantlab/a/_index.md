@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.A
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorantLab 재산. A 구성 요소를 가져오거나 설정합니다.
+title: "ColorantLab.A"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorantLab 속성. A 구성 요소를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
 A 구성 요소를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ A 구성 요소를 가져오거나 설정합니다.
 public int A { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-A 구성요소.
+A 구성 요소입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorantLab](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 재산. 이 항목으로 그린 점선에 사용되는 스타일을 가져오거나 설정합니다.Pen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 속성. 이 Pen으로 그린 점선에 사용되는 스타일을 가져오거나 설정합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-이 항목으로 그린 점선에 사용되는 스타일을 가져오거나 설정합니다.[`Pen`](../) .
+이 [`Pen`](../)으로 그린 점선에 사용되는 스타일을 가져오거나 설정합니다.
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ`DashStyle` 이것은 이것으로 그린 점선에 사용되는 스타일을 나타냅니다.[`Pen`](../).
+이 [`Pen`](../)으로 그린 점선에 사용되는 스타일을 나타내는 `DashStyle`.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 그만큼`DashStyle` 속성이 변경 불가능으로 설정됨[`Pen`](../) , 예를 들어[`Pen`](../) 수업. |
+| ArgumentException | `DashStyle` 속성은 불변 [`Pen`](../)에 설정됩니다. 예를 들어 [`Pen`](../) 클래스가 반환하는 객체와 같습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

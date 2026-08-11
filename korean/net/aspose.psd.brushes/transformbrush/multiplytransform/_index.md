@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.MultiplyTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: TransformBrush 방법. 곱하기Matrix 이것은 이것의 국지적 기하학적 변환을 나타냅니다.LinearGradientBrush 지정된Matrix 지정된Matrix .
+title: "TransformBrush.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TransformBrush 메서드. 지정된 Matrix를 앞에 추가하여 이 LinearGradientBrush의 로컬 기하 변환을 나타내는 Matrix와 곱합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.brushes/transformbrush/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-곱하기[`Matrix`](../../../aspose.psd/matrix/) 이것은 이것의 국지적 기하학적 변환을 나타냅니다.[`LinearGradientBrush`](../../lineargradientbrush/) 지정된[`Matrix`](../../../aspose.psd/matrix/) 지정된[`Matrix`](../../../aspose.psd/matrix/) .
+이 [`LinearGradientBrush`](../../lineargradientbrush/)의 로컬 기하 변환을 나타내는 [`Matrix`](../../../aspose.psd/matrix/)에 지정된 [`Matrix`](../../../aspose.psd/matrix/)를 앞에 추가하여 곱합니다.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| matrix | Matrix | 그만큼[`Matrix`](../../../aspose.psd/matrix/) 기하 변환을 곱합니다. |
+| matrix | Matrix | 기하 변환을 곱할 [`Matrix`](../../../aspose.psd/matrix/). |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../transformbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-곱하기[`Matrix`](../../../aspose.psd/matrix/) 이것은 이것의 국지적 기하학적 변환을 나타냅니다.[`LinearGradientBrush`](../../lineargradientbrush/) 지정된[`Matrix`](../../../aspose.psd/matrix/) 지정된 order.
+이 [`LinearGradientBrush`](../../lineargradientbrush/)의 로컬 기하 변환을 나타내는 [`Matrix`](../../../aspose.psd/matrix/)에 지정된 [`Matrix`](../../../aspose.psd/matrix/)를 지정된 순서대로 곱합니다.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| matrix | Matrix | 그만큼[`Matrix`](../../../aspose.psd/matrix/) 기하 변환을 곱합니다. |
-| order | MatrixOrder | ㅏ[`MatrixOrder`](../../../aspose.psd/matrixorder/) 두 행렬을 곱할 순서를 지정합니다. |
+| matrix | Matrix | 기하 변환을 곱할 [`Matrix`](../../../aspose.psd/matrix/). |
+| order | MatrixOrder | 두 매트릭스를 곱할 순서를 지정하는 [`MatrixOrder`](../../../aspose.psd/matrixorder/). |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../transformbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

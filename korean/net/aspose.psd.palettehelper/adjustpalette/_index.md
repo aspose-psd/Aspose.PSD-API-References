@@ -1,14 +1,15 @@
 ---
-title: Class AdjustPalette
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.PaletteHelper.AdjustPalette 수업. 색상 팔레트 조정 class
+title: "클래스 AdjustPalette"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.PaletteHelper.AdjustPalette 클래스. 색상 팔레트 조정 클래스"
 type: docs
-weight: 5180
+weight: 5670
 url: /ko/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
-색상 팔레트 조정 class
+색상 팔레트 조정 클래스
 
 ```csharp
 public class AdjustPalette
@@ -20,9 +21,9 @@ public class AdjustPalette
 | --- | --- |
 | [AdjustPalette](adjustpalette/)() | 기본 생성자입니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDirectorPhotography
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpDynamicMediaPackage 방법. 촬영 감독을 설정합니다.
+title: "XmpDynamicMediaPackage.SetDirectorPhotography"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpDynamicMediaPackage 메서드. 촬영 감독을 설정합니다"
 type: docs
 weight: 180
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirectorPhotography method
 
 촬영 감독을 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphot
 public void SetDirectorPhotography(string directorPhotography)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| directorPhotography | String | 촬영 감독입니다. |
+| directorPhotography | String | 촬영 감독. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpDynamicMediaPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

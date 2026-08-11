@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Version
-second_title: .NET API 참조용 Aspose.PSD
-description: IPlacedLayerResource 재산. PSD 파일에 배치된 레이어의 버전을 가져옵니다. 일반적으로 35.
+title: "IPlacedLayerResource.Version"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IPlacedLayerResource 속성. 배치된 레이어의 버전을 PSD 파일에서 가져옵니다(보통 35)."
 type: docs
 weight: 200
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Version property
 
-PSD 파일에 배치된 레이어의 버전을 가져옵니다. 일반적으로 3-5.
+PSD 파일에 배치된 레이어의 버전을 가져옵니다. 일반적으로 3-5입니다.
 
 ```csharp
 public int Version { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-배치된 또는 스마트 개체 레이어 버전.
+배치된 레이어 또는 스마트 오브젝트 레이어의 버전입니다.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IPlacedLayerResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

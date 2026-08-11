@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: .NET API 참조용 Aspose.PSD
-description: Font 재산. 글꼴 유형을 가져오거나 설정합니다.
+title: "Font.FontType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Font 속성. 글꼴 유형을 가져오거나 설정합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 글꼴 유형을 가져오거나 설정합니다.
@@ -14,18 +15,18 @@ url: /ko/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 public string FontType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 글꼴 유형입니다.
 
-### 예
+## 예제
 
-트루타입, 유형 1, 개방형 등.
+TrueType, Type 1, Open Type 등.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

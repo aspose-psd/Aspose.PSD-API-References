@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.Create8Bit
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorPaletteHelper 방법. 8비트 색상표를 만듭니다.
+title: "ColorPaletteHelper.Create8Bit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorPaletteHelper 메서드. 8비트 컬러 팔레트를 생성합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/colorpalettehelper/create8bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8Bit method
 
-8비트 색상표를 만듭니다.
+8비트 컬러 팔레트를 생성합니다.
 
 ```csharp
 public static IColorPalette Create8Bit()
@@ -16,13 +17,13 @@ public static IColorPalette Create8Bit()
 
 ### 반환 값
 
-8비트 색상표입니다.
+8비트 컬러 팔레트.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* 네임스페이스 [Aspose.PSD](../../colorpalettehelper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

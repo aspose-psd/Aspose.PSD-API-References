@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: .NET API 참조용 Aspose.PSD
-description: DublinCorePackage 방법. 제목을 추가합니다.
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DublinCorePackage 메서드. 주제를 추가합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
-제목을 추가합니다.
+주제를 추가합니다.
 
 ```csharp
 public void SetSubject(string subject)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| subject | String | 주제. |
+| 주제 | String | 주제입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [DublinCorePackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSubject(string[]) {#setsubject_1}
 
-제목을 추가합니다.
+주제를 추가합니다.
 
 ```csharp
 public void SetSubject(string[] subject)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| subject | String[] | 주제. |
+| 주제 | String[] | 주제입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [DublinCorePackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

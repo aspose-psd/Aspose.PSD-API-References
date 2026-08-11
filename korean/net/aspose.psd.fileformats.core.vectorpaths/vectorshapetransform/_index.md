@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform 수업. 벡터 형상 변환 행렬 정의 class
+title: "클래스 VectorShapeTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform 클래스. 벡터 형태 변환 매트릭스 클래스를 정의합니다."
 type: docs
-weight: 1460
+weight: 1470
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform class
 
-벡터 형상 변환 행렬 정의 class
+벡터 형태 변환 행렬 클래스를 정의합니다
 
 ```csharp
 public sealed class VectorShapeTransform
@@ -18,7 +19,7 @@ public sealed class VectorShapeTransform
 
 | 이름 | 설명 |
 | --- | --- |
-| [VectorShapeTransform](vectorshapetransform/)() | 의 새 인스턴스를 초기화합니다.`VectorShapeTransform` 클래스. |
+| [VectorShapeTransform](vectorshapetransform/)() | 새 인스턴스 `VectorShapeTransform` 클래스를 초기화합니다. |
 
 ## 속성
 
@@ -31,9 +32,9 @@ public sealed class VectorShapeTransform
 | [Yx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yx/) { get; set; } | YX 값을 가져오거나 설정합니다. |
 | [Yy](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yy/) { get; set; } | YY 값을 가져오거나 설정합니다. |
 
-### 예
+## 예제
 
-다음 코드는 벡터 경로가 포함된 모양 레이어의 크기를 조정하는 기능을 보여줍니다.
+다음 코드는 벡터 경로를 포함하는 쉐이프 레이어의 크기를 조정하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -55,29 +56,29 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-이 예제는 PSD 파일에서 FillLayer의 Vogk 리소스에 있는 ShapeOriginSettings의 새 Transform 및 OriginBoxCorners 속성을 가져오고 설정하는 방법을 보여줍니다.
+이 예제는 PSD 파일의 FillLayer에 있는 Vogt 리소스의 ShapeOriginSettings에서 새로운 Transform 및 OriginBoxCorners 속성을 가져오고 설정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
 
 // 이 예제는 새로운 Transform 및 OriginBoxCorners 속성을 가져오고 설정하는 방법을 보여줍니다.
-// PSD 파일에 있는 FillLayer의 Vogk 리소스에 있는 ShapeOriginSettings의
+// PSD 파일의 FillLayer에 있는 Vogt 리소스의 ShapeOriginSettings
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
 VectorShapeOriginSettings originalSetting;
 const int layerIndex = 0;
 
-// 원본 이미지 불러오기
+// 원본 이미지를 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // 읽은 후 어설션
+    // 읽은 후에 검증합니다.
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -90,7 +91,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // 새 속성을 주장
+    // 새 속성을 검증합니다
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // 새 속성 설정
+    // 새 속성을 설정합니다
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -118,19 +119,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // 변경된 속성으로 이 PSD 이미지를 저장합니다.
+    // 변경된 속성을 가진 이 PSD 이미지를 저장합니다.
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// 속성이 변경된 저장된 PSD 이미지를 불러옵니다.
+// 변경된 속성을 가진 저장된 PSD 이미지를 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // 속성이 올바르게 저장 및 로드되었는지 확인 
+    // 속성이 올바르게 저장되고 로드되는지 검증합니다
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -157,7 +158,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -200,9 +201,9 @@ void AssertAreEqual(object actual, object expected)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

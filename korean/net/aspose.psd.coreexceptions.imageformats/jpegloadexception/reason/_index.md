@@ -1,28 +1,29 @@
 ---
-title: JpegLoadException.Reason
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegLoadException 재산. 오류 원인을 가져오거나 설정합니다.
+title: "JpegLoadException.Reason"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegLoadException 속성. 오류의 이유를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.Reason property
 
-오류 원인을 가져오거나 설정합니다.
+오류 이유를 가져오거나 설정합니다.
 
 ```csharp
 public ErrorReason Reason { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-오류 원인.
+오류의 이유입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

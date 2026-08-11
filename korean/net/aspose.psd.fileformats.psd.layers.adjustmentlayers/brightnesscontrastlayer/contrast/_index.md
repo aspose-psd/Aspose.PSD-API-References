@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: .NET API 참조용 Aspose.PSD
-description: BrightnessContrastLayer 재산. 대비를 가져오거나 설정합니다. PS의 경우 대비 범위는 50에서 100입니다. 그러나 우리는 이것을 무시합니다.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BrightnessContrastLayer 속성. 대비를 가져오거나 설정합니다. PS에서 대비의 범위는 50에서 100까지입니다. 하지만 우리는 이를 무시합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-대비를 가져오거나 설정합니다. PS의 경우 대비 범위는 -50에서 +100입니다. 그러나 우리는 이것을 무시합니다.
+대비를 가져오거나 설정합니다. PS에서 대비 범위는 -50에서 +100까지입니다. 하지만 우리는 이를 무시합니다.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-대비.
+그 대비.
 
-### 또한보십시오
+### 또 보기
 
 * class [BrightnessContrastLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

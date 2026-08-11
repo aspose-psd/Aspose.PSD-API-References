@@ -1,44 +1,45 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleShape 건설자. 의 새 인스턴스를 초기화합니다.RectangleShape 클래스.
+title: "RectangleShape.RectangleShape"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleShape 생성자. RectangleShape 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`RectangleShape`](../) 클래스.
+새 인스턴스를 초기화합니다 [`RectangleShape`](../) 클래스.
 
 ```csharp
 public RectangleShape()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [RectangleShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../rectangleshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`RectangleShape`](../) 클래스.
+새 인스턴스를 초기화합니다 [`RectangleShape`](../) 클래스.
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | RectangleF | 직사각형. |
+| 사각형 | RectangleF | 직사각형입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../rectangleshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

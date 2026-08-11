@@ -1,28 +1,29 @@
 ---
-title: PngOptions.ColorType
-second_title: .NET API 참조용 Aspose.PSD
-description: PngOptions 재산. 색상 유형을 가져오거나 설정합니다.
+title: "PngOptions.ColorType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PngOptions 속성. 색상의 유형을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
-색상 유형을 가져오거나 설정합니다.
+색상의 유형을 가져오거나 설정합니다.
 
 ```csharp
 public PngColorType ColorType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-색상 유형입니다.
+색상의 유형.
 
-### 또한보십시오
+### 또 보기
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

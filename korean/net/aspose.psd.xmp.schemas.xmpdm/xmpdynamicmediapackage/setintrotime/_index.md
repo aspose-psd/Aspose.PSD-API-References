@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetIntroTime
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpDynamicMediaPackage 방법. 인트로 시간을 설정합니다.
+title: "XmpDynamicMediaPackage.SetIntroTime"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpDynamicMediaPackage 메서드. 인트로 시간을 설정합니다"
 type: docs
 weight: 250
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetIntroTime method
 
 인트로 시간을 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime/
 public void SetIntroTime(Time introTime)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| introTime | Time | 인트로 시간. |
+| introTime | 시간 | 인트로 시간입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

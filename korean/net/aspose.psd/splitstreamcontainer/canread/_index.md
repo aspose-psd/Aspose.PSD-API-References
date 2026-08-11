@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.CanRead
-second_title: .NET API 참조용 Aspose.PSD
-description: SplitStreamContainer 재산. 스트림이 읽기를 지원하는지 여부를 나타내는 값을 가져옵니다.
+title: "SplitStreamContainer.CanRead"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SplitStreamContainer 속성. 스트림이 읽기를 지원하는지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/splitstreamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanRead property
 
 스트림이 읽기를 지원하는지 여부를 나타내는 값을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/splitstreamcontainer/canread/
 public override bool CanRead { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 스트림이 읽기를 지원하는 경우; 그렇지 않으면,`거짓`.
+스트림이 읽기를 지원하면 `true`; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [SplitStreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../splitstreamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

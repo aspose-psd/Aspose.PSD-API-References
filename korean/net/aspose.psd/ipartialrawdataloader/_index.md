@@ -1,29 +1,30 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.IPartialRawDataLoader 상호 작용. 부분 데이터 로더.
+title: "인터페이스 IPartialRawDataLoader"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.IPartialRawDataLoader 인터페이스. 부분 데이터 로더"
 type: docs
-weight: 4540
+weight: 5010
 url: /ko/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-부분 데이터 로더.
+부분 데이터 로더입니다.
 
 ```csharp
 public interface IPartialRawDataLoader
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | 로드된 데이터를 처리합니다. |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | 로드된 데이터를 처리합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

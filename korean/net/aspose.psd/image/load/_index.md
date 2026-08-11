@@ -1,11 +1,12 @@
 ---
-title: Image.Load
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 지정된 파일에서 새 이미지를 로드합니다.
+title: "Image.Load"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 지정된 파일에서 새 이미지를 로드합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
 지정된 파일에서 새 이미지를 로드합니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd/image/load/
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | filePath | String | 이미지를 로드할 파일 경로입니다. |
 | loadOptions | LoadOptions | 로드 옵션. |
@@ -23,12 +24,12 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 
 로드된 이미지입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,30 +41,30 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 public static Image Load(string filePath)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| filePath | String | 이미지를 로드할 파일 경로. |
+| filePath | String | 이미지를 로드할 파일 경로입니다. |
 
 ### 반환 값
 
 로드된 이미지입니다.
 
-### 예
+## 예제
 
-이 예제는 지정된 파일 경로를 사용하여 기존 이미지 파일을 Aspose.PSD.Image의 인스턴스로 로드하는 방법을 보여줍니다.
+이 예제는 지정된 파일 경로를 사용하여 기존 Image 파일을 Aspose.PSD.Image 인스턴스로 로드하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
 
-//이미지 인스턴스를 생성하고 디스크 위치에서 기존 이미지 파일로 초기화
+//Image 인스턴스를 생성하고 디스크 위치에 있는 기존 이미지 파일로 초기화합니다.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // 일부 이미지 처리 수행
+    //이미지 처리를 수행합니다.
 }
 ```
 
-다음 예제는 오른쪽에서 왼쪽으로 쓰는 언어에 대한 ITextPortion을 통한 텍스트 정렬이 올바르게 작동함을 보여줍니다.
+다음 예제는 오른쪽에서 왼쪽으로 쓰는 언어에 대해 ITextPortion을 통한 텍스트 정렬이 올바르게 작동함을 보여줍니다.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-다음 예는 그레이스케일 16비트 PSD 파일을 RGB 채널당 16비트로 읽고 저장하는 것이 예외 없이 올바르게 작동함을 보여줍니다.
+다음 예제는 16비트 그레이스케일 PSD 파일을 채널당 16비트 RGB로 읽고 저장하는 것이 올바르게 작동하며 예외 없이 수행됨을 보여줍니다.
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // 여기에 예외가 있어서는 안됩니다.
+    // 여기서는 예외가 발생하지 않아야 합니다.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-다음 예는 그레이스케일 16비트 PSD 파일을 채널당 8비트 그레이스케일로 읽고 저장하는 것이 예외 없이 올바르게 작동함을 보여줍니다.
+다음 예제는 16비트 그레이스케일 PSD 파일을 채널당 8비트 그레이스케일로 읽고 저장하는 것이 올바르게 작동하며 예외 없이 수행됨을 보여줍니다.
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // 여기에 예외가 있어서는 안됩니다.
+    // 여기서는 예외가 발생하지 않아야 합니다.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-다음 예는 문서 변환 진행이 예외 없이 올바르게 작동함을 보여줍니다.
+다음 예제는 문서 변환 진행 상황이 올바르게 작동하고 예외 없이 수행됨을 보여줍니다.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-다음 예는 그레이스케일 16비트 PSD 파일 읽기 및 저장이 예외 없이 올바르게 작동함을 보여줍니다.
+다음 예제는 그레이스케일 16비트 PSD 파일을 읽고 저장하는 것이 올바르게 작동하며 예외 없이 수행됨을 보여줍니다.
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // 여기에 예외가 있어서는 안됩니다.
+        // 여기서는 예외가 발생하지 않아야 합니다.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -255,11 +256,11 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -271,21 +272,21 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 이미지를 로드할 스트림입니다. |
+| 스트림 | 스트림 | 이미지를 로드할 스트림입니다. |
 | loadOptions | LoadOptions | 로드 옵션. |
 
 ### 반환 값
 
 로드된 이미지입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -297,36 +298,36 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 public static Image Load(Stream stream)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 이미지를 로드할 스트림입니다. |
+| 스트림 | 스트림 | 이미지를 로드할 스트림입니다. |
 
 ### 반환 값
 
 로드된 이미지입니다.
 
-### 예
+## 예제
 
-이 예제는 System.IO.Stream 개체를 사용하여 기존 이미지 파일을 로드하는 방법을 보여줍니다.
+이 예제는 기존 Image 파일을 로드하기 위해 System.IO.Stream 객체를 사용하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
 
-//FileStream 인스턴스 생성
+//FileStream 인스턴스를 생성합니다.
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
     //Image 클래스의 인스턴스를 생성하고 Load 메서드를 호출하여 FileStream 객체를 통해 기존 파일을 로드합니다.
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        // 일부 이미지 처리를 수행합니다.
+        //이미지 처리를 수행합니다.
     }
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum DataRecoveryMode
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.DataRecoveryMode 열거형. 데이터 복구 모드입니다.
+title: "열거형 DataRecoveryMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.DataRecoveryMode 열거형. 데이터 복구 모드"
 type: docs
-weight: 730
+weight: 740
 url: /ko/net/aspose.psd/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## DataRecoveryMode enumeration
 
 데이터 복구 모드입니다.
@@ -14,17 +15,17 @@ url: /ko/net/aspose.psd/datarecoverymode/
 public enum DataRecoveryMode
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| None | `0` | 데이터 복구가 암시되지 않습니다. 파일 형식에 손상된 데이터가 있을 때마다 적절한 예외가 발생합니다. |
-| ConsistentRecover | `1` | 일관된 복구 모드는 손상으로 인해 파일 형식이 손상되지 않고 올바른 추가 처리가 허용되는 한 모든 데이터 복구를 시도합니다. |
-| MaximalRecover | `2` | 최대 복구 모드는 파일 형식이 손상된 구조를 가지고 있더라도 모든 데이터를 복구하며 추가 처리로 인해 무인 효과가 발생할 수 있습니다. |
+| None | `0` | 데이터 복구가 적용되지 않습니다. 파일 형식에 손상된 데이터가 있을 경우 적절한 예외가 발생합니다. |
+| ConsistentRecover | `1` | 일관된 복구 모드는 손상이 파일 형식을 깨뜨리지 않는 한 모든 데이터를 복구하려고 시도하며, 올바른 후속 처리를 가능하게 합니다. |
+| MaximalRecover | `2` | The maximal recovery mode recovers all data even if the file format has corrupted structure and further processing may yield unattended effects. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

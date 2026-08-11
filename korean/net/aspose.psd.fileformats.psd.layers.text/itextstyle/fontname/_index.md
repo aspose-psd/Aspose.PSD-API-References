@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontName
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 글꼴 이름을 가져오거나 설정합니다.
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 글꼴 이름을 가져오거나 설정합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
 글꼴 이름을 가져오거나 설정합니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 public string FontName { get; set; }
 ```
 
-### 예
+## 예제
 
 다음 코드는 부분 스타일에서 글꼴 이름을 변경하는 기능을 보여줍니다.
 
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

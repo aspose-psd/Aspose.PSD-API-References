@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPacketWrapper 방법. 네임스페이스 URI로 패키지를 가져옵니다.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPacketWrapper 메서드. 네임스페이스 URI로 패키지를 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
 네임스페이스 URI로 패키지를 가져옵니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| namespaceUri | String | 패키지 스키마 URI입니다. |
+| namespaceUri | String | The package schema URI. |
 
 ### 반환 값
 
@@ -24,15 +25,15 @@ public XmpPackage GetPackage(string namespaceUri)
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | ArgumentNullException | namespaceUri |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 방법. 컬렉션을 반복하는 열거자를 반환합니다.
+title: "NonGenericList.GetEnumerator"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 메서드. 컬렉션을 반복하는 열거자를 반환합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
 컬렉션을 반복하는 열거자를 반환합니다.
@@ -16,12 +17,12 @@ public IEnumerator GetEnumerator()
 
 ### 반환 값
 
-안IEnumerator 컬렉션을 반복하는 데 사용할 수 있는 개체입니다.
+컬렉션을 반복하는 데 사용할 수 있는 IEnumerator 객체.
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

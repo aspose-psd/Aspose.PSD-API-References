@@ -1,28 +1,29 @@
 ---
-title: AiImage.Version
-second_title: .NET API 참조용 Aspose.PSD
-description: AiImage 재산. Adobe Illustrator의 버전을 가져옵니다. format
+title: "AiImage.Version"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiImage 속성. Adobe Illustrator 형식의 버전을 가져옵니다"
 type: docs
-weight: 110
+weight: 130
 url: /ko/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-Adobe Illustrator의 버전을 가져옵니다. format
+Adobe Illustrator 형식의 버전을 가져옵니다.
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 버전.
 
-### 또한보십시오
+### 또 보기
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

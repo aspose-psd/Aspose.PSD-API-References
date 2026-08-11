@@ -1,31 +1,32 @@
 ---
-title: Size.Equals
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 지정된 개체가Size 이것과 같은 치수로Size .
+title: "Size.Equals"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 지정된 객체가 이 Size와 동일한 차원을 가진 Size인지 확인합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/size/equals/
 ---
+{{< psd/tize >}}
 ## Size.Equals method
 
-지정된 개체가[`Size`](../) 이것과 같은 치수로[`Size`](../) .
+지정된 객체가 이 [`Size`](../)와 동일한 차원을 가진 [`Size`](../)인지 확인합니다.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| obj | Object | 그만큼Object 테스트합니다. |
+| obj | Object | 테스트할 객체. |
 
 ### 반환 값
 
-참이면*obj* 이다[`Size`](../) 너비와 높이는 이것과 동일합니다.[`Size`](../); 그렇지 않으면 거짓입니다.
+*obj*가 [`Size`](../)이며 이 [`Size`](../)와 같은 너비와 높이를 가지고 있으면 True; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: .NET API 참조용 Aspose.PSD
-description: DataStreamSupporter 재산. 개체의 데이터가 현재 캐시되어 있고 데이터 읽기가 필요하지 않은지 여부를 나타내는 값을 가져옵니다.
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DataStreamSupporter 속성. 현재 객체 데이터가 캐시되어 있어 데이터 읽기가 필요 없는지를 나타내는 값을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-개체의 데이터가 현재 캐시되어 있고 데이터 읽기가 필요하지 않은지 여부를 나타내는 값을 가져옵니다.
+객체의 데이터가 현재 캐시되어 있어 데이터 읽기가 필요하지 않은지를 나타내는 값을 가져옵니다.
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 개체의 데이터가 캐시된 경우; 그렇지 않으면,`거짓` .
+`true`이면 객체 데이터가 캐시된 경우; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [DataStreamSupporter](../)
-* 네임스페이스 [Aspose.PSD](../../datastreamsupporter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 
