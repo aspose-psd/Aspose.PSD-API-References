@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает тип аудиоканала.
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает тип аудио‑канала"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
 Устанавливает тип аудиоканала.
@@ -16,13 +17,13 @@ public void SetAudioChannelType(AudioChannelType audioChannelType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| audioChannelType | AudioChannelType | Тип аудиоканала. |
+| audioChannelType | AudioChannelType | Тип аудио‑канала. |
 
-### Смотрите также
+### См. также
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

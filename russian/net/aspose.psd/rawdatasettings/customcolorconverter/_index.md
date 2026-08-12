@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataSettings свойство. Получает или задает пользовательский конвертер цветов
+title: "RawDataSettings.CustomColorConverter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RawDataSettings. Получает или задает пользовательский конвертер цветов."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/rawdatasettings/customcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.CustomColorConverter property
 
 Получает или задает пользовательский конвертер цветов
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/rawdatasettings/customcolorconverter/
 public IColorConverter CustomColorConverter { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пользовательский преобразователь цветов
+Пользовательский конвертер цветов.
 
-### Смотрите также
+### См. также
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* пространство имен [Aspose.PSD](../../rawdatasettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

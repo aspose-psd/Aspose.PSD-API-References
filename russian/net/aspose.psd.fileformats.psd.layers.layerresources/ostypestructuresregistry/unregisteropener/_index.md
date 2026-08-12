@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.UnregisterOpener
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructuresRegistry метод. Отменяет регистрацию открывателя.
+title: "OSTypeStructuresRegistry.UnregisterOpener"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод OSTypeStructuresRegistry. Отменяет регистрацию открывателя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.UnregisterOpener method
 
 Отменяет регистрацию открывателя.
@@ -18,11 +19,11 @@ public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 | --- | --- | --- |
 | openerDescriptor | IOSTypeStructureLoader | Дескриптор открывателя для отмены регистрации. |
 
-### Смотрите также
+### См. также
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

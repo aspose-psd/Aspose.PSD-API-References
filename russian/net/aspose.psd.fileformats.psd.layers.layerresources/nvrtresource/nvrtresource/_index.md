@@ -1,30 +1,31 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: NvrtResource строитель. Инициализирует новый экземплярNvrtResource класс.
+title: "NvrtResource.NvrtResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор NvrtResource. Инициализирует новый экземпляр класса NvrtResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-Инициализирует новый экземпляр[`NvrtResource`](../) класс.
+Инициализирует новый экземпляр класса [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [NvrtResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`NvrtResource`](../) класс.
+Инициализирует новый экземпляр класса [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource(byte[] data)
@@ -32,7 +33,7 @@ public NvrtResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -40,10 +41,10 @@ public NvrtResource(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимые данные NvrtResource. |
 
-### Смотрите также
+### См. также
 
 * class [NvrtResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

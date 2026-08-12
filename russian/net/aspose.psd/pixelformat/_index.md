@@ -1,34 +1,35 @@
 ---
-title: Enum PixelFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.PixelFormat перечисление. Фактическое значение формата данных пикселей.
+title: "Перечисление PixelFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.PixelFormat. Фактическое значение формата пиксельных данных"
 type: docs
-weight: 5240
+weight: 5730
 url: /ru/net/aspose.psd/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelFormat enumeration
 
-Фактическое значение формата данных пикселей.
+Фактическое значение формата пиксельных данных.
 
 ```csharp
 public enum PixelFormat
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Grayscale | `0` | Цветовое пространство оттенков серого |
-| Bgr | `1` | Цветовое пространство BGR. |
+| Grayscale | `0` | Пространство цветов градаций серого |
+| Bgr | `1` | Пространство цветов BGR. |
 | Rgb | `2` | Цветовое пространство RGB. |
-| YCbCr | `3` | Цветовое пространство YCbCr. |
+| YCbCr | `3` | Пространство цветов YCbCr. |
 | Cmyk | `4` | Цветовое пространство CMYK. |
-| Ycck | `5` | Цветовое пространство YCCK. |
-| CieLab | `6` | Цветовое пространство лаборатории CIE. |
+| Ycck | `5` | Пространство цветов YCCK. |
+| CieLab | `6` | Пространство цветов CIE Lab. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

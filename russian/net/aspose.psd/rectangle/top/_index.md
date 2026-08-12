@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle свойство. Получает или задает координату y верхнего края этогоRectangleструктура.
+title: "Rectangle.Top"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rectangle. Получает или задает координату y верхнего края этой структуры Rectangle."
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-Получает или задает координату y верхнего края этого[`Rectangle`](../)структура.
+Получает или задает координату y верхнего края этой структуры [`Rectangle`](../).
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Y-координата верхнего края этого[`Rectangle`](../)структура.
+Координата y верхнего края этой структуры [`Rectangle`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

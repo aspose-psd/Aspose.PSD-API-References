@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Prefix
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage свойство. Получает префикс.
+title: "XmpPackage.Prefix"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpPackage. Получает префикс"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
 Получает префикс.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp/xmppackage/prefix/
 public string Prefix { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Префикс.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.Resources
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает ресурсы слоя.
+title: "Layer.Resources"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает ресурсы слоя."
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/resources/
 ---
+{{< psd/tize >}}
 ## Layer.Resources property
 
 Получает или задает ресурсы слоя.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/resources/
 public LayerResource[] Resources { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ресурсы слоя.
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../layerresource/)
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Color.op_Equality
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. Проверяет являются ли два указанныхColorструктуры эквивалентны.
+title: "Color.op_Equality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Проверяет, эквивалентны ли две указанные структуры Color"
 type: docs
-weight: 1620
+weight: 1640
 url: /ru/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-Проверяет, являются ли два указанных[`Color`](../)структуры эквивалентны.
+Проверяет, эквивалентны ли две указанные структуры [`Color`](../).
 
 ```csharp
 public static bool operator ==(Color left, Color right)
@@ -16,17 +17,17 @@ public static bool operator ==(Color left, Color right)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Color | [`Color`](../) слева от оператора равенства. |
-| right | Color | [`Color`](../) то есть справа от оператора равенства. |
+| left | Color | Элемент [`Color`](../), находящийся слева от оператора равенства. |
+| right | Color | Элемент [`Color`](../), находящийся справа от оператора равенства. |
 
 ### Возвращаемое значение
 
-Правда, если два[`Color`](../) структуры равны; в противном случае ложно.
+Истина, если две структуры [`Color`](../) равны; иначе — ложь.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions метод. Удаляет тег.
+title: "TiffOptions.RemoveTag"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffOptions. Удаляет тег"
 type: docs
-weight: 740
+weight: 750
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 Удаляет тег.
@@ -16,17 +17,17 @@ public bool RemoveTag(TiffTags tag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tag | TiffTags | Тег для удаления. |
+| тег | TiffTags | Тег для удаления. |
 
 ### Возвращаемое значение
 
-true, если успешно удалено
+true, если успешно удалён
 
-### Смотрите также
+### См. также
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

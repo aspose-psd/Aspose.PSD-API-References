@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ResouceBlockSignature
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock поле. Обычная подпись ресурса Photoshop.
+title: "ResourceBlock.ResouceBlockSignature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ResourceBlock. Обычная подпись ресурса Photoshop"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockSignature field
 
 Обычная подпись ресурса Photoshop.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/
 public const int ResouceBlockSignature;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.ToCmykIccBytes
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColorHelper метод. Преобразует RGB в CMYK с использованием пользовательских профилей ICC.
+title: "CmykColorHelper.ToCmykIccBytes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColorHelper. Преобразует RGB в CMYK с использованием пользовательских ICC профилей"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/cmykcolorhelper/tocmykiccbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykIccBytes method
 
-Преобразует RGB в CMYK с использованием пользовательских профилей ICC.
+Преобразует RGB в CMYK с использованием пользовательских ICC профилей.
 
 ```csharp
 public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, Stream rgbIccStream, 
@@ -17,20 +18,20 @@ public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, St
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pixels | Int32[] | Цвета RGB представлены в виде 32-битных целых чисел. |
-| startIndex | Int32 | Начальный индекс цвета RGB. |
-| length | Int32 | Количество пикселей RGB для преобразования. |
+| пиксели | Int32[] | RGB‑цвета представлены в виде 32‑битных целочисленных значений. |
+| startIndex | Int32 | Начальный индекс RGB‑цвета. |
+| длина | Int32 | Количество RGB‑пикселей для преобразования. |
 | rgbIccStream | Stream | Поток профиля RGB. |
 | cmykIccStream | Stream | Поток профиля CMYK. |
 
 ### Возвращаемое значение
 
-Цвета CMYK представлены в виде массива байтов.
+CMYK‑цвета представлены в виде массива байтов.
 
-### Смотрите также
+### См. также
 
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

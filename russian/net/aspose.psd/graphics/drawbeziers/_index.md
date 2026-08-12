@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawBeziers
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Рисует серию сплайнов Безье из массиваPoint структуры.
+title: "Graphics.DrawBeziers"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Рисует серию сплайнов Безье из массива структур Point."
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/aspose.psd/graphics/drawbeziers/
 ---
+{{< psd/tize >}}
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-Рисует серию сплайнов Безье из массива[`Point`](../../point/) структуры.
+Рисует серию сплайнов Безье из массива структур [`Point`](../../point/).
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
@@ -16,28 +17,28 @@ public void DrawBeziers(Pen pen, Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль кривой. |
-| points | Point[] | Массив[`Point`](../../point/)структуры, представляющие точки, определяющие кривую. |
+| pen | Pen | [`Pen`](../../pen/) определяет цвет, ширину и стиль кривой. |
+| points | Point[] | Массив структур [`Point`](../../point/), представляющих точки, определяющие кривую. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen* равно null. -или- *points* нулевой. |
+| ArgumentNullException | *pen* равно null. -or- *points* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-Рисует серию сплайнов Безье из массива[`PointF`](../../pointf/) структуры.
+Рисует серию сплайнов Безье из массива структур [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
@@ -45,21 +46,21 @@ public void DrawBeziers(Pen pen, PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль кривой. |
-| points | PointF[] | Массив[`PointF`](../../pointf/)структуры, представляющие точки, определяющие кривую. |
+| pen | Pen | [`Pen`](../../pen/) определяет цвет, ширину и стиль кривой. |
+| points | PointF[] | Массив структур [`PointF`](../../pointf/), представляющих точки, определяющие кривую. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen* равно null. -или- *points* нулевой. |
+| ArgumentNullException | *pen* равно null. -or- *points* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

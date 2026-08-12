@@ -1,30 +1,31 @@
 ---
-title: Thumbnail.Thumbnail
-second_title: Справочник по Aspose.PSD для .NET API
-description: Thumbnail строитель. Инициализирует новый экземплярThumbnail класс.
+title: "Thumbnail.Thumbnail"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Thumbnail. Инициализирует новый экземпляр класса Thumbnail"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail() {#constructor}
 
-Инициализирует новый экземпляр[`Thumbnail`](../) класс.
+Инициализирует новый экземпляр класса [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Thumbnail](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Thumbnail(int, int) {#constructor_1}
 
-Инициализирует новый экземпляр[`Thumbnail`](../) класс.
+Инициализирует новый экземпляр класса [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail(int width, int height)
@@ -35,10 +36,10 @@ public Thumbnail(int width, int height)
 | width | Int32 | Ширина. |
 | height | Int32 | Высота. |
 
-### Смотрите также
+### См. также
 
 * class [Thumbnail](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Справочник по Aspose.PSD для .NET API
-description: FillLayer метод. Обновляет данные пикселей слоя заливки в соответствии с фактическимиIFillSettings .
+title: "FillLayer.Update"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FillLayer. Обновляет пиксельные данные слоя заполнения на основе текущих IFillSettings."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Обновляет данные пикселей слоя заливки в соответствии с фактическими[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Обновляет пиксельные данные слоя заполнения на основе текущих [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
 
 ```csharp
 public void Update()
@@ -18,16 +19,16 @@ public void Update()
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Неизвестный тип FillType |
+| ArgumentOutOfRangeException | Выбрасывается, когда встречается неизвестный FillType. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку слоев заливки: Заливка цветом.
+Следующий код демонстрирует поддержку слоёв Fill: Color fill.
 
 ```csharp
 [C#]
 
-// Добавляем поддержку слоев заливки: Заливка цветом
+// Добавьте поддержку слоёв Fill: Color fill.
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Следующий код сохраняет изображения с другим типом градиента и показывает, как Aspose.PSD рисует градиент.
+В следующем коде сохраняются изображения с разными типами градиента и показывается, как Aspose.PSD рисует градиент.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Следующий код сохраняет изображения со слоем заливки шаблона и демонстрирует, как Aspose.PSD отображает шаблон.
+Следующий код сохраняет изображения с шаблонным слоем Fill Layer и демонстрирует, как Aspose.PSD рендерит шаблон.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FillLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

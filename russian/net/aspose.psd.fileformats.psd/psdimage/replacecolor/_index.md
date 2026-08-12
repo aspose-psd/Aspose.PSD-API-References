@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ReplaceColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфаканала для сохранения сглаженных краев.
+title: "PsdImage.ReplaceColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage метод. Заменяет один цвет на другой с допустимой разницей и сохраняет исходное значение альфа для сохранения плавных краёв"
 type: docs
-weight: 570
+weight: 630
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceColor method
 
-Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфа-канала для сохранения сглаженных краев.
+Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфа‑канала, чтобы сохранить плавные края.
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
@@ -16,14 +17,14 @@ public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newCo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| oldColorArgb | Int32 | Старое значение цвета ARGB, подлежащее замене. |
-| oldColorDiff | Byte | Допускается разница в старом цвете, чтобы можно было расширить замененный цветовой тон. |
-| newColorArgb | Int32 | Новое значение цвета ARGB для замены старого цвета. |
+| oldColorArgb | Int32 | Значение ARGB старого цвета, которое будет заменено. |
+| oldColorDiff | Byte | Допустимая разница в старом цвете, позволяющая расширить тон заменяемого цвета. |
+| newColorArgb | Int32 | Значение ARGB нового цвета, которым заменяется старый цвет. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

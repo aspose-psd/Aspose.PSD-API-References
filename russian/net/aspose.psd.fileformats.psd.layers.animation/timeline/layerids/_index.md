@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LayerIds
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeLine свойство. Получает или задает массив идентификаторов слоев.
+title: "TimeLine.LayerIds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TimeLine. Возвращает или задает массив идентификаторов слоёв"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/timeline/layerids/
 ---
+{{< psd/tize >}}
 ## TimeLine.LayerIds property
 
-Получает или задает массив идентификаторов слоев.
+Возвращает или задает массив идентификаторов слоёв.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TimeLine](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

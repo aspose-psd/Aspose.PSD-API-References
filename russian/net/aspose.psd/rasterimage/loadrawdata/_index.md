@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadRawData
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Загружает необработанные данные.
+title: "RasterImage.LoadRawData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Загружает необработанные данные"
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/aspose.psd/rasterimage/loadrawdata/
 ---
+{{< psd/tize >}}
 ## LoadRawData(Rectangle, RawDataSettings, IPartialRawDataLoader) {#loadrawdata}
 
 Загружает необработанные данные.
@@ -17,18 +18,18 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, из которого загружаются необработанные данные. |
-| rawDataSettings | RawDataSettings | Параметры необработанных данных, используемые для загруженных данных. Обратите внимание, что если данные не в указанном формате, будет выполнено преобразование данных. |
+| прямоугольник | Rectangle | Прямоугольник, из которого загружаются необработанные данные. |
+| rawDataSettings | RawDataSettings | Настройки необработанных данных, используемые для загруженных данных. Обратите внимание, что если данные не соответствуют указанному формату, будет выполнено их преобразование. |
 | rawDataLoader | IPartialRawDataLoader | Загрузчик необработанных данных. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,18 +44,18 @@ public void LoadRawData(Rectangle rectangle, Rectangle destImageBounds,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, из которого загружаются необработанные данные. |
-| destImageBounds | Rectangle | Границы конечного изображения. |
-| rawDataSettings | RawDataSettings | Параметры необработанных данных, используемые для загруженных данных. Обратите внимание, что если данные не в указанном формате, будет выполнено преобразование данных. |
+| прямоугольник | Rectangle | Прямоугольник, из которого загружаются необработанные данные. |
+| destImageBounds | Rectangle | Границы целевого изображения. |
+| rawDataSettings | RawDataSettings | Настройки необработанных данных, используемые для загруженных данных. Обратите внимание, что если данные не соответствуют указанному формату, будет выполнено их преобразование. |
 | rawDataLoader | IPartialRawDataLoader | Загрузчик необработанных данных. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

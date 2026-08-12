@@ -1,36 +1,15 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Гаммакоррекция изображения.
+title: "RasterImage.AdjustGamma"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Гамма‑коррекция изображения."
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Гамма-коррекция изображения.
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| gammaRed | Single | Гамма для коэффициента красного канала |
-| gammaGreen | Single | Гамма коэффициента зеленого канала |
-| gammaBlue | Single | Гамма коэффициента синего канала |
-
-### Смотрите также
-
-* class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-Гамма-коррекция изображения.
+Гамма‑коррекция изображения.
 
 ```csharp
 public virtual void AdjustGamma(float gamma)
@@ -38,12 +17,34 @@ public virtual void AdjustGamma(float gamma)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gamma | Single | Коэффициент гаммы для красного, зеленого и синего каналов |
+| гамма | Single | Коэффициент гаммы для каналов красного, зелёного и синего |
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Гамма‑коррекция изображения.
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| gammaRed | Single | Коэффициент гаммы для канала красного |
+| gammaGreen | Single | Коэффициент гаммы для канала зелёного |
+| gammaBlue | Single | Коэффициент гаммы для канала синего |
+
+### См. также
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

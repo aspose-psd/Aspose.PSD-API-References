@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает производителя сканера.
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает производителя сканера"
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
 Получает или задает производителя сканера.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 public string ScannerManufacturer { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Производитель сканера.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

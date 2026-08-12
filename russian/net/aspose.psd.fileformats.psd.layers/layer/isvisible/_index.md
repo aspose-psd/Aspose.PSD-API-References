@@ -1,26 +1,27 @@
 ---
-title: Layer.IsVisible
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает значение указывающее виден ли слой
+title: "Layer.IsVisible"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задаёт значение, указывающее, видим ли слой"
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/isvisible/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisible property
 
-Получает или задает значение, указывающее, виден ли слой
+Получает или задает значение, указывающее, видим ли слой
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр виден; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр видим; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно изменить видимость LayerGroup в Aspose.PSD.
+В следующем примере демонстрируется, как изменить видимость LayerGroup в Aspose.PSD
 
 ```csharp
 [C#]
@@ -28,14 +29,14 @@ public bool IsVisible { get; set; }
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// вносим изменения в имена слоев и сохраняем их
+// внесите изменения в имена слоёв и сохраните их
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // Отключаем все внутри группы
+        // Отключить всё внутри группы
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -46,10 +47,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

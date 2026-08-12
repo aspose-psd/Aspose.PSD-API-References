@@ -1,30 +1,31 @@
 ---
-title: Enum CacheType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CacheType перечисление. Указывает тип кэша для использования.
+title: "Перечисление CacheType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.CacheType. Указывает тип кеша, который следует использовать"
 type: docs
 weight: 250
 url: /ru/net/aspose.psd/cachetype/
 ---
+{{< psd/tize >}}
 ## CacheType enumeration
 
-Указывает тип кэша для использования.
+Указывает тип кэша, который следует использовать.
 
 ```csharp
 public enum CacheType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Auto | `0` | Определяет тип автоматического кэширования. Схема автоматического кэширования сначала попытается кэшировать в памяти, а затем на диске. |
-| CacheOnDiskOnly | `1` | Только кэш диска. |
-| CacheInMemoryOnly | `2` | Только кеш в памяти. |
+| Auto | `0` | Указывает автоматический тип кеша. Автоматическая схема кеширования сначала попытается кешировать в памяти, затем на диске. |
+| CacheOnDiskOnly | `1` | Только дисковый кеш. |
+| CacheInMemoryOnly | `2` | Только кэш в памяти. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

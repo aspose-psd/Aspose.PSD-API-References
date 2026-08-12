@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MinL
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantLab поле. Минимальное значение компонента L
+title: "ColorantLab.MinL"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ColorantLab. Минимальное значение компонента L"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinL field
 
 Минимальное значение компонента L
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minl/
 public const float MinL;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorantLab](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

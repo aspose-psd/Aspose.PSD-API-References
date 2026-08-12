@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.Item
-second_title: Справочник по Aspose.PSD для .NET API
-description: LnkeResource свойство. ПолучаетLiFeDataSource по указанному индексу.
+title: "LnkeResource.Item"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LnkeResource. Возвращает LiFeDataSource по указанному индексу"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-Получает[`LiFeDataSource`](../../lifedatasource/) по указанному индексу.
+Возвращает [`LiFeDataSource`](../../lifedatasource/) по указанному индексу.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
@@ -20,17 +21,17 @@ public LiFeDataSource this[int index] { get; }
 
 ### Возвращаемое значение
 
-[`LiFeDataSource`](../../lifedatasource/) экземпляр.
+Экземпляр [`LiFeDataSource`](../../lifedatasource/).
 
-### Стоимость имущества
+### Property Value
 
-[`LiFeDataSource`](../../lifedatasource/) .
+[`LiFeDataSource`](../../lifedatasource/).
 
-### Смотрите также
+### См. также
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

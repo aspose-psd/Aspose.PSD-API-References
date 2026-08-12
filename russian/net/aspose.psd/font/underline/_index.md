@@ -1,27 +1,28 @@
 ---
-title: Font.Underline
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает значение указывающее является ли этоFont подчеркнуто.
+title: "Font.Underline"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Возвращает значение, указывающее, подчёркнут ли этот Font"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/font/underline/
 ---
+{{< psd/tize >}}
 ## Font.Underline property
 
-Получает значение, указывающее, является ли это[`Font`](../) подчеркнуто.
+Получает значение, указывающее, подчеркнут ли этот [`Font`](../).
 
 ```csharp
 public bool Underline { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правда, если это[`Font`](../) подчеркнуто; в противном случае ложно.
+True, если этот [`Font`](../) подчеркнут; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

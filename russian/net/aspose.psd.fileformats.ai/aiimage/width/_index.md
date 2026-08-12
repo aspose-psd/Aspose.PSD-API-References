@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage свойство. Получает ширину изображения.
+title: "AiImage.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiImage. Возвращает ширину изображения"
 type: docs
-weight: 120
+weight: 140
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 Получает ширину изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/aiimage/width/
 public override int Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина изображения.
 
-### Смотрите также
+### См. также
 
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

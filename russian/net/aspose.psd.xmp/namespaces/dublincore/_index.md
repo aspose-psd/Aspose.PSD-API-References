@@ -1,23 +1,24 @@
 ---
-title: Namespaces.DublinCore
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Пространство имен дублированного ядра.
+title: "Namespaces.DublinCore"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Пространство имён Dublic Core"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/namespaces/dublincore/
 ---
+{{< psd/tize >}}
 ## Namespaces.DublinCore field
 
-Пространство имен дублированного ядра.
+Пространство имён Dublic Core.
 
 ```csharp
 public const string DublinCore;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

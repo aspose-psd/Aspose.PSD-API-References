@@ -1,28 +1,29 @@
 ---
-title: TiffDataType.TagId
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffDataType свойство. Получает идентификатор тега.
+title: "TiffDataType.TagId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffDataType свойство. Возвращает идентификатор тега"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
-Получает идентификатор тега.
+Возвращает идентификатор тега.
 
 ```csharp
 public TiffTags TagId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор тега.
 
-### Смотрите также
+### См. также
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

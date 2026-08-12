@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock свойство. Получает или задает имя ресурса. Строка Паскаля дополненная чтобы сделать размер четным нулевое имя состоит из двух байтов 0.
+title: "ResourceBlock.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock свойство. Получает или задает имя ресурса. Строка Pascal, дополненная до чётного размера; нулевое имя состоит из двух байтов 0"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/name/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Name property
 
-Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0).
+Получает или задает имя ресурса. Паскаль-строка, дополненная до чётного размера (пустое имя состоит из двух байтов 0).
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя ресурса.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

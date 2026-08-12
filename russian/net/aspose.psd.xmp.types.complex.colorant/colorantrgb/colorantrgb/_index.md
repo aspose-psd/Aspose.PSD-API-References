@@ -1,30 +1,31 @@
 ---
-title: ColorantRgb.ColorantRgb
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantRgb строитель. Инициализирует новый экземплярColorantRgb класс.
+title: "ColorantRgb.ColorantRgb"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ColorantRgb. Инициализирует новый экземпляр класса ColorantRgb"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb() {#constructor}
 
-Инициализирует новый экземпляр[`ColorantRgb`](../) класс.
+Инициализирует новый экземпляр класса [`ColorantRgb`](../).
 
 ```csharp
 public ColorantRgb()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorantRgb](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantRgb(byte, byte, byte) {#constructor_1}
 
-Инициализирует новый экземпляр[`ColorantRgb`](../) класс.
+Инициализирует новый экземпляр класса [`ColorantRgb`](../).
 
 ```csharp
 public ColorantRgb(byte red, byte green, byte blue)
@@ -32,14 +33,14 @@ public ColorantRgb(byte red, byte green, byte blue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| red | Byte | Значение красного компонента. |
-| green | Byte | Значение зеленого компонента. |
-| blue | Byte | Значение синего компонента. |
+| красный | Byte | Значение красного компонента. |
+| зеленый | Byte | Значение зеленого компонента. |
+| синий | Byte | Значение синего компонента. |
 
-### Смотрите также
+### См. также
 
 * class [ColorantRgb](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

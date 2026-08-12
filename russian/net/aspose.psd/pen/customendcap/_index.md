@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задает пользовательскую заглушку для использования в конце строк нарисованных с помощью этогоPen .
+title: "Pen.CustomEndCap"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задает пользовательский концевой элемент, используемый в конце линий, нарисованных этим Pen"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Получает или задает пользовательскую заглушку для использования в конце строк, нарисованных с помощью этого[`Pen`](../) .
+Получает или задает пользовательский концевой элемент, используемый в конце линий, нарисованных этим [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`CustomLineCap`](../../customlinecap/) который представляет собой колпачок, используемый в конце линий, нарисованных с помощью этого[`Pen`](../).
+Объект [`CustomLineCap`](../../customlinecap/), представляющий концевой элемент, используемый в конце линий, нарисованных этим [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `CustomEndCap` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `CustomEndCap` устанавливается для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

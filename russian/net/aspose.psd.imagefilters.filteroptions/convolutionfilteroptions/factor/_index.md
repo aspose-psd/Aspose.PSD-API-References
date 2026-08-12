@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: Справочник по Aspose.PSD для .NET API
-description: ConvolutionFilterOptions свойство. Получает или задает фактор.
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ConvolutionFilterOptions. Получает или задает коэффициент"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
-Получает или задает фактор.
+Получает или задает factor.
 
 ```csharp
 public double Factor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Фактор.
+Коэффициент.
 
-### Смотрите также
+### См. также
 
 * class [ConvolutionFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

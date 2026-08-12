@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает или задает угол в градусах.
+title: "OuterGlowEffect.Intensity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "OuterGlowEffect свойство. Получает или задает угол в градусах"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
 Получает или задает угол в градусах.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/inte
 public int Intensity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Угол.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку OuterGlowEffect.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

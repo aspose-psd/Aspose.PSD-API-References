@@ -1,11 +1,12 @@
 ---
-title: Font.FontFamily
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает семейство шрифтов.
+title: "Font.FontFamily"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Получает или задает семейство шрифтов"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 ---
+{{< psd/tize >}}
 ## Font.FontFamily property
 
 Получает или задает семейство шрифтов.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 public string FontFamily { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Семейство шрифтов.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

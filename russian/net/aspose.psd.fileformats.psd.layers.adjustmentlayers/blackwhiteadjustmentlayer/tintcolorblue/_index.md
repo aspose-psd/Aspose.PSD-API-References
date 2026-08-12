@@ -1,24 +1,25 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorBlue
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlackWhiteAdjustmentLayer свойство. Получает или задает двойное значение цвета синего оттенка.
+title: "BlackWhiteAdjustmentLayer.TintColorBlue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlackWhiteAdjustmentLayer. Получает или задает двойное значение синего оттенка цвета."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorblue/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorBlue property
 
-Получает или задает двойное значение цвета синего оттенка.
+Получает или задает двойное значение Blue Tint Color.
 
 ```csharp
 public double TintColorBlue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Двойное значение цвета синего оттенка.
+Двойное значение синего оттенка цвета.
 
-### Примеры
+## Примеры
 
 В следующем примере показано, как редактировать BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Проверка редактирования и сохранения
+                // Тестовое редактирование и сохранение
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlackWhiteAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

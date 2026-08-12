@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Offset
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF метод. Изменяет положение этого прямоугольника на указанную величину.
+title: "RectangleF.Offset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleF метод. Смещает положение этого прямоугольника на указанную величину"
 type: docs
 weight: 240
 url: /ru/net/aspose.psd/rectanglef/offset/
 ---
+{{< psd/tize >}}
 ## Offset(PointF) {#offset}
 
-Изменяет положение этого прямоугольника на указанную величину.
+Изменяет расположение этого прямоугольника на указанную величину.
 
 ```csharp
 public void Offset(PointF pos)
@@ -16,20 +17,20 @@ public void Offset(PointF pos)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pos | PointF | Сумма для компенсации местоположения. |
+| pos | PointF | Величина смещения положения. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(float, float) {#offset_1}
 
-Изменяет положение этого прямоугольника на указанную величину.
+Изменяет расположение этого прямоугольника на указанную величину.
 
 ```csharp
 public void Offset(float x, float y)
@@ -37,13 +38,13 @@ public void Offset(float x, float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Величина смещения местоположения по горизонтали. |
-| y | Single | Величина смещения местоположения по вертикали. |
+| x | Single | Величина горизонтального смещения положения. |
+| y | Single | Величина вертикального смещения положения. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

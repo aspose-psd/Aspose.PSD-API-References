@@ -1,14 +1,15 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageLoaderDescriptor метод. Создает новый экземпляр загрузчика.
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageLoaderDescriptor. Создаёт новый экземпляр загрузчика"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
-Создает новый экземпляр загрузчика.
+Создаёт новый экземпляр загрузчика.
 
 ```csharp
 public IImageLoader CreateInstance()
@@ -18,11 +19,11 @@ public IImageLoader CreateInstance()
 
 Новый экземпляр загрузчика.
 
-### Смотрите также
+### См. также
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* пространство имен [Aspose.PSD](../../iimageloaderdescriptor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

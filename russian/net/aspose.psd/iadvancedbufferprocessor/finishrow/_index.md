@@ -1,23 +1,24 @@
 ---
-title: IAdvancedBufferProcessor.FinishRow
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAdvancedBufferProcessor метод. Завершает ряд.
+title: "IAdvancedBufferProcessor.FinishRow"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IAdvancedBufferProcessor метод. Завершает строку"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/iadvancedbufferprocessor/finishrow/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRow method
 
-Завершает ряд.
+Завершает строку.
 
 ```csharp
 public void FinishRow()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IAdvancedBufferProcessor](../)
-* пространство имен [Aspose.PSD](../../iadvancedbufferprocessor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

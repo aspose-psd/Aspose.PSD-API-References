@@ -1,28 +1,29 @@
 ---
-title: Enum LineCapType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType перечисление. Тип заглавной строки.
+title: "Перечисление LineCapType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. Тип окончания линии"
 type: docs
-weight: 3040
+weight: 3400
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Тип заглавной строки.
+Тип окончания линии.
 
 ```csharp
 public enum LineCapType : short
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| RoundCap | `0` | Тип круглой крышки. |
-| SquareCap | `1` | Тип квадратной крышки. |
-| ButtCap | `2` | Тип приклада. |
+| RoundCap | `0` | Тип круглого окончания. |
+| SquareCap | `1` | Тип квадратного окончания. |
+| ButtCap | `2` | Тип плоского окончания. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса VstkResource.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

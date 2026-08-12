@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает размер x в пикселях.
+title: "ExifData.PixelXDimension"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает размерность пикселя по оси x"
 type: docs
 weight: 840
 url: /ru/net/aspose.psd.exif/exifdata/pixelxdimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelXDimension property
 
-Получает или задает размер x в пикселях.
+Получает или задает размерность пикселя по оси X.
 
 ```csharp
 public uint PixelXDimension { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Размер x пикселей.
+Размерность пикселя по оси x.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

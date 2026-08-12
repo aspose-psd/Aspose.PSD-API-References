@@ -1,27 +1,48 @@
 ---
-title: PsdLoadOptions.AllowWarpRepaint
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdLoadOptions свойство. Получает или задает следует ли сохранять визуализированное изображение с преобразованием деформации или без него.
+title: "PsdLoadOptions.AllowWarpRepaint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdLoadOptions property. Получает или задаёт, сохранять ли с отрисованным изображением с искажением или без него"
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.AllowWarpRepaint property
 
-Получает или задает, следует ли сохранять визуализированное изображение, с преобразованием деформации или без него.
+Получает или задает, сохранять ли с отрендеренным изображением, с искажением или без него.
 
 ```csharp
 public bool AllowWarpRepaint { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` визуализировать изображение с преобразованием деформации`ЛОЖЬ` .
+`true` — отрисовать изображение с искажением, `false`.
 
-### Смотрите также
+## Примеры
+
+Следующий код демонстрирует рендеринг эффекта Warp.
+
+```csharp
+[C#]
+
+string sourceFile = "source.psd";
+string pngWarpedExport = "warped.png";
+string psdWarpedExport = "warpFile.psd";
+
+var warpLoadOptions = new PsdLoadOptions() { AllowWarpRepaint = true };
+
+using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
+{
+    image.Save(pngWarpedExport, new PngOptions());
+    image.Save(psdWarpedExport, new PsdOptions());
+}
+```
+
+### См. также
 
 * class [PsdLoadOptions](../)
-* пространство имен [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Clear
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage метод. Очищает этот экземпляр.
+title: "XmpPackage.Clear"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPackage метод. Очищает этот экземпляр"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
 Очищает этот экземпляр.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp/xmppackage/clear/
 public virtual void Clear()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

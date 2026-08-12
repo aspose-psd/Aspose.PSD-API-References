@@ -1,54 +1,55 @@
 ---
-title: Class LayerSectionResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource сорт. Ресурс раздела слоя.
+title: "Класс LayerSectionResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource класс. Ресурс секции слоя"
 type: docs
-weight: 2590
+weight: 2900
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource class
 
-Ресурс раздела слоя.
+Ресурс секции слоя.
 
 ```csharp
-public class LayerSectionResource : LayerResource
+public class LayerSectionResource : BaseLayerSectionResource
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [LayerSectionResource](layersectionresource/)() | Инициализирует новый экземпляр`LayerSectionResource` класс. |
+| [LayerSectionResource](layersectionresource/)() | Инициализирует новый экземпляр класса `LayerSectionResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/) { get; set; } | Получает или задает ключ режима наложения. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/) { get; } | Получает ключ ресурса слоя. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion/) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
-| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/) { get; set; } | Получает или задает тип раздела. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/) { get; } | Получает подпись ресурса слоя. |
-| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/) { get; set; } | Получает или задает подтип. |
+| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/blendmodekey/) { get; set; } | Получает или задает ключ режима смешивания. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/sectiontype/) { get; set; } | Получает или задаёт тип секции. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
+| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/subtype/) { get; set; } | Получает или задаёт подтип. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* class [BaseLayerSectionResource](../baselayersectionresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

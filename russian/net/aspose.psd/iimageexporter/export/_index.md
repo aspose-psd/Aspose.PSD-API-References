@@ -1,11 +1,12 @@
 ---
-title: IImageExporter.Export
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageExporter метод. Экспортирует указанные данные изображения в указанный формат данных.
+title: "IImageExporter.Export"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageExporter. Экспортирует указанные данные изображения в заданный формат данных"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
 Экспортирует указанные данные изображения в указанный формат данных.
@@ -16,17 +17,17 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Данные изображения для экспорта. |
-| stream | Stream | Поток, в который экспортируются данные. |
-| optionsBase | ImageOptionsBase | Параметры экспорта изображений |
+| изображение | Image | Данные изображения для экспорта. |
+| stream | Stream | Поток, в который экспортировать данные. |
+| optionsBase | ImageOptionsBase | Параметры экспорта изображения |
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* пространство имен [Aspose.PSD](../../iimageexporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,18 +42,18 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Данные изображения для экспорта. |
-| stream | Stream | Поток, в который экспортируются данные. |
-| optionsBase | ImageOptionsBase | Параметры экспорта изображений |
-| boundsRectangle | Rectangle | Границы прямоугольника. |
+| изображение | Image | Данные изображения для экспорта. |
+| stream | Stream | Поток, в который экспортировать данные. |
+| optionsBase | ImageOptionsBase | Параметры экспорта изображения |
+| boundsRectangle | Rectangle | Прямоугольник границ. |
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* пространство имен [Aspose.PSD](../../iimageexporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartObjectProvider.NewSmartObjectViaCopy
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectProvider метод. Создает новый слой смартобъекта копируя исходный.
+title: "SmartObjectProvider.NewSmartObjectViaCopy"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "SmartObjectProvider метод. Создаёт новый слой smart object, копируя исходный"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-Создает новый слой смарт-объекта, копируя исходный.
+Создаёт новый слой смарт‑объекта, копируя исходный.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
@@ -20,17 +21,17 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 
 ### Возвращаемое значение
 
-Клонированный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) экземпляр.
+Клонированный экземпляр [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы можете заменить только встроенный смарт-объект. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Можно заменить только встроенный смарт-объект. |
 
-### Примеры
+## Примеры
 
-В этих примерах показано, как копировать слои смарт-объектов в изображение PSD.
+Эти примеры демонстрируют, как копировать слои смарт‑объектов в PSD‑изображении.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Эти примеры демонстрируют, как копировать слои смарт-объектов в изображение PSD.
+// Эти примеры демонстрируют, как копировать слои смарт‑объектов в PSD‑изображении.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -46,7 +47,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Номер слоя для копирования
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -67,17 +68,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Инвертируем встроенное изображение смарт-объекта (для внутреннего PSD-изображения инвертируем только его первый слой)
+            // Давайте инвертируем изображение встроенного смарт‑объекта (для вложенного PSD‑изображения инвертируем только его первый слой).
             InvertImage(innerImage);
 
-            // Давайте заменим встроенное изображение смарт-объекта в слое PSD
+            // Давайте заменим встроенное изображение смарт‑объекта в слое PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Дублированный слой разделяет встроенное изображение с исходным смарт-объектом
-        // и он должен быть обновлен явно, иначе его кэш рендеринга останется неизменным.
-        // Мы обновляем каждый смарт-объект, чтобы убедиться, что новый слой, созданный NewSmartObjectViaCopy,
-        // не делит встроенное изображение с другими.
+        // Дублированный слой использует то же встроенное изображение, что и оригинальный смарт‑объект.
+        // и его необходимо явно обновлять, иначе кэш рендеринга останется неизменным.
+        // Мы обновляем каждый смарт‑объект, чтобы убедиться, что новый слой, созданный методом NewSmartObjectViaCopy
+        // не использует общее встроенное изображение с другими.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -85,7 +86,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// Инвертирует растровое изображение, включая PSD-изображение.
+// Инвертирует растровое изображение, включая PSD‑изображение.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -122,11 +123,11 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

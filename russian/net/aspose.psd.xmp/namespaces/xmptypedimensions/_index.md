@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeDimensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Тип размеров XMP.
+title: "Namespaces.XmpTypeDimensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Тип размеров XMP"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.xmp/namespaces/xmptypedimensions/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeDimensions field
 
-Тип размеров XMP.
+Тип XMP Dimensions.
 
 ```csharp
 public const string XmpTypeDimensions;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

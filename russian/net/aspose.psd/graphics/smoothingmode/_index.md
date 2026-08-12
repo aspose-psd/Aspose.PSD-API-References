@@ -1,11 +1,12 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics свойство. Получает или задает режим сглаживания.
+title: "Graphics.SmoothingMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Graphics. Получает или задает режим сглаживания."
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
 Получает или задает режим сглаживания.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/graphics/smoothingmode/
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим сглаживания.
 
-### Смотрите также
+### См. также
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmykColor.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColor метод. Полученный хешкод.
+title: "CmykColor.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColor. Получение хеш‑кода"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd/cmykcolor/gethashcode/
 ---
+{{< psd/tize >}}
 ## CmykColor.GetHashCode method
 
-Полученный хеш-код.
+Получить хеш‑код.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Int32 .
+Тип Int32.
 
-### Смотрите также
+### См. также
 
 * struct [CmykColor](../)
-* пространство имен [Aspose.PSD](../../cmykcolor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

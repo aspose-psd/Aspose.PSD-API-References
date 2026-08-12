@@ -1,11 +1,12 @@
 ---
-title: Class TransparencySupporter
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.TransparencySupporter сорт. Объект поддерживающий прозрачность.
+title: "Класс TransparencySupporter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.TransparencySupporter. Объект, поддерживающий прозрачность."
 type: docs
-weight: 5710
+weight: 6210
 url: /ru/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
 Объект, поддерживающий прозрачность.
@@ -20,15 +21,15 @@ public class TransparencySupporter
 | --- | --- |
 | [TransparencySupporter](transparencysupporter/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Получает или задает прозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает, что объект полностью виден, значение 1 означает, что объект полностью непрозрачен. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Получает или задает непрозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает, что объект полностью видим, значение 1 означает, что объект полностью непрозрачен. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

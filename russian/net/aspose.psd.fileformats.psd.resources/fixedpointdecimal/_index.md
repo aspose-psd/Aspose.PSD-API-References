@@ -1,14 +1,15 @@
 ---
-title: Class FixedPointDecimal
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal сорт. Десятичное число с фиксированной точкой 16битное целое и 16битное дробное число.
+title: "Класс FixedPointDecimal"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal класс. Фиксированная точка с 16‑битным целым и 16‑битной дробной частью"
 type: docs
-weight: 3700
+weight: 4170
 url: /ru/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-Десятичное число с фиксированной точкой, 16-битное целое и 16-битное дробное число.
+Десятичное число с фиксированной точкой, с 16-битным целым и 16-битной дробной частью.
 
 ```csharp
 public class FixedPointDecimal
@@ -18,26 +19,26 @@ public class FixedPointDecimal
 
 | Имя | Описание |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Инициализирует новый экземпляр`FixedPointDecimal` класс. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Инициализирует новый экземпляр`FixedPointDecimal` сорт. Разделите старшие и младшие слова 32-битного целого числа на число с фиксированной точкой. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Инициализирует новый экземпляр`FixedPointDecimal` класс. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Инициализирует новый экземпляр класса `FixedPointDecimal`. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Инициализирует новый экземпляр класса `FixedPointDecimal`. Разделяет старшие и младшие слова 32‑битного целого числа, получая фиксированное число. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Инициализирует новый экземпляр класса `FixedPointDecimal`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Получает или задает дробь. |
-| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Получает или задает целое число. |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Получает или задает дробную часть. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Получает или задает целую часть. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Преобразует текущее десятичное число с фиксированной точкой в двойное. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Преобразует текущее фиксированное десятичное число в double. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

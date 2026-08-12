@@ -1,23 +1,24 @@
 ---
-title: PsdImage.Grayscale
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Преобразование изображения в его представление в градациях серого
+title: "PsdImage.Grayscale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage метод. Преобразование изображения в его градацию серого"
 type: docs
-weight: 550
+weight: 610
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
-Преобразование изображения в его представление в градациях серого
+Преобразование изображения в его градации серого
 
 ```csharp
 public override void Grayscale()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Matrix.Reset
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. Сбрасывает эту матрицу чтобы иметь элементы матрицы идентичности.
+title: "Matrix.Reset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Сбрасывает эту матрицу, устанавливая элементы единичной матрицы."
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/matrix/reset/
 ---
+{{< psd/tize >}}
 ## Matrix.Reset method
 
-Сбрасывает эту матрицу, чтобы иметь элементы матрицы идентичности.
+Сбрасывает эту Matrix, чтобы она содержала элементы единичной матрицы.
 
 ```csharp
 public void Reset()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

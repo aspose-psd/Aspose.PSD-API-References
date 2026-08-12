@@ -1,27 +1,28 @@
 ---
-title: TransparencySupporter.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: TransparencySupporter свойство. Получает или задает прозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает что объект полностью виден значение 1 означает что объект полностью непрозрачен.
+title: "TransparencySupporter.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TransparencySupporter. Возвращает или задает непрозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает, что объект полностью видим, значение 1 означает, что объект полностью непрозрачный."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/transparencysupporter/opacity/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter.Opacity property
 
-Получает или задает прозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает, что объект полностью виден, значение 1 означает, что объект полностью непрозрачен.
+Получает или задает непрозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает, что объект полностью видим, значение 1 означает, что объект полностью непрозрачен.
 
 ```csharp
 public float Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение непрозрачности.
 
-### Смотрите также
+### См. также
 
 * class [TransparencySupporter](../)
-* пространство имен [Aspose.PSD](../../transparencysupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

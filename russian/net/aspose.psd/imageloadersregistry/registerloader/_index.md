@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisterLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageLoadersRegistry метод. Регистрирует загрузчик.
+title: "ImageLoadersRegistry.RegisterLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageLoadersRegistry. Регистрирует загрузчик"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/imageloadersregistry/registerloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisterLoader method
 
 Регистрирует загрузчик.
@@ -18,11 +19,11 @@ public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
 | --- | --- | --- |
 | loaderDescriptor | IImageLoaderDescriptor | Дескриптор загрузчика для регистрации. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageloadersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

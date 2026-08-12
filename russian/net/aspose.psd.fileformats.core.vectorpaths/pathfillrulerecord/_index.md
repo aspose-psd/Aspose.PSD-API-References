@@ -1,14 +1,15 @@
 ---
-title: Class PathFillRuleRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord сорт. Класс записи правила заполнения пути
+title: "Класс PathFillRuleRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord класс. Класс записи правила заполнения пути"
 type: docs
-weight: 1380
+weight: 1390
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-Класс записи правила заполнения пути
+Класс записи правила заливки пути
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
@@ -18,19 +19,19 @@ public class PathFillRuleRecord : VectorPathRecord
 
 | Имя | Описание |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Инициализирует новый экземпляр`PathFillRuleRecord` класс. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Инициализирует новый экземпляр`PathFillRuleRecord` класс. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Инициализирует новый экземпляр класса `PathFillRuleRecord`. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `PathFillRuleRecord`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | Получает тип. |
 
-### Смотрите также
+### См. также
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.Format
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает или задает формат данных эскиза.
+title: "ThumbnailResource.Format"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Получает или задает формат данных миниатюры"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Format property
 
-Получает или задает формат данных эскиза.
+Получает или задает формат данных миниатюры.
 
 ```csharp
 public ThumbnailFormat Format { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Формат данных миниатюр.
+Формат данных миниатюры.
 
-### Смотрите также
+### См. также
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

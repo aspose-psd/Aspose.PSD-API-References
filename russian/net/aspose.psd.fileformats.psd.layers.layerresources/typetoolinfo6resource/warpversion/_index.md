@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfo6Resource свойство. Получает или задает версию деформации.
+title: "TypeToolInfo6Resource.WarpVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfo6Resource. Получает или задает версию искажения"
 type: docs
-weight: 210
+weight: 180
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpVersion property
 
-Получает или задает версию деформации.
+Получает или задаёт версию искажения.
 
 ```csharp
 public short WarpVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Варп-версия.
+Версия искажения.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfo6Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

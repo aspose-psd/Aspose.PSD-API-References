@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.ProgressEventHandler
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageOptionsBase свойство. Получает или задает обработчик события выполнения.
+title: "ImageOptionsBase.ProgressEventHandler"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageOptionsBase. Получает или задает обработчик события прогресса"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/imageoptionsbase/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ProgressEventHandler property
 
-Получает или задает обработчик события выполнения.
+Получает или задает обработчик события прогресса.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Обработчик событий прогресса.
+Обработчик события прогресса.
 
-### Смотрите также
+### См. также
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [ImageOptionsBase](../)
-* пространство имен [Aspose.PSD](../../imageoptionsbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

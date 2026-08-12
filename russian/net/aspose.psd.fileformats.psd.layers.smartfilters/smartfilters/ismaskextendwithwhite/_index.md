@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskExtendWithWhite
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilters свойство. Получает расширенную маску с белым статусом интеллектуального фильтра.
+title: "SmartFilters.IsMaskExtendWithWhite"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartFilters. Получает статус расширения маски белым цветом умного фильтра"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskExtendWithWhite property
 
-Получает расширенную маску с белым статусом интеллектуального фильтра.
+Получает статус расширения маски белым цветом умного фильтра.
 
 ```csharp
 public bool IsMaskExtendWithWhite { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilters](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

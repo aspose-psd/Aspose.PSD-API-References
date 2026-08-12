@@ -1,23 +1,24 @@
 ---
-title: Matrix.M31
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix свойство. Получает элемент матрицы в первом столбце третьей строки. Представляет перемещение по оси X.
+title: "Matrix.M31"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Matrix. Возвращает элемент матрицы в третьей строке первого столбца. Представляет трансляцию вдоль оси X."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/matrix/m31/
 ---
+{{< psd/tize >}}
 ## Matrix.M31 property
 
-Получает элемент матрицы в первом столбце третьей строки. Представляет перемещение по оси X.
+Возвращает элемент матрицы в третьей строке и первом столбце. Представляет трансляцию вдоль оси X.
 
 ```csharp
 public float M31 { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

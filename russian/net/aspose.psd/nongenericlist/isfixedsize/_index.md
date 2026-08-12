@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsFixedSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList свойство. Получает значение указывающееIList имеет фиксированный размер.
+title: "NonGenericList.IsFixedSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericList. Возвращает значение, указывающее, имеет ли IList фиксированный размер"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/nongenericlist/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsFixedSize property
 
-Получает значение, указывающее,IList имеет фиксированный размер.
+Возвращает значение, указывающее, имеет ли IList фиксированный размер.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

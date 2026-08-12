@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.SamplesPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или устанавливает выборки на пиксель.
+title: "JpegExifData.SamplesPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает количество образцов на пиксель"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.exif/jpegexifdata/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SamplesPerPixel property
 
-Получает или устанавливает выборки на пиксель.
+Получает или задает количество образцов на пиксель.
 
 ```csharp
 public ushort SamplesPerPixel { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Выборки на пиксель.
+Количество образцов на пиксель.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

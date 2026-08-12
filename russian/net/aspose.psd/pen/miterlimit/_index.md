@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задает предел толщины соединения на скошенном углу.
+title: "Pen.MiterLimit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задаёт предел толщины соединения на угле с фаской."
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-Получает или задает предел толщины соединения на скошенном углу.
+Получает или задает предел толщины соединения на скошенном угле.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Предел толщины соединения на скошенном углу.
+Предел толщины соединения на угле с фаской.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `MiterLimit` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `MiterLimit` устанавливается для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

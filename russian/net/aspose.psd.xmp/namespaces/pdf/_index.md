@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Pdf
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Пространство имен Adobe PDF.
+title: "Namespaces.Pdf"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Пространство имён Adobe PDF"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/namespaces/pdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Pdf field
 
-Пространство имен Adobe PDF.
+Пространство имён Adobe PDF.
 
 ```csharp
 public const string Pdf;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

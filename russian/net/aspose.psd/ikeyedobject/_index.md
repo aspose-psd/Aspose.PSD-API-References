@@ -1,11 +1,12 @@
 ---
-title: Interface IKeyedObject
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IKeyedObject интерфейс. Представляет интерфейс для объектов с ключами.
+title: "Интерфейс IKeyedObject"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IKeyedObject. Представляет интерфейс для объектов с ключами"
 type: docs
-weight: 4480
+weight: 4950
 url: /ru/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
 Представляет интерфейс для объектов с ключами.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/ikeyedobject/
 public interface IKeyedObject
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Получает ключ объекта. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

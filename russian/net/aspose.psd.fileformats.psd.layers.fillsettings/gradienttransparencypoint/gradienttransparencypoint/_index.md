@@ -1,23 +1,24 @@
 ---
-title: GradientTransparencyPoint.GradientTransparencyPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientTransparencyPoint строитель. Инициализирует новый экземплярGradientTransparencyPoint класс.
+title: "GradientTransparencyPoint.GradientTransparencyPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GradientTransparencyPoint конструктор. Инициализирует новый экземпляр класса GradientTransparencyPoint"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint constructor
 
-Инициализирует новый экземпляр[`GradientTransparencyPoint`](../) класс.
+Инициализирует новый экземпляр класса [`GradientTransparencyPoint`](../).
 
 ```csharp
 public GradientTransparencyPoint()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GradientTransparencyPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

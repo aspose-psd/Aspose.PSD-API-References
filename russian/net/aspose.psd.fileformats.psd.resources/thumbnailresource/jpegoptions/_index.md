@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.JpegOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает или задает параметры JPEG. Подходит когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует если задан формат RAW.
+title: "ThumbnailResource.JpegOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Получает или задает параметры JPEG. Подходит, когда ресурс миниатюры сохраняется только в формате JPEG. Этот параметр не оказывает влияния, когда определён формат RAW"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.JpegOptions property
 
-Получает или задает параметры JPEG. Подходит, когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует, если задан формат RAW.
+Получает или задает параметры JPEG. Подходит, когда ресурс миниатюры сохраняется только в формате JPEG. Эта опция не влияет, если определён формат RAW.
 
 ```csharp
 public JpegOptions JpegOptions { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Параметры JPEG.
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../../../aspose.psd.imageoptions/jpegoptions/)
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

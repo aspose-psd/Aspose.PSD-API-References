@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает пространственночастотную характеристику.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает пространственный частотный отклик"
 type: docs
 weight: 960
 url: /ru/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
-Получает или задает пространственно-частотную характеристику.
+Получает или задает пространственную частотную характеристику.
 
 ```csharp
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пространственно-частотная характеристика.
+Пространственный частотный отклик.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

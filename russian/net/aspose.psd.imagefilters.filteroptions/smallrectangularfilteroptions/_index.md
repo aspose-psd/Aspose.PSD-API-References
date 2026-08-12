@@ -1,14 +1,15 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions сорт. Маленький прямоугольный фильтр options
+title: "Класс SmallRectangularFilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions класс. Параметры небольшого прямоугольного фильтра"
 type: docs
-weight: 4750
+weight: 5220
 url: /ru/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
-Маленький прямоугольный фильтр options
+Параметры небольшого прямоугольного фильтра
 
 ```csharp
 public class SmallRectangularFilterOptions : FilterOptionsBase
@@ -20,10 +21,10 @@ public class SmallRectangularFilterOptions : FilterOptionsBase
 | --- | --- |
 | [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Конструктор по умолчанию. |
 
-### Смотрите также
+### См. также
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IObjectWithSizeF.SizeF
-second_title: Справочник по Aspose.PSD для .NET API
-description: IObjectWithSizeF свойство. Получает размер объекта в дюймах.
+title: "IObjectWithSizeF.SizeF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IObjectWithSizeF property. Получает размер объекта в дюймах"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.interfaces/iobjectwithsizef/sizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.SizeF property
 
 Получает размер объекта в дюймах.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.interfaces/iobjectwithsizef/sizef/
 public SizeF SizeF { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Размер объекта в дюймах.
+Размер объекта, в дюймах.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * interface [IObjectWithSizeF](../)
-* пространство имен [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

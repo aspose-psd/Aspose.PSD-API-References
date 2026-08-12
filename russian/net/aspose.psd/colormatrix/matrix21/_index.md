@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix21
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMatrix свойство. Получает или устанавливает элемент во второй строке и первом столбце этогоColorMatrix .
+title: "ColorMatrix.Matrix21"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorMatrix. Получает или задает элемент во второй строке и первом столбце этой ColorMatrix"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/colormatrix/matrix21/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix21 property
 
-Получает или устанавливает элемент во второй строке и первом столбце этого[`ColorMatrix`](../) .
+Получает или задает элемент во второй строке и первом столбце этой [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix21 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Элемент во второй строке и первом столбце этого[`ColorMatrix`](../).
+Элемент во второй строке и первом столбце этой [`ColorMatrix`](../).
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../)
-* пространство имен [Aspose.PSD](../../colormatrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

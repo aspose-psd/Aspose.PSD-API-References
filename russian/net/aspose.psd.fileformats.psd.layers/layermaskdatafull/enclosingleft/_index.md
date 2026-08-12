@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingLeft
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskDataFull свойство. Получает или задает положение левой маски растра в слое файла PSD.
+title: "LayerMaskDataFull.EnclosingLeft"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskDataFull. Получает или задает позицию левого края ограничивающей растровой маски в слое файла PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingLeft property
 
-Получает или задает положение левой маски растра в слое файла PSD.
+Получает или задает позицию левой части охватывающей растровой маски в слое файла PSD.
 
 ```csharp
 public int EnclosingLeft { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Положение маски левого слоя.
+Левая позиция маски слоя.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskDataFull](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

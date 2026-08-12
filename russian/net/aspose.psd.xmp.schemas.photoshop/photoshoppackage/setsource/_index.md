@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает источник.
+title: "PhotoshopPackage.SetSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Устанавливает источник"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
 Устанавливает источник.
@@ -16,12 +17,12 @@ public void SetSource(string source)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | String | Источник. |
+| источник | String | Источник. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

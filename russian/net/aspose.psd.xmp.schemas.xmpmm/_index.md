@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpMm
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит связанные вспомогательные классы константы и методы которые в основном используются системами управления цифровыми активами DAM.
+title: "Aspose.PSD.Xmp.Schemas.XmpMm"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит связанные вспомогательные классы, константы и методы, которые в основном используются системами управления цифровыми активами (DAM)"
 type: docs
-weight: 580
+weight: 620
 url: /ru/net/aspose.psd.xmp.schemas.xmpmm/
 ---
+{{< psd/tize >}}
 Пространство имен содержит связанные вспомогательные классы, константы и методы, которые в основном используются системами управления цифровыми активами (DAM).
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | Представляет пространство имен XMP Media Management. |
 

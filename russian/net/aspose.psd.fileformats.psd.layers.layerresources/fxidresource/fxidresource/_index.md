@@ -1,14 +1,15 @@
 ---
-title: FXidResource.FXidResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: FXidResource строитель. Инициализирует новый экземплярFXidResource класс.
+title: "FXidResource.FXidResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор FXidResource. Инициализирует новый экземпляр класса FXidResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-Инициализирует новый экземпляр[`FXidResource`](../) класс.
+Инициализирует новый экземпляр класса [`FXidResource`](../).
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
@@ -16,13 +17,13 @@ public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMas
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | Int32 | Ключ ресурса. |
-| version | Int32 | Версия. |
-| filterEffectMasks | FilterEffectMaskData[] | Маски эффекта фильтра. |
+| ключ | Int32 | Ключ ресурса. |
+| версия | Int32 | Версия. |
+| filterEffectMasks | FilterEffectMaskData[] | Маски эффектов фильтра. |
 
-### Примеры
+## Примеры
 
-В этом примере показано, как получить и установить свойства ресурса FXidResource.
+Этот пример демонстрирует, как получать и задавать свойства ресурса FXidResource.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -54,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// проверка после сохранения
+// проверьте после сохранения
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -67,11 +68,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

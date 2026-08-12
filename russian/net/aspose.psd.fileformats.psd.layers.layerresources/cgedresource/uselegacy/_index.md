@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Справочник по Aspose.PSD для .NET API
-description: CgEdResource свойство. Получает или задает значение указывающее следует ли использовать устаревшее.
+title: "CgEdResource.UseLegacy"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CgEdResource property. Возвращает или задает значение, указывающее, используется ли legacy"
 type: docs
-weight: 100
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-Получает или задает значение, указывающее, следует ли [использовать устаревшее].
+Получает или задает значение, указывающее, использовать ли [use legacy].
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [использовать наследие]; в противном случае,`ЛОЖЬ` .
+`true` если [use legacy]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [CgEdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

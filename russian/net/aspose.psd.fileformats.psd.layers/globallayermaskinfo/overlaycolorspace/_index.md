@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalLayerMaskInfo свойство. Получает или задает цветовое пространство наложения недокументированное значение.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GlobalLayerMaskInfo. Получает или задает недокументированное значение цветового пространства наложения"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-Получает или задает цветовое пространство наложения (недокументированное значение).
+Получает или задает пространство наложения цвета (недокументированное значение).
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цветовое пространство наложения.
 
-### Смотрите также
+### См. также
 
 * class [GlobalLayerMaskInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

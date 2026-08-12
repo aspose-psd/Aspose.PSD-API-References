@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ChannelsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает количество каналов PSD.
+title: "PsdImage.ChannelsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Возвращает количество каналов PSD"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdImage.ChannelsCount property
 
 Получает количество каналов PSD.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/channelscount/
 public int ChannelsCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Каналы PSD учитываются.
+Количество каналов PSD.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

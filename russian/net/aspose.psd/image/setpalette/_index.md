@@ -1,14 +1,15 @@
 ---
-title: Image.SetPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Задает палитру изображения.
+title: "Image.SetPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Устанавливает палитру изображения"
 type: docs
-weight: 240
+weight: 250
 url: /ru/net/aspose.psd/image/setpalette/
 ---
+{{< psd/tize >}}
 ## Image.SetPalette method
 
-Задает палитру изображения.
+Устанавливает палитру изображения.
 
 ```csharp
 public abstract void SetPalette(IColorPalette palette, bool updateColors)
@@ -16,14 +17,14 @@ public abstract void SetPalette(IColorPalette palette, bool updateColors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| palette | IColorPalette | Палитра для установки. |
-| updateColors | Boolean | , если установлено значение`истинный` цвета будут обновлены в соответствии с новой палитрой; в противном случае цветовые индексы остаются неизменными. Обратите внимание, что неизмененные индексы могут привести к сбою изображения при загрузке, если некоторые индексы не имеют соответствующих записей палитры. |
+| палитра | IColorPalette | Палитра для установки. |
+| updateColors | Boolean | Если установить в `true`, цвета будут обновлены в соответствии с новой палитрой; в противном случае индексы цветов останутся неизменными. Обратите внимание, что неизменные индексы могут привести к сбою изображения при загрузке, если некоторые индексы не имеют соответствующих записей в палитре. |
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: Thumbnail свойство. Получает или задает высоту.
+title: "Thumbnail.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Thumbnail. Возвращает или задает высоту"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
 Получает или задает высоту.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 public int Height { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота.
 
@@ -24,10 +25,10 @@ public int Height { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | value;Высота не может быть меньше нуля |
 
-### Смотрите также
+### См. также
 
 * class [Thumbnail](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.IsVisible
-second_title: Справочник по Aspose.PSD для .NET API
-description: InnerShadowEffect свойство. Получает или задает значение указывающее виден ли этот экземпляр.
+title: "InnerShadowEffect.IsVisible"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InnerShadowEffect. Получает или задает значение, указывающее, видим ли данный экземпляр."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.IsVisible property
 
-Получает или задает значение, указывающее, виден ли этот экземпляр.
+Получает или задает значение, указывающее, видим ли этот экземпляр.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр виден; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр видим; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [InnerShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

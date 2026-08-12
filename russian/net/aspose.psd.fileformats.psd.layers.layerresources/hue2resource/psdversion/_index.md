@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: Hue2Resource свойство. Получает версию psd.
+title: "Hue2Resource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Hue2Resource. Возвращает версию psd"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/psdversion/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Hue2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

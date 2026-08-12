@@ -1,23 +1,24 @@
 ---
-title: JFIFData.YDensity
-second_title: Справочник по Aspose.PSD для .NET API
-description: JFIFData свойство. Получает или задает плотность по оси y.
+title: "JFIFData.YDensity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JFIFData. Получает или задаёт плотность по оси y"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
-Получает или задает плотность по оси y.
+Получает или задает плотность по оси Y.
 
 ```csharp
 public short YDensity { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JFIFData](../)
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

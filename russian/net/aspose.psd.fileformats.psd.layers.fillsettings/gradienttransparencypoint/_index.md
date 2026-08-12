@@ -1,11 +1,12 @@
 ---
-title: Class GradientTransparencyPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint сорт. Точка прозрачности градиента
+title: "Класс GradientTransparencyPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint. Точка градиентной прозрачности"
 type: docs
-weight: 1970
+weight: 2090
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint class
 
 Точка прозрачности градиента
@@ -18,20 +19,20 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 | Имя | Описание |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint/)() | Инициализирует новый экземпляр`GradientTransparencyPoint` класс. |
+| [GradientTransparencyPoint](gradienttransparencypoint/)() | Инициализирует новый экземпляр класса `GradientTransparencyPoint`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | Получает или задает местоположение. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | Получает или задает положение срединной точки. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | Получает или задает расположение. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | Получает или задает расположение медианной точки. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | Получает или задает цвет. |
 
-### Смотрите также
+### См. также
 
 * interface [IGradientTransparencyPoint](../igradienttransparencypoint/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlackWhiteAdjustmentLayer свойство. Получает или задает значение указывающее используется ли цвет оттенка.
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlackWhiteAdjustmentLayer. Получает или задает значение, указывающее, используется ли tint color"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-Получает или задает значение, указывающее, используется ли [цвет оттенка].
+Получает или задает значение, указывающее, используется ли [tint color].
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если используется [цвет оттенка]; в противном случае,`ЛОЖЬ` .
+`true` если используется [tint color]; иначе, `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как вы можете манипулировать свойствами корректирующего слоя «черно-белый» в Aspose.PSD.
+В следующем примере демонстрируется, как можно управлять свойствами слоя черно-белой коррекции в Aspose.PSD
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlackWhiteAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

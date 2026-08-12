@@ -1,23 +1,24 @@
 ---
-title: FXidResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: FXidResource свойство. Получает минимальную версию psd необходимую для ресурса слоя. 0 означает отсутствие ограничений.
+title: "FXidResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FXidResource. Возвращает минимальную версию PSD, требуемую для ресурса слоя. 0 означает отсутствие ограничений."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion/
 ---
+{{< psd/tize >}}
 ## FXidResource.PsdVersion property
 
-Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений.
+Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FXidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

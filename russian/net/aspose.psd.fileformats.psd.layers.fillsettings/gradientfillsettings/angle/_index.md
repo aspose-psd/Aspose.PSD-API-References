@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Получает или задает угол.
+title: "GradientFillSettings.Angle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Получает или задает угол"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
 Получает или задает угол.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public double Angle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Угол.
 
@@ -22,12 +23,12 @@ public double Angle { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Угол должен быть в диапазоне от -180,0 до 180,0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Угол должен быть в диапазоне от -180.0 до 180.0 |
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

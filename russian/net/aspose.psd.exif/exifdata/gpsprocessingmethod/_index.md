@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает строку символов GPS записывающую имя метода используемого для определения местоположения.
+title: "ExifData.GPSProcessingMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает GPS‑строку, записывающую название метода определения местоположения"
 type: docs
 weight: 580
 url: /ru/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
-Получает или задает строку символов GPS, записывающую имя метода, используемого для определения местоположения.
+Получает или задает строку GPS, записывающую название метода, используемого для определения местоположения.
 
 ```csharp
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Строка символов GPS, в которой записано название метода, используемого для определения местоположения.
+GPS‑строка, записывающая название метода определения местоположения.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

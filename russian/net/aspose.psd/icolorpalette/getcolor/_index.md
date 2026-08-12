@@ -1,14 +1,15 @@
 ---
-title: IColorPalette.GetColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: IColorPalette метод. Получает цвет палитры по индексу.
+title: "IColorPalette.GetColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IColorPalette. Получает цвет палитры по индексу"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/icolorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## IColorPalette.GetColor method
 
-Получает цвет палитры по индексу.
+Возвращает цвет палитры по индексу.
 
 ```csharp
 public Color GetColor(int index)
@@ -20,19 +21,19 @@ public Color GetColor(int index)
 
 ### Возвращаемое значение
 
-Запись цветовой палитры, заданная параметром*index*.
+Элемент цветовой палитры, указанный по *index*.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | если цветовая палитра*index* указано вне диапазона элементов палитры. |
+| ArgumentOutOfRangeException | если указанный *index* цветовой палитры выходит за диапазон элементов палитры. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* пространство имен [Aspose.PSD](../../icolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

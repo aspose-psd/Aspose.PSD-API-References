@@ -1,28 +1,29 @@
 ---
-title: ExifData.WhitePoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает цветность белой точки изображения.
+title: "ExifData.WhitePoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает хроматичность белой точки изображения"
 type: docs
 weight: 1080
 url: /ru/net/aspose.psd.exif/exifdata/whitepoint/
 ---
+{{< psd/tize >}}
 ## ExifData.WhitePoint property
 
-Получает или задает цветность белой точки изображения.
+Получает или задает хроматичность белой точки изображения.
 
 ```csharp
 public TiffRational[] WhitePoint { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Цветность белой точки изображения.
+Хроматичность белой точки изображения.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

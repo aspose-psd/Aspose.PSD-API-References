@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResourcesRegistry метод. Получает первый поддерживаемый дескриптор по имени его типа.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LayerResourcesRegistry. Получает первый поддерживаемый дескриптор по его имени типа."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Получает первый поддерживаемый дескриптор по имени его типа.
+Получает первый поддерживаемый дескриптор по его имени типа.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
@@ -20,17 +21,17 @@ public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string 
 
 ### Возвращаемое значение
 
-Первый найденный дескриптор открывателя или нуль, если такой дескриптор не найден.
+Первый найденный дескриптор открывателя или null, если такой дескриптор не найден.
 
-### Примечания
+## Примечания
 
-Первый дескриптор открывателя будет фактически последним зарегистрированным.
+Первый дескриптор открывателя на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

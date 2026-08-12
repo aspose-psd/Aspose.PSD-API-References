@@ -1,11 +1,12 @@
 ---
-title: ClblResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClblResource свойство. Получает ключ ресурса слоя.
+title: "ClblResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClblResource. Возвращает ключ ресурса слоя"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/
 ---
+{{< psd/tize >}}
 ## ClblResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClblResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

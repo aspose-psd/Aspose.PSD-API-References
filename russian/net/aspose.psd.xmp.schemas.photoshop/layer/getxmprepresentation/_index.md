@@ -1,11 +1,12 @@
 ---
-title: Layer.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer метод. Возвращает строковое значение в формате XMP.
+title: "Layer.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Layer метод. Возвращает строковое значение в формате XMP"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Layer.GetXmpRepresentation method
 
 Возвращает строковое значение в формате XMP.
@@ -18,10 +19,10 @@ public override string GetXmpRepresentation()
 
 Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Matrix.TransformPoints
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. Применяет геометрическое преобразование представленное этимMatrix в указанный массив точек.
+title: "Matrix.TransformPoints"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Применяет геометрическое преобразование, представленное этой Matrix, к указанному массиву точек."
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-Применяет геометрическое преобразование, представленное этим[`Matrix`](../) в указанный массив точек.
+Применяет геометрическое преобразование, представленное этой [`Matrix`](../), к указанному массиву точек.
 
 ```csharp
 public void TransformPoints(PointF[] points)
@@ -16,13 +17,13 @@ public void TransformPoints(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Точки. |
+| точки | PointF[] | Точки. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

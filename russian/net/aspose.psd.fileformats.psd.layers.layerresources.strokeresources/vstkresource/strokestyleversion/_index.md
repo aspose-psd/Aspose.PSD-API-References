@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает версию стиля обводки.
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Возвращает или задает версию стиля штриха"
 type: docs
-weight: 220
+weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
-Получает или задает версию стиля обводки.
+Получает или задает версию стиля штриха.
 
 ```csharp
 public int StrokeStyleVersion { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.CenterPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathGradientBrushBase свойство. Получает или задает центральную точку градиента пути.
+title: "PathGradientBrushBase.CenterPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PathGradientBrushBase. Возвращает или задает центральную точку градиента пути."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.brushes/pathgradientbrushbase/centerpoint/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.CenterPoint property
 
-Получает или задает центральную точку градиента пути.
+Получает или задает центральную точку градиента по пути.
 
 ```csharp
 public PointF CenterPoint { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`PointF`](../../../aspose.psd/pointf/) который представляет центральную точку градиента пути.
+Объект [`PointF`](../../../aspose.psd/pointf/), представляющий центральную точку градиента пути.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

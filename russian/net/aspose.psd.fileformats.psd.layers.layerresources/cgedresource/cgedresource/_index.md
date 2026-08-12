@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.CgEdResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: CgEdResource строитель. Конструктор по умолчанию.
+title: "CgEdResource.CgEdResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CgEdResource constructor. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedr
 public CgEdResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [CgEdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

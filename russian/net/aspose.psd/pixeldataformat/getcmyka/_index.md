@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetCmyka
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat метод. Получает цвет CMYKA с указанным количеством битов на образец.
+title: "PixelDataFormat.GetCmyka"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat метод. Получает цвет CMYKA с указанным количеством битов на образец"
 type: docs
 weight: 220
 url: /ru/net/aspose.psd/pixeldataformat/getcmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCmyka method
 
-Получает цвет CMYKA с указанным количеством битов на образец.
+Возвращает цвет CMYKA с указанным количеством бит на образец.
 
 ```csharp
 public static PixelDataFormat GetCmyka(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
@@ -17,20 +18,20 @@ public static PixelDataFormat GetCmyka(int bitsPerCyanChannel, int bitsPerMagent
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | Количество битов на голубой канал. |
-| bitsPerMagentaChannel | Int32 | Количество битов на пурпурный канал. |
-| bitsPerYellowChannel | Int32 | Количество битов на желтый канал. |
-| bitsPerKeyChannel | Int32 | Количество битов на ключевой канал. |
-| bitsPerAlphaChannel | Int32 | Количество битов на альфа-канал. |
+| bitsPerCyanChannel | Int32 | Количество бит на канал Cyan. |
+| bitsPerMagentaChannel | Int32 | Количество бит на канал Magenta. |
+| bitsPerYellowChannel | Int32 | Количество бит на канал Yellow. |
+| bitsPerKeyChannel | Int32 | Количество бит на канал Key. |
+| bitsPerAlphaChannel | Int32 | Количество бит на канал Alpha. |
 
 ### Возвращаемое значение
 
 Цвет CMYK.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

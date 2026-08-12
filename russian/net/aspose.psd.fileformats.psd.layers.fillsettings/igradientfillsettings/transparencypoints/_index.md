@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.TransparencyPoints
-second_title: Справочник по Aspose.PSD для .NET API
-description: IGradientFillSettings свойство. Получает очки прозрачности.
+title: "IGradientFillSettings.TransparencyPoints"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IGradientFillSettings. Возвращает точки прозрачности"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.TransparencyPoints property
 
-Получает очки прозрачности.
+Получает точки прозрачности.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Точки прозрачности.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка Gradient FillLayer и параметры редактирования IGradientFillSettings.
+Следующий пример демонстрирует поддержку Gradient FillLayer и параметры редактирования IGradientFillSettings.
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * interface [IGradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

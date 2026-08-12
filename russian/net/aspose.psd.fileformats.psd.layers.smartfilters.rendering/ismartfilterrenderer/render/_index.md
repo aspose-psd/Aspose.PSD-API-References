@@ -1,14 +1,15 @@
 ---
-title: ISmartFilterRenderer.Render
-second_title: Справочник по Aspose.PSD для .NET API
-description: ISmartFilterRenderer метод. Визуализирует текущий интеллектуальный фильтр для данных пикселей.
+title: "ISmartFilterRenderer.Render"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ISmartFilterRenderer. Отрисовывает текущий умный фильтр на данных пикселей"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer.Render method
 
-Визуализирует текущий интеллектуальный фильтр для данных пикселей.
+Отрисовывает текущий умный фильтр на данных пикселей.
 
 ```csharp
 public PixelsData Render(PixelsData pixelsData)
@@ -16,25 +17,25 @@ public PixelsData Render(PixelsData pixelsData)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pixelsData | PixelsData | Данные о пикселях. |
+| pixelsData | PixelsData | Данные пикселей. |
 
 ### Возвращаемое значение
 
 Возвращает обработанные данные пикселей.
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
+Следующий код показывает, как создать пользовательский умный фильтр с пользовательским рендерером.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Инициализирует неподдерживаемый интеллектуальный фильтр «Кристаллизовать» во входном массиве
+    // Инициализирует неподдерживаемый умный фильтр 'Crystallize' в входном массиве
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -60,14 +61,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Применить фильтр к смарт-объекту
+        // Применить фильтр к SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Применяем фильтр к маске слоя
+        // Применить фильтр к маске слоя
         smartFilter.ApplyToMask(maskLayer);
 
-        //Применяем фильтр к слою
+        //Применить фильтр к слою
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -84,15 +85,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // получаем структуру фильтра
+        // получить структуру фильтра
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // получить значение размера кристаллизации
+        // получить значение размера Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -108,11 +109,11 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PixelsData](../../../aspose.psd/pixelsdata/)
 * interface [ISmartFilterRenderer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../ismartfilterrenderer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../../)
 
 

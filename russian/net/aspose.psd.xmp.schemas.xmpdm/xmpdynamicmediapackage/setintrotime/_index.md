@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetIntroTime
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает время вступления.
+title: "XmpDynamicMediaPackage.SetIntroTime"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает время вступления"
 type: docs
 weight: 250
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetIntroTime method
 
 Устанавливает время вступления.
@@ -16,13 +17,13 @@ public void SetIntroTime(Time introTime)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| introTime | Time | Время вступления. |
+| introTime | Время | Время вступления. |
 
-### Смотрите также
+### См. также
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

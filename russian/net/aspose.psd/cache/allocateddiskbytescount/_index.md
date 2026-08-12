@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: Cache свойство. Получает количество выделенных байтов на диске.
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Cache. Возвращает количество выделенных байтов на диске"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-Получает количество выделенных байтов на диске.
+Возвращает количество выделенных байтов на диске.
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество выделенных байтов на диске.
 
-### Смотрите также
+### См. также
 
 * class [Cache](../)
-* пространство имен [Aspose.PSD](../../cache/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

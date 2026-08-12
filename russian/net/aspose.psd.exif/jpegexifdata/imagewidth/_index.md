@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает ширину изображения.
+title: "JpegExifData.ImageWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает ширину изображения"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.exif/jpegexifdata/imagewidth/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageWidth property
 
 Получает или задает ширину изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/jpegexifdata/imagewidth/
 public uint ImageWidth { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина изображения.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

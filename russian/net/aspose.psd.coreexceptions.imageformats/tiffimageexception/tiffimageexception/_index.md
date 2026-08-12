@@ -1,14 +1,15 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffImageException строитель. Инициализирует новый экземплярTiffImageException класс.
+title: "TiffImageException.TiffImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TiffImageException. Инициализирует новый экземпляр класса TiffImageException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`TiffImageException`](../) класс.
+Инициализирует новый экземпляр класса [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message)
@@ -16,19 +17,19 @@ public TiffImageException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [TiffImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр[`TiffImageException`](../) класс.
+Инициализирует новый экземпляр класса [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
@@ -39,17 +40,17 @@ public TiffImageException(string message, Exception innerException)
 | message | String | Сообщение. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [TiffImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-Инициализирует новый экземпляр[`TiffImageException`](../) класс.
+Инициализирует новый экземпляр класса [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
@@ -58,20 +59,20 @@ public TiffImageException(string message, TiffOptionsError error)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение. |
-| error | TiffOptionsError | Ошибка. |
+| ошибка | TiffOptionsError | Ошибка. |
 
-### Смотрите также
+### См. также
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-Инициализирует новый экземпляр[`TiffImageException`](../) класс.
+Инициализирует новый экземпляр класса [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
@@ -79,13 +80,13 @@ public TiffImageException(TiffOptionsError error)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| error | TiffOptionsError | Ошибка. |
+| ошибка | TiffOptionsError | Ошибка. |
 
-### Смотрите также
+### См. также
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

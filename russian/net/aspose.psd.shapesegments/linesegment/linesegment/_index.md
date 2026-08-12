@@ -1,14 +1,15 @@
 ---
-title: LineSegment.LineSegment
-second_title: Справочник по Aspose.PSD для .NET API
-description: LineSegment строитель. Инициализирует новый экземплярLineSegment класс.
+title: "LineSegment.LineSegment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LineSegment. Инициализирует новый экземпляр класса LineSegment"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-Инициализирует новый экземпляр[`LineSegment`](../) класс.
+Инициализирует новый экземпляр класса [`LineSegment`](../).
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
@@ -19,11 +20,11 @@ public LineSegment(PointF startPoint, PointF endPoint)
 | startPoint | PointF | Начальная точка. |
 | endPoint | PointF | Конечная точка. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* пространство имен [Aspose.PSD.ShapeSegments](../../linesegment/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

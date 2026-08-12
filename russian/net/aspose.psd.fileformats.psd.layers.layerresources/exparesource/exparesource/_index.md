@@ -1,30 +1,31 @@
 ---
-title: ExpaResource.ExpaResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExpaResource строитель. Инициализирует новый экземплярExpaResource класс.
+title: "ExpaResource.ExpaResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ExpaResource. Инициализирует новый экземпляр класса ExpaResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource() {#constructor}
 
-Инициализирует новый экземпляр[`ExpaResource`](../) класс.
+Инициализирует новый экземпляр класса [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ExpaResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-Инициализирует новый экземпляр[`ExpaResource`](../) класс.
+Инициализирует новый экземпляр класса [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
@@ -32,21 +33,21 @@ public ExpaResource(float exposure, float offset, float gamma)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| exposure | Single | Экспозиция. |
+| выдержка | Single | Выдержка. |
 | offset | Single | Смещение. |
-| gamma | Single | Гамма. |
+| гамма | Single | Гамма. |
 
-### Смотрите также
+### См. также
 
 * class [ExpaResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`ExpaResource`](../) класс.
+Инициализирует новый экземпляр класса [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource(byte[] bytes)
@@ -54,18 +55,18 @@ public ExpaResource(byte[] bytes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bytes | Byte[] | Байты. |
+| байты | Byte[] | Байты. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Неверные данные Expa Resource |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недействительные данные ресурса Expa |
 
-### Смотрите также
+### См. также
 
 * class [ExpaResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.MinimalVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelAspectRatioResource свойство. Получает минимальную требуемую версию PSD.
+title: "PixelAspectRatioResource.MinimalVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PixelAspectRatioResource. Возвращает минимальную требуемую версию PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.MinimalVersion property
 
 Получает минимальную требуемую версию PSD.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/minim
 public override int MinimalVersion { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Минимальная версия PSD.
 
-### Смотрите также
+### См. также
 
 * class [PixelAspectRatioResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

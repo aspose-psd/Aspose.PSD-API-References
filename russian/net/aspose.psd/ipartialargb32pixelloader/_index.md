@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialArgb32PixelLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IPartialArgb32PixelLoader интерфейс. Соответствует частично загруженным 32битным пикселям ARGB.
+title: "Интерфейс IPartialArgb32PixelLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IPartialArgb32PixelLoader. Соответствует частично загруженным 32‑битным пикселям ARGB"
 type: docs
-weight: 4510
+weight: 4980
 url: /ru/net/aspose.psd/ipartialargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb32PixelLoader interface
 
 Соответствует частично загруженным 32-битным пикселям ARGB.
@@ -20,9 +21,9 @@ public interface IPartialArgb32PixelLoader
 | --- | --- |
 | [Process](../../aspose.psd/ipartialargb32pixelloader/process/)(Rectangle, int[], Point, Point) | Обрабатывает загруженные пиксели. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

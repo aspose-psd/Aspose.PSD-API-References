@@ -1,11 +1,12 @@
 ---
-title: StringStructure.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringStructure свойство. Получает ключ.
+title: "StringStructure.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StringStructure свойство. Возвращает ключ"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/key/
 ---
+{{< psd/tize >}}
 ## StringStructure.Key property
 
 Получает ключ.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StringStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

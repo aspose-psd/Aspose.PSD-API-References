@@ -1,14 +1,15 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Бинаризация изображения с заданным порогом
+title: "PsdImage.BinarizeFixed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Бинаризация изображения с предустановленным порогом"
 type: docs
-weight: 480
+weight: 540
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-Бинаризация изображения с заданным порогом
+Бинаризация изображения с предопределённым порогом
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
@@ -16,12 +17,12 @@ public override void BinarizeFixed(byte threshold)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threshold | Byte | Пороговое значение. Если соответствующее значение серого пикселя больше порогового значения, ему будет присвоено значение 255, в противном случае — 0. |
+| threshold | Byte | Значение порога. Если соответствующее серое значение пикселя больше порога, ему будет присвоено значение 255, иначе 0. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

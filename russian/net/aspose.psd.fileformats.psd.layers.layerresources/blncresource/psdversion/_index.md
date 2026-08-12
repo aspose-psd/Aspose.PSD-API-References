@@ -1,23 +1,24 @@
 ---
-title: BlncResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlncResource свойство. Получает версию PSD.
+title: "BlncResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BlncResource свойство. Возвращает версию PSD"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BlncResource.PsdVersion property
 
-Получает версию PSD.
+Возвращает версию PSD.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlncResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

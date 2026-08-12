@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Получает массив необработанных данных по умолчанию с использованием частичной загрузки пикселей.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Получает массив необработанных данных по умолчанию, используя частичный загрузчик пикселей."
 type: docs
 weight: 300
 url: /ru/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-Получает массив необработанных данных по умолчанию с использованием частичной загрузки пикселей.
+Получает массив необработанных данных по умолчанию с использованием частичного загрузчика пикселей.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
@@ -17,18 +18,18 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, для которого нужно получить пиксели. |
+| прямоугольник | Rectangle | Прямоугольник, для которого получаются пиксели. |
 | partialRawDataLoader | IPartialRawDataLoader | Частичный загрузчик необработанных данных. |
 | rawDataSettings | RawDataSettings | Настройки необработанных данных. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,19 +43,19 @@ public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSett
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, для которого нужно получить необработанные данные. |
+| прямоугольник | Rectangle | Прямоугольник, для которого получаются необработанные данные. |
 | rawDataSettings | RawDataSettings | Настройки необработанных данных. |
 
 ### Возвращаемое значение
 
 Массив необработанных данных по умолчанию.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

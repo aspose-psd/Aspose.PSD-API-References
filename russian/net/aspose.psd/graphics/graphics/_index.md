@@ -1,14 +1,15 @@
 ---
-title: Graphics.Graphics
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics строитель. Инициализирует новый экземплярGraphics класс.
+title: "Graphics.Graphics"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Graphics. Инициализирует новый экземпляр класса Graphics"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-Инициализирует новый экземпляр[`Graphics`](../) класс.
+Инициализирует новый экземпляр класса [`Graphics`](../).
 
 ```csharp
 public Graphics(Image sourceImage)
@@ -18,11 +19,11 @@ public Graphics(Image sourceImage)
 | --- | --- | --- |
 | sourceImage | Image | Исходное изображение. |
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: IImageLoader.Load
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageLoader метод. Открывает новое изображение сloadOptions .
+title: "IImageLoader.Load"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageLoader. Открывает новое изображение с loadOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-Открывает новое изображение с*loadOptions* .
+Открывает новое изображение с *loadOptions*.
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
@@ -17,19 +18,19 @@ public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Контейнер потока. |
-| loadOptions | LoadOptions | Варианты загрузки. |
+| loadOptions | LoadOptions | Параметры загрузки. |
 
 ### Возвращаемое значение
 
-Недавно открытый экземпляр изображения.
+Новый открытый экземпляр изображения.
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* пространство имен [Aspose.PSD](../../iimageloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задает наборы процессов документа.
+title: "AiHeader.DocumentProcSets"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает наборы процессоров документа"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
 Получает или задает наборы процессов документа.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 public string DocumentProcSets { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Наборы процедур документа.
+Наборы процессоров документа.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

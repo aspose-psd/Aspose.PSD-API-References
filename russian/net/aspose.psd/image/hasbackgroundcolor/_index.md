@@ -1,23 +1,24 @@
 ---
-title: Image.HasBackgroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. Получает или задает значение указывающее имеет ли изображение фоновый цвет.
+title: "Image.HasBackgroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Получает или задает значение, указывающее, имеет ли изображение фоновой цвет"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/image/hasbackgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.HasBackgroundColor property
 
-Получает или задает значение, указывающее, имеет ли изображение фоновый цвет.
+Получает или задает значение, указывающее, имеет ли изображение цвет фона.
 
 ```csharp
 public virtual bool HasBackgroundColor { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

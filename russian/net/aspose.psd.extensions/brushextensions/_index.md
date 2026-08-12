@@ -1,14 +1,15 @@
 ---
-title: Class BrushExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.BrushExtensions сорт. Содержит методы расширения дляBrush иBrush .
+title: "Класс BrushExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.BrushExtensions. Содержит методы расширения для Brush и Brush"
 type: docs
-weight: 1030
+weight: 1040
 url: /ru/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-Содержит методы расширения для[`Brush`](../../aspose.psd/brush/) иBrush .
+Содержит методы расширения для [`Brush`](../../aspose.psd/brush/) и Brush.
 
 ```csharp
 public static class BrushExtensions
@@ -18,11 +19,11 @@ public static class BrushExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Преобразует[`Brush`](../../aspose.psd/brush/) кBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Преобразует [`Brush`](../../aspose.psd/brush/) в Brush. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

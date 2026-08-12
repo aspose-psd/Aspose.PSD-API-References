@@ -1,14 +1,15 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinearGradientBrush метод. Создает спад градиента на основе колоколообразной кривой.
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LinearGradientBrush. Создает затухание градиента на основе колоколообразной кривой"
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-Создает спад градиента на основе колоколообразной кривой.
+Создает спад градиента, основанный на колоколообразной кривой.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
@@ -16,19 +17,19 @@ public void SetSigmaBellShape(float focus)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| focus | Single | Значение от 0 до 1, указывающее центр градиента (точка, где начальный и конечный цвета смешиваются одинаково). |
+| фокус | Single | Значение от 0 до 1, которое определяет центр градиента (точка, где начальный и конечный цвета смешиваются поровну). |
 
-### Смотрите также
+### См. также
 
 * class [LinearGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-Создает спад градиента на основе колоколообразной кривой.
+Создает спад градиента, основанный на колоколообразной кривой.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
@@ -36,13 +37,13 @@ public void SetSigmaBellShape(float focus, float scale)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| focus | Single | Значение от 0 до 1, указывающее центр градиента (точка, в которой градиент состоит только из конечного цвета). |
-| scale | Single | Значение от 0 до 1, указывающее, насколько быстро цвета исчезают из*focus*. |
+| фокус | Single | Значение от 0 до 1, которое определяет центр градиента (точка, где градиент состоит только из конечного цвета). |
+| scale | Single | Значение от 0 до 1, которое определяет скорость затухания цветов от *фокуса*. |
 
-### Смотрите также
+### См. также
 
 * class [LinearGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

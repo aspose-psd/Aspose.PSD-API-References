@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает длину источника данных ссылки в байтах.
+title: "LinkDataSource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Получает длину источника ссылки в байтах"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Length property
 
 Получает длину источника данных ссылки в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/len
 public long Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

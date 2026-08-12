@@ -1,14 +1,15 @@
 ---
-title: Region.Xor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Обновляет этоRegion на объединение минус пересечение себя с указаннымRectangleFструктура.
+title: "Region.Xor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Обновляет данный Region, объединяя его за вычетом пересечения с указанной структурой RectangleF"
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-Обновляет это[`Region`](../) на объединение минус пересечение себя с указанным[`RectangleF`](../../rectanglef/)структура.
+Обновляет данный [`Region`](../), объединяя его за вычетом пересечения с указанной структурой [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Xor(RectangleF rect)
@@ -16,20 +17,20 @@ public void Xor(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) структура для xor с этим[`Region`](../). |
+| rect | RectangleF | Структура [`RectangleF`](../../rectanglef/) для операции xor с данным [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-Обновляет это[`Region`](../) на объединение минус пересечение себя с указанным[`Rectangle`](../../rectangle/)структура.
+Обновляет данный [`Region`](../), объединяя его за вычетом пересечения с указанной структурой [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Xor(Rectangle rect)
@@ -37,20 +38,20 @@ public void Xor(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) структура для xor с этим[`Region`](../). |
+| rect | Rectangle | Структура [`Rectangle`](../../rectangle/) для операции xor с данным [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-Обновляет это[`Region`](../) на объединение минус пересечение себя с указанным[`GraphicsPath`](../../graphicspath/) .
+Обновляет данный [`Region`](../), объединяя его за вычетом пересечения с указанным [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Xor(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Xor(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) xor с этим[`Region`](../). |
+| path | GraphicsPath | Объект [`GraphicsPath`](../../graphicspath/) для операции xor с данным [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *path* равно нулю. |
+| ArgumentNullException | *path* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-Обновляет это[`Region`](../) на объединение минус пересечение себя с указанным[`Region`](../) .
+Обновляет данный [`Region`](../), объединяя его за вычетом пересечения с указанным [`Region`](../).
 
 ```csharp
 public void Xor(Region region)
@@ -85,18 +86,18 @@ public void Xor(Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | [`Region`](../) xor с этим[`Region`](../). |
+| region | Region | Объект [`Region`](../) для операции xor с данным [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *region* равно нулю. |
+| ArgumentNullException | *region* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

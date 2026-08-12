@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.Parameters
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceEvent свойство. Получает или задает дополнительное описание действия.
+title: "ResourceEvent.Parameters"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceEvent. Получает или задает дополнительное описание действия"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Parameters property
 
 Получает или задает дополнительное описание действия.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters
 public string Parameters { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Дополнительное описание действия.
 
-### Смотрите также
+### См. также
 
 * class [ResourceEvent](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

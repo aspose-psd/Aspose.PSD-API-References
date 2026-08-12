@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.UrlListResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: UrlListResource строитель. Конструктор по умолчанию.
+title: "UrlListResource.UrlListResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор UrlListResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/urllistresource/
 ---
+{{< psd/tize >}}
 ## UrlListResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/urllistresourc
 public UrlListResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [UrlListResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

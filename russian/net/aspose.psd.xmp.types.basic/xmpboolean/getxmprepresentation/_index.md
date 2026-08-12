@@ -1,11 +1,12 @@
 ---
-title: XmpBoolean.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBoolean метод. Возвращает строковое значение в формате XMP.
+title: "XmpBoolean.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBoolean. Возвращает строковое значение в формате XMP"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.GetXmpRepresentation method
 
 Возвращает строковое значение в формате XMP.
@@ -18,10 +19,10 @@ public override string GetXmpRepresentation()
 
 Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [XmpBoolean](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

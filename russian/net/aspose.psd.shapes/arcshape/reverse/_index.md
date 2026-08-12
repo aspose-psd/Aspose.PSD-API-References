@@ -1,23 +1,24 @@
 ---
-title: ArcShape.Reverse
-second_title: Справочник по Aspose.PSD для .NET API
-description: ArcShape метод. Меняет порядок точек этой фигуры на обратный.
+title: "ArcShape.Reverse"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ArcShape method. Меняет порядок точек для этой фигуры"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
-Меняет порядок точек этой фигуры на обратный.
+Изменяет порядок точек для этой фигуры.
 
 ```csharp
 public void Reverse()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ArcShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../arcshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape свойство. Получает ширину прямоугольника.
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RectangleProjectedShape. Возвращает ширину прямоугольника"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
 Получает ширину прямоугольника.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 public double RectangleWidth { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина прямоугольника.
 
-### Смотрите также
+### См. также
 
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

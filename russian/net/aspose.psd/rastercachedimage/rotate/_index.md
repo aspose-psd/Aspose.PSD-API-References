@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Rotate
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterCachedImage метод. Повернуть изображение вокруг центра.
+title: "RasterCachedImage.Rotate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterCachedImage. Поворот изображения вокруг центра"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/rastercachedimage/rotate/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Rotate method
 
-Повернуть изображение вокруг центра.
+Поворачивает изображение вокруг центра.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,15 +17,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота в градусах. Положительные значения будут вращаться по часовой стрелке. |
-| resizeProportionally | Boolean | если установлено`истинный` у вас будет размер вашего изображения, измененный в соответствии с проекциями повернутого прямоугольника (угловые точки), в другом случае, который оставляет размеры нетронутыми, и поворачивается только внутреннее содержимое изображения. |
+| угол | Single | Угол поворота в градусах. Положительные значения вращают по часовой стрелке. |
+| resizeProportionally | Boolean | если установить `true`, размер изображения будет изменён в соответствии с проекциями повернутого прямоугольника (угловых точек); в противном случае размеры останутся неизменными, и будет повернуто только внутреннее содержимое изображения. |
 | backgroundColor | Color | Цвет фона. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

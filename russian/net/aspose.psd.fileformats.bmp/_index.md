@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает обработку файлов формата Bmp.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает формат файлов Bmp"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.psd.fileformats.bmp/
 ---
-Пространство имен обрабатывает обработку файлов формата Bmp.
+{{< psd/tize >}}
+Пространство имён обрабатывает формат файлов Bmp.
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [BitmapCompression](./bitmapcompression/) | Задает различные методы сжатия растрового изображения. |
+| [BitmapCompression](./bitmapcompression/) | Указывает различные методы сжатия битмапа. |
 
 

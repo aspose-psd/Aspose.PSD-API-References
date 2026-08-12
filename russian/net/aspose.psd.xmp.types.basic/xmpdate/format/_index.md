@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDate свойство. Получает строку формата для текущего значения.
+title: "XmpDate.Format"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpDate. Получает строку формата для текущего значения"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 Получает строку формата для текущего значения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/format/
 public string Format { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Строка формата для текущего значения.
 
-### Смотрите также
+### См. также
 
 * class [XmpDate](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

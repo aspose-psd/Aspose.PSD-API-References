@@ -1,11 +1,12 @@
 ---
-title: IVectorPathData.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: IVectorPathData свойство. Получает или задает версию.
+title: "IVectorPathData.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IVectorPathData. Возвращает или задает версию."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Version property
 
 Получает или задает версию.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для корректной работы операции обрезки.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Загружаем сохраненное изображение и проверяем изменения.
+// Загрузить сохранённое изображение и проверить изменения.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // Поиск ресурса WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IVectorPathData](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

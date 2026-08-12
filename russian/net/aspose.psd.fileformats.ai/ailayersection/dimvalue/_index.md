@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение затемнения в процентах. Уменьшает интенсивность связанных изображений и растровых изображений содержащихся в слое до указанного процента.
+title: "AiLayerSection.DimValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Получает или задает значение затемнения в процентах. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое, до указанного процента."
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
 Получает или задает значение затемнения в процентах. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое, до указанного процента.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 public int DimValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение затемнения в процентах.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

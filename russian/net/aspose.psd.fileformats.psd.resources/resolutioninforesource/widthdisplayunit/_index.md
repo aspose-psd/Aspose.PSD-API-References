@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResolutionInfoResource свойство. Получает или задает единицу отображения ширины.
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResolutionInfoResource. Возвращает или задает единицу отображения ширины"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
 Получает или задает единицу отображения ширины.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdi
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Единица отображения ширины.
 
-### Смотрите также
+### См. также
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

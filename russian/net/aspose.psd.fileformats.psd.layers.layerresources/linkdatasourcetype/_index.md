@@ -1,29 +1,30 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType перечисление. Определяет перечисление LinkDataSourceType для источников данных в ресурсе ссылки PSD.
+title: "Перечисление LinkDataSourceType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Определяет перечисление LinkDataSourceType для источников данных в ресурсе ссылки PSD"
 type: docs
-weight: 2700
+weight: 3000
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-Определяет перечисление LinkDataSourceType для источников данных в ресурсе ссылки PSD.
+Определяет перечисление LinkDataSourceType для источников данных в ресурсе PSD link.
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `0` | Пустой ресурс ссылки. |
-| liFD | `1` | Встроенный связанный файл data |
-| liFE | `2` | Внешний связанный файл data |
-| liFA | `3` | Псевдоним связанного файла data |
+| liFD | `1` | Встроенные данные связанного файла. |
+| liFE | `2` | Внешние данные связанного файла |
+| liFA | `3` | Данные псевдонима связанного файла |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса LnkeResource.
 
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

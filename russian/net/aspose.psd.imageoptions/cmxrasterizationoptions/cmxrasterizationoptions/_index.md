@@ -1,11 +1,12 @@
 ---
-title: CmxRasterizationOptions.CmxRasterizationOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmxRasterizationOptions строитель. Конструктор по умолчанию.
+title: "CmxRasterizationOptions.CmxRasterizationOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CmxRasterizationOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/cmxrasterizationoptions/cmxrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imageoptions/cmxrasterizationoptions/cmxrasterizationopt
 public CmxRasterizationOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [CmxRasterizationOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

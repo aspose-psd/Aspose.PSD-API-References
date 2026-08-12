@@ -1,14 +1,15 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: Справочник по Aspose.PSD для .NET API
-description: IOSTypeStructureLoader метод. ЗагружаетOSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IOSTypeStructureLoader. Загружает OSTypeStructure"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-Загружает[`OSTypeStructure`](../../ostypestructure/) .
+Загружает [`OSTypeStructure`](../../ostypestructure/).
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
@@ -16,18 +17,18 @@ public OSTypeStructure Load(StreamContainer streamContainer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для загрузки. |
+| streamContainer | StreamContainer | Контейнер потока, из которого загружать. |
 
 ### Возвращаемое значение
 
-Загруженный[`OSTypeStructure`](../../ostypestructure/) ресурс.
+Загруженный ресурс [`OSTypeStructure`](../../ostypestructure/).
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

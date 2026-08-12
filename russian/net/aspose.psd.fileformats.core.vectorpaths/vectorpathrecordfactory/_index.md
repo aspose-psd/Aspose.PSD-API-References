@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory сорт. Класс фабрики записей векторного пути
+title: "Класс VectorPathRecordFactory"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory. Класс фабрики записей векторного пути"
 type: docs
-weight: 1410
+weight: 1420
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Класс фабрики записей векторного пути
+Класс фабрики записи векторного пути.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
-
-## Конструкторы
-
-| Имя | Описание |
-| --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | Конструктор по умолчанию. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Создает запись пути. |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Создаёт запись пути. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

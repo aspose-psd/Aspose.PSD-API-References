@@ -1,14 +1,15 @@
 ---
-title: Class PsdImageArgumentException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException сорт. Исключение аргумента изображения psd.
+title: "Класс PsdImageArgumentException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException класс. Исключение аргумента изображения psd"
 type: docs
 weight: 580
 url: /ru/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException class
 
-Исключение аргумента изображения psd.
+Исключение аргумента изображения PSD.
 
 ```csharp
 public class PsdImageArgumentException : PsdImageException
@@ -18,13 +19,13 @@ public class PsdImageArgumentException : PsdImageException
 
 | Имя | Описание |
 | --- | --- |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | Инициализирует новый экземпляр`PsdImageArgumentException` класс. |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`PsdImageArgumentException` класс. |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | Инициализирует новый экземпляр класса `PsdImageArgumentException`. |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `PsdImageArgumentException`. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImageException](../psdimageexception/)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

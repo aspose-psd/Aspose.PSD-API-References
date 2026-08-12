@@ -1,35 +1,36 @@
 ---
-title: Enum ColorModes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.ColorModes перечисление. Представляет цветовые режимы формата файла psd.
+title: "Перечисление ColorModes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.ColorModes. Представляет режимы цвета формата файлов psd"
 type: docs
-weight: 1610
+weight: 1620
 url: /ru/net/aspose.psd.fileformats.psd/colormodes/
 ---
+{{< psd/tize >}}
 ## ColorModes enumeration
 
-Представляет цветовые режимы формата файла psd.
+Представляет режимы цвета формата файла PSD.
 
 ```csharp
 public enum ColorModes : short
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Bitmap | `0` | Цветовой режим растрового изображения. |
-| Grayscale | `1` | Режим оттенков серого. |
-| Indexed | `2` | Индексированный цветовой режим. |
-| Rgb | `3` | Цветовой режим RGB. |
-| Cmyk | `4` | Цветовой режим CMYK. |
-| Multichannel | `7` | Многоканальный цветовой режим. |
-| Duotone | `8` | Двухцветный цветовой режим. |
-| Lab | `9` | Лабораторный цветовой режим. |
+| Bitmap | `0` | Режим цвета битовой карты. |
+| Grayscale | `1` | Режим градаций серого. |
+| Indexed | `2` | Индексированный режим цвета. |
+| Rgb | `3` | Режим цвета RGB. |
+| Cmyk | `4` | Режим цвета CMYK. |
+| Multichannel | `7` | Многоканальный режим цвета. |
+| Duotone | `8` | Дуотональный режим цвета. |
+| Lab | `9` | Режим цвета Lab. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

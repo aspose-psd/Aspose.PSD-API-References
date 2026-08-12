@@ -1,11 +1,12 @@
 ---
-title: BooleanResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: BooleanResource свойство. Получает длину ресурса слоя в байтах.
+title: "BooleanResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BooleanResource. Возвращает длину ресурса слоя в байтах"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/le
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BooleanResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

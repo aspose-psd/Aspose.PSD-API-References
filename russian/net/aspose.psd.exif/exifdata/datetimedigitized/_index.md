@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает оцифрованную дату и время.
+title: "ExifData.DateTimeDigitized"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает дату и время оцифровки"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-Получает или устанавливает оцифрованную дату и время.
+Получает или задаёт дату и время оцифровки.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дата и время оцифрованы.
+Дата и время оцифровки.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

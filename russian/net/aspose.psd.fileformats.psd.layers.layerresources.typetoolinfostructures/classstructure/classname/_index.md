@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.ClassName
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassStructure свойство. Получает или задает имя класса.
+title: "ClassStructure.ClassName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClassStructure. Получает или задает имя класса"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassName property
 
 Получает или задает имя класса.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string ClassName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя класса.
 
-### Смотрите также
+### См. также
 
 * class [ClassStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

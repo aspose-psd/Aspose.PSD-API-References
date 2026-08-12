@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageLoadersRegistry метод. Получает первый поддерживаемый дескриптор по имени его типа.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageLoadersRegistry. Получает первый поддерживаемый дескриптор по его имени типа"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Получает первый поддерживаемый дескриптор по имени его типа.
+Получает первый поддерживаемый дескриптор по его имени типа.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
@@ -23,15 +24,15 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
 
 Первый найденный дескриптор загрузчика или null, если такой дескриптор не найден.
 
-### Примечания
+## Примечания
 
-Первый дескриптор загрузчика будет фактически последним зарегистрированным.
+Первый дескриптор загрузчика на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageloadersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: DitheringMode.Bits
-second_title: Справочник по Aspose.PSD для .NET API
-description: DitheringMode свойство. Коэффициент дискретизации сглаженного изображения.
+title: "DitheringMode.Bits"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "DitheringMode свойство. Коэффициент выборки дезерированного изображения"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.dithering/ditheringmode/bits/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Bits property
 
-Коэффициент дискретизации сглаженного изображения.
+Коэффициент дискретизации дизерированного изображения.
 
 ```csharp
 public int Bits { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [DitheringMode](../)
-* пространство имен [Aspose.PSD.Dithering](../../ditheringmode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

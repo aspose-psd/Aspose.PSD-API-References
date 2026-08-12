@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Iso8601Format
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDate поле. Строка формата ISO 8601 туда и обратно.
+title: "XmpDate.Iso8601Format"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле XmpDate. Строка формата ISO 8601 для обратного преобразования"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/iso8601format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Iso8601Format field
 
-Строка формата ISO 8601 (туда и обратно).
+Строка формата ISO 8601 (круговой переход).
 
 ```csharp
 public const string Iso8601Format;
 ```
 
-### Примечания
+## Примечания
 
-Подробнее: https://en.wikipedia.org/wiki/ISO_8601.
+Смотрите подробнее: https://en.wikipedia.org/wiki/ISO_8601.
 
-### Смотрите также
+### См. также
 
 * class [XmpDate](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

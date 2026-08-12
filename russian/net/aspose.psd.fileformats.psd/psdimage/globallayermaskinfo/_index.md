@@ -1,11 +1,12 @@
 ---
-title: PsdImage.GlobalLayerMaskInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает информацию о глобальной маске слоя.
+title: "PsdImage.GlobalLayerMaskInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage свойство. Возвращает информацию о глобальной маске слоя"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerMaskInfo property
 
 Получает информацию о глобальной маске слоя.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 public GlobalLayerMaskInfo GlobalLayerMaskInfo { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GlobalLayerMaskInfo](../../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

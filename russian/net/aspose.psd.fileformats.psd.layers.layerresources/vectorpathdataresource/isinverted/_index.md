@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.IsInverted
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorPathDataResource свойство. Получает или задает значение указывающее инвертирован ли этот экземпляр.
+title: "VectorPathDataResource.IsInverted"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorPathDataResource свойство. Получает или задает значение, указывающее, что данный экземпляр инвертирован"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsInverted property
 
 Получает или задает значение, указывающее, инвертирован ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdatareso
 public bool IsInverted { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр инвертирован; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр инвертирован; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [VectorPathDataResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

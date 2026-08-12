@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.BitsPerSample
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или устанавливает биты на выборку.
+title: "JpegExifData.BitsPerSample"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает количество бит на образец"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.exif/jpegexifdata/bitspersample/
 ---
+{{< psd/tize >}}
 ## JpegExifData.BitsPerSample property
 
-Получает или устанавливает биты на выборку.
+Получает или задает количество бит на образец.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество битов на выборку.
+Бит на образец.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

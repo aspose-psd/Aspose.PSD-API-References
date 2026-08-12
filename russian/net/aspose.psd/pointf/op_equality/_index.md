@@ -1,14 +1,15 @@
 ---
-title: PointF.op_Equality
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF метод. Сравнивает дваPointF структуры. Результат указывает являются ли значенияX иY свойства двухPointF структуры равны.
+title: "PointF.op_Equality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointF. Сравнивает две структуры PointF. Результат указывает, равны ли значения свойств X и Y у обеих структур PointF."
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-Сравнивает два[`PointF`](../) структуры. Результат указывает, являются ли значения[`X`](../x/) и[`Y`](../y/) свойства двух[`PointF`](../) структуры равны.
+Сравнивает две структуры [`PointF`](../). Результат указывает, равны ли значения свойств [`X`](../x/) и [`Y`](../y/) у обеих структур [`PointF`](../).
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
@@ -16,17 +17,17 @@ public static bool operator ==(PointF point1, PointF point2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point1 | PointF | Первый[`PointF`](../) сравнивать. |
-| point2 | PointF | Второй[`PointF`](../) сравнивать. |
+| point1 | PointF | Первая [`PointF`](../) для сравнения. |
+| point2 | PointF | Вторая [`PointF`](../) для сравнения. |
 
 ### Возвращаемое значение
 
-Верно, если[`X`](../x/) и[`Y`](../y/) значения первого и второго[`PointF`](../) структуры равны; в противном случае ложно.
+Истина, если значения [`X`](../x/) и [`Y`](../y/) первой и второй структур [`PointF`](../) равны; иначе — ложь.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

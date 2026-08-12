@@ -1,11 +1,12 @@
 ---
-title: CurvResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvResource свойство. Получает длину ресурса слоя в байтах.
+title: "CurvResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CurvResource свойство. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/length/
 ---
+{{< psd/tize >}}
 ## CurvResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CurvResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

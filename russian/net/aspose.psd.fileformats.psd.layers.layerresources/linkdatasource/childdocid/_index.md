@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.ChildDocId
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает или задает идентификатор дочернего документа в источнике данных liFE или liFD ресурса Lnk2 / LnkE Adobe Photoshop.
+title: "LinkDataSource.ChildDocId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Получает или задает идентификатор дочернего документа в источнике данных liFE или liFD ресурса Adobe Photoshop Lnk2 / LnkE."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.ChildDocId property
 
 Получает или задает идентификатор дочернего документа в источнике данных liFE или liFD ресурса Lnk2 / LnkE Adobe® Photoshop®.
@@ -14,20 +15,20 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/chi
 public string ChildDocId { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор дочернего документа в источнике данных liFE или liFD ресурса PSD Lnk2/LnkE.
+Идентификатор дочернего документа в источнике данных liFE или liFD ресурса PSD Lnk2 / LnkE.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству ChildDocId, оно доступно только для источника данных liFE или liFD с версией 5 или выше. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству ChildDocId, оно доступно только для источников данных liFE или liFD версии 5 и выше. |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Artist
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или устанавливает исполнителя.
+title: "JpegExifData.Artist"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает исполнителя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
-Получает или устанавливает исполнителя.
+Получает или задает автора.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Художник.
+Исполнитель.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

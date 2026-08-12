@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpRights
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Пространство имен управления правами XMP.
+title: "Namespaces.XmpRights"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Пространство имен управления правами XMP"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.xmp/namespaces/xmprights/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpRights field
 
-Пространство имен управления правами XMP.
+Пространство имён XMP Rights Management.
 
 ```csharp
 public const string XmpRights;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

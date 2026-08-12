@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Stream
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer свойство. Получает поток данных.
+title: "StreamContainer.Stream"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StreamContainer. Получает поток данных"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
 Получает поток данных.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/streamcontainer/stream/
 public virtual Stream Stream { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Поток данных.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

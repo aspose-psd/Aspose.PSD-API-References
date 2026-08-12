@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает направление GPS на точку назначения.
+title: "ExifData.GPSDestBearing"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает направление GPS к пункту назначения"
 type: docs
 weight: 400
 url: /ru/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-Получает или задает направление GPS на точку назначения.
+Получает или задает азимут GPS к целевой точке.
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-GPS-азимут до точки назначения.
+Направление GPS к пункту назначения.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

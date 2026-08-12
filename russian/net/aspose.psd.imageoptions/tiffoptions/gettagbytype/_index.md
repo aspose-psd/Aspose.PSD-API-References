@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions метод. Получает экземпляр тега по типу.
+title: "TiffOptions.GetTagByType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffOptions. Возвращает экземпляр тега по типу"
 type: docs
-weight: 720
+weight: 730
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
 Получает экземпляр тега по типу.
@@ -20,14 +21,14 @@ public TiffDataType GetTagByType(TiffTags tagKey)
 
 ### Возвращаемое значение
 
-Экземпляр тега, если он существует, или null в противном случае.
+Экземпляр тега, если он существует, иначе null.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IXmlValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.IXmlValue интерфейс. Преобразует значения xmp в строковое представление XML.
+title: "Интерфейс IXmlValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.IXmlValue interface. Преобразует значения xmp в строковое представление XML"
 type: docs
-weight: 5750
+weight: 6250
 url: /ru/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
 Преобразует значения xmp в строковое представление XML.
@@ -20,9 +21,9 @@ public interface IXmlValue
 | --- | --- |
 | [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | Преобразует значение XMP в представление XML. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

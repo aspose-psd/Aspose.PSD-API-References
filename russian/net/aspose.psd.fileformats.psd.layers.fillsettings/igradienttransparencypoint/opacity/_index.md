@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: IGradientTransparencyPoint свойство. Получает или задает прозрачность.
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IGradientTransparencyPoint. Получает или задает непрозрачность"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-Получает или задает прозрачность.
+Получает или задает непрозрачность.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность.
 
-### Смотрите также
+### См. также
 
 * interface [IGradientTransparencyPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

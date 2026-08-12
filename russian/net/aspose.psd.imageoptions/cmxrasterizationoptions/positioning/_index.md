@@ -1,11 +1,12 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmxRasterizationOptions свойство. Получает или задает позиционирование.
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CmxRasterizationOptions свойство. Получает или задает позиционирование"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
 Получает или задает позиционирование.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 public PositioningTypes Positioning { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Позиционирование.
 
-### Смотрите также
+### См. также
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

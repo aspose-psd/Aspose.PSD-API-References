@@ -1,14 +1,15 @@
 ---
-title: Class ClblResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource сорт. Класс ClblResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
+title: "Класс ClblResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource. Класс ClblResource. Этот ресурс содержит информацию о смешивании обрезанных элементов"
 type: docs
-weight: 2370
+weight: 2630
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
+{{< psd/tize >}}
 ## ClblResource class
 
-Класс ClblResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
+Класс ClblResource. Этот ресурс содержит информацию о наложении обрезанного элемента.
 
 ```csharp
 public class ClblResource : BooleanResource
@@ -18,38 +19,38 @@ public class ClblResource : BooleanResource
 
 | Имя | Описание |
 | --- | --- |
-| [ClblResource](clblresource/#constructor)() | Инициализирует новый экземпляр`ClblResource` класс. |
-| [ClblResource](clblresource/#constructor_1)(bool) | Инициализирует новый экземпляр`ClblResource` класс. |
-| [ClblResource](clblresource/#constructor_2)(byte[]) | Инициализирует новый экземпляр`ClblResource` class. С пользовательским или неизвестным значением |
+| [ClblResource](clblresource/#constructor)() | Инициализирует новый экземпляр класса `ClblResource`. |
+| [ClblResource](clblresource/#constructor_1)(bool) | Инициализирует новый экземпляр класса `ClblResource`. |
+| [ClblResource](clblresource/#constructor_2)(byte[]) | Инициализирует новый экземпляр класса `ClblResource`. С пользовательским или неизвестным значением |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | Получает или задает значение, указывающее, следует ли [смешивать обрезанные элементы]. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | Получает или задает значение, указывающее, следует ли [blend clipped elements]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
 * class [BooleanResource](../booleanresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

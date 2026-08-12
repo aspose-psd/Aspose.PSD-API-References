@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Reverse
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Получает или задает значение указывающее является ли этоGradientFillSettings является обратным.
+title: "GradientFillSettings.Reverse"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Получает или задает значение, указывающее, является ли этот GradientFillSettings обратным"
 type: docs
-weight: 110
+weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Reverse property
 
-Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../) является обратным.
+Получает или задает значение, указывающее, является ли этот [`GradientFillSettings`](../) обратным.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если наоборот; в противном случае,`ЛОЖЬ` .
+`true` если обратный; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

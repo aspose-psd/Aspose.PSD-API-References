@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsTransparencyProtected
-second_title: Справочник по Aspose.PSD для .NET API
-description: LspfResource свойство. Получает или задает значение указывающее защищен ли этот экземпляр от прозрачности.
+title: "LspfResource.IsTransparencyProtected"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LspfResource. Возвращает или задает значение, указывающее, защищено ли этот экземпляр от прозрачности"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsTransparencyProtected property
 
-Получает или задает значение, указывающее, защищен ли этот экземпляр от прозрачности.
+Получает или задает значение, указывающее, защищён ли этот экземпляр защитой прозрачности.
 
 ```csharp
 public bool IsTransparencyProtected { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр защищен от прозрачности; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр защищён от прозрачности; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [LspfResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

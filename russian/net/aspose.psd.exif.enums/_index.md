@@ -1,35 +1,36 @@
 ---
-title: Aspose.PSD.Exif.Enums
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит перечисления EXIF.
+title: "Aspose.PSD.Exif.Enums"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит перечисления EXIF"
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.psd.exif.enums/
 ---
-Пространство имен содержит перечисления EXIF.
+{{< psd/tize >}}
+Пространство имён содержит перечисления EXIF.
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [ExifColorSpace](./exifcolorspace/) | цветовое пространство exif enum. |
-| [ExifContrast](./exifcontrast/) | exif обычный мягкий жесткий enum. |
-| [ExifCustomRendered](./exifcustomrendered/) | exif пользовательское перечисление. |
-| [ExifExposureMode](./exifexposuremode/) | режим экспонирования exif enum. |
-| [ExifExposureProgram](./exifexposureprogram/) | программа экспонирования exif enum. |
-| [ExifFileSource](./exiffilesource/) | источник файла exif enum. |
+| [ExifColorSpace](./exifcolorspace/) | Перечисление цветового пространства exif. |
+| [ExifContrast](./exifcontrast/) | Перечисление normal soft hard exif. |
+| [ExifCustomRendered](./exifcustomrendered/) | Перечисление custom rendered exif. |
+| [ExifExposureMode](./exifexposuremode/) | Перечисление режима экспозиции exif. |
+| [ExifExposureProgram](./exifexposureprogram/) | Перечисление программы экспозиции exif. |
+| [ExifFileSource](./exiffilesource/) | Перечисление источника файла exif. |
 | [ExifFlash](./exifflash/) | Режим вспышки. |
-| [ExifGainControl](./exifgaincontrol/) | enum управления усилением exif. |
-| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif ссылка на высоту GPS enum. |
+| [ExifGainControl](./exifgaincontrol/) | Перечисление управления усилением exif. |
+| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | Перечисление ссылки высоты GPS exif. |
 | [ExifLightSource](./exiflightsource/) | Источник света exif. |
-| [ExifMeteringMode](./exifmeteringmode/) | режим измерения exif enum. |
+| [ExifMeteringMode](./exifmeteringmode/) | Перечисление режима измерения экспозиции exif. |
 | [ExifOrientation](./exiforientation/) | Ориентация изображения Exif. |
-| [ExifSaturation](./exifsaturation/) | перечисление насыщенности exif. |
-| [ExifSceneCaptureType](./exifscenecapturetype/) | Тип захвата сцены exif enum. |
-| [ExifSensingMethod](./exifsensingmethod/) | метод обнаружения exif enum. |
-| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif диапазон расстояний до объекта enum. |
-| [ExifUnit](./exifunit/) | единица exif enum. |
-| [ExifWhiteBalance](./exifwhitebalance/) | exif перечисление баланса белого. |
-| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr позиционирование enum. |
+| [ExifSaturation](./exifsaturation/) | Перечисление насыщенности exif. |
+| [ExifSceneCaptureType](./exifscenecapturetype/) | Перечисление типа захвата сцены exif. |
+| [ExifSensingMethod](./exifsensingmethod/) | Перечисление метода измерения exif. |
+| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | Перечисление диапазона расстояния до объекта exif. |
+| [ExifUnit](./exifunit/) | Перечисление единиц exif. |
+| [ExifWhiteBalance](./exifwhitebalance/) | Перечисление баланса белого exif. |
+| [ExifYCbCrPositioning](./exifycbcrpositioning/) | Перечисление позиционирования y cb cr exif. |
 
 

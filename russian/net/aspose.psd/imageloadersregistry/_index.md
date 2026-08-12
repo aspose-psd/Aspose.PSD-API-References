@@ -1,20 +1,21 @@
 ---
-title: Class ImageLoadersRegistry
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageLoadersRegistry сорт. Представляет реестр загрузчиков образов.
+title: "Класс ImageLoadersRegistry"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageLoadersRegistry. Представляет реестр загрузчиков изображений"
 type: docs
-weight: 4780
+weight: 5270
 url: /ru/net/aspose.psd/imageloadersregistry/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry class
 
-Представляет реестр загрузчиков образов.
+Представляет реестр загрузчиков изображений.
 
 ```csharp
 public static class ImageLoadersRegistry
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,17 +26,17 @@ public static class ImageLoadersRegistry
 
 | Имя | Описание |
 | --- | --- |
-| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | Создает первый найденный загрузчик, подходящий для указанного*stream* и необязательно*loadOptions* . |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | Получает первый найденный поддерживаемый дескриптор, подходящий для указанного*stream* и необязательно*loadOptions* . |
-| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | Получает первый поддерживаемый формат файла по имени его типа. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | Получает первый поддерживаемый дескриптор по имени его типа. |
-| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | Регистрирует указанный дескриптор загрузчика изображения. |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | Создаёт первый найденный загрузчик, подходящий для указанного *stream* и, при необходимости, *loadOptions*. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | Получает первый найденный поддерживаемый дескриптор, подходящий для указанного *stream* и, при необходимости, *loadOptions*. |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | Получает первый поддерживаемый файловый формат по его имени типа. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | Получает первый поддерживаемый дескриптор по его имени типа. |
+| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | Регистрирует указанный дескриптор загрузчика изображений. |
 | static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | Регистрирует загрузчик. |
 | static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | Отменяет регистрацию загрузчика. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

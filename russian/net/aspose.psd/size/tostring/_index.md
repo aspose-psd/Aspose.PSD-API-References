@@ -1,14 +1,15 @@
 ---
-title: Size.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Создает удобочитаемую строку представляющую этотSize .
+title: "Size.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Создаёт человекочитаемую строку, представляющую этот Size"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-Создает удобочитаемую строку, представляющую этот[`Size`](../) .
+Создаёт человекочитаемую строку, представляющую этот [`Size`](../).
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, представляющая это[`Size`](../).
+Строка, представляющая этот [`Size`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Color.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. Проверяет является ли указанный объектColor структуру и эквивалентен этомуColorструктура.
+title: "Color.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Проверяет, является ли указанный объект структурой Color и эквивалентен этой структуре Color."
 type: docs
 weight: 1540
 url: /ru/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-Проверяет, является ли указанный объект[`Color`](../) структуру и эквивалентен этому[`Color`](../)структура.
+Проверяет, является ли указанный объект структурой [`Color`](../) и эквивалентен этой структуре [`Color`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект для тестирования. |
+| obj | Object | Объект для проверки. |
 
 ### Возвращаемое значение
 
-Верно, если*obj* это[`Color`](../) структура, эквивалентная этому[`Color`](../) состав; в противном случае ложно.
+Истина, если *obj* является структурой [`Color`](../), эквивалентной этой структуре [`Color`](../); иначе — ложь.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Timecode.Timecode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Timecode строитель. Инициализирует новый экземплярTimecode класс.
+title: "Timecode.Timecode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Timecode. Инициализирует новый экземпляр класса Timecode"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/timecode/
 ---
+{{< psd/tize >}}
 ## Timecode constructor
 
-Инициализирует новый экземпляр[`Timecode`](../) класс.
+Инициализирует новый экземпляр класса [`Timecode`](../).
 
 ```csharp
 public Timecode(TimeFormat format, string timeValue)
@@ -16,14 +17,14 @@ public Timecode(TimeFormat format, string timeValue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | TimeFormat | Формат времени. |
+| формат | TimeFormat | Формат времени. |
 | timeValue | String | Значение времени. |
 
-### Смотрите также
+### См. также
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Figure.Segments
-second_title: Справочник по Aspose.PSD для .NET API
-description: Figure свойство. Получает все сегменты фигуры.
+title: "Figure.Segments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Figure. Возвращает все сегменты фигуры"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
 Получает все сегменты фигуры.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/figure/segments/
 public ShapeSegment[] Segments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сегменты фигуры.
 
-### Смотрите также
+### См. также
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* пространство имен [Aspose.PSD](../../figure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

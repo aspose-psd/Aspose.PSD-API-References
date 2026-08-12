@@ -1,14 +1,15 @@
 ---
-title: Class TiffStreamWriter
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.FileManagement.TiffStreamWriter сорт. Потоковое устройство записи Tiff.
+title: "Класс TiffStreamWriter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Tiff.FileManagement.TiffStreamWriter. Записыватель потока Tiff"
 type: docs
-weight: 4200
+weight: 4670
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter class
 
-Потоковое устройство записи Tiff.
+Записыватель потока Tiff.
 
 ```csharp
 public class TiffStreamWriter
@@ -18,14 +19,14 @@ public class TiffStreamWriter
 
 | Имя | Описание |
 | --- | --- |
-| [TiffStreamWriter](tiffstreamwriter/)(StreamContainer) | Инициализирует новый экземпляр`TiffStreamWriter` класс. |
+| [TiffStreamWriter](tiffstreamwriter/)(StreamContainer) | Инициализирует новый экземпляр класса `TiffStreamWriter`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Position](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/) { get; set; } | Получает или задает позицию потока. |
-| [SyncRoot](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/) { get; } | Получает объект, который можно использовать для синхронизации доступа к синхронизируемому ресурсу. |
+| [SyncRoot](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/) { get; } | Получает объект, который можно использовать для синхронизации доступа к синхронизированному ресурсу. |
 
 ## Методы
 
@@ -33,29 +34,29 @@ public class TiffStreamWriter
 | --- | --- |
 | [Write](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/#write)(byte[]) | Записывает указанные данные. |
 | [Write](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/#write_1)(byte[], int, int) | Записывает указанные данные. |
-| [WriteDouble](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/)(double) | Записывает в поток одно двойное значение. |
-| [WriteDoubleArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray/)(double[]) | Записывает в поток массив двойных значений. |
-| [WriteFloat](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/)(float) | Записывает одно значение с плавающей запятой в поток. |
-| [WriteFloatArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/)(float[]) | Записывает в поток массив значений с плавающей запятой. |
-| [WriteRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/)(TiffRational) | Записывает в поток значение одного рационального числа. |
-| [WriteRationalArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/)(TiffRational[]) | Записывает в поток массив рациональных значений без знака. |
-| [WriteSByte](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/)(sbyte) | Записывает в поток значение одного байта со знаком. |
-| [WriteSByteArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/)(sbyte[]) | Записывает в поток массив байтовых значений со знаком. |
-| [WriteSlong](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/)(int) | Записывает в поток одно целочисленное значение. |
-| [WriteSLongArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslongarray/)(int[]) | Записывает в поток массив целочисленных значений. |
-| [WriteSRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrational/)(TiffSRational) | Записывает в поток значение рационального числа с одним знаком. |
-| [WriteSRationalArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrationalarray/)(TiffSRational[]) | Записывает в поток массив рациональных значений со знаком. |
-| [WriteSShort](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/)(short) | Записывает одно короткое значение в поток. |
-| [WriteSShortArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/)(short[]) | Записывает в поток массив коротких значений. |
-| [WriteUByte](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/)(byte) | Записывает однобайтовое значение в поток. |
-| [WriteULong](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulong/)(uint) | Записывает в поток одно целое число без знака. |
-| [WriteULongArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/)(uint[]) | Записывает в поток массив целочисленных значений без знака. |
-| [WriteUShort](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/)(ushort) | Записывает в поток одно короткое значение без знака. |
-| [WriteUShortArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/)(ushort[]) | Записывает в поток массив коротких значений без знака. |
+| [WriteDouble](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/)(double) | Записывает одно значение double в поток. |
+| [WriteDoubleArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray/)(double[]) | Записывает массив значений double в поток. |
+| [WriteFloat](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/)(float) | Записывает одно значение float в поток. |
+| [WriteFloatArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/)(float[]) | Записывает массив значений float в поток. |
+| [WriteRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/)(TiffRational) | Записывает одно рациональное число в поток. |
+| [WriteRationalArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/)(TiffRational[]) | Записывает массив беззнаковых рациональных значений в поток. |
+| [WriteSByte](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/)(sbyte) | Записывает одно знаковое байтовое значение в поток. |
+| [WriteSByteArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/)(sbyte[]) | Записывает массив знаковых байтовых значений в поток. |
+| [WriteSlong](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/)(int) | Записывает одно целочисленное значение в поток. |
+| [WriteSLongArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslongarray/)(int[]) | Записывает массив целочисленных значений в поток. |
+| [WriteSRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrational/)(TiffSRational) | Записывает одно знаковое рациональное число в поток. |
+| [WriteSRationalArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrationalarray/)(TiffSRational[]) | Записывает массив знаковых рациональных значений в поток. |
+| [WriteSShort](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/)(short) | Записывает одно короткое целое значение в поток. |
+| [WriteSShortArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/)(short[]) | Записывает массив коротких целых значений в поток. |
+| [WriteUByte](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/)(byte) | Записывает одно байтовое значение в поток. |
+| [WriteULong](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulong/)(uint) | Записывает одно беззнаковое целое значение в поток. |
+| [WriteULongArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/)(uint[]) | Записывает массив беззнаковых целых значений в поток. |
+| [WriteUShort](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/)(ushort) | Записывает одно беззнаковое короткое целое значение в поток. |
+| [WriteUShortArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/)(ushort[]) | Записывает массив беззнаковых коротких целых значений в поток. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../aspose.psd.fileformats.tiff.filemanagement/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../)
 
 

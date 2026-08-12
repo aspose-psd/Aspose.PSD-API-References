@@ -1,11 +1,12 @@
 ---
-title: VstkResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает версию psd.
+title: "VstkResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Возвращает версию PSD"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

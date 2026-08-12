@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerMaskData
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает данные маски слоя.
+title: "Layer.LayerMaskData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает данные маски слоя"
 type: docs
-weight: 220
+weight: 230
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
 Получает или задает данные маски слоя.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные маски слоя.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

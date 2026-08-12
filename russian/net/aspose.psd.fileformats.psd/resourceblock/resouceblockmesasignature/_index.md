@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock поле. Подпись ресурса ImageReady.
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock поле. Подпись ресурса ImageReady"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
 Подпись ресурса ImageReady.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 public const int ResouceBlockMeSaSignature;
 ```
 
-### Примеры
+## Примеры
 
-Следующий пример кода демонстрирует возможность корректной загрузки и сохранения файлов PSD с ресурсами с подписью MeSa.
+Следующий пример кода демонстрирует возможность корректно загружать и сохранять PSD‑файлы с ресурсами, имеющими подпись MeSa.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -40,10 +41,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

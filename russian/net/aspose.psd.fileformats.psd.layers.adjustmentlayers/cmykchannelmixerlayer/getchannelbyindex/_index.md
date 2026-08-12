@@ -1,14 +1,15 @@
 ---
-title: CmykChannelMixerLayer.GetChannelByIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykChannelMixerLayer метод. Получает индекс канала по. Возвращает CmykMixerChannel
+title: "CmykChannelMixerLayer.GetChannelByIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CmykChannelMixerLayer метод. Получает индекс канала по. Возвращает CmykMixerChannel"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.GetChannelByIndex method
 
-Получает индекс канала по. Возвращает CmykMixerChannel
+Получает индекс канала. Возвращает CmykMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
@@ -26,13 +27,13 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer имеет не более 4 каналов. Индекс Первого канала равен 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer содержит не более 4 каналов. Индекс первого канала равен 0 |
 
-### Смотрите также
+### См. также
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

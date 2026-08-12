@@ -1,28 +1,29 @@
 ---
-title: LayerMaskData.Flags
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskData свойство. Получает или устанавливает флаги маски слоя.
+title: "LayerMaskData.Flags"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskData. Получает или задает флаги маски слоя"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
-Получает или устанавливает флаги маски слоя.
+Получает или задает флаги маски слоя.
 
 ```csharp
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Флаги маски слоя.
 
-### Смотрите также
+### См. также
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

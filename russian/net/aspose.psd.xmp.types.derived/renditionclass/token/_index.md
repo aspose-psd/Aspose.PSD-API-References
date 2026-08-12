@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Token
-second_title: Справочник по Aspose.PSD для .NET API
-description: RenditionClass свойство. Получает или задает токен.
+title: "RenditionClass.Token"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RenditionClass. Получает или задает токен"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.derived/renditionclass/token/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Token property
 
 Получает или задает токен.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.derived/renditionclass/token/
 public string Token { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Токен.
 
-### Смотрите также
+### См. также
 
 * class [RenditionClass](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

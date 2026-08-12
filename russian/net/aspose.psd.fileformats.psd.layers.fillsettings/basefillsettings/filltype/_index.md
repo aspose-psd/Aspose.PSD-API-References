@@ -1,28 +1,29 @@
 ---
-title: BaseFillSettings.FillType
-second_title: Справочник по Aspose.PSD для .NET API
-description: BaseFillSettings свойство. Получает тип заливки.
+title: "BaseFillSettings.FillType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BaseFillSettings. Получает тип заливки"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings.FillType property
 
-Получает тип заливки.
+Возвращает тип заливки.
 
 ```csharp
 public abstract FillType FillType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип заливки.
 
-### Смотрите также
+### См. также
 
 * enum [FillType](../../filltype/)
 * class [BaseFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../basefillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

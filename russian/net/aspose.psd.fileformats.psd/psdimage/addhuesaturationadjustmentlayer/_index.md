@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой оттенка/насыщенности.
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage метод. Добавляет слой корректировки hue/saturation"
 type: docs
-weight: 350
+weight: 370
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-Добавляет корректирующий слой оттенка/насыщенности.
+Добавляет слой коррекции тона/насыщенности.
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
@@ -16,13 +17,13 @@ public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Недавно созданный слой оттенка/насыщенности.
+Новый созданный слой hue/saturation.
 
-### Смотрите также
+### См. также
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

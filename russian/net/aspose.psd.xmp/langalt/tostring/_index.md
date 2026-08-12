@@ -1,14 +1,15 @@
 ---
-title: LangAlt.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: LangAlt метод. ВозвращаетString который представляет этот экземпляр.
+title: "LangAlt.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LangAlt. Возвращает строку, представляющую этот экземпляр"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp/langalt/tostring/
 ---
+{{< psd/tize >}}
 ## LangAlt.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [LangAlt](../)
-* пространство имен [Aspose.PSD.Xmp](../../langalt/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

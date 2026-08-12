@@ -1,11 +1,12 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix поле. Эта константа является битовой маской для любого из битов флага масштабирования.
+title: "Matrix.TypeMaskScale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Matrix. Эта константа является битовой маской для любых битов флага масштаба."
 type: docs
 weight: 260
 url: /ru/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
 Эта константа является битовой маской для любого из битов флага масштабирования.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/matrix/typemaskscale/
 public const int TypeMaskScale;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

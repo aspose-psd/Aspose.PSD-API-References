@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeBoundingBox свойство. Получает или задает значение слева.
+title: "VectorShapeBoundingBox.Left"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeBoundingBox. Получает или задает левую границу"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
-Получает или задает значение слева.
+Получает или задает левую границу.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Левый.
+Левая сторона.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeBoundingBox](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

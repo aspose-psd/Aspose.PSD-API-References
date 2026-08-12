@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.PathPoints
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathGradientBrushBase свойство. Получает точки пути на которых построена эта кисть.
+title: "PathGradientBrushBase.PathPoints"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PathGradientBrushBase. Получает точки пути, на которых построена эта кисть"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.brushes/pathgradientbrushbase/pathpoints/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.PathPoints property
 
-Получает точки пути, на которых построена эта кисть.
+Получает точки пути, на котором построена эта кисть.
 
 ```csharp
 public PointF[] PathPoints { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Путь указывает.
+Точки пути.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

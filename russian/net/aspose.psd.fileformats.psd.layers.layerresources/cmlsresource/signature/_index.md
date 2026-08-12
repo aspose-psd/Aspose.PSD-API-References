@@ -1,11 +1,12 @@
 ---
-title: CmlsResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmlsResource свойство. Получает подпись.
+title: "CmlsResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CmlsResource. Возвращает подпись"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signature/
 ---
+{{< psd/tize >}}
 ## CmlsResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signa
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CmlsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

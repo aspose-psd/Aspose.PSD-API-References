@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSRational
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Считать значение рационального числа с одним знаком из потока.
+title: "TiffStreamReader.ReadSRational"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamReader. Считать одно знаковое рациональное число из потока"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRational method
 
-Считать значение рационального числа с одним знаком из потока.
+Считывает одно знаковое рациональное число из потока.
 
 ```csharp
 public TiffSRational ReadSRational(long position)
@@ -16,17 +17,17 @@ public TiffSRational ReadSRational(long position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
+| позиция | Int64 | Позиция, из которой читать. |
 
 ### Возвращаемое значение
 
-Рациональное число со знаком.
+Знаковое рациональное число.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

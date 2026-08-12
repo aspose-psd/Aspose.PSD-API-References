@@ -1,14 +1,15 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. УмножаетMatrix который представляет собой локальное геометрическое преобразование этогоGraphics указаннымMatrix путем добавления указанногоMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Умножает матрицу, представляющую локальное геометрическое преобразование этого Graphics, на указанную матрицу, предварительно добавляя указанную матрицу."
 type: docs
-weight: 420
+weight: 430
 url: /ru/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Умножает[`Matrix`](../../matrix/) который представляет собой локальное геометрическое преобразование этого[`Graphics`](../) указанным[`Matrix`](../../matrix/) путем добавления указанного[`Matrix`](../../matrix/) .
+Умножает [`Matrix`](../../matrix/), представляющую локальное геометрическое преобразование этого [`Graphics`](../), на указанную [`Matrix`](../../matrix/), предварительно добавляя указанную [`Matrix`](../../matrix/).
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
@@ -16,20 +17,20 @@ public void MultiplyTransform(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) на который умножается геометрическое преобразование. |
+| matrix | Matrix | [`Matrix`](../../matrix/), на которую следует умножить геометрическое преобразование. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Умножает[`Matrix`](../../matrix/) который представляет собой локальное геометрическое преобразование этого[`Graphics`](../) указанным[`Matrix`](../../matrix/) в указанном порядке.
+Умножает [`Matrix`](../../matrix/), представляющую локальное геометрическое преобразование этого [`Graphics`](../), на указанную [`Matrix`](../../matrix/) в указанном порядке.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
@@ -37,15 +38,15 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) на который умножается геометрическое преобразование. |
-| order | MatrixOrder | А[`MatrixOrder`](../../matrixorder/) который указывает, в каком порядке умножать две матрицы. |
+| matrix | Matrix | [`Matrix`](../../matrix/), на которую следует умножить геометрическое преобразование. |
+| order | MatrixOrder | [`MatrixOrder`](../../matrixorder/), определяющий порядок умножения двух матриц. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

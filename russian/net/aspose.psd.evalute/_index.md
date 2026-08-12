@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Справочник по Aspose.PSD для .NET API
-description: Обработка заголовка DIB пространства имен.
+title: "Aspose.PSD.Evalute"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён DIB header processing"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd.evalute/
 ---
-Обработка заголовка DIB пространства имен.
+{{< psd/tize >}}
+Пространство имён обрабатывает заголовок DIB.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [EvalException](./evalexception/) | Пользовательское исключение для ошибок оценки |
 

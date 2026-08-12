@@ -1,11 +1,12 @@
 ---
-title: AiImage.Resize
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage метод. Изменяет размер изображения.
+title: "AiImage.Resize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод AiImage. Изменяет размер изображения"
 type: docs
-weight: 150
+weight: 180
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Изменяет размер изображения.
@@ -26,12 +27,12 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- |
 | NotImplementedException | &gt;Не реализовано |
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -47,7 +48,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Новая ширина. |
 | newHeight | Int32 | Новая высота. |
-| settings | ImageResizeSettings | Настройки изменения размера. |
+| настройки | ImageResizeSettings | Настройки изменения размера. |
 
 ### Исключения
 
@@ -55,11 +56,11 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- |
 | NotImplementedException | &gt;Не реализовано |
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

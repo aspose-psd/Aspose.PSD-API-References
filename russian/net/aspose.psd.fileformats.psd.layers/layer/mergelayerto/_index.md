@@ -1,14 +1,15 @@
 ---
-title: Layer.MergeLayerTo
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer метод. Объединяет слой с указанным layer
+title: "Layer.MergeLayerTo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Layer. Объединяет слой с указанным слоем"
 type: docs
-weight: 360
+weight: 380
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
-Объединяет слой с указанным layer
+Объединяет слой с указанным слоем
 
 ```csharp
 public virtual void MergeLayerTo(Layer layerToMergeInto)
@@ -16,12 +17,12 @@ public virtual void MergeLayerTo(Layer layerToMergeInto)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Слой для слияния. |
+| layerToMergeInto | Слой | Слой, в который будет выполнено объединение. |
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

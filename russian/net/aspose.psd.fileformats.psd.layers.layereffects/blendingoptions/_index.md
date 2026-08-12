@@ -1,40 +1,42 @@
 ---
-title: Class BlendingOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions сорт. Параметры наложения. Это оболочка для Lfx2Resource которая предоставляет API для слоя Effects
+title: "Класс BlendingOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions класс. BlendingOptions. Это оболочка для BaseFxResource, предоставляющая API для эффектов слоёв."
 type: docs
-weight: 2100
+weight: 2290
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-Параметры наложения. Это оболочка для Lfx2Resource, которая предоставляет API для слоя Effects
+BlendingOptions. Это оболочка для BaseFxResource, которая предоставляет API для эффектов слоёв.
 
 ```csharp
 public class BlendingOptions
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Получает эффекты. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | Получает или задает видимость всех эффектов слоёв. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Получает эффекты. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Добавляет наложение цвета. |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Добавляет эффект тени. |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Добавляет наложение градиента. |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Добавляет эффект отбрасываемой тени. |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Добавляет градиентное наложение. |
 | [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Добавляет эффект внутренней тени. |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Добавляет эффект внешнего свечения. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Добавляет наложение шаблона. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Добавляет наложение узора. |
 | [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Добавляет эффект обводки. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует, как изменить настройки эффекта слоя внутренней тени.
+Следующий код демонстрирует, как изменить настройки эффекта внутренней тени слоя.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ public class BlendingOptions
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

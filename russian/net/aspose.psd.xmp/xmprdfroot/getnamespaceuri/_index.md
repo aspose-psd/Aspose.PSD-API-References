@@ -1,14 +1,15 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRdfRoot метод. Получает URI пространства имен по определенному префиксу. Префикс может начинаться без xmlns.
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpRdfRoot. Получает URI пространства имён по конкретному префиксу. Префикс может начинаться без xmlns"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-Получает URI пространства имен по определенному префиксу. Префикс может начинаться без xmlns.
+Получает URI пространства имён по конкретному префиксу. Префикс может начинаться без xmlns.
 
 ```csharp
 public string GetNamespaceUri(string prefix)
@@ -16,16 +17,16 @@ public string GetNamespaceUri(string prefix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| prefix | String | Префикс. |
+| префикс | String | Префикс. |
 
 ### Возвращаемое значение
 
 Возвращает URI схемы пакета.
 
-### Смотрите также
+### См. также
 
 * class [XmpRdfRoot](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmprdfroot/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

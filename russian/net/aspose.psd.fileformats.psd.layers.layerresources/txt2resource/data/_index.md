@@ -1,27 +1,28 @@
 ---
-title: Txt2Resource.Data
-second_title: Справочник по Aspose.PSD для .NET API
-description: Txt2Resource свойство. Получает или устанавливает данные.
+title: "Txt2Resource.Data"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Txt2Resource. Возвращает или задает данные"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Data property
 
-Получает или устанавливает данные.
+Получает или задает данные.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные.
 
-### Смотрите также
+### См. также
 
 * class [Txt2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

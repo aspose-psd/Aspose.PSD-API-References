@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpDescriptorVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfo6Resource свойство. Получает или задает версию дескриптора деформации.
+title: "TypeToolInfo6Resource.WarpDescriptorVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfo6Resource. Получает или задает версию дескриптора искажения"
 type: docs
-weight: 190
+weight: 160
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpDescriptorVersion property
 
-Получает или задает версию дескриптора деформации.
+Получает или задаёт версию дескриптора искажения.
 
 ```csharp
 public int WarpDescriptorVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Версия дескриптора деформации.
+Версия дескриптора искажения.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfo6Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

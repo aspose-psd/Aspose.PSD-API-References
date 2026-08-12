@@ -1,23 +1,24 @@
 ---
-title: PattResource.TypeToolKey2
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResource поле. Информационный ключ инструмента типа Pat2 для 16бит.
+title: "PattResource.TypeToolKey2"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PattResource поле. Ключ информации инструмента типа Pat2 для 16 бит"
 type: docs
-weight: 90
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey2 field
 
-Информационный ключ инструмента типа «Pat2» для 16-бит.
+Ключ информации инструмента типа 'Pat2' для 16‑бит.
 
 ```csharp
 public const int TypeToolKey2;
 ```
 
-### Смотрите также
+### См. также
 
 * class [PattResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteUByte
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает однобайтовое значение в поток.
+title: "TiffStreamWriter.WriteUByte"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamWriter. Записывает одно байтовое значение в поток"
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUByte method
 
-Записывает однобайтовое значение в поток.
+Записывает одно байтовое значение в поток.
 
 ```csharp
 public void WriteUByte(byte data)
@@ -16,12 +17,12 @@ public void WriteUByte(byte data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte | Значение для записи. |
+| данные | Byte | Значение для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

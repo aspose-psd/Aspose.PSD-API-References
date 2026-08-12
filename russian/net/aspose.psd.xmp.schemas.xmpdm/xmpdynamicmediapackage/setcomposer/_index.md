@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetComposer
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает композитор.
+title: "XmpDynamicMediaPackage.SetComposer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает композитора"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComposer method
 
-Устанавливает композитор.
+Устанавливает композитора.
 
 ```csharp
 public void SetComposer(string composer)
@@ -16,12 +17,12 @@ public void SetComposer(string composer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| composer | String | Композитор. |
+| композитор | String | Композитор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

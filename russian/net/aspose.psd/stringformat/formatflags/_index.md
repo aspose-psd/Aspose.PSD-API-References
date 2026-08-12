@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat свойство. Получает или задаетStringFormatFlags перечисление содержащее информацию о форматировании.
+title: "StringFormat.FormatFlags"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StringFormat. Возвращает или задает перечисление StringFormatFlags, которое содержит информацию о форматировании."
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-Получает или задает[`StringFormatFlags`](../../stringformatflags/) перечисление, содержащее информацию о форматировании.
+Возвращает или задает перечисление [`StringFormatFlags`](../../stringformatflags/), которое содержит информацию о форматировании.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`StringFormatFlags`](../../stringformatflags/) перечисление, содержащее информацию о форматировании.
+Перечисление [`StringFormatFlags`](../../stringformatflags/), которое содержит информацию о форматировании.
 
-### Смотрите также
+### См. также
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

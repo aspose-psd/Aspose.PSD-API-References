@@ -1,23 +1,24 @@
 ---
-title: MlstResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: MlstResource поле. Информационный ключ типа инструмента.
+title: "MlstResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MlstResource поле. Ключ информации о типе инструмента"
 type: docs
-weight: 90
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MlstResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [MlstResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает ширину линии обводки.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Получает или задает ширину линии Stroke"
 type: docs
-weight: 160
+weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-Получает или задает ширину линии обводки.
+Получает или задает ширину линии штриха.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса VstkResource.
 
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

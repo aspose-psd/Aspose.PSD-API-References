@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokePath
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustomLineCap свойство. Получает или задает объект определяющий контур пользовательской крышки.
+title: "CustomLineCap.StrokePath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CustomLineCap. Получает или задает объект, определяющий контур пользовательской заглушки."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/customlinecap/strokepath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokePath property
 
-Получает или задает объект, определяющий контур пользовательской крышки.
+Получает или задаёт объект, определяющий контур пользовательского наконечника.
 
 ```csharp
 public GraphicsPath StrokePath { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Объект, определяющий контур пользовательской крышки.
+Объект, определяющий контур пользовательской заглушки.
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* пространство имен [Aspose.PSD](../../customlinecap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

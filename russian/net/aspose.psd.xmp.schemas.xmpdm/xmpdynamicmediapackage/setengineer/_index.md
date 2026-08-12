@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetEngineer
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает инженер.
+title: "XmpDynamicMediaPackage.SetEngineer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает инженера"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setengineer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetEngineer method
 
-Устанавливает инженер.
+Устанавливает инженера.
 
 ```csharp
 public void SetEngineer(string engineer)
@@ -16,12 +17,12 @@ public void SetEngineer(string engineer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| engineer | String | Инженер. |
+| инженер | String | Инженер. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

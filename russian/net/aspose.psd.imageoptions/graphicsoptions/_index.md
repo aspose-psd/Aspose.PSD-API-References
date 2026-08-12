@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.GraphicsOptions сорт. Представляет параметры графики для встроенного растрового изображения.
+title: "Класс GraphicsOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageOptions.GraphicsOptions. Представляет параметры графики для встроенного растрового изображения"
 type: docs
-weight: 4820
+weight: 5310
 url: /ru/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
-Представляет параметры графики для встроенного растрового изображения.
+Представляет графические параметры для встроенного растрового изображения.
 
 ```csharp
 public class GraphicsOptions
@@ -20,17 +21,17 @@ public class GraphicsOptions
 | --- | --- |
 | [GraphicsOptions](graphicsoptions/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Получает или устанавливает режим интерполяции. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Получает или задает режим интерполяции. |
 | [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Получает или задает режим сглаживания. |
 | [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Получает или задает подсказку рендеринга текста. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

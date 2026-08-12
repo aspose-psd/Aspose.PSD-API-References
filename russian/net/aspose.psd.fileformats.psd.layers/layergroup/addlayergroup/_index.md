@@ -1,14 +1,15 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerGroup метод. Добавляет группу слоев.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LayerGroup. Добавляет группу слоев"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
-Добавляет группу слоев.
+Добавляет группу слоёв.
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index)
@@ -16,23 +17,23 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| groupName | String | Название группы. |
-| index | Int32 | Индекс слоя для вставки после. |
+| groupName | String | Имя группы. |
+| index | Int32 | Индекс слоя, после которого вставлять. |
 
 ### Возвращаемое значение
 
-Открытие группового слоя
+Открытие группы слоев
 
-### Примеры
+## Примеры
 
-В следующем примере показано добавление LayerGroup в другую LayerGroup.
+В следующем примере показано добавление LayerGroup в другой LayerGroup.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// создаем иерархию слоев следующим образом:
+// Создание иерархии слоев следующим образом:
 // -Группа 1
 // --Слой 1
 // --Группа 2
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerGroup](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

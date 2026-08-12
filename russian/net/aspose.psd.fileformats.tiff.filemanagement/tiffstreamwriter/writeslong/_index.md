@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток одно целочисленное значение.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamWriter method. Записывает одно целочисленное значение в поток"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-Записывает в поток одно целочисленное значение.
+Записывает одно целочисленное значение в поток.
 
 ```csharp
 public void WriteSlong(int data)
@@ -16,12 +17,12 @@ public void WriteSlong(int data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Int32 | Значение для записи. |
+| данные | Int32 | Значение для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FlatArray.Exceptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает формат файла Psd.
+title: "Aspose.PSD.FlatArray.Exceptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает работу с форматом файлов PSD."
 type: docs
-weight: 400
+weight: 440
 url: /ru/net/aspose.psd.flatarray.exceptions/
 ---
-Пространство имен обрабатывает формат файла Psd.
+{{< psd/tize >}}
+Пространство имён обрабатывает формат файлов PSD.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [FlatArrayException](./flatarrayexception/) | Специальное исключение дляFlatArray класс. |
+| [FlatArrayException](./flatarrayexception/) | Специальное исключение для класса FlatArray. |
 
 

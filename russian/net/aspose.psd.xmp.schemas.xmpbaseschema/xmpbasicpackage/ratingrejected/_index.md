@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage поле. Оценка отклоненного значения.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле XmpBasicPackage. Значение отклонённого рейтинга"
 type: docs
-weight: 120
+weight: 150
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-Оценка отклоненного значения.
+Отвергнутое значение рейтинга.
 
 ```csharp
 public const int RatingRejected;
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

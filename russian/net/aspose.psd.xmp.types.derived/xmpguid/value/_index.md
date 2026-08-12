@@ -1,11 +1,12 @@
 ---
-title: XmpGuid.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpGuid свойство. Получает или задает значение.
+title: "XmpGuid.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpGuid. Получает или задает значение"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
 Получает или задает значение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.derived/xmpguid/value/
 public Guid Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
-### Смотрите также
+### См. также
 
 * class [XmpGuid](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

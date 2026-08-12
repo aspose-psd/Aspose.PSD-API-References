@@ -1,39 +1,40 @@
 ---
-title: Class BooleanResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BooleanResource сорт. Класс BooleanResource. Это псевдоресурс. В фотошопе нет
+title: "Класс BooleanResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BooleanResource. Класс BooleanResource. Его псевдо‑ресурс. В Photoshop его нет."
 type: docs
-weight: 2330
+weight: 2590
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
+{{< psd/tize >}}
 ## BooleanResource class
 
-Класс BooleanResource. Это псевдоресурс. В фотошопе нет
+Класс BooleanResource. Это псевдо‑ресурс. В Photoshop его нет.
 
 ```csharp
 public abstract class BooleanResource : LayerResource
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

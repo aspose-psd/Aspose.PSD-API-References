@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает имя слоя. Задает имя элемента которое отображается на панели Слои.
+title: "AiLayerSection.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AiLayerSection свойство. Получает или задает имя слоя. Указывает имя элемента так, как оно отображается в панели Слои"
 type: docs
-weight: 110
+weight: 130
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-Получает или задает имя слоя. Задает имя элемента, которое отображается на панели «Слои».
+Получает или задает имя слоя. Указывает имя элемента, как оно отображается в панели слоёв.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя слоя.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

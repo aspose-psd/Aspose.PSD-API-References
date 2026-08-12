@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageOptionsBase свойство. Получает или задает источник для создания изображения в.
+title: "ImageOptionsBase.Source"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageOptionsBase. Получает или задает источник, в котором создаётся изображение."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/imageoptionsbase/source/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Source property
 
-Получает или задает источник для создания изображения в.
+Получает или задает источник для создания изображения.
 
 ```csharp
 public Source Source { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Источник для создания изображения.
+Источник, в котором создаётся изображение.
 
-### Смотрите также
+### См. также
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* пространство имен [Aspose.PSD](../../imageoptionsbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

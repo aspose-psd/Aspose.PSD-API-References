@@ -1,14 +1,15 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Metered метод. Получает потребительский кредит
+title: "Metered.GetConsumptionCredit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Metered. Получает кредит потребления"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
-Получает потребительский кредит
+Получает кредит потребления
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -16,12 +17,12 @@ public static decimal GetConsumptionCredit()
 
 ### Возвращаемое значение
 
-объем потребления
+количество потребления
 
-### Смотрите также
+### См. также
 
 * class [Metered](../)
-* пространство имен [Aspose.PSD](../../metered/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

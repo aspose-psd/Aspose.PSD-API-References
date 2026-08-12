@@ -1,11 +1,12 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpTrailerPi метод. Указывает равен ли текущий объект другому объекту того же типа.
+title: "XmpTrailerPi.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpTrailerPi. Указывает, равен ли текущий объект другому объекту того же типа"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
 Указывает, равен ли текущий объект другому объекту того же типа.
@@ -16,23 +17,23 @@ public bool Equals(XmpTrailerPi other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | XmpTrailerPi | Объект для сравнения с этим объектом. |
+| другой | XmpTrailerPi | Объект для сравнения с этим объектом. |
 
 ### Возвращаемое значение
 
-true, если текущий объект равен*other* параметр; в противном случае false.
+true, если текущий объект равен параметру *other*; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [XmpTrailerPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +41,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [XmpTrailerPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

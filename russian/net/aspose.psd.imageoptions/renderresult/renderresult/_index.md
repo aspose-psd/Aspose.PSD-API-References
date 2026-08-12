@@ -1,11 +1,12 @@
 ---
-title: RenderResult.RenderResult
-second_title: Справочник по Aspose.PSD для .NET API
-description: RenderResult строитель. Конструктор по умолчанию.
+title: "RenderResult.RenderResult"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор RenderResult. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/renderresult/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imageoptions/renderresult/renderresult/
 public RenderResult()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RenderResult](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../renderresult/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Справочник по Aspose.PSD для .NET API
-description: IccProfileResource свойство. Получает или задает профиль ICC.
+title: "IccProfileResource.IccProfile"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IccProfileResource. Возвращает или задает ICC профиль"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
-Получает или задает профиль ICC.
+Получает или задает ICC‑профиль.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Профиль ICC.
+ICC профиль.
 
-### Смотрите также
+### См. также
 
 * class [IccProfileResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

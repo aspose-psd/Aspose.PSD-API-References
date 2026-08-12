@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: PtFlResource метод. Сохраняет ресурс в указанный контейнер потока.
+title: "PtFlResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PtFlResource. Сохраняет ресурс в указанный контейнер потока"
 type: docs
-weight: 120
+weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Save method
 
 Сохраняет ресурс в указанный контейнер потока.
@@ -16,20 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Исключения
-
-| исключение | условие |
-| --- | --- |
-| NotImplementedException |  |
-
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PtFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

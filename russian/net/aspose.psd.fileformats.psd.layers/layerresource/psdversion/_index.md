@@ -1,23 +1,24 @@
 ---
-title: LayerResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResource свойство. Получает минимальную версию psd необходимую для ресурса слоя. 0 означает отсутствие ограничений.
+title: "LayerResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerResource. Возвращает минимальную версию PSD, необходимую для ресурса слоя. 0 означает отсутствие ограничений."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsdVersion property
 
-Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений.
+Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений.
 
 ```csharp
-public abstract int PsdVersion { get; }
+public virtual int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

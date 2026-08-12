@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpReal свойство. Получает или устанавливает значение с плавающей запятой.
+title: "XmpReal.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpReal. Получает или задает значение типа float"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-Получает или устанавливает значение с плавающей запятой.
+Получает или задает значение типа float.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение с плавающей запятой.
+Значение типа float.
 
-### Смотрите также
+### См. также
 
 * class [XmpReal](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

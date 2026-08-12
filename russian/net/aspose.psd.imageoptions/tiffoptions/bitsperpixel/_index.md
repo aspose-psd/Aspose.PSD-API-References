@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.BitsPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает количество бит на пиксель.
+title: "TiffOptions.BitsPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает количество бит на пиксель"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerPixel property
 
-Получает количество бит на пиксель.
+Возвращает количество бит на пиксель.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество бит на пиксель.
+Бит на пиксель.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

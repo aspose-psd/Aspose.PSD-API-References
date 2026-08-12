@@ -1,14 +1,15 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: FxrpResource строитель. Инициализирует новый экземплярFxrpResource класс.
+title: "FxrpResource.FxrpResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор FxrpResource. Инициализирует новый экземпляр класса FxrpResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-Инициализирует новый экземпляр[`FxrpResource`](../) класс.
+Инициализирует новый экземпляр класса [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource(double x, double y)
@@ -17,35 +18,35 @@ public FxrpResource(double x, double y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | x | Double | Координата x опорной точки |
-| y | Double | Координата Y опорной точки |
+| y | Double | Координата y опорной точки |
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-Инициализирует новый экземпляр[`FxrpResource`](../) класс.
+Инициализирует новый экземпляр класса [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`FxrpResource`](../) class. С пользовательским или неизвестным значением
+Инициализирует новый экземпляр класса [`FxrpResource`](../). С пользовательским или неизвестным значением
 
 ```csharp
 public FxrpResource(byte[] data)
@@ -53,7 +54,7 @@ public FxrpResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -61,10 +62,10 @@ public FxrpResource(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимое значение ресурса Fxrp |
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetC
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColorHelper метод. Получает значение голубого компонента.
+title: "CmykColorHelper.GetC"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColorHelper. Получает значение циановой компоненты"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/cmykcolorhelper/getc/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetC method
 
-Получает значение голубого компонента.
+Получает значение компоненты циана.
 
 ```csharp
 public static int GetC(int cmyk)
@@ -16,16 +17,16 @@ public static int GetC(int cmyk)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmyk | Int32 | Цвет CMYK представлен в виде 32-битного целого числа. |
+| cmyk | Int32 | Цвет CMYK представлен в виде 32‑битного целочисленного значения. |
 
 ### Возвращаемое значение
 
 Значение голубого компонента.
 
-### Смотрите также
+### См. также
 
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

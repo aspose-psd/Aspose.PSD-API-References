@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientType
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает тип градиента.
+title: "GdFlResource.GradientType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GdFlResource свойство. Получает или задает тип градиента"
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientType property
 
 Получает или задает тип градиента.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradi
 public GradientType GradientType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип градиента.
 
-### Смотрите также
+### См. также
 
 * enum [GradientType](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/)
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

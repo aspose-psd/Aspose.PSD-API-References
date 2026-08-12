@@ -1,24 +1,25 @@
 ---
-title: TextFontInfo.Style
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextFontInfo свойство. Получает стиль шрифта проанализированный из подсемейства name
+title: "TextFontInfo.Style"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextFontInfo. Возвращает стиль шрифта, полученный из названия подсемейства"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/style/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Style property
 
-Получает стиль шрифта, проанализированный из подсемейства name
+Получает стиль шрифта, полученный из названия подсемейства
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Стиль шрифта, полученный из подсемейства name
+Стиль шрифта, полученный из названия подсемейства
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует, как Aspose.PSD получает свойства встроенного форматирования текстового слоя.
 
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FontStyle](../../../aspose.psd/fontstyle/)
 * class [TextFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

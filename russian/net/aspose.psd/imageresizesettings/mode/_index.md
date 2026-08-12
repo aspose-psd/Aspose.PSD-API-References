@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageResizeSettings свойство. Получает или задает режим интерполяции.
+title: "ImageResizeSettings.Mode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageResizeSettings. Возвращает или задает режим интерполяции"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
 Получает или задает режим интерполяции.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/imageresizesettings/mode/
 public ResizeType Mode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим.
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* пространство имен [Aspose.PSD](../../imageresizesettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

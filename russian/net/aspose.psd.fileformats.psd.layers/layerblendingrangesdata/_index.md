@@ -1,14 +1,15 @@
 ---
-title: Class LayerBlendingRangesData
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData сорт. Данные диапазонов смешивания слоев.
+title: "Класс LayerBlendingRangesData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData. Данные диапазонов смешивания слоев"
 type: docs
-weight: 2090
+weight: 2280
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData class
 
-Данные диапазонов смешивания слоев.
+Данные диапазонов смешивания слоя.
 
 ```csharp
 public sealed class LayerBlendingRangesData
@@ -20,17 +21,17 @@ public sealed class LayerBlendingRangesData
 | --- | --- |
 | [LayerBlendingRangesData](layerblendingrangesdata/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Получает или задает диапазоны смешения каналов. |
-| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Получает или задает диапазоны составного перехода. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Получает или задает диапазоны смешивания каналов. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Получает или задает диапазоны составного смешивания. |
 | [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Получает длину данных диапазонов смешивания слоев в байтах. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

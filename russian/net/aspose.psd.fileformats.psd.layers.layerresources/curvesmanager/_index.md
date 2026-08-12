@@ -1,14 +1,15 @@
 ---
-title: Class CurvesManager
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager сорт. Базовый класс для управления CurvResource
+title: "Класс CurvesManager"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager class. Базовый класс для управления CurvResource."
 type: docs
-weight: 2430
+weight: 2690
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
-Базовый класс для управления CurvResource
+Базовый класс для управления CurvResource.
 
 ```csharp
 public abstract class CurvesManager
@@ -18,17 +19,17 @@ public abstract class CurvesManager
 
 | Имя | Описание |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | Инициализирует новый экземпляр`CurvesManager` класс. |
+| [CurvesManager](curvesmanager/)(int) | Инициализирует новый экземпляр класса `CurvesManager`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Получает максимальное количество каналов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

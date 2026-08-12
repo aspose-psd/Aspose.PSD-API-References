@@ -1,11 +1,12 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: Справочник по Aspose.PSD для .NET API
-description: IBufferProcessor метод. Обрабатывает буфер.
+title: "IBufferProcessor.ProcessBuffer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IBufferProcessor. Обрабатывает буфер"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/ibufferprocessor/processbuffer/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor.ProcessBuffer method
 
 Обрабатывает буфер.
@@ -16,13 +17,13 @@ public void ProcessBuffer(byte[] buffer, int bufferLength)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| buffer | Byte[] | Буфер для обработки. |
+| буфер | Byte[] | Буфер для обработки. |
 | bufferLength | Int32 | Длина буфера для обработки. |
 
-### Смотрите также
+### См. также
 
 * interface [IBufferProcessor](../)
-* пространство имен [Aspose.PSD](../../ibufferprocessor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

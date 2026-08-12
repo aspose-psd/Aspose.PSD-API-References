@@ -1,11 +1,12 @@
 ---
-title: XmpResource.DataSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpResource свойство. Получает размер данных ресурса в байтах.
+title: "XmpResource.DataSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpResource свойство. Возвращает размер данных ресурса в байтах"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/xmpresource/datasize/
 ---
+{{< psd/tize >}}
 ## XmpResource.DataSize property
 
 Получает размер данных ресурса в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/xmpresource/datasize/
 public override int DataSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер данных ресурса.
 
-### Смотрите также
+### См. также
 
 * class [XmpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

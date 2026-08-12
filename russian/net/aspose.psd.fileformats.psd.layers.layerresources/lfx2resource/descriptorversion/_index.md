@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lfx2Resource свойство. Получает версию дескриптора.
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Lfx2Resource. Возвращает версию дескриптора"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
 Получает версию дескриптора.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descr
 public int DescriptorVersion { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия дескриптора.
 
-### Смотрите также
+### См. также
 
 * class [Lfx2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

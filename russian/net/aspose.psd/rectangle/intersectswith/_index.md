@@ -1,14 +1,15 @@
 ---
-title: Rectangle.IntersectsWith
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Определяет пересекается ли этот прямоугольник сrect .
+title: "Rectangle.IntersectsWith"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Определяет, пересекается ли этот прямоугольник с rect."
 type: docs
 weight: 250
 url: /ru/net/aspose.psd/rectangle/intersectswith/
 ---
+{{< psd/tize >}}
 ## Rectangle.IntersectsWith method
 
-Определяет, пересекается ли этот прямоугольник с*rect* .
+Определяет, пересекается ли этот прямоугольник с *rect*.
 
 ```csharp
 public bool IntersectsWith(Rectangle rect)
@@ -16,16 +17,16 @@ public bool IntersectsWith(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник для проверки. |
+| rect | Rectangle | Прямоугольник для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает true, если есть какое-либо пересечение, иначе false.
+Этот метод возвращает true, если существует какое-либо пересечение, в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

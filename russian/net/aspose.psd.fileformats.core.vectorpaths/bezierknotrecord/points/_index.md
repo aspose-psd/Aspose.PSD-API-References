@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.Points
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierKnotRecord свойство. Получает или устанавливает очки.
+title: "BezierKnotRecord.Points"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierKnotRecord. Получает или задает точки"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
-Получает или устанавливает очки.
+Получает или задает точки.
 
 ```csharp
 public Point[] Points { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Очки.
+Точки.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

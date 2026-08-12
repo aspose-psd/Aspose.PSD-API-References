@@ -1,11 +1,12 @@
 ---
-title: Class InterruptMonitor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Multithreading.InterruptMonitor сорт. Представляет информацию о прерывании.
+title: "Класс InterruptMonitor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Multithreading.InterruptMonitor. Представляет информацию о прерывании."
 type: docs
-weight: 5130
+weight: 5620
 url: /ru/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
 Представляет информацию о прерывании.
@@ -20,7 +21,7 @@ public class InterruptMonitor
 | --- | --- |
 | [InterruptMonitor](interruptmonitor/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -33,9 +34,9 @@ public class InterruptMonitor
 | --- | --- |
 | [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Отправляет запрос на прерывание операций. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

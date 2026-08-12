@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorRasterizationOptions свойство. Получает или задает подсказку рендеринга текста.
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorRasterizationOptions. Получает или задает подсказку рендеринга текста"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
 Получает или задает подсказку рендеринга текста.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghin
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Подсказка по рендерингу текста.
+Подсказка рендеринга текста.
 
-### Смотрите также
+### См. также
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

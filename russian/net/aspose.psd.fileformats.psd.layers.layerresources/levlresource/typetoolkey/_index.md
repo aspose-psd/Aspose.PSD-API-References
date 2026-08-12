@@ -1,23 +1,24 @@
 ---
-title: LevlResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: LevlResource поле. Информационный ключ типа инструмента.
+title: "LevlResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "LevlResource поле. Ключ информации о типе инструмента"
 type: docs
-weight: 70
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LevlResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [LevlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FileCreateSource.GetStreamContainer
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileCreateSource метод. Получает контейнер потока.
+title: "FileCreateSource.GetStreamContainer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FileCreateSource. Получает контейнер потока."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.sources/filecreatesource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.GetStreamContainer method
 
 Получает контейнер потока.
@@ -18,15 +19,15 @@ public override StreamContainer GetStreamContainer()
 
 контейнер потока.
 
-### Примечания
+## Примечания
 
-Используйте с осторожностью. Вам нужно будет удалить контейнер потока после извлечения.
+Используйте с осторожностью. Вам потребуется освободить контейнер потока после получения.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileCreateSource](../)
-* пространство имен [Aspose.PSD.Sources](../../filecreatesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

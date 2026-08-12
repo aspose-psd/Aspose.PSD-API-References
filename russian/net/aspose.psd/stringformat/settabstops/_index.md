@@ -1,14 +1,15 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat метод. Устанавливает позиции табуляции для этогоStringFormat объект.
+title: "StringFormat.SetTabStops"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод StringFormat. Устанавливает табуляцию для этого объекта StringFormat"
 type: docs
-weight: 140
+weight: 170
 url: /ru/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-Устанавливает позиции табуляции для этого[`StringFormat`](../) объект.
+Устанавливает табуляцию для этого объекта [`StringFormat`](../).
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
@@ -17,12 +18,12 @@ public void SetTabStops(float firstTabOffset, float[] tabStops)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | firstTabOffset | Single | Количество пробелов между началом строки текста и первой позицией табуляции. |
-| tabStops | Single[] | Массив расстояний между позициями табуляции в единицах, указанных параметром[`PageUnit`](../../graphics/pageunit/) свойство. |
+| tabStops | Single[] | Массив расстояний между табуляциями в единицах, указанных свойством [`PageUnit`](../../graphics/pageunit/). |
 
-### Смотрите также
+### См. также
 
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

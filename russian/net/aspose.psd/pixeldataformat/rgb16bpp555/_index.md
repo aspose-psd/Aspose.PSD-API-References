@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb16Bpp555
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. ПолучаетPixelDataFormat определено для 16 бит на пиксель с 5 битами для каждого из красного зеленого и синего альфа не определена.
+title: "PixelDataFormat.Rgb16Bpp555"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat свойство. Получает PixelDataFormat, определённый для 16 бит на пиксель с 5 битами для каждого из красного, зелёного и синего; альфа не определена"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/pixeldataformat/rgb16bpp555/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb16Bpp555 property
 
-Получает[`PixelDataFormat`](../) определено для 16 бит на пиксель с 5 битами для каждого из красного, зеленого и синего, альфа не определена.
+Получает [`PixelDataFormat`](../), определённый для 16 бит на пиксель с 5 битами для каждого из красного, зелёного и синего; альфа не определена.
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp555 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`PixelDataFormat`](../) определено для 16 бит на пиксель с 5 битами для каждого из красного, зеленого и синего, альфа не определена.
+[`PixelDataFormat`](../) определённый для 16 бит на пиксель с 5 битами для каждого из красного, зелёного и синего; альфа не определена.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

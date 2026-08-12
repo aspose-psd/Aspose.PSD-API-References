@@ -1,11 +1,12 @@
 ---
-title: Font.FontName
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает имя шрифта PostScript.
+title: "Font.FontName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Font свойство. Получает или задает имя шрифта PostScript"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/fontname/
 ---
+{{< psd/tize >}}
 ## Font.FontName property
 
 Получает или задает имя шрифта PostScript.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.font/font/fontname/
 public string FontName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Имя имени шрифта PostScript.
+Имя шрифта PostScript.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

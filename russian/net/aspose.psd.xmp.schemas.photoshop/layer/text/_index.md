@@ -1,11 +1,12 @@
 ---
-title: Layer.Text
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает текстовое содержимое слоя.
+title: "Layer.Text"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Layer свойство. Получает или задает текстовое содержимое слоя"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
+{{< psd/tize >}}
 ## Layer.Text property
 
 Получает или задает текстовое содержимое слоя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 public string Text { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Текстовое содержимое слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

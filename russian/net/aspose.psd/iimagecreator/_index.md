@@ -1,11 +1,12 @@
 ---
-title: Interface IImageCreator
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IImageCreator интерфейс. Создатель изображения.
+title: "Интерфейс IImageCreator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IImageCreator. Создатель изображений."
 type: docs
-weight: 4400
+weight: 4870
 url: /ru/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
 Создатель изображения.
@@ -18,11 +19,11 @@ public interface IImageCreator
 
 | Имя | Описание |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Создает новый экземпляр образа с*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Создаёт новый экземпляр изображения с *imageOptions*. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

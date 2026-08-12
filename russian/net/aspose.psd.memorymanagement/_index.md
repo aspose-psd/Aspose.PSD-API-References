@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит подпрограммы управления памятью.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит процедуры управления памятью."
 type: docs
-weight: 450
+weight: 490
 url: /ru/net/aspose.psd.memorymanagement/
 ---
-Пространство имен содержит подпрограммы управления памятью.
+{{< psd/tize >}}
+Пространство имён содержит процедуры управления памятью.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [Configuration](./configuration/) | Глобальная конфигурация управления памятью |
 

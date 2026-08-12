@@ -1,35 +1,36 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum перечисление. Возможные цвета настройки цвета листа. Это декоративный цвет пользовательского интерфейса слоя в списке слоев в PS
+title: "Перечисление SheetColorHighlightEnum"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum. Возможные цвета настройки цвета листа. Это декоративный цвет интерфейса слоя в списке слоёв в PS."
 type: docs
-weight: 2970
+weight: 3320
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Возможные цвета настройки цвета листа. Это декоративный цвет пользовательского интерфейса слоя в списке слоев в PS
+Возможные цвета настройки Sheet color. Это декоративный цвет интерфейса слоя в списке слоёв в PS.
 
 ```csharp
 public enum SheetColorHighlightEnum : short
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | NoColor | `0` | Цвет не указан. |
 | Red | `1` | Красный цвет. |
 | Orange | `2` | Оранжевый цвет. |
 | Yellow | `3` | Желтый цвет. |
-| Green | `4` | Зеленый цвет. |
+| Green | `4` | Зелёный цвет. |
 | Blue | `5` | Синий цвет. |
 | Violet | `6` | Фиолетовый цвет. |
 | Gray | `7` | Серый цвет. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно изменить выделение цветом листа в Aspose.PSD (настройка цвета листа).
+Следующий пример демонстрирует, как можно изменить выделение цвета листа в Aspose.PSD (настройка цвета листа).
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ public enum SheetColorHighlightEnum : short
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// В файле цвета выделения слоев идут в таком порядке
+// В файле цвета выделения слоёв идут в следующем порядке
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Цвет листа слоя используется для визуального выделения слоев. 
-// Например, вы можете обновить некоторые слои в PSD, а затем выделить цветом слой, который вы хотите привлечь внимание.
+// Цвет листа слоя используется для визуального выделения слоёв.
+// Например, вы можете обновить некоторые слои в PSD, а затем выделить цветом слой, на который хотите обратить внимание.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Ресурс lcrl всегда присутствует в списке ресурсов файла psd.
+            // Ресурс lcrl всегда присутствует в списке ресурсов PSD‑файла.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Инверсия цветов таблицы стилей. Настройка выделения цветом слоя.
+                // Обратные цвета таблицы стилей. Настройка выделения цвета слоя.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -91,9 +92,9 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

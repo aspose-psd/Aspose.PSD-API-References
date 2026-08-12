@@ -1,14 +1,15 @@
 ---
-title: Class EnumeratedDescriptorStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedDescriptorStructure сорт. Перечисленная структура дескриптора.
+title: "Класс EnumeratedDescriptorStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedDescriptorStructure. Перечисляемая дескрипторная структура"
 type: docs
-weight: 3160
+weight: 3540
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure class
 
-Перечисленная структура дескриптора.
+Структура перечисляемого дескриптора.
 
 ```csharp
 public class EnumeratedDescriptorStructure : OSTypeStructure
@@ -18,16 +19,16 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [EnumeratedDescriptorStructure](enumerateddescriptorstructure/)(ClassID, ClassID, ClassID) | Инициализирует новый экземпляр`EnumeratedDescriptorStructure` класс. |
+| [EnumeratedDescriptorStructure](enumerateddescriptorstructure/)(ClassID, ClassID, ClassID) | Инициализирует новый экземпляр класса `EnumeratedDescriptorStructure`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname/) { get; set; } | Получает или задает имя перечисления. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key/) { get; } | Получает ключ. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length/) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length/) { get; } | Получает длину [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах. |
 | [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/) { get; set; } | Получает или задает идентификатор типа. |
 
 ## Методы
@@ -44,10 +45,10 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/) | Ключ перечисляемого дескриптора. |
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

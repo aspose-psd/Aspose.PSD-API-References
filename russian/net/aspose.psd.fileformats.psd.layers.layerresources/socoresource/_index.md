@@ -1,14 +1,15 @@
 ---
-title: Class SoCoResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource сорт. Класс SoCoResource. Этот ресурс содержит информацию о Color Fill Layers
+title: "Класс SoCoResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource. Класс SoCoResource. Этот ресурс содержит информацию о слоях заливки цветом"
 type: docs
-weight: 3010
+weight: 3360
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Класс SoCoResource. Этот ресурс содержит информацию о Color Fill Layers
+Класс SoCoResource. Этот ресурс содержит информацию о слоях заливки цветом.
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -18,34 +19,34 @@ public class SoCoResource : FillLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [SoCoResource](socoresource/)() | Инициализирует новый экземпляр`SoCoResource` класс. |
+| [SoCoResource](socoresource/)() | Инициализирует новый экземпляр класса `SoCoResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Получает цвет RGB . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Получает цвет RGB. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Получает подпись ресурса слоя. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом).
+В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом)
 
 ```csharp
 [C#]
@@ -53,20 +54,20 @@ public class SoCoResource : FillLayerResource
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Нахождение FillLayer
+        // Поиск FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Нахождение SoCoResource в списке ресурсов слоя
+                // Поиск SoCoResource в списке ресурсов слоев
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Установка свойства SoCoResource Color
+                    // Установка свойства Color ресурса SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -92,11 +93,11 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

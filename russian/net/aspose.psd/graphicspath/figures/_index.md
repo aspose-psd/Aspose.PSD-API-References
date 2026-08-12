@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath свойство. Получает цифры пути.
+title: "GraphicsPath.Figures"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GraphicsPath. Получает фигуры пути."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-Получает цифры пути.
+Получает фигуры пути.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Фигуры пути.
 
-### Смотрите также
+### См. также
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Angle
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает угол.
+title: "GdFlResource.Angle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GdFlResource. Получает или задает угол"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Angle property
 
 Получает или задает угол.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle
 public double Angle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Угол.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов GdFlResource.
+Следующий пример демонстрирует поддержку загрузки ресурсов GdFlResource.
 
 ```csharp
 [C#]
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

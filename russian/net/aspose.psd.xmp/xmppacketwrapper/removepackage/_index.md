@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.RemovePackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPacketWrapper метод. Удаляет пакет XMP.
+title: "XmpPacketWrapper.RemovePackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPacketWrapper. Удаляет пакет XMP"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/removepackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.RemovePackage method
 
 Удаляет пакет XMP.
@@ -16,13 +17,13 @@ public void RemovePackage(XmpPackage package)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| package | XmpPackage | Пакет. |
+| пакет | XmpPackage | Пакет. |
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

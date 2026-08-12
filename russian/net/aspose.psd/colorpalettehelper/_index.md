@@ -1,14 +1,15 @@
 ---
-title: Class ColorPaletteHelper
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ColorPaletteHelper сорт. Вспомогательный класс для управления цветовыми палитрами.
+title: "Класс ColorPaletteHelper"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ColorPaletteHelper. Вспомогательный класс для работы с палитрами цветов"
 type: docs
 weight: 380
 url: /ru/net/aspose.psd/colorpalettehelper/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper class
 
-Вспомогательный класс для управления цветовыми палитрами.
+Вспомогательный класс для работы с цветовыми палитрами.
 
 ```csharp
 public static class ColorPaletteHelper
@@ -18,21 +19,21 @@ public static class ColorPaletteHelper
 
 | Имя | Описание |
 | --- | --- |
-| static [Create4Bit](../../aspose.psd/colorpalettehelper/create4bit/)() | Создает 4-битную цветовую палитру. |
-| static [Create4BitGrayscale](../../aspose.psd/colorpalettehelper/create4bitgrayscale/)(bool) | Создает 4-битную палитру оттенков серого. |
-| static [Create8Bit](../../aspose.psd/colorpalettehelper/create8bit/)() | Создает 8-битную цветовую палитру. |
-| static [Create8BitGrayscale](../../aspose.psd/colorpalettehelper/create8bitgrayscale/)(bool) | Создает 8-битную палитру оттенков серого. |
-| static [CreateMonochrome](../../aspose.psd/colorpalettehelper/createmonochrome/)() | Создает монохромную цветовую палитру, содержащую только 2 цвета. |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_2)(RasterImage, int) | Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения ее нет. Если палитра существует, она будет использоваться вместо выполнения вычислений. |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette)(RasterImage, Rectangle, int) | Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения ее нет. Если палитра существует, она будет использоваться вместо выполнения вычислений. |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_1)(RasterImage, Rectangle, int, bool) | Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения ее нет. Если палитра существует, она будет использоваться вместо выполнения вычислений. |
-| static [GetDownscalePalette](../../aspose.psd/colorpalettehelper/getdownscalepalette/)(RasterImage) | Получить палитру из 256 цветов, состоящую из старших битов исходных значений цвета изображения. |
-| static [GetUniformColorPalette](../../aspose.psd/colorpalettehelper/getuniformcolorpalette/)(RasterImage) | Получить единую палитру из 256 цветов. |
-| static [HasTransparentColors](../../aspose.psd/colorpalettehelper/hastransparentcolors/)(IColorPalette) | Определяет, есть ли в указанной палитре прозрачные цвета. |
+| static [Create4Bit](../../aspose.psd/colorpalettehelper/create4bit/)() | Создаёт 4‑битную цветовую палитру. |
+| static [Create4BitGrayscale](../../aspose.psd/colorpalettehelper/create4bitgrayscale/)(bool) | Создаёт 4‑битную градационную палитру. |
+| static [Create8Bit](../../aspose.psd/colorpalettehelper/create8bit/)() | Создаёт 8‑битную цветовую палитру. |
+| static [Create8BitGrayscale](../../aspose.psd/colorpalettehelper/create8bitgrayscale/)(bool) | Создаёт 8‑битную градационную палитру. |
+| static [CreateMonochrome](../../aspose.psd/colorpalettehelper/createmonochrome/)() | Создаёт монохромную цветовую палитру, содержащую только 2 цвета. |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_2)(RasterImage, int) | Получает палитру цветов из растрового изображения (палетизирует изображение), если у изображения её нет. Если палитра существует, она будет использована вместо выполнения вычислений. |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette)(RasterImage, Rectangle, int) | Получает палитру цветов из растрового изображения (палетизирует изображение), если у изображения её нет. Если палитра существует, она будет использована вместо выполнения вычислений. |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_1)(RasterImage, Rectangle, int, bool) | Получает палитру цветов из растрового изображения (палетизирует изображение), если у изображения её нет. Если палитра существует, она будет использована вместо выполнения вычислений. |
+| static [GetDownscalePalette](../../aspose.psd/colorpalettehelper/getdownscalepalette/)(RasterImage) | Получить 256‑цветную палитру, составленную из старших битов исходных цветовых значений изображения. |
+| static [GetUniformColorPalette](../../aspose.psd/colorpalettehelper/getuniformcolorpalette/)(RasterImage) | Получить однородную 256‑цветную палитру. |
+| static [HasTransparentColors](../../aspose.psd/colorpalettehelper/hastransparentcolors/)(IColorPalette) | Определяет, содержит ли указанная палитра прозрачные цвета. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

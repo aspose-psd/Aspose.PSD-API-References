@@ -1,14 +1,15 @@
 ---
-title: VsmsResource.VsmsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: VsmsResource строитель. Инициализирует новый экземплярVsmsResource класс.
+title: "VsmsResource.VsmsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор VsmsResource. Инициализирует новый экземпляр класса VsmsResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`VsmsResource`](../) класс.
+Инициализирует новый экземпляр класса [`VsmsResource`](../).
 
 ```csharp
 public VsmsResource(byte[] data)
@@ -16,7 +17,7 @@ public VsmsResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -24,25 +25,25 @@ public VsmsResource(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимое значение ресурса Vsms |
 
-### Смотрите также
+### См. также
 
 * class [VsmsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## VsmsResource() {#constructor}
 
-Инициализирует новый экземпляр[`VsmsResource`](../) класс.
+Инициализирует новый экземпляр класса [`VsmsResource`](../).
 
 ```csharp
 public VsmsResource()
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере кода представлены классы для управления объектами векторного пути и показано, как использовать эти классы.
+Следующий пример кода предоставляет классы для работы с объектами векторных путей и демонстрирует, как использовать эти классы.
 
 ```csharp
 [C#]
@@ -70,15 +71,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// Класс, обеспечивающий работу между <see cref="Layer"/> и <см. cref="VectorPath"/>.
+/// Класс, обеспечивающий работу между <see cref="Layer"/> и <see cref="VectorPath"/>.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// Создает <see cref="VectorPath"/> экземпляр на основе ресурсов из входного слоя.
+    /// Создаёт экземпляр <see cref="VectorPath"/> на основе ресурсов входного слоя.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name="psdLayer">PSD‑слой.</param>
+    /// <returns>Экземпляр <see cref="VectorPath"/> на основе ресурсов входного слоя.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -97,11 +98,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Обновляет ресурсы входного слоя из <see cref="VectorPath"/> экземпляр или заменить новым ресурсом пути и обновлениями.
+    /// Обновляет ресурсы входного слоя из экземпляра <see cref="VectorPath"/>, либо заменяет новым ресурсом пути и обновляет их.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
+    /// <param name="psdLayer">PSD‑слой.</param>
     /// <param name="vectorPath">Векторный путь.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -119,7 +120,7 @@ public static class VectorDataProvider
     /// <summary>
     /// Удаляет данные векторного пути из входного слоя.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
+    /// <param name="psdLayer">PSD‑слой.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -142,13 +143,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Обновляет данные о ресурсах из <see cref="VectorPath"/> пример.
+    /// Обновляет данные ресурсов из экземпляра <see cref="VectorPath"/>.
     /// </summary>
     /// <param name="pathResource">Ресурс пути.</param>
-    /// <param name="vogkResource">Ресурс исходных данных вектора.</param>
+    /// <param name="vogkResource">Ресурс данных происхождения вектора.</param>
     /// <param name="socoResource">Ресурс сплошного цвета.</param>
     /// <param name="vectorPath">Векторный путь.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -175,11 +176,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Заменяет ресурсы в слое обновленными или новыми.
+    /// Заменяет ресурсы в слое обновлёнными или новыми.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
+    /// <param name="psdLayer">PSD‑слой.</param>
     /// <param name="pathResource">Ресурс пути.</param>
-    /// <param name="vogkResource">Ресурс исходных данных вектора.</param>
+    /// <param name="vogkResource">Ресурс данных происхождения вектора.</param>
     /// <param name="socoResource">Ресурс сплошного цвета.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
@@ -227,11 +228,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Находит <see cref="VectorPathDataResource"/> ресурс в ресурсах входного слоя.
+    /// Находит ресурс <see cref="VectorPathDataResource"/> во входных ресурсах слоя.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
-    /// <param name="createIfNotExist">Если ресурс не существует, то для <see cref="true"/> создает новый ресурс, в противном случае возвращает <see cref="null"/>.</param>
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name="psdLayer">PSD‑слой.</param>
+    /// <param name="createIfNotExist">Если ресурс не существует, то при <see cref="true"/> создаёт новый ресурс, иначе возвращает <see cref="null"/>.</param>
+    /// <returns>Ресурс <see cref="VectorPathDataResource"/>.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -253,11 +254,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Находит <see cref="VogkResource"/> ресурс в ресурсах входного слоя.
+    /// Находит ресурс <see cref="VogkResource"/> во входных ресурсах слоя.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
-    /// <param name="createIfNotExist">Если ресурс не существует, то для <see cref="true"/> создает новый ресурс, в противном случае возвращает <see cref="null"/>.</param>
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name="psdLayer">PSD‑слой.</param>
+    /// <param name="createIfNotExist">Если ресурс не существует, то при <see cref="true"/> создаёт новый ресурс, иначе возвращает <see cref="null"/>.</param>
+    /// <returns>Ресурс <see cref="VogkResource"/>.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -279,11 +280,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Находит <see cref="SoCoResource"/> ресурс в ресурсах входного слоя.
+    /// Находит ресурс <see cref="SoCoResource"/> во входных ресурсах слоя.
     /// </summary>
-    /// <param name="psdLayer">Слой PSD.</param>
-    /// <param name="createIfNotExist">Если ресурс не существует, то для <see cref="true"/> создает новый ресурс, в противном случае возвращает <see cref="null"/>.</param>
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name="psdLayer">PSD‑слой.</param>
+    /// <param name="createIfNotExist">Если ресурс не существует, то при <see cref="true"/> создаёт новый ресурс, иначе возвращает <see cref="null"/>.</param>
+    /// <returns>Ресурс <see cref="SoCoResource"/>.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -305,7 +306,7 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Проверка слоя для работы с ним <see cref="VectorDataProvider"/> сорт.
+    /// Проверяет слой для работы с классом <see cref="VectorDataProvider"/>.
     /// </summary>
     /// <param name="layer"></param>
     /// <exception cref="ArgumentNullException"></exception>
@@ -324,17 +325,17 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// Узел кривой Безье, он содержит одну опорную точку и две контрольные точки.
+/// Узел кривой Безье, он содержит одну точку привязки и две контрольные точки.
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// Отношение изображения к точке пути.
+    /// Соотношение изображения к точке пути.
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// Инициализирует новый экземпляр <see cref="BezierKnot" /> сорт.
+    /// Инициализирует новый экземпляр класса <see cref="BezierKnot" />.
     /// </summary>
     /// <param name="anchorPoint">Точка привязки.</param>
     /// <param name="controlPoint1">Первая контрольная точка.</param>
@@ -349,10 +350,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Инициализирует новый экземпляр <see cref="BezierKnot" /> класс на основе <see cref="BezierKnotRecord"/>.
+    /// Инициализирует новый экземпляр класса <see cref="BezierKnot" /> на основе <see cref="BezierKnotRecord"/>.
     /// </summary>
-    /// <param name="bezierKnotRecord"><see cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name="bezierKnotRecord">Объект <see cref="BezierKnotRecord"/>.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -362,9 +363,9 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Инициализирует новый экземпляр <see cref="BezierKnot" /> сорт.
+    /// Инициализирует новый экземпляр класса <see cref="BezierKnot" />.
     /// </summary>
-    /// <param name="anchorPoint">Точка привязки и контрольные точки.</param>
+    /// <param name="anchorPoint">Точка, которая будет точкой привязки и контрольными точками.</param>
     /// <param name="isLinked">Значение, указывающее, связан ли этот узел.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
@@ -372,31 +373,31 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Получает или устанавливает значение, указывающее, связан ли этот экземпляр.
+    /// Получает или задает значение, указывающее, связан ли этот экземпляр.
     /// </summary>
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// Получает или устанавливает первую контрольную точку.
+    /// Получает или задает первую контрольную точку.
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
     /// <summary>
-    /// Получает или устанавливает точку привязки.
+    /// Получает или задает точку привязки.
     /// </summary>
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// Получает или устанавливает вторую контрольную точку.
+    /// Получает или задает вторую контрольную точку.
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// Создает экземпляр <see cref="BezierKnotRecord"/> на базе этого экземпляра.
+    /// Создает экземпляр <see cref="BezierKnotRecord"/> на основе этого экземпляра.
     /// </summary>
-    /// <param name="isClosed">Указывает, находится ли этот узел в закрытой форме.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name="isClosed">Указывает, находится ли этот узел в замкнутой форме.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
+    /// <returns>Экземпляр <see cref="BezierKnotRecord"/> на основе этого экземпляра.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -413,9 +414,9 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Сдвигает точки узла на входные значения.
+    /// Смещает точки этого узла на заданные значения.
     /// </summary>
-    /// <param name="xOffset">Смещение по оси x.</param>
+    /// <param name="xOffset">Смещение по оси X.</param>
     /// <param name="yOffset">Смещение по оси Y.</param>
     public void Shift(float xOffset, float yOffset)
     {
@@ -425,11 +426,11 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Преобразует значения точек из ресурсных в нормальные.
+    /// Преобразует значения точек из ресурса в обычные.
     /// </summary>
     /// <param name="point">Точка со значениями из ресурса.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
+    /// <returns>Преобразованная в обычную точку.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
@@ -438,9 +439,9 @@ public class BezierKnot
     /// <summary>
     /// Преобразует обычные значения точек в ресурсные точки.
     /// </summary>
-    /// <param name="point">Точка.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"point\">Точка.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
+    /// <returns>Точка со значениями для ресурса.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -453,7 +454,7 @@ public class BezierKnot
 public class PathShape
 {
     /// <summary>
-    /// Инициализирует новый экземпляр <see cref="PathShape" /> сорт.
+    /// Инициализирует новый экземпляр класса <see cref=\"PathShape\" />.
     /// </summary>
     public PathShape()
     {
@@ -462,11 +463,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// Инициализирует новый экземпляр <see cref="PathShape" /> на основе <see cref="VectorPathRecord"/>.
+    /// Инициализирует новый экземпляр класса <see cref=\"PathShape\" /> на основе <see cref=\"VectorPathRecord\"/>.
     /// </summary>
-    /// <param name="lengthRecord">Запись длины.</param>
-    /// <param name="bezierKnotRecords">Записи узла Безье.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name=\"lengthRecord\">Запись длины.</param>
+    /// <param name=\"bezierKnotRecords\">Записи узлов Безье.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -477,20 +478,20 @@ public class PathShape
     }
 
     /// <summary>
-    /// Получает или устанавливает значение, указывающее, закрыт ли этот экземпляр.
+    /// Получает или задает значение, указывающее, закрыт ли этот экземпляр.
     /// </summary>
-    /// <значение>
-    /// <c>true</c> если этот экземпляр закрыт; в противном случае <c>false</c>.
-    /// </значение>
+    /// <value>
+    ///   <c>true</c> если этот экземпляр закрыт; иначе <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// Получает или устанавливает операции пути (логические операции).
+    /// Получает или задает операции пути (булевы операции).
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// Получает или устанавливает индекс текущей формы пути в слое.
+    /// Получает или задает индекс текущей формы пути в слое.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
@@ -500,10 +501,10 @@ public class PathShape
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// Создает <see cref="VectorPathRecord"/> записи на основе этого экземпляра.
+    /// Создает записи <see cref=\"VectorPathRecord\"/> на основе этого экземпляра.
     /// </summary>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
+    /// <returns>Возвращает один <see cref=\"LengthRecord\"/> и <see cref=\"BezierKnotRecord\"/> для каждой точки в этом экземпляре.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -526,8 +527,8 @@ public class PathShape
     /// <summary>
     /// Инициализирует значения на основе входных записей.
     /// </summary>
-    /// <param name="bezierKnotRecords">Записи узла Безье.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name=\"bezierKnotRecords\">Записи узлов Безье.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -547,25 +548,25 @@ public class PathShape
 public class VectorPath
 {
     /// <summary>
-    /// Инициализирует новый экземпляр <see cref="VectorPath" /> класс на основе <see cref="VectorPathDataResource"/>.
+    /// Инициализирует новый экземпляр класса <see cref=\"VectorPath\" /> на основе <see cref=\"VectorPathDataResource\"/>.
     /// </summary>
-    /// <param name="vectorPathDataResource">Ресурс данных векторного пути.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name=\"vectorPathDataResource\">Ресурс данных векторного пути.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// Получает или задает значение, указывающее, начинается ли заполнение со всех пикселей.
+    /// Получает или задает значение, указывающее, начинается ли заливка со всех пикселей.
     /// </summary>
-    /// <значение>
+    /// <value>
     /// Заливка начинается со всех пикселей.
-    /// </значение>
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
-    /// Получает векторные фигуры.
+    /// Получает векторные формы.
     /// </summary>
     public List<PathShape> Shapes { get; private set; }
 
@@ -575,42 +576,42 @@ public class VectorPath
     public Color FillColor { get; set; }
 
     /// <summary>
-    /// Получает или устанавливает версию.
+    /// Получает или задает версию.
     /// </summary>
-    /// <значение>
+    /// <value>
     /// Версия.
-    /// </значение>
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
     /// Получает или задает значение, указывающее, отключен ли этот экземпляр.
     /// </summary>
-    /// <значение>
-    /// <c>true</c> если этот экземпляр отключен; в противном случае <c>false</c>.
-    /// </значение>
+    /// <value>
+    ///   <c>true</c> если этот экземпляр отключен; иначе <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
     /// Получает или задает значение, указывающее, не связан ли этот экземпляр.
     /// </summary>
-    /// <значение>
-    /// <c>true</c> если этот экземпляр не связан; в противном случае <c>false</c>.
-    /// </значение>
+    /// <value>
+    ///   <c>true</c> если этот экземпляр не связан; иначе <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
     /// Получает или задает значение, указывающее, инвертирован ли этот экземпляр.
     /// </summary>
-    /// <значение>
-    /// <c>true</c> если этот экземпляр инвертирован; в противном случае <c>false</c>.
-    /// </значение>
+    /// <value>
+    ///   <c>true</c> если этот экземпляр инвертирован; иначе <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// Инициализирует значения на основе ввода <see cref="VectorPathDataResource"/> ресурс.
+    /// Инициализирует значения на основе входного ресурса <see cref="VectorPathDataResource"/>.
     /// </summary>
-    /// <param name="resource">Ресурс данных векторного пути.</param>
-    /// <param name="imageSize">Размер изображения для корректного преобразования координат точки.</param>
+    /// <param name="resource">Векторный ресурс данных пути.</param>
+    /// <param name="imageSize">Размер изображения для корректировки преобразования координат точек.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -661,10 +662,10 @@ public class VectorPath
 #endregion
 ```
 
-### Смотрите также
+### См. также
 
 * class [VsmsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

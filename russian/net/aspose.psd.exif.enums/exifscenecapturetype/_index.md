@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType перечисление. Тип захвата сцены exif enum.
+title: "Перечисление ExifSceneCaptureType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType перечисление. exif scene capture type перечисление"
 type: docs
-weight: 930
+weight: 940
 url: /ru/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-Тип захвата сцены exif enum.
+Перечисление типа захвата сцены exif.
 
 ```csharp
 public enum ExifSceneCaptureType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Standard | `0` | Стандартная сцена. |
 | Landscape | `1` | Пейзажная сцена. |
 | Portrait | `2` | Портретная сцена. |
 | NightScene | `3` | Ночная сцена. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

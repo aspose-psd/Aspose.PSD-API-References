@@ -1,14 +1,15 @@
 ---
-title: IImageLoaderDescriptor.CanLoad
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageLoaderDescriptor метод. Определяет может ли загрузчик изображений читать новое изображение из указанного потока и при необходимости с помощьюloadOptions .
+title: "IImageLoaderDescriptor.CanLoad"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageLoaderDescriptor. Определяет, может ли загрузчик изображений прочитать новое изображение из указанного потока и, при необходимости, используя *loadOptions*"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/iimageloaderdescriptor/canload/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CanLoad method
 
-Определяет, может ли загрузчик изображений читать новое изображение из указанного потока и, при необходимости, с помощью*loadOptions* .
+Определяет, может ли загрузчик изображений прочитать новое изображение из указанного потока и при необходимости используя *loadOptions*.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
@@ -17,18 +18,18 @@ public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Контейнер потока. |
-| loadOptions | LoadOptions | Детали формата файла, указанные*loadOptions* .*loadOptions* может быть нулевым. |
+| loadOptions | LoadOptions | Подробности формата файла, указанные в *loadOptions*. *loadOptions* может быть null. |
 
 ### Возвращаемое значение
 
-`истинный` может ли загрузчик изображений, созданный этим дескриптором, читать изображение из потока; в противном случае,`ЛОЖЬ` .
+`true`, если загрузчик изображений, созданный этим дескриптором, может читать изображение из потока; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoaderDescriptor](../)
-* пространство имен [Aspose.PSD](../../iimageloaderdescriptor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterImage.HasTransparentColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает значение указывающее имеет ли изображение прозрачный цвет.
+title: "RasterImage.HasTransparentColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Возвращает значение, указывающее, имеет ли изображение прозрачный цвет."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/rasterimage/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasTransparentColor property
 
 Получает значение, указывающее, имеет ли изображение прозрачный цвет.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/rasterimage/hastransparentcolor/
 public virtual bool HasTransparentColor { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

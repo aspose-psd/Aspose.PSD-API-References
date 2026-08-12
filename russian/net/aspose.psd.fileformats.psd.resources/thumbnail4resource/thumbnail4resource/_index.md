@@ -1,11 +1,12 @@
 ---
-title: Thumbnail4Resource.Thumbnail4Resource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Thumbnail4Resource строитель. Конструктор по умолчанию.
+title: "Thumbnail4Resource.Thumbnail4Resource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Thumbnail4Resource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/thumbnail4resource/
 ---
+{{< psd/tize >}}
 ## Thumbnail4Resource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/thumbnail4r
 public Thumbnail4Resource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Thumbnail4Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnail4resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

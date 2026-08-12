@@ -1,23 +1,24 @@
 ---
-title: LayerResource.PsbResourceSignature
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResource поле. Сигнатура ресурса PSB.
+title: "LayerResource.PsbResourceSignature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле LayerResource. Специфичная для PSB подпись ресурса."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsbResourceSignature field
 
-Сигнатура ресурса PSB.
+Подпись ресурса, специфичная для PSB.
 
 ```csharp
 public const int PsbResourceSignature;
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

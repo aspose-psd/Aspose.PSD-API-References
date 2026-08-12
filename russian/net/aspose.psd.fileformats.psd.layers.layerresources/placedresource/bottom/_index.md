@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает положение нижнего слоя размещенного слоя в изображении PSD.
+title: "PlacedResource.Bottom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задает нижнее положение размещённого слоя в изображении PSD"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-Получает или задает положение нижнего слоя размещенного слоя в изображении PSD.
+Получает или задает положение снизу размещённого слоя в изображении PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Нижняя позиция размещенного слоя.
+Нижнее положение размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

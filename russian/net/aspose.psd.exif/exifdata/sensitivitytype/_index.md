@@ -1,11 +1,12 @@
 ---
-title: ExifData.SensitivityType
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает тип чувствительности.
+title: "ExifData.SensitivityType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает тип чувствительности"
 type: docs
 weight: 930
 url: /ru/net/aspose.psd.exif/exifdata/sensitivitytype/
 ---
+{{< psd/tize >}}
 ## ExifData.SensitivityType property
 
 Получает или задает тип чувствительности.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/sensitivitytype/
 public ushort SensitivityType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип чувствительности.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

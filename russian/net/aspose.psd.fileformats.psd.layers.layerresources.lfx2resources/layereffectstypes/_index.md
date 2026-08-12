@@ -1,35 +1,36 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes перечисление. Эффекты наложения слоев.
+title: "Перечисление LayerEffectsTypes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Эффекты смешивания слоёв"
 type: docs
-weight: 2660
+weight: 2900
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
-Эффекты наложения слоев.
+Эффекты наложения слоёв.
 
 ```csharp
 public enum LayerEffectsTypes
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | DropShadow | `0` | Тень. |
 | OuterGlow | `1` | Внешнее свечение. |
 | PatternOverlay | `2` | Наложение узора. |
 | GradientOverlay | `3` | Наложение градиента. |
 | ColorOverlay | `4` | Наложение цвета. |
-| Satin | `5` | Тип эффекта атласа. |
+| Satin | `5` | Тип атласного эффекта. |
 | InnerGlow | `6` | Внутреннее свечение. |
 | InnerShadow | `7` | Внутренняя тень. |
-| Stroke | `8` | Инсульт. |
-| BevelEmboss | `9` | Тиснение скоса. |
+| Stroke | `8` | Обводка. |
+| BevelEmboss | `9` | Фаска. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку свойства ILayerEffect.EffectType.
 
@@ -55,16 +56,16 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // он поймал
+            // это поймано
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.MedianPointLocation
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientTransparencyPoint свойство. Получает или задает положение срединной точки.
+title: "GradientTransparencyPoint.MedianPointLocation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientTransparencyPoint. Получает или задает расположение медианной точки"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.MedianPointLocation property
 
-Получает или задает положение срединной точки.
+Получает или задает расположение медианной точки.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Расположение срединной точки.
+Расположение медианной точки.
 
-### Смотрите также
+### См. также
 
 * class [GradientTransparencyPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

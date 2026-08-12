@@ -1,14 +1,15 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageCreateException строитель. Инициализирует новый экземплярImageCreateException класс.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ImageCreateException. Инициализирует новый экземпляр класса ImageCreateException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-Инициализирует новый экземпляр[`ImageCreateException`](../) класс.
+Инициализирует новый экземпляр класса [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message)
@@ -16,19 +17,19 @@ public ImageCreateException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [ImageCreateException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageCreateException`](../) класс.
+Инициализирует новый экземпляр класса [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public ImageCreateException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [ImageCreateException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

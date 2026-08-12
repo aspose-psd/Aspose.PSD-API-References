@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetColorMatrix
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Задает матрицу настройки цвета для категории по умолчанию.
+title: "ImageAttributes.SetColorMatrix"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает матрицу корректировки цвета для категории по умолчанию."
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/imageattributes/setcolormatrix/
 ---
+{{< psd/tize >}}
 ## SetColorMatrix(ColorMatrix) {#setcolormatrix}
 
-Задает матрицу настройки цвета для категории по умолчанию.
+Устанавливает матрицу коррекции цвета для категории по умолчанию.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix)
@@ -16,20 +17,20 @@ public void SetColorMatrix(ColorMatrix newColorMatrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | Матрица настройки цвета. |
+| newColorMatrix | ColorMatrix | Матрица коррекции цвета. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag) {#setcolormatrix_1}
 
-Задает матрицу настройки цвета для категории по умолчанию.
+Устанавливает матрицу коррекции цвета для категории по умолчанию.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag flags)
@@ -37,22 +38,22 @@ public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag flags)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | Матрица настройки цвета. |
-| flags | ColorMatrixFlag | Элемент[`ColorMatrixFlag`](../../colormatrixflag/) который определяет тип изображения и цвет, на который будет воздействовать матрица настройки цвета. |
+| newColorMatrix | ColorMatrix | Матрица коррекции цвета. |
+| flags | ColorMatrixFlag | Элемент [`ColorMatrixFlag`](../../colormatrixflag/), который определяет тип изображения и цвета, которые будут затронуты матрицей корректировки цвета. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrix_2}
 
-Задает матрицу настройки цвета для указанной категории.
+Устанавливает матрицу коррекции цвета для указанной категории.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, ColorAdjustType type)
@@ -60,17 +61,17 @@ public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, Col
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | Матрица настройки цвета. |
-| mode | ColorMatrixFlag | Элемент[`ColorMatrixFlag`](../../colormatrixflag/) который определяет тип изображения и цвет, на который будет воздействовать матрица настройки цвета. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой установлена матрица настройки цвета. |
+| newColorMatrix | ColorMatrix | Матрица коррекции цвета. |
+| mode | ColorMatrixFlag | Элемент [`ColorMatrixFlag`](../../colormatrixflag/), который определяет тип изображения и цвета, которые будут затронуты матрицей корректировки цвета. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой задаётся матрица корректировки цвета. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

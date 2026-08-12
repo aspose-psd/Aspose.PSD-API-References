@@ -1,11 +1,12 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает значение указывающее доступна ли загрузка необработанных данных.
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Возвращает значение, указывающее, доступна ли загрузка необработанных данных"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
 Получает значение, указывающее, доступна ли загрузка необработанных данных.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/rasterimage/israwdataavailable/
 public bool IsRawDataAvailable { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` доступна ли эта загрузка необработанных данных; в противном случае,`ЛОЖЬ` .
+`true` если загрузка необработанных данных доступна; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructuresRegistry метод. Получает первый поддерживаемый дескриптор по имени его типа.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод OSTypeStructuresRegistry. Получает первый поддерживаемый дескриптор по его имени типа"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Получает первый поддерживаемый дескриптор по имени его типа.
+Получает первый поддерживаемый дескриптор по его имени типа.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
@@ -21,17 +22,17 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
 
 ### Возвращаемое значение
 
-Первый найденный дескриптор открывателя или нуль, если такой дескриптор не найден.
+Первый найденный дескриптор открывателя или null, если такой дескриптор не найден.
 
-### Примечания
+## Примечания
 
-Первый дескриптор открывателя будет фактически последним зарегистрированным.
+Первый дескриптор открывателя на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

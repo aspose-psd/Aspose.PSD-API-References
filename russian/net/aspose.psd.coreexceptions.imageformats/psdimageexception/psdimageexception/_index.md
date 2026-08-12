@@ -1,14 +1,15 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImageException строитель. Инициализирует новый экземплярPsdImageException класс.
+title: "PsdImageException.PsdImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PsdImageException. Инициализирует новый экземпляр класса PsdImageException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException(string) {#constructor}
 
-Инициализирует новый экземпляр[`PsdImageException`](../) класс.
+Инициализирует новый экземпляр класса [`PsdImageException`](../).
 
 ```csharp
 public PsdImageException(string message)
@@ -16,19 +17,19 @@ public PsdImageException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`PsdImageException`](../) класс.
+Инициализирует новый экземпляр класса [`PsdImageException`](../).
 
 ```csharp
 public PsdImageException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public PsdImageException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

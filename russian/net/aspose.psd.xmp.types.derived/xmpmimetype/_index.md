@@ -1,11 +1,12 @@
 ---
-title: Class XmpMimeType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType сорт. Представляет тип MIME.
+title: "Класс XmpMimeType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Derived.XmpMimeType. Представляет MIME‑тип"
 type: docs
-weight: 6180
+weight: 6680
 url: /ru/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType class
 
 Представляет тип MIME.
@@ -18,9 +19,9 @@ public sealed class XmpMimeType : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| [XmpMimeType](xmpmimetype/)(string) | Инициализирует новый экземпляр`XmpMimeType` класс. |
+| [XmpMimeType](xmpmimetype/)(string) | Инициализирует новый экземпляр класса `XmpMimeType`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -30,16 +31,16 @@ public sealed class XmpMimeType : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Примечания
+## Примечания
 
-Тип MIME, определенный в IETF RFC 2046.
+MIME‑тип, определённый в IETF RFC 2046.
 
-### Смотрите также
+### См. также
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontBaseline
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Базовая линия шрифта.
+title: "ITextStyle.FontBaseline"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Базовая линия шрифта"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontBaseline property
 
 Базовая линия шрифта.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/
 public FontBaseline FontBaseline { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FontBaseline](../../../aspose.psd.fileformats.psd/fontbaseline/)
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

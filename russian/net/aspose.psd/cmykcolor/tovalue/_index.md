@@ -1,14 +1,15 @@
 ---
-title: CmykColor.ToValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColor метод. Значение для.
+title: "CmykColor.ToValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColor. Преобразование в значение"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-Значение для.
+Получить значение.
 
 ```csharp
 public long ToValue()
@@ -16,12 +17,12 @@ public long ToValue()
 
 ### Возвращаемое значение
 
-Int64 .
+Тип Int64.
 
-### Смотрите также
+### См. также
 
 * struct [CmykColor](../)
-* пространство имен [Aspose.PSD](../../cmykcolor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

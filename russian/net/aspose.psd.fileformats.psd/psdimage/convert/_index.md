@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Convert
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Преобразует этот формат изображения в формат указанный в options.
+title: "PsdImage.Convert"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Преобразует формат этого изображения в указанный в параметрах."
 type: docs
-weight: 500
+weight: 560
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Преобразует этот формат изображения в формат, указанный в options.
+Преобразует формат этого изображения в указанный в параметрах.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
@@ -16,11 +17,11 @@ public void Convert(PsdOptions newOptions)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newOptions | PsdOptions | Новые опции. |
+| newOptions | PsdOptions | Новые параметры. |
 
-### Примеры
+## Примеры
 
-Эти примеры демонстрируют преобразование формата изображения PSD в другие цветовые режимы/битовую глубину.
+Эти примеры демонстрируют преобразование формата изображения PSD в другие режимы цвета/битовую глубину.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public void Convert(PsdOptions newOptions)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Эти примеры демонстрируют преобразование формата изображения PSD в другие цветовые режимы/битовую глубину.
+// Эти примеры демонстрируют преобразование формата изображения PSD в другие режимы цвета/битовую глубину.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// Сохраняет в PSD, затем загружает сохраненный файл и сохраняет в PNG.
+// Сохраняет в PSD, затем загружает сохранённый файл и сохраняет в PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: PhflResourceVersion2.ComponentL
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResourceVersion2 свойство. Получает или задает Lкомпонент color
+title: "PhflResourceVersion2.ComponentL"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResourceVersion2. Получает или задает компонент L цвета"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentL property
 
-Получает или задает L-компонент color
+Получает или задает компонент L цвета
 
 ```csharp
 public short ComponentL { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Компонент L.
 
@@ -22,12 +23,12 @@ public short ComponentL { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L Цвет должен быть в диапазоне от 0 до 10000 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Цвет L должен быть в диапазоне от 0 до 10000 |
 
-### Смотрите также
+### См. также
 
 * class [PhflResourceVersion2](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

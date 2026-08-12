@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает имя лица этогоFont .
+title: "Font.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Возвращает название гарнитуры этого Font"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Получает имя лица этого[`Font`](../) .
+Возвращает название гарнитуры этого [`Font`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Строковое представление имени лица этого[`Font`](../).
+Строковое представление названия гарнитуры этого [`Font`](../).
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

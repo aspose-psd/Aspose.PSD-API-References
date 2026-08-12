@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Items
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или устанавливает элементы деформации.
+title: "IPlacedLayerResource.Items"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPlacedLayerResource. Получает или задает элементы искажения"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Items property
 
-Получает или устанавливает элементы деформации.
+Получает или задает элементы деформации.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Предметы деформации.
+Элементы искажения.
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../ostypestructure/)
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

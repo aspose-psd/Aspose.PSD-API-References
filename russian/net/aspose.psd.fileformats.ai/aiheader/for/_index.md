@@ -1,11 +1,12 @@
 ---
-title: AiHeader.For
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задает для.
+title: "AiHeader.For"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает for"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/for/
 ---
+{{< psd/tize >}}
 ## AiHeader.For property
 
 Получает или задает для.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/aiheader/for/
 public string For { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Для.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

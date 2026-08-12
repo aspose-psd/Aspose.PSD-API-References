@@ -1,14 +1,15 @@
 ---
-title: Color.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. Преобразует этоColor структуру в удобочитаемую строку.
+title: "Color.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Преобразует эту структуру Color в читаемую строку"
 type: docs
 weight: 1610
 url: /ru/net/aspose.psd/color/tostring/
 ---
+{{< psd/tize >}}
 ## Color.ToString method
 
-Преобразует это[`Color`](../) структуру в удобочитаемую строку.
+Преобразует эту структуру [`Color`](../) в читаемую строку.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, которая является именем этого[`Color`](../) , если[`Color`](../) создается из предопределенного цвета с помощью[`FromName`](../fromname/) метод или[`FromKnownColor`](../fromknowncolor/) метод; в противном случае — строка, состоящая из имен компонентов ARGB и их значений.
+Строка, содержащая имя этого [`Color`](../), если [`Color`](../) создан из предопределённого цвета с помощью метода [`FromName`](../fromname/) или метода [`FromKnownColor`](../fromknowncolor/); в противном случае строка, состоящая из имён компонентов ARGB и их значений.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

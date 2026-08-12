@@ -1,11 +1,12 @@
 ---
-title: PathGradientBrushBase.GraphicsPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathGradientBrushBase свойство. Получает графический путь на котором построена эта кисть.
+title: "PathGradientBrushBase.GraphicsPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PathGradientBrushBase. Возвращает графический путь, на котором построена эта кисть."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.GraphicsPath property
 
 Получает графический путь, на котором построена эта кисть.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 public GraphicsPath GraphicsPath { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Графический путь.
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

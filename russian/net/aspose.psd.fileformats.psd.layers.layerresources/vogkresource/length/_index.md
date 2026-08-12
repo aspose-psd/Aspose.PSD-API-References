@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: VogkResource свойство. Получает длину ресурса слоя в байтах.
+title: "VogkResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VogkResource property. Получает длину ресурса слоя в байтах"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/lengt
 public override int Length { get; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса VogkResource.
+Следующий пример демонстрирует поддержку ресурса VogkResource.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VogkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ArcShape.EndPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: ArcShape свойство. Получает конечную точку формы.
+title: "ArcShape.EndPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ArcShape property. Возвращает конечную точку фигуры"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.shapes/arcshape/endpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.EndPoint property
 
-Получает конечную точку формы.
+Получает конечную точку фигуры.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Конечная точка формы.
+Конечная точка фигуры.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../arcshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает границы размещенного слоя в файле PSD.
+title: "PlacedResource.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задает границы размещённого слоя в файле PSD"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bounds property
 
-Получает или задает границы размещенного слоя в файле PSD.
+Получает или задает границы размещённого слоя в файле PSD.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Границы размещенного слоя.
+Границы размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

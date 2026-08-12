@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanRead
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer свойство. Получает значение указывающее поддерживает ли поток чтение.
+title: "StreamContainer.CanRead"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StreamContainer свойство. Возвращает значение, указывающее, поддерживает ли поток чтение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/streamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanRead property
 
-Получает значение, указывающее, поддерживает ли поток чтение.
+Возвращает значение, указывающее, поддерживает ли поток чтение.
 
 ```csharp
 public virtual bool CanRead { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если поток поддерживает чтение; в противном случае,`ЛОЖЬ`.
+`true`, если поток поддерживает чтение; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

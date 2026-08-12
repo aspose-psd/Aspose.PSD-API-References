@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MaxA
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantLab поле. Максимальное значение компонента A
+title: "ColorantLab.MaxA"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ColorantLab. Максимальное значение компонента A"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MaxA field
 
 Максимальное значение компонента A
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/
 public const int MaxA;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorantLab](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

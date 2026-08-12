@@ -1,28 +1,29 @@
 ---
-title: VstkResource.StrokeStyleLineCapType
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает тип заглавной буквы стиля штриха.
+title: "VstkResource.StrokeStyleLineCapType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Получает или задает тип окончания линии стиля штриха"
 type: docs
-weight: 110
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapType property
 
-Получает или задает тип заглавной буквы стиля штриха.
+Получает или задает тип окончания линии стиля штриха.
 
 ```csharp
 public LineCapType StrokeStyleLineCapType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип шапки линии стиля обводки.
+Тип окончания линии стиля штриха.
 
-### Смотрите также
+### См. также
 
 * enum [LineCapType](../../linecaptype/)
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

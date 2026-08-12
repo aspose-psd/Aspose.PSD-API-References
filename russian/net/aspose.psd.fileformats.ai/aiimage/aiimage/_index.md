@@ -1,23 +1,24 @@
 ---
-title: AiImage.AiImage
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage строитель. Конструктор по умолчанию.
+title: "AiImage.AiImage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор AiImage. Инициализирует новый экземпляр класса AiImage."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-Конструктор по умолчанию.
+Инициализирует новый экземпляр класса [`AiImage`](../).
 
 ```csharp
 public AiImage()
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

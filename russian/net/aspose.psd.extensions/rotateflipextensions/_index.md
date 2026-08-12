@@ -1,14 +1,15 @@
 ---
-title: Class RotateFlipExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.RotateFlipExtensions сорт. Содержит методы расширения для преобразованияRotateFlipType иRotateFlipType классы.
+title: "Класс RotateFlipExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.RotateFlipExtensions. Содержит методы расширения для преобразования классов RotateFlipType и RotateFlipType"
 type: docs
-weight: 1180
+weight: 1190
 url: /ru/net/aspose.psd.extensions/rotateflipextensions/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions class
 
-Содержит методы расширения для преобразованияRotateFlipType и[`RotateFlipType`](../../aspose.psd/rotatefliptype/) классы.
+Содержит методы расширения для преобразования классов RotateFlipType и [`RotateFlipType`](../../aspose.psd/rotatefliptype/).
 
 ```csharp
 public static class RotateFlipExtensions
@@ -20,9 +21,9 @@ public static class RotateFlipExtensions
 | --- | --- |
 | static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | Преобразует Aspose.PSD.RotateFlipType в System.Drawing.RotateFlipType. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

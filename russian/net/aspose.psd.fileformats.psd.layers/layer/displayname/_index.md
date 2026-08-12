@@ -1,11 +1,12 @@
 ---
-title: Layer.DisplayName
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает отображаемое имя слоя.
+title: "Layer.DisplayName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Возвращает или задает отображаемое имя слоя"
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
 Получает или задает отображаемое имя слоя.
@@ -14,18 +15,18 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 public string DisplayName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Отображаемое имя слоя.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется возможность установки значения DisplayName, при котором имя слоя отображается правильно.
+Следующий пример демонстрирует возможность установить значение DisplayName, при котором имя слоя отображается корректно.
 
 ```csharp
 [C#]
 
-// вносим изменения в имена слоев и сохраняем их
+// внесите изменения в имена слоёв и сохраните их
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // устанавливаем новое значение в свойство DisplayName
+        // установить новое значение в свойство DisplayName
         layer.DisplayName += "_changed";
     }
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

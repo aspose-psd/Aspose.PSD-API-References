@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Bottom
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeBoundingBox свойство. Получает или задает нижнюю часть.
+title: "VectorShapeBoundingBox.Bottom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeBoundingBox. Получает или задает нижнее значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bottom property
 
-Получает или задает нижнюю часть.
+Получает или задает нижнее значение.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дно.
+Нижнее значение.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeBoundingBox](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Pen.SetLineCap
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen метод. Устанавливает значения определяющие стиль заглавных букв используемых для окончания линий нарисованных этимPen .
+title: "Pen.SetLineCap"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Pen. Устанавливает значения, определяющие стиль окончания, используемый для завершения линий, нарисованных этим Pen."
 type: docs
 weight: 230
 url: /ru/net/aspose.psd/pen/setlinecap/
 ---
+{{< psd/tize >}}
 ## Pen.SetLineCap method
 
-Устанавливает значения, определяющие стиль заглавных букв, используемых для окончания линий, нарисованных этим[`Pen`](../) .
+Устанавливает значения, определяющие стиль окончания, используемого для завершения линий, нарисованных этим [`Pen`](../).
 
 ```csharp
 public void SetLineCap(LineCap startCap, LineCap endCap, DashCap dashCap)
@@ -16,16 +17,16 @@ public void SetLineCap(LineCap startCap, LineCap endCap, DashCap dashCap)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| startCap | LineCap | А[`LineCap`](../../linecap/) который представляет стиль заглавных букв, используемый в начале линий, нарисованных с помощью этого[`Pen`](../). |
-| endCap | LineCap | А[`LineCap`](../../linecap/) который представляет стиль заглавных букв, используемый в конце строк, нарисованных с помощью этого[`Pen`](../). |
-| dashCap | DashCap | А[`LineCap`](../../linecap/) который представляет стиль заглавных букв, используемый в начале или конце пунктирных линий, нарисованных с помощью этого[`Pen`](../). |
+| startCap | LineCap | Объект [`LineCap`](../../linecap/), представляющий стиль окончания, используемый в начале линий, нарисованных этим [`Pen`](../). |
+| endCap | LineCap | Объект [`LineCap`](../../linecap/), представляющий стиль окончания, используемый в конце линий, нарисованных этим [`Pen`](../). |
+| dashCap | DashCap | Объект [`LineCap`](../../linecap/), представляющий стиль окончания, используемый в начале или в конце пунктирных линий, нарисованных этим [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * enum [LineCap](../../linecap/)
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

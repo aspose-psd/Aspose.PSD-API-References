@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.DataSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: PrintScaleResource свойство. Получает размер данных ресурса в байтах.
+title: "PrintScaleResource.DataSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PrintScaleResource property. Получает размер данных ресурса в байтах"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/datasize/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.DataSize property
 
 Получает размер данных ресурса в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/datasize/
 public override int DataSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер данных ресурса.
 
-### Смотрите также
+### См. также
 
 * class [PrintScaleResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

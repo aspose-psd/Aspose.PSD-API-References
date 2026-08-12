@@ -1,14 +1,15 @@
 ---
-title: Class CurvesContinuousManager
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager сорт. Менеджер корректирующего слоя кривых управляющий кривыми
+title: "Класс CurvesContinuousManager"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager. Менеджер слоя корректировки кривых, который управляет кривыми."
 type: docs
-weight: 2410
+weight: 2670
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-Менеджер корректирующего слоя кривых, управляющий кривыми
+Менеджер слоя коррекции кривых, который управляет кривыми.
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
@@ -18,9 +19,9 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 | Имя | Описание |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Инициализирует новый экземпляр`CurvesContinuousManager` класс. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Инициализирует новый экземпляр класса `CurvesContinuousManager`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -36,10 +37,10 @@ public sealed class CurvesContinuousManager : CurvesManager
 | [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | Удаляет точку кривой. |
 | [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | Обновляет точку кривой. |
 
-### Смотрите также
+### См. также
 
 * class [CurvesManager](../curvesmanager/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

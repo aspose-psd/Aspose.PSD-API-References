@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PtFlResource свойство. Получает или задает значение указывающее связан ли этот экземпляр со слоем.
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PtFlResource. Получает или задает значение, указывающее, связан ли данный экземпляр со слоем"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
 Получает или задает значение, указывающее, связан ли этот экземпляр со слоем.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islin
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр связан со слоем; в противном случае,`ЛОЖЬ` .
+`true`, если данный экземпляр связан со слоем; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки и редактирования ресурса PtFlResource.
+Следующий пример демонстрирует поддержку загрузки и редактирования ресурса PtFlResource.
 
 ```csharp
 [C#]
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // У нас нет данных шаблона в PattResource, поэтому мы можем их добавить.
+                    // У нас нет данных шаблона в PattResource, поэтому мы можем добавить их.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PtFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

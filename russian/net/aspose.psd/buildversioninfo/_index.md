@@ -1,11 +1,12 @@
 ---
-title: Class BuildVersionInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.BuildVersionInfo сорт. Содержит информацию о текущей версии сборки.
+title: "Класс BuildVersionInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.BuildVersionInfo. Содержит информацию о текущей версии сборки"
 type: docs
 weight: 230
 url: /ru/net/aspose.psd/buildversioninfo/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo class
 
 Содержит информацию о текущей версии сборки.
@@ -22,12 +23,12 @@ public static class BuildVersionInfo
 | static readonly [FileVersion](../../aspose.psd/buildversioninfo/fileversion/) | Версия файла. |
 | static readonly [Product](../../aspose.psd/buildversioninfo/product/) | Название продукта. |
 | static readonly [ProductMajor](../../aspose.psd/buildversioninfo/productmajor/) | Основная версия продукта. |
-| static readonly [ProductMinor](../../aspose.psd/buildversioninfo/productminor/) | Младшая версия продукта. |
+| static readonly [ProductMinor](../../aspose.psd/buildversioninfo/productminor/) | Второстепенная версия продукта. |
 | static readonly [ReleaseDate](../../aspose.psd/buildversioninfo/releasedate/) | Дата выпуска продукта. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

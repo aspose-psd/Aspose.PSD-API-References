@@ -1,14 +1,15 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: Справочник по Aspose.PSD для .NET API
-description: PenExtensions метод. ПреобразуетPen кPen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PenExtensions. Преобразует Pen в Pen."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-Преобразует[`Pen`](../../../aspose.psd/pen/) кPen .
+Преобразует [`Pen`](../../../aspose.psd/pen/) в Pen.
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
@@ -16,17 +17,17 @@ public static Pen ToGdiPen(Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../../aspose.psd/pen/) для преобразования. |
+| pen | Pen | Этот [`Pen`](../../../aspose.psd/pen/) для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйPen.
+Преобразованный Pen.
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../penextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

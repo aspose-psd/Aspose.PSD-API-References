@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает горизонтальную подвыборку для каждого компонента.
+title: "JpegOptions.HorizontalSampling"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает горизонтальные субдискретизации для каждого компонента"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
-Получает или задает горизонтальную подвыборку для каждого компонента.
+Получает или задает горизонтальные субдискретизации для каждого компонента.
 
 ```csharp
 public byte[] HorizontalSampling { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

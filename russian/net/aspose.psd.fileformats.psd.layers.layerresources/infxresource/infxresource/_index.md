@@ -1,14 +1,15 @@
 ---
-title: InfxResource.InfxResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: InfxResource строитель. Инициализирует новый экземплярInfxResource класс.
+title: "InfxResource.InfxResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор InfxResource. Инициализирует новый экземпляр класса InfxResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`InfxResource`](../) класс.
+Инициализирует новый экземпляр класса [`InfxResource`](../).
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
@@ -16,35 +17,35 @@ public InfxResource(bool blendInteriorElements)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | если установлено`истинный` [смешать элементы интерьера]. |
+| blendInteriorElements | Boolean | если установлено в `true` [смешивание внутренних элементов]. |
 
-### Смотрите также
+### См. также
 
 * class [InfxResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-Инициализирует новый экземпляр[`InfxResource`](../) класс.
+Инициализирует новый экземпляр класса [`InfxResource`](../).
 
 ```csharp
 public InfxResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [InfxResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`InfxResource`](../) class. С пользовательским или неизвестным значением
+Инициализирует новый экземпляр класса [`InfxResource`](../). С пользовательским или неизвестным значением
 
 ```csharp
 public InfxResource(byte[] data)
@@ -52,7 +53,7 @@ public InfxResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -60,10 +61,10 @@ public InfxResource(byte[] data)
 | --- | --- |
 | ArgumentException | Недопустимое значение ресурса infx |
 
-### Смотрите также
+### См. также
 
 * class [InfxResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

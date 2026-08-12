@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.GetBounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Получает границы объекта.
+title: "GraphicsPath.GetBounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Получает границы объекта"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/graphicspath/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Получает границы объекта.
@@ -16,19 +17,19 @@ public override RectangleF GetBounds(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Матрица, которую необходимо применить перед вычислением границ. |
+| матрица | Matrix | Матрица, применяемая перед вычислением границ. |
 
 ### Возвращаемое значение
 
-Границы предполагаемого объекта.
+Оценочные границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,20 +43,20 @@ public override RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Матрица, которую необходимо применить перед вычислением границ. |
-| pen | Pen | Ручка для объекта. Это может повлиять на размер границ объекта. |
+| матрица | Matrix | Матрица, применяемая перед вычислением границ. |
+| перо | Перо | Перо, используемое для объекта. Это может влиять на размер границ объекта. |
 
 ### Возвращаемое значение
 
-Границы предполагаемого объекта.
+Оценочные границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

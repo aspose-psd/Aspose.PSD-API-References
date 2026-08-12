@@ -1,14 +1,15 @@
 ---
-title: FileStreamContainer.OpenFileStream
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileStreamContainer метод. Открывает существующий файловый поток. Если файловый поток не существует выдается соответствующее исключение.
+title: "FileStreamContainer.OpenFileStream"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FileStreamContainer. Открывает существующий файловый поток. Если файловый поток не существует, будет выброшено соответствующее исключение."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/filestreamcontainer/openfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.OpenFileStream method
 
-Открывает существующий файловый поток. Если файловый поток не существует, выдается соответствующее исключение.
+Открывает существующий файловый поток. Если файловый поток не существует, выбрасывается соответствующее исключение.
 
 ```csharp
 public static FileStreamContainer OpenFileStream(string fileLocation)
@@ -22,10 +23,10 @@ public static FileStreamContainer OpenFileStream(string fileLocation)
 
 Контейнер файлового потока.
 
-### Смотрите также
+### См. также
 
 * class [FileStreamContainer](../)
-* пространство имен [Aspose.PSD](../../filestreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

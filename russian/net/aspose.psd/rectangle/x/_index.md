@@ -1,27 +1,28 @@
 ---
-title: Rectangle.X
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle свойство. Получает или задает xкоординату левого верхнего угла этогоRectangleструктура.
+title: "Rectangle.X"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rectangle. Получает или задает координату x верхнего левого угла этой структуры Rectangle."
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/rectangle/x/
 ---
+{{< psd/tize >}}
 ## Rectangle.X property
 
-Получает или задает x-координату левого верхнего угла этого[`Rectangle`](../)структура.
+Получает или задает координату x верхнего левого угла этой [`Rectangle`](../) структуры.
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Координата x верхнего левого угла этого[`Rectangle`](../) состав.
+Координата x верхнего левого угла этой [`Rectangle`](../) структуры.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

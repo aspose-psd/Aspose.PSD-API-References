@@ -1,27 +1,28 @@
 ---
-title: LinkResource.IsEmpty
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkResource свойство. Получает значение указывающее является ли этот экземпляр ресурса ссылки пустым.
+title: "LinkResource.IsEmpty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkResource. Возвращает значение, указывающее, является ли этот экземпляр link‑ресурса пустым"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
+{{< psd/tize >}}
 ## LinkResource.IsEmpty property
 
-Получает значение, указывающее, является ли этот экземпляр ресурса ссылки пустым.
+Получает значение, указывающее, пустой ли этот экземпляр ресурса ссылки.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот ресурс ссылки пуст; в противном случае,`ЛОЖЬ` .
+`true`, если этот link‑ресурс пуст; в противном случае — `false`.
 
-### Смотрите также
+### См. также
 
 * class [LinkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

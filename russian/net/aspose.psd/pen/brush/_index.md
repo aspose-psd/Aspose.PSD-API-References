@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задаетBrush что определяет атрибуты этогоPen .
+title: "Pen.Brush"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задаёт объект Brush, определяющий атрибуты этого Pen."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-Получает или задает`Brush` что определяет атрибуты этого[`Pen`](../) .
+Получает или задаёт `Brush`, определяющий атрибуты этого [`Pen`](../).
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А`Brush` что определяет атрибуты этого[`Pen`](../).
+Объект `Brush`, определяющий атрибуты этого [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `Brush` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `Brush` устанавливается для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary метод. Получает перечислитель.
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericDictionary. Получает перечислитель."
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
-Получает перечислитель.
+Возвращает перечислитель.
 
 ```csharp
 public IDictionaryEnumerator GetEnumerator()
@@ -16,12 +17,12 @@ public IDictionaryEnumerator GetEnumerator()
 
 ### Возвращаемое значение
 
-Перечислитель словаря
+Перечислитель словаря.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

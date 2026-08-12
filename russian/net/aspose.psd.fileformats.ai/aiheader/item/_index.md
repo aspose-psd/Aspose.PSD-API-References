@@ -1,14 +1,15 @@
 ---
-title: AiHeader.Item
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задаетString с указанным именем свойства.
+title: "AiHeader.Item"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает строку с указанным именем свойства"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-Получает или задаетString с указанным именем свойства.
+Получает или задает строку с указанным именем свойства.
 
 ```csharp
 public string this[string propertyName] { get; set; }
@@ -16,16 +17,16 @@ public string this[string propertyName] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| propertyName | Название свойства. |
+| propertyName | Имя свойства. |
 
-### Стоимость имущества
+### Property Value
 
-String .
+Строка.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

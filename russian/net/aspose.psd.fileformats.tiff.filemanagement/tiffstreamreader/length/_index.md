@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader свойство. Получает длину считывателя.
+title: "TiffStreamReader.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffStreamReader. Возвращает длину читателя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.Length property
 
-Получает длину считывателя.
+Получает длину читателя.
 
 ```csharp
 public long Length { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Длина считывателя.
+Длина читателя.
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

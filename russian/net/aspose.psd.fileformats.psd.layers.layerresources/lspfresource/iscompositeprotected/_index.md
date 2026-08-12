@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Справочник по Aspose.PSD для .NET API
-description: LspfResource свойство. Получает или задает значение указывающее является ли данный экземпляр защищенным составным.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LspfResource. Получает или задает значение, указывающее, защищён ли этот экземпляр как составной"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-Получает или задает значение, указывающее, является ли данный экземпляр защищенным составным.
+Получает или задает значение, указывающее, защищён ли этот экземпляр составной защитой.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр защищен композитом; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр защищён как составной; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [LspfResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

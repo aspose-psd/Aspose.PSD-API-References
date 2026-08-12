@@ -1,23 +1,24 @@
 ---
-title: PhflResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResource поле. Информационный ключ типа инструмента.
+title: "PhflResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле PhflResource. Ключ информации о типе инструмента"
 type: docs
-weight: 80
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PhflResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [PhflResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class MatrixExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.MatrixExtensions сорт. СодержитMatrix расширения класса.
+title: "Класс MatrixExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.MatrixExtensions. Содержит расширения класса Matrix"
 type: docs
-weight: 1130
+weight: 1140
 url: /ru/net/aspose.psd.extensions/matrixextensions/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions class
 
-Содержит[`Matrix`](../../aspose.psd/matrix/) расширения класса.
+Содержит расширения класса [`Matrix`](../../aspose.psd/matrix/).
 
 ```csharp
 public static class MatrixExtensions
@@ -18,11 +19,11 @@ public static class MatrixExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | Преобразует[`Matrix`](../../aspose.psd/matrix/) кMatrix . |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | Преобразует [`Matrix`](../../aspose.psd/matrix/) в Matrix. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

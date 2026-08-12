@@ -1,11 +1,12 @@
 ---
-title: BlncResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlncResource свойство. Получает длину ресурса слоя в байтах.
+title: "BlncResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BlncResource свойство. Получает длину ресурса слоя в байтах"
 type: docs
-weight: 60
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/
 ---
+{{< psd/tize >}}
 ## BlncResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlncResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

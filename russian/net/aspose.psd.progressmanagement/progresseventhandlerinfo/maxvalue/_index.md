@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProgressEventHandlerInfo свойство. Получает верхний предел значения прогресса.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ProgressEventHandlerInfo. Возвращает верхний предел значения прогресса"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
 Получает верхний предел значения прогресса.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 public int MaxValue { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Верхний предел значения прогресса.
 
-### Смотрите также
+### См. также
 
 * class [ProgressEventHandlerInfo](../)
-* пространство имен [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

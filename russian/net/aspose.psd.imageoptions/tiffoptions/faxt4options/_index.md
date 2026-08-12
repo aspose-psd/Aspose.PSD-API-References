@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FaxT4Options
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает параметры факса t4.
+title: "TiffOptions.FaxT4Options"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает параметры факса t4"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/faxt4options/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FaxT4Options property
 
-Получает или задает параметры факса t4.
+Получает или задает параметры fax t4.
 
 ```csharp
 public Group3Options FaxT4Options { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Параметры факса t4.
 
-### Смотрите также
+### См. также
 
 * enum [Group3Options](../../../aspose.psd.fileformats.tiff.enums/group3options/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Packed
-second_title: Справочник по Aspose.PSD для .NET API
-description: AudioSampleType свойство. Представляет упакованный образец аудио.
+title: "AudioSampleType.Packed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AudioSampleType свойство. Представляет упакованный аудиосэмпл"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Packed property
 
-Представляет упакованный образец аудио.
+Представляет упакованный аудиофрагмент.
 
 ```csharp
 public static AudioSampleType Packed { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AudioSampleType](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

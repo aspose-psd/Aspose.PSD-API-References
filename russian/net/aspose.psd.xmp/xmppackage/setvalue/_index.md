@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage метод. Устанавливает значение.
+title: "XmpPackage.SetValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPackage метод. Устанавливает значение"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.xmp/xmppackage/setvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetValue method
 
 Устанавливает значение.
@@ -16,14 +17,14 @@ public virtual void SetValue(string key, IXmlValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с добавленной стоимостью. |
-| value | IXmlValue | Значение для добавления. |
+| ключ | String | Строковое представление ключа, идентифицируемого добавленным значением. |
+| значение | IXmlValue | Значение, которое нужно добавить. |
 
-### Смотрите также
+### См. также
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

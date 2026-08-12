@@ -1,11 +1,12 @@
 ---
-title: Interface IImageDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IImageDescriptor интерфейс. Дескриптор изображения. Содержит базовые свойства и методы для всех остальных типов дескрипторов изображений.
+title: "Интерфейс IImageDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IImageDescriptor. Описание изображения. Содержит базовые свойства и методы для всех остальных типов описателей изображений."
 type: docs
-weight: 4420
+weight: 4890
 url: /ru/net/aspose.psd/iimagedescriptor/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor interface
 
 Дескриптор изображения. Содержит базовые свойства и методы для всех остальных типов дескрипторов изображений.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/iimagedescriptor/
 public interface IImageDescriptor
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Получает поддерживаемый формат. |
+| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Возвращает поддерживаемый формат. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

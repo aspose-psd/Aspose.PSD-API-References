@@ -1,14 +1,15 @@
 ---
-title: SizeF.IsEmpty
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF свойство. Получает значение указывающее является ли этоSizeF имеет нулевую ширину и высоту.
+title: "SizeF.IsEmpty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SizeF. Получает значение, указывающее, имеет ли этот SizeF нулевую ширину и высоту"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-Получает значение, указывающее, является ли это[`SizeF`](../) имеет нулевую ширину и высоту.
+Получает значение, указывающее, имеет ли этот [`SizeF`](../) нулевую ширину и высоту.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### Возвращаемое значение
 
-Это свойство возвращает true, когда это[`SizeF`](../) имеет как ширину, так и высоту, равные нулю; в противном случае ложно.
+Это свойство возвращает true, когда у этого [`SizeF`](../) и ширина, и высота равны нулю; в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

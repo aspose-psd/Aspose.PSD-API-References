@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет группу слоев.
+title: "PsdImage.AddLayerGroup"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет группу слоёв"
 type: docs
-weight: 380
+weight: 400
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
-Добавляет группу слоев.
+Добавляет группу слоёв.
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
@@ -16,25 +17,25 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| groupName | String | Название группы. |
-| index | Int32 | Индекс слоя для вставки после. |
-| startBehaviour | Boolean | если установлено`истинный` [начальное поведение], чем группа будет в открытом состоянии при запуске, иначе в свернутом состоянии. |
+| groupName | String | Имя группы. |
+| index | Int32 | Индекс слоя, после которого вставлять. |
+| startBehaviour | Boolean | если установлено `true` [start behaviour], то группа будет открыта при запуске, иначе будет свернута. |
 
 ### Возвращаемое значение
 
-Открытие группового слоя
+Открытие группы слоев
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Индекс должен быть в пределах количества слоев |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Индекс должен находиться в пределах количества слоёв |
 
-### Смотрите также
+### См. также
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

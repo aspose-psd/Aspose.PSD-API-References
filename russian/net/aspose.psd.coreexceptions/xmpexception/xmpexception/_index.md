@@ -1,30 +1,31 @@
 ---
-title: XmpException.XmpException
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpException строитель. Инициализирует новый экземплярXmpException класс.
+title: "XmpException.XmpException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpException. Инициализирует новый экземпляр класса XmpException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-Инициализирует новый экземпляр[`XmpException`](../) класс.
+Инициализирует новый экземпляр класса [`XmpException`](../).
 
 ```csharp
 public XmpException()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpException`](../) класс.
+Инициализирует новый экземпляр класса [`XmpException`](../).
 
 ```csharp
 public XmpException(string message)
@@ -34,17 +35,17 @@ public XmpException(string message)
 | --- | --- | --- |
 | message | String | Сообщение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр[`XmpException`](../) класс.
+Инициализирует новый экземпляр класса [`XmpException`](../).
 
 ```csharp
 public XmpException(string message, Exception innerException)
@@ -55,10 +56,10 @@ public XmpException(string message, Exception innerException)
 | message | String | Сообщение. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

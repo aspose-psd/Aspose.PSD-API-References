@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.SampleRoundingMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает выборочный режим округления чтобы подогнать 8битное значение к nбитному значению.BitsPerChannel
+title: "JpegOptions.SampleRoundingMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает режим округления образцов для приведения 8‑битного значения к n‑битному. BitsPerChannel"
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.SampleRoundingMode property
 
-Получает или задает выборочный режим округления, чтобы подогнать 8-битное значение к n-битному значению.BitsPerChannel
+Получает или задает режим округления образца для приведения 8‑битного значения к n‑битному. BitsPerChannel
 
 ```csharp
 public SampleRoundingMode SampleRoundingMode { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [SampleRoundingMode](../../../aspose.psd.fileformats.jpeg/sampleroundingmode/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

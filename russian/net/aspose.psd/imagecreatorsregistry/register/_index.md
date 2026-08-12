@@ -1,14 +1,15 @@
 ---
-title: ImageCreatorsRegistry.Register
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageCreatorsRegistry метод. Регистрирует указанный дескриптор создателя образа.
+title: "ImageCreatorsRegistry.Register"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageCreatorsRegistry. Регистрирует указанный дескриптор создателя изображения."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/imagecreatorsregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.Register method
 
-Регистрирует указанный дескриптор создателя образа.
+Регистрирует указанный дескриптор создателя изображений.
 
 ```csharp
 public static void Register(IImageCreatorDescriptor imageCreatorDescriptor)
@@ -18,11 +19,11 @@ public static void Register(IImageCreatorDescriptor imageCreatorDescriptor)
 | --- | --- | --- |
 | imageCreatorDescriptor | IImageCreatorDescriptor | Дескриптор создателя изображения. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* пространство имен [Aspose.PSD](../../imagecreatorsregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

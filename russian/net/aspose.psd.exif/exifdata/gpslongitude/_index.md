@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSLongitude
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает долготу GPS.
+title: "ExifData.GPSLongitude"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает долготу GPS"
 type: docs
 weight: 540
 url: /ru/net/aspose.psd.exif/exifdata/gpslongitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitude property
 
 Получает или задает долготу GPS.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/gpslongitude/
 public TiffRational[] GPSLongitude { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Долгота GPS.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

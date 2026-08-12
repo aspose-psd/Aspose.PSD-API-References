@@ -1,14 +1,15 @@
 ---
-title: AiImage.CacheData
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage метод. Кэширует данные и гарантирует что дополнительная загрузка данных не будет выполняться из базовогоDataStreamContainer .
+title: "AiImage.CacheData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод AiImage. Кеширует данные и гарантирует, что дополнительная загрузка данных из базового DataStreamContainer не будет выполнена."
 type: docs
-weight: 140
+weight: 170
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
+{{< psd/tize >}}
 ## AiImage.CacheData method
 
-Кэширует данные и гарантирует, что дополнительная загрузка данных не будет выполняться из базового[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) .
+Кеширует данные и гарантирует, что дополнительная загрузка данных из базового [`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) не будет выполнена.
 
 ```csharp
 public override void CacheData()
@@ -18,12 +19,12 @@ public override void CacheData()
 
 | исключение | условие |
 | --- | --- |
-| NotImplementedException | Не реализована |
+| NotImplementedException | Не реализовано |
 
-### Смотрите также
+### См. также
 
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAlblum
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает альбом.
+title: "XmpDynamicMediaPackage.SetAlblum"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает альбом"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAlblum method
 
 Устанавливает альбом.
@@ -16,12 +17,12 @@ public void SetAlblum(string album)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| album | String | Альбом. |
+| альбом | String | Альбом. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Region.Union
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Обновляет этоRegion к союзу самого себя и указанногоRectangleFструктура.
+title: "Region.Union"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Обновляет данный Region, объединяя его с указанной структурой RectangleF"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-Обновляет это[`Region`](../) к союзу самого себя и указанного[`RectangleF`](../../rectanglef/)структура.
+Обновляет этот [`Region`](../), объединяя его с указанной структурой [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Union(RectangleF rect)
@@ -16,20 +17,20 @@ public void Union(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) структура, чтобы объединиться с этим[`Region`](../). |
+| rect | RectangleF | Структура [`RectangleF`](../../rectanglef/), которую нужно объединить с этим [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-Обновляет это[`Region`](../) к союзу самого себя и указанного[`Rectangle`](../../rectangle/)структура.
+Обновляет этот [`Region`](../), объединяя его с указанной структурой [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Union(Rectangle rect)
@@ -37,20 +38,20 @@ public void Union(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) структура, чтобы объединиться с этим[`Region`](../). |
+| rect | Rectangle | Структура [`Rectangle`](../../rectangle/), которую нужно объединить с этим [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-Обновляет это[`Region`](../) к союзу самого себя и указанного[`GraphicsPath`](../../graphicspath/) .
+Обновляет этот [`Region`](../), объединяя его с указанным [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Union(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Union(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) объединиться с этим[`Region`](../). |
+| path | GraphicsPath | Объект [`GraphicsPath`](../../graphicspath/), который следует объединить с этим [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *path* нулевой. |
+| ArgumentNullException | *path* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-Обновляет это[`Region`](../) к союзу самого себя и указанного[`Region`](../) .
+Обновляет этот [`Region`](../), объединяя его с указанным [`Region`](../).
 
 ```csharp
 public void Union(Region region)
@@ -85,18 +86,18 @@ public void Union(Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | [`Region`](../) объединиться с этим[`Region`](../). |
+| region | Region | Объект [`Region`](../), который следует объединить с этим [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *region* нулевой. |
+| ArgumentNullException | *region* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

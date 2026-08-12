@@ -1,14 +1,15 @@
 ---
-title: Class PenExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.PenExtensions сорт. Содержит методы расширения дляPen иPen .
+title: "Класс PenExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.PenExtensions. Содержит методы расширения для Pen и Pen"
 type: docs
-weight: 1140
+weight: 1150
 url: /ru/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-Содержит методы расширения для[`Pen`](../../aspose.psd/pen/) иPen .
+Содержит методы расширения для [`Pen`](../../aspose.psd/pen/) и Pen.
 
 ```csharp
 public static class PenExtensions
@@ -18,11 +19,11 @@ public static class PenExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Преобразует[`Pen`](../../aspose.psd/pen/) кPen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Преобразует [`Pen`](../../aspose.psd/pen/) в Pen. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

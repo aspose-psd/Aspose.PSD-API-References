@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Справочник по Aspose.PSD для .NET API
-description: KnkoResource свойство. Получает или задает значение указывающее следует ли смешивать элементы интерьера.
+title: "KnkoResource.Knockout"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство KnkoResource. Получает или задает значение, указывающее, следует ли смешивать внутренние элементы"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-Получает или задает значение, указывающее, следует ли [смешивать элементы интерьера].
+Получает или задает значение, указывающее, следует ли [смешивать внутренние элементы].
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [сочетать элементы интерьера]; в противном случае,`ЛОЖЬ` .
+`true` если [смешивание внутренних элементов]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [KnkoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

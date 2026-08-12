@@ -1,23 +1,24 @@
 ---
-title: LayerGroup.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerGroup свойство. Получает ширину группы слоев.
+title: "LayerGroup.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerGroup. Возвращает ширину группы слоёв"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers/layergroup/width/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Width property
 
-Получает ширину группы слоев.
+Получает ширину группы слоёв.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerGroup](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

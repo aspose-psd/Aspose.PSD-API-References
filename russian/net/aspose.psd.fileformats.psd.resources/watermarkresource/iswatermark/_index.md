@@ -1,11 +1,12 @@
 ---
-title: WatermarkResource.IsWatermark
-second_title: Справочник по Aspose.PSD для .NET API
-description: WatermarkResource свойство. Получает или задает значение указывающее является ли данный экземпляр водяным знаком.
+title: "WatermarkResource.IsWatermark"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство WatermarkResource. Возвращает или задает значение, указывающее, является ли данный экземпляр водяным знаком"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.IsWatermark property
 
 Получает или задает значение, указывающее, является ли данный экземпляр водяным знаком.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 public bool IsWatermark { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр является водяным знаком; в противном случае,`ЛОЖЬ` .
+`true`, если данный экземпляр является водяным знаком; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [WatermarkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

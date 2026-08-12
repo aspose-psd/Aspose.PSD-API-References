@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer метод. Вставляет контейнер потока в указанную позицию.
+title: "SplitStreamContainer.Insert"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SplitStreamContainer. Вставляет контейнер потока в указанную позицию"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
 Вставляет контейнер потока в указанную позицию.
@@ -16,9 +17,9 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int32 | Позиция для вставки. |
+| позиция | Int32 | Позиция для вставки. |
 | stream | StreamContainer | Контейнер потока для вставки. |
-| disposeStream | Boolean | если установлено`истинный` распоряжается потоком. |
+| disposeStream | Boolean | если установлено `true`, освобождает поток. |
 
 ### Исключения
 
@@ -26,11 +27,11 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

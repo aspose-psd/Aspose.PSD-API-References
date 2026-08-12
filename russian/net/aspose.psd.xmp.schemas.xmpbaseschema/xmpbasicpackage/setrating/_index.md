@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetRating
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage метод. Устанавливает рейтинг.
+title: "XmpBasicPackage.SetRating"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBasicPackage. Устанавливает рейтинг"
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetRating method
 
 Устанавливает рейтинг.
@@ -16,12 +17,12 @@ public void SetRating(int choise)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| choise | Int32 | От -1 до 5 |
+| выбор | Int32 | От -1 до 5 |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

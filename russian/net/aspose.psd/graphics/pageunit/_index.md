@@ -1,11 +1,12 @@
 ---
-title: Graphics.PageUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics свойство. Получает или задает единицу измерения используемую для координат страницы в этом Aspose.PSD.Graphics.
+title: "Graphics.PageUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Graphics. Возвращает или задает единицу измерения, используемую для координат страницы в этом Aspose.PSD.Graphics"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/graphics/pageunit/
 ---
+{{< psd/tize >}}
 ## Graphics.PageUnit property
 
 Получает или задает единицу измерения, используемую для координат страницы в этом Aspose.PSD.Graphics.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/graphics/pageunit/
 public GraphicsUnit PageUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Единица измерения, используемая для координат страницы в этом Aspose.PSD.Graphics.
 
-### Смотрите также
+### См. также
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlwhResource поле. Клавиша информации о типе инструмента.
+title: "BlwhResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле BlwhResource. Ключ информации о типе инструмента"
 type: docs
-weight: 160
+weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-Клавиша информации о типе инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlwhResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

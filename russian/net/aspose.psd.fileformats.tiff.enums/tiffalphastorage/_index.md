@@ -1,30 +1,31 @@
 ---
-title: Enum TiffAlphaStorage
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage перечисление. Указывает альфахранилище для документов в формате tiff.
+title: "Перечисление TiffAlphaStorage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage enum. Указывает хранение альфа-канала для tiff‑документов"
 type: docs
-weight: 4030
+weight: 4500
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffalphastorage/
 ---
+{{< psd/tize >}}
 ## TiffAlphaStorage enumeration
 
-Указывает альфа-хранилище для документов в формате tiff.
+Указывает хранение альфа-канала для tiff‑документов.
 
 ```csharp
 public enum TiffAlphaStorage : ushort
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Unspecified | `0` | Альфа не указана и хранится в tiff файле. |
-| Associated | `1` | Альфа-значение хранится в предварительно умноженном виде. При восстановлении альфа-канала могут быть некоторые эффекты округления, и восстановленное значение может отличаться от исходного. |
-| Unassociated | `2` | Альфа-значение хранится в несвязанной форме. Это означает, что восстановленная альфа-версия точно такая же, как она была сохранена в tiff. |
+| Unspecified | `0` | Альфа-канал не указан и хранится в файле tiff. |
+| Associated | `1` | Значение альфа-канала хранится в предумноженной форме. При восстановлении альфа-канала могут возникнуть эффекты округления, и восстановленное значение может отличаться от оригинального. |
+| Unassociated | `2` | Значение альфа-канала хранится в несвязанной форме. Это означает, что восстановленный альфа-канал точно совпадает с тем, как он был сохранён в tiff. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

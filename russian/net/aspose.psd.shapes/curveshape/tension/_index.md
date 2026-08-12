@@ -1,27 +1,28 @@
 ---
-title: CurveShape.Tension
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurveShape свойство. Получает или задает натяжение кривой.
+title: "CurveShape.Tension"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CurveShape. Возвращает или задает натяжение кривой"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
-Получает или задает натяжение кривой.
+Получает или задает напряжение кривой.
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Кривая напряжения.
+Натяжение кривой.
 
-### Смотрите также
+### См. также
 
 * class [CurveShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../curveshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

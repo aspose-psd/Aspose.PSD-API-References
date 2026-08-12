@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lr16Resource свойство. Получает ключ ресурса слоя.
+title: "Lr16Resource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Lr16Resource. Возвращает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Lr16Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

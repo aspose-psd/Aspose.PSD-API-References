@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Artist
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или устанавливает исполнителя.
+title: "TiffOptions.Artist"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает исполнителя"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
-Получает или устанавливает исполнителя.
+Получает или задает автора.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Художник.
+Исполнитель.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

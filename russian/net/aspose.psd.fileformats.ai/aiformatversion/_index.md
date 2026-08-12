@@ -1,11 +1,12 @@
 ---
-title: Enum AiFormatVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Ai.AiFormatVersion перечисление. Версия Adobe Illustrator
+title: "Перечисление AiFormatVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Ai.AiFormatVersion. Версия Adobe Illustrator"
 type: docs
-weight: 1240
+weight: 1250
 url: /ru/net/aspose.psd.fileformats.ai/aiformatversion/
 ---
+{{< psd/tize >}}
 ## AiFormatVersion enumeration
 
 Версия Adobe Illustrator
@@ -14,18 +15,21 @@ url: /ru/net/aspose.psd.fileformats.ai/aiformatversion/
 public enum AiFormatVersion
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| PsAdobe20 | `0` | Заголовок PS-Adobe-2.0 |
-| PsAdobe30 | `1` | Заголовок PS-Adobe-3.0 |
-| Pdf14 | `2` | Заголовок PDF-1.4 |
-| Pdf15 | `3` | Заголовок PDF-1.5 |
+| PsAdobeEpsf | `0` | Заголовок PS-Adobe EPSF |
+| PsAdobe20 | `1` | Заголовок PS-Adobe-2.0 |
+| PsAdobe30 | `2` | Заголовок PS-Adobe-3.0 |
+| Pdf14 | `3` | Заголовок PDF-1.4 |
+| Pdf15 | `4` | Заголовок PDF-1.5 |
+| Pdf16 | `5` | Заголовок PDF-1.6 |
+| Pdf17 | `6` | Заголовок PDF-1.7 |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

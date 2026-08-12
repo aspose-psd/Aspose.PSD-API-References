@@ -1,11 +1,12 @@
 ---
-title: Enum FillMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FillMode перечисление. Указывает как заполняется внутренняя часть замкнутого контура.
+title: "Перечисление FillMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FillMode. Указывает, как заполняется внутренняя часть замкнутого контура"
 type: docs
-weight: 4260
+weight: 4730
 url: /ru/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
 Указывает, как заполняется внутренняя часть замкнутого контура.
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd/fillmode/
 public enum FillMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Alternate | `0` | Указывает альтернативный режим заполнения. |
-| Winding | `1` | Определяет режим заполнения обмотки. |
+| Winding | `1` | Указывает режим заполнения по правилу winding. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

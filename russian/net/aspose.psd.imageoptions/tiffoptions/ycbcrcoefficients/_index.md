@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает YCbCrCoefficients.
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает YCbCrCoefficients"
 type: docs
-weight: 660
+weight: 670
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-Получает или задает YCbCrCoefficients.
+Получает или задает коэффициенты YCbCr.
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Коэффициенты YCbCr.
+YCbCrCoefficients.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Неверный подсчет значений рациональных коэффициентов. Должно быть равно 3. |
-| ArgumentNullException | ценить |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Недопустимое количество рациональных коэффициентов. Должно быть равно 3. |
+| ArgumentNullException | значение |
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

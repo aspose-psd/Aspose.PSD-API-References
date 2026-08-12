@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsSynchronized
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList свойство. Получает значение указывающее доступен ли доступ кICollection синхронизирован потокобезопасный.
+title: "NonGenericList.IsSynchronized"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericList. Возвращает значение, указывающее, синхронизирован ли доступ к ICollection и является ли он потокобезопасным"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/nongenericlist/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsSynchronized property
 
-Получает значение, указывающее, доступен ли доступ кICollection синхронизирован (потокобезопасный).
+Возвращает значение, указывающее, синхронизирован ли доступ к ICollection (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

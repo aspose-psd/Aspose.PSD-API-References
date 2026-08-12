@@ -1,14 +1,15 @@
 ---
-title: Figure.RemoveShapes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Figure метод. Удаляет диапазон фигур с фигуры.
+title: "Figure.RemoveShapes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Figure. Удаляет диапазон фигур из фигуры"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
-Удаляет диапазон фигур с фигуры.
+Удаляет диапазон фигур из фигуры.
 
 ```csharp
 public void RemoveShapes(Shape[] shapes)
@@ -16,13 +17,13 @@ public void RemoveShapes(Shape[] shapes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| shapes | Shape[] | Диапазон фигур для удаления. |
+| фигуры | Shape[] | Диапазон фигур для удаления. |
 
-### Смотрите также
+### См. также
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* пространство имен [Aspose.PSD](../../figure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

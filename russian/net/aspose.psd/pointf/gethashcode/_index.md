@@ -1,14 +1,15 @@
 ---
-title: PointF.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF метод. Возвращает хешкод для этогоPointFструктура.
+title: "PointF.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointF. Возвращает хеш‑код для этой структуры PointF."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/pointf/gethashcode/
 ---
+{{< psd/tize >}}
 ## PointF.GetHashCode method
 
-Возвращает хеш-код для этого[`PointF`](../)структура.
+Возвращает хеш‑код для этой структуры [`PointF`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Целочисленное значение, указывающее хеш-значение для этого[`PointF`](../) состав.
+Целочисленное значение, определяющее хеш‑значение для этой структуры [`PointF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

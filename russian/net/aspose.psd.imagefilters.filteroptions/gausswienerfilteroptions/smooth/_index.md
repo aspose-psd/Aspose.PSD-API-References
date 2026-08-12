@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: Справочник по Aspose.PSD для .NET API
-description: GaussWienerFilterOptions свойство. Получает или задает сглаживание.
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GaussWienerFilterOptions. Получает или задает сглаживание"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
-Получает или задает сглаживание.
+Получает или задает smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Гладкая.
+Сглаживание.
 
-### Смотрите также
+### См. также
 
 * class [GaussWienerFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

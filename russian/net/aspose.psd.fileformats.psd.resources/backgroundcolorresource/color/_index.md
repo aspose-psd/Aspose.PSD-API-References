@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: BackgroundColorResource свойство. Получает или задает цвет фона.
+title: "BackgroundColorResource.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BackgroundColorResource. Получает или задает цвет фона"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
 Получает или задает цвет фона.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 public Color Color { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса BackgroundColorResource.
+Следующий пример демонстрирует поддержку ресурса BackgroundColorResource.
 
 ```csharp
 [C#]
@@ -44,11 +45,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

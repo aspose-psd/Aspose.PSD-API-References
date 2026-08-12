@@ -1,43 +1,44 @@
 ---
-title: Interface ITextParagraph
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph интерфейс. Интерфейс для работы с параграфом
+title: "Интерфейс ITextParagraph"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph. Интерфейс для работы с абзацем"
 type: docs
-weight: 3520
+weight: 3940
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-Интерфейс для работы с параграфом
+Интерфейс для работы с абзацем
 
 ```csharp
 public interface ITextParagraph
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Получает или задает значение, указывающее, используется ли [автоматический перенос]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Получает или задает автоматический интерлиньяж. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Получает или задает значение, указывающее, является ли это`ITextParagraph`это бурасагири. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Получает или задает значение, указывающее, включено ли [automatic hyphenate]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Получает или задает автоматический межстрочный интервал. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Получает или задает значение, указывающее, является ли этот `ITextParagraph` burasagiri. |
 | [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Получает или задает последовательные дефисы. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Получает или задает конечный отступ. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Получает или задает значение, указывающее, является ли [композитор каждой строки]. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Получает или задает отступ в конце. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Получает или задает значение, указывающее, включено ли [every line composer]. |
 | [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Получает или задает отступ первой строки. |
 | [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Получает или задает интервал между глифами. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Получает или задает значение, указывающее, является ли это`ITextParagraph` висит. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Получает или задает размер слова через дефис. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Получает или задает значение, указывающее, является ли этот `ITextParagraph` hanging. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Получает или задает размер переносного слова. |
 | [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Получает или задает выравнивание. |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Получает или устанавливает порядок кинсоку. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Получает или задает тип интерлиньяжа. |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Получает или задает порядок кинсоку. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Получает или задает тип межстрочного интервала. |
 | [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Получает или задает межбуквенный интервал. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Получает или устанавливает дефис сообщения. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Получает или задает постдефис. |
 | [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Получает или задает преддефис. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Получает или устанавливает пробел после. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Получает или устанавливает пробел перед. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Получает или задает отступ после. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Получает или задает отступ перед. |
 | [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Получает или задает начальный отступ. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Получает или задает интервал между словами. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Получает или задает межсловный интервал. |
 | [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Получает или задает зону. |
 
 ## Методы
@@ -47,9 +48,9 @@ public interface ITextParagraph
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Применяет указанный абзац. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Определяет, равен ли указанный абзац. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, что выравнивание текста с помощью ITextPortion для языков с письмом справа налево работает правильно.
+В следующем примере демонстрируется, что выравнивание текста через ITextPortion для языков с письмом справа налево работает корректно.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-В следующем примере кода показано редактирование текстовых частей и стиля их текста.
+В следующем примере кода демонстрируется редактирование частей текста и их стиля.
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка текста каждой порции
+            // Проверка текста каждой части
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка данных абзаца
-            // Абзацы имеют разное обоснование
+            // Проверка данных абзацев
+            // Абзацы имеют разное выравнивание
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -192,7 +193,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Пример добавления новой текстовой части
+            // Пример добавления новой части текста
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -200,17 +201,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Пример редактирования абзаца и стиля для частей
-            // Установить правильное выравнивание
+            // Установить выравнивание по правому краю
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Разные цвета для каждого стиля. Будет изменено, но рендеринг поддерживается не полностью
+            // Разные цвета для каждого стиля. Они будут изменены, но рендеринг полностью не поддерживается
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Другой шрифт. Будет изменено, но рендеринг поддерживается не полностью
+            // Разный шрифт. Он будет изменён, но рендеринг полностью не поддерживается
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -225,9 +226,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

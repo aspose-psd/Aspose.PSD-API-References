@@ -1,29 +1,30 @@
 ---
-title: Class BaseFillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings сорт. Настройки эффекта базовой заливки
+title: "Класс BaseFillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings класс. Настройки базового эффекта заливки"
 type: docs
-weight: 1920
+weight: 2030
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-Настройки эффекта базовой заливки
+Базовые настройки эффекта заливки
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Получает тип заливки. |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Возвращает тип заливки. |
 
-### Смотрите также
+### См. также
 
 * interface [IFillSettings](../ifillsettings/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

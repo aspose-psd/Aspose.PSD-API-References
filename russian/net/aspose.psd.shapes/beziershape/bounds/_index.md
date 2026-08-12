@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierShape свойство. Получает границы объекта.
+title: "BezierShape.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierShape. Возвращает границы объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
 Получает границы объекта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.shapes/beziershape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../beziershape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExpaResource свойство. Получает версию. По умолчанию 1
+title: "ExpaResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExpaResource. Возвращает версию. По умолчанию 1"
 type: docs
-weight: 80
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
 Получает версию. По умолчанию 1
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/versi
 public short Version { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [ExpaResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

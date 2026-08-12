@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Transform
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape метод. Применяет указанное преобразование к фигуре.
+title: "RectangleProjectedShape.Transform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RectangleProjectedShape. Применяет указанное преобразование к фигуре"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/transform/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Transform method
 
 Применяет указанное преобразование к фигуре.
@@ -16,13 +17,13 @@ public override void Transform(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Применяемое преобразование. |
+| transform | Matrix | Преобразование, которое следует применить. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

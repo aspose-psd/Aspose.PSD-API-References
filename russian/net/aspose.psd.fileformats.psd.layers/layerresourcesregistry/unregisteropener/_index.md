@@ -1,11 +1,12 @@
 ---
-title: LayerResourcesRegistry.UnregisterOpener
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResourcesRegistry метод. Отменяет регистрацию открывателя.
+title: "LayerResourcesRegistry.UnregisterOpener"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LayerResourcesRegistry. Отменяет регистрацию открывателя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.UnregisterOpener method
 
 Отменяет регистрацию открывателя.
@@ -18,11 +19,11 @@ public static void UnregisterOpener(ILayerResourceLoader openerDescriptor)
 | --- | --- | --- |
 | openerDescriptor | ILayerResourceLoader | Дескриптор открывателя для отмены регистрации. |
 
-### Смотрите также
+### См. также
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

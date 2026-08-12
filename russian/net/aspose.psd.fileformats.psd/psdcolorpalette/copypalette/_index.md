@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdColorPalette метод. Копирует палитру.
+title: "PsdColorPalette.CopyPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdColorPalette. Копирует палитру."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Копирует палитру.
@@ -17,18 +18,18 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Цветовая палитра. |
-| useCompactPalette | Boolean | Указание на компактность палитры. |
+| useCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
 ### Возвращаемое значение
 
-Вновь созданная и скопированная палитра или нуль, если нулевая палитра передана.
+Новосозданная и скопированная палитра или null, если передана пустая палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -46,13 +47,13 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 
 ### Возвращаемое значение
 
-Вновь созданная и скопированная палитра или нуль, если нулевая палитра передана.
+Новосозданная и скопированная палитра или null, если передана пустая палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

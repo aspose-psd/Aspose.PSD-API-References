@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteTag
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffDataType метод. Записывает данные тега.
+title: "TiffDataType.WriteTag"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffDataType. Записывает данные тега"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/writetag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteTag method
 
 Записывает данные тега.
@@ -17,7 +18,7 @@ public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | Поток данных. |
-| additionalDataOffset | Int64 | Смещение для записи дополнительных данных. |
+| additionalDataOffset | Int64 | Смещение, в которое записываются дополнительные данные. |
 
 ### Исключения
 
@@ -25,11 +26,11 @@ public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 | --- | --- |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Невозможно записать значения для + this.TagType + Message : + exception.Message |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

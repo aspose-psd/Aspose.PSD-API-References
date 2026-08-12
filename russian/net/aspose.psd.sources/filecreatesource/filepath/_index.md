@@ -1,11 +1,12 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileCreateSource свойство. Получает путь к файлу для создания.
+title: "FileCreateSource.FilePath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FileCreateSource. Возвращает путь к файлу для создания."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
 Получает путь к файлу для создания.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.sources/filecreatesource/filepath/
 public string FilePath { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Путь к файлу для создания.
 
-### Смотрите также
+### См. также
 
 * class [FileCreateSource](../)
-* пространство имен [Aspose.PSD.Sources](../../filecreatesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

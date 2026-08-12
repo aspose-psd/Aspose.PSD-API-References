@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Справочник по Aspose.PSD для .NET API
-description: VersionInfoResource свойство. Получает или задает имя модуля записи.
+title: "VersionInfoResource.WriterName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VersionInfoResource свойство. Получает или задает имя писателя"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
-Получает или задает имя модуля записи.
+Получает или задает имя записывающего.
 
 ```csharp
 public string WriterName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Имя автора.
+Имя писателя.
 
-### Смотрите также
+### См. также
 
 * class [VersionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

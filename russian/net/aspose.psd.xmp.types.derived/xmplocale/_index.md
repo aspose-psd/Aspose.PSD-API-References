@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale сорт. Представляет код языка.
+title: "Класс XmpLocale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Derived.XmpLocale. Представляет код языка"
 type: docs
-weight: 6170
+weight: 6670
 url: /ru/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 Представляет код языка.
@@ -18,9 +19,9 @@ public sealed class XmpLocale : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | Инициализирует новый экземпляр`XmpLocale` класс. |
+| [XmpLocale](xmplocale/)(string) | Инициализирует новый экземпляр класса `XmpLocale`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -30,16 +31,16 @@ public sealed class XmpLocale : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Примечания
+## Примечания
 
-См. IETF RFC 3066.
+Смотрите IETF RFC 3066.
 
-### Смотрите также
+### См. также
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

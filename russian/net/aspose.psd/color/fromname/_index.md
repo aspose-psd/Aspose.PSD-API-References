@@ -1,14 +1,15 @@
 ---
-title: Color.FromName
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. СоздаетColorструктура из указанного имени предопределенного цвета.
+title: "Color.FromName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Создаёт структуру Color из указанного имени предопределённого цвета"
 type: docs
 weight: 1450
 url: /ru/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-Создает[`Color`](../)структура из указанного имени предопределенного цвета.
+Создаёт структуру [`Color`](../) из указанного имени предопределённого цвета.
 
 ```csharp
 public static Color FromName(string name)
@@ -16,16 +17,16 @@ public static Color FromName(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Строка, которая является именем предопределенного цвета. Допустимые имена совпадают с именами элементов[`KnownColor`](../../knowncolor/) перечисление. |
+| name | String | Строка, содержащая имя предопределённого цвета. Допустимые имена совпадают с именами элементов перечисления [`KnownColor`](../../knowncolor/). |
 
 ### Возвращаемое значение
 
-[`Color`](../) что создает этот метод.
+[`Color`](../), создаваемый этим методом.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

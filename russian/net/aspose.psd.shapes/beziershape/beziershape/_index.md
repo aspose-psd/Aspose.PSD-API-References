@@ -1,30 +1,31 @@
 ---
-title: BezierShape.BezierShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierShape строитель. Инициализирует новый экземплярBezierShape класс.
+title: "BezierShape.BezierShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BezierShape constructor. Инициализирует новый экземпляр класса BezierShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-Инициализирует новый экземпляр[`BezierShape`](../) класс.
+Инициализирует новый экземпляр класса [`BezierShape`](../).
 
 ```csharp
 public BezierShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [BezierShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../beziershape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`BezierShape`](../) класс.
+Инициализирует новый экземпляр класса [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points)
@@ -32,20 +33,20 @@ public BezierShape(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
+| точки | PointF[] | Массив точек. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../beziershape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-Инициализирует новый экземпляр[`BezierShape`](../) класс.
+Инициализирует новый экземпляр класса [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
@@ -53,14 +54,14 @@ public BezierShape(PointF[] points, bool isClosed)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
-| isClosed | Boolean | Если установлено`истинный` сплайн Безье замкнут. |
+| точки | PointF[] | Массив точек. |
+| isClosed | Boolean | Если установлено `true`, кривая Безье замкнута. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../beziershape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

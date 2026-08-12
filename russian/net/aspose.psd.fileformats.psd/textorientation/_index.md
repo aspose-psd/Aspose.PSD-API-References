@@ -1,29 +1,30 @@
 ---
-title: Enum TextOrientation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.TextOrientation перечисление. Перечисление для режима ориентации текста.
+title: "Перечисление TextOrientation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.TextOrientation. Перечисление режимов ориентации текста"
 type: docs
-weight: 4010
+weight: 4480
 url: /ru/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-Перечисление для режима ориентации текста.
+Перечисление режима ориентации текста.
 
 ```csharp
 public enum TextOrientation
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Horizontal | `0` | Горизонтальная ориентация текста. |
 | Vertical | `2` | Вертикальная ориентация текста. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность редактирования нового свойства TextOrientation. В данный момент это не влияет на рендеринг, а только позволяет редактировать значение свойства.
+Следующий код демонстрирует возможность редактировать новое свойство TextOrientation. Это пока не влияет на рендеринг, а только позволяет изменить значение свойства.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // Правильное чтение
+        // Корректное чтение
     }
     else
     {
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // Правильное чтение
+        // Корректное чтение
     }
     else
     {
@@ -63,9 +64,9 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

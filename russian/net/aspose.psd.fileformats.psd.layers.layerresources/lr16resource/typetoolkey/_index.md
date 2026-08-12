@@ -1,23 +1,24 @@
 ---
-title: Lr16Resource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lr16Resource поле. Информационный ключ типа инструмента.
+title: "Lr16Resource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Lr16Resource. Ключ информации о типе инструмента"
 type: docs
-weight: 80
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Lr16Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

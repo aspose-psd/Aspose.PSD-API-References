@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorBalanceAdjustmentLayer свойство. Получает или задает баланс теней Cyan Red.
+title: "ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorBalanceAdjustmentLayer. Получает или задает Shadows Cyan Red Balance"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance property
 
-Получает или задает баланс теней Cyan Red.
+Получает или задает значение Shadows Cyan Red Balance.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тени Голубо-Красный Баланс.
+Баланс Shadows Cyan Red.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Cyan Red Balance должен быть в диапазоне от -100 до +100. |
+| ArgumentOutOfRangeException | Баланс Shadows Cyan Red должен быть в диапазоне от -100 до +100. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorBalanceAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

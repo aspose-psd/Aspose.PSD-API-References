@@ -1,23 +1,24 @@
 ---
-title: Size.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size свойство. Получает или задает горизонтальную составляющую этогоSize .
+title: "Size.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Size. Получает или задает горизонтальный компонент этого Size."
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/size/width/
 ---
+{{< psd/tize >}}
 ## Size.Width property
 
-Получает или задает горизонтальную составляющую этого[`Size`](../) .
+Получает или задает горизонтальную компоненту этого [`Size`](../).
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

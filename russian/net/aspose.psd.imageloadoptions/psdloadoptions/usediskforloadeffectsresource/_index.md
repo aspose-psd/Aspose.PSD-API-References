@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdLoadOptions свойство. Получает или задает значение указывающее следует ли использовать диск для загрузки ресурса эффектов по умолчанию используется диск для загрузки ресурса эффектов но можно использовать память если ее достаточно установив для этого значения значение false.
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdLoadOptions property. Получает или задаёт значение, указывающее, использовать ли диск для загрузки ресурсов эффектов; по умолчанию используется диск, но при установке этого значения в false можно использовать память, если её достаточно."
 type: docs
-weight: 70
+weight: 90
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-Получает или задает значение, указывающее, следует ли [использовать диск для загрузки ресурса эффектов] (по умолчанию используется диск для загрузки ресурса эффектов, но можно использовать память, если ее достаточно, установив для этого значения значение false).
+Получает или задает значение, указывающее, следует ли [use disk for load effects resource] (по умолчанию используется диск для загрузки ресурсов эффектов, но можно использовать память, если её достаточно, установив это значение в false).
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` if [использовать диск для загрузки ресурса эффектов]; в противном случае,`ЛОЖЬ` .
+`true` если [использовать диск для загрузки ресурсов эффектов]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [PsdLoadOptions](../)
-* пространство имен [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

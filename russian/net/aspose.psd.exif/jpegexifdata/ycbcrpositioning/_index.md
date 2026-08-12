@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YCbCrPositioning
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает положение компонентов цветности по отношению к компоненту яркости.
+title: "JpegExifData.YCbCrPositioning"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает положение хроматических компонентов относительно компонента яркости"
 type: docs
 weight: 240
 url: /ru/net/aspose.psd.exif/jpegexifdata/ycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrPositioning property
 
-Получает или задает положение компонентов цветности по отношению к компоненту яркости.
+Получает или задает положение компонентов хроминанс относительно компонента яркости.
 
 ```csharp
 public ExifYCbCrPositioning YCbCrPositioning { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Положение компонентов цветности по отношению к компоненту яркости.
+Положение хроматических компонентов относительно компонента яркости.
 
-### Смотрите также
+### См. также
 
 * enum [ExifYCbCrPositioning](../../../aspose.psd.exif.enums/exifycbcrpositioning/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

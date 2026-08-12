@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Top
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfo6Resource свойство. Получает или задает верхнее расположение.
+title: "TypeToolInfo6Resource.Top"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfo6Resource. Получает или задает верхнее расположение"
 type: docs
-weight: 140
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Top property
 
-Получает или задает верхнее расположение.
+Получает или задаёт положение сверху.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Верхняя локация.
+Верхнее расположение.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfo6Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

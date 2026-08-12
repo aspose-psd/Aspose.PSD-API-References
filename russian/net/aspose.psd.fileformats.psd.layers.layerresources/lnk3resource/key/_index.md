@@ -1,11 +1,12 @@
 ---
-title: Lnk3Resource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lnk3Resource свойство. Получает ключ ресурса слоя.
+title: "Lnk3Resource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Lnk3Resource. Возвращает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 public override int Key { get; }
 ```
 
-### Примеры
+## Примеры
 
-В этом примере показано, как получить и установить свойства Lnk2Resource и Lnk3Resource.
+Этот пример демонстрирует, как получать и задавать свойства Lnk2Resource и Lnk3Resource.
 
 ```csharp
 [C#]
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// Загружает новые данные для смарт-объекта в файл PSD.
+// Загружает новые данные для смарт-объекта в файле PSD.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Получает и устанавливает свойства ресурса PSD Lnk2/Lnk3 и его источников данных liFD в изображении PSD
+// Получает и задаёт свойства ресурсов PSD Lnk2 / Lnk3 и их источников данных liFD в изображении PSD.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 32-битное сохранение на канал пока не поддерживается
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// В этом примере показано, как получить и установить свойства ресурса PSD Lnk2 и его источников данных liFD для 8 бит на канал.
+// Этот пример демонстрирует, как получать и задавать свойства ресурса PSD Lnk2 и его источников данных liFD для 8‑бит на канал.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// В этом примере показано, как получить и установить свойства ресурса PSD Lnk3 и его источников данных liFD для 32 бит на канал.
+// Этот пример демонстрирует, как получать и задавать свойства ресурса PSD Lnk3 и его источников данных liFD для 32‑бит на канал.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// В этом примере показано, как получить и установить свойства ресурса PSD Lnk2 и его источников данных liFD для 16 бит на канал.
+// Этот пример демонстрирует, как получать и задавать свойства ресурса PSD Lnk2 и его источников данных liFD для 16‑бит на канал.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### Смотрите также
+### См. также
 
 * class [Lnk3Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

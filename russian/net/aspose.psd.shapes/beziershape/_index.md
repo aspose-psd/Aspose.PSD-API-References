@@ -1,11 +1,12 @@
 ---
-title: Class BezierShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Shapes.BezierShape сорт. Представляет сплайн Безье.
+title: "Класс BezierShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Shapes.BezierShape класс. Представляет безье-сплайн"
 type: docs
-weight: 5470
+weight: 5970
 url: /ru/net/aspose.psd.shapes/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape class
 
 Представляет сплайн Безье.
@@ -18,22 +19,22 @@ public sealed class BezierShape : PolygonShape
 
 | Имя | Описание |
 | --- | --- |
-| [BezierShape](beziershape/#constructor)() | Инициализирует новый экземпляр`BezierShape` класс. |
-| [BezierShape](beziershape/#constructor_1)(PointF[]) | Инициализирует новый экземпляр`BezierShape` класс. |
-| [BezierShape](beziershape/#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр`BezierShape` класс. |
+| [BezierShape](beziershape/#constructor)() | Инициализирует новый экземпляр класса `BezierShape`. |
+| [BezierShape](beziershape/#constructor_1)(PointF[]) | Инициализирует новый экземпляр класса `BezierShape`. |
+| [BezierShape](beziershape/#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр класса `BezierShape`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/beziershape/bounds/) { get; } | Получает границы объекта. |
-| override [Center](../../aspose.psd.shapes/beziershape/center/) { get; } | Получает центр фигуры. |
-| override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint/) { get; } | Получает конечную точку формы. |
-| override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
+| override [Center](../../aspose.psd.shapes/beziershape/center/) { get; } | Получает центр формы. |
+| override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint/) { get; } | Получает конечную точку фигуры. |
+| override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments/) { get; } | Получает значение, указывающее, имеет ли форма сегменты. |
 | [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | Получает или задает значение, указывающее, закрыта ли фигура. |
 | [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | Получает или задает точки кривой. |
-| override [Segments](../../aspose.psd.shapes/beziershape/segments/) { get; } | Получает сегменты формы. |
-| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | Получает начальную точку формы. |
+| override [Segments](../../aspose.psd.shapes/beziershape/segments/) { get; } | Получает сегменты фигуры. |
+| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | Получает начальную точку фигуры. |
 
 ## Методы
 
@@ -41,13 +42,13 @@ public sealed class BezierShape : PolygonShape
 | --- | --- |
 | override [GetBounds](../../aspose.psd.shapes/beziershape/getbounds/#getbounds)(Matrix) | Получает границы объекта. |
 | override [GetBounds](../../aspose.psd.shapes/beziershape/getbounds/#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
-| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | Меняет порядок точек этой фигуры на обратный. |
+| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | Изменяет порядок точек для этой фигуры. |
 | override [Transform](../../aspose.psd.shapes/polygonshape/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
-### Смотрите также
+### См. также
 
 * class [PolygonShape](../polygonshape/)
-* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

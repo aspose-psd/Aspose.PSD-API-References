@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntriesCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPsdColorPalette свойство. Получает количество записей исходной цветовой палитры.
+title: "IPsdColorPalette.RawEntriesCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IPsdColorPalette свойство. Получает количество необработанных записей цветовой палитры"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/ipsdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntriesCount property
 
-Получает количество записей исходной цветовой палитры.
+Возвращает количество необработанных записей палитры цветов.
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Учитываются записи необработанной цветовой палитры.
+Количество необработанных записей цветовой палитры.
 
-### Смотрите также
+### См. также
 
 * interface [IPsdColorPalette](../)
-* пространство имен [Aspose.PSD](../../ipsdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

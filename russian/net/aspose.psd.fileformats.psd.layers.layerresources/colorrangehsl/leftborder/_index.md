@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorRangeHsl свойство. Получает или устанавливает левую границу.
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorRangeHsl. Получает или задает левую границу"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-Получает или устанавливает левую границу.
+Получает или задает левую границу.
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Левая граница.
 
-### Смотрите также
+### См. также
 
 * class [ColorRangeHsl](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает интервал градиента.
+title: "GdFlResource.GradientInterval"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GdFlResource свойство. Получает или задает интервал градиента"
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
 Получает или задает интервал градиента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradi
 public double GradientInterval { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Интервал градиента.
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

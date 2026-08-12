@@ -1,30 +1,31 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathFillRuleRecord строитель. Инициализирует новый экземплярPathFillRuleRecord класс.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PathFillRuleRecord конструктор. Инициализирует новый экземпляр класса PathFillRuleRecord"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-Инициализирует новый экземпляр[`PathFillRuleRecord`](../) класс.
+Инициализирует новый экземпляр класса [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PathFillRuleRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`PathFillRuleRecord`](../) класс.
+Инициализирует новый экземпляр класса [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
@@ -32,12 +33,12 @@ public PathFillRuleRecord(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные записи. |
+| данные | Byte[] | Данные записи. |
 
-### Смотрите также
+### См. также
 
 * class [PathFillRuleRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

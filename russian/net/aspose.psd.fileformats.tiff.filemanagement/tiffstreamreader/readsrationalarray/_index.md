@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSRationalArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Считывает массив рациональных значений со знаком из потока.
+title: "TiffStreamReader.ReadSRationalArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamReader method. Считывает массив знаковых рациональных значений из потока"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRationalArray method
 
-Считывает массив рациональных значений со знаком из потока.
+Считывает массив знаковых рациональных значений из потока.
 
 ```csharp
 public TiffSRational[] ReadSRationalArray(long position, long count)
@@ -16,24 +17,24 @@ public TiffSRational[] ReadSRationalArray(long position, long count)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
-| count | Int64 | Элементы считаются. |
+| позиция | Int64 | Позиция, из которой читать. |
+| count | Int64 | Количество элементов. |
 
 ### Возвращаемое значение
 
-Массив рациональных значений со знаком.
+Массив знаковых рациональных значений.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | count;Ожидается положительное число. |
+| ArgumentOutOfRangeException | count;Ожидалось положительное число. |
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

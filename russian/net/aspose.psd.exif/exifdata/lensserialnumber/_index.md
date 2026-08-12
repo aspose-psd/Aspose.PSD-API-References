@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensSerialNumber
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает серийный номер объектива.
+title: "ExifData.LensSerialNumber"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает серийный номер объектива"
 type: docs
 weight: 750
 url: /ru/net/aspose.psd.exif/exifdata/lensserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSerialNumber property
 
 Получает или задает серийный номер объектива.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/lensserialnumber/
 public string LensSerialNumber { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Серийный номер объектива.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает отсечение слоя. 0  базовый 1  не базовый.
+title: "Layer.Clipping"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает обрезку слоя. 0 — база, 1 — не база."
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-Получает или задает отсечение слоя. 0 = базовый, 1 = не базовый.
+Получает или задает обрезку слоя. 0 = базовая, 1 = небазовая.
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Отсечение слоя.
+Обрезка слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

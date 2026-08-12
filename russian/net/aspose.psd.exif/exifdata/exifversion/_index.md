@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExifVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает версию EXIF.
+title: "ExifData.ExifVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData свойство. Получает или задает версию EXIF"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.exif/exifdata/exifversion/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifVersion property
 
 Получает или задает версию EXIF.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/exifversion/
 public byte[] ExifVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия EXIF.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.BlendingOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает параметры наложения.
+title: "Layer.BlendingOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Возвращает параметры смешивания"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-Получает параметры наложения.
+Получает параметры смешивания.
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Параметры наложения.
+Параметры смешивания.
 
-### Смотрите также
+### См. также
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

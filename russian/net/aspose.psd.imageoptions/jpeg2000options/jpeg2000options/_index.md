@@ -1,30 +1,31 @@
 ---
-title: Jpeg2000Options.Jpeg2000Options
-second_title: Справочник по Aspose.PSD для .NET API
-description: Jpeg2000Options строитель. Инициализирует новый экземплярJpeg2000Options класс.
+title: "Jpeg2000Options.Jpeg2000Options"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Jpeg2000Options. Инициализирует новый экземпляр класса Jpeg2000Options."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/jpeg2000options/jpeg2000options/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options() {#constructor}
 
-Инициализирует новый экземпляр[`Jpeg2000Options`](../) класс.
+Инициализирует новый экземпляр класса [`Jpeg2000Options`](../).
 
 ```csharp
 public Jpeg2000Options()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Jpeg2000Options](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Jpeg2000Options(Jpeg2000Options) {#constructor_1}
 
-Инициализирует новый экземпляр[`Jpeg2000Options`](../) класс.
+Инициализирует новый экземпляр класса [`Jpeg2000Options`](../).
 
 ```csharp
 public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
@@ -32,12 +33,12 @@ public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| jpeg2000Options | Jpeg2000Options | Параметры формата файла Jpeg2000, из которых копируются настройки. |
+| jpeg2000Options | Jpeg2000Options | Параметры формата файла Jpeg2000, из которых копировать настройки. |
 
-### Смотрите также
+### См. также
 
 * class [Jpeg2000Options](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

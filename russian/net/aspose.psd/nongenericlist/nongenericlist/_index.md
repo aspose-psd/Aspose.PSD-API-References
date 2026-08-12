@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList строитель. Инициализирует новый экземплярNonGenericList класс.
+title: "NonGenericList.NonGenericList"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор NonGenericList. Инициализирует новый экземпляр класса NonGenericList"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-Инициализирует новый экземпляр[`NonGenericList`](../) класс.
+Инициализирует новый экземпляр класса [`NonGenericList`](../).
 
 ```csharp
 public NonGenericList(IList list)
@@ -16,12 +17,12 @@ public NonGenericList(IList list)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| list | IList | Список - контейнер объектов. |
+| список | IList | Список — контейнер объектов. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

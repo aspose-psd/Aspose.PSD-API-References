@@ -1,14 +1,15 @@
 ---
-title: Matrix.RotateAt
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. Применяет вращение по часовой стрелке вокруг указанной точки к этой матрице в указанном порядке.
+title: "Matrix.RotateAt"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Применяет вращение по часовой стрелке вокруг указанной точки к этой матрице в заданном порядке."
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-Применяет вращение по часовой стрелке вокруг указанной точки к этой матрице в указанном порядке.
+Применяет вращение по часовой стрелке вокруг указанной точки к этой Matrix в указанном порядке.
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
@@ -16,23 +17,23 @@ public void RotateAt(float angle, PointF point, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол. |
-| point | PointF | Смысл. |
-| order | MatrixOrder | Приказ. |
+| угол | Single | Угол. |
+| точка | PointF | Точка. |
+| порядок | MatrixOrder | Порядок. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-Применяет вращение по часовой стрелке вокруг указанной точки к этой матрице в порядке по умолчанию (Prepend).
+Применяет вращение по часовой стрелке вокруг указанной точки к этой Matrix в порядке по умолчанию (Prepend).
 
 ```csharp
 public void RotateAt(float angle, PointF point)
@@ -40,14 +41,14 @@ public void RotateAt(float angle, PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол. |
-| point | PointF | Смысл. |
+| угол | Single | Угол. |
+| точка | PointF | Точка. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

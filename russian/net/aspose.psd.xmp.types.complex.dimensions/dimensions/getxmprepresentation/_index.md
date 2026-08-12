@@ -1,14 +1,15 @@
 ---
-title: Dimensions.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Dimensions метод. Получает содержащееся в строке значение в формате XMP.
+title: "Dimensions.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Dimensions. Получает строковое значение в формате XMP"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Dimensions.GetXmpRepresentation method
 
-Получает содержащееся в строке значение в формате XMP.
+Получает строковое значение в формате XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Возвращаемое значение
 
-Возвращает содержащееся в строке значение в формате XMP.
+Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [Dimensions](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

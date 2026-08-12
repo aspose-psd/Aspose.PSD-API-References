@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions метод. Добавляет наложение шаблона.
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод BlendingOptions. Добавляет наложение шаблона"
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-Добавляет наложение шаблона.
+Добавляет наложение узора.
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
@@ -16,13 +17,13 @@ public PatternOverlayEffect AddPatternOverlay()
 
 ### Возвращаемое значение
 
-Создано[`PatternOverlayEffect`](../../patternoverlayeffect/) объект
+Создан объект [`PatternOverlayEffect`](../../patternoverlayeffect/)
 
-### Смотрите также
+### См. также
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

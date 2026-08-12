@@ -1,11 +1,12 @@
 ---
-title: CurvResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvResource свойство. Получает версию psd.
+title: "CurvResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CurvResource. Получает версию psd"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/psdversion/
 ---
+{{< psd/tize >}}
 ## CurvResource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CurvResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

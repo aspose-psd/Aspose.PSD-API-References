@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.UpdateResourceValues
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilters метод. Обновляет данные интеллектуального фильтра вSmartObjectResource .
+title: "SmartFilters.UpdateResourceValues"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartFilters. Обновляет данные умного фильтра в SmartObjectResource"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
+{{< psd/tize >}}
 ## SmartFilters.UpdateResourceValues method
 
-Обновляет данные интеллектуального фильтра в[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) .
+Обновляет данные умного фильтра в [`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/).
 
 ```csharp
 public void UpdateResourceValues()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilters](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает значение указывающее является ли данный шрифт составным.
+title: "Font.IsComposite"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Получает или задает значение, указывающее, является ли этот шрифт составным"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-Получает или задает значение, указывающее, является ли данный шрифт составным.
+Получает или задает значение, указывающее, является ли этот шрифт составным.
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот шрифт составной; в противном случае,`ЛОЖЬ` .
+`true`, если этот шрифт составной; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

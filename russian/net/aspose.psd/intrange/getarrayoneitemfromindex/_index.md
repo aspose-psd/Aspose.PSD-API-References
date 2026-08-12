@@ -1,14 +1,15 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: IntRange метод. Возвращает один массив элементов из указанного index
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IntRange. Возвращает массив из одного элемента по указанному индексу"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Возвращает один массив элементов из указанного index
+Возвращает массив из одного элемента по указанному индексу
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
@@ -16,22 +17,22 @@ public int[] GetArrayOneItemFromIndex(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс ассортимента. |
+| index | Int32 | Индекс диапазона. |
 
 ### Возвращаемое значение
 
-МассивInt32
+Массив Int32
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Индекс вне допустимого диапазона |
+| ArgumentException | Индекс выходит за пределы диапазона |
 
-### Смотрите также
+### См. также
 
 * class [IntRange](../)
-* пространство имен [Aspose.PSD](../../intrange/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

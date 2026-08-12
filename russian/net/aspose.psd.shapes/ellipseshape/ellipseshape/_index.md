@@ -1,30 +1,31 @@
 ---
-title: EllipseShape.EllipseShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: EllipseShape строитель. Инициализирует новый экземплярEllipseShape класс.
+title: "EllipseShape.EllipseShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор EllipseShape. Инициализирует новый экземпляр класса EllipseShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape() {#constructor}
 
-Инициализирует новый экземпляр[`EllipseShape`](../) класс.
+Инициализирует новый экземпляр класса [`EllipseShape`](../).
 
 ```csharp
 public EllipseShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [EllipseShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../ellipseshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-Инициализирует новый экземпляр[`EllipseShape`](../) класс.
+Инициализирует новый экземпляр класса [`EllipseShape`](../).
 
 ```csharp
 public EllipseShape(RectangleF rectangle)
@@ -32,13 +33,13 @@ public EllipseShape(RectangleF rectangle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
+| прямоугольник | RectangleF | Прямоугольник. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../ellipseshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

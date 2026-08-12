@@ -1,14 +1,15 @@
 ---
-title: PngImageException.PngImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: PngImageException строитель. Инициализирует новый экземплярPngImageException класс.
+title: "PngImageException.PngImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PngImageException. Инициализирует новый экземпляр класса PngImageException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/pngimageexception/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException(string) {#constructor}
 
-Инициализирует новый экземпляр[`PngImageException`](../) класс.
+Инициализирует новый экземпляр класса [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message)
@@ -18,17 +19,17 @@ public PngImageException(string message)
 | --- | --- | --- |
 | message | String | Сообщение. |
 
-### Смотрите также
+### См. также
 
 * class [PngImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngImageException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`PngImageException`](../) класс.
+Инициализирует новый экземпляр класса [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message, Exception innerException)
@@ -39,10 +40,10 @@ public PngImageException(string message, Exception innerException)
 | message | String | Сообщение. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [PngImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

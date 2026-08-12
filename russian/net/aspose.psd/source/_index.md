@@ -1,14 +1,15 @@
 ---
-title: Class Source
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Source сорт. Источник используется для хранения всей необходимой информации для канала объекта.
+title: "Класс Source"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Source. Источник используется для хранения всей соответствующей информации об объектном конвейере"
 type: docs
-weight: 5580
+weight: 6080
 url: /ru/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-Источник используется для хранения всей необходимой информации для канала объекта.
+Источник используется для хранения всей соответствующей информации для конвейера объекта.
 
 ```csharp
 public abstract class Source
@@ -20,9 +21,9 @@ public abstract class Source
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Получает контейнер потока. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

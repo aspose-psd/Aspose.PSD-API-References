@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileCreator
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает или задает создатель файла в формате PSD LnkE/Lnk2 ресурса.
+title: "LinkDataSource.FileCreator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Возвращает или задает создателя файла в ресурсе PSD формата LnkE / Lnk2"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileCreator property
 
-Получает или задает создатель файла в формате PSD LnkE/Lnk2 ресурса.
+Получает или задает создателя файла в ресурсе PSD формата LnkE / Lnk2.
 
 ```csharp
 public string FileCreator { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Создатель файла, который содержит источник данных PSD LiFE/LiFD.
+Создатель файла, содержащийся в источнике данных PSD LiFE / LiFD.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству FileCreator. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Невозможно получить доступ к свойству FileCreator. |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

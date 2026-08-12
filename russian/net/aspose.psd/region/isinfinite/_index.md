@@ -1,14 +1,15 @@
 ---
-title: Region.IsInfinite
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Проверяет является ли этоRegion имеет бесконечную внутреннюю часть на указанной поверхности рисования.
+title: "Region.IsInfinite"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Проверяет, имеет ли данный Region бесконечный внутренний объём на указанной поверхности рисования"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-Проверяет, является ли это[`Region`](../) имеет бесконечную внутреннюю часть на указанной поверхности рисования.
+Проверяет, имеет ли данный [`Region`](../) бесконечный внутренний объём на указанной поверхности рисования.
 
 ```csharp
 public bool IsInfinite(Graphics g)
@@ -16,23 +17,23 @@ public bool IsInfinite(Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| g | Graphics | А[`Graphics`](../../graphics/) который представляет собой поверхность для рисования. |
+| g | Graphics | Объект [`Graphics`](../../graphics/) представляет поверхность рисования. |
 
 ### Возвращаемое значение
 
-true, если внутренняя часть этого[`Region`](../) бесконечно, когда преобразование, связанное с*g* применены; в противном случае false.
+true, если внутреннее пространство данного [`Region`](../) бесконечно при применении преобразования, связанного с *g*; иначе — false.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *g* равно нулю. |
+| ArgumentNullException | *g* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

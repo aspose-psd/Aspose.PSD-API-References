@@ -1,30 +1,31 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorRangeHsl строитель. Инициализирует новый экземплярColorRangeHsl класс.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ColorRangeHsl. Инициализирует новый экземпляр класса ColorRangeHsl"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-Инициализирует новый экземпляр[`ColorRangeHsl`](../) класс.
+Инициализирует новый экземпляр класса [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorRangeHsl](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`ColorRangeHsl`](../) класс.
+Инициализирует новый экземпляр класса [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl(byte[] data)
@@ -32,18 +33,18 @@ public ColorRangeHsl(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные цветового диапазона. |
+| данные | Byte[] | Данные диапазона цветов. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ожидаемая длина " + this.GetType() + " равна 14. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ожидаемая длина \" + this.GetType() + \" равна 14 |
 
-### Смотрите также
+### См. также
 
 * class [ColorRangeHsl](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

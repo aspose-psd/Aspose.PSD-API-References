@@ -1,11 +1,12 @@
 ---
-title: GraphicsOptions.TextRenderingHint
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsOptions свойство. Получает или задает подсказку рендеринга текста.
+title: "GraphicsOptions.TextRenderingHint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GraphicsOptions. Получает или задает подсказку рендеринга текста"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imageoptions/graphicsoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.TextRenderingHint property
 
 Получает или задает подсказку рендеринга текста.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/graphicsoptions/textrenderinghint/
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [GraphicsOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPsdColorPalette свойство. Получает индекс прозрачного цвета.
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPsdColorPalette. Возвращает индекс прозрачного цвета"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
-Получает индекс прозрачного цвета.
+Возвращает индекс прозрачного цвета.
 
 ```csharp
 public short TransparentIndex { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Индекс прозрачного цвета.
 
-### Смотрите также
+### См. также
 
 * interface [IPsdColorPalette](../)
-* пространство имен [Aspose.PSD](../../ipsdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

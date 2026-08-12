@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Red
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает компонент красного цвета.
+title: "AiLayerSection.Red"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AiLayerSection свойство. Получает или задает красный компонент цвета"
 type: docs
-weight: 130
+weight: 150
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
 Получает или задает компонент красного цвета.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.ai/ailayersection/red/
 public int Red { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Компонент красного цвета.
+Красный компонент цвета.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

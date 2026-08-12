@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlLdResource метод. Сохраняет ресурс PlLD в указанный контейнер потока.
+title: "PlLdResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PlLdResource. Сохраняет ресурс PlLD в указанный потоковый контейнер"
 type: docs
-weight: 50
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-Сохраняет ресурс PlLD в указанный контейнер потока.
+Сохраняет ресурс PlLD в указанный потоковый контейнер.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,10 +17,10 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса PlLdResource.
 
@@ -203,16 +204,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым для Adobe® Photoshop®
+                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым в Adobe® Photoshop®
                 ////resource.UOrder = 6;
-                ////ресурс.VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-                // или изменить подчеркивающий смарт-объект на векторный тип
+                // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+                // или измените подлежащий смарт‑объект на векторный тип
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Должен быть действительный PlLdResource с этим уникальным идентификатором
-                ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Должен существовать действительный PlLdResource с этим уникальным Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -224,11 +226,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

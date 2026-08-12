@@ -1,11 +1,12 @@
 ---
-title: CurvesManager.MaxChannelCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvesManager свойство. Получает максимальное количество каналов.
+title: "CurvesManager.MaxChannelCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CurvesManager. Возвращает максимальное количество каналов"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/
 ---
+{{< psd/tize >}}
 ## CurvesManager.MaxChannelCount property
 
 Получает максимальное количество каналов.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxc
 public int MaxChannelCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Максимальное количество каналов.
 
-### Смотрите также
+### См. также
 
 * class [CurvesManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

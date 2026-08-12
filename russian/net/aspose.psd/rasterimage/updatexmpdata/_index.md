@@ -1,11 +1,12 @@
 ---
-title: RasterImage.UpdateXmpData
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает или задает значение указывающее следует ли обновлять метаданные XMP.
+title: "RasterImage.UpdateXmpData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Получает или задает значение, указывающее, следует ли обновлять метаданные XMP"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/rasterimage/updatexmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UpdateXmpData property
 
 Получает или задает значение, указывающее, следует ли обновлять метаданные XMP.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/rasterimage/updatexmpdata/
 public virtual bool UpdateXmpData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если обновить метаданные XMP; в противном случае,`ЛОЖЬ` .
+`true`, если обновлять метаданные XMP; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

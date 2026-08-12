@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTags
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает теги которые относятся только к разделу GPS.
+title: "ExifData.GPSTags"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает теги, которые относятся только к разделу GPS"
 type: docs
 weight: 630
 url: /ru/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
-Получает или устанавливает теги, которые относятся только к разделу GPS.
+Получает или задает теги, относящиеся только к разделу GPS.
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Метки GPS.
+Теги GPS.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

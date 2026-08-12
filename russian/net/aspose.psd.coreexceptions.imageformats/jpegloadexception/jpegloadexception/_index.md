@@ -1,14 +1,15 @@
 ---
-title: JpegLoadException.JpegLoadException
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegLoadException строитель. Инициализирует новый экземплярJpegLoadException класс.
+title: "JpegLoadException.JpegLoadException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор JpegLoadException. Инициализирует новый экземпляр класса JpegLoadException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException(string) {#constructor}
 
-Инициализирует новый экземпляр[`JpegLoadException`](../) класс.
+Инициализирует новый экземпляр класса [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message)
@@ -16,19 +17,19 @@ public JpegLoadException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [JpegLoadException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр[`JpegLoadException`](../) класс.
+Инициализирует новый экземпляр класса [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, Exception innerException)
@@ -39,17 +40,17 @@ public JpegLoadException(string message, Exception innerException)
 | message | String | Сообщение. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [JpegLoadException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, ErrorReason) {#constructor_1}
 
-Инициализирует новый экземпляр[`JpegLoadException`](../) класс.
+Инициализирует новый экземпляр класса [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, ErrorReason reason)
@@ -57,21 +58,21 @@ public JpegLoadException(string message, ErrorReason reason)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
-| reason | ErrorReason | Причина ошибки. |
+| message | String | Сообщение исключения. |
+| причина | ErrorReason | Причина ошибки. |
 
-### Смотрите также
+### См. также
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception, ErrorReason) {#constructor_3}
 
-Инициализирует новый экземпляр[`JpegLoadException`](../) класс.
+Инициализирует новый экземпляр класса [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, Exception innerException, ErrorReason reason)
@@ -79,15 +80,15 @@ public JpegLoadException(string message, Exception innerException, ErrorReason r
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
-| reason | ErrorReason | Причина ошибки. |
+| причина | ErrorReason | Причина ошибки. |
 
-### Смотрите также
+### См. также
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

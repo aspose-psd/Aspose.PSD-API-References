@@ -1,14 +1,15 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Получает прямоугольник соответствующий текущему изображению.
+title: "Image.GetFittingRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Получает прямоугольник, который соответствует текущему изображению."
 type: docs
-weight: 270
+weight: 280
 url: /ru/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-Получает прямоугольник, соответствующий текущему изображению.
+Получает прямоугольник, который вписывается в текущее изображение.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
@@ -16,26 +17,26 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник для получения подходящего прямоугольника. |
+| прямоугольник | Rectangle | Прямоугольник, для которого нужно получить подходящий прямоугольник. |
 | width | Int32 | Ширина объекта. |
 | height | Int32 | Высота объекта. |
 
 ### Возвращаемое значение
 
-Подходящий прямоугольник или исключение, если не удается найти подходящего прямоугольника.
+Подходящий прямоугольник или исключение, если подходящий прямоугольник не найден.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-Получает прямоугольник, соответствующий текущему изображению.
+Получает прямоугольник, который вписывается в текущее изображение.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
@@ -44,20 +45,20 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник для получения подходящего прямоугольника. |
-| pixels | Int32[] | 32-битные пиксели ARGB. |
+| прямоугольник | Rectangle | Прямоугольник, для которого нужно получить подходящий прямоугольник. |
+| пиксели | Int32[] | 32‑битные пиксели ARGB. |
 | width | Int32 | Ширина объекта. |
 | height | Int32 | Высота объекта. |
 
 ### Возвращаемое значение
 
-Подходящий прямоугольник или исключение, если не удается найти подходящего прямоугольника.
+Подходящий прямоугольник или исключение, если подходящий прямоугольник не найден.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

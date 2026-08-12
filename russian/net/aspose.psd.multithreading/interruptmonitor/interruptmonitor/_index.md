@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Справочник по Aspose.PSD для .NET API
-description: InterruptMonitor строитель. Конструктор по умолчанию.
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор InterruptMonitor. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 public InterruptMonitor()
 ```
 
-### Смотрите также
+### См. также
 
 * class [InterruptMonitor](../)
-* пространство имен [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions строитель. Инициализирует новый экземплярJpegOptions класс.
+title: "JpegOptions.JpegOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор JpegOptions. Инициализирует новый экземпляр класса JpegOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-Инициализирует новый экземпляр[`JpegOptions`](../) класс.
+Инициализирует новый экземпляр класса [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-Инициализирует новый экземпляр[`JpegOptions`](../) класс.
+Инициализирует новый экземпляр класса [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
@@ -34,10 +35,10 @@ public JpegOptions(JpegOptions jpegOptions)
 | --- | --- | --- |
 | jpegOptions | JpegOptions | Параметры JPEG. |
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

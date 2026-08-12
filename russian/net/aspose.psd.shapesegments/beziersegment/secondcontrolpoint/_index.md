@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierSegment свойство. Получает вторую контрольную точку сплайна Безье.
+title: "BezierSegment.SecondControlPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierSegment. Возвращает вторую контрольную точку безье-сплайна"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-Получает вторую контрольную точку сплайна Безье.
+Возвращает вторую контрольную точку сплайна Безье.
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Второй контрольный пункт.
+Вторая контрольная точка.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* пространство имен [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

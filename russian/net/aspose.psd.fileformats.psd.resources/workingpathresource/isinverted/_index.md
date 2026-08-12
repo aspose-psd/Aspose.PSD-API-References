@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.IsInverted
-second_title: Справочник по Aspose.PSD для .NET API
-description: WorkingPathResource свойство. Получает или задает значение указывающее инвертирован ли этот экземпляр.
+title: "WorkingPathResource.IsInverted"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство WorkingPathResource. Получает или задает значение, указывающее, инвертирован ли этот экземпляр"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsInverted property
 
 Получает или задает значение, указывающее, инвертирован ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/isinverted
 public bool IsInverted { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр инвертирован; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр инвертирован; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [WorkingPathResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

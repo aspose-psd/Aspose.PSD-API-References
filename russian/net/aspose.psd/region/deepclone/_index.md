@@ -1,14 +1,15 @@
 ---
-title: Region.DeepClone
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Создает точную глубокую копию этогоRegion .
+title: "Region.DeepClone"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Создаёт точную глубокую копию этого Region"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/region/deepclone/
 ---
+{{< psd/tize >}}
 ## Region.DeepClone method
 
-Создает точную глубокую копию этого[`Region`](../) .
+Создаёт точную глубокую копию этого [`Region`](../).
 
 ```csharp
 public Region DeepClone()
@@ -16,12 +17,12 @@ public Region DeepClone()
 
 ### Возвращаемое значение
 
-[`Region`](../) что создает этот метод.
+Объект [`Region`](../), который создаёт этот метод.
 
-### Смотрите также
+### См. также
 
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

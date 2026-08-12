@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Data
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnknownResource свойство. Получает данные ресурса.
+title: "UnknownResource.Data"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UnknownResource. Возвращает данные ресурса"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
 Получает данные ресурса.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 public byte[] Data { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные ресурса.
 
-### Смотрите также
+### См. также
 
 * class [UnknownResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ClassID.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassID метод. Сохраняет информацию о классе в указанный контейнер потока.
+title: "ClassID.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ClassID. Сохраняет информацию о классе в указанный контейнер потока"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/save/
 ---
+{{< psd/tize >}}
 ## ClassID.Save method
 
-Сохраняет информацию о классе в указанный контейнер потока.
+Сохраняет информацию о классе в указанный потоковый контейнер.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
@@ -16,13 +17,13 @@ public void Save(StreamContainer streamContainer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

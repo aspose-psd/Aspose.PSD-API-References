@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerBlendingRangesData свойство. Получает или задает диапазоны составного перехода.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerBlendingRangesData. Получает или задает композитные диапазоны смешивания"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-Получает или задает диапазоны составного перехода.
+Получает или задает диапазоны составного смешивания.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Составные диапазоны смешивания.
+Композиционные диапазоны смешивания.
 
-### Смотрите также
+### См. также
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

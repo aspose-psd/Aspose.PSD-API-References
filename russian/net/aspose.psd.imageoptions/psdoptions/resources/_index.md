@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.Resources
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdOptions свойство. Получает или задает ресурсы PSD.
+title: "PsdOptions.Resources"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdOptions. Получает или задает ресурсы psd. Если значение NULL, то сохраняет оригинальные ImageResources (поведение по умолчанию). Если не пусто, сохраняет ресурсы, переданные в это свойство. Если требуемые ресурсы пусты, сохраняются только необходимые ресурсы. Требуемые ресурсы: ResolutionInfoResource, XmpResource."
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.psd.imageoptions/psdoptions/resources/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Resources property
 
-Получает или задает ресурсы PSD.
+Получает или задает ресурсы PSD. Если значение: NULL — сохраняются оригинальные ImageResources (поведение по умолчанию); Не пусто — сохраняются ресурсы, переданные в это свойство, плюс [required resources]; Пусто — сохраняются только [required resources]. Требуемые ресурсы: ResolutionInfoResource, XmpResource.
 
 ```csharp
 public ResourceBlock[] Resources { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-PSD ресурсы.
+Ресурсы psd.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

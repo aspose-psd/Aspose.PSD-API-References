@@ -1,23 +1,24 @@
 ---
-title: Txt2Resource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: Txt2Resource свойство. Получает подпись ресурса слоя.
+title: "Txt2Resource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Txt2Resource. Возвращает подпись ресурса слоя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Signature property
 
-Получает подпись ресурса слоя.
+Получает сигнатуру ресурса слоя.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Txt2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

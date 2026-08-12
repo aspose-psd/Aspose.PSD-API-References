@@ -1,30 +1,31 @@
 ---
-title: Font.Font
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font строитель. Инициализирует новый экземплярFont класс.
+title: "Font.Font"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Font. Инициализирует новый экземпляр класса Font"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-Инициализирует новый экземпляр[`Font`](../) класс.
+Инициализирует новый экземпляр класса [`Font`](../).
 
 ```csharp
 public Font()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`Font`](../) класс.
+Инициализирует новый экземпляр класса [`Font`](../).
 
 ```csharp
 public Font(string fontFamily)
@@ -34,10 +35,10 @@ public Font(string fontFamily)
 | --- | --- | --- |
 | fontFamily | String | Семейство шрифтов. |
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

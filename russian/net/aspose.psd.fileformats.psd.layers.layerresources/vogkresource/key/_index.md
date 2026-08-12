@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: VogkResource свойство. Получает ключ ресурса слоя.
+title: "VogkResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VogkResource property. Получает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
+{{< psd/tize >}}
 ## VogkResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 public override int Key { get; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса VogkResource.
+Следующий пример демонстрирует поддержку ресурса VogkResource.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VogkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

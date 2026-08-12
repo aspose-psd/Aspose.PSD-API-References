@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlwhResource свойство. Получает длину ресурса слоя в байтах.
+title: "BlwhResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlwhResource. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 80
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlwhResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

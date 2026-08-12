@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает формат файла Tiff.
+title: "Aspose.PSD.FileFormats.Tiff"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает формат файлов Tiff"
 type: docs
-weight: 370
+weight: 410
 url: /ru/net/aspose.psd.fileformats.tiff/
 ---
-Пространство имен обрабатывает формат файла Tiff.
+{{< psd/tize >}}
+Пространство имён обрабатывает формат файлов TIFF.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [TiffDataType](./tiffdatatype/) | Тип данных TIFF. |
+| [TiffDataType](./tiffdatatype/) | Тип данных tiff. |
 | [TiffExifIfd](./tiffexififd/) | Класс каталога файлов изображений TIFF Exif. |
-| [TiffRational](./tiffrational/) | Рациональный тип tiff. |
-| [TiffSRational](./tiffsrational/) | Рациональный тип tiff. |
+| [TiffRational](./tiffrational/) | Тип rational tiff. |
+| [TiffSRational](./tiffsrational/) | Тип rational tiff. |
 
 

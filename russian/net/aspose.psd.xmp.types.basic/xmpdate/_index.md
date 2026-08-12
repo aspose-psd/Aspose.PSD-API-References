@@ -1,11 +1,12 @@
 ---
-title: Class XmpDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpDate сорт. Представляет дату в пакете XMP.
+title: "Класс XmpDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Basic.XmpDate. Представляет дату в пакете XMP"
 type: docs
-weight: 5950
+weight: 6450
 url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate class
 
 Представляет дату в пакете XMP.
@@ -18,10 +19,10 @@ public sealed class XmpDate : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [XmpDate](xmpdate/#constructor)(DateTime) | Инициализирует новый экземпляр`XmpDate` класс. |
-| [XmpDate](xmpdate/#constructor_1)(string) | Инициализирует новый экземпляр`XmpDate` класс. |
+| [XmpDate](xmpdate/#constructor)(DateTime) | Инициализирует новый экземпляр класса `XmpDate`. |
+| [XmpDate](xmpdate/#constructor_1)(string) | Инициализирует новый экземпляр класса `XmpDate`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -38,16 +39,16 @@ public sealed class XmpDate : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | Строка формата ISO 8601 (туда и обратно). |
+| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | Строка формата ISO 8601 (круговой переход). |
 
-### Примечания
+## Примечания
 
-Значение даты и времени представляется с использованием подмножества форматов, определенных в Форматах даты и времени: ГГГГ ГГГГ-ММ ГГГГ-ММ-ДД ГГГГ-ММ-ДДThh:mmTZD YYYY-MM-DDThh:mm:ssTZD_x000-d_ YYYY ММ-ДДТчч:мм:сс.sTZD
+Значение даты и времени представляется с использованием подмножества форматов, определённых в разделе Форматы даты и времени: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ss.sTZD
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

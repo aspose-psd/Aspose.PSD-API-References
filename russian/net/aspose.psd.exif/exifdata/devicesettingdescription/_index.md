@@ -1,11 +1,12 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает описание настроек устройства
+title: "ExifData.DeviceSettingDescription"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает описание настроек устройства"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.exif/exifdata/devicesettingdescription/
 ---
+{{< psd/tize >}}
 ## ExifData.DeviceSettingDescription property
 
 Получает или задает описание настроек устройства
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/devicesettingdescription/
 public byte[] DeviceSettingDescription { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Описание настроек устройства.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

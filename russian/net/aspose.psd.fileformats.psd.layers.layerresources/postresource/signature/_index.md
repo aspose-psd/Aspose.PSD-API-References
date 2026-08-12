@@ -1,11 +1,12 @@
 ---
-title: PostResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: PostResource свойство. Получает подпись.
+title: "PostResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PostResource. Возвращает подпись"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/signature/
 ---
+{{< psd/tize >}}
 ## PostResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/signa
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PostResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает значение деформации размещенного слоя в изображении PSD.
+title: "IPlacedLayerResource.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IPlacedLayerResource свойство. Получает или задает значение искажения размещённого слоя в изображении PSD"
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Value property
 
-Получает или задает значение деформации размещенного слоя в изображении PSD.
+Получает или задает значение искажения размещённого слоя в изображении PSD.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение деформации размещенного слоя.
+Значение искажения размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

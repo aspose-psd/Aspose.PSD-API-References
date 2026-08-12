@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.DrawColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorRasterizationOptions свойство. Получает или задает цвет переднего плана.
+title: "VectorRasterizationOptions.DrawColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorRasterizationOptions. Получает или задает цвет переднего плана"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/drawcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.DrawColor property
 
 Получает или задает цвет переднего плана.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/drawcolor/
 public Color DrawColor { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

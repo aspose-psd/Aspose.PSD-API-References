@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.Register
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageExportersRegistry метод. Регистрирует указанный дескриптор экспортера изображений.
+title: "ImageExportersRegistry.Register"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageExportersRegistry. Регистрирует указанный дескриптор экспортера изображений"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/imageexportersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.Register method
 
-Регистрирует указанный дескриптор экспортера изображений.
+Регистрирует указанный дескриптор экспортёра изображений.
 
 ```csharp
 public static void Register(IImageExporterDescriptor imageExporterDescriptor)
@@ -18,11 +19,11 @@ public static void Register(IImageExporterDescriptor imageExporterDescriptor)
 | --- | --- | --- |
 | imageExporterDescriptor | IImageExporterDescriptor | Дескриптор экспортера изображений. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageexportersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

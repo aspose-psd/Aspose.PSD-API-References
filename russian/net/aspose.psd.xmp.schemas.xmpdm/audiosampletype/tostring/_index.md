@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: AudioSampleType метод. ВозвращаетString который представляет этот экземпляр.
+title: "AudioSampleType.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AudioSampleType метод. Возвращает строку, представляющую этот экземпляр"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [AudioSampleType](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

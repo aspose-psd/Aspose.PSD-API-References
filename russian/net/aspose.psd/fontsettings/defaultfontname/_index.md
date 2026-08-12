@@ -1,27 +1,28 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings свойство. Получает или задает имя шрифта по умолчанию.
+title: "FontSettings.DefaultFontName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "FontSettings свойство. Получает или задает имя шрифта по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
-Получает или задает имя шрифта по умолчанию.
+Получает или задаёт имя шрифта по умолчанию.
 
 ```csharp
 public static string DefaultFontName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя шрифта по умолчанию.
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

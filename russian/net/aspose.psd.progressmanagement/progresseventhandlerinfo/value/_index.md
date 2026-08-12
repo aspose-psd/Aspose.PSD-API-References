@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProgressEventHandlerInfo свойство. Получает текущее значение прогресса.
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ProgressEventHandlerInfo. Возвращает текущее значение прогресса"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
 Получает текущее значение прогресса.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 public int Value { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение прогресса.
 
-### Смотрите также
+### См. также
 
 * class [ProgressEventHandlerInfo](../)
-* пространство имен [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

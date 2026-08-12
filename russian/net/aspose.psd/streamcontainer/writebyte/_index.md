@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer метод. Записывает байт в текущую позицию в потоке и перемещает позицию в потоке на один байт.
+title: "StreamContainer.WriteByte"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StreamContainer метод. Записывает байт в текущую позицию потока и перемещает позицию в потоке на один байт вперёд"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/streamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.WriteByte method
 
-Записывает байт в текущую позицию в потоке и перемещает позицию в потоке на один байт.
+Записывает один байт в текущую позицию в потоке и перемещает позицию в потоке на один байт.
 
 ```csharp
 public virtual void WriteByte(byte value)
@@ -16,12 +17,12 @@ public virtual void WriteByte(byte value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Byte | Байт для записи в поток. |
+| значение | Byte | Байт, который нужно записать в поток. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

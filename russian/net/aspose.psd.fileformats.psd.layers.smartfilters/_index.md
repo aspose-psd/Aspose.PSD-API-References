@@ -1,26 +1,28 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит объекты формата файла PSD содержащиеся в слоях.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит сущности формата файлов PSD, содержащиеся в слоях."
 type: docs
-weight: 310
+weight: 330
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
-Пространство имен содержит объекты формата файла PSD, содержащиеся в слоях.
+{{< psd/tize >}}
+Пространство имён содержит сущности формата файлов PSD, содержащиеся в слоях.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [AddNoiseSmartFilter](./addnoisesmartfilter/) | Интеллектуальный фильтр AddNoise. |
-| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | Интеллектуальный фильтр GaussianBlur. |
-| [SmartFilter](./smartfilter/) | Класс для обработки базовой логики интеллектуальных фильтров. |
-| [SmartFilters](./smartfilters/) | Умные фильтры[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) . |
-| [UnknownSmartFilter](./unknownsmartfilter/) | Класс для хранения неизвестных данных интеллектуального фильтра. |
-## перечисление
+| [AddNoiseSmartFilter](./addnoisesmartfilter/) | Смарт‑фильтр AddNoise. |
+| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | Смарт‑фильтр GaussianBlur. |
+| [SharpenSmartFilter](./sharpensmartfilter/) | Смарт‑фильтр Sharpen. |
+| [SmartFilter](./smartfilter/) | Класс для обработки базовой логики умных фильтров. |
+| [SmartFilters](./smartfilters/) | Умные фильтры [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/). |
+| [UnknownSmartFilter](./unknownsmartfilter/) | Класс для хранения неизвестных данных умных фильтров. |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [NoiseDistribution](./noisedistribution/) | Распределение фильтра шума. |
+| [NoiseDistribution](./noisedistribution/) | Распределение шумового фильтра. |
 
 

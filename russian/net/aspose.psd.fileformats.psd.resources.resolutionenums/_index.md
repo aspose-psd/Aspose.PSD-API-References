@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает единицы разрешения ресурсов Psd
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает единицы разрешения ресурсов PSD."
 type: docs
-weight: 360
+weight: 400
 url: /ru/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-Пространство имен обрабатывает единицы разрешения ресурсов Psd
+{{< psd/tize >}}
+Пространство имён обрабатывает единицы разрешения ресурсов PSD.
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | Физический блок resoulutionInfo enum |
-| [ResolutionUnit](./resolutionunit/) | Разрешение информации о разрешении unit |
+| [PhysicalUnit](./physicalunit/) | Перечисление физических единиц измерения resoulutionInfo |
+| [ResolutionUnit](./resolutionunit/) | Единица разрешения resolution info |
 
 

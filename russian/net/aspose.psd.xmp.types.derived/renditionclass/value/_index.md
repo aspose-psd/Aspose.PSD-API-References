@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: RenditionClass свойство. Получает или задает значение.
+title: "RenditionClass.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RenditionClass. Получает или задает значение"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
 Получает или задает значение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.derived/renditionclass/value/
 public string Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
-### Смотрите также
+### См. также
 
 * class [RenditionClass](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.MeteringMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает режим измерения.
+title: "ExifData.MeteringMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData свойство. Получает или задает режим измерения"
 type: docs
 weight: 810
 url: /ru/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
-Получает или устанавливает режим измерения.
+Получает или задает режим измерения экспозиции.
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Режим замера.
+Режим измерения.
 
-### Смотрите также
+### См. также
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

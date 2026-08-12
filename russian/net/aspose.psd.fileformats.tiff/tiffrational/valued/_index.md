@@ -1,27 +1,28 @@
 ---
-title: TiffRational.ValueD
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffRational свойство. Получает двойное значение.
+title: "TiffRational.ValueD"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffRational. Возвращает значение типа double"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.tiff/tiffrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffRational.ValueD property
 
-Получает двойное значение.
+Возвращает значение типа double.
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Двойное значение.
+Значение типа double.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

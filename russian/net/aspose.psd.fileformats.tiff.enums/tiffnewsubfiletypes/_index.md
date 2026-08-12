@@ -1,22 +1,23 @@
 ---
-title: Enum TiffNewSubFileTypes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes перечисление. Тип нового подфайла tiff enum.
+title: "Перечисление TiffNewSubFileTypes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. Перечисление новых типов подпапок tiff"
 type: docs
-weight: 4100
+weight: 4570
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
+{{< psd/tize >}}
 ## TiffNewSubFileTypes enumeration
 
-Тип нового подфайла tiff enum.
+Перечисление новых подтипов файлов tiff.
 
 ```csharp
 public enum TiffNewSubFileTypes : uint
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | FileTypeDefault | `0` | Тип файла по умолчанию. |
 | FileTypeReducedImage | `1` | Тип файла уменьшенного изображения. |
@@ -24,9 +25,9 @@ public enum TiffNewSubFileTypes : uint
 | FileTypeMask | `4` | Тип файла маски. |
 | FileTypeLast | `5` | Последний тип файла. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

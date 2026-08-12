@@ -1,11 +1,12 @@
 ---
-title: TransparencyIndexResource.TransparencyIndexResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: TransparencyIndexResource строитель. Конструктор по умолчанию.
+title: "TransparencyIndexResource.TransparencyIndexResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TransparencyIndexResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/tran
 public TransparencyIndexResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TransparencyIndexResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

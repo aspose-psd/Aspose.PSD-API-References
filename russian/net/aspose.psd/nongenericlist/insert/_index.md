@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Insert
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList метод. Вставляет элемент вIList по указанному индексу.
+title: "NonGenericList.Insert"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericList. Вставляет элемент в IList по указанному индексу"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/nongenericlist/insert/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Insert method
 
-Вставляет элемент вIList по указанному индексу.
+Вставляет элемент в IList по указанному индексу.
 
 ```csharp
 public void Insert(int index, object value)
@@ -16,13 +17,13 @@ public void Insert(int index, object value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Отсчитываемый от нуля индекс, при котором*value* следует вставить. |
-| value | Object | Object вставить вIList. |
+| index | Int32 | Индекс, начинающийся с нуля, по которому должно быть вставлено *value*. |
+| значение | Object | Объект, который нужно вставить в IList. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

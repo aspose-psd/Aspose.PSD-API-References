@@ -1,20 +1,21 @@
 ---
-title: PathStructure.StructureKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathStructure поле. Идентифицирует ключ структуры.
+title: "PathStructure.StructureKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле PathStructure. Идентифицирует ключ структуры"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PathStructure.StructureKey field
 
-Идентифицирует ключ структуры.
+Определяет ключ структуры.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует возможность загрузки файла со структурой PathStructure.
 
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PathStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

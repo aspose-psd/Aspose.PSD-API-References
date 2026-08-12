@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRightsManagementPackage метод. Отмечает как управление правами content
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpRightsManagementPackage. Помечает как контент с управлением правами"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
-Отмечает как управление правами content
+Помечает как контент управления правами
 
 ```csharp
 public void SetMarkedAsRightManagement(bool value)
@@ -16,12 +17,12 @@ public void SetMarkedAsRightManagement(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | если установлено`истинный`что это ресурс, управляемый правами. |
+| значение | Boolean | если установлено `true`, то это ресурс с управлением правами. |
 
-### Смотрите также
+### См. также
 
 * class [XmpRightsManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

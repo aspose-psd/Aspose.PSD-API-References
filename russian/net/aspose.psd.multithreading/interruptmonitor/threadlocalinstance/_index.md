@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: Справочник по Aspose.PSD для .NET API
-description: InterruptMonitor свойство. Получает или задает экземпляр InterruptMonitor уникальный для каждого потока.
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InterruptMonitor. Получает или задает экземпляр InterruptMonitor, уникальный для каждого потока"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.multithreading/interruptmonitor/threadlocalinstance/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.ThreadLocalInstance property
 
 Получает или задает экземпляр InterruptMonitor, уникальный для каждого потока.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.multithreading/interruptmonitor/threadlocalinstance/
 public static InterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [InterruptMonitor](../)
-* пространство имен [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

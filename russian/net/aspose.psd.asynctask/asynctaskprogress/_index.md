@@ -1,14 +1,15 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress сорт. Предоставляет информацию о ходе выполнения асинхронной задачи.
+title: "Класс AsyncTaskProgress"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.AsyncTask.AsyncTaskProgress. Предоставляет информацию о прогрессе асинхронной задачи"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
-Предоставляет информацию о ходе выполнения асинхронной задачи.
+Предоставляет информацию о прогрессе асинхронной задачи.
 
 ```csharp
 public class AsyncTaskProgress
@@ -18,18 +19,18 @@ public class AsyncTaskProgress
 
 | Имя | Описание |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Инициализирует новый экземпляр`AsyncTaskProgress` класс. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Инициализирует новый экземпляр класса `AsyncTaskProgress`. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
 | readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Продолжительность асинхронной задачи. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Ход выполнения асинхронной задачи в процентах. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Прогресс асинхронной задачи в процентах. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

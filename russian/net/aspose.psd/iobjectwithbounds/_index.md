@@ -1,11 +1,12 @@
 ---
-title: Interface IObjectWithBounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IObjectWithBounds интерфейс. Представляет объект с границами.
+title: "Интерфейс IObjectWithBounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IObjectWithBounds. Представляет объект с границами"
 type: docs
-weight: 4490
+weight: 4960
 url: /ru/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
 Представляет объект с границами.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd/iobjectwithbounds/
 public interface IObjectWithBounds
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -23,9 +24,9 @@ public interface IObjectWithBounds
 | [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | Получает размер объекта. |
 | [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | Получает ширину объекта. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

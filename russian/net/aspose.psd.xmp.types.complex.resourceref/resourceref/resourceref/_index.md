@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.ResourceRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceRef строитель. Конструктор по умолчанию.
+title: "ResourceRef.ResourceRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ResourceRef. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/resourceref/
 public ResourceRef()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResourceRef](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

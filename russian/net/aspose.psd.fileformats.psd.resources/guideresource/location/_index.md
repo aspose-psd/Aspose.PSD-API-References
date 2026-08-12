@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: Справочник по Aspose.PSD для .NET API
-description: GuideResource свойство. Получает или задает положение направляющей в координатах документа.
+title: "GuideResource.Location"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GuideResource. Возвращает или задает расположение направляющей в координатах документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-Получает или задает положение направляющей в координатах документа.
+Получает или задает расположение направляющей в координатах документа.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Расположение гида.
+Расположение направляющей.
 
-### Смотрите также
+### См. также
 
 * class [GuideResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

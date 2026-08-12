@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape свойство. Получает левую верхнюю точку прямоугольника.
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RectangleProjectedShape. Возвращает точку левого верхнего угла прямоугольника"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
-Получает левую верхнюю точку прямоугольника.
+Получает точку левого верхнего угла прямоугольника.
 
 ```csharp
 public PointF LeftTop { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Левая верхняя точка прямоугольника.
+Точка левого верхнего угла прямоугольника.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает индекс экспозиции.
+title: "ExifData.ExposureIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает индекс экспозиции"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.exif/exifdata/exposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureIndex property
 
 Получает или задает индекс экспозиции.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/exposureindex/
 public TiffRational ExposureIndex { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Индекс экспозиции.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

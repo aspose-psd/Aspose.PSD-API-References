@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.GetXmlValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMeta метод. Преобразует значение XMP в представление XML.
+title: "XmpMeta.GetXmlValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpMeta. Преобразует значение XMP в представление XML"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp/xmpmeta/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpMeta.GetXmlValue method
 
 Преобразует значение XMP в представление XML.
@@ -16,12 +17,12 @@ public string GetXmlValue()
 
 ### Возвращаемое значение
 
-Возвращает значение XMP, преобразованное в представление XML.
+Возвращает значение XMP, преобразованное в XML-представление.
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

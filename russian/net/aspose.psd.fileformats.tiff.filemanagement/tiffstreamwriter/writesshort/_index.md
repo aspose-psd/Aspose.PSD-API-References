@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSShort
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает одно короткое значение в поток.
+title: "TiffStreamWriter.WriteSShort"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamWriter method. Записывает одно значение short в поток"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShort method
 
-Записывает одно короткое значение в поток.
+Записывает одно короткое целое значение в поток.
 
 ```csharp
 public void WriteSShort(short data)
@@ -16,12 +17,12 @@ public void WriteSShort(short data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Int16 | Значение для записи. |
+| данные | Int16 | Значение для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

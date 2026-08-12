@@ -1,14 +1,15 @@
 ---
-title: JpegException.JpegException
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegException строитель. Инициализирует новый экземплярJpegException класс.
+title: "JpegException.JpegException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор JpegException. Инициализирует новый экземпляр класса JpegException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/jpegexception/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException(string) {#constructor}
 
-Инициализирует новый экземпляр[`JpegException`](../) класс.
+Инициализирует новый экземпляр класса [`JpegException`](../).
 
 ```csharp
 public JpegException(string message)
@@ -16,19 +17,19 @@ public JpegException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [JpegException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`JpegException`](../) класс.
+Инициализирует новый экземпляр класса [`JpegException`](../).
 
 ```csharp
 public JpegException(string message, Exception innerException)
@@ -39,10 +40,10 @@ public JpegException(string message, Exception innerException)
 | message | String | Сообщение. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [JpegException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

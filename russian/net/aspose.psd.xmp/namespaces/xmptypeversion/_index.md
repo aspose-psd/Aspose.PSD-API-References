@@ -1,11 +1,12 @@
 ---
-title: Namespaces.XmpTypeVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Версия XMP.
+title: "Namespaces.XmpTypeVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Версия XMP"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.xmp/namespaces/xmptypeversion/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeVersion field
 
 Версия XMP.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp/namespaces/xmptypeversion/
 public const string XmpTypeVersion;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

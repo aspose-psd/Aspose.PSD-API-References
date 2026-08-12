@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmyk
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColorHelper метод. Преобразование цветов ARGB в цвета CMYK.
+title: "CmykColorHelper.ToCmyk"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColorHelper. Преобразование цветов ARGB в цвета CMYK"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/cmykcolorhelper/tocmyk/
 ---
+{{< psd/tize >}}
 ## ToCmyk(int[]) {#tocmyk_3}
 
 Преобразование цветов ARGB в цвета CMYK.
@@ -16,17 +17,17 @@ public static int[] ToCmyk(int[] argbPixels)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| argbPixels | Int32[] | Цвета ARGB представлены в виде 32-битных целых чисел. |
+| argbPixels | Int32[] | ARGB‑цвета представлены в виде 32‑битных целочисленных значений. |
 
 ### Возвращаемое значение
 
-Цвета CMYK представлены в виде 32-битных целых значений.
+Цвета CMYK представлены в виде 32‑битных целочисленных значений.
 
-### Смотрите также
+### См. также
 
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,17 +41,17 @@ public static int ToCmyk(int argbPixel)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| argbPixel | Int32 | Цвет ARGB, представленный в виде 32-битного целого числа. |
+| argbPixel | Int32 | ARGB-цвет, представленный как 32-битное целочисленное значение. |
 
 ### Возвращаемое значение
 
-Цвет CMYK, представленный в виде 32-битного целого числа.
+Цвет CMYK представлен в виде 32‑битного целочисленного значения.
 
-### Смотрите также
+### См. также
 
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -68,14 +69,14 @@ public static int ToCmyk(Color pixel)
 
 ### Возвращаемое значение
 
-Цвет CMYK, представленный в виде 32-битного целого числа.
+Цвет CMYK представлен в виде 32‑битного целочисленного значения.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -89,17 +90,17 @@ public static int[] ToCmyk(Color[] pixels)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pixels | Color[] | Цвета ARGB. |
+| пиксели | Color[] | Цвета ARGB. |
 
 ### Возвращаемое значение
 
-Цвета CMYK представлены в виде 32-битных целых значений.
+Цвета CMYK представлены в виде 32‑битных целочисленных значений.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

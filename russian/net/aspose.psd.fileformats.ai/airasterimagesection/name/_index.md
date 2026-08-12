@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает имя растрового изображения.
+title: "AiRasterImageSection.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает имя растрового изображения."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
 Получает имя растрового изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя растрового изображения.
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

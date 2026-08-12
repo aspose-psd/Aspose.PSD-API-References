@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. ПолучаетPixelDataFormat определяется для 32 бит на пиксель с 8 битами для каждого компонента яркости синего красного и черного цветных компонентов.
+title: "PixelDataFormat.Ycck"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PixelDataFormat. Возвращает PixelDataFormat, определённый для 32‑битных пикселей с 8‑битами для каждого из компонентов luma, bluedifference, reddifference и black chroma."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-Получает[`PixelDataFormat`](../) определяется для 32 бит на пиксель с 8 битами для каждого компонента яркости, синего, красного и черного цветных компонентов.
+Возвращает [`PixelDataFormat`](../), определённый для 32‑битных пикселей с 8‑битами для каждого из компонентов luma, blue-difference, red-difference и black chroma.
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`PixelDataFormat`](../) определяется для 32 бит на пиксель с 8 битами для каждого компонента яркости, синего, красного и черного цветных компонентов.
+Элемент [`PixelDataFormat`](../), определённый для 32‑битных пикселей с 8‑битами для каждого из компонентов luma, blue-difference, red-difference и black chroma.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

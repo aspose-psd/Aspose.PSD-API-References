@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.MedianPointLocation
-second_title: Справочник по Aspose.PSD для .NET API
-description: IGradientTransparencyPoint свойство. Получает или задает положение срединной точки.
+title: "IGradientTransparencyPoint.MedianPointLocation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IGradientTransparencyPoint. Получает или задает расположение медианной точки. Диапазон значений 04096"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.MedianPointLocation property
 
-Получает или задает положение срединной точки.
+Получает или задает расположение медианной точки. Диапазон значений 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Расположение срединной точки.
+Расположение медианной точки.
 
-### Смотрите также
+### См. также
 
 * interface [IGradientTransparencyPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

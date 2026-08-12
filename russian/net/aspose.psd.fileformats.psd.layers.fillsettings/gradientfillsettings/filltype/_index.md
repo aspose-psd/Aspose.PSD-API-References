@@ -1,24 +1,25 @@
 ---
-title: GradientFillSettings.FillType
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Тип заливки
+title: "GradientFillSettings.FillType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Тип заливки"
 type: docs
-weight: 70
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-Тип заливки
+Тип заполнения.
 
 ```csharp
 public override FillType FillType { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

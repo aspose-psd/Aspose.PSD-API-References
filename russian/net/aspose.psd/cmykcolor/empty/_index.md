@@ -1,23 +1,24 @@
 ---
-title: CmykColor.Empty
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColor свойство. Получает пустой.
+title: "CmykColor.Empty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CmykColor. Получает пустое значение"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-Получает пустой.
+Получает пустое.
 
 ```csharp
 public static CmykColor Empty { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [CmykColor](../)
-* пространство имен [Aspose.PSD](../../cmykcolor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.SyncRoot
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList свойство. Получает объект который можно использовать для синхронизации доступа кICollection .
+title: "NonGenericList.SyncRoot"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericList. Возвращает объект, который может использоваться для синхронизации доступа к ICollection"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/nongenericlist/syncroot/
 ---
+{{< psd/tize >}}
 ## NonGenericList.SyncRoot property
 
-Получает объект, который можно использовать для синхронизации доступа кICollection .
+Возвращает объект, который может использоваться для синхронизации доступа к ICollection.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

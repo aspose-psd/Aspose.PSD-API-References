@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.Quality
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или устанавливает качество изображения.
+title: "JpegOptions.Quality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает качество изображения"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/quality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Quality property
 
-Получает или устанавливает качество изображения.
+Получает или задает качество изображения.
 
 ```csharp
 public int Quality { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AiImage.SetPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage метод. Задает палитру изображения.
+title: "AiImage.SetPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод AiImage. Устанавливает палитру изображения"
 type: docs
-weight: 170
+weight: 200
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
-Задает палитру изображения.
+Устанавливает палитру изображения.
 
 ```csharp
 public override void SetPalette(IColorPalette palette, bool updateColors)
@@ -16,20 +17,20 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| palette | IColorPalette | Палитра для установки. |
-| updateColors | Boolean | если установлено`истинный` цвета будут обновлены в соответствии с новой палитрой; в противном случае цветовые индексы остаются неизменными. Обратите внимание, что неизмененные индексы могут привести к сбою изображения при загрузке, если некоторые индексы не имеют соответствующих записей палитры. |
+| палитра | IColorPalette | Палитра для установки. |
+| updateColors | Boolean | Если установить в `true`, цвета будут обновлены в соответствии с новой палитрой; в противном случае индексы цветов останутся неизменными. Обратите внимание, что неизменные индексы могут привести к сбою изображения при загрузке, если некоторые индексы не имеют соответствующих записей в палитре. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NotImplementedException | Не реализована |
+| NotImplementedException | Не реализовано |
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

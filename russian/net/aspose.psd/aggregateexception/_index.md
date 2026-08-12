@@ -1,22 +1,23 @@
 ---
-title: Class AggregateException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.AggregateException сорт. Объединяет несколько исключений.
+title: "Класс AggregateException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.AggregateException. Сводит несколько исключений"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
-Объединяет несколько исключений.
+Агрегирует несколько исключений.
 
 ```csharp
 public class AggregateException : Exception
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

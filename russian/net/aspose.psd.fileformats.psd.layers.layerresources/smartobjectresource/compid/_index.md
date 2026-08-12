@@ -1,24 +1,25 @@
 ---
-title: SmartObjectResource.CompId
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает идентификатор текущей выбранной композиции для дочернего документа который будет равен 1 если ничего не выбрано. Композиции  это композиции макета страницы которые могут создавать дизайнеры. Используя композиции слоев вы можете создавать управлять и просматривать несколько версий макета в одном файле Adobe Photoshop. Композиция слоев  это снимок состояния панели Слои. Композиции слоев сохраняют три типа параметров слоя но это свойство получает идентификатор выбора композиции слоев для слоя смартобъекта в файле PSD. Композиции слоев в смартобъектах
+title: "SmartObjectResource.CompId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает идентификатор текущего выбранного компа для дочернего документа, который будет 1, если ничего не выбрано. Компы — это композиции макета страницы, которые могут создавать дизайнеры. Используя компы слоёв, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe Photoshop. Комп слоя — это снимок состояния панели Layers. Компы слоёв сохраняют три типа параметров слоя, но это свойство получает идентификатор выбора компа слоя умного объекта в файле PSD. Компы слоёв в умных объектах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-Получает или задает идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Композиции — это композиции макета страницы, которые могут создавать дизайнеры. Используя композиции слоев, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe® Photoshop®. Композиция слоев — это снимок состояния панели «Слои». Композиции слоев сохраняют три типа параметров слоя, но это свойство получает идентификатор выбора композиции слоев для слоя смарт-объекта в файле PSD. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Получает или задает идентификатор текущего выбранного компа для дочернего документа, который будет -1, если ничего не выбрано. Компы — это композиции макета страницы, которые дизайнеры могут создавать. Используя layer comps, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe Photoshop. Компа слоя — это снимок состояния панели Layers. Layer comps сохраняют три типа параметров слоя, но это свойство получает идентификатор выбора Layer Comp для слоя Smart Object в файле PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор текущей выбранной композиции для дочернего документа в изображении PSD, который будет равен -1, если ничего не выбрано.
+Идентификатор текущего выбранного компа для дочернего документа в изображении PSD, который будет -1, если ничего не выбрано.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурсов SoLEResource, SmartObjectResource и PlacedResource.
 
@@ -114,15 +115,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Эти значения также должны быть изменены в PlLdResource (с указанным UniqueId)
-    // и некоторые из них должны соответствовать подчеркиванию смарт-объекта в LinkDataSource
+    // Эти значения также следует изменить в PlLdResource (с указанным UniqueId)
+    // и некоторые из них должны соответствовать подлежащему смарт‑объекту в LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
     resource.Perspective = (double)newValues[8]; // 0.123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Этот уникальный идентификатор должен быть изменен в ссылках, если таковые имеются
+    // Этот уникальный Id следует изменить в ссылках, если они есть
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,16 +152,17 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Будьте осторожны с некоторыми параметрами: сохраненное изображение может стать нечитаемым для Adobe® Photoshop®
+    // Будьте осторожны с некоторыми параметрами: сохранённое изображение может стать нечитаемым в Adobe® Photoshop®
     ////resource.UOrder = 6;
-    ////ресурс.VOrder = 9;
+    ////resource.VOrder = 9;
 
-    // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-    // или изменить подчеркивающий смарт-объект на векторный тип
+    // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+    // или измените подлежащий смарт‑объект на векторный тип
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Должен быть действительный PlLdResource с этим уникальным идентификатором
-    ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Должен существовать действительный PlLdResource с этим уникальным Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -328,7 +330,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ```csharp
 [C#]
 
-// В этом примере показано, как получить или установить свойства данных слоя смарт-объекта файла PSD.
+// Этот пример показывает, как получить или установить свойства данных слоя смарт‑объекта файла PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +564,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Эти значения также должны быть изменены в PlLdResource (с указанным UniqueId)
-                // и некоторые из них должны соответствовать подчеркиванию смарт-объекта в LinkDataSource
+                // Эти значения также следует изменить в PlLdResource (с указанным UniqueId)
+                // и некоторые из них должны соответствовать подлежащему смарт‑объекту в LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,19 +610,20 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Этот уникальный идентификатор должен быть изменен в ссылках, если таковые имеются
+                // Этот уникальный Id следует изменить в ссылках, если они есть
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым для Adobe® Photoshop®
+                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым в Adobe® Photoshop®
                 ////resource.UOrder = 6;
-                ////ресурс.VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-                // или изменить подчеркивающий смарт-объект на векторный тип
+                // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+                // или измените подлежащий смарт‑объект на векторный тип
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Должен быть действительный PlLdResource с этим уникальным идентификатором
-                ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Должен существовать действительный PlLdResource с этим уникальным Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -632,10 +635,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

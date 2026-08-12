@@ -1,27 +1,28 @@
 ---
-title: TiffExifIfd.HasValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffExifIfd свойство. Получает значение указывающее имеет ли этот экземпляр значение.
+title: "TiffExifIfd.HasValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffExifIfd. Получает значение, указывающее, содержит ли этот экземпляр значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.tiff/tiffexififd/hasvalue/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.HasValue property
 
-Получает значение, указывающее, имеет ли этот экземпляр значение.
+Возвращает значение, указывающее, имеет ли этот экземпляр значение.
 
 ```csharp
 public bool HasValue { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр имеет значение; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр имеет значение; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [TiffExifIfd](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

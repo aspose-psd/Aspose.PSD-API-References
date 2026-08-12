@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathGradientBrushBase свойство. Получает или задает точку фокусировки для спада градиента.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PathGradientBrushBase. Получает или задает точку фокуса для падения градиента"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-Получает или задает точку фокусировки для спада градиента.
+Получает или задает точку фокуса для падения градиента.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`PointF`](../../../aspose.psd/pointf/) которая представляет собой точку фокусировки для спада градиента.
+Объект [`PointF`](../../../aspose.psd/pointf/), представляющий точку фокуса для падения градиента.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

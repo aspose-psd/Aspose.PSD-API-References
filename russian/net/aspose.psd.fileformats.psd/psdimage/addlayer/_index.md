@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет слой.
+title: "PsdImage.AddLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой"
 type: docs
-weight: 370
+weight: 390
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Добавляет слой.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layer | Layer | Слой. |
+| слой | Слой | Слой. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно рисовать на вновь созданном слое, если в Aspose.PSD используется версия простого конструктора.
+В следующем примере показано, как можно рисовать на только что созданном слое, если используется простая версия конструктора в Aspose.PSD
 
 ```csharp
 [C#]
@@ -39,21 +40,21 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // рисуем прямоугольник инструментом Перо
+    // нарисуйте прямоугольник с помощью инструмента Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // рисуем еще один прямоугольник сплошной кистью синего цвета
+    // нарисуйте другой прямоугольник с помощью Solid Brush синего цвета
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

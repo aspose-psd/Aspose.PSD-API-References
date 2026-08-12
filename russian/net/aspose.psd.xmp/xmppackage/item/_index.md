@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Item
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage свойство. Получает или задаетObject с указанным ключом.
+title: "XmpPackage.Item"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpPackage. Получает или задает объект с указанным ключом"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-Получает или задаетObject с указанным ключом.
+Получает или задает объект с указанным ключом.
 
 ```csharp
 public virtual object this[string key] { get; set; }
@@ -16,20 +17,20 @@ public virtual object this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Ключ, определяющий значение. |
+| ключ | Ключ, который идентифицирует значение. |
 
 ### Возвращаемое значение
 
-ВозвращаетObject с указанным ключом.
+Возвращает объект с указанным ключом.
 
-### Стоимость имущества
+### Property Value
 
-Object .
+Объект.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

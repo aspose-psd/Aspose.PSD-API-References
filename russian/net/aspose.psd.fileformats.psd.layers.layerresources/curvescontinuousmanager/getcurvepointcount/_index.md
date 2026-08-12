@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.GetCurvePointCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvesContinuousManager метод. Получает количество точек кривой.
+title: "CurvesContinuousManager.GetCurvePointCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CurvesContinuousManager. Получает количество точек кривой"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointCount method
 
 Получает количество точек кривой.
@@ -22,10 +23,10 @@ public int GetCurvePointCount(int channelIndex)
 
 Количество точек кривой в канале
 
-### Смотрите также
+### См. также
 
 * class [CurvesContinuousManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

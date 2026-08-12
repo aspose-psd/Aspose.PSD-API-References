@@ -1,14 +1,15 @@
 ---
-title: SizeF.SizeF
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF строитель. Инициализирует новый экземплярSizeF структура из указанногоSizeF .
+title: "SizeF.SizeF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор SizeF. Инициализирует новый экземпляр структуры SizeF из указанного SizeF"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-Инициализирует новый экземпляр[`SizeF`](../) структура из указанного[`SizeF`](../) .
+Инициализирует новый экземпляр структуры [`SizeF`](../) из указанного [`SizeF`](../).
 
 ```csharp
 public SizeF(SizeF size)
@@ -16,19 +17,19 @@ public SizeF(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | [`SizeF`](../) из которого создать новый[`SizeF`](../). |
+| size | SizeF | [`SizeF`](../), из которого создаётся новый [`SizeF`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-Инициализирует новый экземпляр[`SizeF`](../) структура из указанного[`PointF`](../../pointf/) .
+Инициализирует новый экземпляр структуры [`SizeF`](../) из указанного [`PointF`](../../pointf/).
 
 ```csharp
 public SizeF(PointF point)
@@ -36,20 +37,20 @@ public SizeF(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) из которого инициализировать это[`SizeF`](../). |
+| point | PointF | [`PointF`](../../pointf/) из которого инициализируется этот [`SizeF`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-Инициализирует новый экземпляр[`SizeF`](../) структура из указанных размеров.
+Инициализирует новый экземпляр структуры [`SizeF`](../) из указанных размеров.
 
 ```csharp
 public SizeF(float width, float height)
@@ -57,13 +58,13 @@ public SizeF(float width, float height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Single | Компонент ширины нового[`SizeF`](../). |
-| height | Single | Компонент высоты нового[`SizeF`](../). |
+| width | Single | Компонент ширины нового [`SizeF`](../). |
+| height | Single | Компонент высоты нового [`SizeF`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

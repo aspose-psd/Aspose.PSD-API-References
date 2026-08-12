@@ -1,11 +1,12 @@
 ---
-title: Font.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает версию шрифта.
+title: "Font.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Font свойство. Получает или задает версию шрифта"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
 Получает или задает версию шрифта.
@@ -14,18 +15,18 @@ url: /ru/net/aspose.psd.xmp.types.complex.font/font/version/
 public string Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия шрифта.
 
-### Примеры
+## Примеры
 
-/version для шрифтов Type1 nameId 5 для Apple True Type и OpenType /CIDFontVersion для шрифтов CID Пустая строка для растровых шрифтов
+/version для шрифтов Type1 nameId 5 для Apple True Type и OpenType /CIDFontVersion для CID шрифтов Пустая строка для растровых шрифтов
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

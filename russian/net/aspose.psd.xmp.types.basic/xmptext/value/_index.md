@@ -1,11 +1,12 @@
 ---
-title: XmpText.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpText свойство. Получает или задает текстовое значение.
+title: "XmpText.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpText. Получает или задает текстовое значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
 Получает или задает текстовое значение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.basic/xmptext/value/
 public string Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Текстовое значение.
+Значение текста.
 
-### Смотрите также
+### См. также
 
 * class [XmpText](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

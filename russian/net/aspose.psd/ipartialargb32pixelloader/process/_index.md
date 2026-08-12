@@ -1,11 +1,12 @@
 ---
-title: IPartialArgb32PixelLoader.Process
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPartialArgb32PixelLoader метод. Обрабатывает загруженные пиксели.
+title: "IPartialArgb32PixelLoader.Process"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IPartialArgb32PixelLoader. Обрабатывает загруженные пиксели"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/ipartialargb32pixelloader/process/
 ---
+{{< psd/tize >}}
 ## IPartialArgb32PixelLoader.Process method
 
 Обрабатывает загруженные пиксели.
@@ -17,16 +18,16 @@ public void Process(Rectangle pixelsRectangle, int[] pixels, Point start, Point 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pixelsRectangle | Rectangle | Прямоугольник пикселей. |
-| pixels | Int32[] | 32-битные пиксели ARGB. |
-| start | Point | Начальная точка пикселей. Если не равно (слева, вверху), это означает, что это не полный прямоугольник. |
-| end | Point | Конечная точка пикселей. Если не равно (справа, снизу), это означает, что это не полный прямоугольник. |
+| пиксели | Int32[] | 32‑битные пиксели ARGB. |
+| start | Point | Точка начала пикселей. Если она не равна (left,top), это означает, что у нас не полный прямоугольник. |
+| конец | Point | Точка конца пикселей. Если она не равна (right,bottom), это означает, что у нас не полный прямоугольник. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb32PixelLoader](../)
-* пространство имен [Aspose.PSD](../../ipartialargb32pixelloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

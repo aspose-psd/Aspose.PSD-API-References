@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffDataType метод. ВозвращаетString который представляет этот экземпляр.
+title: "TiffDataType.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffDataType. Возвращает String, представляющий этот экземпляр"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/tostring/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

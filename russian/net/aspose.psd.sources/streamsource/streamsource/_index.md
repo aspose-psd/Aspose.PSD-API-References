@@ -1,14 +1,15 @@
 ---
-title: StreamSource.StreamSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamSource строитель. Инициализирует новый экземплярStreamSource класс.
+title: "StreamSource.StreamSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор StreamSource. Инициализирует новый экземпляр класса StreamSource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.sources/streamsource/streamsource/
 ---
+{{< psd/tize >}}
 ## StreamSource(Stream) {#constructor}
 
-Инициализирует новый экземпляр[`StreamSource`](../) класс.
+Инициализирует новый экземпляр класса [`StreamSource`](../).
 
 ```csharp
 public StreamSource(Stream stream)
@@ -16,66 +17,66 @@ public StreamSource(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток открыть. |
+| stream | Stream | Поток для открытия. |
 
-### Примеры
+## Примеры
 
-В этом примере показано, как загрузить информацию о пикселях в массив цвета типа, манипулировать массивом и установить его обратно в изображение. Для выполнения этих операций в этом примере создается новый файл изображения (в формате PSD) с использованием объекта MemoryStream.
+В этом примере показано, как загрузить информацию о пикселях в массив типа Color, изменить массив и установить его обратно в изображение. Для выполнения этих операций пример создаёт новый файл Image (в формате PSD) с использованием объекта MemoryStream.
 
 ```csharp
 [C#]
 
-//Создаем экземпляр MemoryStream
+//Создайте экземпляр MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Создаем экземпляр PsdOptions и устанавливаем его различные свойства, включая свойство Source
+    //Создайте экземпляр PsdOptions и задайте его различные свойства, включая свойство Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Создаем экземпляр изображения
+    //Создайте экземпляр Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Получить пиксели изображения, указав область в качестве границы изображения
+        //Получите пиксели изображения, указав область как границу изображения
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // Цикл по массиву и установка цвета альтернативного индексированного пикселя
+        //Пройдите по Array и установите цвет альтернативного индексированного пикселя
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Устанавливаем желтый цвет индексированного пикселя
+                //Установите цвет индексированного пикселя в желтый
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Устанавливаем синий цвет индексированного пикселя
+                //Установите цвет индексированного пикселя в синий
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // Применяем изменения пикселей к изображению
+        //Примените изменения пикселей к изображению
         image.SavePixels(image.Bounds, pixels);
 
-        // сохранить все изменения.
+        // Сохраните все изменения.
         image.Save();
     }
 
-    //Запись потока памяти в файл
+    //Запишите MemoryStream в файл
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StreamSource](../)
-* пространство имен [Aspose.PSD.Sources](../../streamsource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamSource(Stream, bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`StreamSource`](../) класс.
+Инициализирует новый экземпляр класса [`StreamSource`](../).
 
 ```csharp
 public StreamSource(Stream stream, bool disposeStream)
@@ -83,37 +84,37 @@ public StreamSource(Stream stream, bool disposeStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток открыть. |
-| disposeStream | Boolean | если установлено`истинный` поток будет удален. |
+| stream | Stream | Поток для открытия. |
+| disposeStream | Boolean | если установить `true`, поток будет освобождён. |
 
-### Примеры
+## Примеры
 
-В этом примере демонстрируется использование System.IO.Stream для создания нового файла изображения.
+Этот пример демонстрирует использование System.IO.Stream для создания нового файла Image.
 
 ```csharp
 [C#]
 
-//Создает экземпляр PsdOptions и устанавливает его различные свойства
+//Создаёт экземпляр PsdOptions и задаёт его различные свойства.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Создаем экземпляр System.IO.Stream
+//Создайте экземпляр System.IO.Stream.
 System.IO.Stream stream = new System.IO.FileStream(@"C:\temp\sample.psd", System.IO.FileMode.Create);
 
-//Определяем исходное свойство для экземпляра PsdOptions
-//Второй логический параметр определяет, удаляется ли поток после выхода из области видимости
+//Определите свойство source для экземпляра PsdOptions.
+//Второй логический параметр определяет, будет ли Stream освобождён после выхода из области видимости.
 psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream, true);
 
-//Создает экземпляр Image и вызывает метод Create с PsdOptions в качестве параметра для инициализации объекта Image   
+//Создаёт экземпляр Image и вызывает метод Create, передавая PsdOptions в качестве параметра, для инициализации объекта Image.
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // делаем некоторую обработку изображения
+    //выполнить некоторую обработку изображения
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StreamSource](../)
-* пространство имен [Aspose.PSD.Sources](../../streamsource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

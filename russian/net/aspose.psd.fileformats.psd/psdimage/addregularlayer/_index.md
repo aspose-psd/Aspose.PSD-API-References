@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет новый обычный слой.
+title: "PsdImage.AddRegularLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет новый обычный слой"
 type: docs
-weight: 410
+weight: 440
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 Добавляет новый обычный слой.
@@ -18,9 +19,9 @@ public Layer AddRegularLayer()
 
 Создан обычный слой.
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как добавить только что сгенерированный обычный слой в PsdImage.
+Следующий код показывает, как добавить только что созданный обычный слой в PsdImage.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // Подготовка двух массивов целых чисел
+    // Подготовка двух массивов int
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -66,11 +67,11 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

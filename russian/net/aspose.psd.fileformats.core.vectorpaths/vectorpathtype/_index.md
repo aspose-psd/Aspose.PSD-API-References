@@ -1,36 +1,37 @@
 ---
-title: Enum VectorPathType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType перечисление. Тип векторного пути в соответствии со спецификацией формата PSD
+title: "Перечисление VectorPathType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType. Тип векторного пути согласно спецификации формата PSD"
 type: docs
-weight: 1420
+weight: 1430
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-Тип векторного пути в соответствии со спецификацией формата PSD
+Тип векторного пути согласно спецификации формата PSD
 
 ```csharp
 public enum VectorPathType : short
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | ClosedSubpathLengthRecord | `0` | Запись длины закрытого подпути |
-| ClosedSubpathBezierKnotLinked | `1` | Замкнутый узел Безье подпути linked |
-| ClosedSubpathBezierKnotUnlinked | `2` | Замкнутый узел Безье подпути unlinked |
+| ClosedSubpathBezierKnotLinked | `1` | Связанная безье‑узел закрытого подпути |
+| ClosedSubpathBezierKnotUnlinked | `2` | Несвязанная безье‑узел закрытого подпути |
 | OpenSubpathLengthRecord | `3` | Запись длины открытого подпути |
-| OpenSubpathBezierKnotLinked | `4` | Узел Безье с открытым подпутем linked |
-| OpenSubpathBezierKnotUnlinked | `5` | Узел Безье открытого подпути unlinked |
-| PathFillRuleRecord | `6` | Правило заполнения пути record |
+| OpenSubpathBezierKnotLinked | `4` | Открытый подпуть безье‑узел связан |
+| OpenSubpathBezierKnotUnlinked | `5` | Открытый подпуть безье‑узел не связан |
+| PathFillRuleRecord | `6` | Запись правила заполнения пути |
 | ClipboardRecord | `7` | Запись буфера обмена |
-| InitialFillRuleRecord | `8` | Начальное правило заполнения record |
+| InitialFillRuleRecord | `8` | Запись начального правила заполнения |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

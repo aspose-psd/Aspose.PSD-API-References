@@ -1,11 +1,12 @@
 ---
-title: Class DitheringMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Dithering.DitheringMode сорт. Настройки дизеринга применяемые к изображению при сохранении.
+title: "Класс DitheringMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Dithering.DitheringMode класс. Настройки дизеринга, применяемые к изображению при сохранении"
 type: docs
-weight: 760
+weight: 770
 url: /ru/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
 Настройки дизеринга, применяемые к изображению при сохранении.
@@ -20,17 +21,17 @@ public class DitheringMode
 | --- | --- |
 | [DitheringMode](ditheringmode/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Коэффициент дискретизации сглаженного изображения. |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Пользовательская палитра для сглаживания. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Коэффициент дискретизации дизерированного изображения. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Пользовательская палитра для дизеринга. |
 | [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Выбор алгоритма дизеринга. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileLength
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или устанавливает длину тайла.
+title: "TiffOptions.TileLength"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает длину плитки"
 type: docs
-weight: 530
+weight: 540
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tilelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileLength property
 
-Получает или устанавливает длину тайла.
+Получает или задает длину плитки.
 
 ```csharp
 public uint TileLength { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

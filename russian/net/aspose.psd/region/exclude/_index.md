@@ -1,14 +1,15 @@
 ---
-title: Region.Exclude
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Обновляет этоRegion содержать только ту часть его внутренней части которая не пересекается с указаннымRectangleFструктура.
+title: "Region.Exclude"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Обновляет этот Region, оставляя только часть его внутреннего пространства, не пересекающуюся с указанной структурой RectangleF."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-Обновляет это[`Region`](../) содержать только ту часть его внутренней части, которая не пересекается с указанным[`RectangleF`](../../rectanglef/)структура.
+Обновляет этот [`Region`](../), оставляя только часть его внутреннего пространства, не пересекающуюся с указанной структурой [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Exclude(RectangleF rect)
@@ -16,20 +17,20 @@ public void Exclude(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) структуру, чтобы исключить из этого[`Region`](../). |
+| rect | RectangleF | Структура [`RectangleF`](../../rectanglef/), которую следует исключить из этого [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-Обновляет это[`Region`](../) содержать только ту часть его внутренней части, которая не пересекается с указанным[`Rectangle`](../../rectangle/)структура.
+Обновляет этот [`Region`](../), оставляя только часть его внутреннего пространства, не пересекающуюся с указанной структурой [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Exclude(Rectangle rect)
@@ -37,20 +38,20 @@ public void Exclude(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) структуру, чтобы исключить из этого[`Region`](../). |
+| rect | Rectangle | Структура [`Rectangle`](../../rectangle/), которую следует исключить из этого [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-Обновляет это[`Region`](../) содержать только ту часть его внутренней части, которая не пересекается с указанным[`GraphicsPath`](../../graphicspath/) .
+Обновляет этот [`Region`](../), оставляя только часть его внутреннего пространства, не пересекающуюся с указанным [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Exclude(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Exclude(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) исключить из этого[`Region`](../). |
+| path | GraphicsPath | Объект [`GraphicsPath`](../../graphicspath/), который следует исключить из этого [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *path* равно нулю. |
+| ArgumentNullException | *path* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-Обновляет это[`Region`](../) содержать только ту часть его внутренней части, которая не пересекается с указанным[`Region`](../) .
+Обновляет этот [`Region`](../), чтобы он содержал только ту часть своего внутреннего пространства, которая не пересекается с указанным [`Region`](../).
 
 ```csharp
 public void Exclude(Region region)
@@ -85,18 +86,18 @@ public void Exclude(Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | [`Region`](../) исключить из этого[`Region`](../). |
+| region | Region | [`Region`](../), который следует исключить из этого [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *region* равно нулю. |
+| ArgumentNullException | *region* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

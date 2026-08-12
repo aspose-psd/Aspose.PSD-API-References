@@ -1,32 +1,33 @@
 ---
-title: Enum RenderErrorCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.RenderErrorCode перечисление. Представляет возможные отсутствующие разделы в файле САПР
+title: "Перечисление RenderErrorCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.ImageOptions.RenderErrorCode. Представляет возможные отсутствующие секции в файле CAD"
 type: docs
-weight: 4920
+weight: 5410
 url: /ru/net/aspose.psd.imageoptions/rendererrorcode/
 ---
+{{< psd/tize >}}
 ## RenderErrorCode enumeration
 
-Представляет возможные отсутствующие разделы в файле САПР
+Представляет возможные отсутствующие секции в файле CAD.
 
 ```csharp
 public enum RenderErrorCode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| MissingHeader | `0` | Заголовок отсутствует |
-| MissingLayouts | `1` | Информация о макетах отсутствует |
-| MissingBlocks | `2` | Информация о блоке отсутствует |
-| MissingDimensionStyles | `3` | Отсутствует информация о размерных стилях |
-| MissingStyles | `4` | Информация о стилях отсутствует |
+| MissingHeader | `0` | Отсутствует заголовок |
+| MissingLayouts | `1` | Отсутствует информация о макетах |
+| MissingBlocks | `2` | Отсутствует информация о блоке |
+| MissingDimensionStyles | `3` | Отсутствует информация о стилях размеров |
+| MissingStyles | `4` | Отсутствует информация о стилях |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

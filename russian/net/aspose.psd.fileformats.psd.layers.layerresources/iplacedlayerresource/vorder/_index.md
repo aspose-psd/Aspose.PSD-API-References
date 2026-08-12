@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VOrder
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает значение V порядка размещенного слоя в файле PSD.
+title: "IPlacedLayerResource.VOrder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IPlacedLayerResource свойство. Получает или задает значение V order размещённого слоя в файле PSD"
 type: docs
 weight: 230
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VOrder property
 
-Получает или задает значение V порядка размещенного слоя в файле PSD.
+Получает или задает значение порядка V размещённого слоя в файле PSD.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение порядка V размещенного слоя.
+Значение V‑порядка размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

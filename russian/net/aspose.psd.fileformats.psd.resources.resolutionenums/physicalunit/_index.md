@@ -1,32 +1,33 @@
 ---
-title: Enum PhysicalUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit перечисление. Физический блок resoulutionInfo enum
+title: "Перечисление PhysicalUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. Разрешающая информация физическая единица enum"
 type: docs
-weight: 3860
+weight: 4330
 url: /ru/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-Физический блок resoulutionInfo enum
+Перечисление физических единиц измерения resoulutionInfo
 
 ```csharp
 public enum PhysicalUnit
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Inches | `1` | Дюймы |
 | Centimeters | `2` | Сантиметры |
-| Points | `3` | Очки |
-| Picas | `4` | Устройство Picas |
-| Columns | `5` | Столбцы |
+| Points | `3` | Точки |
+| Picas | `4` | Единица пика |
+| Columns | `5` | Колонки |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

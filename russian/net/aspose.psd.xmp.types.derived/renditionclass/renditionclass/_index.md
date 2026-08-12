@@ -1,30 +1,31 @@
 ---
-title: RenditionClass.RenditionClass
-second_title: Справочник по Aspose.PSD для .NET API
-description: RenditionClass строитель. Инициализирует новый экземплярRenditionClass класс.
+title: "RenditionClass.RenditionClass"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор RenditionClass. Инициализирует новый экземпляр класса RenditionClass"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/renditionclass/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass() {#constructor}
 
-Инициализирует новый экземпляр[`RenditionClass`](../) класс.
+Инициализирует новый экземпляр класса [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RenditionClass](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RenditionClass(string, string) {#constructor_1}
 
-Инициализирует новый экземпляр[`RenditionClass`](../) класс.
+Инициализирует новый экземпляр класса [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass(string token, string value)
@@ -32,13 +33,13 @@ public RenditionClass(string token, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| token | String | Жетон. |
-| value | String | Значение. |
+| токен | String | Токен. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [RenditionClass](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

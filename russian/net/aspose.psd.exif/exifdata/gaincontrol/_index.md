@@ -1,11 +1,12 @@
 ---
-title: ExifData.GainControl
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает степень общей регулировки усиления изображения.
+title: "ExifData.GainControl"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает степень общей регулировки усиления изображения"
 type: docs
 weight: 340
 url: /ru/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
 Получает или задает степень общей регулировки усиления изображения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/gaincontrol/
 public ExifGainControl GainControl { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Степень регулировки общего усиления изображения.
+Степень общей регулировки усиления изображения.
 
-### Смотрите также
+### См. также
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

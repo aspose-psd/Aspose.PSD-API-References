@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Location
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle свойство. Получает или задает координаты левого верхнего угла этогоRectangleструктура.
+title: "Rectangle.Location"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rectangle. Получает или задает координаты верхнего левого угла этой структуры Rectangle."
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/rectangle/location/
 ---
+{{< psd/tize >}}
 ## Rectangle.Location property
 
-Получает или задает координаты левого верхнего угла этого[`Rectangle`](../)структура.
+Получает или задает координаты верхнего левого угла этой [`Rectangle`](../) структуры.
 
 ```csharp
 public Point Location { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`Point`](../../point/) который представляет верхний левый угол этого[`Rectangle`](../) состав.
+Объект [`Point`](../../point/), представляющий верхний левый угол этой [`Rectangle`](../) структуры.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum FontBaseline
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.FontBaseline перечисление. Это базовая линия шрифта.
+title: "Перечисление FontBaseline"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.FontBaseline enum. Это базовая линия шрифта"
 type: docs
-weight: 1630
+weight: 1670
 url: /ru/net/aspose.psd.fileformats.psd/fontbaseline/
 ---
+{{< psd/tize >}}
 ## FontBaseline enumeration
 
 Это базовая линия шрифта.
@@ -14,17 +15,17 @@ url: /ru/net/aspose.psd.fileformats.psd/fontbaseline/
 public enum FontBaseline
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Базовое значение отсутствует |
-| Superscript | `1` | Базовый уровень надстрочного индекса. |
-| Subscript | `2` | Базовый уровень нижнего индекса. |
+| None | `0` | Нет значения базовой линии |
+| Superscript | `1` | Базовая линия надстрочного текста. |
+| Subscript | `2` | Базовая линия подстрочного текста. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

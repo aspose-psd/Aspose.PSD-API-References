@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает версию размещенного слоя в файле PSD обычно 3.
+title: "PlacedResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает версию размещённого слоя в файле PSD, обычно 3"
 type: docs
-weight: 210
+weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-Получает версию размещенного слоя в файле PSD, обычно 3.
+Получает версию размещённого слоя в файле PSD, обычно 3.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Версия размещенного слоя.
+Версия размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

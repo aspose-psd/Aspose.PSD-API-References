@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Black
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantCmyk свойство. Получает или задает значение черного компонента.
+title: "ColorantCmyk.Black"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantCmyk. Получает или задает значение черного компонента"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Black property
 
 Получает или задает значение черного компонента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 public float Black { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение черного компонента.
+Значение чёрного компонента.
 
-### Смотрите также
+### См. также
 
 * class [ColorantCmyk](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

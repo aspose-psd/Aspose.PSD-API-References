@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.TrackingValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolStyleInfo свойство. Получает или задает значение отслеживания.
+title: "TypeToolStyleInfo.TrackingValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolStyleInfo. Возвращает или задает значение трекинга"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.TrackingValue property
 
-Получает или задает значение отслеживания.
+Получает или задает значение трекинга.
 
 ```csharp
 public int TrackingValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение отслеживания.
+Значение трекинга.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolStyleInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BritResource.MeanValueForBrightnessAndContrast
-second_title: Справочник по Aspose.PSD для .NET API
-description: BritResource свойство. Получает или задает среднее значение яркости и контрастности.
+title: "BritResource.MeanValueForBrightnessAndContrast"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BritResource. Получает или задает среднее значение яркости и контраста"
 type: docs
-weight: 70
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## BritResource.MeanValueForBrightnessAndContrast property
 
-Получает или задает среднее значение яркости и контрастности.
+Получает или задает среднее значение яркости и контраста.
 
 ```csharp
 public short MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Среднее значение яркости и контрастности.
 
-### Смотрите также
+### См. также
 
 * class [BritResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

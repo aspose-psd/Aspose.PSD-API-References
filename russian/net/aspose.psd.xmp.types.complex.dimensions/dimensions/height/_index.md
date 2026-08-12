@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: Dimensions свойство. Получает или задает высоту.
+title: "Dimensions.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Dimensions. Получает или задает высоту"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
 Получает или задает высоту.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 public float Height { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота.
 
@@ -24,10 +25,10 @@ public float Height { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | value;Высота не может быть меньше нуля |
 
-### Смотрите также
+### См. также
 
 * class [Dimensions](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

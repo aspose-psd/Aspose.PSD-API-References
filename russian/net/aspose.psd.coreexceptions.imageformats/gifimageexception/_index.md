@@ -1,14 +1,15 @@
 ---
-title: Class GifImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.GifImageException сорт. Исключение Gifизображения.
+title: "Класс GifImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.CoreExceptions.ImageFormats.GifImageException. Исключение изображения Gif"
 type: docs
 weight: 520
 url: /ru/net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException class
 
-Исключение Gif-изображения.
+Исключение изображения GIF.
 
 ```csharp
 public class GifImageException : ImageException
@@ -18,13 +19,13 @@ public class GifImageException : ImageException
 
 | Имя | Описание |
 | --- | --- |
-| [GifImageException](gifimageexception/#constructor)(string) | Инициализирует новый экземпляр`GifImageException` класс. |
-| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`GifImageException` класс. |
+| [GifImageException](gifimageexception/#constructor)(string) | Инициализирует новый экземпляр класса `GifImageException`. |
+| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `GifImageException`. |
 
-### Смотрите также
+### См. также
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

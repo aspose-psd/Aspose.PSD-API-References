@@ -1,14 +1,15 @@
 ---
-title: Class FxrpResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource сорт. Класс FxrpResource. Контрольная точка layer
+title: "Класс FxrpResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource класс. Класс FxrpResource. Точка привязки слоя"
 type: docs
-weight: 2490
+weight: 2750
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource class
 
-Класс FxrpResource. Контрольная точка layer
+Класс FxrpResource. Точка привязки слоя
 
 ```csharp
 public class FxrpResource : LayerResource
@@ -18,38 +19,38 @@ public class FxrpResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [FxrpResource](fxrpresource/#constructor)() | Инициализирует новый экземпляр`FxrpResource` класс. |
-| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр`FxrpResource` class. С пользовательским или неизвестным значением |
-| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Инициализирует новый экземпляр`FxrpResource` класс. |
+| [FxrpResource](fxrpresource/#constructor)() | Инициализирует новый экземпляр класса `FxrpResource`. |
+| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `FxrpResource`. С пользовательским или неизвестным значением |
+| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Инициализирует новый экземпляр класса `FxrpResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/) { get; } | Получает подпись. |
-| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Получает или задает x контрольной точки |
-| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Получает или задает y контрольной точки |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
+| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Получает или задает значение x точки привязки |
+| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Получает или задает координату y опорной точки |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/)(StreamContainer, int) | Сохраняет в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

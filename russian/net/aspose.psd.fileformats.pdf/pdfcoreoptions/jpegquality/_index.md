@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.JpegQuality
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfCoreOptions свойство. Определяет качество сжатия изображений JPEG если используется сжатие JPEG. Значение по умолчанию 95.
+title: "PdfCoreOptions.JpegQuality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PdfCoreOptions. Указывает качество JPEG‑сжатия для изображений, если используется JPEG‑сжатие. По умолчанию 95"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.JpegQuality property
 
-Определяет качество сжатия изображений JPEG (если используется сжатие JPEG). Значение по умолчанию: 95.
+Указывает качество JPEG‑сжатия для изображений (если используется JPEG‑сжатие). По умолчанию 95.
 
 ```csharp
 public int JpegQuality { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfCoreOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterCachedImage свойство. Получает значение указывающее кэшируются ли в данный момент данные изображения.
+title: "RasterCachedImage.IsCached"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterCachedImage. Возвращает значение, указывающее, кэшируются ли данные изображения в данный момент"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
 Получает значение, указывающее, кэшируются ли в данный момент данные изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/rastercachedimage/iscached/
 public override bool IsCached { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если данные изображения кэшируются; в противном случае,`ЛОЖЬ` .
+`true`, если данные изображения кэшированы; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

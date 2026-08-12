@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IRasterImageArgb32PixelLoader интерфейс. 32битный загрузчик пикселей растрового изображения ARGB.
+title: "Интерфейс IRasterImageArgb32PixelLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IRasterImageArgb32PixelLoader. Загрузчик пикселей растрового изображения 32‑битный ARGB"
 type: docs
-weight: 4560
+weight: 5030
 url: /ru/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
-32-битный загрузчик пикселей растрового изображения ARGB.
+Загрузчик 32-битных ARGB пикселей растрового изображения.
 
 ```csharp
 public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
@@ -18,12 +19,12 @@ public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 
 | Имя | Описание |
 | --- | --- |
-| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Загружает 32-битные пиксели ARGB частично (блоками). |
+| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Загружает 32‑битные ARGB‑пиксели частично (по блокам). |
 
-### Смотрите также
+### См. также
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

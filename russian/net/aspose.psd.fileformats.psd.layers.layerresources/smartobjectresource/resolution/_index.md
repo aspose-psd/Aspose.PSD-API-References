@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Resolution
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает разрешение данных слоя смартобъекта в PSDфайле.
+title: "SmartObjectResource.Resolution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает разрешение данных слоя умного объекта в файле PSD"
 type: docs
-weight: 190
+weight: 180
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Resolution property
 
-Получает или задает разрешение данных слоя смарт-объекта в PSD-файле.
+Получает или задает разрешение данных слоя смарт‑объекта в файле PSD.
 
 ```csharp
 public double Resolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разрешение слоя смарт-объекта.
+Разрешение слоя умного объекта.
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

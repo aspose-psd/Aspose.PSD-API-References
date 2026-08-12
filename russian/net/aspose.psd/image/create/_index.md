@@ -1,14 +1,15 @@
 ---
-title: Image.Create
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Создает новый образ используя указанные параметры создания.
+title: "Image.Create"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Создаёт новое изображение, используя указанные параметры создания"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/image/create/
 ---
+{{< psd/tize >}}
 ## Image.Create method
 
-Создает новый образ, используя указанные параметры создания.
+Создаёт новое изображение, используя указанные параметры создания.
 
 ```csharp
 public static Image Create(ImageOptionsBase imageOptions, int width, int height)
@@ -22,37 +23,37 @@ public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 
 ### Возвращаемое значение
 
-Недавно созданный образ.
+Новое созданное изображение.
 
-### Примеры
+## Примеры
 
-В этом примере создается новый файл изображения в некотором месте на диске, как указано в свойстве Source экземпляра PsdOptions. Несколько свойств экземпляра PsdOptions задаются перед созданием фактического образа. Особенно свойство Source, которое в данном случае относится к фактическому местоположению на диске.
+В этом примере создаётся новый файл Image в указанном месте диска, определённом свойством Source экземпляра PsdOptions. Перед созданием фактического изображения задаются несколько свойств экземпляра PsdOptions, особенно свойство Source, которое в данном случае указывает реальное расположение на диске.
 
 ```csharp
 [C#]
 
-//Создаем экземпляр PsdOptions и устанавливаем его различные свойства
+//Создайте экземпляр PsdOptions и задайте его различные свойства
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Создаем экземпляр FileCreateSource и назначаем его в качестве источника для экземпляра PsdOptions
-//Второй логический параметр определяет, является ли создаваемый файл временным или нет
+//Создайте экземпляр FileCreateSource и назначьте его в качестве Source для экземпляра PsdOptions
+//Второй логический параметр определяет, является ли создаваемый файл временным
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Создаем экземпляр Image и инициализируем его экземпляром PsdOptions, вызвав метод Create
+//Создайте экземпляр Image и инициализируйте его экземпляром PsdOptions, вызвав метод Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // делаем некоторую обработку изображения
+    //выполнить некоторую обработку изображения
 
     // сохранить все изменения
     image.Save();
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение смещения экспозиции.
+title: "ExifData.ExposureBiasValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение экспозиционной компенсации"
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureBiasValue property
 
 Получает или задает значение смещения экспозиции.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 public TiffSRational ExposureBiasValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение смещения экспозиции.
+Значение компенсации экспозиции.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

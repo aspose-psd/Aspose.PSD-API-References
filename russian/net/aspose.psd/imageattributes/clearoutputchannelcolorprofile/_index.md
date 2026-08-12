@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearOutputChannelColorProfile
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Очищает настройку цветового профиля выходного канала для категории по умолчанию.
+title: "ImageAttributes.ClearOutputChannelColorProfile"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Очищает настройку цветового профиля выходного канала для категории по умолчанию."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/imageattributes/clearoutputchannelcolorprofile/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannelColorProfile() {#clearoutputchannelcolorprofile}
 
 Очищает настройку цветового профиля выходного канала для категории по умолчанию.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd/imageattributes/clearoutputchannelcolorprofile/
 public void ClearOutputChannelColorProfile()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,13 +33,13 @@ public void ClearOutputChannelColorProfile(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой сбрасывается настройка профиля выходного канала. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), указывающий категорию, для которой очищается настройка профиля выходного канала. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

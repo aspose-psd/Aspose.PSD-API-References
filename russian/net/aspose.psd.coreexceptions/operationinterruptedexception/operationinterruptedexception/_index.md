@@ -1,14 +1,15 @@
 ---
-title: OperationInterruptedException.OperationInterruptedException
-second_title: Справочник по Aspose.PSD для .NET API
-description: OperationInterruptedException строитель. Инициализирует новый экземплярOperationInterruptedException класс.
+title: "OperationInterruptedException.OperationInterruptedException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор OperationInterruptedException. Инициализирует новый экземпляр класса OperationInterruptedException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/operationinterruptedexception/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException(string) {#constructor}
 
-Инициализирует новый экземпляр[`OperationInterruptedException`](../) класс.
+Инициализирует новый экземпляр класса [`OperationInterruptedException`](../).
 
 ```csharp
 public OperationInterruptedException(string message)
@@ -16,19 +17,19 @@ public OperationInterruptedException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [OperationInterruptedException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## OperationInterruptedException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`OperationInterruptedException`](../) класс.
+Инициализирует новый экземпляр класса [`OperationInterruptedException`](../).
 
 ```csharp
 public OperationInterruptedException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public OperationInterruptedException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [OperationInterruptedException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

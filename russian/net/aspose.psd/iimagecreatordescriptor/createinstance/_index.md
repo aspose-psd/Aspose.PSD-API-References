@@ -1,14 +1,15 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageCreatorDescriptor метод. Создает новый экземпляр Creator.
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageCreatorDescriptor. Создаёт новый экземпляр создателя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
-Создает новый экземпляр Creator.
+Создает новый экземпляр создателя.
 
 ```csharp
 public IImageCreator CreateInstance()
@@ -18,11 +19,11 @@ public IImageCreator CreateInstance()
 
 Новый экземпляр создателя.
 
-### Смотрите также
+### См. также
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* пространство имен [Aspose.PSD](../../iimagecreatordescriptor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Справочник по Aspose.PSD для .NET API
-description: DisposableObject строитель. Конструктор по умолчанию.
+title: "DisposableObject.DisposableObject"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор DisposableObject. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/disposableobject/disposableobject/
 public DisposableObject()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DisposableObject](../)
-* пространство имен [Aspose.PSD](../../disposableobject/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

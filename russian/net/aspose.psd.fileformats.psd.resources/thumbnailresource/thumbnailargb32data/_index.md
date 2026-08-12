@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.ThumbnailArgb32Data
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает или задает 32разрядные данные миниатюр ARGB.
+title: "ThumbnailResource.ThumbnailArgb32Data"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Получает или задает 32‑битные ARGB данные миниатюры"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailArgb32Data property
 
-Получает или задает 32-разрядные данные миниатюр ARGB.
+Получает или задает 32‑битные ARGB данные миниатюры.
 
 ```csharp
 public int[] ThumbnailArgb32Data { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-32-битные данные миниатюр ARGB.
+32‑битные ARGB данные миниатюры.
 
-### Смотрите также
+### См. также
 
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

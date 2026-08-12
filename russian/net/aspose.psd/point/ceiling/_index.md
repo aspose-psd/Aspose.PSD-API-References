@@ -1,14 +1,15 @@
 ---
-title: Point.Ceiling
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Преобразует указанныйPointF кPoint путем округления значенийPointF к следующему большему целочисленному значению.
+title: "Point.Ceiling"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Преобразует указанный PointF в Point, округляя значения PointF до следующего большего целого."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/point/ceiling/
 ---
+{{< psd/tize >}}
 ## Point.Ceiling method
 
-Преобразует указанный[`PointF`](../../pointf/) к[`Point`](../) путем округления значений[`PointF`](../../pointf/) к следующему большему целочисленному значению.
+Преобразует указанный [`PointF`](../../pointf/) в [`Point`](../), округляя значения [`PointF`](../../pointf/) до следующего большего целого.
 
 ```csharp
 public static Point Ceiling(PointF point)
@@ -16,17 +17,17 @@ public static Point Ceiling(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) для преобразования. |
+| point | PointF | `[`PointF`](../../pointf/)` для преобразования. |
 
 ### Возвращаемое значение
 
-[`Point`](../) этот метод преобразуется в.
+Элемент [`Point`](../), в который преобразует этот метод.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

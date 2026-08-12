@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTag
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions метод. Добавляет новый тег.
+title: "TiffOptions.AddTag"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions метод. Добавляет новый тег"
 type: docs
-weight: 700
+weight: 710
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/addtag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTag method
 
 Добавляет новый тег.
@@ -18,11 +19,11 @@ public void AddTag(TiffDataType tagToAdd)
 | --- | --- | --- |
 | tagToAdd | TiffDataType | Тег для добавления. |
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

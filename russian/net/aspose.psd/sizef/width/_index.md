@@ -1,14 +1,15 @@
 ---
-title: SizeF.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF свойство. Получает или задает горизонтальную составляющую этогоSizeF .
+title: "SizeF.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SizeF. Получает или задает горизонтальную компоненту этого SizeF."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-Получает или задает горизонтальную составляющую этого[`SizeF`](../) .
+Получает или задает горизонтальную компоненту этого [`SizeF`](../).
 
 ```csharp
 public float Width { get; set; }
@@ -16,12 +17,12 @@ public float Width { get; set; }
 
 ### Возвращаемое значение
 
-Горизонтальная составляющая этого[`SizeF`](../), обычно измеряется в пикселях.
+Горизонтальная компонента этого [`SizeF`](../), обычно измеряется в пикселях.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

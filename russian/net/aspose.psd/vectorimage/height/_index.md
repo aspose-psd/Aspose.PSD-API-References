@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorImage свойство. Получает высоту изображения.
+title: "VectorImage.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorImage. Возвращает высоту изображения"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/vectorimage/height/
 ---
+{{< psd/tize >}}
 ## VectorImage.Height property
 
 Получает высоту изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/vectorimage/height/
 public override int Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота изображения.
 
-### Смотрите также
+### См. также
 
 * class [VectorImage](../)
-* пространство имен [Aspose.PSD](../../vectorimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

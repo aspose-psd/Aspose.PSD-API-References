@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.SheetMask
-second_title: Справочник по Aspose.PSD для .NET API
-description: FilterEffectMaskData свойство. Получает маску листа.
+title: "FilterEffectMaskData.SheetMask"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FilterEffectMaskData. Возвращает маску листа"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SheetMask property
 
 Получает маску листа.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public ChannelInformation SheetMask { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

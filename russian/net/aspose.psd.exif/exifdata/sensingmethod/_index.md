@@ -1,28 +1,29 @@
 ---
-title: ExifData.SensingMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает метод распознавания.
+title: "ExifData.SensingMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает метод измерения"
 type: docs
 weight: 920
 url: /ru/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.SensingMethod property
 
-Получает или задает метод распознавания.
+Получает или задает метод измерения.
 
 ```csharp
 public ExifSensingMethod SensingMethod { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Метод обнаружения.
+Метод измерения.
 
-### Смотрите также
+### См. также
 
 * enum [ExifSensingMethod](../../../aspose.psd.exif.enums/exifsensingmethod/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

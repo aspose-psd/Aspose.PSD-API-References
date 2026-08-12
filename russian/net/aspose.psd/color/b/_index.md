@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает значение синего компонента этогоColorструктура.
+title: "Color.B"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает значение синего компонента этой структуры Color"
 type: docs
 weight: 1470
 url: /ru/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-Получает значение синего компонента этого[`Color`](../)структура.
+Возвращает значение синего компонента этой структуры [`Color`](../).
 
 ```csharp
 public byte B { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение синего компонента этого[`Color`](../).
+Значение синего компонента этой [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

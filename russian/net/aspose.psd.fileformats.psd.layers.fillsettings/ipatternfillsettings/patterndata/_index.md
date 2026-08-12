@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или устанавливает данные шаблона.
+title: "IPatternFillSettings.PatternData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает данные шаблона"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-Получает или устанавливает данные шаблона.
+Получает данные шаблона.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные шаблона.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

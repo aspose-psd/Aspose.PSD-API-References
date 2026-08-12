@@ -1,11 +1,12 @@
 ---
-title: LclrResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: LclrResource свойство. Получает длину ресурса слоя в байтах.
+title: "LclrResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LclrResource. Получает длину ресурса слоя в байтах"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/
 ---
+{{< psd/tize >}}
 ## LclrResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LclrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

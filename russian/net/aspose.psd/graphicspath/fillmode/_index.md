@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath свойство. Получает или задаетFillMode перечисление которое определяет как внутренности фигур в этомGraphicsPath заполнены.
+title: "GraphicsPath.FillMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GraphicsPath. Получает или задаёт перечисление FillMode, определяющее, как заполняются внутренности фигур в этом GraphicsPath"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-Получает или задает[`FillMode`](../../fillmode/) перечисление, которое определяет, как внутренности фигур в этом[`GraphicsPath`](../) заполнены.
+Получает или задаёт перечисление [`FillMode`](../../fillmode/), определяющее, как заполняются внутренности фигур в этом [`GraphicsPath`](../).
 
 ```csharp
 public FillMode FillMode { get; set; }
@@ -16,17 +17,17 @@ public FillMode FillMode { get; set; }
 
 ### Возвращаемое значение
 
-А[`FillMode`](../../fillmode/) перечисление, указывающее, как внутренности фигур в этом[`GraphicsPath`](../) заполнены.
+Перечисление [`FillMode`](../../fillmode/), которое определяет, как заполняются внутренности фигур в этом [`GraphicsPath`](../).
 
-### Стоимость имущества
+### Property Value
 
-Режим заполнения.
+Режим заливки.
 
-### Смотрите также
+### См. также
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

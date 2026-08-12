@@ -1,29 +1,30 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance перечисление. exif перечисление баланса белого.
+title: "Перечисление ExifWhiteBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. перечисление баланса белого exif"
 type: docs
-weight: 970
+weight: 980
 url: /ru/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-exif перечисление баланса белого.
+Перечисление баланса белого exif.
 
 ```csharp
 public enum ExifWhiteBalance
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Auto | `0` | Автоматический баланс белого |
 | Manual | `1` | Ручной баланс белого |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

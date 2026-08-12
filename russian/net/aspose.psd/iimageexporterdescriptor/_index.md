@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporterDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IImageExporterDescriptor интерфейс. Представляет дескриптор экспортера изображений. Дескриптор экспортера используется для преодоления необходимости содержать каждый экспортер instance в памяти и проблем с многопоточностью.
+title: "Интерфейс IImageExporterDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IImageExporterDescriptor. Представляет дескриптор экспортёра изображений. Дескриптор экспортёра используется для преодоления необходимости содержать каждый экземпляр экспортёра в памяти и проблем многопоточности."
 type: docs
-weight: 4440
+weight: 4910
 url: /ru/net/aspose.psd/iimageexporterdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor interface
 
-Представляет дескриптор экспортера изображений. Дескриптор экспортера используется для преодоления необходимости содержать каждый экспортер instance в памяти и проблем с многопоточностью.
+Представляет дескриптор экспортера изображения. Дескриптор экспортера используется для преодоления необходимости держать каждый экземпляр экспортера в памяти и проблем многопоточности.
 
 ```csharp
 public interface IImageExporterDescriptor : IImageDescriptor
@@ -18,13 +19,13 @@ public interface IImageExporterDescriptor : IImageDescriptor
 
 | Имя | Описание |
 | --- | --- |
-| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | Определяет, может ли средство экспорта изображений экспортировать указанное изображение в указанный формат изображения, указанный параметрами сохранения. |
-| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | Создает новый экземпляр экспортера. |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | Определяет, может ли экспортёр изображений экспортировать указанное изображение в указанный формат изображения, заданный параметрами сохранения. |
+| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | Создаёт новый экземпляр экспортёра. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.Strikeout
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает значение указывающее является ли этоFont определяет горизонтальную линию через шрифт.
+title: "Font.Strikeout"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Получает значение, указывающее, задает ли этот Font горизонтальную линию через шрифт."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/font/strikeout/
 ---
+{{< psd/tize >}}
 ## Font.Strikeout property
 
-Получает значение, указывающее, является ли это[`Font`](../) определяет горизонтальную линию через шрифт.
+Получает значение, указывающее, задает ли этот [`Font`](../) горизонтальную линию через шрифт.
 
 ```csharp
 public bool Strikeout { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правда, если это[`Font`](../) проходит через него горизонтальная линия; в противном случае ложно.
+True, если у этого [`Font`](../) есть горизонтальная линия; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

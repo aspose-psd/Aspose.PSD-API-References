@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataSettings свойство. Получает или задает цветовую палитру
+title: "RawDataSettings.ColorPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RawDataSettings. Получает или задает цветовую палитру"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
 Получает или задает цветовую палитру
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/rawdatasettings/colorpalette/
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цветовая палитра
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* пространство имен [Aspose.PSD](../../rawdatasettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

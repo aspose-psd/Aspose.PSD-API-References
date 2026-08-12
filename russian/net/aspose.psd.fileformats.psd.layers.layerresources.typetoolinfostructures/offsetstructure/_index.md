@@ -1,11 +1,12 @@
 ---
-title: Class OffsetStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.OffsetStructure сорт. Структура смещения.
+title: "Класс OffsetStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.OffsetStructure class. Структура смещения"
 type: docs
-weight: 3210
+weight: 3600
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure class
 
 Структура смещения.
@@ -18,9 +19,9 @@ public sealed class OffsetStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [OffsetStructure](offsetstructure/)(ClassID, ClassID) | Инициализирует новый экземпляр`OffsetStructure` класс. |
+| [OffsetStructure](offsetstructure/)(ClassID, ClassID) | Инициализирует новый экземпляр класса `OffsetStructure`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -28,7 +29,7 @@ public sealed class OffsetStructure : OSTypeStructure
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname/) { get; set; } | Получает или задает имя класса. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/key/) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length/) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length/) { get; } | Получает длину [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/) { get; set; } | Получает или задает целочисленное значение. |
 
 ## Методы
@@ -43,12 +44,12 @@ public sealed class OffsetStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/) | Идентифицирует ключ структуры. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/) | Определяет ключ структуры. |
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

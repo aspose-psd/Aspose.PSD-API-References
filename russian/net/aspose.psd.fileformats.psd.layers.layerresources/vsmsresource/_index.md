@@ -1,14 +1,15 @@
 ---
-title: Class VsmsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource сорт. Класс VsmsResource. Этот ресурс содержит информацию о маске векторного слоя
+title: "Класс VsmsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource класс. Класс VsmsResource. Этот ресурс содержит информацию о векторной маске слоя"
 type: docs
-weight: 3380
+weight: 3780
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource class
 
-Класс VsmsResource. Этот ресурс содержит информацию о маске векторного слоя
+Класс VsmsResource. Этот ресурс содержит информацию о векторной маске слоя.
 
 ```csharp
 public class VsmsResource : VectorPathDataResource
@@ -18,21 +19,21 @@ public class VsmsResource : VectorPathDataResource
 
 | Имя | Описание |
 | --- | --- |
-| [VsmsResource](vsmsresource/#constructor)() | Инициализирует новый экземпляр`VsmsResource` класс. |
-| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр`VsmsResource` класс. |
+| [VsmsResource](vsmsresource/#constructor)() | Инициализирует новый экземпляр класса `VsmsResource`. |
+| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `VsmsResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Получает или задает значение, указывающее, отключен ли этот экземпляр. |
 | [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Получает или задает значение, указывающее, инвертирован ли этот экземпляр. |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Получает или задает значение, указывающее, не связан ли этот экземпляр. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Получает или задает записи пути. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Получает или задает версию. |
 
 ## Методы
@@ -40,17 +41,17 @@ public class VsmsResource : VectorPathDataResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов VsmsResource. Как работает редактирование путей.
+Следующий пример демонстрирует поддержку загрузки ресурса VsmsResource. Как работает редактирование путей.
 
 ```csharp
 [C#]
@@ -85,7 +86,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Правило заполнения пути не содержит никакой дополнительной информации
+        // Правило заполнения пути не содержит дополнительной информации
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -131,11 +132,11 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorPathDataResource](../vectorpathdataresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

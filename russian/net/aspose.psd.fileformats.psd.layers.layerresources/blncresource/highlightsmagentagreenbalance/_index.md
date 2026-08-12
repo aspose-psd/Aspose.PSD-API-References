@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsMagentaGreenBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlncResource свойство. Получает или задает баланс зеленого пурпурного для светлых участков.
+title: "BlncResource.HighlightsMagentaGreenBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BlncResource свойство. Получает или задает баланс пурпурного и зелёного в светлых участках"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsMagentaGreenBalance property
 
-Получает или задает баланс зеленого пурпурного для светлых участков.
+Получает или задает значение Highlights Magenta Green Balance.
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пурпурный баланс зеленого цвета.
+Баланс светлых тонов Magenta Green.
 
-### Смотрите также
+### См. также
 
 * class [BlncResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

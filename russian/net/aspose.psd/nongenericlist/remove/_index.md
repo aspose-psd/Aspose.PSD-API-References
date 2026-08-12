@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Remove
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList метод. Удаляет первое вхождение определенного объекта изIList .
+title: "NonGenericList.Remove"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericList. Удаляет первое вхождение указанного объекта из IList"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/nongenericlist/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Remove method
 
-Удаляет первое вхождение определенного объекта изIList .
+Удаляет первое вхождение конкретного объекта из IList.
 
 ```csharp
 public void Remove(object value)
@@ -16,12 +17,12 @@ public void Remove(object value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Object | Object удалить изIList. |
+| значение | Object | Объект, который нужно удалить из IList. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LnsrResource строитель. Инициализирует новый экземплярLnsrResource класс.
+title: "LnsrResource.LnsrResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LnsrResource. Инициализирует новый экземпляр класса LnsrResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-Инициализирует новый экземпляр[`LnsrResource`](../) класс.
+Инициализирует новый экземпляр класса [`LnsrResource`](../).
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
@@ -16,26 +17,26 @@ public LnsrResource(LnsrResourceType lnsrResourceType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | Тип ЛНСР. |
+| lnsrResourceType | LnsrResourceType | Тип LNSR. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Вы не можете создать lnsr со значением неизвестного типа |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Нельзя создать lnsr со значением типа Unknown |
 
-### Смотрите также
+### См. также
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`LnsrResource`](../) class. С пользовательским или неизвестным значением
+Инициализирует новый экземпляр класса [`LnsrResource`](../). С пользовательским или неизвестным значением
 
 ```csharp
 public LnsrResource(byte[] bytes)
@@ -43,18 +44,18 @@ public LnsrResource(byte[] bytes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bytes | Byte[] | Байты. |
+| байты | Byte[] | Байты. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Exception | Недопустимое значение ресурса lnsr |
+| Exception | Недопустимое значение lnsr Resource |
 
-### Смотрите также
+### См. также
 
 * class [LnsrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegLsPresetCodingParameters.JpegLsPresetCodingParameters
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegLsPresetCodingParameters строитель. Конструктор по умолчанию.
+title: "JpegLsPresetCodingParameters.JpegLsPresetCodingParameters"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "JpegLsPresetCodingParameters constructor. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/jpeglspres
 public JpegLsPresetCodingParameters()
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegLsPresetCodingParameters](../)
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

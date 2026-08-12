@@ -1,11 +1,12 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader интерфейс. Загрузчик ресурсов слоя.
+title: "Интерфейс ILayerResourceLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader. Загрузчик ресурсов слоя"
 type: docs
-weight: 2070
+weight: 2250
 url: /ru/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
 Загрузчик ресурсов слоя.
@@ -18,12 +19,12 @@ public interface ILayerResourceLoader
 
 | Имя | Описание |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Определяет, можно ли загрузить ресурс слоя из указанного[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Загружает[`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Определяет, может ли ресурс слоя быть загружен из указанного [`StreamContainer`](../../aspose.psd/streamcontainer/). |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Загружает [`LayerResource`](../layerresource/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

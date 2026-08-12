@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает количество каналов слоя.
+title: "Layer.ChannelsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Возвращает количество каналов слоя"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
 Получает количество каналов слоя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 public ushort ChannelsCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество каналов слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

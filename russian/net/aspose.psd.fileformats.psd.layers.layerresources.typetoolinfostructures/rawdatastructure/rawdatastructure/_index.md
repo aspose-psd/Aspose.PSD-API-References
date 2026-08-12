@@ -1,14 +1,15 @@
 ---
-title: RawDataStructure.RawDataStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataStructure строитель. Инициализирует новый экземплярRawDataStructure класс.
+title: "RawDataStructure.RawDataStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор RawDataStructure. Инициализирует новый экземпляр класса RawDataStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure constructor
 
-Инициализирует новый экземпляр[`RawDataStructure`](../) класс.
+Инициализирует новый экземпляр класса [`RawDataStructure`](../).
 
 ```csharp
 public RawDataStructure(ClassID keyName)
@@ -16,13 +17,13 @@ public RawDataStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [RawDataStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

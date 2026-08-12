@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.Txt2Resource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Txt2Resource строитель. Конструктор по умолчанию.
+title: "Txt2Resource.Txt2Resource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Txt2Resource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/txt2resource/
 ---
+{{< psd/tize >}}
 ## Txt2Resource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/txt2r
 public Txt2Resource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Txt2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DisposableObject
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.DisposableObject сорт. Представляет одноразовый объект.
+title: "Класс DisposableObject"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.DisposableObject. Представляет объект, подлежащий освобождению."
 type: docs
-weight: 750
+weight: 760
 url: /ru/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-Представляет одноразовый объект.
+Представляет объект, подлежащий освобождению.
 
 ```csharp
 public class DisposableObject : IDisposable
@@ -20,21 +21,21 @@ public class DisposableObject : IDisposable
 | --- | --- |
 | [DisposableObject](disposableobject/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, освобожден ли этот экземпляр. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Освобождает текущий экземпляр. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

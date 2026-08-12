@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: PtFlResource свойство. Получает подпись ресурса слоя.
+title: "PtFlResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PtFlResource. Получает подпись ресурса слоя"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Signature property
 
-Получает подпись ресурса слоя.
+Получает сигнатуру ресурса слоя.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PtFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AiRasterImageSection
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection сорт. Раздел растрового изображения AI
+title: "Класс AiRasterImageSection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Ai.AiRasterImageSection. Секция растрового изображения AI"
 type: docs
-weight: 1280
+weight: 1290
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
 Раздел растрового изображения AI
@@ -14,23 +15,23 @@ url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/
 public sealed class AiRasterImageSection
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Получает угол. |
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Получает высоту. |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Получает прямоугольник изображения. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Получает левый нижний сдвиг. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Получает сдвиг в левом нижнем углу. |
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Получает имя растрового изображения. |
 | [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Получает смещение X. |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Получает смещение Y. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Получает массив пикселей цвета int. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Получает массив целочисленных цветовых пикселей. |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Получает ширину. |
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как загрузить настройки растровых изображений в файлы формата AI.
+Следующий код демонстрирует, как загрузить настройки растровых изображений в файлах формата AI.
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

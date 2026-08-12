@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает компонент синего цвета.
+title: "AiLayerSection.Blue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AiLayerSection свойство. Получает или задает синий компонент цвета"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-Получает или задает компонент синего цвета.
+Получает или задает синий компонент цвета.
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Компонент синего цвета.
+Синий компонент цвета.
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

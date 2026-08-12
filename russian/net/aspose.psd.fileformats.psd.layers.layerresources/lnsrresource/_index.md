@@ -1,11 +1,12 @@
 ---
-title: Class LnsrResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource сорт. Класс lnsrResource.
+title: "Класс LnsrResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource. Класс lnsrResource"
 type: docs
-weight: 2750
+weight: 3060
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource class
 
 Класс lnsrResource.
@@ -18,37 +19,37 @@ public class LnsrResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр`LnsrResource` class. С пользовательским или неизвестным значением |
-| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | Инициализирует новый экземпляр`LnsrResource` класс. |
+| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `LnsrResource`. С пользовательским или неизвестным значением |
+| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | Инициализирует новый экземпляр класса `LnsrResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | Получает необработанные данные. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/) { get; } | Получает подпись. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | Получает значение LnsrResourceType, если описано соответствующее перечисление. В противном случае возвращает Unknown |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | Получает значение как LnsrResourceType, если соответствующий перечислимый тип описан. В противном случае возвращает Unknown. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: PolygonShape.PolygonShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: PolygonShape строитель. Инициализирует новый экземплярPolygonShape класс.
+title: "PolygonShape.PolygonShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PolygonShape конструктор. Инициализирует новый экземпляр класса PolygonShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape() {#constructor}
 
-Инициализирует новый экземпляр[`PolygonShape`](../) класс.
+Инициализирует новый экземпляр класса [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`PolygonShape`](../) класс.
+Инициализирует новый экземпляр класса [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points)
@@ -32,20 +33,20 @@ public PolygonShape(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
+| точки | PointF[] | Массив точек. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-Инициализирует новый экземпляр[`PolygonShape`](../) класс.
+Инициализирует новый экземпляр класса [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
@@ -53,14 +54,14 @@ public PolygonShape(PointF[] points, bool isClosed)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
-| isClosed | Boolean | Если установлено`истинный` полигон замкнут. |
+| точки | PointF[] | Массив точек. |
+| isClosed | Boolean | Если установить `true`, полигон будет закрыт. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

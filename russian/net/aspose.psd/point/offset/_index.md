@@ -1,14 +1,15 @@
 ---
-title: Point.Offset
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Переводит этоPoint указаннымPoint .
+title: "Point.Offset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Перемещает эту точку на указанный Point."
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Переводит это[`Point`](../) указанным[`Point`](../) .
+Перемещает эту [`Point`](../) на указанный [`Point`](../).
 
 ```csharp
 public void Offset(Point point)
@@ -16,19 +17,19 @@ public void Offset(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../) используется для компенсации этого[`Point`](../). |
+| point | Point | Элемент [`Point`](../), используемый для смещения этой [`Point`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Переводит это[`Point`](../)на указанную сумму.
+Перемещает эту [`Point`](../) на указанную величину.
 
 ```csharp
 public void Offset(int dx, int dy)
@@ -39,10 +40,10 @@ public void Offset(int dx, int dy)
 | dx | Int32 | Величина смещения координаты x. |
 | dy | Int32 | Величина смещения координаты y. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

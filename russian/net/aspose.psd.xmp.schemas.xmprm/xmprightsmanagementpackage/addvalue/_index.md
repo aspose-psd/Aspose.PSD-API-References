@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.AddValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRightsManagementPackage метод. Добавляет строковое свойство.
+title: "XmpRightsManagementPackage.AddValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpRightsManagementPackage. Добавляет строковое свойство."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.AddValue method
 
 Добавляет строковое свойство.
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с добавленной стоимостью. |
-| value | String | Строковое значение. |
+| ключ | String | Строковое представление ключа, идентифицируемого добавленным значением. |
+| значение | String | Строковое значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | key;Ключ должен быть предоставлен для пространства имен XMP Rights Management |
+| ArgumentNullException | key;Ключ должен быть предоставлен для пространства имён XMP Rights Management |
 
-### Смотрите также
+### См. также
 
 * class [XmpRightsManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

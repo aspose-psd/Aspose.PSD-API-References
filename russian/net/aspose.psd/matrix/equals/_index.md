@@ -1,14 +1,15 @@
 ---
-title: Matrix.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. Определяет является ли указанныйObject равен этому экземпляру.
+title: "Matrix.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Определяет, равен ли указанный Object этому экземпляру."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/matrix/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object)
 
-Определяет, является ли указанныйObject равен этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +17,23 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NullReferenceException | *obj* параметр равен нулю. |
+| NullReferenceException | Параметр *obj* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -51,12 +52,12 @@ public static bool Equals(Matrix a, Matrix b)
 
 ### Возвращаемое значение
 
-Истинно, если матрицы равны.
+True, если матрицы равны.
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

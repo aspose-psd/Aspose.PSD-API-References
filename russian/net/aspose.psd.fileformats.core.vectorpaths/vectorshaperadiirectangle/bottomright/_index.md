@@ -1,11 +1,12 @@
 ---
-title: VectorShapeRadiiRectangle.BottomRight
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeRadiiRectangle свойство. Получает или задает правый нижний угол.
+title: "VectorShapeRadiiRectangle.BottomRight"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeRadiiRectangle. Получает или задает нижний правый"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomRight property
 
 Получает или задает правый нижний угол.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/b
 public double BottomRight { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Внизу справа.
+Нижний правый.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeRadiiRectangle](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

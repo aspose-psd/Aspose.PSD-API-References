@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureProgram
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает программу экспозиции.
+title: "ExifData.ExposureProgram"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает программу экспозиции"
 type: docs
 weight: 220
 url: /ru/net/aspose.psd.exif/exifdata/exposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureProgram property
 
 Получает или задает программу экспозиции.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/exposureprogram/
 public ExifExposureProgram ExposureProgram { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Программа экспозиции.
 
-### Смотрите также
+### См. также
 
 * enum [ExifExposureProgram](../../../aspose.psd.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

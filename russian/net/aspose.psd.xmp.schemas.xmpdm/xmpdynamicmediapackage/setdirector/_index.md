@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает режиссера.
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает директора"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
-Устанавливает режиссера.
+Устанавливает режиссёра.
 
 ```csharp
 public void SetDirector(string director)
@@ -18,10 +19,10 @@ public void SetDirector(string director)
 | --- | --- | --- |
 | director | String | Директор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

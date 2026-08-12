@@ -1,14 +1,15 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Справочник по Aspose.PSD для .NET API
-description: DataMissmatchError строитель. Инициализирует новый экземплярDataMissmatchError класс.
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор DataMissmatchError. Инициализирует новый экземпляр класса DataMissmatchError"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-Инициализирует новый экземпляр[`DataMissmatchError`](../) класс.
+Инициализирует новый экземпляр класса [`DataMissmatchError`](../).
 
 ```csharp
 public DataMissmatchError(string message)
@@ -18,10 +19,10 @@ public DataMissmatchError(string message)
 | --- | --- | --- |
 | message | String | Сообщение, описывающее ошибку. |
 
-### Смотрите также
+### См. также
 
 * class [DataMissmatchError](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

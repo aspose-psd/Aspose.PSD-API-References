@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.FilterId
-second_title: Справочник по Aspose.PSD для .NET API
-description: AddNoiseSmartFilter свойство. Получает идентификатор типа интеллектуального фильтра.
+title: "AddNoiseSmartFilter.FilterId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AddNoiseSmartFilter свойство. Получает идентификатор типа умного фильтра"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterId property
 
-Получает идентификатор типа интеллектуального фильтра.
+Получает идентификатор типа умного фильтра.
 
 ```csharp
 public override int FilterId { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AddNoiseSmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

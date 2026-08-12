@@ -1,11 +1,12 @@
 ---
-title: XmpResource.XmpResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpResource строитель. Конструктор по умолчанию.
+title: "XmpResource.XmpResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpResource конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpresource/
 ---
+{{< psd/tize >}}
 ## XmpResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpresource/
 public XmpResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

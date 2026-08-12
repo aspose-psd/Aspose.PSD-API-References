@@ -1,11 +1,12 @@
 ---
-title: Enum ExifLightSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifLightSource перечисление. Источник света exif.
+title: "Перечисление ExifLightSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.Exif.Enums.ExifLightSource. Источник света exif."
 type: docs
-weight: 890
+weight: 900
 url: /ru/net/aspose.psd.exif.enums/exiflightsource/
 ---
+{{< psd/tize >}}
 ## ExifLightSource enumeration
 
 Источник света exif.
@@ -14,22 +15,22 @@ url: /ru/net/aspose.psd.exif.enums/exiflightsource/
 public enum ExifLightSource
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Unknown | `0` | Неизвестное. |
+| Unknown | `0` | Неизвестный. |
 | Daylight | `1` | Дневной свет. |
-| Fluorescent | `2` | Флуоресцентный. |
-| Tungsten | `3` | Вольфрам. |
+| Fluorescent | `2` | Флюоресцентный. |
+| Tungsten | `3` | Вольфрамовый. |
 | Flash | `4` | Вспышка. |
-| Fineweather | `9` | Хорошая погода. |
-| Cloudyweather | `10` | Пасмурная погода. |
+| Fineweather | `9` | Ясная погода. |
+| Cloudyweather | `10` | Облачная погода. |
 | Shade | `11` | Тень. |
-| DaylightFluorescent | `12` | Люминесцентные лампы дневного света. |
-| DayWhiteFluorescent | `13` | Дневной белый флуоресцентный. |
-| CoolWhiteFluorescent | `14` | Холодный белый флуоресцентный. |
-| WhiteFluorescent | `15` | Белый флуоресцентный. |
+| DaylightFluorescent | `12` | Дневной флюоресцентный. |
+| DayWhiteFluorescent | `13` | Дневной белый флюоресцентный. |
+| CoolWhiteFluorescent | `14` | Холодный белый флюоресцентный. |
+| WhiteFluorescent | `15` | Белый флюоресцентный. |
 | StandardlightA | `17` | Стандартный свет a. |
 | StandardlightB | `18` | Стандартный свет b. |
 | StandardlightC | `19` | Стандартный свет c. |
@@ -37,12 +38,12 @@ public enum ExifLightSource
 | D65 | `21` | Значение d65 (6500K). |
 | D75 | `22` | Значение d75 (7500K). |
 | D50 | `23` | Значение d50 (5000K). |
-| ISOstudiotungsten | `24` | Вольфрамовый источник света iso studio. |
+| ISOstudiotungsten | `24` | ISO студийный вольфрамовый источник света. |
 | Otherlightsource | `255` | Другой источник света. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

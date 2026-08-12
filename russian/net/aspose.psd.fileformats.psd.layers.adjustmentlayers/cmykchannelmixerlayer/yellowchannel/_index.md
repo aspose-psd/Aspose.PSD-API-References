@@ -1,11 +1,12 @@
 ---
-title: CmykChannelMixerLayer.YellowChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykChannelMixerLayer свойство. Получает желтый канал.
+title: "CmykChannelMixerLayer.YellowChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CmykChannelMixerLayer свойство. Получает жёлтый канал"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/yellowchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.YellowChannel property
 
 Получает желтый канал.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixer
 public CmykMixerChannel YellowChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Желтый канал.
+Жёлтый канал.
 
-### Смотрите также
+### См. также
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

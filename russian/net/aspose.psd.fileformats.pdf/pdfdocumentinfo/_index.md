@@ -1,11 +1,12 @@
 ---
-title: Class PdfDocumentInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo сорт. Этот класс представляет набор метаданных для описания документа.
+title: "Класс PdfDocumentInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo. Этот класс представляет набор метаданных для описания документа"
 type: docs
-weight: 1570
+weight: 1580
 url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo class
 
 Этот класс представляет набор метаданных для описания документа.
@@ -20,18 +21,18 @@ public class PdfDocumentInfo
 | --- | --- |
 | [PdfDocumentInfo](pdfdocumentinfo/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Получает или устанавливает автора документа. |
+| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Получает или задает автора документа. |
 | [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Получает или задает ключевые слова документа. |
 | [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Получает или задает тему документа. |
 | [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | Получает или задает заголовок документа. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

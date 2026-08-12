@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает плоскую конфигурацию.
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает планарную конфигурацию"
 type: docs
-weight: 330
+weight: 340
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
-Получает или задает плоскую конфигурацию.
+Получает или задает планарную конфигурацию.
 
 ```csharp
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Планарная конфигурация.
 
-### Смотрите также
+### См. также
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

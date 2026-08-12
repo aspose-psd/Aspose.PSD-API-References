@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: SoCoResource свойство. Получает цвет RGB .
+title: "SoCoResource.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SoCoResource. Получает цвет RGB"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-Получает цвет RGB .
+Получает цвет RGB.
 
 ```csharp
 public Color Color { get; set; }
@@ -18,9 +19,9 @@ public Color Color { get; set; }
 
 Цвет RGB
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом).
+В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом)
 
 ```csharp
 [C#]
@@ -28,20 +29,20 @@ public Color Color { get; set; }
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Нахождение FillLayer
+        // Поиск FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Нахождение SoCoResource в списке ресурсов слоя
+                // Поиск SoCoResource в списке ресурсов слоев
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Установка свойства SoCoResource Color
+                    // Установка свойства Color ресурса SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -67,11 +68,11 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

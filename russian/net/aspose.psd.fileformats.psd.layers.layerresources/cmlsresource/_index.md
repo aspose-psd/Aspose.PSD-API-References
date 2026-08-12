@@ -1,11 +1,12 @@
 ---
-title: Class CmlsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CmlsResource сорт. Класс CmlsResource.
+title: "Класс CmlsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CmlsResource класс. Класс CmlsResource"
 type: docs
-weight: 2380
+weight: 2640
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource class
 
 Класс CmlsResource.
@@ -18,34 +19,34 @@ public class CmlsResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [CmlsResource](cmlsresource/)(byte[]) | Инициализирует новый экземпляр`CmlsResource` класс. |
+| [CmlsResource](cmlsresource/)(byte[]) | Инициализирует новый экземпляр класса `CmlsResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

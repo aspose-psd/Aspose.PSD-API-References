@@ -1,14 +1,15 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpArrayHelper метод. Получает код RDF для определенныхXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpArrayHelper. Получает RDF‑код для конкретного XmpArrayType"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-Получает код RDF для определенных[`XmpArrayType`](../../xmparraytype/) .
+Получает RDF‑код для конкретного [`XmpArrayType`](../../xmparraytype/).
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
@@ -20,19 +21,19 @@ public static string GetRdfCode(XmpArrayType xmpArrayType)
 
 ### Возвращаемое значение
 
-Возвращает код RDF для определенных[`XmpArrayType`](../../xmparraytype/).
+Возвращает RDF‑код для конкретного [`XmpArrayType`](../../xmparraytype/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Недопустимое исключение аргумента enum |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Исключение: недопустимый аргумент перечисления |
 
-### Смотрите также
+### См. также
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

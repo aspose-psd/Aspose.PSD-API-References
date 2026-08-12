@@ -1,14 +1,15 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Справочник по Aspose.PSD для .NET API
-description: FillLayer метод. Создайте новый экземплярFillLayer класс по типу заливки.
+title: "FillLayer.CreateInstance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FillLayer. Создаёт новый экземпляр класса FillLayer по типу заливки."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Создайте новый экземпляр[`FillLayer`](../) класс по типу заливки.
+Создайте новый экземпляр класса [`FillLayer`](../) по типу заливки.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
@@ -16,15 +17,15 @@ public static FillLayer CreateInstance(FillType fillType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillType | FillType | Тип заливочного слоя. |
+| fillType | FillType | Тип слоя заливки. |
 
 ### Возвращаемое значение
 
-Возвращает новый экземпляр[`FillLayer`](../) класс по типу заполнения.
+Возвращает новый экземпляр класса [`FillLayer`](../) по типу заливки.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как добавить слой типа FillLayer во время выполнения.
+Следующий пример демонстрирует, как добавить слой типа FillLayer во время выполнения.
 
 ```csharp
 [C#]
@@ -50,11 +51,11 @@ using (var image = new PsdImage(100, 100))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

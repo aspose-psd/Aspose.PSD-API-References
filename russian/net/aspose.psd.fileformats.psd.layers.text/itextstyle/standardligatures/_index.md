@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Стандартные контекстные лигатуры используемые для соединения букв.
+title: "ITextStyle.StandardLigatures"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Стандартные контекстные лигатуры, используемые для соединения букв."
 type: docs
 weight: 220
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
 Стандартные контекстные лигатуры, используемые для соединения букв.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures
 public bool StandardLigatures { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку поддержки новых свойств ITextStyle.
+Следующий код демонстрирует поддержку новых свойств ITextStyle.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// Проверяем значения
+// Проверьте значения
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

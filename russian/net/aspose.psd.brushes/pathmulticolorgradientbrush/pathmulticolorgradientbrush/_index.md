@@ -1,14 +1,15 @@
 ---
-title: PathMulticolorGradientBrush.PathMulticolorGradientBrush
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathMulticolorGradientBrush строитель. Инициализирует новый экземплярPathMulticolorGradientBrush класс с указанными баллами.
+title: "PathMulticolorGradientBrush.PathMulticolorGradientBrush"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PathMulticolorGradientBrush. Инициализирует новый экземпляр класса PathMulticolorGradientBrush с указанными точками."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.brushes/pathmulticolorgradientbrush/pathmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathMulticolorGradientBrush(PointF[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`PathMulticolorGradientBrush`](../) класс с указанными баллами.
+Инициализирует новый экземпляр класса [`PathMulticolorGradientBrush`](../) с указанными точками.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points)
@@ -16,20 +17,20 @@ public PathMulticolorGradientBrush(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf/) структуры, представляющие точки, составляющие вершины пути. |
+| points | PointF[] | Массив структур [`PointF`](../../../aspose.psd/pointf/), представляющих точки, образующие вершины пути. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathMulticolorGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-Инициализирует новый экземпляр[`PathMulticolorGradientBrush`](../) class с указанными точками и режимом переноса.
+Инициализирует новый экземпляр класса [`PathMulticolorGradientBrush`](../) с указанными точками и режимом обтекания.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
@@ -37,22 +38,22 @@ public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf/) структуры, представляющие точки, составляющие вершины пути. |
-| wrapMode | WrapMode | А[`WrapMode`](../../../aspose.psd/wrapmode/) который указывает, как заполняется этим[`PathMulticolorGradientBrush`](../) плиточные. |
+| points | PointF[] | Массив структур [`PointF`](../../../aspose.psd/pointf/), представляющих точки, образующие вершины пути. |
+| wrapMode | WrapMode | Объект [`WrapMode`](../../../aspose.psd/wrapmode/), определяющий, как заполняющие области, нарисованные с помощью этого [`PathMulticolorGradientBrush`](../), размещаются плиткой. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[]) {#constructor_3}
 
-Инициализирует новый экземпляр[`PathMulticolorGradientBrush`](../) класс с указанными баллами.
+Инициализирует новый экземпляр класса [`PathMulticolorGradientBrush`](../) с указанными точками.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points)
@@ -60,20 +61,20 @@ public PathMulticolorGradientBrush(Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | Point[] | Массив[`Point`](../../../aspose.psd/point/) структуры, представляющие точки, составляющие вершины пути. |
+| points | Point[] | Массив структур [`Point`](../../../aspose.psd/point/), представляющих точки, образующие вершины пути. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathMulticolorGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[], WrapMode) {#constructor_4}
 
-Инициализирует новый экземпляр[`PathMulticolorGradientBrush`](../) class с указанными точками и режимом переноса.
+Инициализирует новый экземпляр класса [`PathMulticolorGradientBrush`](../) с указанными точками и режимом обтекания.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
@@ -81,22 +82,22 @@ public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | Point[] | Массив[`Point`](../../../aspose.psd/point/) структуры, представляющие точки, составляющие вершины пути. |
-| wrapMode | WrapMode | А[`WrapMode`](../../../aspose.psd/wrapmode/) который указывает, как заполняется этим[`PathMulticolorGradientBrush`](../) плиточные. |
+| points | Point[] | Массив структур [`Point`](../../../aspose.psd/point/), представляющих точки, образующие вершины пути. |
+| wrapMode | WrapMode | Объект [`WrapMode`](../../../aspose.psd/wrapmode/), определяющий, как заполняющие области, нарисованные с помощью этого [`PathMulticolorGradientBrush`](../), размещаются плиткой. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(GraphicsPath) {#constructor}
 
-Инициализирует новый экземпляр[`PathMulticolorGradientBrush`](../) класс с указанным путем.
+Инициализирует новый экземпляр класса [`PathMulticolorGradientBrush`](../) с указанным путем.
 
 ```csharp
 public PathMulticolorGradientBrush(GraphicsPath path)
@@ -104,13 +105,13 @@ public PathMulticolorGradientBrush(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../../aspose.psd/graphicspath/) который определяет область, заполненную этим[`PathMulticolorGradientBrush`](../). |
+| path | GraphicsPath | Объект [`GraphicsPath`](../../../aspose.psd/graphicspath/), определяющий область, заполняемую этим [`PathMulticolorGradientBrush`](../). |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathMulticolorGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

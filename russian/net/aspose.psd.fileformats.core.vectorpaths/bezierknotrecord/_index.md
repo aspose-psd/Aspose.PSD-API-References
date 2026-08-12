@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord сорт. Класс записи узла Безье
+title: "Класс BezierKnotRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord класс. Класс записи узлов Безье, используемый для чтения/записи данных узлов Безье из ресурса."
 type: docs
-weight: 1330
+weight: 1340
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Класс записи узла Безье
+Класс записи узла Безье, используется для чтения/записи данных узлов Безье из ресурса.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -18,10 +19,10 @@ public class BezierKnotRecord : VectorPathRecord
 
 | Имя | Описание |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Инициализирует новый экземпляр`BezierKnotRecord` класс. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Инициализирует новый экземпляр`BezierKnotRecord` класс. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | Инициализирует новый экземпляр класса `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `BezierKnotRecord`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -29,12 +30,12 @@ public class BezierKnotRecord : VectorPathRecord
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Получает или задает значение, указывающее, связан ли этот экземпляр. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Получает или задает значение, указывающее, открыт ли этот экземпляр. |
 | [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Получает или задает точки пути. |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Получает или устанавливает очки. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Получает или задает точки. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Получает тип. |
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов VmskResource. Как работает редактирование путей.
+Следующий пример демонстрирует поддержку загрузки ресурса VmskResource. Как работает редактирование путей.
 
 ```csharp
 [C#]
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // Правило заполнения пути не содержит никакой дополнительной информации
+        // Правило заполнения пути не содержит дополнительной информации
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-В следующем примере демонстрируется поддержка загрузки ресурсов VsmsResource. Как работает редактирование путей.
+Следующий пример демонстрирует поддержку загрузки ресурса VsmsResource. Как работает редактирование путей.
 
 ```csharp
 [C#]
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Правило заполнения пути не содержит никакой дополнительной информации
+        // Правило заполнения пути не содержит дополнительной информации
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

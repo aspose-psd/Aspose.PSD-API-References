@@ -1,30 +1,31 @@
 ---
-title: Blend.Blend
-second_title: Справочник по Aspose.PSD для .NET API
-description: Blend строитель. Инициализирует новый экземплярBlend сорт. Количество элементов в массивах factor и blend будет равно 1.
+title: "Blend.Blend"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Blend. Инициализирует новый экземпляр класса Blend. Количество элементов в массивах факторов и смешения будет равно 1."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-Инициализирует новый экземпляр[`Blend`](../) сорт. Количество элементов в массивах factor и blend будет равно 1.
+Инициализирует новый экземпляр класса [`Blend`](../). Количество элементов в массивах factor и blend будет равно 1.
 
 ```csharp
 public Blend()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Blend](../)
-* пространство имен [Aspose.PSD](../../blend/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-Инициализирует новый экземпляр[`Blend`](../) класс с указанным количеством факторов и позиций.
+Инициализирует новый экземпляр класса [`Blend`](../) с указанным числом факторов и позиций.
 
 ```csharp
 public Blend(int count)
@@ -32,12 +33,12 @@ public Blend(int count)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| count | Int32 | Количество элементов в массивах факторов и позиций. |
+| count | Int32 | Количество элементов в массивах factor и position. |
 
-### Смотрите также
+### См. также
 
 * class [Blend](../)
-* пространство имен [Aspose.PSD](../../blend/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

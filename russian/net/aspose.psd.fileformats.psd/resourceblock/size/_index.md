@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock свойство. Получает размер блока ресурсов в байтах включая его данные.
+title: "ResourceBlock.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock свойство. Получает размер блока ресурса в байтах, включая его данные"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/size/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Size property
 
-Получает размер блока ресурсов в байтах, включая его данные.
+Получает размер блока ресурса в байтах, включая его данные.
 
 ```csharp
 public int Size { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Размер блока ресурсов.
+Размер блока ресурса.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает номер цвета. 1  это пользовательское значение цвета из свойств Red Green Blue. Указывает настройку цвета слоя.
+title: "AiLayerSection.ColorNumber"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Получает или задает номер цвета. 1 — это пользовательское значение цвета из свойств Red Green Blue. Указывает настройку цвета слоя."
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Получает или задает номер цвета. -1 — это пользовательское значение цвета из свойств Red, Green, Blue. Указывает настройку цвета слоя.
+Получает или задает номер цвета. -1 означает пользовательское значение цвета, получаемое из свойств Red, Green, Blue. Указывает настройку цвета слоя.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Номер цвета.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

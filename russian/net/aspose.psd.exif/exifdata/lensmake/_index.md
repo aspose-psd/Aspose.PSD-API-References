@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensMake
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает производителя объектива.
+title: "ExifData.LensMake"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает производителя объектива"
 type: docs
 weight: 730
 url: /ru/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
 Получает или задает производителя объектива.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/lensmake/
 public string LensMake { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Производитель линз.
+Производитель объектива.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

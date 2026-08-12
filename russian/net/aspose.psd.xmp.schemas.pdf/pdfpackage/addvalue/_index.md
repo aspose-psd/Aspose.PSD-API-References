@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.AddValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfPackage метод. Добавляет строковое свойство.
+title: "PdfPackage.AddValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PdfPackage. Добавляет строковое свойство."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PdfPackage.AddValue method
 
 Добавляет строковое свойство.
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с добавленной стоимостью. |
-| value | String | Строковое значение. |
+| ключ | String | Строковое представление ключа, идентифицируемого добавленным значением. |
+| значение | String | Строковое значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ключ;свойство PDF не может быть нулевым |
+| ArgumentNullException | key;Свойство Pdf не может быть null. |
 
-### Смотрите также
+### См. также
 
 * class [PdfPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

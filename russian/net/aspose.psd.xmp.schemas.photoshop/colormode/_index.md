@@ -1,35 +1,36 @@
 ---
-title: Enum ColorMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode перечисление. Представляет цветовой режим вPhotoshopPackage .
+title: "Enum ColorMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode enum. Представляет режим цвета в PhotoshopPackage"
 type: docs
-weight: 5800
+weight: 6300
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Представляет цветовой режим в[`PhotoshopPackage`](../photoshoppackage/) .
+Представляет режим цвета в [`PhotoshopPackage`](../photoshoppackage/).
 
 ```csharp
 public enum ColorMode : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Bitmap | `0` | Цветовой режим растрового изображения. |
-| GrayScale | `1` | Цветовой режим шкалы серого. |
+| Bitmap | `0` | Режим цвета Bitmap. |
+| GrayScale | `1` | Режим цвета в градациях серого. |
 | IndexedColor | `2` | Индексированный цвет. |
 | Rgb | `3` | Цвет RGB. |
-| Cmyk | `4` | Цветовой режим CMYK. |
+| Cmyk | `4` | Режим цвета CMYK. |
 | MultiChannel | `7` | Многоканальный цвет. |
-| Duotone | `8` | Двухцветный цвет. |
-| LabColor | `9` | Цвет лаборатории. |
+| Duotone | `8` | Дуотонный цвет. |
+| LabColor | `9` | Цвет LAB. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

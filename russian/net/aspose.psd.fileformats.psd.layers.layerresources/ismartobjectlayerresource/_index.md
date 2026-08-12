@@ -1,28 +1,29 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource интерфейс. Определяет интерфейс ISmartObjectLayerResource который содержит информацию о ресурсе слоя смартобъекта в файле PSD. Это также интерфейс разметки используемый для обозначения ресурсов Sold и Sole в изображениях Adobe Photoshop.
+title: "Интерфейс ISmartObjectLayerResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource interface. Определяет интерфейс ISmartObjectLayerResource, который содержит информацию о ресурсе слоя смарт-объекта в файле PSD. Также является разметочным интерфейсом, используемым для обозначения как Sold, так и Sole ресурсов в изображениях Adobe Photoshop."
 type: docs
-weight: 2540
+weight: 2830
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-Определяет интерфейс ISmartObjectLayerResource, который содержит информацию о ресурсе слоя смарт-объекта в файле PSD. Это также интерфейс разметки, используемый для обозначения ресурсов Sold и Sole в изображениях Adobe® Photoshop®.
+Определяет интерфейс ISmartObjectLayerResource, который содержит информацию о ресурсе слоя умного объекта в файле PSD. Это также разметочный интерфейс, используемый для обозначения как ресурсов Sold, так и Sole в изображениях Adobe® Photoshop®.
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Получает или задает уникальный идентификатор данных слоя этого смарт-объекта в изображении PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Получает или задает уникальный идентификатор этих данных слоя смарт‑объекта в изображении PSD. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку встроенных смарт-объектов.
+Следующий код демонстрирует поддержку встроенных смарт‑объектов.
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// В этом примере показано, как изменить слой смарт-объекта в PSD-файле и экспортировать/обновить исходное встроенное содержимое смарт-объекта.
+// Этот пример демонстрирует, как изменить слой смарт‑объекта в файле PSD и экспортировать/обновлять оригинальное встроенное содержимое смарт‑объекта.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Давайте экспортируем встроенное изображение смарт-объекта из слоя смарт-объекта PSD
+        // Давайте экспортируем встроенное изображение смарт‑объекта из слоя смарт‑объекта PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Проверяем, правильно ли сохранено исходное изображение
+        // Давайте проверим, правильно ли сохранено оригинальное изображение
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -75,7 +76,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Давайте инвертируем исходное изображение смарт-объекта
+            // Давайте инвертируем оригинальное изображение смарт‑объекта
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -86,21 +87,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Давайте заменим встроенное изображение смарт-объекта в слое PSD
+            // Давайте заменим встроенное изображение смарт‑объекта в слое PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Проверяем, корректно ли сохранено обновленное изображение
+        // Давайте проверим, правильно ли сохранено обновлённое изображение
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

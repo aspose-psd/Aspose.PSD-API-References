@@ -1,14 +1,15 @@
 ---
-title: Class XmpException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.XmpException сорт. Исключение которое возникает когда XMP имеет недопустимую структуру.
+title: "Класс XmpException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.CoreExceptions.XmpException. Исключение, которое выбрасывается, когда XMP имеет недопустимую структуру"
 type: docs
 weight: 690
 url: /ru/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-Исключение, которое возникает, когда XMP имеет недопустимую структуру.
+Исключение, которое выбрасывается, когда у XMP неверная структура.
 
 ```csharp
 public class XmpException : FrameworkException
@@ -18,14 +19,14 @@ public class XmpException : FrameworkException
 
 | Имя | Описание |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | Инициализирует новый экземпляр`XmpException` класс. |
-| [XmpException](xmpexception/#constructor_1)(string) | Инициализирует новый экземпляр`XmpException` класс. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр`XmpException` класс. |
+| [XmpException](xmpexception/#constructor)() | Инициализирует новый экземпляр класса `XmpException`. |
+| [XmpException](xmpexception/#constructor_1)(string) | Инициализирует новый экземпляр класса `XmpException`. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `XmpException`. |
 
-### Смотрите также
+### См. также
 
 * class [FrameworkException](../frameworkexception/)
-* пространство имен [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

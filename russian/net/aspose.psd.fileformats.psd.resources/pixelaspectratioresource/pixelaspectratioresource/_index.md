@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.PixelAspectRatioResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelAspectRatioResource строитель. Конструктор по умолчанию.
+title: "PixelAspectRatioResource.PixelAspectRatioResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PixelAspectRatioResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/pixelaspectratioresource/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/pixel
 public PixelAspectRatioResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PixelAspectRatioResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

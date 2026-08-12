@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.Clone
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilter метод. Создает почленный клон текущего экземпляра типа.
+title: "SmartFilter.Clone"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartFilter. Создает побайтовую копию текущего экземпляра типа"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Clone method
 
-Создает почленный клон текущего экземпляра типа.
+Создаёт побочный клон текущего экземпляра типа.
 
 ```csharp
 public SmartFilter Clone()
@@ -16,12 +17,12 @@ public SmartFilter Clone()
 
 ### Возвращаемое значение
 
-Возвращает почленный клон текущего экземпляра типа.
+Возвращает побайтовую копию текущего экземпляра типа.
 
-### Смотрите также
+### См. также
 
 * class [SmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

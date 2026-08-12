@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.MinimalVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnknownResource свойство. Получает минимальную требуемую версию psd.
+title: "UnknownResource.MinimalVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UnknownResource. Возвращает минимальную требуемую версию psd"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UnknownResource.MinimalVersion property
 
-Получает минимальную требуемую версию psd.
+Получает минимальную требуемую версию PSD.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Минимальная версия psd.
 
-### Смотрите также
+### См. также
 
 * class [UnknownResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

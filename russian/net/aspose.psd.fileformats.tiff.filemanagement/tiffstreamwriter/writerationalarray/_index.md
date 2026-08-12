@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток массив рациональных значений без знака.
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamWriter. Записывает массив беззнаковых рациональных значений в поток"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
-Записывает в поток массив рациональных значений без знака.
+Записывает массив беззнаковых рациональных значений в поток.
 
 ```csharp
 public void WriteRationalArray(TiffRational[] data)
@@ -16,13 +17,13 @@ public void WriteRationalArray(TiffRational[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | TiffRational[] | Массив для записи. |
+| данные | TiffRational[] | Массив для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

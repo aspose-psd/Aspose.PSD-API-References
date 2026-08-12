@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: HueSaturationLayer свойство. Получает или задает яркость.
+title: "HueSaturationLayer.Lightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство HueSaturationLayer. Получает или задает светлоту"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
 Получает или задает яркость.
@@ -14,20 +15,20 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlay
 public short Lightness { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Легкость.
+Светлота.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Яркость должна быть в диапазоне от -100 до +100 |
+| ArgumentOutOfRangeException | Светлота должна находиться в диапазоне от -100 до +100. |
 
-### Смотрите также
+### См. также
 
 * class [HueSaturationLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

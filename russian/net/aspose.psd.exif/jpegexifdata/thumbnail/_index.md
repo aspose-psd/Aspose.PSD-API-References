@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает миниатюру изображения.
+title: "JpegExifData.Thumbnail"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает изображение миниатюры"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
-Получает или задает миниатюру изображения.
+Получает или задает изображение миниатюры.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Миниатюра.
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

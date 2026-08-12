@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.ClassName
-second_title: Справочник по Aspose.PSD для .NET API
-description: OffsetStructure свойство. Получает или задает имя класса.
+title: "OffsetStructure.ClassName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OffsetStructure. Возвращает или задает имя класса"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassName property
 
 Получает или задает имя класса.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string ClassName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя класса.
 
-### Смотрите также
+### См. также
 
 * class [OffsetStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

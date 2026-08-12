@@ -1,11 +1,12 @@
 ---
-title: TimeLine.ActiveFrame
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeLine свойство. Получает или задает индекс активного кадра.
+title: "TimeLine.ActiveFrame"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TimeLine. Получает или задает индекс активного кадра"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/
 ---
+{{< psd/tize >}}
 ## TimeLine.ActiveFrame property
 
 Получает или задает индекс активного кадра.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/
 public int ActiveFrame { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TimeLine](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: Dimensions свойство. Получает или задает ширину.
+title: "Dimensions.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Dimensions. Получает или задает ширину"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
 Получает или задает ширину.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 public float Width { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина.
 
@@ -24,10 +25,10 @@ public float Width { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | value;Ширина не может быть меньше нуля |
 
-### Смотрите также
+### См. также
 
 * class [Dimensions](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

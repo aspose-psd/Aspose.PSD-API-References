@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.Items
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает элементы дескриптора данных слоя смартобъекта в файле PSD.
+title: "SmartObjectResource.Items"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает элементы дескриптора данных слоя умного объекта в файле PSD"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Items property
 
-Получает или задает элементы дескриптора данных слоя смарт-объекта в файле PSD.
+Получает или задает элементы дескриптора данных слоя смарт‑объекта в файле PSD.
 
 ```csharp
 public override OSTypeStructure[] Items { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Элементы дескриптора информации о размещенном слое.
+Элементы дескриптора информации о размещённом слое.
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

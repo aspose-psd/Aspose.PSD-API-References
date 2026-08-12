@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает разрешение по оси y.
+title: "TiffOptions.Yresolution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает разрешение по оси y"
 type: docs
-weight: 690
+weight: 700
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
-Получает или задает разрешение по оси y.
+Получает или задает разрешение по оси Y.
 
 ```csharp
 public TiffRational Yresolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разрешение по оси Y.
+Разрешение по оси y.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

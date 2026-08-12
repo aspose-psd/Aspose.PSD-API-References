@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.LayerSectionResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSectionResource строитель. Инициализирует новый экземплярLayerSectionResource класс.
+title: "LayerSectionResource.LayerSectionResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LayerSectionResource. Инициализирует новый экземпляр класса LayerSectionResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource constructor
 
-Инициализирует новый экземпляр[`LayerSectionResource`](../) класс.
+Инициализирует новый экземпляр класса [`LayerSectionResource`](../).
 
 ```csharp
 public LayerSectionResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerSectionResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

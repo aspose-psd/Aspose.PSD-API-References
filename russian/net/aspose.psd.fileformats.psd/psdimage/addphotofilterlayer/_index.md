@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет слой PhotoFilter.
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage метод. Добавляет слой PhotoFilter"
 type: docs
-weight: 400
+weight: 420
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
-Добавляет слой PhotoFilter.
+Добавляет слой фотофильтра.
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
@@ -20,14 +21,14 @@ public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 
 ### Возвращаемое значение
 
-Созданный слой фотофильтра
+Создан слой PhotoFilter
 
-### Смотрите также
+### См. также
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

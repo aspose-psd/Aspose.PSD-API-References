@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetDirectorPhotography
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает операторапостановщика.
+title: "XmpDynamicMediaPackage.SetDirectorPhotography"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает оператора"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirectorPhotography method
 
-Устанавливает оператора-постановщика.
+Устанавливает оператора‑постановщика.
 
 ```csharp
 public void SetDirectorPhotography(string directorPhotography)
@@ -16,12 +17,12 @@ public void SetDirectorPhotography(string directorPhotography)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| directorPhotography | String | Оператор-постановщик. |
+| directorPhotography | String | Режиссёр фотографии. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

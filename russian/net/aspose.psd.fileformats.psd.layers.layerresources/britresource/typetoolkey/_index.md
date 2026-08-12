@@ -1,23 +1,24 @@
 ---
-title: BritResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: BritResource поле. Информационный ключ типа инструмента.
+title: "BritResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BritResource поле. Ключ информации инструмента типа"
 type: docs
-weight: 90
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BritResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BritResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

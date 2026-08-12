@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает значение указывающее присутствуют ли дополнительные выборки.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Возвращает значение, указывающее, присутствуют ли дополнительные образцы"
 type: docs
-weight: 230
+weight: 240
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-Получает значение, указывающее, присутствуют ли дополнительные выборки.
+Получает значение, указывающее, присутствуют ли дополнительные образцы.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` присутствуют ли лишние пробы; в противном случае,`ЛОЖЬ` .
+`true` если присутствуют дополнительные образцы; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

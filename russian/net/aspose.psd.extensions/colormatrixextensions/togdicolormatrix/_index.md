@@ -1,14 +1,15 @@
 ---
-title: ColorMatrixExtensions.ToGdiColorMatrix
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMatrixExtensions метод. ПреобразуетColorMatrix кColorMatrix .
+title: "ColorMatrixExtensions.ToGdiColorMatrix"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorMatrixExtensions. Преобразует ColorMatrix в ColorMatrix"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/colormatrixextensions/togdicolormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions.ToGdiColorMatrix method
 
-Преобразует[`ColorMatrix`](../../../aspose.psd/colormatrix/) кColorMatrix .
+Преобразует [`ColorMatrix`](../../../aspose.psd/colormatrix/) в ColorMatrix.
 
 ```csharp
 public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
@@ -16,17 +17,17 @@ public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorMatrix | ColorMatrix | Цветовая матрица для преобразования. |
+| colorMatrix | ColorMatrix | Матрица цвета для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйColorMatrix .
+Преобразованная ColorMatrix.
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../../aspose.psd/colormatrix/)
 * class [ColorMatrixExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../colormatrixextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

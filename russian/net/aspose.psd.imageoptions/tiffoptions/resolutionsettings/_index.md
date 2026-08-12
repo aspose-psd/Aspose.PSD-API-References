@@ -1,24 +1,25 @@
 ---
-title: TiffOptions.ResolutionSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает параметры разрешения.
+title: "TiffOptions.ResolutionSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает настройки разрешения"
 type: docs
-weight: 360
+weight: 370
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionSettings property
 
-Получает или задает параметры разрешения.
+Получает или задает настройки разрешения.
 
 ```csharp
 public override ResolutionSetting ResolutionSettings { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

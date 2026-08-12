@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRegion
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Заполняет внутреннюю частьRegion .
+title: "Graphics.FillRegion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Заполняет внутреннюю часть области Region."
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-Заполняет внутреннюю часть[`Region`](../../region/) .
+Заполняет внутреннюю часть [`Region`](../../region/).
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
@@ -16,21 +17,21 @@ public void FillRegion(Brush brush, Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
 | region | Region | [`Region`](../../region/) который представляет область для заполнения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *region* нулевой. |
+| ArgumentNullException | *brush* равно null. -или- *region* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

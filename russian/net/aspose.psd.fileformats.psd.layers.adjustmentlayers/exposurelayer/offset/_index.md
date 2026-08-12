@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Offset
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExposureLayer свойство. Получает или задает смещение. Для PS диапазон смещения составляет от 05 до 05
+title: "ExposureLayer.Offset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExposureLayer. Получает или задает Offset. Для PS диапазон Offset от 0.5 до 0.5"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/offset/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Offset property
 
-Получает или задает смещение. Для PS диапазон смещения составляет от -0,5 до +0,5
+Получает или задает смещение. В диапазоне PS значение Offset от -0.5 до +0.5.
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Смещение.
 
-### Смотрите также
+### См. также
 
 * class [ExposureLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

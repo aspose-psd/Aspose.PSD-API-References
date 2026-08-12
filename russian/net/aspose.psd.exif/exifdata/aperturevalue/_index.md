@@ -1,28 +1,29 @@
 ---
-title: ExifData.ApertureValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение апертуры.
+title: "ExifData.ApertureValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение диафрагмы"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
-Получает или задает значение апертуры.
+Получает или задаёт значение диафрагмы.
 
 ```csharp
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение диафрагмы.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

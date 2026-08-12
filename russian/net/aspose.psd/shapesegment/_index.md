@@ -1,11 +1,12 @@
 ---
-title: Class ShapeSegment
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ShapeSegment сорт. Представляет сегмент формы. Сегмент  это линия или кривая соединяющая две точки.
+title: "Класс ShapeSegment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ShapeSegment. Представляет сегмент формы. Сегмент — это линия или кривая, соединяющая две точки."
 type: docs
-weight: 5430
+weight: 5930
 url: /ru/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
 Представляет сегмент формы. Сегмент — это линия или кривая, соединяющая две точки.
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd/shapesegment/
 public abstract class ShapeSegment
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Получает конечную точку. |
-| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Получает начальную точку. |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Возвращает конечную точку. |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Возвращает начальную точку. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

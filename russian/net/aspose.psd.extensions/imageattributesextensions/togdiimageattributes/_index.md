@@ -1,14 +1,15 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributesExtensions метод. ПреобразуетImageAttributes кImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributesExtensions. Преобразует ImageAttributes в ImageAttributes."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-Преобразует[`ImageAttributes`](../../../aspose.psd/imageattributes/) кImageAttributes .
+Преобразует [`ImageAttributes`](../../../aspose.psd/imageattributes/) в ImageAttributes.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
@@ -16,17 +17,17 @@ public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttribut
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | [`ImageAttributes`](../../../aspose.psd/imageattributes/) для преобразования. |
+| imageAttributes | ImageAttributes | Объект [`ImageAttributes`](../../../aspose.psd/imageattributes/) для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйImageAttributes.
+Преобразованные ImageAttributes.
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

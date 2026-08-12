@@ -1,14 +1,15 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Справочник по Aspose.PSD для .NET API
-description: Функция обработчика событий Progress reference
+title: "Делегат ProgressEventHandler"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Ссылка на функцию обработчика события прогресса"
 type: docs
-weight: 5280
+weight: 5780
 url: /ru/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-Функция обработчика событий Progress reference
+Ссылка на функцию обработчика события прогресса
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
@@ -16,11 +17,11 @@ public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | Данные обработчика события progress. |
+| информация | ProgressEventHandlerInfo | Данные обработчика события прогресса. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
+Следующий пример демонстрирует, что прогресс конвертации документа работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

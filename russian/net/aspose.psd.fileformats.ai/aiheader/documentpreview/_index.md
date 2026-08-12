@@ -1,11 +1,12 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задает предварительный просмотр документа.
+title: "AiHeader.DocumentPreview"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает предварительный просмотр документа."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
 Получает или задает предварительный просмотр документа.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 public string DocumentPreview { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Предварительный просмотр документа.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

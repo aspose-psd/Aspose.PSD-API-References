@@ -1,11 +1,12 @@
 ---
-title: XmpRdfRoot.XmpRdfRoot
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRdfRoot строитель. Конструктор по умолчанию.
+title: "XmpRdfRoot.XmpRdfRoot"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpRdfRoot. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmprdfroot/xmprdfroot/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp/xmprdfroot/xmprdfroot/
 public XmpRdfRoot()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpRdfRoot](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmprdfroot/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

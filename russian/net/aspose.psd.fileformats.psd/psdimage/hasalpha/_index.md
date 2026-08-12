@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает разрешение по вертикали в пикселях на дюйм этогоRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задаёт вертикальное разрешение в пикселях на дюйм этого RasterImage"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-Получает или задает разрешение по вертикали в пикселях на дюйм этого[`RasterImage`](../../../aspose.psd/rasterimage/) .
+Получает или задаёт вертикальное разрешение в пикселях на дюйм этого [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если у этого экземпляра есть альфа; в противном случае,`ЛОЖЬ` .
+`true` если данный экземпляр имеет альфа-канал; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

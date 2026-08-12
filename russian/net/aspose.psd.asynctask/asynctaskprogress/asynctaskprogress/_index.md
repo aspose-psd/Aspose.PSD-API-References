@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: Справочник по Aspose.PSD для .NET API
-description: AsyncTaskProgress строитель. Инициализирует новый экземплярAsyncTaskProgress класс.
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор AsyncTaskProgress. Инициализирует новый экземпляр класса AsyncTaskProgress"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-Инициализирует новый экземпляр[`AsyncTaskProgress`](../) класс.
+Инициализирует новый экземпляр класса [`AsyncTaskProgress`](../).
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
@@ -16,13 +17,13 @@ public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| progressPercentage | Int32 | Процент прогресса. |
-| duration | TimeSpan | Продолжительность. |
+| progressPercentage | Int32 | Процент выполнения. |
+| длительность | TimeSpan | Длительность. |
 
-### Смотрите также
+### См. также
 
 * class [AsyncTaskProgress](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

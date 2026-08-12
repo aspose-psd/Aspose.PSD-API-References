@@ -1,14 +1,15 @@
 ---
-title: IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels
-second_title: Справочник по Aspose.PSD для .NET API
-description: IRasterImageArgb32PixelLoader метод. Загружает 32битные пиксели ARGB частично блоками.
+title: "IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IRasterImageArgb32PixelLoader. Загружает 32‑битные ARGB‑пиксели частично блоками"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels method
 
-Загружает 32-битные пиксели ARGB частично (блоками).
+Загружает 32‑битные ARGB‑пиксели частично (по блокам).
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
@@ -17,15 +18,15 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, из которого загружаются пиксели. |
-| partialPixelLoader | IPartialArgb32PixelLoader | Частичная загрузка пикселей. |
+| прямоугольник | Rectangle | Прямоугольник, из которого загружаются пиксели. |
+| partialPixelLoader | IPartialArgb32PixelLoader | Частичный загрузчик пикселей. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * interface [IRasterImageArgb32PixelLoader](../)
-* пространство имен [Aspose.PSD](../../irasterimageargb32pixelloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

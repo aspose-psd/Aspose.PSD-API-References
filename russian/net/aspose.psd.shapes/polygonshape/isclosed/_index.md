@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Справочник по Aspose.PSD для .NET API
-description: PolygonShape свойство. Получает или задает значение указывающее закрыта ли фигура.
+title: "PolygonShape.IsClosed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PolygonShape. Возвращает или задает значение, указывающее, закрыта ли фигура"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
 Получает или задает значение, указывающее, закрыта ли фигура.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.shapes/polygonshape/isclosed/
 public bool IsClosed { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если форма закрыта; в противном случае,`ЛОЖЬ`.
+`true`, если фигура закрыта; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

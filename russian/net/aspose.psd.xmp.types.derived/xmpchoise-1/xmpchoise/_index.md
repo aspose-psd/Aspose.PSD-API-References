@@ -1,11 +1,12 @@
 ---
-title: XmpChoise1.XmpChoise
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpChoise строитель. Конструктор по умолчанию.
+title: "XmpChoise1.XmpChoise"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpChoise. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 public XmpChoise()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpChoise&lt;T&gt;](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartResourceCreator.GeneratePlacedResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartResourceCreator метод. Генерирует размещенный ресурс.
+title: "SmartResourceCreator.GeneratePlacedResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartResourceCreator. Генерирует размещённый ресурс"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GeneratePlacedResource method
 
-Генерирует размещенный ресурс.
+Создаёт размещённый ресурс.
 
 ```csharp
 public PlLdResource GeneratePlacedResource()
@@ -16,13 +17,13 @@ public PlLdResource GeneratePlacedResource()
 
 ### Возвращаемое значение
 
-Сгенерированный[`PlLdResource`](../../plldresource/) пример.
+Сгенерированный экземпляр [`PlLdResource`](../../plldresource/).
 
-### Смотрите также
+### См. также
 
 * class [PlLdResource](../../plldresource/)
 * class [SmartResourceCreator](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

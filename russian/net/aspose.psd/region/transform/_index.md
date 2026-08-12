@@ -1,14 +1,15 @@
 ---
-title: Region.Transform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Преобразует этоRegion указаннымMatrix .
+title: "Region.Transform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Преобразует этот Region с помощью указанной Matrix"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.psd/region/transform/
 ---
+{{< psd/tize >}}
 ## Region.Transform method
 
-Преобразует это[`Region`](../) указанным[`Matrix`](../../matrix/) .
+Преобразует этот [`Region`](../) с помощью указанной [`Matrix`](../../matrix/).
 
 ```csharp
 public void Transform(Matrix matrix)
@@ -16,19 +17,19 @@ public void Transform(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) с помощью которого можно преобразовать это[`Region`](../). |
+| matrix | Matrix | [`Matrix`](../../matrix/), с помощью которой следует преобразовать этот [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *matrix* нулевой. |
+| ArgumentNullException | *matrix* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

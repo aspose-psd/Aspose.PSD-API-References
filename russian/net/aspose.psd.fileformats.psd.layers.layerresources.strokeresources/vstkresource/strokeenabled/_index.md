@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeEnabled
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает значение указывающее включен ли эффект обводки.
+title: "VstkResource.StrokeEnabled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Возвращает или задает значение, указывающее, включён ли эффект штриха"
 type: docs
-weight: 70
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeEnabled property
 
-Получает или задает значение, указывающее, включен ли эффект обводки.
+Получает или задает значение, указывающее, включен ли эффект штриха.
 
 ```csharp
 public bool StrokeEnabled { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

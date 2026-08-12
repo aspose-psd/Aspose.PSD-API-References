@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Справочник по Aspose.PSD для .NET API
-description: FxrpResource свойство. Получает или задает y контрольной точки
+title: "FxrpResource.Y"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FxrpResource. Получает или задает координату y опорной точки"
 type: docs
-weight: 70
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-Получает или задает y контрольной точки
+Получает или задает координату y опорной точки
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Y опорной точки
+Координата y опорной точки
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

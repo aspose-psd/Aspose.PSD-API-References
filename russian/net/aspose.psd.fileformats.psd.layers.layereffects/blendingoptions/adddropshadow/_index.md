@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions метод. Добавляет эффект тени.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод BlendingOptions. Добавляет эффект отбрасываемой тени"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-Добавляет эффект тени.
+Добавляет эффект отбрасываемой тени.
 
 ```csharp
 public DropShadowEffect AddDropShadow()
@@ -16,13 +17,13 @@ public DropShadowEffect AddDropShadow()
 
 ### Возвращаемое значение
 
-Создано[`DropShadowEffect`](../../dropshadoweffect/) объект
+Создан объект [`DropShadowEffect`](../../dropshadoweffect/)
 
-### Смотрите также
+### См. также
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

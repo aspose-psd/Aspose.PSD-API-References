@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList метод. Копирует элементыICollection дляArray  начиная с определенногоArray индекс.
+title: "NonGenericList.CopyTo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericList. Копирует элементы ICollection в Array, начиная с определённого индекса массива"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-Копирует элементыICollection дляArray , начиная с определенногоArray индекс.
+Копирует элементы ICollection в массив, начиная с определённого индекса массива.
 
 ```csharp
 public void CopyTo(Array array, int index)
@@ -16,13 +17,13 @@ public void CopyTo(Array array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Array | одномерныйArray это место назначения элементов, скопированных изICollection .Array должны иметь индексацию с отсчетом от нуля. |
-| index | Int32 | Индекс с отсчетом от нуля в*array* при котором начинается копирование. |
+| array | Array | Одномерный Array, который является получателем элементов, скопированных из ICollection. Array должен иметь нулевую индексацию. |
+| index | Int32 | Нулевой индекс в *array*, с которого начинается копирование. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

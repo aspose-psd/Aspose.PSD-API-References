@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCity
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает город.
+title: "PhotoshopPackage.SetCity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Устанавливает город"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCity method
 
 Устанавливает город.
@@ -16,12 +17,12 @@ public void SetCity(string city)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| city | String | Название города. |
+| город | String | Название города. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

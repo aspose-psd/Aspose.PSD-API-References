@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetInstructions
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает инструкции.
+title: "PhotoshopPackage.SetInstructions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PhotoshopPackage метод. Устанавливает инструкции"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetInstructions method
 
 Устанавливает инструкции.
@@ -18,10 +19,10 @@ public void SetInstructions(string instructions)
 | --- | --- | --- |
 | instructions | String | Инструкции. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator сорт. Определяет класс SmartResourceCreator который может создавать ресурсы PlLd SoLd и SoLe. Используется для поддержки слоев смартобъектов в изображениях Adobe Photoshop.
+title: "Класс SmartResourceCreator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator класс. Определяет класс SmartResourceCreator, который может создавать ресурсы PlLd, SoLd и SoLe. Используется для поддержки слоёв смарт‑объектов в изображениях Adobe Photoshop."
 type: docs
-weight: 3000
+weight: 3350
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-Определяет класс SmartResourceCreator, который может создавать ресурсы PlLd, SoLd и SoLe. Используется для поддержки слоев смарт-объектов в изображениях Adobe® Photoshop®.
+Определяет класс SmartResourceCreator, который может создавать ресурсы PlLd, SoLd и SoLe. Используется для поддержки слоёв умных объектов в изображениях Adobe® Photoshop®.
 
 ```csharp
 public class SmartResourceCreator
@@ -18,19 +19,19 @@ public class SmartResourceCreator
 
 | Имя | Описание |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | Инициализирует новый экземпляр`SmartResourceCreator` класс. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Инициализирует новый экземпляр`SmartResourceCreator` class с заданным шаблоном. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Инициализирует новый экземпляр`SmartResourceCreator` класс. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Инициализирует новый экземпляр класса `SmartResourceCreator`. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Инициализирует новый экземпляр класса `SmartResourceCreator` с заданным шаблоном. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Инициализирует новый экземпляр класса `SmartResourceCreator`. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Генерирует размещенный ресурс. |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Генерирует встроенный ресурс смарт-объекта. |
-| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Генерирует внешний ресурс смарт-объекта. |
+| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Создаёт размещённый ресурс. |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Создаёт встроенный ресурс смарт‑объекта. |
+| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Создаёт внешний ресурс смарт‑объекта. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурсов SoLEResource, SmartObjectResource и PlacedResource.
 
@@ -126,15 +127,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Эти значения также должны быть изменены в PlLdResource (с указанным UniqueId)
-    // и некоторые из них должны соответствовать подчеркиванию смарт-объекта в LinkDataSource
+    // Эти значения также следует изменить в PlLdResource (с указанным UniqueId)
+    // и некоторые из них должны соответствовать подлежащему смарт‑объекту в LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
     resource.Perspective = (double)newValues[8]; // 0.123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Этот уникальный идентификатор должен быть изменен в ссылках, если таковые имеются
+    // Этот уникальный Id следует изменить в ссылках, если они есть
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,16 +164,17 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Будьте осторожны с некоторыми параметрами: сохраненное изображение может стать нечитаемым для Adobe® Photoshop®
+    // Будьте осторожны с некоторыми параметрами: сохранённое изображение может стать нечитаемым в Adobe® Photoshop®
     ////resource.UOrder = 6;
-    ////ресурс.VOrder = 9;
+    ////resource.VOrder = 9;
 
-    // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-    // или изменить подчеркивающий смарт-объект на векторный тип
+    // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+    // или измените подлежащий смарт‑объект на векторный тип
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Должен быть действительный PlLdResource с этим уникальным идентификатором
-    ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Должен существовать действительный PlLdResource с этим уникальным Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -335,12 +337,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

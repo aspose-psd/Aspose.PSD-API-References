@@ -1,30 +1,31 @@
 ---
-title: CurveShape.CurveShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurveShape строитель. Инициализирует новый экземплярCurveShape класс.
+title: "CurveShape.CurveShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор CurveShape. Инициализирует новый экземпляр класса CurveShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-Инициализирует новый экземпляр[`CurveShape`](../) класс.
+Инициализирует новый экземпляр класса [`CurveShape`](../).
 
 ```csharp
 public CurveShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [CurveShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../curveshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`CurveShape`](../) сорт. Используется натяжение по умолчанию 0,5.
+Инициализирует новый экземпляр класса [`CurveShape`](../). По умолчанию используется натяжение 0.5.
 
 ```csharp
 public CurveShape(PointF[] points)
@@ -32,20 +33,20 @@ public CurveShape(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
+| точки | PointF[] | Массив точек. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../curveshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-Инициализирует новый экземпляр[`CurveShape`](../) сорт. Используется натяжение по умолчанию 0,5.
+Инициализирует новый экземпляр класса [`CurveShape`](../). По умолчанию используется натяжение 0.5.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
@@ -53,21 +54,21 @@ public CurveShape(PointF[] points, bool isClosed)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
-| isClosed | Boolean | если установлено`истинный` кривая замкнута. |
+| точки | PointF[] | Массив точек. |
+| isClosed | Boolean | если установить `true`, кривая замкнута. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../curveshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-Инициализирует новый экземпляр[`CurveShape`](../) класс.
+Инициализирует новый экземпляр класса [`CurveShape`](../).
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
@@ -75,21 +76,21 @@ public CurveShape(PointF[] points, float tension)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
-| tension | Single | Кривая напряжения. |
+| точки | PointF[] | Массив точек. |
+| натяжение | Single | Натяжение кривой. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../curveshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-Инициализирует новый экземпляр[`CurveShape`](../) класс.
+Инициализирует новый экземпляр класса [`CurveShape`](../).
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
@@ -97,15 +98,15 @@ public CurveShape(PointF[] points, float tension, bool isClosed)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив очков. |
-| tension | Single | Кривая напряжения. |
-| isClosed | Boolean | если установлено`истинный` кривая замкнута. |
+| точки | PointF[] | Массив точек. |
+| натяжение | Single | Натяжение кривой. |
+| isClosed | Boolean | если установить `true`, кривая замкнута. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../curveshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

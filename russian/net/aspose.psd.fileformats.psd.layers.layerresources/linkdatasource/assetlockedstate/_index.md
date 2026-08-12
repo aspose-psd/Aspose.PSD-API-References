@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.AssetLockedState
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает или задает значение указывающее заблокирован ли ресурс PSD. Состояние блокировки ресурса для ресурсов Adobe Photoshop CC Libraries.
+title: "LinkDataSource.AssetLockedState"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Возвращает или задает значение, указывающее, заблокирован ли ресурс PSD. Состояние блокировки ресурса для активов Adobe Photoshop СС Libraries."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.AssetLockedState property
 
-Получает или задает значение, указывающее, заблокирован ли ресурс PSD. Состояние блокировки ресурса для ресурсов Adobe® Photoshop® CC Libraries.
+Получает или задает значение, указывающее, заблокирован ли ресурс PSD. Состояние блокировки ресурса для активов Adobe® Photoshop® СС Libraries.
 
 ```csharp
 public bool AssetLockedState { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если ресурс Adobe® Photoshop® заблокирован; в противном случае,`ЛОЖЬ` .
+`true` если ресурс Adobe® Photoshop® заблокирован; иначе `false`.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству AssetLockedState, оно доступно только для источника данных liFE или liFE с версией 7. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Невозможно получить доступ к свойству AssetLockedState, оно доступно только для источника данных liFE или liFE с версией 7. |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextShape.Font
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape свойство. Получает или задает шрифт используемый для рисования текста.
+title: "TextShape.Font"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextShape. Получает или задает шрифт, используемый для отрисовки текста"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
-Получает или задает шрифт, используемый для рисования текста.
+Получает или задает шрифт, используемый для отрисовки текста.
 
 ```csharp
 public Font Font { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Шрифт, используемый для рисования текста.
+Шрифт, используемый для отрисовки текста.
 
-### Смотрите также
+### См. также
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

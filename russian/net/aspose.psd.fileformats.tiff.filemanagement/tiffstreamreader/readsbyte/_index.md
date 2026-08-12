@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSByte
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Читает байтовые данные со знаком из потока.
+title: "TiffStreamReader.ReadSByte"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamReader. Считывает данные знакового байта из потока"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByte method
 
-Читает байтовые данные со знаком из потока.
+Считывает знаковые байтовые данные из потока.
 
 ```csharp
 public sbyte ReadSByte(long position)
@@ -16,16 +17,16 @@ public sbyte ReadSByte(long position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
+| позиция | Int64 | Позиция, из которой читать. |
 
 ### Возвращаемое значение
 
-Значение байта со знаком.
+Значение знакового байта.
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

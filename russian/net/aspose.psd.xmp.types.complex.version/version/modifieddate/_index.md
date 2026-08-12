@@ -1,11 +1,12 @@
 ---
-title: Version.ModifiedDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: Version свойство. Получает или задает дату изменения.
+title: "Version.ModifiedDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Version. Получает или задает дату изменения"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
 Получает или задает дату изменения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 public DateTime ModifiedDate { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Дата изменения.
 
-### Смотрите также
+### См. также
 
 * class [Version](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

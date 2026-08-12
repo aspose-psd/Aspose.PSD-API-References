@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantCmyk свойство. Получает или задает значение голубого компонента.
+title: "ColorantCmyk.Cyan"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantCmyk. Получает или задает значение голубого компонента"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
-Получает или задает значение голубого компонента.
+Получает или задает значение цианового компонента.
 
 ```csharp
 public float Cyan { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение голубого компонента.
 
-### Смотрите также
+### См. также
 
 * class [ColorantCmyk](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

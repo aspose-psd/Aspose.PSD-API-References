@@ -1,11 +1,12 @@
 ---
-title: StreamSource.Stream
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamSource свойство. Получает поток.
+title: "StreamSource.Stream"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StreamSource. Получает поток"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
 Получает поток.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.sources/streamsource/stream/
 public Stream Stream { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Исходный поток.
 
-### Смотрите также
+### См. также
 
 * class [StreamSource](../)
-* пространство имен [Aspose.PSD.Sources](../../streamsource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

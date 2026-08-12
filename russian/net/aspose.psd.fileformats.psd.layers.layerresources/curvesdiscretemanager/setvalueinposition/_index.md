@@ -1,14 +1,15 @@
 ---
-title: CurvesDiscreteManager.SetValueInPosition
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvesDiscreteManager метод. Устанавливает значение в position.
+title: "CurvesDiscreteManager.SetValueInPosition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CurvesDiscreteManager метод. Устанавливает значение в позиции"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueInPosition method
 
-Устанавливает значение в position.
+Устанавливает значение в позиции.
 
 ```csharp
 public void SetValueInPosition(int channelIndex, byte position, byte value)
@@ -17,13 +18,13 @@ public void SetValueInPosition(int channelIndex, byte position, byte value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | channelIndex | Int32 | Индекс канала. |
-| position | Byte | Позиция. |
-| value | Byte | Значение. |
+| позиция | Byte | Позиция. |
+| значение | Byte | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [CurvesDiscreteManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

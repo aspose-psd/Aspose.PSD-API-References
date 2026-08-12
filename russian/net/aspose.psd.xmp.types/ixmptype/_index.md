@@ -1,11 +1,12 @@
 ---
-title: Interface IXmpType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.IXmpType интерфейс. Базовый интерфейс для типа XMP.
+title: "Интерфейс IXmpType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.Xmp.Types.IXmpType. Базовый интерфейс для типа XMP"
 type: docs
-weight: 6190
+weight: 6690
 url: /ru/net/aspose.psd.xmp.types/ixmptype/
 ---
+{{< psd/tize >}}
 ## IXmpType interface
 
 Базовый интерфейс для типа XMP.
@@ -18,11 +19,11 @@ public interface IXmpType
 
 | Имя | Описание |
 | --- | --- |
-| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

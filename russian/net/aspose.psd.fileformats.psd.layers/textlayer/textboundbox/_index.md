@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer свойство. Получает или задает поле с привязкой к тексту.
+title: "TextLayer.TextBoundBox"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextLayer. Получает или задает ограничивающий прямоугольник текста"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-Получает или задает поле с привязкой к тексту.
+Получает или задает ограничивающий прямоугольник текста.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Поле с привязкой к тексту.
+Ограничивающий прямоугольник текста.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

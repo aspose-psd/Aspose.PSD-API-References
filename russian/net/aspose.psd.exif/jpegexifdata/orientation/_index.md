@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Orientation
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает ориентацию.
+title: "JpegExifData.Orientation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает ориентацию"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
 Получает или задает ориентацию.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/jpegexifdata/orientation/
 public ExifOrientation Orientation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ориентация.
 
-### Смотрите также
+### См. также
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

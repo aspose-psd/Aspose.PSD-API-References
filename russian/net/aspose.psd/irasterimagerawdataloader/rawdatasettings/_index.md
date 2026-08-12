@@ -1,11 +1,12 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: IRasterImageRawDataLoader свойство. Получает текущие настройки необработанных данных. Обратите внимание что при использовании этих настроек данные загружаются без преобразования.
+title: "IRasterImageRawDataLoader.RawDataSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IRasterImageRawDataLoader. Возвращает текущие настройки необработанных данных. Обратите внимание, что при использовании этих настроек данные загружаются без преобразования"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.RawDataSettings property
 
 Получает текущие настройки необработанных данных. Обратите внимание, что при использовании этих настроек данные загружаются без преобразования.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Текущие настройки необработанных данных.
 
-### Смотрите также
+### См. также
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* пространство имен [Aspose.PSD](../../irasterimagerawdataloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.UOrder
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает значение порядка U размещенного слоя в PSDфайле.
+title: "PlacedResource.UOrder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задаёт значение порядка U размещённого слоя в файле PSD"
 type: docs
-weight: 190
+weight: 180
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UOrder property
 
-Получает или задает значение порядка U размещенного слоя в PSD-файле.
+Получает или задает значение порядка U размещённого слоя в файле PSD.
 
 ```csharp
 public int UOrder { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение порядка U размещенного слоя.
+Значение порядка U размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

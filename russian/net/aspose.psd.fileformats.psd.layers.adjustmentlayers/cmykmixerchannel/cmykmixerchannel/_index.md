@@ -1,14 +1,15 @@
 ---
-title: CmykMixerChannel.CmykMixerChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykMixerChannel строитель. Инициализирует новый экземплярCmykMixerChannel класс.
+title: "CmykMixerChannel.CmykMixerChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор CmykMixerChannel. Инициализирует новый экземпляр класса CmykMixerChannel"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel constructor
 
-Инициализирует новый экземпляр[`CmykMixerChannel`](../) класс.
+Инициализирует новый экземпляр класса [`CmykMixerChannel`](../).
 
 ```csharp
 public CmykMixerChannel(byte[] data)
@@ -16,12 +17,12 @@ public CmykMixerChannel(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
-### Смотрите также
+### См. также
 
 * class [CmykMixerChannel](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

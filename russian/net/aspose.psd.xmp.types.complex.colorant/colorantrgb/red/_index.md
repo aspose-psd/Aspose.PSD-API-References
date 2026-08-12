@@ -1,11 +1,12 @@
 ---
-title: ColorantRgb.Red
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantRgb свойство. Получает или задает значение красного компонента.
+title: "ColorantRgb.Red"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantRgb. Получает или задает значение красного компонента"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/red/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Red property
 
 Получает или задает значение красного компонента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/red/
 public byte Red { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение красного компонента.
 
-### Смотрите также
+### См. также
 
 * class [ColorantRgb](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

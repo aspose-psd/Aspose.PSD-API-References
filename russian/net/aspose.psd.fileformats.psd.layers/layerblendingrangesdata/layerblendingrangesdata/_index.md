@@ -1,11 +1,12 @@
 ---
-title: LayerBlendingRangesData.LayerBlendingRangesData
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerBlendingRangesData строитель. Конструктор по умолчанию.
+title: "LayerBlendingRangesData.LayerBlendingRangesData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LayerBlendingRangesData. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/layerblen
 public LayerBlendingRangesData()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerBlendingRangesData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

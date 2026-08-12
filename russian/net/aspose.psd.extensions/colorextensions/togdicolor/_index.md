@@ -1,14 +1,15 @@
 ---
-title: ColorExtensions.ToGdiColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorExtensions метод. ПреобразуетColor кColor .
+title: "ColorExtensions.ToGdiColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorExtensions. Преобразует Color в Color"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/colorextensions/togdicolor/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColor method
 
-Преобразует[`Color`](../../../aspose.psd/color/) кColor .
+Преобразует [`Color`](../../../aspose.psd/color/) в Color.
 
 ```csharp
 public static Color ToGdiColor(Color color)
@@ -16,17 +17,17 @@ public static Color ToGdiColor(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | [`Color`](../../../aspose.psd/color/) для преобразования. |
+| color | Color | Элемент [`Color`](../../../aspose.psd/color/) для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйColor.
+Преобразованный Color.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../colorextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.DataSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает размер данных ресурса в байтах.
+title: "ThumbnailResource.DataSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Возвращает размер данных ресурса в байтах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/datasize/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.DataSize property
 
 Получает размер данных ресурса в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/datasize/
 public override int DataSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер данных ресурса.
 
-### Смотрите также
+### См. также
 
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

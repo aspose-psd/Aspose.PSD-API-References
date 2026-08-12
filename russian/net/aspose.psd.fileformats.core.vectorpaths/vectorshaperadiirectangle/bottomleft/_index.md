@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeRadiiRectangle свойство. Получает или задает нижнюю часть.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorShapeRadiiRectangle свойство. Получает или задает нижнее значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Получает или задает нижнюю часть.
+Получает или задает нижнее значение.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дно.
+Нижнее значение.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeRadiiRectangle](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpRightsManagementPackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpRm.XmpRightsManagementPackage сорт. Представляет пространство имен управления правами XMP.
+title: "Класс XmpRightsManagementPackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Schemas.XmpRm.XmpRightsManagementPackage класс. Представляет пространство имен XMP Rights Management"
 type: docs
-weight: 5930
+weight: 6430
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage class
 
-Представляет пространство имен управления правами XMP.
+Представляет пространство имён XMP Rights Management.
 
 ```csharp
 public sealed class XmpRightsManagementPackage : XmpPackage
@@ -20,11 +21,11 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 | --- | --- |
 | [XmpRightsManagementPackage](xmprightsmanagementpackage/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Получает или задаетObject с указанным ключом. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Получает или задает объект с указанным ключом. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Получает ключи в пакете XMP. |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Получает префикс. |
@@ -36,22 +37,22 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue/)(string, string) | Добавляет строковое свойство. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Определяет, содержит ли указанный ключ key. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Определяет, содержит ли указанный ключ ключ. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Возвращает перечислитель, который перебирает элементы коллекции. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Преобразует значение XMP в представление XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Удалить значение с указанным ключом. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Удаляет значение с указанным ключом. |
 | [SetCertificate](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/)(string) | Устанавливает сертификат. |
-| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/)(bool) | Отмечает как управление правами content |
+| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/)(bool) | Помечает как контент управления правами |
 | [SetOwners](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/)(string[]) | Устанавливает владельцев. |
 | [SetUsageTerms](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/)(LangAlt) | Устанавливает условия использования. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Устанавливает значение. |
-| [SetWebStatement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/)(string) | Устанавливает веб-оператор. |
+| [SetWebStatement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/)(string) | Устанавливает веб‑заявление. |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Устанавливает значение типа XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../aspose.psd.xmp.schemas.xmprm/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../)
 
 

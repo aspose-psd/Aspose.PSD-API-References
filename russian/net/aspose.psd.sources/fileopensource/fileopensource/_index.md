@@ -1,14 +1,15 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileOpenSource строитель. Инициализирует новый экземплярFileOpenSource класс.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор FileOpenSource. Инициализирует новый экземпляр класса FileOpenSource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-Инициализирует новый экземпляр[`FileOpenSource`](../) класс.
+Инициализирует новый экземпляр класса [`FileOpenSource`](../).
 
 ```csharp
 public FileOpenSource(string filePath)
@@ -18,10 +19,10 @@ public FileOpenSource(string filePath)
 | --- | --- | --- |
 | filePath | String | Путь к файлу для открытия. |
 
-### Смотрите также
+### См. также
 
 * class [FileOpenSource](../)
-* пространство имен [Aspose.PSD.Sources](../../fileopensource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

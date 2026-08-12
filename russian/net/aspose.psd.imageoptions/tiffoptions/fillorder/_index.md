@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает порядок заполнения байтовых битов.
+title: "TiffOptions.FillOrder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает порядок заполнения битов байта"
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-Получает или задает порядок заполнения байтовых битов.
+Получает или задает порядок заполнения битов байта.
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Порядок заполнения байтовых битов.
+Порядок заполнения битов байта.
 
-### Смотрите также
+### См. также
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

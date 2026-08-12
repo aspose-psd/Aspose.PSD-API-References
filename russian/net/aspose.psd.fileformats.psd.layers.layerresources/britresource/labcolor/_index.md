@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: BritResource свойство. Получает или задает значение указывающее является ли лабораторный цвет.
+title: "BritResource.LabColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BritResource свойство. Получает или задает значение, указывающее, является ли цвет Lab"
 type: docs
-weight: 50
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-Получает или задает значение, указывающее, является ли [лабораторный цвет].
+Получает или задает значение, указывающее, является ли [lab color].
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [лабораторный цвет]; в противном случае,`ЛОЖЬ` .
+`true` если [lab color]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [BritResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

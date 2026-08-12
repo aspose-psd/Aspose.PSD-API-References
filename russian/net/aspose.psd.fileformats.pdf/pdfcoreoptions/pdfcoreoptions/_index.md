@@ -1,11 +1,12 @@
 ---
-title: PdfCoreOptions.PdfCoreOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfCoreOptions строитель. Конструктор по умолчанию.
+title: "PdfCoreOptions.PdfCoreOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PdfCoreOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcoreoptions/
 public PdfCoreOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfCoreOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

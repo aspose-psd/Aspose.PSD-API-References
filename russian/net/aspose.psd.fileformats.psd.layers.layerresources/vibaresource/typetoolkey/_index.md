@@ -1,27 +1,28 @@
 ---
-title: VibAResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: VibAResource поле. Информационный ключ типа инструмента.
+title: "VibAResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле VibAResource. Ключ информации о типе инструмента."
 type: docs
-weight: 80
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VibAResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка ресурса VibAResource.
+Следующий пример кода демонстрирует поддержку ресурса VibAResource.
 
 ```csharp
 [C#]
 
-// Пример поддержки чтения и записи Vibration Resource во время выполнения.
+// Пример поддержки чтения и записи ресурса вибрации во время выполнения.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VibAResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

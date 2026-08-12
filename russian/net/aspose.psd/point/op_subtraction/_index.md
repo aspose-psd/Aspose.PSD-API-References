@@ -1,14 +1,15 @@
 ---
-title: Point.op_Subtraction
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. ПереводитPoint отрицанием данногоSize .
+title: "Point.op_Subtraction"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Перемещает точку на отрицательное значение заданного Size."
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/point/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Point Subtraction operator
 
-Переводит[`Point`](../) отрицанием данного[`Size`](../../size/) .
+Перемещает [`Point`](../) на отрицательное значение заданного [`Size`](../../size/).
 
 ```csharp
 public static Point operator -(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point operator -(Point point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../) переводить. |
-| size | Size | А[`Size`](../../size/) который указывает пару чисел, которые нужно вычесть из координат*point*. |
+| point | Point | `[`Point`](../)` для перемещения. |
+| size | Size | Элемент [`Size`](../../size/), определяющий пару чисел для вычитания из координат *point*. |
 
 ### Возвращаемое значение
 
-А[`Point`](../) структура, которая переводится отрицанием данного[`Size`](../../size/) состав.
+Структура [`Point`](../), перемещённая на отрицательное значение заданной структуры [`Size`](../../size/).
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

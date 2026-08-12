@@ -1,14 +1,15 @@
 ---
-title: Color.FromKnownColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. СоздаетColor структура из указанного предопределенного цвета.
+title: "Color.FromKnownColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Создаёт структуру Color из указанного предопределённого цвета"
 type: docs
 weight: 1440
 url: /ru/net/aspose.psd/color/fromknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.FromKnownColor method
 
-Создает[`Color`](../) структура из указанного предопределенного цвета.
+Создаёт структуру [`Color`](../) из указанного предопределённого цвета.
 
 ```csharp
 public static Color FromKnownColor(KnownColor color)
@@ -16,17 +17,17 @@ public static Color FromKnownColor(KnownColor color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | KnownColor | Элемент[`KnownColor`](../../knowncolor/) перечисление. |
+| color | KnownColor | Элемент перечисления [`KnownColor`](../../knowncolor/). |
 
 ### Возвращаемое значение
 
-[`Color`](../) что создает этот метод.
+[`Color`](../), создаваемый этим методом.
 
-### Смотрите также
+### См. также
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

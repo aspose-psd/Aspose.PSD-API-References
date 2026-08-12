@@ -1,14 +1,15 @@
 ---
-title: TiffRational.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffRational метод. ВозвращаетString который представляет этот экземпляр.
+title: "TiffRational.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffRational. Возвращает String, представляющий этот экземпляр"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.tiff/tiffrational/tostring/
 ---
+{{< psd/tize >}}
 ## TiffRational.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

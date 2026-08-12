@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: InnerShadowEffect свойство. Получает или задает значение размытия в пикселях.
+title: "InnerShadowEffect.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InnerShadowEffect. Получает или задает значение размытия в пикселях"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Size property
 
 Получает или задает значение размытия в пикселях.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/si
 public int Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер.
 
-### Смотрите также
+### См. также
 
 * class [InnerShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

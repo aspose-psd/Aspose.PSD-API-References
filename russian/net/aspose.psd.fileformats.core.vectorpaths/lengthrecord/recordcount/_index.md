@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.RecordCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: LengthRecord свойство. Получает или задает количество записей.
+title: "LengthRecord.RecordCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LengthRecord. Возвращает или задает количество записей."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.RecordCount property
 
-Получает или задает количество записей.
+Возвращает или задает количество записей.
 
 ```csharp
 public ushort RecordCount { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество записей.
 
-### Смотрите также
+### См. также
 
 * class [LengthRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

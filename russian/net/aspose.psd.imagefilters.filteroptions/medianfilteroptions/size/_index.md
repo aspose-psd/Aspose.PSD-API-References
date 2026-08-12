@@ -1,11 +1,12 @@
 ---
-title: MedianFilterOptions.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: MedianFilterOptions свойство. Получает или задает размер.
+title: "MedianFilterOptions.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MedianFilterOptions. Получает или задает размер"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
 Получает или задает размер.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 public int Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер прямоугольника фильтра.
 
-### Смотрите также
+### См. также
 
 * class [MedianFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

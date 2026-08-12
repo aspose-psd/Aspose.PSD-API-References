@@ -1,30 +1,31 @@
 ---
-title: LclrResource.LclrResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LclrResource строитель. Инициализирует новый экземплярLclrResource класс.
+title: "LclrResource.LclrResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LclrResource. Инициализирует новый экземпляр класса LclrResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-Инициализирует новый экземпляр[`LclrResource`](../) класс.
+Инициализирует новый экземпляр класса [`LclrResource`](../).
 
 ```csharp
 public LclrResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LclrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-Инициализирует новый экземпляр[`LclrResource`](../) класс.
+Инициализирует новый экземпляр класса [`LclrResource`](../).
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
@@ -34,18 +35,18 @@ public LclrResource(SheetColorHighlightEnum color)
 | --- | --- | --- |
 | color | SheetColorHighlightEnum | Цвет. |
 
-### Смотрите также
+### См. также
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`LclrResource`](../) класс.
+Инициализирует новый экземпляр класса [`LclrResource`](../).
 
 ```csharp
 public LclrResource(byte[] data)
@@ -53,18 +54,18 @@ public LclrResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимое значение ресурса Lclr |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимое значение Lclr Resource |
 
-### Смотрите также
+### См. также
 
 * class [LclrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

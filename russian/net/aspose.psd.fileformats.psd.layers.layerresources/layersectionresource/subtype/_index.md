@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSectionResource свойство. Получает или задает подтип.
+title: "LayerSectionResource.Subtype"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerSectionResource. Получает или задает подтип"
 type: docs
-weight: 80
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
-Получает или задает подтип.
+Получает или задаёт подтип.
 
 ```csharp
 public LayerSectionSubtype Subtype { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

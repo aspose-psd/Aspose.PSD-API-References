@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantCmyk свойство. Получает или задает значение пурпурного компонента.
+title: "ColorantCmyk.Magenta"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantCmyk. Получает или задает значение пурпурного компонента"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
 Получает или задает значение пурпурного компонента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 public float Magenta { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение пурпурного компонента.
+Значение компонента мажента.
 
-### Смотрите также
+### См. также
 
 * class [ColorantCmyk](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

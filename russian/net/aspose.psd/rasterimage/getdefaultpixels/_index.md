@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultPixels
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Получает массив пикселей по умолчанию с помощью частичной загрузки пикселей.
+title: "RasterImage.GetDefaultPixels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Получает массив пикселей по умолчанию, используя частичный загрузчик пикселей"
 type: docs
 weight: 290
 url: /ru/net/aspose.psd/rasterimage/getdefaultpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultPixels method
 
-Получает массив пикселей по умолчанию с помощью частичной загрузки пикселей.
+Получает массив пикселей по умолчанию с использованием частичного загрузчика пикселей.
 
 ```csharp
 public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader partialPixelLoader)
@@ -16,15 +17,15 @@ public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader part
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, для которого нужно получить пиксели. |
-| partialPixelLoader | IPartialArgb32PixelLoader | Частичная загрузка пикселей. |
+| прямоугольник | Rectangle | Прямоугольник, для которого получаются пиксели. |
+| partialPixelLoader | IPartialArgb32PixelLoader | Частичный загрузчик пикселей. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

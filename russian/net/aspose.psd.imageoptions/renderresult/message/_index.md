@@ -1,23 +1,24 @@
 ---
-title: RenderResult.Message
-second_title: Справочник по Aspose.PSD для .NET API
-description: RenderResult свойство. Получает или задает строку message
+title: "RenderResult.Message"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RenderResult. Получает или задает строковое сообщение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/renderresult/message/
 ---
+{{< psd/tize >}}
 ## RenderResult.Message property
 
-Получает или задает строку message
+Получает или задает строковое сообщение
 
 ```csharp
 public string Message { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [RenderResult](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../renderresult/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

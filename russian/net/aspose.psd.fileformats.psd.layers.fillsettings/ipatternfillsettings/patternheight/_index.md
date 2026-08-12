@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternHeight
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или задает высоту шаблона.
+title: "IPatternFillSettings.PatternHeight"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает или задает высоту шаблона"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternHeight property
 
 Получает или задает высоту шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int PatternHeight { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Высота узора.
+Высота шаблона.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

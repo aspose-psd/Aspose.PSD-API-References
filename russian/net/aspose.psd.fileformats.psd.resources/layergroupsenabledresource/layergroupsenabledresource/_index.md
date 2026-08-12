@@ -1,11 +1,12 @@
 ---
-title: LayerGroupsEnabledResource.LayerGroupsEnabledResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerGroupsEnabledResource строитель. Конструктор по умолчанию.
+title: "LayerGroupsEnabledResource.LayerGroupsEnabledResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "LayerGroupsEnabledResource конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/layergroupsenabledresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/lay
 public LayerGroupsEnabledResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerGroupsEnabledResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

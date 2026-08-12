@@ -1,39 +1,40 @@
 ---
-title: Class ImageCreatorsRegistry
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageCreatorsRegistry сорт. Представляет реестр создателей образов.
+title: "Класс ImageCreatorsRegistry"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageCreatorsRegistry. Представляет реестр создателей изображений"
 type: docs
-weight: 4620
+weight: 5090
 url: /ru/net/aspose.psd/imagecreatorsregistry/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry class
 
-Представляет реестр создателей образов.
+Представляет реестр создателей изображений.
 
 ```csharp
 public static class ImageCreatorsRegistry
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | Получает зарегистрированные дескрипторы. |
-| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Получает зарегистрированные форматы создания образов. |
+| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Получает зарегистрированные форматы создания изображений. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Создает первого найденного создателя, подходящего для указанного. |
+| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Создаёт первый найденный создатель, подходящий для указанного. |
 | static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Получает первый найденный поддерживаемый дескриптор, подходящий для указанного. |
-| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Регистрирует указанный дескриптор создателя образа. |
+| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Регистрирует указанный дескриптор создателя изображений. |
 | static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | Регистрирует создателя. |
-| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Отменяет регистрацию создателя. |
+| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Удаляет регистрацию создателя. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

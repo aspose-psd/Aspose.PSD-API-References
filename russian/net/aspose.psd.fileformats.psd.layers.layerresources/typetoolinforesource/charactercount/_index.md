@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает количество символов.
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TypeToolInfoResource свойство. Получает или задает количество символов"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
 Получает или задает количество символов.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int CharacterCount { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество символов.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

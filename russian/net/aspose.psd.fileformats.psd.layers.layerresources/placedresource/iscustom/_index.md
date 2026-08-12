@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.IsCustom
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает значение указывающее является ли этот стиль деформации экземпляра пользовательским. Если true он содержит точки сетки. Если установлено значение false стираются точки сетки.
+title: "PlacedResource.IsCustom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задаёт значение, указывающее, является ли стиль деформации этого экземпляра пользовательским. Если true, содержит точки сетки. Если установлено false, удаляет точки сетки"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.IsCustom property
 
-Получает или задает значение, указывающее, является ли этот стиль деформации экземпляра пользовательским. Если true, он содержит точки сетки. Если установлено значение false, стираются точки сетки.
+Получает или задает значение, указывающее, является ли стиль деформации этого экземпляра пользовательским. Если true, содержит точки сетки. Если false, удаляет точки сетки.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если размещенный слой имеет пользовательский стиль; в противном случае,`ЛОЖЬ` .
+`true` если у размещённого слоя пользовательский стиль; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

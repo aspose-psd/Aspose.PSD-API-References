@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Xposition
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает позицию x.
+title: "TiffOptions.Xposition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает позицию по оси X"
 type: docs
-weight: 620
+weight: 630
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
-Получает или задает позицию x.
+Получает или задает позицию по оси X.
 
 ```csharp
 public TiffRational Xposition { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Позиция x.
+Позиция по оси X.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

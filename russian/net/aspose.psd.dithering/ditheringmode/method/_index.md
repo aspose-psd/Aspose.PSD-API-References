@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.Method
-second_title: Справочник по Aspose.PSD для .NET API
-description: DitheringMode свойство. Выбор алгоритма дизеринга.
+title: "DitheringMode.Method"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "DitheringMode свойство. Выбор алгоритма дизеринга"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
 Выбор алгоритма дизеринга.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.dithering/ditheringmode/method/
 public DitheringMethod Method { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* пространство имен [Aspose.PSD.Dithering](../../ditheringmode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

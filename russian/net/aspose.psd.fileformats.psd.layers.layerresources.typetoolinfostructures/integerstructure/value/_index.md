@@ -1,11 +1,12 @@
 ---
-title: IntegerStructure.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: IntegerStructure свойство. Получает или задает целочисленное значение.
+title: "IntegerStructure.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IntegerStructure. Получает или задает целочисленное значение"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Value property
 
 Получает или задает целочисленное значение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Целочисленное значение.
 
-### Смотрите также
+### См. также
 
 * class [IntegerStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

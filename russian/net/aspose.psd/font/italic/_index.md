@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает значение указывающее является ли этоFontвыделено курсивом.
+title: "Font.Italic"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Возвращает значение, указывающее, является ли этот Font курсивным"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Получает значение, указывающее, является ли это[`Font`](../)выделено курсивом.
+Возвращает значение, указывающее, является ли этот [`Font`](../) курсивным.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правда, если это[`Font`](../) курсив; в противном случае ложно.
+True если этот [`Font`](../) курсивный; иначе false.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

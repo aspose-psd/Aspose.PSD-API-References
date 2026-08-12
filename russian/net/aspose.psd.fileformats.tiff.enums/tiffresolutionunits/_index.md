@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits перечисление. Единица разрешения Tiff Enum
+title: "Перечисление TiffResolutionUnits"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits. Перечисление единиц разрешения TIFF"
 type: docs
-weight: 4150
+weight: 4620
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Единица разрешения Tiff Enum
+Перечисление единиц разрешения Tiff
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `1` | Нет значимых единиц. |
 | Inch | `2` | Английская система. |
 | Centimeter | `3` | Метрическая система. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

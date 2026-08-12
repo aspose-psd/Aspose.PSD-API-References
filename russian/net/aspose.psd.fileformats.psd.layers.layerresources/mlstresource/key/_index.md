@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: MlstResource свойство. Получает ключ ресурса слоя.
+title: "MlstResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MlstResource свойство. Получает ключ ресурса слоя"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/
 ---
+{{< psd/tize >}}
 ## MlstResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [MlstResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Source
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendRange свойство. Получает или задает исходный диапазон смешения.
+title: "BlendRange.Source"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlendRange. Получает или задает диапазон смешивания источника"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
-Получает или задает исходный диапазон смешения.
+Получает или задаёт диапазон смешивания источника.
 
 ```csharp
 public int Source { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Исходный диапазон смешения.
+Диапазон смешивания источника.
 
-### Смотрите также
+### См. также
 
 * class [BlendRange](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

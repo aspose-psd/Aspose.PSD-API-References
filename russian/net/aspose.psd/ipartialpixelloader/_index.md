@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IPartialPixelLoader интерфейс. Соответствует частично загруженным пикселям.
+title: "Интерфейс IPartialPixelLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IPartialPixelLoader. Соответствует частично загруженным пикселям"
 type: docs
-weight: 4530
+weight: 5000
 url: /ru/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
 Соответствует частично загруженным пикселям.
@@ -20,9 +21,9 @@ public interface IPartialPixelLoader
 | --- | --- |
 | [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | Обрабатывает загруженные пиксели. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

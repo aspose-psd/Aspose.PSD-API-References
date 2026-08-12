@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageLoadersRegistry свойство. Получает зарегистрированные форматы загрузки изображений.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageLoadersRegistry. Возвращает зарегистрированные форматы загрузки изображений"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
 Получает зарегистрированные форматы загрузки изображений.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/imageloadersregistry/registeredformats/
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зарегистрированные форматы загрузки изображений.
 
-### Смотрите также
+### См. также
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageloadersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

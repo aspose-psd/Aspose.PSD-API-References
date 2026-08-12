@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.CyanChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykChannelMixerLayer свойство. Получает голубой канал.
+title: "CmykChannelMixerLayer.CyanChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CmykChannelMixerLayer свойство. Получает циановый канал"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/cyanchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.CyanChannel property
 
-Получает голубой канал.
+Получает канал циан.
 
 ```csharp
 public CmykMixerChannel CyanChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Голубой канал.
+Циановый канал.
 
-### Смотрите также
+### См. также
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

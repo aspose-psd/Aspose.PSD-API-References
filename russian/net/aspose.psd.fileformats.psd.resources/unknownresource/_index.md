@@ -1,42 +1,43 @@
 ---
-title: Class UnknownResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.UnknownResource сорт. Неизвестный ресурс. Когда блок ресурсов не распознается создается этот блок ресурсов.
+title: "Класс UnknownResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Resources.UnknownResource. Неизвестный ресурс. Когда блок ресурса не распознан, создаётся этот блок ресурса."
 type: docs
-weight: 3940
+weight: 4410
 url: /ru/net/aspose.psd.fileformats.psd.resources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
-Неизвестный ресурс. Когда блок ресурсов не распознается, создается этот блок ресурсов.
+Неизвестный ресурс. Когда блок ресурса не распознан, создаётся этот блок ресурса.
 
 ```csharp
 public sealed class UnknownResource : ResourceBlock
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.resources/unknownresource/data/) { get; } | Получает данные ресурса. |
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/unknownresource/datasize/) { get; } | Получает размер данных ресурса в байтах. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/) { get; } | Получает минимальную требуемую версию psd. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/) { get; } | Получает минимальную требуемую версию PSD. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Получает или задает имя ресурса. Паскаль-строка, дополненная до чётного размера (пустое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Получает сигнатуру ресурса. Должна всегда быть '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Сохраняет блок ресурсов в указанный поток. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Проверяет значения ресурсов. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Сохраняет блок ресурса в указанный поток. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Проверяет значения ресурса. |
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

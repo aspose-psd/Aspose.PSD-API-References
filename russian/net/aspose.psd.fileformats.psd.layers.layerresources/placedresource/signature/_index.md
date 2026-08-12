@@ -1,23 +1,24 @@
 ---
-title: PlacedResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает подпись размещенного ресурса.
+title: "PlacedResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает подпись размещённого ресурса"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Signature property
 
-Получает подпись размещенного ресурса.
+Получает подпись размещённого ресурса.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

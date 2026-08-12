@@ -1,31 +1,32 @@
 ---
-title: Enum ProjectType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType перечисление. Представляет тип проекта вXmpDynamicMediaPackage .
+title: "Перечисление ProjectType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType enum. Представляет тип проекта в XmpDynamicMediaPackage"
 type: docs
-weight: 5870
+weight: 6370
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-Представляет тип проекта в[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Представляет тип проекта в [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public enum ProjectType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Movie | `0` | Тип кинопроекта |
-| Still | `1` | Неподвижный проект type |
-| Audio | `2` | Тип аудиопроекта |
-| Custom | `3` | Пользовательский тип проекта |
+| Movie | `0` | Тип проекта movie |
+| Still | `1` | Тип проекта still |
+| Audio | `2` | Тип проекта audio |
+| Custom | `3` | Тип проекта custom |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

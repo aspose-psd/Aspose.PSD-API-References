@@ -1,29 +1,30 @@
 ---
-title: Enum TiffFileStandards
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards перечисление. Указывает стандарты формата файлов TIFF.
+title: "Перечисление TiffFileStandards"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enum. Указывает стандарты формата файлов TIFF."
 type: docs
-weight: 4080
+weight: 4550
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
+{{< psd/tize >}}
 ## TiffFileStandards enumeration
 
-Указывает стандарты формата файлов TIFF.
+Указывает стандарты формата файла TIFF.
 
 ```csharp
 public enum TiffFileStandards : ushort
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Baseline | `0` | Базовый файловый стандарт TIFF 6.0. Этот стандарт официально известен как TIFF 6.0, часть 1: базовый TIFF. |
-| Extended | `1` | Расширенный файловый стандарт TIFF 6.0. Этот стандарт официально известен как расширенный TIFF 6.0, часть 2: расширения TIFF. |
+| Baseline | `0` | Базовый стандарт файла TIFF 6.0. Этот стандарт официально известен как TIFF 6.0, часть 1: Baseline TIFF. |
+| Extended | `1` | Расширенный стандарт файла TIFF 6.0. Этот стандарт официально известен как Extended TIFF 6.0, часть 2: TIFF Extensions. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

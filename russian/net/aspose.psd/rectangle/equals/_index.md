@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Проверяетobj этоRectangleструктура с тем же расположением и размером этогоRectangleструктура.
+title: "Rectangle.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Проверяет, является ли obj структурой Rectangle с тем же расположением и размером, что и эта структура Rectangle."
 type: docs
 weight: 230
 url: /ru/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-Проверяет,*obj* это[`Rectangle`](../)структура с тем же расположением и размером этого[`Rectangle`](../)структура.
+Проверяет, является ли *obj* структурой [`Rectangle`](../) с тем же расположением и размером, что и эта структура [`Rectangle`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object тестировать. |
+| obj | Object | Объект для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает true, если*obj* это[`Rectangle`](../) структура и ее[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , и[`Height`](../height/) свойства равны соответствующим свойствам этого[`Rectangle`](../) состав; в противном случае ложно.
+Этот метод возвращает true, если *obj* является структурой [`Rectangle`](../) и её свойства [`X`](../x/), [`Y`](../y/), [`Width`](../width/) и [`Height`](../height/) равны соответствующим свойствам этой структуры [`Rectangle`](../); в противном случае false.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

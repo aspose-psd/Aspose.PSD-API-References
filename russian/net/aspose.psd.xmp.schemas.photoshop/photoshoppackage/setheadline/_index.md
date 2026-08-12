@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает заголовок.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Устанавливает заголовок"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
 Устанавливает заголовок.
@@ -16,12 +17,12 @@ public void SetHeadline(string headline)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| headline | String | Заголовок. |
+| заголовок | String | Заголовок. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

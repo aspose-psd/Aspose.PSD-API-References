@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает строки.
+title: "TypeToolInfoResource.Lines"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TypeToolInfoResource свойство. Получает или задает строки"
 type: docs
-weight: 140
+weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
 Получает или задает строки.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Линии.
+Строки.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

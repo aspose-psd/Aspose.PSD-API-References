@@ -1,14 +1,15 @@
 ---
-title: TimeFormat.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeFormat метод. Возвращает хэшкод для этого экземпляра.
+title: "TimeFormat.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TimeFormat. Возвращает хеш-код для этого экземпляра"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timeformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## TimeFormat.GetHashCode method
 
-Возвращает хэш-код для этого экземпляра.
+Возвращает хеш‑код для этого экземпляра.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хэш-таблица.
+Хеш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хеш-таблица.
 
-### Смотрите также
+### См. также
 
 * class [TimeFormat](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

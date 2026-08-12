@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.UrgencyMax
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage поле. Максимальное значение срочности.
+title: "PhotoshopPackage.UrgencyMax"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PhotoshopPackage поле. Максимальное значение срочности"
 type: docs
 weight: 210
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMax field
 
 Максимальное значение срочности.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/
 public const int UrgencyMax;
 ```
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

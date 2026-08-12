@@ -1,24 +1,25 @@
 ---
-title: PatternFillSettings.HorizontalOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings свойство. Получает или задает смещение по горизонтали.
+title: "PatternFillSettings.HorizontalOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternFillSettings. Получает или задает горизонтальное смещение"
 type: docs
-weight: 40
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.HorizontalOffset property
 
-Получает или задает смещение по горизонтали.
+Получает или задает горизонтальное смещение.
 
 ```csharp
 public int HorizontalOffset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Горизонтальное смещение.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку редактирования шаблона слоя заливки.
 
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Редактирование 
+            // Редактирование
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

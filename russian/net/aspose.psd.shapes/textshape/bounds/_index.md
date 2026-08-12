@@ -1,11 +1,12 @@
 ---
-title: TextShape.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape свойство. Получает границы объекта.
+title: "TextShape.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextShape. Возвращает границы объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.shapes/textshape/bounds/
 ---
+{{< psd/tize >}}
 ## TextShape.Bounds property
 
 Получает границы объекта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.shapes/textshape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BezierSegment
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ShapeSegments.BezierSegment сорт. Сегмент Безье идущий от одной точки к другой и использующий две контрольные точки.
+title: "Класс BezierSegment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ShapeSegments.BezierSegment. Кривая Безье, идущая от одной точки к следующей и использующая две контрольные точки."
 type: docs
-weight: 5440
+weight: 5940
 url: /ru/net/aspose.psd.shapesegments/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment class
 
-Сегмент Безье, идущий от одной точки к другой и использующий две контрольные точки.
+Кривая Безье, переходящая от одной точки к следующей и использующая две контрольные точки.
 
 ```csharp
 public sealed class BezierSegment : LineSegment
@@ -18,21 +19,21 @@ public sealed class BezierSegment : LineSegment
 
 | Имя | Описание |
 | --- | --- |
-| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | Инициализирует новый экземпляр`BezierSegment` класс. |
+| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | Инициализирует новый экземпляр класса `BezierSegment`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Получает конечную точку. |
-| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | Получает первую контрольную точку сплайна Безье. |
-| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | Получает вторую контрольную точку сплайна Безье. |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Получает начальную точку. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Возвращает конечную точку. |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | Возвращает первую контрольную точку сплайна Безье. |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | Возвращает вторую контрольную точку сплайна Безье. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Возвращает начальную точку. |
 
-### Смотрите также
+### См. также
 
 * class [LineSegment](../linesegment/)
-* пространство имен [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

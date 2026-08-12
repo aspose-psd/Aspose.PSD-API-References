@@ -1,23 +1,24 @@
 ---
-title: Point.Y
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point свойство. Получает или задает координату y этогоPoint .
+title: "Point.Y"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Point. Получает или задает y‑координату этой точки."
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/point/y/
 ---
+{{< psd/tize >}}
 ## Point.Y property
 
-Получает или задает координату y этого[`Point`](../) .
+Получает или задает y‑координату этого [`Point`](../).
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

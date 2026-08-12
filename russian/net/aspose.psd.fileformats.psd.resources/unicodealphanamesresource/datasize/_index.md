@@ -1,11 +1,12 @@
 ---
-title: UnicodeAlphaNamesResource.DataSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnicodeAlphaNamesResource свойство. Получает размер данных ресурса в байтах.
+title: "UnicodeAlphaNamesResource.DataSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "UnicodeAlphaNamesResource свойство. Получает размер данных ресурса в байтах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/datasize/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.DataSize property
 
 Получает размер данных ресурса в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/data
 public override int DataSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер данных ресурса.
 
-### Смотрите также
+### См. также
 
 * class [UnicodeAlphaNamesResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

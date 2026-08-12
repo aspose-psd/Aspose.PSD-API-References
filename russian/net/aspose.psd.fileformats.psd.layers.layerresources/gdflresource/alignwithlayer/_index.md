@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает значение указывающее следует ли выравнивать со слоем.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GdFlResource. Получает или задает значение, указывающее, следует ли выравнивать с слоем"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-Получает или задает значение, указывающее, следует ли [выравнивать со слоем].
+Получает или задает значение, указывающее, [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [выровнять по слою]; в противном случае,`ЛОЖЬ` .
+`true` если [align with layer]; иначе, `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов GdFlResource.
+Следующий пример демонстрирует поддержку загрузки ресурсов GdFlResource.
 
 ```csharp
 [C#]
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Image.RotateFlip
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Вращает переворачивает или поворачивает и переворачивает изображение.
+title: "Image.RotateFlip"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Поворачивает, отражает или одновременно поворачивает и отражает изображение"
 type: docs
-weight: 220
+weight: 230
 url: /ru/net/aspose.psd/image/rotateflip/
 ---
+{{< psd/tize >}}
 ## Image.RotateFlip method
 
-Вращает, переворачивает или поворачивает и переворачивает изображение.
+Поворачивает, отражает или одновременно поворачивает и отражает изображение.
 
 ```csharp
 public abstract void RotateFlip(RotateFlipType rotateFlipType)
@@ -16,31 +17,31 @@ public abstract void RotateFlip(RotateFlipType rotateFlipType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Тип поворотного флипа. |
+| rotateFlipType | RotateFlipType | Тип поворота и отражения. |
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует использование операции поворота изображения. Пример загружает существующий файл изображения из некоторого места на диске и выполняет операцию поворота изображения в соответствии со значением Enum Aspose.PSD.RotateFlipType.
+Этот пример демонстрирует использование операции Rotate для изображения. Пример загружает существующий файл изображения из некоторого расположения на диске и выполняет операцию Rotate над изображением в соответствии со значением перечисления Aspose.PSD.RotateFlipType
 
 ```csharp
 [C#]
 
-//Создаем экземпляр класса изображения и инициализируем его существующим файлом изображения через путь к файлу
+//Создать экземпляр класса image и инициализировать его существующим файлом изображения через путь к файлу
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // Поворачиваем изображение на 180 градусов вокруг оси X
+    //Повернуть изображение на 180 градусов вокруг оси X
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    // сохранить все изменения.
+    // Сохраните все изменения.
     image.Save();
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BigRectangularFilterOptions.BigRectangularFilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: BigRectangularFilterOptions строитель. Конструктор по умолчанию.
+title: "BigRectangularFilterOptions.BigRectangularFilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор BigRectangularFilterOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/b
 public BigRectangularFilterOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [BigRectangularFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../bigrectangularfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

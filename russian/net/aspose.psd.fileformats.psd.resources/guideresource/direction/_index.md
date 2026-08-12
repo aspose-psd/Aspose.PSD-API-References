@@ -1,11 +1,12 @@
 ---
-title: GuideResource.Direction
-second_title: Справочник по Aspose.PSD для .NET API
-description: GuideResource свойство. Получает или задает направление направляющей.
+title: "GuideResource.Direction"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GuideResource. Возвращает или задает направление направляющей"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/direction/
 ---
+{{< psd/tize >}}
 ## GuideResource.Direction property
 
 Получает или задает направление направляющей.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/direction/
 public GuideDirection Direction { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Направление гида.
+Направление направляющей.
 
-### Смотрите также
+### См. также
 
 * enum [GuideDirection](../../guidedirection/)
 * class [GuideResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

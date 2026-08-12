@@ -1,11 +1,12 @@
 ---
-title: IColorConverter.Convert
-second_title: Справочник по Aspose.PSD для .NET API
-description: IColorConverter метод. Преобразует переданные данные в выходной формат.
+title: "IColorConverter.Convert"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IColorConverter. Преобразует переданные данные в выходной формат"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
 Преобразует переданные данные в выходной формат.
@@ -19,24 +20,24 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | Исходный формат. |
-| data | Byte[] | Исходные данные. |
-| offset | Int32 | Смещение в байтах, с которого должно начинаться копирование данных. |
-| bitStart | Int32 | Немного начало. Обратите внимание, что это значение не является значением, выровненным по байтам, вместо этого это фактический бит, с которого должно начинаться копирование. |
-| samplesCount | Int32 | Образцы учитываются. |
-| linesCount | Int32 | Линии засчитываются. |
+| данные | Byte[] | Исходные данные. |
+| offset | Int32 | Смещение в байтах, с которого должно начаться копирование данных. |
+| bitStart | Int32 | Начало бита. Обратите внимание, что это значение не выровнено по байту, а представляет собой фактический бит, с которого должно начаться копирование. |
+| samplesCount | Int32 | Количество образцов. |
+| linesCount | Int32 | Количество строк. |
 | destFormat | PixelDataFormat | Формат назначения. |
 | outputData | Byte[] | Выходные данные. |
-| outputOffset | Int32 | Выходное смещение, с которого должно начинаться копирование данных. |
+| outputOffset | Int32 | Выходное смещение, с которого должно начаться копирование данных. |
 
 ### Возвращаемое значение
 
 Количество преобразованных байтов.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* пространство имен [Aspose.PSD](../../icolorconverter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

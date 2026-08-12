@@ -1,14 +1,15 @@
 ---
-title: Class ColorTranslator
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ColorTranslator сорт. Преобразует цвета в структуры GDI Color и обратно. Этот класс не может быть унаследован.
+title: "Класс ColorTranslator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ColorTranslator. Переводит цвета в структуры GDI Color и из них. Этот класс не может быть унаследован."
 type: docs
 weight: 400
 url: /ru/net/aspose.psd/colortranslator/
 ---
+{{< psd/tize >}}
 ## ColorTranslator class
 
-Преобразует цвета в структуры GDI+ Color и обратно. Этот класс не может быть унаследован.
+Преобразует цвета в структуры GDI+ Color и из них. Этот класс не может быть унаследован.
 
 ```csharp
 public sealed class ColorTranslator
@@ -18,16 +19,16 @@ public sealed class ColorTranslator
 
 | Имя | Описание |
 | --- | --- |
-| static [FromHtml](../../aspose.psd/colortranslator/fromhtml/)(string) | Берет цвет из цвета HTML. |
-| static [FromOle](../../aspose.psd/colortranslator/fromole/)(int) | Берет цвет из цвета OLE. |
-| static [FromWin32](../../aspose.psd/colortranslator/fromwin32/)(int) | Берет цвет из цвета HTML. |
-| static [ToHtml](../../aspose.psd/colortranslator/tohtml/)(Color) | Создает цвет HTML из цвета. |
-| static [ToOle](../../aspose.psd/colortranslator/toole/)(Color) | Преобразует цвет OLE в цвет. |
-| static [ToWin32](../../aspose.psd/colortranslator/towin32/)(Color) | Преобразует цвет в цвет win32. |
+| static [FromHtml](../../aspose.psd/colortranslator/fromhtml/)(string) | Берёт цвет из HTML‑цвета. |
+| static [FromOle](../../aspose.psd/colortranslator/fromole/)(int) | Берёт цвет из OLE‑цвета. |
+| static [FromWin32](../../aspose.psd/colortranslator/fromwin32/)(int) | Берёт цвет из HTML‑цвета. |
+| static [ToHtml](../../aspose.psd/colortranslator/tohtml/)(Color) | Создаёт HTML‑цвет из цвета. |
+| static [ToOle](../../aspose.psd/colortranslator/toole/)(Color) | Переводит OLE‑цвет в цвет. |
+| static [ToWin32](../../aspose.psd/colortranslator/towin32/)(Color) | Переводит цвет в win32‑цвет. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

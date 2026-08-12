@@ -1,57 +1,58 @@
 ---
-title: Class PathGradientBrushBase
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Brushes.PathGradientBrushBase сорт. ПредставляетBrush с функцией градиента базового пути.
+title: "Класс PathGradientBrushBase"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Brushes.PathGradientBrushBase. Представляет кисть с базовой функциональностью градиента по пути."
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.brushes/pathgradientbrushbase/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase class
 
-Представляет[`Brush`](../../aspose.psd/brush/) с функцией градиента базового пути.
+Представляет [`Brush`](../../aspose.psd/brush/) с базовой функциональностью градиента по пути.
 
 ```csharp
 public abstract class PathGradientBrushBase : TransformBrush
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [CenterPoint](../../aspose.psd.brushes/pathgradientbrushbase/centerpoint/) { get; set; } | Получает или задает центральную точку градиента пути. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
-| [FocusScales](../../aspose.psd.brushes/pathgradientbrushbase/focusscales/) { get; set; } | Получает или задает точку фокусировки для спада градиента. |
+| [CenterPoint](../../aspose.psd.brushes/pathgradientbrushbase/centerpoint/) { get; set; } | Получает или задает центральную точку градиента по пути. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, освобожден ли этот экземпляр. |
+| [FocusScales](../../aspose.psd.brushes/pathgradientbrushbase/focusscales/) { get; set; } | Получает или задает точку фокуса для падения градиента. |
 | [GraphicsPath](../../aspose.psd.brushes/pathgradientbrushbase/graphicspath/) { get; } | Получает графический путь, на котором построена эта кисть. |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Получает значение, указывающее, были ли каким-либо образом изменены преобразования. Например установка матрицы преобразования или вызов любого из методов, изменяющих матрицу преобразования. Свойство введено для обратной совместимости с GDI+. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Получает или задает непрозрачность кисти. Значение должно быть от 0 до 1. Значение 0 означает, что кисть полностью видна, значение 1 означает, что кисть полностью непрозрачна. |
-| [PathPoints](../../aspose.psd.brushes/pathgradientbrushbase/pathpoints/) { get; } | Получает точки пути, на которых построена эта кисть. |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Получает или устанавливает копию[`Matrix`](../../aspose.psd/matrix/) который определяет локальное геометрическое преобразование для этого[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Получает или задает[`WrapMode`](../../aspose.psd/wrapmode/) перечисление, указывающее режим переноса для этого[`TransformBrush`](../transformbrush/) . |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Получает значение, указывающее, были ли трансформации изменены каким-либо образом. Например, установка матрицы трансформации или вызов любого из методов, изменяющих матрицу трансформации. Свойство введено для обратной совместимости с GDI+. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Получает или задает непрозрачность кисти. Значение должно быть от 0 до 1. Значение 0 означает, что кисть полностью видима, значение 1 означает, что кисть полностью непрозрачна. |
+| [PathPoints](../../aspose.psd.brushes/pathgradientbrushbase/pathpoints/) { get; } | Получает точки пути, на котором построена эта кисть. |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Получает или задает копию [`Matrix`](../../aspose.psd/matrix/), определяющую локальное геометрическое преобразование для этого [`TransformBrush`](../transformbrush/). |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Получает или задает перечисление [`WrapMode`](../../aspose.psd/wrapmode/), указывающее режим обтекания для этого [`TransformBrush`](../transformbrush/). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Создает новый глубокий клон текущего[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Умножает[`Matrix`](../../aspose.psd/matrix/) который представляет собой локальное геометрическое преобразование этого[`LinearGradientBrush`](../lineargradientbrush/) указанным[`Matrix`](../../aspose.psd/matrix/) путем добавления указанного[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Умножает[`Matrix`](../../aspose.psd/matrix/) который представляет собой локальное геометрическое преобразование этого[`LinearGradientBrush`](../lineargradientbrush/) указанным[`Matrix`](../../aspose.psd/matrix/) в указанном порядке. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Сбрасывает[`Transform`](../transformbrush/transform/) свойство к личности. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод добавляет поворот к преобразованию. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Поворачивает локальное геометрическое преобразование на указанную величину в указанном порядке. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Масштабирует локальное геометрическое преобразование на указанные величины. Этот метод добавляет матрицу масштабирования перед преобразованием. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Масштабирует локальное геометрическое преобразование на указанные величины в указанном порядке. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Преобразует локальное геометрическое преобразование по указанным размерам. Этот метод добавляет перевод к transform. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Преобразует локальное геометрическое преобразование по указанным размерам в указанном порядке. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Создает новый глубокий клон текущего [`Brush`](../../aspose.psd/brush/). |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Освобождает текущий экземпляр. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Умножает [`Matrix`](../../aspose.psd/matrix/), представляющую локальное геометрическое преобразование этого [`LinearGradientBrush`](../lineargradientbrush/), на указанную [`Matrix`](../../aspose.psd/matrix/), предварительно добавляя указанную [`Matrix`](../../aspose.psd/matrix/). |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Умножает [`Matrix`](../../aspose.psd/matrix/), представляющую локальное геометрическое преобразование этого [`LinearGradientBrush`](../lineargradientbrush/), на указанную [`Matrix`](../../aspose.psd/matrix/) в заданном порядке. |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Сбрасывает свойство [`Transform`](../transformbrush/transform/) к единичному. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод предварительно добавляет вращение к преобразованию. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Поворачивает локальное геометрическое преобразование на указанную величину в заданном порядке. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Масштабирует локальное геометрическое преобразование на указанные коэффициенты. Этот метод предварительно добавляет матрицу масштабирования к преобразованию. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Масштабирует локальное геометрическое преобразование на указанные коэффициенты в заданном порядке. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Смещает локальное геометрическое преобразование на указанные размеры. Этот метод предварительно добавляет трансляцию к преобразованию. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Смещает локальное геометрическое преобразование на указанные размеры в заданном порядке. |
 
-### Примечания
+## Примечания
 
-Обратите внимание, что при создании`PathGradientBrushBase` class он должен быть инициализирован как минимум двумя точками. Внутренний путь created всегда будет замкнутой фигурой, последняя точка соединяет первую точку. Эта форма заполнена этим`PathGradientBrushBase`. Реализация GDI+ вызываетOutOfMemoryException при передаче пустых массивов или наборов точек с одинаковыми координатами. `PathGradientBrushBase` выдает исключение, когда массив точек содержит менее 2 точек,ArgumentException is брошен, а неOutOfMemoryException когда массив точек недопустим. Центральная точка рассчитывается как центр масс для переданных точек по умолчанию. Пользователь может изменить эту точку позже. По умолчанию шкала фокуса представляет собой пустую точку (0,0, 0,0).
+Обратите внимание, что при создании класса `PathGradientBrushBase` его следует инициализировать как минимум двумя точками. Внутренний путь всегда будет замкнутой фигурой, последняя точка соединяется с первой. Эта форма заполняется этим `PathGradientBrushBase`. Реализация GDI+ генерирует OutOfMemoryException при передаче пустых массивов или наборов точек с одинаковыми координатами. `PathGradientBrushBase` генерирует исключение, если массив точек содержит менее двух точек; в этом случае бросается ArgumentException, а не OutOfMemoryException, когда массив точек недопустим. Центральная точка рассчитывается как центр масс переданных точек по умолчанию. Пользователь может изменить эту точку позже. Масштаб фокуса по умолчанию — пустая точка (0.0, 0.0).
 
-### Смотрите также
+### См. также
 
 * class [TransformBrush](../transformbrush/)
-* пространство имен [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

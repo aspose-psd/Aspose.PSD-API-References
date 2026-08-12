@@ -1,11 +1,12 @@
 ---
-title: EnumeratedReferenceStructure.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: EnumeratedReferenceStructure свойство. Получает ключ.
+title: "EnumeratedReferenceStructure.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство EnumeratedReferenceStructure. Возвращает ключ"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/key/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.Key property
 
 Получает ключ.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [EnumeratedReferenceStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

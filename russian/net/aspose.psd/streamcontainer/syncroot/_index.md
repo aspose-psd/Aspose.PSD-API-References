@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.SyncRoot
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer свойство. Получает объект который можно использовать для синхронизации доступа к синхронизируемому ресурсу.
+title: "StreamContainer.SyncRoot"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StreamContainer свойство. Возвращает объект, который может использоваться для синхронизации доступа к синхронизированному ресурсу"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/streamcontainer/syncroot/
 ---
+{{< psd/tize >}}
 ## StreamContainer.SyncRoot property
 
-Получает объект, который можно использовать для синхронизации доступа к синхронизируемому ресурсу.
+Получает объект, который можно использовать для синхронизации доступа к синхронизированному ресурсу.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Объект, который можно использовать для синхронизации доступа к синхронизируемому ресурсу.
+Объект, который может использоваться для синхронизации доступа к синхронизированному ресурсу.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

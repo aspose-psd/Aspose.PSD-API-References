@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.BlueMask
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalLayerMaskInfo свойство. Получает или задает синюю маску.
+title: "GlobalLayerMaskInfo.BlueMask"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GlobalLayerMaskInfo. Получает или задает синюю маску"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.BlueMask property
 
 Получает или задает синюю маску.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 public short BlueMask { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Синяя маска.
 
-### Смотрите также
+### См. также
 
 * class [GlobalLayerMaskInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

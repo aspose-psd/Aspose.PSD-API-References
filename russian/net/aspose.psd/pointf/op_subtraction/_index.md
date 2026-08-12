@@ -1,14 +1,15 @@
 ---
-title: PointF.op_Subtraction
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF метод. ПереводитPointF отрицанием данногоSize .
+title: "PointF.op_Subtraction"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointF. Смещает PointF на отрицательное значение заданного Size"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/pointf/op_subtraction/
 ---
+{{< psd/tize >}}
 ## operator - {#op_subtraction}
 
-Переводит[`PointF`](../) отрицанием данного[`Size`](../../size/) .
+Смещает [`PointF`](../) на отрицательное значение заданного [`Size`](../../size/).
 
 ```csharp
 public static PointF operator -(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF operator -(PointF point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | А[`PointF`](../) переводить. |
-| size | Size | А[`Size`](../../size/)который указывает числа, которые нужно вычесть из x- и y-координат*point*. |
+| point | PointF | [`PointF`](../) для смещения. |
+| size | Size | [`Size`](../../size/), задающий числа, вычитаемые из x- и y‑координат *point*. |
 
 ### Возвращаемое значение
 
-переведенный[`PointF`](../).
+Перемещённый [`PointF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator - {#op_subtraction_1}
 
-Переводит[`PointF`](../) отрицанием указанного[`SizeF`](../../sizef/) .
+Смещает [`PointF`](../) на отрицательное значение указанного [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF operator -(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF operator -(PointF point, SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) переводить. |
-| size | SizeF | [`SizeF`](../../sizef/) который указывает числа, которые нужно вычесть из координат*point*. |
+| point | PointF | [`PointF`](../), который нужно переместить. |
+| size | SizeF | [`SizeF`](../../sizef/), задающий числа, вычитаемые из координат *point*. |
 
 ### Возвращаемое значение
 
-переведенный[`PointF`](../).
+Перемещённый [`PointF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PngOptions.BitDepth
-second_title: Справочник по Aspose.PSD для .NET API
-description: PngOptions свойство. Битовая глубина.
+title: "PngOptions.BitDepth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PngOptions свойство. Глубина цвета"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/pngoptions/bitdepth/
 ---
+{{< psd/tize >}}
 ## PngOptions.BitDepth property
 
-Битовая глубина.
+Глубина цвета.
 
 ```csharp
 public byte BitDepth { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PngOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pngoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

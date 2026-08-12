@@ -1,11 +1,12 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Interfaces.IObjectWithSizeF интерфейс. Представляет объект с размером выраженным в действительных числах в дюймах.
+title: "Интерфейс IObjectWithSizeF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.Interfaces.IObjectWithSizeF. Представляет объект с размером, выраженным в реальных числах в дюймах"
 type: docs
-weight: 5020
+weight: 5510
 url: /ru/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
 Представляет объект с размером, выраженным в действительных числах (в дюймах).
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.interfaces/iobjectwithsizef/
 public interface IObjectWithSizeF
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -22,9 +23,9 @@ public interface IObjectWithSizeF
 | [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | Получает размер объекта в дюймах. |
 | [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | Получает ширину объекта в дюймах. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

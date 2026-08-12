@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection метод. Получить массивXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPackageBaseCollection. Получить массив XmpPackage"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-Получить массив[`XmpPackage`](../../xmppackage/) .
+Получить массив [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public XmpPackage[] GetPackages()
@@ -18,11 +19,11 @@ public XmpPackage[] GetPackages()
 
 Возвращает массив пакетов XMP.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

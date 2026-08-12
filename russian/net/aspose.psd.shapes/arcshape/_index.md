@@ -1,14 +1,15 @@
 ---
-title: Class ArcShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Shapes.ArcShape сорт. Представляет форму дуги.
+title: "Класс ArcShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Shapes.ArcShape класс. Представляет форму дуги"
 type: docs
-weight: 5460
+weight: 5960
 url: /ru/net/aspose.psd.shapes/arcshape/
 ---
+{{< psd/tize >}}
 ## ArcShape class
 
-Представляет форму дуги.
+Представляет дуговую форму.
 
 ```csharp
 public sealed class ArcShape : PieShape, IOrderedShape
@@ -18,29 +19,29 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 | Имя | Описание |
 | --- | --- |
-| [ArcShape](arcshape/#constructor)() | Инициализирует новый экземпляр`ArcShape` класс. |
-| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр`ArcShape` класс. |
-| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | Инициализирует новый экземпляр`ArcShape` класс. |
+| [ArcShape](arcshape/#constructor)() | Инициализирует новый экземпляр класса `ArcShape`. |
+| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр класса `ArcShape`. |
+| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | Инициализирует новый экземпляр класса `ArcShape`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Получает границы объекта. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Получает центр фигуры. |
-| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | Получает конечную точку формы. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
-| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | Получает или задает значение, указывающее, закрыта ли упорядоченная фигура. При обработке замкнутой упорядоченной формы начальная и конечная точки не имеют значения. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Получает точку левого нижнего прямоугольника. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Получает левую верхнюю точку прямоугольника. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Получает центр формы. |
+| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | Получает конечную точку фигуры. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Получает значение, указывающее, имеет ли форма сегменты. |
+| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | Получает или задает значение, указывающее, закрыта ли упорядоченная форма. При обработке закрытой упорядоченной формы начальная и конечная точки не имеют значения. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Получает точку левого нижнего угла прямоугольника. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Получает точку левого верхнего угла прямоугольника. |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Получает высоту прямоугольника. |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Получает ширину прямоугольника. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Получает правую нижнюю точку прямоугольника. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Получает правую верхнюю точку прямоугольника. |
-| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | Получает сегменты формы. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Получает точку правого нижнего угла прямоугольника. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Получает точку правого верхнего угла прямоугольника. |
+| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | Получает сегменты фигуры. |
 | [StartAngle](../../aspose.psd.shapes/pieshape/startangle/) { get; set; } | Получает или задает начальный угол. |
-| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | Получает начальную точку формы. |
-| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | Получает или задает угол развертки. |
+| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | Получает начальную точку фигуры. |
+| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | Получает или задает угол охвата. |
 
 ## Методы
 
@@ -48,62 +49,62 @@ public sealed class ArcShape : PieShape, IOrderedShape
 | --- | --- |
 | override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds)(Matrix) | Получает границы объекта. |
 | override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
-| [Reverse](../../aspose.psd.shapes/arcshape/reverse/)() | Меняет порядок точек этой фигуры на обратный. |
+| [Reverse](../../aspose.psd.shapes/arcshape/reverse/)() | Изменяет порядок точек для этой фигуры. |
 | override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
-### Примеры
+## Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
+В этом примере создаётся новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
 
 ```csharp
 [C#]
 
-//Создаем экземпляр изображения
+//Создайте экземпляр Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Создаем и инициализируем экземпляр класса Graphics
+    //Создайте и инициализируйте экземпляр класса Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Очистить графическую поверхность
+    //Очистить поверхность Graphics
     graphics.Clear(Color.Wheat);
 
-    //Создаем экземпляр класса GraphicsPath
+    //Создайте экземпляр класса GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    // Добавляем фигуру к объекту Figure
+    //Добавить фигуру к объекту Figure
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    // Добавляем фигуру к объекту Figure
+    //Добавить фигуру к объекту Figure
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    //Добавить объект Figure в GraphicsPath
+    //Добавьте объект Figure в GraphicsPath
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // Нарисовать путь с помощью объекта Pen черного цвета
+    //Нарисуйте путь объектом Pen цвета чёрный
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // Создаем параметры экспорта и инициализируем их.
+    // Создайте параметры экспорта и инициализируйте их.
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
-    // сохранить все изменения.
+    // Сохраните все изменения.
     image.Save("c:\\temp\\output.bmp", options);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PieShape](../pieshape/)
 * interface [IOrderedShape](../../aspose.psd/iorderedshape/)
-* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

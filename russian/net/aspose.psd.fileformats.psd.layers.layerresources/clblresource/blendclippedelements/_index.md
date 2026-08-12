@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClblResource свойство. Получает или задает значение указывающее следует ли смешивать обрезанные элементы.
+title: "ClblResource.BlendClippedElements"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClblResource. Получает или задает значение, указывающее, включено ли обрезание смешанных элементов"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-Получает или задает значение, указывающее, следует ли [смешивать обрезанные элементы].
+Получает или задает значение, указывающее, следует ли [blend clipped elements].
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` if [смешивать обрезанные элементы]; в противном случае,`ЛОЖЬ` .
+`true` если [blend clipped elements]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [ClblResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

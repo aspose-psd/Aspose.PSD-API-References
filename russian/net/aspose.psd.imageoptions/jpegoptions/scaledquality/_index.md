@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ScaledQuality
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Масштабированное качество.
+title: "JpegOptions.ScaledQuality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Масштабированное качество"
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ScaledQuality property
 
 Масштабированное качество.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 public int ScaledQuality { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

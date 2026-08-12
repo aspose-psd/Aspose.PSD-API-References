@@ -1,11 +1,12 @@
 ---
-title: StringStructure.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringStructure свойство. Получает или задает значение.
+title: "StringStructure.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StringStructure свойство. Получает или задает значение"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value/
 ---
+{{< psd/tize >}}
 ## StringStructure.Value property
 
 Получает или задает значение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
-### Смотрите также
+### См. также
 
 * class [StringStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

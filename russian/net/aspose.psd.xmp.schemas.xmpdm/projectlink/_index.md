@@ -1,14 +1,15 @@
 ---
-title: Class ProjectLink
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink сорт. Представляет путь к проекту.
+title: "Класс ProjectLink"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink. Представляет путь к проекту"
 type: docs
-weight: 5860
+weight: 6360
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
-Представляет путь к проекту.
+Представляет путь проекта.
 
 ```csharp
 public sealed class ProjectLink : XmpTypeBase
@@ -20,7 +21,7 @@ public sealed class ProjectLink : XmpTypeBase
 | --- | --- |
 | [ProjectLink](projectlink/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -33,10 +34,10 @@ public sealed class ProjectLink : XmpTypeBase
 | --- | --- |
 | override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Возвращает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

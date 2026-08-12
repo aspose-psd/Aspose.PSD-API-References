@@ -1,11 +1,12 @@
 ---
-title: ExifData.FocalPlaneResolutionUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает единицу разрешения фокальной плоскости.
+title: "ExifData.FocalPlaneResolutionUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает единицу измерения разрешения плоскости фокуса"
 type: docs
 weight: 310
 url: /ru/net/aspose.psd.exif/exifdata/focalplaneresolutionunit/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneResolutionUnit property
 
 Получает или задает единицу разрешения фокальной плоскости.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/focalplaneresolutionunit/
 public ExifUnit FocalPlaneResolutionUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Единица разрешения фокальной плоскости.
+Единица измерения разрешения плоскости фокуса.
 
-### Смотрите также
+### См. также
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

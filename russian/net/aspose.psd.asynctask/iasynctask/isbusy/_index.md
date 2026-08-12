@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsBusy
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask свойство. Получает значение указывающее выполняется ли эта задача в данный момент.
+title: "IAsyncTask.IsBusy"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IAsyncTask. Возвращает значение, указывающее, выполняется ли сейчас эта задача"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.asynctask/iasynctask/isbusy/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsBusy property
 
-Получает значение, указывающее, выполняется ли эта задача в данный момент.
+Возвращает значение, указывающее, выполняется ли эта задача в данный момент.
 
 ```csharp
 public bool IsBusy { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` выполняется ли эта задача в данный момент; в противном случае,`ЛОЖЬ` .
+`true`, если эта задача в данный момент выполняется; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

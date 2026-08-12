@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Справочник по Aspose.PSD для .NET API
-description: BuildVersionInfo поле. Название продукта.
+title: "BuildVersionInfo.Product"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле BuildVersionInfo. Название продукта"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
 Название продукта.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/buildversioninfo/product/
 public static readonly string Product;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BuildVersionInfo](../)
-* пространство имен [Aspose.PSD](../../buildversioninfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

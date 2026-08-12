@@ -1,11 +1,12 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResource поле. Общая подпись ресурса.
+title: "LayerResource.ResourceSignature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле LayerResource. Общая подпись ресурса."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
 Общая подпись ресурса.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 public const int ResourceSignature;
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

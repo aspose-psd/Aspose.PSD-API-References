@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает описание изображения.
+title: "TiffOptions.ImageDescription"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает описание изображения"
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
 Получает или задает описание изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 public string ImageDescription { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Описание изображения.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

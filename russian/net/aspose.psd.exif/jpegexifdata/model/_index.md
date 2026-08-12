@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Model
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает модель.
+title: "JpegExifData.Model"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает модель"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.exif/jpegexifdata/model/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Model property
 
 Получает или задает модель.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/jpegexifdata/model/
 public string Model { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Модель.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

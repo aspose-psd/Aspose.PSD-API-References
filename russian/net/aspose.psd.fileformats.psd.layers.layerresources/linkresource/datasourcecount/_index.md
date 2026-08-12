@@ -1,27 +1,28 @@
 ---
-title: LinkResource.DataSourceCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkResource свойство. Получает количество источников данных ссылок к которым может обращаться индексатор.
+title: "LinkResource.DataSourceCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkResource. Возвращает количество link‑источников данных, к которым можно получить доступ через индексатор"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/
 ---
+{{< psd/tize >}}
 ## LinkResource.DataSourceCount property
 
-Получает количество источников данных ссылок, к которым может обращаться индексатор.
+Получает количество источников данных ссылки, к которым можно получить доступ через индексатор.
 
 ```csharp
 public int DataSourceCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество источников данных.
 
-### Смотрите также
+### См. также
 
 * class [LinkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

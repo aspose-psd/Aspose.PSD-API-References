@@ -1,14 +1,15 @@
 ---
-title: RenditionClass.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: RenditionClass метод. Получает содержащееся в строке значение в формате XMP.
+title: "RenditionClass.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RenditionClass. Получает строковое значение в формате XMP"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## RenditionClass.GetXmpRepresentation method
 
-Получает содержащееся в строке значение в формате XMP.
+Получает строковое значение в формате XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Возвращаемое значение
 
-Возвращает содержащееся в строке значение в формате XMP.
+Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [RenditionClass](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

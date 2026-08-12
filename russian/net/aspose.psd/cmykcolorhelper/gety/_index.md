@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetY
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColorHelper метод. Получает значение желтого компонента.
+title: "CmykColorHelper.GetY"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColorHelper. Получает значение желтого компонента"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/cmykcolorhelper/gety/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetY method
 
-Получает значение желтого компонента.
+Получает значение компоненты желтого.
 
 ```csharp
 public static int GetY(int cmyk)
@@ -16,16 +17,16 @@ public static int GetY(int cmyk)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmyk | Int32 | Цвет CMYK представлен в виде 32-битного целого числа. |
+| cmyk | Int32 | Цвет CMYK представлен в виде 32‑битного целочисленного значения. |
 
 ### Возвращаемое значение
 
-Значение желтого компонента.
+Значение жёлтого компонента.
 
-### Смотрите также
+### См. также
 
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

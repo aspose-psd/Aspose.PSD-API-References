@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsVisible
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает или задает значение указывающее виден ли этот экземпляр.
+title: "OuterGlowEffect.IsVisible"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "OuterGlowEffect свойство. Получает или задает значение, указывающее, видим ли данный экземпляр"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsVisible property
 
-Получает или задает значение, указывающее, виден ли этот экземпляр.
+Получает или задает значение, указывающее, видим ли этот экземпляр.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр виден; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр видим; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

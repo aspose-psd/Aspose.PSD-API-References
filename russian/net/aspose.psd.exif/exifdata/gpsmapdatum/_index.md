@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMapDatum
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает данные геодезической съемки GPS используемые приемником GPS.
+title: "ExifData.GPSMapDatum"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает геодезические данные GPS, используемые GPS-приемником"
 type: docs
 weight: 560
 url: /ru/net/aspose.psd.exif/exifdata/gpsmapdatum/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMapDatum property
 
-Получает или задает данные геодезической съемки GPS, используемые приемником GPS.
+Получает или задает геодезические данные GPS, используемые GPS-приемником.
 
 ```csharp
 public string GPSMapDatum { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Данные геодезической съемки GPS, используемые приемником GPS.
+Геодезические данные GPS, используемые GPS-приемником.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.BaseInset
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustomLineCap свойство. Получает или задает расстояние между крышкой и линией.
+title: "CustomLineCap.BaseInset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CustomLineCap. Получает или задает расстояние между колпачком и линией."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/customlinecap/baseinset/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseInset property
 
-Получает или задает расстояние между крышкой и линией.
+Получает или задаёт расстояние между наконечником и линией.
 
 ```csharp
 public float BaseInset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Расстояние между началом кепки и концом строки.
+Расстояние между началом колпачка и концом линии.
 
-### Смотрите также
+### См. также
 
 * class [CustomLineCap](../)
-* пространство имен [Aspose.PSD](../../customlinecap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

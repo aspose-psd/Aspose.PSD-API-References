@@ -1,30 +1,31 @@
 ---
-title: PieShape.PieShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: PieShape строитель. Инициализирует новый экземплярPieShape класс.
+title: "PieShape.PieShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PieShape. Инициализирует новый экземпляр класса PieShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-Инициализирует новый экземпляр[`PieShape`](../) класс.
+Инициализирует новый экземпляр класса [`PieShape`](../).
 
 ```csharp
 public PieShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PieShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../pieshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-Инициализирует новый экземпляр[`PieShape`](../) класс.
+Инициализирует новый экземпляр класса [`PieShape`](../).
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
@@ -32,15 +33,15 @@ public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
+| прямоугольник | RectangleF | Прямоугольник. |
 | startAngle | Single | Начальный угол. |
-| sweepAngle | Single | Угол развертки. |
+| sweepAngle | Single | Угол охвата. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../pieshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: WatermarkResource.WatermarkResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: WatermarkResource строитель. Конструктор по умолчанию.
+title: "WatermarkResource.WatermarkResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор WatermarkResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/watermarkresource/watermarkresource/
 ---
+{{< psd/tize >}}
 ## WatermarkResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/watermarkresource/watermarkres
 public WatermarkResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [WatermarkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

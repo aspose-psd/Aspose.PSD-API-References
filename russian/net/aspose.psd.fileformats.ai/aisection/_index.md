@@ -1,14 +1,15 @@
 ---
-title: Class AiSection
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Ai.AiSection сорт. Базовый раздел формата AI
+title: "Класс AiSection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Ai.AiSection класс. Базовый раздел формата Ai"
 type: docs
-weight: 1290
+weight: 1300
 url: /ru/net/aspose.psd.fileformats.ai/aisection/
 ---
+{{< psd/tize >}}
 ## AiSection class
 
-Базовый раздел формата AI
+Базовый раздел формата Ai
 
 ```csharp
 public abstract class AiSection
@@ -20,9 +21,9 @@ public abstract class AiSection
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Получает строковые данные. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

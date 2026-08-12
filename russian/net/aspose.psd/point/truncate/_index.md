@@ -1,14 +1,15 @@
 ---
-title: Point.Truncate
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Преобразует указанныйPointF кPoint путем усечения значенийPoint .
+title: "Point.Truncate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Преобразует указанный PointF в Point, усекнув значения Point."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-Преобразует указанный[`PointF`](../../pointf/) к[`Point`](../) путем усечения значений[`Point`](../) .
+Преобразует указанный [`PointF`](../../pointf/) в [`Point`](../), усекнув значения [`Point`](../).
 
 ```csharp
 public static Point Truncate(PointF point)
@@ -16,17 +17,17 @@ public static Point Truncate(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) для преобразования. |
+| point | PointF | `[`PointF`](../../pointf/)` для преобразования. |
 
 ### Возвращаемое значение
 
-[`Point`](../) этот метод преобразуется в.
+Элемент [`Point`](../), в который преобразует этот метод.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

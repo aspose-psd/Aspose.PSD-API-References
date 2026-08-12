@@ -1,40 +1,41 @@
 ---
-title: Enum TiffDataTypes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes перечисление. Тип данных TIFF enum.
+title: "Перечисление TiffDataTypes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes перечисление. Перечисление типов данных tiff"
 type: docs
-weight: 4060
+weight: 4530
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffdatatypes/
 ---
+{{< psd/tize >}}
 ## TiffDataTypes enumeration
 
-Тип данных TIFF enum.
+Перечисление типов данных tiff.
 
 ```csharp
 public enum TiffDataTypes : ushort
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Byte | `1` | 8-битное целое число без знака. |
-| Ascii | `2` | 8-битные байты с последним байтом`нулевой` . |
-| Short | `3` | 16-битное целое число без знака. |
-| Long | `4` | 32-битное целое число без знака. |
-| Rational | `5` | 64-битная дробь без знака. |
-| Sbyte | `6` | 8-битное целое число со знаком. |
-| Undefined | `7` | 8-битные нетипизированные данные. |
-| Sshort | `8` | 16-битное целое число со знаком. |
-| Slong | `9` | 32-битное целое число со знаком. |
-| Srational | `10` | 64-битная дробь со знаком. |
-| Float | `11` | 32-битная IEEE с плавающей запятой. |
-| Double | `12` | 64-битная IEEE с плавающей запятой. |
-| Ifd | `13` | Указатель на каталог файлов изображений Exif (IFD). |
+| Byte | `1` | 8‑битное беззнаковое целое. |
+| Ascii | `2` | 8‑битные байты с последним байтом `null`. |
+| Short | `3` | 16‑битное беззнаковое целое. |
+| Long | `4` | 32‑битное беззнаковое целое. |
+| Rational | `5` | 64‑битная беззнаковая дробь. |
+| Sbyte | `6` | 8‑битное знаковое целое. |
+| Undefined | `7` | 8‑битные данные без типа. |
+| Sshort | `8` | 16‑битное знаковое целое. |
+| Slong | `9` | 32‑битное знаковое целое. |
+| Srational | `10` | 64‑битная знаковая дробь. |
+| Float | `11` | 32‑битное число с плавающей точкой IEEE. |
+| Double | `12` | 64‑битное число с плавающей точкой IEEE. |
+| Ifd | `13` | Указатель на Exif image file directory (IFD). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

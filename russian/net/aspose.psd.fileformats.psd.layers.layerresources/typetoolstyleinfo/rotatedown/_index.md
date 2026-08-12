@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.RotateDown
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolStyleInfo свойство. Получает или задает значение указывающее является ли стиль поворотом вниз.
+title: "TypeToolStyleInfo.RotateDown"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolStyleInfo. Возвращает или задает значение, указывающее, является ли стиль поворотом вниз"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.RotateDown property
 
-Получает или задает значение, указывающее, является ли стиль поворотом вниз.
+Получает или задает значение, указывающее, является ли это стилем вращения вниз.
 
 ```csharp
 public bool RotateDown { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если это стиль поворота вниз; в противном случае,`ЛОЖЬ` .
+`true` если это стиль поворота вниз; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolStyleInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

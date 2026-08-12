@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.CompressionType
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает тип сжатия.
+title: "JpegOptions.CompressionType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает тип сжатия"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/compressiontype/
 ---
+{{< psd/tize >}}
 ## JpegOptions.CompressionType property
 
 Получает или задает тип сжатия.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/jpegoptions/compressiontype/
 public JpegCompressionMode CompressionType { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [JpegCompressionMode](../../../aspose.psd.fileformats.jpeg/jpegcompressionmode/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

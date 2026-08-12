@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageAttributes
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextureBrush свойство. ПолучаетImageAttributes связанные с этимTextureBrush .
+title: "TextureBrush.ImageAttributes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextureBrush. Возвращает ImageAttributes, связанные с этим TextureBrush."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageAttributes property
 
-Получает`ImageAttributes` связанные с этим[`TextureBrush`](../) .
+Возвращает `ImageAttributes`, связанные с этим [`TextureBrush`](../).
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`ImageAttributes`.
+Объект `ImageAttributes`.
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../texturebrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

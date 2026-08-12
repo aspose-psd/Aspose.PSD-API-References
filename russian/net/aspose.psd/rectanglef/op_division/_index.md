@@ -1,11 +1,12 @@
 ---
-title: RectangleF.op_Division
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF метод. Реализует оператор /.
+title: "RectangleF.op_Division"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RectangleF. Реализует оператор /"
 type: docs
 weight: 260
 url: /ru/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
 Реализует оператор /.
@@ -16,8 +17,8 @@ public static RectangleF operator /(RectangleF rectangle, float divider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
-| divider | Single | Делитель. |
+| прямоугольник | RectangleF | Прямоугольник. |
+| делитель | Single | Делитель. |
 
 ### Возвращаемое значение
 
@@ -27,12 +28,12 @@ public static RectangleF operator /(RectangleF rectangle, float divider)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | делитель - Деление на ноль не допускается. |
+| ArgumentOutOfRangeException | делитель — Деление на ноль не допускается. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Photometric
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает фотометрический параметр.
+title: "TiffOptions.Photometric"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает photometric"
 type: docs
-weight: 320
+weight: 330
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
 Получает или задает фотометрический параметр.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/photometric/
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Фотометрический.
 
-### Смотрите также
+### См. также
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

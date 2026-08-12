@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage метод. Добавляет дату создания ресурса.
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBasicPackage. Добавляет дату создания ресурса"
 type: docs
-weight: 30
+weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
 Добавляет дату создания ресурса.
@@ -18,11 +19,11 @@ public void SetCreatedDate(DateTime createdDate)
 | --- | --- | --- |
 | createdDate | DateTime | Дата создания. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,10 +39,10 @@ public void SetCreatedDate(string createdDate)
 | --- | --- | --- |
 | createdDate | String | Дата создания. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

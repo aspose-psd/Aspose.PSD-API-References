@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProgressEventHandlerInfo свойство. Получает описание события
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ProgressEventHandlerInfo. Возвращает описание события"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
 Получает описание события
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 public string Description { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Описание.
 
-### Смотрите также
+### См. также
 
 * class [ProgressEventHandlerInfo](../)
-* пространство имен [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

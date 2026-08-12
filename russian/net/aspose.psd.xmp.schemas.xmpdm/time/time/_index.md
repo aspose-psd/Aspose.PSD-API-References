@@ -1,14 +1,15 @@
 ---
-title: Time.Time
-second_title: Справочник по Aspose.PSD для .NET API
-description: Time строитель. Инициализирует новый экземплярTime класс.
+title: "Time.Time"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Time. Инициализирует новый экземпляр класса Time"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-Инициализирует новый экземпляр[`Time`](../) класс.
+Инициализирует новый экземпляр класса [`Time`](../).
 
 ```csharp
 public Time(Rational scale, int value)
@@ -16,14 +17,14 @@ public Time(Rational scale, int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scale | Rational | Масштаб. |
-| value | Int32 | Значение. |
+| scale | Рациональный | Масштаб. |
+| значение | Int32 | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary строитель. Инициализирует новый экземплярNonGenericDictionary класс.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор NonGenericDictionary. Инициализирует новый экземпляр класса NonGenericDictionary."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-Инициализирует новый экземпляр[`NonGenericDictionary`](../) класс.
+Инициализирует новый экземпляр класса [`NonGenericDictionary`](../).
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
@@ -18,10 +19,10 @@ public NonGenericDictionary(IDictionary dictionary)
 | --- | --- | --- |
 | dictionary | IDictionary | Словарь для использования. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

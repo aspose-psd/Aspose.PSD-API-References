@@ -1,11 +1,12 @@
 ---
-title: ITextPortion.Paragraph
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextPortion свойство. Устанавливает стиль.
+title: "ITextPortion.Paragraph"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextPortion. Устанавливает стиль"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/
 ---
+{{< psd/tize >}}
 ## ITextPortion.Paragraph property
 
 Устанавливает стиль.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/
 public ITextParagraph Paragraph { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Абзац.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, что выравнивание текста с помощью ITextPortion для языков с письмом справа налево работает правильно.
+В следующем примере демонстрируется, что выравнивание текста через ITextPortion для языков с письмом справа налево работает корректно.
 
 ```csharp
 [C#]
@@ -40,13 +41,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-В следующем примере показано, как можно визуализировать разные стили в одном текстовом слое в Aspose.PSD.
+Следующий пример демонстрирует, как можно отрисовать разные стили в одном текстовом слое в Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -69,12 +70,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // редактируем стиль текста "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // редактируем стиль текста "2\r"
-    newPortions[2].Style.FauxBold = true; // редактируем стиль текста "Жирный"
-    newPortions[3].Style.FauxItalic = true; // редактируем стиль текста "Курсив\r"
-    newPortions[3].Style.BaselineShift = -25; // редактируем стиль текста "Курсив\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // редактируем стиль текста "Текст нижнего регистра"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -86,7 +87,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем примере кода показано редактирование текстовых частей и стиля их текста.
+В следующем примере кода демонстрируется редактирование частей текста и их стиля.
 
 ```csharp
 [C#]
@@ -109,7 +110,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка текста каждой порции
+            // Проверка текста каждой части
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -118,8 +119,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка данных абзаца
-            // Абзацы имеют разное обоснование
+            // Проверка данных абзацев
+            // Абзацы имеют разное выравнивание
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -153,7 +154,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -209,7 +210,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Пример добавления новой текстовой части
+            // Пример добавления новой части текста
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -217,17 +218,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Пример редактирования абзаца и стиля для частей
-            // Установить правильное выравнивание
+            // Установить выравнивание по правому краю
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Разные цвета для каждого стиля. Будет изменено, но рендеринг поддерживается не полностью
+            // Разные цвета для каждого стиля. Они будут изменены, но рендеринг полностью не поддерживается
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Другой шрифт. Будет изменено, но рендеринг поддерживается не полностью
+            // Разный шрифт. Он будет изменён, но рендеринг полностью не поддерживается
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -242,11 +243,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [ITextPortion](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextportion/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

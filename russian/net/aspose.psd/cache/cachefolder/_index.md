@@ -1,11 +1,12 @@
 ---
-title: Cache.CacheFolder
-second_title: Справочник по Aspose.PSD для .NET API
-description: Cache свойство. Получает или задает папку кэша.
+title: "Cache.CacheFolder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Cache свойство. Получает или задает папку кэша"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
 Получает или задает папку кэша.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/cache/cachefolder/
 public static string CacheFolder { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Папка кеша.
+Папка кэша.
 
-### Смотрите также
+### См. также
 
 * class [Cache](../)
-* пространство имен [Aspose.PSD](../../cache/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

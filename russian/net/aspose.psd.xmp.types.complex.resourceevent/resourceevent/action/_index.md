@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.Action
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceEvent свойство. Получает или задает действие.
+title: "ResourceEvent.Action"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceEvent. Получает или задает действие"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
 Получает или задает действие.
@@ -14,18 +15,18 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 public string Action { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Действие.
 
-### Примеры
+## Примеры
 
-Определенные значения: преобразованы, скопированы, созданы, обрезаны, отредактированы, отфильтрованы, отформатированы, версии_обновлены, напечатаны, опубликованы, управляемы, созданы, изменены, сохранены. Новые значения должны быть глаголами в прошедшем времени.
+Определённые значения: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. Новые значения должны быть глаголами в прошедшем времени.
 
-### Смотрите также
+### См. также
 
 * class [ResourceEvent](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

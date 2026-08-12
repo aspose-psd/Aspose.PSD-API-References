@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage свойство. Получает разделы слоя.
+title: "AiImage.Layers"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiImage. Возвращает секции слоёв"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-Получает разделы слоя.
+Получает разделы слоёв.
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разделы слоя.
+Секции слоёв.
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

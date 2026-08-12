@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: MixrResource свойство. Получает или задает версию.
+title: "MixrResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MixrResource. Получает или задает версию"
 type: docs
-weight: 60
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
 Получает или задает версию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/versi
 public short Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Версия. Значение по умолчанию: 1 .
+Версия. Значение по умолчанию — 1
 
-### Смотрите также
+### См. также
 
 * class [MixrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

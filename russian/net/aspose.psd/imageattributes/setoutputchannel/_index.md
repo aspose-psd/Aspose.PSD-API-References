@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetOutputChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Устанавливает выходной канал CMYK голубойпурпурныйжелтыйчерный для категории по умолчанию.
+title: "ImageAttributes.SetOutputChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает выходной канал CMYK (циан, маджента, жёлтый, чёрный) для категории по умолчанию."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/imageattributes/setoutputchannel/
 ---
+{{< psd/tize >}}
 ## SetOutputChannel(ColorChannelFlag) {#setoutputchannel}
 
-Устанавливает выходной канал CMYK (голубой-пурпурный-желтый-черный) для категории по умолчанию.
+Устанавливает канал вывода CMYK (циан‑пурпур‑желтый‑черный) для категории по умолчанию.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags)
@@ -16,20 +17,20 @@ public void SetOutputChannel(ColorChannelFlag flags)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Элемент[`ColorChannelFlag`](../../colorchannelflag/)который определяет выходной канал. |
+| flags | ColorChannelFlag | Элемент [`ColorChannelFlag`](../../colorchannelflag/), указывающий выходной канал. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOutputChannel(ColorChannelFlag, ColorAdjustType) {#setoutputchannel_1}
 
-Устанавливает выходной канал CMYK (голубой-пурпурный-желтый-черный) для указанной категории.
+Устанавливает канал вывода CMYK (циан‑пурпур‑желтый‑черный) для указанной категории.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
@@ -37,15 +38,15 @@ public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Элемент[`ColorChannelFlag`](../../colorchannelflag/)который определяет выходной канал. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой установлен выходной канал. |
+| flags | ColorChannelFlag | Элемент [`ColorChannelFlag`](../../colorchannelflag/), указывающий выходной канал. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), указывающий категорию, для которой задаётся выходной канал. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

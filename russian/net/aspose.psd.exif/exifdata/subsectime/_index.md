@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubsecTime
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает доли секунды для тега DateTime.
+title: "ExifData.SubsecTime"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает доли секунды для тега DateTime"
 type: docs
 weight: 1030
 url: /ru/net/aspose.psd.exif/exifdata/subsectime/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTime property
 
 Получает или задает доли секунды для тега DateTime.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/subsectime/
 public string SubsecTime { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Доли секунд для тега DateTime.
+Доли секунды для тега DateTime.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

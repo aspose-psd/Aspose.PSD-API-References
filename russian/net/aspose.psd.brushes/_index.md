@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Brushes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен предоставляет вспомогательные классы и методы для работы с различными типами кистей.
+title: "Aspose.PSD.Brushes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Это пространство имён предоставляет вспомогательные классы и методы для работы с различными типами кистей."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/
 ---
-Пространство имен предоставляет вспомогательные классы и методы для работы с различными типами кистей.
+{{< psd/tize >}}
+Пространство имён предоставляет вспомогательные классы и методы для работы с различными типами кистей.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [HatchBrush](./hatchbrush/) | Определяет прямоугольную кисть со стилем штриховки, цветом переднего плана и цветом фона. Этот класс не может быть унаследован. |
-| [LinearGradientBrush](./lineargradientbrush/) | Инкапсулирует[`Brush`](../aspose.psd/brush/) с линейным градиентом. Этот класс не может быть унаследован. |
-| [LinearGradientBrushBase](./lineargradientbrushbase/) | Представляет[`Brush`](../aspose.psd/brush/) с возможностями градиента и соответствующими свойствами. |
-| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Представляет[`Brush`](../aspose.psd/brush/) с линейным градиентом, определяемым несколькими цветами и соответствующими позициями. Этот класс не может быть унаследован. |
-| [PathGradientBrush](./pathgradientbrush/) | Инкапсулирует[`Brush`](../aspose.psd/brush/) объект с градиентом. Этот класс не может быть унаследован. |
-| [PathGradientBrushBase](./pathgradientbrushbase/) | Представляет[`Brush`](../aspose.psd/brush/) с функцией градиента базового пути. |
-| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Инкапсулирует[`Brush`](../aspose.psd/brush/) объект с градиентом. Этот класс не может быть унаследован. |
-| [SolidBrush](./solidbrush/) | Сплошная кисть предназначена для непрерывного рисования определенным цветом. Этот класс не может быть унаследован. |
-| [TextureBrush](./texturebrush/) | Каждое свойство[`TextureBrush`](../aspose.psd.brushes/texturebrush/) класс это[`Brush`](../aspose.psd/brush/) объект, использующий изображение для заполнения внутренней части фигуры. Этот класс не может быть унаследован. |
-| [TransformBrush](./transformbrush/) | А[`Brush`](../aspose.psd/brush/) с возможностями трансформации. |
+| [HatchBrush](./hatchbrush/) | Определяет прямоугольную кисть с штриховкой, цветом переднего плана и цветом фона. Этот класс не может быть наследован. |
+| [LinearGradientBrush](./lineargradientbrush/) | Инкапсулирует [`Brush`](../aspose.psd/brush/) с линейным градиентом. Этот класс не может быть наследован. |
+| [LinearGradientBrushBase](./lineargradientbrushbase/) | Представляет [`Brush`](../aspose.psd/brush/) с возможностями градиента и соответствующими свойствами. |
+| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Представляет [`Brush`](../aspose.psd/brush/) с линейным градиентом, определённым несколькими цветами и соответствующими позициями. Этот класс не может быть наследован. |
+| [PathGradientBrush](./pathgradientbrush/) | Инкапсулирует объект [`Brush`](../aspose.psd/brush/) с градиентом. Этот класс не может быть наследован. |
+| [PathGradientBrushBase](./pathgradientbrushbase/) | Представляет [`Brush`](../aspose.psd/brush/) с функциональностью градиента базового пути. |
+| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Инкапсулирует объект [`Brush`](../aspose.psd/brush/) с градиентом. Этот класс не может быть наследован. |
+| [SolidBrush](./solidbrush/) | Сплошная кисть предназначена для непрерывного рисования определённым цветом. Этот класс не может быть наследован. |
+| [TextureBrush](./texturebrush/) | Каждое свойство класса [`TextureBrush`](../aspose.psd.brushes/texturebrush/) представляет собой объект [`Brush`](../aspose.psd/brush/), использующий изображение для заполнения внутренней части фигуры. Этот класс не может быть наследован. |
+| [TransformBrush](./transformbrush/) | Кисть [`Brush`](../aspose.psd/brush/) с возможностями трансформации. |
 
 

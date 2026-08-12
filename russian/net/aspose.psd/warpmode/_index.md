@@ -1,29 +1,30 @@
 ---
-title: Enum WarpMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.WarpMode перечисление. Указывает тип применяемого преобразования деформации.
+title: "Перечисление WarpMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.WarpMode. Указывает тип применяемого искажения трансформации"
 type: docs
-weight: 5730
+weight: 6230
 url: /ru/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-Указывает тип применяемого преобразования деформации.
+Указывает тип применяемого искажающего преобразования.
 
 ```csharp
 public enum WarpMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Perspective | `0` | Определяет деформацию перспективы. |
-| Bilinear | `1` | Определяет билинейную деформацию. |
+| Perspective | `0` | Указывает перспективное искажение. |
+| Bilinear | `1` | Указывает билинейное искажение. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

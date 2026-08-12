@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolFontInfo свойство. Получает или задает вектор осей проектирования которому следует следовать.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TypeToolFontInfo свойство. Получает или задает вектор осей дизайна для следования"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
-Получает или задает вектор осей проектирования, которому следует следовать.
+Получает или задает вектор осей дизайна для следования.
 
 ```csharp
 public int DesignAxes { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Вектор осей проектирования, которому следует следовать.
+Вектор осей дизайна для следования.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

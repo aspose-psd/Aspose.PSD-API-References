@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: VibAResource метод. Сохраняет ресурс в указанный контейнер потока.
+title: "VibAResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VibAResource метод. Сохраняет ресурс в указанный потоковый контейнер"
 type: docs
-weight: 70
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
 Сохраняет ресурс в указанный контейнер потока.
@@ -16,17 +17,17 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка ресурса VibAResource.
+Следующий пример кода демонстрирует поддержку ресурса VibAResource.
 
 ```csharp
 [C#]
 
-// Пример поддержки чтения и записи Vibration Resource во время выполнения.
+// Пример поддержки чтения и записи ресурса вибрации во время выполнения.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -55,11 +56,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

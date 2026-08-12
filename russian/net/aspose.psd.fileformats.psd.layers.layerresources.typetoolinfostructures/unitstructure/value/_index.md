@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnitStructure свойство. Получает или задает значение.
+title: "UnitStructure.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UnitStructure. Возвращает или задает значение"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
 Получает или задает значение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public double Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение.
 
-### Смотрите также
+### См. также
 
 * class [UnitStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

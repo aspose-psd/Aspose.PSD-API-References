@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Write
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer метод. Записывает все указанные байты в поток.
+title: "SplitStreamContainer.Write"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SplitStreamContainer. Записывает все указанные байты в поток"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/splitstreamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
 Записывает все указанные байты в поток.
@@ -16,19 +17,19 @@ public override void Write(byte[] bytes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bytes | Byte[] | Байты для записи. |
+| байты | Byte[] | Байты для записи. |
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[], int, int) {#write_1}
 
-Записывает последовательность байтов в текущий поток и продвигает текущую позицию в этом потоке на количество записанных байтов.
+Записывает последовательность байтов в текущий поток и перемещает текущую позицию в этом потоке на количество записанных байтов.
 
 ```csharp
 public override void Write(byte[] buffer, int offset, int count)
@@ -36,14 +37,14 @@ public override void Write(byte[] buffer, int offset, int count)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| buffer | Byte[] | Массив байтов. Этот метод копирует*count* байты из*buffer* к текущему потоку. |
-| offset | Int32 | Байтовое смещение, начинающееся с нуля, в*buffer*с которого начать копирование байтов в текущий поток. |
-| count | Int32 | Количество байтов, которые необходимо записать в текущий поток. |
+| буфер | Byte[] | Массив байтов. Этот метод копирует *count* байт из *buffer* в текущий поток. |
+| offset | Int32 | Нулевой (отсчёт с нуля) смещение байта в *buffer*, с которого следует начать копирование байтов в текущий поток. |
+| count | Int32 | Количество байтов, которые будут записаны в текущий поток. |
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

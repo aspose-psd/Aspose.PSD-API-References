@@ -1,14 +1,15 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: ObjectArrayStructure строитель. Инициализирует новый экземплярObjectArrayStructure класс.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ObjectArrayStructure. Инициализирует новый экземпляр класса ObjectArrayStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`ObjectArrayStructure`](../) класс.
+Инициализирует новый экземпляр класса [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
@@ -18,9 +19,9 @@ public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[
 | --- | --- | --- |
 | keyName | String | Имя ключа. |
 | classIdName | String | Имя идентификатора класса. |
-| structures | OSTypeStructure[] | Структуры. |
+| структуры | OSTypeStructure[] | Структуры. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -74,18 +75,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-Инициализирует новый экземпляр[`ObjectArrayStructure`](../) класс.
+Инициализирует новый экземпляр класса [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
@@ -94,19 +95,19 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | Int32 | Целочисленный ключ. |
-| keyName | ClassID | Ключевое имя. |
+| ключ | Int32 | Целочисленный ключ. |
+| keyName | ClassID | Имя ключа. |
 | classID | ClassID | Идентификатор класса. |
-| className | String | Название класса. |
-| structures | OSTypeStructure[] | Структуры. |
+| className | String | Имя класса. |
+| структуры | OSTypeStructure[] | Структуры. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | идентификатор класса равен нулю |
+| ArgumentNullException | classID равен null |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -160,12 +161,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

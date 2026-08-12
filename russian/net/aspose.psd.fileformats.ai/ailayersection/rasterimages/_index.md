@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает растровые изображения.
+title: "AiLayerSection.RasterImages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Возвращает растровые изображения."
 type: docs
-weight: 120
+weight: 140
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
 Получает растровые изображения.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Растровые изображения.
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как загрузить настройки растровых изображений в файлы формата AI.
+Следующий код демонстрирует, как загрузить настройки растровых изображений в файлах формата AI.
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

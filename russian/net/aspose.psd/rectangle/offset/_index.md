@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Offset
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Изменяет положение этого прямоугольника на указанную величину.
+title: "Rectangle.Offset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Смещает расположение этого прямоугольника на указанную величину."
 type: docs
 weight: 270
 url: /ru/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Изменяет положение этого прямоугольника на указанную величину.
+Изменяет расположение этого прямоугольника на указанную величину.
 
 ```csharp
 public void Offset(Point pos)
@@ -16,20 +17,20 @@ public void Offset(Point pos)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pos | Point | Сумма для компенсации местоположения. |
+| pos | Point | Величина смещения расположения. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Изменяет положение этого прямоугольника на указанную величину.
+Изменяет расположение этого прямоугольника на указанную величину.
 
 ```csharp
 public void Offset(int x, int y)
@@ -40,10 +41,10 @@ public void Offset(int x, int y)
 | x | Int32 | Горизонтальное смещение. |
 | y | Int32 | Вертикальное смещение. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

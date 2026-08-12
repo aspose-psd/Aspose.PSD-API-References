@@ -1,11 +1,12 @@
 ---
-title: Timecode.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Timecode метод. Указывает равен ли текущий объект другому объекту того же типа.
+title: "Timecode.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Timecode. Указывает, равен ли текущий объект другому объекту того же типа"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/equals/
 ---
+{{< psd/tize >}}
 ## Equals(Timecode) {#equals}
 
 Указывает, равен ли текущий объект другому объекту того же типа.
@@ -16,23 +17,23 @@ public bool Equals(Timecode other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Timecode | Объект для сравнения с этим объектом. |
+| другой | Таймкод | Объект для сравнения с этим объектом. |
 
 ### Возвращаемое значение
 
-true, если текущий объект равен*other* параметр; в противном случае false.
+true, если текущий объект равен параметру *other*; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [Timecode](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +41,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [Timecode](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResourcesRegistry метод. Получает первый поддерживаемый дескриптор открывателя.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LayerResourcesRegistry. Получает первый поддерживаемый дескриптор открывателя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
 Получает первый поддерживаемый дескриптор открывателя.
@@ -23,15 +24,15 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 
 Дескриптор загрузчика ресурсов слоя или null, если для такого потока не поддерживается дескриптор загрузчика.
 
-### Примечания
+## Примечания
 
-Первый загрузчик будет последним зарегистрированным.
+Первый загрузчик на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

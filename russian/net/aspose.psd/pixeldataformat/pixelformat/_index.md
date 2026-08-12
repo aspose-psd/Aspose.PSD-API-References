@@ -1,28 +1,29 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. Получает формат пикселей.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PixelDataFormat. Возвращает формат пикселя."
 type: docs
 weight: 340
 url: /ru/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
-Получает формат пикселей.
+Возвращает формат пикселя.
 
 ```csharp
 public PixelFormat PixelFormat { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Формат пикселей.
+Формат пикселя.
 
-### Смотрите также
+### См. также
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

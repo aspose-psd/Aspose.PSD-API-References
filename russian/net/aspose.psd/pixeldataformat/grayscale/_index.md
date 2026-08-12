@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. ПолучаетPixelDataFormatопределяется для 8 бит на пиксель где 8 бит представляют интенсивность оттенков серого в интервале 0255.
+title: "PixelDataFormat.Grayscale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PixelDataFormat. Получает PixelDataFormat, определённый для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в диапазоне 0‑255."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/pixeldataformat/grayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Grayscale property
 
-Получает[`PixelDataFormat`](../)определяется для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в интервале 0–255.
+Получает [`PixelDataFormat`](../), определённый для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в диапазоне 0‑255.
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`PixelDataFormat`](../)определяется для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в интервале 0–255.
+Этот [`PixelDataFormat`](../) определённый для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в диапазоне 0‑255.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

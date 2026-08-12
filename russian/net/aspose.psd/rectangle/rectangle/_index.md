@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Rectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle строитель. Инициализирует новый экземплярRectangle структура с указанным расположением и размером.
+title: "Rectangle.Rectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Rectangle. Инициализирует новый экземпляр структуры Rectangle с указанным расположением и размером."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/rectangle/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle(int, int, int, int) {#constructor_1}
 
-Инициализирует новый экземпляр[`Rectangle`](../) структура с указанным расположением и размером.
+Инициализирует новый экземпляр структуры [`Rectangle`](../) с указанным расположением и размером.
 
 ```csharp
 public Rectangle(int x, int y, int width, int height)
@@ -16,22 +17,22 @@ public Rectangle(int x, int y, int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Int32 | Координата x левого верхнего угла прямоугольника. |
-| y | Int32 | Y-координата левого верхнего угла прямоугольника. |
+| x | Int32 | Координата x верхнего левого угла прямоугольника. |
+| y | Int32 | Координата y верхнего левого угла прямоугольника. |
 | width | Int32 | Ширина прямоугольника. |
 | height | Int32 | Высота прямоугольника. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rectangle(Point, Size) {#constructor}
 
-Инициализирует новый экземпляр[`Rectangle`](../) структура с указанным расположением и размером.
+Инициализирует новый экземпляр структуры [`Rectangle`](../) с указанным расположением и размером.
 
 ```csharp
 public Rectangle(Point location, Size size)
@@ -39,15 +40,15 @@ public Rectangle(Point location, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| location | Point | А[`Point`](../../point/) который представляет верхний левый угол прямоугольной области. |
-| size | Size | А[`Size`](../../size/) который представляет ширину и высоту прямоугольной области. |
+| location | Point | `[`Point`](../../point/)`, представляющий левый верхний угол прямоугольной области. |
+| size | Size | `[`Size`](../../size/)`, представляющий ширину и высоту прямоугольной области. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../point/)
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Справочник по Aspose.PSD для .NET API
-description: MultiPageOptions свойство. Получает или задает значение указывающее используются ли слои слияния.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MultiPageOptions. Получает или задает значение, указывающее, включено ли объединение слоёв"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-Получает или задает значение, указывающее, используются ли [слои слияния].
+Получает или задает значение, указывающее, следует ли [merege layers].
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [слои смеже]; в противном случае,`ЛОЖЬ` .
+`true` если [объединение слоёв]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [MultiPageOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает значение указывающее есть ли у этого экземпляра альфа.
+title: "RasterImage.HasAlpha"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Возвращает значение, указывающее, имеет ли данный экземпляр альфа-канал"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-Получает значение, указывающее, есть ли у этого экземпляра альфа.
+Получает значение, указывающее, имеет ли этот экземпляр альфа-канал.
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если у этого экземпляра есть альфа; в противном случае,`ЛОЖЬ` .
+`true` если данный экземпляр имеет альфа-канал; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

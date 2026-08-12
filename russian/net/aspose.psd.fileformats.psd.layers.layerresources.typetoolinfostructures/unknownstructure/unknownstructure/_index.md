@@ -1,14 +1,15 @@
 ---
-title: UnknownStructure.UnknownStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnknownStructure строитель. Инициализирует новый экземплярUnknownStructure класс.
+title: "UnknownStructure.UnknownStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор UnknownStructure. Инициализирует новый экземпляр класса UnknownStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure constructor
 
-Инициализирует новый экземпляр[`UnknownStructure`](../) класс.
+Инициализирует новый экземпляр класса [`UnknownStructure`](../).
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
@@ -16,14 +17,14 @@ public UnknownStructure(ClassID keyName, int key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
-| key | Int32 | Ключ структуры. |
+| keyName | ClassID | Имя ключа. |
+| ключ | Int32 | Ключ структуры. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnknownStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

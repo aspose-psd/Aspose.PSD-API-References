@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathGradientBrush свойство. Получает или задает массив цветов соответствующих точкам путиPathGradientBrush заполняет.
+title: "PathGradientBrush.SurroundColors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PathGradientBrush свойство. Получает или задает массив цветов, соответствующих точкам пути, который заполняет этот PathGradientBrush"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-Получает или задает массив цветов, соответствующих точкам пути,[`PathGradientBrush`](../) заполняет.
+Получает или задает массив цветов, соответствующих точкам пути, который заполняет этот [`PathGradientBrush`](../).
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Массив[`Color`](../../../aspose.psd/color/) структуры, представляющие цвета, связанные с каждой точкой пути,[`PathGradientBrush`](../) заполняет.
+Массив структур [`Color`](../../../aspose.psd/color/) , представляющих цвета, связанные с каждой точкой пути, который заполняет этот [`PathGradientBrush`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

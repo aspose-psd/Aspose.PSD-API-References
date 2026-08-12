@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.TypeToolFontInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolFontInfo строитель. Конструктор по умолчанию.
+title: "TypeToolFontInfo.TypeToolFontInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TypeToolFontInfo. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/typetoolfontinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/t
 public TypeToolFontInfo()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TypeToolFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

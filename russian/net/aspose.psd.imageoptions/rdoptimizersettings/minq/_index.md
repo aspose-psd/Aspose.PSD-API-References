@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Справочник по Aspose.PSD для .NET API
-description: RdOptimizerSettings свойство. Получает минимально допустимое значение квантования.
+title: "RdOptimizerSettings.MinQ"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RdOptimizerSettings свойство. Возвращает минимально допустимое значение квантизации"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-Получает минимально допустимое значение квантования.
+Получает минимальное допустимое значение квантизации.
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Минимально допустимое значение квантования.
+Минимальное допустимое значение квантизации.
 
-### Смотрите также
+### См. также
 
 * class [RdOptimizerSettings](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

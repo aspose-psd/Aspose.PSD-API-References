@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorBalanceAdjustmentLayer свойство. Получает или задает баланс зеленого пурпурного для теней.
+title: "ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorBalanceAdjustmentLayer. Получает или задает Shadows Magenta Green Balance"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
-Получает или задает баланс зеленого пурпурного для теней.
+Получает или задает значение Shadows Magenta Green Balance.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тени Пурпурно-зеленый баланс.
+Shadows Magenta Green Balance.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Magenta Green Balance должен находиться в диапазоне от -100 до +100. |
+| ArgumentOutOfRangeException | Shadows Magenta Green Balance должно быть в диапазоне от -100 до +100. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorBalanceAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

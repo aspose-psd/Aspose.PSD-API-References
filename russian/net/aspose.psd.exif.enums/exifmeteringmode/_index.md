@@ -1,35 +1,36 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode перечисление. режим измерения exif enum.
+title: "Перечисление ExifMeteringMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode перечисление. exif metering mode перечисление"
 type: docs
-weight: 900
+weight: 910
 url: /ru/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-режим измерения exif enum.
+Перечисление режима измерения экспозиции exif.
 
 ```csharp
 public enum ExifMeteringMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Unknown | `0` | Неопределенный режим |
-| Average | `1` | Средний замер |
-| Centerweightedaverage | `2` | Средневзвешенное значение по центру. |
-| Spot | `3` | Точечный замер |
-| MultiSpot | `4` | Многоточечный замер |
+| Unknown | `0` | Неопределённый режим |
+| Average | `1` | Среднее измерение |
+| Centerweightedaverage | `2` | Среднее с центральным взвешиванием. |
+| Spot | `3` | Точечное измерение |
+| MultiSpot | `4` | Множественное точечное измерение |
 | MultiSegment | `5` | Многосегментный замер. |
 | Partial | `6` | Частичный замер. |
 | Other | `255` | Для других режимов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

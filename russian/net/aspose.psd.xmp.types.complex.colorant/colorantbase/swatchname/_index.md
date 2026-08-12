@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantBase свойство. Получает или задает имя образца.
+title: "ColorantBase.SwatchName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantBase. Получает или задает имя образца"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-Получает или задает имя образца.
+Получает или задает название образца.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Название образца.
+Имя образца.
 
-### Смотрите также
+### См. также
 
 * class [ColorantBase](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

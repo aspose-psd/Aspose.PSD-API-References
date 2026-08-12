@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRectangles
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Заполняет внутреннюю часть ряда прямоугольников заданных параметромRectangle структуры.
+title: "Graphics.FillRectangles"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Заполняет внутренние области серии прямоугольников, указанных структурами Rectangle"
 type: docs
-weight: 400
+weight: 410
 url: /ru/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-Заполняет внутреннюю часть ряда прямоугольников, заданных параметром[`Rectangle`](../../rectangle/) структуры.
+Заполняет внутренние области серии прямоугольников, указанных структурами [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
@@ -16,28 +17,28 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
-| rects | Rectangle[] | Массив[`Rectangle`](../../rectangle/) структуры, представляющие прямоугольники для заполнения. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
+| rects | Rectangle[] | Массив структур [`Rectangle`](../../rectangle/), представляющих прямоугольники для заполнения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* является нулевым или*rects* нулевой. |
+| ArgumentNullException | *brush* равен null или *rects* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-Заполняет внутреннюю часть ряда прямоугольников, заданных параметром[`RectangleF`](../../rectanglef/) структуры.
+Заполняет внутренние области серии прямоугольников, указанных структурами [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
@@ -45,21 +46,21 @@ public void FillRectangles(Brush brush, RectangleF[] rects)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
-| rects | RectangleF[] | Массив[`Rectangle`](../../rectangle/) структуры, представляющие прямоугольники для заполнения. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
+| rects | RectangleF[] | Массив структур [`Rectangle`](../../rectangle/), представляющих прямоугольники для заполнения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* является нулевым или*rects* нулевой. |
+| ArgumentNullException | *brush* равен null или *rects* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

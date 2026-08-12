@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает начертание шрифта.
+title: "Font.FontFace"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Font свойство. Получает или задает гарнитуру шрифта"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-Получает или задает начертание шрифта.
+Получает или задаёт гарнитуру шрифта.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Начертание шрифта.
+Гарнитура шрифта.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

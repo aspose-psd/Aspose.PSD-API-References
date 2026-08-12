@@ -1,14 +1,15 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Определяет разрешен ли шрифт указанное имя шрифта.
+title: "FontSettings.IsFontAllowed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FontSettings. Определяет, разрешён ли указанный шрифт."
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-Определяет, [разрешен ли шрифт] [указанное имя шрифта].
+Определяет, [is font allowed] [the specified font name].
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
@@ -16,15 +17,15 @@ public static bool IsFontAllowed(string fontName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Название шрифта. |
+| fontName | String | Имя шрифта. |
 
 ### Возвращаемое значение
 
-`истинный` если [разрешен ли шрифт] [указанное имя шрифта]; в противном случае,`ЛОЖЬ` .
+`true` если [is font allowed] [the specified font name]; иначе, `false`.
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность программного ограничения использования шрифтов.
+Следующий код демонстрирует возможность программно ограничивать шрифты.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

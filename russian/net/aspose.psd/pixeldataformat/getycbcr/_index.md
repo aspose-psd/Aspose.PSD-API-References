@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetYCbCr
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat метод. Получает цвет YCbCr с указанным количеством битов на выборку.
+title: "PixelDataFormat.GetYCbCr"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PixelDataFormat. Возвращает цвет YCbCr с указанным количеством бит на образец."
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/pixeldataformat/getycbcr/
 ---
+{{< psd/tize >}}
 ## GetYCbCr(int) {#getycbcr}
 
-Получает цвет YCbCr с указанным количеством битов на выборку.
+Возвращает цвет YCbCr с указанным количеством бит на образец.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerSample)
@@ -16,23 +17,23 @@ public static PixelDataFormat GetYCbCr(int bitsPerSample)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Количество битов на выборку. |
+| bitsPerSample | Int32 | Количество битов на образец. |
 
 ### Возвращаемое значение
 
 Цвет YCbCr.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetYCbCr(int, int, int) {#getycbcr_1}
 
-Получает цвет YCbCr с указанным количеством битов на выборку.
+Возвращает цвет YCbCr с указанным количеством бит на образец.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerCr)
@@ -40,18 +41,18 @@ public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerC
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitsPerY | Int32 | Количество битов на канал Y. |
-| bitsPerCb | Int32 | Количество битов на канал Cb. |
-| bitsPerCr | Int32 | Количество битов на канал Cr. |
+| bitsPerY | Int32 | Количество бит на канал Y. |
+| bitsPerCb | Int32 | Количество бит на канал Cb. |
+| bitsPerCr | Int32 | Количество бит на канал Cr. |
 
 ### Возвращаемое значение
 
 Цвет YCbCr.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

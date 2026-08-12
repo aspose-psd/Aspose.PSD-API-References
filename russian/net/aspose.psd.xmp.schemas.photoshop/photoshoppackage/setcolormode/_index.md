@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetColorMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает цветовой режим.
+title: "PhotoshopPackage.SetColorMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Устанавливает режим цвета"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetColorMode method
 
-Устанавливает цветовой режим.
+Устанавливает режим цвета.
 
 ```csharp
 public void SetColorMode(ColorMode colorMode)
@@ -16,13 +17,13 @@ public void SetColorMode(ColorMode colorMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorMode | ColorMode | Цветовой режим. |
+| colorMode | ColorMode | Режим цвета. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

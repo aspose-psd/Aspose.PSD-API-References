@@ -1,23 +1,24 @@
 ---
-title: IntegerStructure.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: IntegerStructure свойство. ПолучаетOSTypeStructure длина в байтах.
+title: "IntegerStructure.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IntegerStructure свойство. Возвращает длину OSTypeStructure в байтах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Length property
 
-Получает[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах.
+Получает длину [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [IntegerStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

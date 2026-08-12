@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Справочник по Aspose.PSD для .NET API
-description: DublinCorePackage метод. Добавляет издателя.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод DublinCorePackage. Добавляет издателя"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
 Добавляет издателя.
@@ -16,13 +17,13 @@ public void SetPublisher(string publisher)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| publisher | String | Издатель. |
+| издатель | String | Издатель. |
 
-### Смотрите также
+### См. также
 
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,7 +37,7 @@ public void SetPublisher(string[] publisher)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| publisher | String[] | Издатель. |
+| издатель | String[] | Издатель. |
 
 ### Исключения
 
@@ -44,10 +45,10 @@ public void SetPublisher(string[] publisher)
 | --- | --- |
 | ArgumentNullException | издатель |
 
-### Смотрите также
+### См. также
 
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

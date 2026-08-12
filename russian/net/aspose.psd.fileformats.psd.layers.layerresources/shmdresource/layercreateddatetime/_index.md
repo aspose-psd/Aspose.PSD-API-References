@@ -1,27 +1,28 @@
 ---
-title: ShmdResource.LayerCreatedDateTime
-second_title: Справочник по Aspose.PSD для .NET API
-description: ShmdResource свойство. Получает или задает время создания слоя. Если время создания слоя не указано то возвращается новый DateTime0
+title: "ShmdResource.LayerCreatedDateTime"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ShmdResource. Возвращает или задает время создания слоя. Если время создания слоя не указано, возвращает новый DateTime0"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## ShmdResource.LayerCreatedDateTime property
 
-Получает или задает время создания слоя. Если время создания слоя не указано, то возвращается новый DateTime(0)
+Получает или задает время создания слоя. Если время создания слоя не указано, возвращает новый DateTime(0)
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Время создания слоя.
 
-### Смотрите также
+### См. также
 
 * class [ShmdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

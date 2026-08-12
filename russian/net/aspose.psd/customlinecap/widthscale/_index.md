@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustomLineCap свойство. Получает или задает величину масштабирования этогоCustomLineCap Объект класса относительно шириныPen объект.
+title: "CustomLineCap.WidthScale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CustomLineCap. Получает или задает величину, на которую масштабировать этот объект класса CustomLineCap относительно ширины объекта Pen."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-Получает или задает величину масштабирования этого[`CustomLineCap`](../) Объект класса относительно шириныPen объект.
+Получает или задает величину, на которую масштабировать этот объект класса [`CustomLineCap`](../) относительно ширины объекта Pen.
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Сумма, на которую можно масштабировать кепку.
+Величина масштабирования заглушки.
 
-### Смотрите также
+### См. также
 
 * class [CustomLineCap](../)
-* пространство имен [Aspose.PSD](../../customlinecap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

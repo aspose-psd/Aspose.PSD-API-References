@@ -1,11 +1,12 @@
 ---
-title: IntegerStructure.StructureKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: IntegerStructure поле. Ключ целочисленной структуры.
+title: "IntegerStructure.StructureKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IntegerStructure поле. Ключ целочисленной структуры"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.StructureKey field
 
 Ключ целочисленной структуры.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [IntegerStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

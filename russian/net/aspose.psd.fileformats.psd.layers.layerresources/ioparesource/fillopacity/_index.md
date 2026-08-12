@@ -1,11 +1,12 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: IopaResource свойство. Получает или задает непрозрачность заливки.
+title: "IopaResource.FillOpacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IopaResource. Получает или задает непрозрачность заливки"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
 Получает или задает непрозрачность заливки.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillo
 public byte FillOpacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность заливки.
 
-### Смотрите также
+### См. также
 
 * class [IopaResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdLoadOptions свойство. Получает или задает значение указывающее будет ли фиксированная ширина текстового слоя PSD игнорироваться при выполнении операции UpdateText.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdLoadOptions property. Получает или задаёт значение, указывающее, будет ли фиксированная ширина текстового слоя PSD игнорироваться при выполнении операции UpdateText"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
 Получает или задает значение, указывающее, будет ли фиксированная ширина текстового слоя PSD игнорироваться при выполнении операции UpdateText.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonup
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [игнорировать ширину текстового слоя]; в противном случае,`ЛОЖЬ` .
+`true` если [игнорировать ширину текстового слоя]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [PsdLoadOptions](../)
-* пространство имен [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

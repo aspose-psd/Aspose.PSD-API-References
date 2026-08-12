@@ -1,28 +1,29 @@
 ---
-title: StrokeEffect.FillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: StrokeEffect свойство. Получает или задает параметры заливки.
+title: "StrokeEffect.FillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StrokeEffect. Получает или задает настройки заливки"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.FillSettings property
 
-Получает или задает параметры заливки.
+Получает или задает параметры заполнения.
 
 ```csharp
 public BaseFillSettings FillSettings { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Настройки заливки.
+Параметры заливки.
 
-### Смотрите также
+### См. также
 
 * class [BaseFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/)
 * class [StrokeEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

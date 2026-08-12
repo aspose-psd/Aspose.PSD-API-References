@@ -1,23 +1,24 @@
 ---
-title: PointF.Empty
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF свойство. Получает новый экземплярPointF структура которая имеетX иY значения равны нулю.
+title: "PointF.Empty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PointF. Возвращает новый экземпляр структуры PointF, у которой значения X и Y установлены в ноль"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-Получает новый экземпляр[`PointF`](../) структура, которая имеет[`X`](../x/) и[`Y`](../y/) значения равны нулю.
+Возвращает новый экземпляр структуры [`PointF`](../), у которой значения [`X`](../x/) и [`Y`](../y/) установлены в ноль.
 
 ```csharp
 public static PointF Empty { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

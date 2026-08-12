@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: Справочник по Aspose.PSD для .NET API
-description: DisposableObject метод. Удаляет текущий экземпляр.
+title: "DisposableObject.Dispose"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод DisposableObject. Освобождает текущий экземпляр"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-Удаляет текущий экземпляр.
+Освобождает текущий экземпляр.
 
 ```csharp
 public void Dispose()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DisposableObject](../)
-* пространство имен [Aspose.PSD](../../disposableobject/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

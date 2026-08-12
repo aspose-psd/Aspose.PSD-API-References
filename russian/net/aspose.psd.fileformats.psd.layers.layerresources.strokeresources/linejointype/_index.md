@@ -1,11 +1,12 @@
 ---
-title: Enum LineJoinType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType перечисление. Тип соединения линий.
+title: "Перечисление LineJoinType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Тип соединения линий"
 type: docs
-weight: 3050
+weight: 3410
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
 Тип соединения линий.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/li
 public enum LineJoinType : short
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| BevelJoin | `0` | Тип соединения со скосом. |
-| RoundJoin | `1` | Тип округления. |
-| MiterJoin | `2` | Тип соединения Mitre. |
+| BevelJoin | `0` | Тип соединения с фаской. |
+| RoundJoin | `1` | Тип соединения с закруглением. |
+| MiterJoin | `2` | Тип соединения с срезом. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса VstkResource.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

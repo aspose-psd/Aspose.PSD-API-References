@@ -1,23 +1,24 @@
 ---
-title: JpegExifData.MaxExifSegmentSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData поле. Максимально допустимый размер сегмента EXIF в байтах.
+title: "JpegExifData.MaxExifSegmentSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле JpegExifData. Максимальный разрешенный размер сегмента EXIF в байтах"
 type: docs
 weight: 280
 url: /ru/net/aspose.psd.exif/jpegexifdata/maxexifsegmentsize/
 ---
+{{< psd/tize >}}
 ## JpegExifData.MaxExifSegmentSize field
 
-Максимально допустимый размер сегмента EXIF в байтах.
+Максимальный разрешённый размер сегмента EXIF в байтах.
 
 ```csharp
 public const int MaxExifSegmentSize;
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

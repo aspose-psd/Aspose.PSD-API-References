@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. РисуетGraphicsPath .
+title: "Graphics.DrawPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Рисует объект GraphicsPath."
 type: docs
-weight: 270
+weight: 280
 url: /ru/net/aspose.psd/graphics/drawpath/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawPath method
 
-Рисует[`GraphicsPath`](../../graphicspath/) .
+Рисует [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void DrawPath(Pen pen, GraphicsPath path)
@@ -17,61 +18,61 @@ public void DrawPath(Pen pen, GraphicsPath path)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль пути. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) рисовать. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) для рисования. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen* равно null. -или- *path* нулевой. |
+| ArgumentNullException | *pen* равен null. -or- *path* равен null. |
 
-### Примеры
+## Примеры
 
-В этих примерах используются GraphicsPath и класс Graphics для создания и управления рисунками на поверхности изображения. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
+В этом примере используется класс GraphicsPath и класс Graphics для создания и манипулирования фигурами на поверхности изображения. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отрисовки путей на поверхности. В конце изображение экспортируется в формат файла Tiff.
 
 ```csharp
 [C#]
 
-//Создаем экземпляр изображения 
+//Создайте экземпляр Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Создаем и инициализируем экземпляр класса Graphics
+    //Создайте и инициализируйте экземпляр класса Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Очистить графическую поверхность
+    //Очистить поверхность Graphics
     graphics.Clear(Color.Wheat);
 
-    //Создаем экземпляр класса GraphicsPath
+    //Создайте экземпляр класса GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    // Добавляем фигуры к объекту Figure
+    //Добавьте фигуры в объект Figure
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    //Добавить объект Figure в GraphicsPath
+    //Добавьте объект Figure в GraphicsPath
     graphicspath.AddFigure(figure);
 
-    // Нарисовать путь с помощью объекта Pen черного цвета
+    //Нарисуйте путь объектом Pen цвета чёрный
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    //Создаем экземпляр TiffOptions и устанавливаем его различные свойства
+    //Создайте экземпляр TiffOptions и задайте его различные свойства
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
-    // сохранить все изменения.
+    // Сохраните все изменения.
     image.Save("C:\\temp\\output.tiff", tiffOptions);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

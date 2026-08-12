@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или устанавливает авторские права.
+title: "JpegExifData.Copyright"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает авторские права"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-Получает или устанавливает авторские права.
+Получает или задает авторские права.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Авторские права.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

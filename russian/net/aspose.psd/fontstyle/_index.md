@@ -1,33 +1,34 @@
 ---
-title: Enum FontStyle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FontStyle перечисление. Определяет информацию о стиле применяемую к тексту.
+title: "Перечисление FontStyle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FontStyle. Указывает информацию о стиле, применяемом к тексту"
 type: docs
-weight: 4300
+weight: 4770
 url: /ru/net/aspose.psd/fontstyle/
 ---
+{{< psd/tize >}}
 ## FontStyle enumeration
 
-Определяет информацию о стиле, применяемую к тексту.
+Указывает информацию о стиле, применяемую к тексту.
 
 ```csharp
 [Flags]
 public enum FontStyle
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Regular | `0` | Обычный текст. |
 | Bold | `1` | Жирный текст. |
-| Italic | `2` | Курсив. |
-| Underline | `4` | Подчеркнутый текст. |
+| Italic | `2` | Курсивный текст. |
+| Underline | `4` | Подчёркнутый текст. |
 | Strikeout | `8` | Текст с линией посередине. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

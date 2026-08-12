@@ -1,11 +1,12 @@
 ---
-title: FXidResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: FXidResource свойство. Получает длину ресурса слоя в байтах.
+title: "FXidResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FXidResource. Получает длину ресурса слоя в байтах"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/
 ---
+{{< psd/tize >}}
 ## FXidResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FXidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

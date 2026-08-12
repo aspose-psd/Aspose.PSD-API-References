@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Distance
-second_title: Справочник по Aspose.PSD для .NET API
-description: DropShadowEffect свойство. Получает или задает расстояние в пикселях.
+title: "DropShadowEffect.Distance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DropShadowEffect. Возвращает или задает расстояние в пикселях"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Distance property
 
 Получает или задает расстояние в пикселях.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/dis
 public int Distance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Расстояние.
 
-### Смотрите также
+### См. также
 
 * class [DropShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

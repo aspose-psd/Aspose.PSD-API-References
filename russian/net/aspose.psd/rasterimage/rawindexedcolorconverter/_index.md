@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает или задает преобразователь индексированных цветов
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Получает или задает конвертер индексированных цветов."
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-Получает или задает преобразователь индексированных цветов
+Получает или задает конвертер индексированных цветов.
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Преобразователь индексированных цветов
+Индексированный конвертер цветов
 
-### Смотрите также
+### См. также
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

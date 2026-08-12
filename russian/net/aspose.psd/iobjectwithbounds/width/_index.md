@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: IObjectWithBounds свойство. Получает ширину объекта.
+title: "IObjectWithBounds.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IObjectWithBounds. Возвращает ширину объекта"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
 Получает ширину объекта.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/iobjectwithbounds/width/
 public int Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина объекта.
 
-### Смотрите также
+### См. также
 
 * interface [IObjectWithBounds](../)
-* пространство имен [Aspose.PSD](../../iobjectwithbounds/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

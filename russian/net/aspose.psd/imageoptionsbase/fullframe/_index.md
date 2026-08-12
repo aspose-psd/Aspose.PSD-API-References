@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageOptionsBase свойство. Получает или задает значение указывающее является ли полный кадр.
+title: "ImageOptionsBase.FullFrame"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageOptionsBase. Получает или задает значение, указывающее, является ли полный кадр"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-Получает или задает значение, указывающее, является ли [полный кадр].
+Получает или задает значение, указывающее, является ли [full frame].
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [полный кадр]; в противном случае,`ЛОЖЬ` .
+`true` если [full frame]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [ImageOptionsBase](../)
-* пространство имен [Aspose.PSD](../../imageoptionsbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

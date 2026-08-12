@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Справочник по Aspose.PSD для .NET API
-description: JFIFData свойство. Получает или задает миниатюру.
+title: "JFIFData.Thumbnail"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JFIFData. Получает или задаёт миниатюру"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
 Получает или задает миниатюру.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

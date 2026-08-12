@@ -1,27 +1,28 @@
 ---
-title: Layer.HasAlpha
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает значение указывающее есть ли у этого экземпляра альфа.
+title: "Layer.HasAlpha"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Возвращает значение, указывающее, имеет ли данный экземпляр альфа-канал"
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
-Получает значение, указывающее, есть ли у этого экземпляра альфа.
+Получает значение, указывающее, имеет ли этот экземпляр альфа-канал.
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если у этого экземпляра есть альфа; в противном случае,`ЛОЖЬ` .
+`true` если данный экземпляр имеет альфа-канал; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

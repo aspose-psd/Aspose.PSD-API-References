@@ -1,21 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит настройки слоев заливки
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит настройки слоёв заполнения."
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/
 ---
-Пространство имен содержит настройки слоев заливки
+{{< psd/tize >}}
+Пространство имён содержит настройки слоёв заполнения.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [BaseFillSettings](./basefillsettings/) | Настройки эффекта базовой заливки |
-| [ColorFillSettings](./colorfillsettings/) | Настройки эффекта цветовой заливки |
-| [GradientColorPoint](./gradientcolorpoint/) | Цветовая точка градиента. |
-| [GradientFillSettings](./gradientfillsettings/) | Настройки эффекта градиентной заливки. |
+| [BaseFillSettings](./basefillsettings/) | Базовые настройки эффекта заливки |
+| [ColorFillSettings](./colorfillsettings/) | Настройки эффекта заливки цветом |
+| [GradientColorPoint](./gradientcolorpoint/) | Точка градиентного цвета. |
+| [GradientFillSettings](./gradientfillsettings/) | Базовый класс определения градиента. Содержит общие свойства для обоих типов градиента (сплошного и шумового). |
+| [GradientMapSettings](./gradientmapsettings/) | Класс настроек градиента для слоя карты градиента. Содержит общие свойства для обоих типов градиента (сплошного и шумового). |
 | [GradientTransparencyPoint](./gradienttransparencypoint/) | Точка прозрачности градиента |
 | [PatternFillSettings](./patternfillsettings/) | Настройки эффекта заливки узором |
 ## Интерфейсы
@@ -24,14 +26,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/
 | --- | --- |
 | [IColorFillSettings](./icolorfillsettings/) | Базовый интерфейс для настроек заливки |
 | [IFillSettings](./ifillsettings/) | Базовый интерфейс для настроек заливки |
-| [IGradientFillSettings](./igradientfillsettings/) | Базовый интерфейс для настроек заливки |
+| [IGradientFillSettings](./igradientfillsettings/) | Базовый интерфейс для настроек градиентной заливки. |
 | [IGradientTransparencyPoint](./igradienttransparencypoint/) | Базовый интерфейс для настроек заливки |
-| [IPatternFillSettings](./ipatternfillsettings/) | Интерфейс для настройки заливки узором |
-## перечисление
+| [IPatternFillSettings](./ipatternfillsettings/) | Интерфейс для настроек заливки узором |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
 | [FillType](./filltype/) | Тип заливки |
 | [GradientType](./gradienttype/) | Тип градиента |
+| [InterpolationMethod](./interpolationmethod/) | Упакованные значения fourCC для метода интерполяции градиента Photoshop. Ключ дескриптора: "gradientsInterpolationMethod" |
 
 

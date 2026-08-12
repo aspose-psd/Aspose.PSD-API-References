@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResourceData свойство. Получает ширину.
+title: "PattResourceData.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PattResourceData. Возвращает ширину"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Width property
 
 Получает ширину.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/w
 public short Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина.
 
-### Смотрите также
+### См. также
 
 * class [PattResourceData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

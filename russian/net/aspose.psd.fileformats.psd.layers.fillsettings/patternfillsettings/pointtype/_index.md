@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PointType
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings свойство. Получает или задает тип точки.
+title: "PatternFillSettings.PointType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternFillSettings. Получает или задает тип точки"
 type: docs
-weight: 110
+weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PointType property
 
 Получает или задает тип точки.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public string PointType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип точки.
 
-### Смотрите также
+### См. также
 
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

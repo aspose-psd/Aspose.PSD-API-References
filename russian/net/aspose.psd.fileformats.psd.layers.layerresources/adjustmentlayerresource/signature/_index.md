@@ -1,11 +1,12 @@
 ---
-title: AdjustmentLayerResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: AdjustmentLayerResource свойство. Получает подпись.
+title: "AdjustmentLayerResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AdjustmentLayerResource свойство. Получает подпись"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerres
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AdjustmentLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

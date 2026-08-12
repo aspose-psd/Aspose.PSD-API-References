@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение указывающее является ли этот слой предварительным. Отображает иллюстрацию содержащуюся в слое в цвете а не в виде контуров.
+title: "AiLayerSection.IsPreview"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Получает или задает значение, указывающее, является ли этот слой предварительным просмотром. Отображает содержимое слоя в цвете вместо контуров."
 type: docs
-weight: 70
+weight: 90
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Получает или задает значение, указывающее, является ли этот слой предварительным. Отображает иллюстрацию, содержащуюся в слое, в цвете, а не в виде контуров.
+Получает или задает значение, указывающее, является ли слой предварительным просмотром. Отображает содержимое слоя в цвете вместо контуров.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот слой предварительный; в противном случае,`ЛОЖЬ` .
+`true` если этот слой является предварительным просмотром; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

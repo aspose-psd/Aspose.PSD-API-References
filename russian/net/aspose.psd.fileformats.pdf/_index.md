@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Pdf
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит классы для интеграции формата файлов PDF.
+title: "Aspose.PSD.FileFormats.Pdf"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит классы для интеграции формата PDF."
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/aspose.psd.fileformats.pdf/
 ---
-Пространство имен содержит классы для интеграции формата файлов PDF.
+{{< psd/tize >}}
+Пространство имён содержит классы для интеграции формата файлов PDF.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [PdfCoreOptions](./pdfcoreoptions/) | Общие параметры конвертации в PDF |
+| [PdfCoreOptions](./pdfcoreoptions/) | Общие параметры конвертации в PDF. |
 | [PdfDocumentInfo](./pdfdocumentinfo/) | Этот класс представляет набор метаданных для описания документа. |
 
 

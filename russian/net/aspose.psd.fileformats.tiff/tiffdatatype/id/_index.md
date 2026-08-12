@@ -1,23 +1,24 @@
 ---
-title: TiffDataType.Id
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffDataType свойство. Получает целочисленное представление идентификатора тега.
+title: "TiffDataType.Id"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffDataType. Возвращает целочисленное представление идентификатора тега"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/id/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Id property
 
-Получает целочисленное представление идентификатора тега.
+Возвращает целочисленное представление идентификатора тега.
 
 ```csharp
 public ushort Id { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

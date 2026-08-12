@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает общее количество страниц.
+title: "TiffOptions.TotalPages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает общее количество страниц"
 type: docs
-weight: 560
+weight: 570
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
 Получает общее количество страниц.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 public ushort TotalPages { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Всего страниц.
+Общее количество страниц.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

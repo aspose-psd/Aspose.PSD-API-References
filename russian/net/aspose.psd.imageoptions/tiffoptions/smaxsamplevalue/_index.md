@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SmaxSampleValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает максимальное значение выборки. Значение имеет тип поля который лучше всего соответствует образцу данных тип Byte Short или Long.
+title: "TiffOptions.SmaxSampleValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает максимальное значение образца. Значение имеет тип поля, который лучше всего соответствует данным образца: тип Byte, Short или Long."
 type: docs
-weight: 430
+weight: 440
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/smaxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SmaxSampleValue property
 
-Получает или задает максимальное значение выборки. Значение имеет тип поля, который лучше всего соответствует образцу данных (тип Byte, Short или Long).
+Получает или задает максимальное значение образца. Значение имеет тип поля, который лучше всего соответствует данным образца (тип Byte, Short или Long).
 
 ```csharp
 public uint[] SmaxSampleValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Максимальное значение выборки.
+Максимальное значение образца.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

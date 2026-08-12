@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask метод. Запускает эту задачу.
+title: "IAsyncTask.RunAsync"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IAsyncTask. Запускает эту задачу"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 Запускает эту задачу.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.asynctask/iasynctask/runasync/
 public void RunAsync()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,12 +33,12 @@ public void RunAsync(ThreadPriority priority)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| priority | ThreadPriority | Приоритет потока. |
+| приоритет | ThreadPriority | Приоритет потока. |
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

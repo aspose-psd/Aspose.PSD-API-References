@@ -1,14 +1,15 @@
 ---
-title: Point.Round
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Преобразует указанныйPointF кPoint объект округляяPoint значения до ближайшего целого числа.
+title: "Point.Round"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Преобразует указанный объект PointF в объект Point, округляя значения Point до ближайшего целого."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-Преобразует указанный[`PointF`](../../pointf/) к[`Point`](../) объект, округляя[`Point`](../) значения до ближайшего целого числа.
+Преобразует указанный [`PointF`](../../pointf/) в объект [`Point`](../), округляя значения [`Point`](../) до ближайшего целого.
 
 ```csharp
 public static Point Round(PointF point)
@@ -16,17 +17,17 @@ public static Point Round(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) для преобразования. |
+| point | PointF | `[`PointF`](../../pointf/)` для преобразования. |
 
 ### Возвращаемое значение
 
-[`Point`](../) этот метод преобразуется в.
+Элемент [`Point`](../), в который преобразует этот метод.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

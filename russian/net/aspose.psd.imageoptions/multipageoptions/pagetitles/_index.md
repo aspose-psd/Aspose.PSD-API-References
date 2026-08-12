@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: Справочник по Aspose.PSD для .NET API
-description: MultiPageOptions свойство. Получает или задает заголовки страниц.
+title: "MultiPageOptions.PageTitles"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MultiPageOptions свойство. Получает или задает заголовки страниц"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
 Получает или задает заголовки страниц.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 public string[] PageTitles { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Заголовки страниц.
 
-### Смотрите также
+### См. также
 
 * class [MultiPageOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

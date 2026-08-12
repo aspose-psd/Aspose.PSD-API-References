@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.PdfDocumentInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfDocumentInfo строитель. Конструктор по умолчанию.
+title: "PdfDocumentInfo.PdfDocumentInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PdfDocumentInfo. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 public PdfDocumentInfo()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

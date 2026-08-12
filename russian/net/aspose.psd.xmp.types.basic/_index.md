@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Basic
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит классы представляющие базовые значения типов свойств XMP.
+title: "Aspose.PSD.Xmp.Types.Basic"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит классы, представляющие базовые типы значений свойств XMP"
 type: docs
-weight: 610
+weight: 650
 url: /ru/net/aspose.psd.xmp.types.basic/
 ---
-Пространство имен содержит классы, представляющие базовые значения типов свойств XMP.
+{{< psd/tize >}}
+Пространство имен содержит классы, представляющие значения базовых типов свойств XMP.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [XmpBoolean](./xmpboolean/) | Представляет базовый логический тип XMP. |
+| [XmpBoolean](./xmpboolean/) | Представляет базовый тип Boolean XMP. |
 | [XmpDate](./xmpdate/) | Представляет дату в пакете XMP. |
 | [XmpInteger](./xmpinteger/) | Представляет базовый тип XMP Integer. |
-| [XmpReal](./xmpreal/) | Представляет реальный XMP. |
+| [XmpReal](./xmpreal/) | Представляет XMP Real. |
 | [XmpText](./xmptext/) | Представляет базовый тип XMP Text. |
 
 

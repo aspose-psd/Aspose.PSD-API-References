@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.op_Inequality
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat метод. Возвращает результат неравноправия для двухPixelDataFormat классы.
+title: "PixelDataFormat.op_Inequality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat method. Возвращает результат неравенства для двух классов PixelDataFormat"
 type: docs
 weight: 390
 url: /ru/net/aspose.psd/pixeldataformat/op_inequality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Inequality operator
 
-Возвращает результат неравноправия для двух[`PixelDataFormat`](../) классы.
+Возвращает результат неравенства для двух классов [`PixelDataFormat`](../).
 
 ```csharp
 public static bool operator !=(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
@@ -16,17 +17,17 @@ public static bool operator !=(PixelDataFormat pixelFormat1, PixelDataFormat pix
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | Первый[`PixelDataFormat`](../) сравнивать. |
-| pixelFormat2 | PixelDataFormat | Второй[`PixelDataFormat`](../) сравнивать. |
+| pixelFormat1 | PixelDataFormat | Первый [`PixelDataFormat`](../) для сравнения. |
+| pixelFormat2 | PixelDataFormat | Второй [`PixelDataFormat`](../) для сравнения. |
 
 ### Возвращаемое значение
 
-Верно, если оба*pixelFormat1* и*pixelFormat2* содержат неравные данные или один из параметров имеет значение null.
+Истина, если оба *pixelFormat1* и *pixelFormat2* содержат неравные данные или один из параметров равен null.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

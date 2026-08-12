@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetComment
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает комментарий.
+title: "XmpDynamicMediaPackage.SetComment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает комментарий"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComment method
 
 Устанавливает комментарий.
@@ -16,12 +17,12 @@ public void SetComment(string comment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| comment | String | Комментарий. |
+| комментарий | String | Комментарий. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

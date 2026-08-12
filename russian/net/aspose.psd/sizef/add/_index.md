@@ -1,14 +1,15 @@
 ---
-title: SizeF.Add
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF метод. Добавляет ширину и высоту одногоSizeF структура по ширине и высоте другойSizeFструктура.
+title: "SizeF.Add"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SizeF. Добавляет ширину и высоту одной структуры SizeF к ширине и высоте другой структуры SizeF"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/sizef/add/
 ---
+{{< psd/tize >}}
 ## SizeF.Add method
 
-Добавляет ширину и высоту одного[`SizeF`](../) структура по ширине и высоте другой[`SizeF`](../)структура.
+Добавляет ширину и высоту одной структуры [`SizeF`](../) к ширине и высоте другой структуры [`SizeF`](../).
 
 ```csharp
 public static SizeF Add(SizeF size1, SizeF size2)
@@ -16,17 +17,17 @@ public static SizeF Add(SizeF size1, SizeF size2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size1 | SizeF | Первый[`SizeF`](../) добавить. |
-| size2 | SizeF | Второй[`SizeF`](../) добавить. |
+| size1 | SizeF | Первый [`SizeF`](../) для добавления. |
+| size2 | SizeF | Второй [`SizeF`](../) для добавления. |
 
 ### Возвращаемое значение
 
-А[`SizeF`](../) структура, являющаяся результатом операции сложения.
+Структура [`SizeF`](../), являющаяся результатом операции сложения.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

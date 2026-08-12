@@ -1,23 +1,24 @@
 ---
-title: PointF.X
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF свойство. Получает или задает координату x этогоPointF .
+title: "PointF.X"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PointF. Получает или задает x‑координату этого PointF"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/pointf/x/
 ---
+{{< psd/tize >}}
 ## PointF.X property
 
-Получает или задает координату x этого[`PointF`](../) .
+Получает или задает координату x этого [`PointF`](../).
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

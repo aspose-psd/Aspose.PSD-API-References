@@ -1,20 +1,21 @@
 ---
-title: Class DropShadowEffect
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect сорт. Эффект слоя тени
+title: "Класс DropShadowEffect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect. Эффект слоя Drop Shadow."
 type: docs
-weight: 2120
+weight: 2310
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-Эффект слоя тени
+Эффект отбрасываемой тени слоя.
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -22,23 +23,29 @@ public class DropShadowEffect : IShadowEffect
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Получает или задает режим наложения. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Получает или задает цвет. |
 | [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Получает или задает расстояние в пикселях. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Получает тип эффекта |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, виден ли этот экземпляр. |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Получает или задает значение, указывающее, [выбивает ли]. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Получает тип эффекта. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, видим ли этот экземпляр. |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Получает или задает значение, указывающее, применяется ли [knocks out]. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Получает или задает шум. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Получает или задает прозрачность. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Получает или задает непрозрачность. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Получает или задает значение размытия в пикселях. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Получает или задает интенсивность в процентах. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Получает или задает значение, указывающее, следует ли [использовать этот угол во всех эффектах слоя]. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Получает или задает значение, указывающее, следует ли [use this angle in all of the layer effects]. |
 
-### Примеры
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | Вычисляет и получает границы пикселей эффекта на основе границ пикселей входного слоя. |
+
+## Примеры
 
 Следующий код демонстрирует поддержку свойства PsdImage.GlobalAngle для изменения глобального значения угла.
 
 ```csharp
 [C#]
 
-// Когда свойство DropShadowEffect.UseGlobalLight равно 'true', тогда объект DropShadowEffect использует значение угла из свойства PsdImage.GlobalAngle.
+// Когда свойство DropShadowEffect.UseGlobalLight имеет значение 'true', объект DropShadowEffect использует значение угла из свойства PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -47,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-Следующий код демонстрирует использование свойства Opacity DropShadowEffect.
+Следующий код демонстрирует использование свойства Opacity у DropShadowEffect.
 
 ```csharp
 [C#]
@@ -64,20 +71,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Пример с непрозрачностью = 20
+    // Пример с Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Пример с непрозрачностью = 200
+    // Пример с Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IShadowEffect](../ishadoweffect/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

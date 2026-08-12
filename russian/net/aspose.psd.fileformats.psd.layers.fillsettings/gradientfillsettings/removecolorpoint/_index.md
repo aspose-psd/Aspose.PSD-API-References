@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.RemoveColorPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings метод. Удаляет цветовую точку.
+title: "GradientFillSettings.RemoveColorPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GradientFillSettings. Удаляет точку цвета"
 type: docs
-weight: 170
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveColorPoint method
 
-Удаляет цветовую точку.
+Удаляет точку цвета.
 
 ```csharp
 public void RemoveColorPoint(IGradientColorPoint point)
@@ -16,13 +17,13 @@ public void RemoveColorPoint(IGradientColorPoint point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | IGradientColorPoint | Смысл. |
+| точка | IGradientColorPoint | Точка. |
 
-### Смотрите также
+### См. также
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

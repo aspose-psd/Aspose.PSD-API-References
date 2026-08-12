@@ -1,14 +1,15 @@
 ---
-title: Class CmykColorHelper
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CmykColorHelper сорт. Вспомогательные методы для работы с цветом CMYK представленным в виде 32разрядного целого числа со знаком.CmykColorstruct. Он более легкий потому что цвет CMYK представлен как Int32 а не как структура с внутренними полями. Пожалуйста предпочтите использовать статические методы этого класса когда это возможно вместо deprecated CmykColor структура.
+title: "Класс CmykColorHelper"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.CmykColorHelper. Вспомогательные методы для работы с цветом CMYK, представленным как знаковое 32‑битное целое значение. Предоставляет аналогичный API, как у структуры CmykColor. Он более лёгкий, потому что цвет CMYK представлен просто как Int32, а не как структура с внутренними полями. По возможности предпочтительно использовать статические методы этого класса вместо устаревшей структуры CmykColor."
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/cmykcolorhelper/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper class
 
-Вспомогательные методы для работы с цветом CMYK, представленным в виде 32-разрядного целого числа со знаком.[`CmykColor`](../cmykcolor/)struct. Он более легкий, потому что цвет CMYK представлен как Int32, а не как структура с внутренними полями. Пожалуйста, предпочтите использовать статические методы этого класса, когда это возможно, вместо deprecated [`CmykColor`](../cmykcolor/) структура.
+Вспомогательные методы для работы с цветом CMYK, представленным как знаковое 32‑битное целое значение. Предоставляет аналогичный API, как у структуры [`CmykColor`](../cmykcolor/). Он более лёгкий, потому что цвет CMYK представлен просто как Int32, а не как структура с внутренними полями. По возможности предпочтительно использовать статические методы этого класса вместо устаревшей структуры [`CmykColor`](../cmykcolor/).
 
 ```csharp
 public static class CmykColorHelper
@@ -18,32 +19,32 @@ public static class CmykColorHelper
 
 | Имя | Описание |
 | --- | --- |
-| static [FromComponents](../../aspose.psd/cmykcolorhelper/fromcomponents/)(int, int, int, int) | Создает CMYK из 32-битных значений голубого, пурпурного, желтого и черного цветов. |
-| static [GetC](../../aspose.psd/cmykcolorhelper/getc/)(int) | Получает значение голубого компонента. |
-| static [GetK](../../aspose.psd/cmykcolorhelper/getk/)(int) | Получает значение черного компонента. |
-| static [GetM](../../aspose.psd/cmykcolorhelper/getm/)(int) | Получает значение пурпурного компонента. |
-| static [GetY](../../aspose.psd/cmykcolorhelper/gety/)(int) | Получает значение желтого компонента. |
+| static [FromComponents](../../aspose.psd/cmykcolorhelper/fromcomponents/)(int, int, int, int) | Создаёт CMYK из 32‑битных значений циана, мадженты, желтого и черного. |
+| static [GetC](../../aspose.psd/cmykcolorhelper/getc/)(int) | Получает значение компоненты циана. |
+| static [GetK](../../aspose.psd/cmykcolorhelper/getk/)(int) | Получает значение компоненты черного. |
+| static [GetM](../../aspose.psd/cmykcolorhelper/getm/)(int) | Получает значение компоненты мадженты. |
+| static [GetY](../../aspose.psd/cmykcolorhelper/gety/)(int) | Получает значение компоненты желтого. |
 | static [ToArgb](../../aspose.psd/cmykcolorhelper/toargb/#toargb)(int) | Преобразование цвета CMYK в цвет ARGB. |
 | static [ToArgb](../../aspose.psd/cmykcolorhelper/toargb/#toargb_1)(int[]) | Преобразование цветов CMYK в цвета ARGB. |
 | static [ToArgb32](../../aspose.psd/cmykcolorhelper/toargb32/)(int[]) | Преобразование цветов CMYK в цвета ARGB. |
-| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc)(int) | Преобразование цвета CMYK в цвет ARGB с использованием преобразования Icc с профилями по умолчанию. |
-| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc_2)(int[]) | Преобразование цветов CMYK в цвета ARGB с использованием преобразования Icc с профилями по умолчанию. |
-| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc_1)(int, Stream, Stream) | Преобразование цвета CMYK в цвет ARGB с использованием преобразования Icc с пользовательским профилем. |
-| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc_3)(int[], Stream, Stream) | Преобразование цветов CMYK в цвета ARGB с использованием преобразования Icc с пользовательскими профилями. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc)(int) | Преобразование цвета CMYK в цвет ARGB с использованием ICC‑преобразования и профилей по умолчанию. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc_2)(int[]) | Преобразование цветов CMYK в цвета ARGB с использованием ICC‑преобразования и профилей по умолчанию. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc_1)(int, Stream, Stream) | Преобразование цвета CMYK в цвет ARGB с использованием ICC‑преобразования и пользовательского профиля. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc/#toargbicc_3)(int[], Stream, Stream) | Преобразование цветов CMYK в цвета ARGB с использованием ICC‑преобразования и пользовательских профилей. |
 | static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk/#tocmyk)(Color) | Преобразование цвета ARGB в цвет CMYK. |
 | static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk/#tocmyk_2)(Color[]) | Преобразование цветов ARGB в цвета CMYK. |
 | static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk/#tocmyk_1)(int) | Преобразование цвета ARGB в цвет CMYK. |
 | static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk/#tocmyk_3)(int[]) | Преобразование цветов ARGB в цвета CMYK. |
 | static [ToCmykBytes](../../aspose.psd/cmykcolorhelper/tocmykbytes/)(int[], int, int) | Преобразует RGB в CMYK. |
-| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc)(Color) | Преобразование цвета ARGB в цвет CMYK с использованием преобразования Icc с профилями по умолчанию. |
-| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc_2)(Color[]) | Преобразование цветов ARGB в цвета CMYK с использованием преобразования Icc с профилями по умолчанию. |
-| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | Преобразование цвета ARGB в цвет CMYK с помощью преобразования Icc с пользовательскими профилями. |
-| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | Преобразование цветов ARGB в цвета CMYK с помощью преобразования Icc с пользовательскими профилями. |
-| static [ToCmykIccBytes](../../aspose.psd/cmykcolorhelper/tocmykiccbytes/)(int[], int, int, Stream, Stream) | Преобразует RGB в CMYK с использованием пользовательских профилей ICC. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc)(Color) | Преобразование из цвета ARGB в цвет CMYK с использованием Icc преобразования и профилей по умолчанию. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc_2)(Color[]) | Преобразование из цветов ARGB в цвета CMYK с использованием Icc преобразования и профилей по умолчанию. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | Преобразование из цвета ARGB в цвет CMYK с использованием Icc преобразования и пользовательских профилей. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | Преобразование из цветов ARGB в цвета CMYK с использованием Icc преобразования и пользовательских профилей. |
+| static [ToCmykIccBytes](../../aspose.psd/cmykcolorhelper/tocmykiccbytes/)(int[], int, int, Stream, Stream) | Преобразует RGB в CMYK с использованием пользовательских ICC профилей. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

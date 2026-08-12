@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileOpenSource свойство. Получает путь к файлу для открытия.
+title: "FileOpenSource.FilePath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FileOpenSource. Получает путь к файлу для открытия"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
 Получает путь к файлу для открытия.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.sources/fileopensource/filepath/
 public string FilePath { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Путь к файлу для открытия.
 
-### Смотрите также
+### См. также
 
 * class [FileOpenSource](../)
-* пространство имен [Aspose.PSD.Sources](../../fileopensource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

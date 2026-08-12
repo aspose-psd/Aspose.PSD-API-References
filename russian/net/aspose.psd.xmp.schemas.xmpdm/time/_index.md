@@ -1,14 +1,15 @@
 ---
-title: Class Time
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time сорт. Представление значения времени в секундах.
+title: "Класс Time"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.Time class. Представление значения времени в секундах"
 type: docs
-weight: 5880
+weight: 6380
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
-Представление значения времени в секундах.
+Представление временного значения в секундах.
 
 ```csharp
 public sealed class Time : XmpTypeBase
@@ -18,9 +19,9 @@ public sealed class Time : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [Time](time/)(Rational, int) | Инициализирует новый экземпляр`Time` класс. |
+| [Time](time/)(Rational, int) | Инициализирует новый экземпляр класса `Time`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -31,12 +32,12 @@ public sealed class Time : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

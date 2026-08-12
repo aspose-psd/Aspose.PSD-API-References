@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructure свойство. Получает или задает имя ключа.
+title: "OSTypeStructure.KeyName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OSTypeStructure. Получает или задает имя ключа"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
 Получает или задает имя ключа.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ke
 public ClassID KeyName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя ключа.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

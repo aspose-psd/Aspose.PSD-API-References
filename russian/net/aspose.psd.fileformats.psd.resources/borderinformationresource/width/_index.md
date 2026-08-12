@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: BorderInformationResource свойство. Получает или задает ширину границы.
+title: "BorderInformationResource.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BorderInformationResource свойство. Получает или задает ширину границы"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
 Получает или задает ширину границы.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/borderinformationresource/widt
 public double Width { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса BorderInformationResource.
+Следующий пример демонстрирует поддержку ресурса BorderInformationResource.
 
 ```csharp
 [C#]
@@ -45,10 +46,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BorderInformationResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

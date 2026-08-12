@@ -1,46 +1,47 @@
 ---
-title: Class TimeLine
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine сорт. Модель опций временной шкалы.
+title: "Класс Timeline"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline класс. Модель параметров временной шкалы."
 type: docs
-weight: 1880
+weight: 1980
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
-## TimeLine class
+{{< psd/tize >}}
+## Timeline class
 
-Модель опций временной шкалы.
+Модель параметров временной шкалы.
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [TimeLine](timeline/)() | Конструктор по умолчанию. |
+| [Timeline](timeline/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | Получает или задает индекс активного кадра. |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | Получает индекс активного кадра. |
 | [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | Получает или задает значение AFSt. |
 | [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | Получает список кадров. |
 | [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | Получает или задает значение FsID. |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | Получает или задает массив идентификаторов слоев. |
-| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Получает или задает количество циклов. |
+| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Получает или задает количество повторов. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | Создает новый экземпляр`TimeLine` , инициализируется из ввода[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | Применить текущие значения временной шкалы к входным данным[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | Сохраняет данные PsdImage и Timeline в указанный поток в указанном формате в соответствии с параметрами сохранения. |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | Сохраняет данные PsdImage и Timeline в указанное файловое расположение в указанном формате в соответствии с параметрами сохранения. |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | Переключает активный кадр на целевой. |
 
-### Примеры
+## Примеры
 
-Класс TimeLine дает высокоуровневую возможность манипулировать временной шкалой PsdImage, например, изменять задержку кадра или редактировать состояние слоя в конкретном кадре.
+Класс Timeline предоставляет высокоуровневую возможность управлять временной шкалой PsdImage, например изменять задержку кадра или редактировать состояние слоя в конкретном кадре.
 
 ```csharp
 [C#]
@@ -50,40 +51,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Изменяем метод удаления кадра 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Изменить метод освобождения кадра 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
     // Изменить задержку кадра 2
-    timeLine.Frames[1].Delay = 15;
+    timeline.Frames[1].Delay = 15;
 
-    // Изменяем непрозрачность «Слоя 1» на кадре 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Изменить непрозрачность 'Layer 1' в кадре 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // перемещаем 'Слой 1' в левый нижний угол кадра 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // переместить 'Layer 1' в левый нижний угол в кадре 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // Добавляет новый кадр
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Изменяем режим смешивания «Слой 1» на кадре 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Изменить blendMode слоя 'Layer 1' на кадре 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Применить изменения к экземпляру PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Применить изменения обратно к экземпляру PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

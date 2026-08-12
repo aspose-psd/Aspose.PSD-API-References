@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Настройка яркости изображения.
+title: "PsdImage.AdjustBrightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage метод. Регулировка яркости изображения"
 type: docs
-weight: 440
+weight: 500
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-Настройка яркости изображения.
+Регулировка яркости изображения.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
@@ -16,12 +17,12 @@ public override void AdjustBrightness(int brightness)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brightness | Int32 | Значение яркости. |
+| яркость | Int32 | Значение яркости. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: MotionWienerFilterOptions свойство. Получает или задает длину.
+title: "MotionWienerFilterOptions.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MotionWienerFilterOptions. Получает или задает длину"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Length property
 
-Получает или задает длину.
+Получает или задаёт длину.
 
 ```csharp
 public int Length { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Длина.
 
-### Смотрите также
+### См. также
 
 * class [MotionWienerFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

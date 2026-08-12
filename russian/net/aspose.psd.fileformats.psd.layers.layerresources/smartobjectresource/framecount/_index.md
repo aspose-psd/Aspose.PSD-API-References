@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает количество кадров данных слоя смартобъекта в PSDфайле.
+title: "SmartObjectResource.FrameCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает количество кадров данных слоя умного объекта в файле PSD"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameCount property
 
-Получает или задает количество кадров данных слоя смарт-объекта в PSD-файле.
+Получает или задает количество кадров данных слоя смарт‑объекта в файле PSD.
 
 ```csharp
 public int FrameCount { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество кадров информации о размещенном слое.
+Количество кадров размещённой информации слоя.
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

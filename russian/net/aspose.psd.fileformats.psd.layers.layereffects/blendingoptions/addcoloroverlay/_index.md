@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions метод. Добавляет наложение цвета.
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод BlendingOptions. Добавляет цветовое наложение"
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
 Добавляет наложение цвета.
@@ -16,13 +17,13 @@ public ColorOverlayEffect AddColorOverlay()
 
 ### Возвращаемое значение
 
-Создано[`ColorOverlayEffect`](../../coloroverlayeffect/) объект
+Создан объект [`ColorOverlayEffect`](../../coloroverlayeffect/)
 
-### Смотрите также
+### См. также
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

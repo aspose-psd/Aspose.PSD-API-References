@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает параметры оптимизатора удаленных рабочих столов.
+title: "JpegOptions.RdOptSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает настройки оптимизатора RD"
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-Получает или задает параметры оптимизатора удаленных рабочих столов.
+Получает или задает настройки оптимизатора RD.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Параметры оптимизатора удаленных рабочих столов.
+Настройки оптимизатора RD.
 
-### Смотрите также
+### См. также
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

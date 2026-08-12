@@ -1,32 +1,33 @@
 ---
-title: Enum ColorChannelFlag
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ColorChannelFlag перечисление. Определяет отдельные каналы в цветовом пространстве CMYK голубой пурпурный желтый черный. Это перечисление используется методами SetOutputChannel.
+title: "Перечисление ColorChannelFlag"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ColorChannelFlag перечисление. Указывает отдельные каналы в цветовом пространстве CMYK cyan magenta yellow black. Это перечисление используется методами SetOutputChannel."
 type: docs
 weight: 320
 url: /ru/net/aspose.psd/colorchannelflag/
 ---
+{{< psd/tize >}}
 ## ColorChannelFlag enumeration
 
-Определяет отдельные каналы в цветовом пространстве CMYK (голубой, пурпурный, желтый, черный). Это перечисление используется методами SetOutputChannel.
+Указывает отдельные каналы в цветовом пространстве CMYK (cyan, magenta, yellow, black). Это перечисление используется методами SetOutputChannel.
 
 ```csharp
 public enum ColorChannelFlag
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| ColorChannelC | `0` | Канал голубого цвета. |
-| ColorChannelM | `1` | Канал пурпурного цвета. |
-| ColorChannelY | `2` | Канал желтого цвета. |
-| ColorChannelK | `3` | Канал черного цвета. |
+| ColorChannelC | `0` | Канал цвета циан. |
+| ColorChannelM | `1` | Канал цвета магента. |
+| ColorChannelY | `2` | Канал цвета желтый. |
+| ColorChannelK | `3` | Канал цвета черный. |
 | ColorChannelLast | `4` | Следует использовать последний выбранный канал. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

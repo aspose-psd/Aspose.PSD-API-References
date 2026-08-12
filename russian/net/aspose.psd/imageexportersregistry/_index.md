@@ -1,39 +1,40 @@
 ---
-title: Class ImageExportersRegistry
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageExportersRegistry сорт. Представляет реестр экспортеров образов.
+title: "Класс ImageExportersRegistry"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageExportersRegistry. Представляет реестр экспортёров изображений"
 type: docs
-weight: 4630
+weight: 5100
 url: /ru/net/aspose.psd/imageexportersregistry/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry class
 
-Представляет реестр экспортеров образов.
+Представляет реестр экспортёров изображений.
 
 ```csharp
 public static class ImageExportersRegistry
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | Получает зарегистрированные дескрипторы экспортера. |
+| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | Получает зарегистрированные дескрипторы экспортёров. |
 | static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | Получает зарегистрированные форматы экспорта. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | Создает первый найденный экспортер, подходящий для указанных параметров сохранения и образа. |
+| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | Создаёт первый найденный экспортёр, подходящий для указанных параметров сохранения и изображения. |
 | static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | Получает первый найденный поддерживаемый дескриптор, подходящий для указанных параметров сохранения и изображения. |
-| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | Регистрирует указанный дескриптор экспортера изображений. |
-| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | Регистрирует экспортера. |
-| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | Отменяет регистрацию экспортера. |
+| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | Регистрирует указанный дескриптор экспортёра изображений. |
+| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | Регистрирует экспортёр. |
+| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | Отменяет регистрацию экспортёра. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

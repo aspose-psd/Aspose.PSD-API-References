@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: Справочник по Aspose.PSD для .NET API
-description: GaussianBlurFilterOptions свойство. Получает или задает сигму.
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GaussianBlurFilterOptions. Получает или задает сигму"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
-Получает или задает сигму.
+Получает или задает sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сигма.
 
-### Смотрите также
+### См. также
 
 * class [GaussianBlurFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

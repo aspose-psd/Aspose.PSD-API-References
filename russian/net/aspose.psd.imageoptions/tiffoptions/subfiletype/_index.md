@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.SubFileType
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает общее указание типа данных содержащихся в этом подфайле.
+title: "TiffOptions.SubFileType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Возвращает или задает общее указание типа данных, содержащихся в этом подфайле"
 type: docs
-weight: 480
+weight: 490
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/subfiletype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SubFileType property
 
-Получает или задает общее указание типа данных, содержащихся в этом подфайле.
+Получает или задает общее указание типа данных, содержащихся в этом подпфайле.
 
 ```csharp
 public TiffNewSubFileTypes SubFileType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Общее указание на тип данных, содержащихся в этом подфайле.
+Общее указание типа данных, содержащихся в этом подфайле.
 
-### Смотрите также
+### См. также
 
 * enum [TiffNewSubFileTypes](../../../aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AsyncTask.Create
-second_title: Справочник по Aspose.PSD для .NET API
-description: AsyncTask метод. Создает асинхронную задачу без результата.
+title: "AsyncTask.Create"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод AsyncTask. Создаёт асинхронную задачу без результата."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
-Создает асинхронную задачу без результата.
+Создаёт асинхронную задачу без результата.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskAction taskAction)
@@ -20,21 +21,21 @@ public static IAsyncTask Create(AsyncTaskAction taskAction)
 
 ### Возвращаемое значение
 
-Асинхронная задача
+Асинхронная задача.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../asynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Create(AsyncTaskFunc) {#create_1}
 
-Создает асинхронную задачу с результатом универсального типа.
+Создаёт асинхронную задачу с результатом обобщённого типа.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
@@ -46,14 +47,14 @@ public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 
 ### Возвращаемое значение
 
-Асинхронная задача
+Асинхронная задача.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../asynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

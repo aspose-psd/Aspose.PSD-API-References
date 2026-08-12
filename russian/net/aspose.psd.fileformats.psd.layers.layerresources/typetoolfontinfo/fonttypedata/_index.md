@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontTypeData
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolFontInfo свойство. Получает или задает данные о типе шрифта.
+title: "TypeToolFontInfo.FontTypeData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolFontInfo. Получает или задает данные типа шрифта"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontTypeData property
 
-Получает или задает данные о типе шрифта.
+Получает или задает данные типа шрифта.
 
 ```csharp
 public int FontTypeData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Данные о типе шрифта.
+Данные типа шрифта.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

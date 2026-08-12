@@ -1,11 +1,12 @@
 ---
-title: CustResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustResource свойство. Получает длину ресурса слоя в байтах.
+title: "CustResource Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CustResource. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/length/
 ---
+{{< psd/tize >}}
 ## CustResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CustResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

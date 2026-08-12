@@ -1,28 +1,29 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение яркости.
+title: "ExifData.BrightnessValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение яркости"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
-Получает или задает значение яркости.
+Получает или задаёт значение яркости.
 
 ```csharp
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение яркости.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

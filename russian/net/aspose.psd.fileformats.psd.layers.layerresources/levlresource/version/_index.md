@@ -1,27 +1,28 @@
 ---
-title: LevlResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: LevlResource свойство. Получает версию. По умолчанию 2
+title: "LevlResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "LevlResource свойство. Возвращает версию. По умолчанию 2"
 type: docs
-weight: 50
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/
 ---
+{{< psd/tize >}}
 ## LevlResource.Version property
 
-Получает версию. По умолчанию 2
+Получает версию. По умолчанию 2.
 
 ```csharp
 public short Version { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [LevlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

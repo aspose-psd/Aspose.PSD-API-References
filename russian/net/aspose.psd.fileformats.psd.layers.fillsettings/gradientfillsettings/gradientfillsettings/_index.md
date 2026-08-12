@@ -1,23 +1,24 @@
 ---
-title: GradientFillSettings.GradientFillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings строитель. Инициализирует новый экземплярGradientFillSettings класс.
+title: "GradientFillSettings.GradientFillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор GradientFillSettings. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings constructor
 
-Инициализирует новый экземпляр[`GradientFillSettings`](../) класс.
+Конструктор по умолчанию.
 
 ```csharp
 public GradientFillSettings()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

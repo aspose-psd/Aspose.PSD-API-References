@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddLevelsAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой Уровни.
+title: "PsdImage.AddLevelsAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой корректировки уровней."
 type: docs
-weight: 390
+weight: 410
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLevelsAdjustmentLayer method
 
-Добавляет корректирующий слой «Уровни».
+Добавляет слой коррекции уровней.
 
 ```csharp
 public LevelsLayer AddLevelsAdjustmentLayer()
@@ -16,13 +17,13 @@ public LevelsLayer AddLevelsAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Недавно созданный слой уровней
+Новый созданный слой уровней.
 
-### Смотрите также
+### См. также
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

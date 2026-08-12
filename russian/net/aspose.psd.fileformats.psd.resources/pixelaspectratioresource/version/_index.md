@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelAspectRatioResource свойство. Получает или задает версию.
+title: "PixelAspectRatioResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PixelAspectRatioResource. Получает или задает версию"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/version/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.Version property
 
 Получает или задает версию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/versi
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [PixelAspectRatioResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

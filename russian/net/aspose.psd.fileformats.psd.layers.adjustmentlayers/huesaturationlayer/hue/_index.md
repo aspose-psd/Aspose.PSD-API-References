@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Справочник по Aspose.PSD для .NET API
-description: HueSaturationLayer свойство. Получает или задает оттенок.
+title: "HueSaturationLayer.Hue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство HueSaturationLayer. Получает или задает оттенок"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
 Получает или задает оттенок.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlay
 public short Hue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Оттенок.
 
@@ -22,12 +23,12 @@ public short Hue { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Оттенок должен быть в диапазоне от -180 до +180 |
+| ArgumentOutOfRangeException | Оттенок должен находиться в диапазоне от -180 до +180. |
 
-### Смотрите также
+### См. также
 
 * class [HueSaturationLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

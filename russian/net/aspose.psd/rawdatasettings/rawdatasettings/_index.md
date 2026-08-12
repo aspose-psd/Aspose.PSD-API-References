@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.RawDataSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataSettings строитель. Конструктор по умолчанию.
+title: "RawDataSettings.RawDataSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор RawDataSettings. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/rawdatasettings/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/rawdatasettings/rawdatasettings/
 public RawDataSettings()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RawDataSettings](../)
-* пространство имен [Aspose.PSD](../../rawdatasettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

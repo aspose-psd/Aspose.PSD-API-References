@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrackRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает ссылку для указания направления движения приемника GPS.
+title: "ExifData.GPSTrackRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает ссылку, указывающую направление движения GPS‑приёмника"
 type: docs
 weight: 660
 url: /ru/net/aspose.psd.exif/exifdata/gpstrackref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrackRef property
 
-Получает или задает ссылку для указания направления движения приемника GPS.
+Получает или задает ссылку, определяющую направление движения GPS‑приёмника.
 
 ```csharp
 public string GPSTrackRef { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ссылка для указания направления движения приемника GPS.
+Ссылка, указывающая направление движения GPS‑приёмника.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

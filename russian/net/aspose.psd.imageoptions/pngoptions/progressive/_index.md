@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Справочник по Aspose.PSD для .NET API
-description: PngOptions свойство. Получает или задает значение указывающее является ли этоPngOptions является прогрессивным.
+title: "PngOptions.Progressive"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PngOptions. Возвращает или задает значение, указывающее, является ли данный PngOptions прогрессивным"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-Получает или задает значение, указывающее, является ли это[`PngOptions`](../) является прогрессивным.
+Возвращает или задает значение, указывающее, является ли данный [`PngOptions`](../) прогрессивным.
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если прогрессивный; в противном случае,`ЛОЖЬ` .
+`true`, если прогрессивный; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PngOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pngoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

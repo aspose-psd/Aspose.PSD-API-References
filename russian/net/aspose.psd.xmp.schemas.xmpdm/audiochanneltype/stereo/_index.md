@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Stereo
-second_title: Справочник по Aspose.PSD для .NET API
-description: AudioChannelType свойство. Получает стереофонический аудиоканал.
+title: "AudioChannelType.Stereo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AudioChannelType свойство. Возвращает стерео аудиоканал"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
-Получает стереофонический аудиоканал.
+Получает стерео‑аудио‑канал.
 
 ```csharp
 public static AudioChannelType Stereo { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Стерео аудиоканал.
 
-### Смотрите также
+### См. также
 
 * class [AudioChannelType](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterImage.XmpData
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает или задает метаданные XMP.
+title: "RasterImage.XmpData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Получает или задает XMP‑метаданные"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
 Получает или задает метаданные XMP.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/rasterimage/xmpdata/
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Метаданные XMP.
+XMP‑метаданные.
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

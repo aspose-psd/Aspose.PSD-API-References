@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ReadArgb32ScanLine
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Считывает всю строку сканирования по указанному индексу строки сканирования.
+title: "RasterImage.ReadArgb32ScanLine"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Считывает всю строку сканирования по указанному индексу строки сканирования"
 type: docs
-weight: 430
+weight: 440
 url: /ru/net/aspose.psd/rasterimage/readargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadArgb32ScanLine method
 
 Считывает всю строку сканирования по указанному индексу строки сканирования.
@@ -16,16 +17,16 @@ public int[] ReadArgb32ScanLine(int scanLineIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Отсчитываемый от нуля индекс строки сканирования. |
+| scanLineIndex | Int32 | Нулевой индекс строки сканирования. |
 
 ### Возвращаемое значение
 
-Массив 32-битных значений цвета строки сканирования ARGB.
+Массив 32‑битных значений цветов ARGB строки сканирования.
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

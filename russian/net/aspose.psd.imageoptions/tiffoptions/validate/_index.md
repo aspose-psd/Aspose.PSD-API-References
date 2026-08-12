@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.Validate
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions метод. Проверяет имеют ли параметры допустимую комбинацию тегов
+title: "TiffOptions.Validate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffOptions. Проверяет, имеет ли набор параметров допустимую комбинацию тегов"
 type: docs
-weight: 750
+weight: 760
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/validate/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Validate method
 
-Проверяет, имеют ли параметры допустимую комбинацию тегов
+Проверяет, имеет ли набор параметров допустимую комбинацию тегов.
 
 ```csharp
 public void Validate()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

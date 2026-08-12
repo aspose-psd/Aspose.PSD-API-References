@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.XmpPackageBaseCollection
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection строитель. Конструктор по умолчанию.
+title: "XmpPackageBaseCollection.XmpPackageBaseCollection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpPackageBaseCollection. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 public XmpPackageBaseCollection()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

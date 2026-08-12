@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage поле. Максимальное значение рейтинга.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле XmpBasicPackage. Максимальное значение рейтинга"
 type: docs
-weight: 100
+weight: 130
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
 Максимальное значение рейтинга.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 public const int RatingMax;
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

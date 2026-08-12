@@ -1,23 +1,24 @@
 ---
-title: SplitStreamContainer.Flush
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer метод. Очищает все буферы для этого потока и вызывает запись всех буферизованных данных на базовое устройство.
+title: "SplitStreamContainer.Flush"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SplitStreamContainer. Очищает все буферы этого потока и заставляет любые буферизованные данные быть записанными в подлежащее устройство"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/splitstreamcontainer/flush/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Flush method
 
-Очищает все буферы для этого потока и вызывает запись всех буферизованных данных на базовое устройство.
+Очищает все буферы этого потока и заставляет любые буферизованные данные записываться в базовое устройство.
 
 ```csharp
 public override void Flush()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

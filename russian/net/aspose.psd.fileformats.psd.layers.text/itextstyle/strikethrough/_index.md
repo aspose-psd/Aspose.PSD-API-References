@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Получает или задает значение указывающее будет ли перечеркнуто.
+title: "ITextStyle.Strikethrough"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Возвращает или задает значение, указывающее, применено ли зачеркивание"
 type: docs
 weight: 230
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-Получает или задает значение, указывающее, будет ли [перечеркнуто].
+Получает или задает значение, указывающее, включено ли [strikethrough].
 
 ```csharp
 public bool Strikethrough { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

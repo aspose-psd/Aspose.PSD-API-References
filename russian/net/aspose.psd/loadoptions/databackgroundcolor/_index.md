@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LoadOptions свойство. Получает или задаетImage фонColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LoadOptions. Получает или задаёт цвет фона Image."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-Получает или задает[`Image`](../../image/) фон[`Color`](../../color/) .
+Получает или задаёт фон [`Image`](../../image/) и [`Color`](../../color/).
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет фона.
 
-### Примечания
+## Примечания
 
-Обычно цвет фона устанавливается всякий раз, когда значение пикселя не может быть восстановлено из-за повреждения данных.
+Обычно цвет фона устанавливается, когда значение пикселя невозможно восстановить из‑за повреждения данных.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* пространство имен [Aspose.PSD](../../loadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

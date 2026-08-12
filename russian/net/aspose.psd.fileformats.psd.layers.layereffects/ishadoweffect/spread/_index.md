@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Spread
-second_title: Справочник по Aspose.PSD для .NET API
-description: IShadowEffect свойство. Получает или задает интенсивность в процентах.
+title: "IShadowEffect.Spread"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IShadowEffect. Возвращает или задает интенсивность в процентах"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Spread property
 
 Получает или задает интенсивность в процентах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread
 public int Spread { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Спред.
+Размах.
 
-### Смотрите также
+### См. также
 
 * interface [IShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

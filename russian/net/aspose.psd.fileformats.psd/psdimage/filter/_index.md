@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Filter
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Фильтрует указанный прямоугольник.
+title: "PsdImage.Filter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Фильтрует указанный прямоугольник"
 type: docs
-weight: 530
+weight: 590
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
+{{< psd/tize >}}
 ## PsdImage.Filter method
 
 Фильтрует указанный прямоугольник.
@@ -16,15 +17,15 @@ public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник. |
-| options | FilterOptionsBase | Варианты. |
+| прямоугольник | Rectangle | Прямоугольник. |
+| опции | FilterOptionsBase | Опции. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

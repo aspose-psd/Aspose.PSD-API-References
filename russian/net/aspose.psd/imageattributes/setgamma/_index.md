@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Устанавливает значение гаммы для категории по умолчанию.
+title: "ImageAttributes.SetGamma"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает значение гаммы для категории по умолчанию."
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
 Устанавливает значение гаммы для категории по умолчанию.
@@ -16,13 +17,13 @@ public void SetGamma(float gamma)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gamma | Single | Значение гамма-коррекции. |
+| гамма | Single | Значение коррекции гаммы. |
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void SetGamma(float gamma, ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gamma | Single | Значение гамма-коррекции. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) перечисление, указывающее категорию, для которой установлено значение гаммы. |
+| гамма | Single | Значение коррекции гаммы. |
+| type | ColorAdjustType | Элемент перечисления [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой задаётся значение гаммы. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

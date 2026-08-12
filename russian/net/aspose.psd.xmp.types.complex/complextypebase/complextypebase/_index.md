@@ -1,14 +1,15 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Справочник по Aspose.PSD для .NET API
-description: ComplexTypeBase строитель. Инициализирует новый экземплярComplexTypeBase класс.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ComplexTypeBase. Инициализирует новый экземпляр класса ComplexTypeBase"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-Инициализирует новый экземпляр[`ComplexTypeBase`](../) класс.
+Инициализирует новый экземпляр класса [`ComplexTypeBase`](../).
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
@@ -16,19 +17,19 @@ public ComplexTypeBase(string prefix, string namespaceUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| prefix | String | Префикс. |
-| namespaceUri | String | URI пространства имен. |
+| префикс | String | Префикс. |
+| namespaceUri | String | URI пространства имён. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Префикс равен null or namespaceUri равен null |
+| ArgumentNullException | префикс равен null или namespaceUri равен null |
 
-### Смотрите также
+### См. также
 
 * class [ComplexTypeBase](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.Location
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientTransparencyPoint свойство. Получает или задает местоположение.
+title: "GradientTransparencyPoint.Location"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GradientTransparencyPoint свойство. Получает или задает расположение"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Location property
 
-Получает или задает местоположение.
+Получает или задает расположение.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение.
+Расположение.
 
-### Смотрите также
+### См. также
 
 * class [GradientTransparencyPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

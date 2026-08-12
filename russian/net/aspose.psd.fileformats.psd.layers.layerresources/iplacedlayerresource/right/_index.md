@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Right
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает правильное расположение размещенного слоя в файле PSD.
+title: "IPlacedLayerResource.Right"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPlacedLayerResource. Получает или задает правое положение размещённого слоя в файле PSD"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Right property
 
-Получает или задает правильное расположение размещенного слоя в файле PSD.
+Получает или задает положение справа размещённого слоя в файле PSD.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правильное расположение размещенного слоя.
+Правое расположение размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

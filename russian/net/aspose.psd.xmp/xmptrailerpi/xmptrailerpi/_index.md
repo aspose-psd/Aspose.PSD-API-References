@@ -1,14 +1,15 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpTrailerPi строитель. Инициализирует новый экземплярXmpTrailerPi класс.
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpTrailerPi. Инициализирует новый экземпляр класса XmpTrailerPi"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpTrailerPi`](../) класс.
+Инициализирует новый экземпляр класса [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
@@ -18,26 +19,26 @@ public XmpTrailerPi(bool isWritable)
 | --- | --- | --- |
 | isWritable | Boolean | Указывает, доступен ли трейлер для записи. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTrailerPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-Инициализирует новый экземпляр[`XmpTrailerPi`](../) класс.
+Инициализирует новый экземпляр класса [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpTrailerPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

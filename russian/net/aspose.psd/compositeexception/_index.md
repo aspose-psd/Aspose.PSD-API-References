@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CompositeException сорт. Составное исключение
+title: "Класс CompositeException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.CompositeException. Составное исключение."
 type: docs
 weight: 410
 url: /ru/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 Составное исключение
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd/compositeexception/
 public class CompositeException : Exception
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

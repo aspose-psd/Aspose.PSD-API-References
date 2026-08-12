@@ -1,14 +1,15 @@
 ---
-title: Matrix.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. ВозвращаетString который представляет этот экземпляр.
+title: "Matrix.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Возвращает строку, представляющую этот экземпляр."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой Кривые.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой корректировки кривых."
 type: docs
-weight: 330
+weight: 340
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-Добавляет корректирующий слой Кривые.
+Добавляет слой коррекции кривых.
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
@@ -16,13 +17,13 @@ public CurvesLayer AddCurvesAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Созданный[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Слой
+Создан слой [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 
-### Смотрите также
+### См. также
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

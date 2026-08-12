@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает стиль линий нарисованных с помощью этогоPen .
+title: "Pen.PenType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает стиль линий, рисуемых этим Pen"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-Получает стиль линий, нарисованных с помощью этого[`Pen`](../) .
+Получает стиль линий, рисуемых этим [`Pen`](../).
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А`PenType` перечисление, определяющее стиль линий, нарисованных с помощью этого[`Pen`](../).
+Перечисление `PenType`, которое определяет стиль линий, рисуемых этим [`Pen`](../).
 
-### Смотрите также
+### См. также
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

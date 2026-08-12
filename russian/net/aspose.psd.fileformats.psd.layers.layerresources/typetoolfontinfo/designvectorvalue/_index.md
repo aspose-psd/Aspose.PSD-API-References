@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignVectorValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolFontInfo свойство. Получает или задает значение вектора проектирования.
+title: "TypeToolFontInfo.DesignVectorValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolFontInfo. Получает или задает значение векторного дизайна"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignVectorValue property
 
-Получает или задает значение вектора проектирования.
+Получает или задает значение вектора дизайна.
 
 ```csharp
 public int DesignVectorValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение вектора проектирования.
+Значение векторного дизайна.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

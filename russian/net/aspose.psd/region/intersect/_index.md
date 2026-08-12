@@ -1,14 +1,15 @@
 ---
-title: Region.Intersect
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Обновляет этоRegion до пересечения себя с указаннымRectangleFструктура.
+title: "Region.Intersect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Обновляет этот Region до пересечения с указанной структурой RectangleF."
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-Обновляет это[`Region`](../) до пересечения себя с указанным[`RectangleF`](../../rectanglef/)структура.
+Обновляет этот [`Region`](../) до пересечения с указанной структурой [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Intersect(RectangleF rect)
@@ -16,20 +17,20 @@ public void Intersect(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) структура пересекается с этим[`Region`](../). |
+| rect | RectangleF | Структура [`RectangleF`](../../rectanglef/), с которой пересекается этот [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-Обновляет это[`Region`](../) до пересечения себя с указанным[`Rectangle`](../../rectangle/)структура.
+Обновляет этот [`Region`](../) до пересечения с указанной структурой [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -37,20 +38,20 @@ public void Intersect(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) структура пересекается с этим[`Region`](../). |
+| rect | Rectangle | Структура [`Rectangle`](../../rectangle/), с которой пересекается этот [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-Обновляет это[`Region`](../) до пересечения себя с указанным[`GraphicsPath`](../../graphicspath/) .
+Обновляет этот [`Region`](../) до пересечения с указанным [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Intersect(GraphicsPath path)
@@ -58,20 +59,20 @@ public void Intersect(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) пересекаться с этим[`Region`](../). |
+| path | GraphicsPath | Объект [`GraphicsPath`](../../graphicspath/), с которым пересекается этот [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-Обновляет это[`Region`](../) до пересечения себя с указанным[`Region`](../) .
+Обновляет этот [`Region`](../) до пересечения с указанным [`Region`](../).
 
 ```csharp
 public void Intersect(Region region)
@@ -79,12 +80,12 @@ public void Intersect(Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | [`Region`](../) пересекаться с этим[`Region`](../). |
+| region | Region | Объект [`Region`](../), с которым пересекается этот [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

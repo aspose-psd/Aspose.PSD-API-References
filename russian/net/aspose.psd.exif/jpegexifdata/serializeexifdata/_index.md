@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData метод. Сериализирует данные EXIF. Записывает значения и содержимое тегов. Наиболее влиятельный тег размера  это содержимое тега эскиза.
+title: "JpegExifData.SerializeExifData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод JpegExifData. Сериализует данные EXIF. Записывает значения тегов и их содержимое. Наибольшее влияние на размер оказывает содержимое тега Thumbnail."
 type: docs
 weight: 270
 url: /ru/net/aspose.psd.exif/jpegexifdata/serializeexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SerializeExifData method
 
-Сериализирует данные EXIF. Записывает значения и содержимое тегов. Наиболее влиятельный тег размера — это содержимое тега эскиза.
+Сериализует данные EXIF. Записывает значения тегов и их содержимое. Наиболее влиятельный по размеру тег — содержимое тега миниатюры.
 
 ```csharp
 public byte[] SerializeExifData()
@@ -18,14 +19,14 @@ public byte[] SerializeExifData()
 
 Сериализованные данные EXIF.
 
-### Примечания
+## Примечания
 
-Общий размер сегмента должен быть меньше или равен MaxExifSegmentSize байтам для получения правильного изображения в формате jpeg. Совет: попробуйте уменьшить размер эскиза или изменить его сжатие, если у вас слишком большой размер раздела EXIF.
+Общий размер сегмента должен быть меньше или равен MaxExifSegmentSize байт, чтобы получить корректное изображение jpeg. Совет: попробуйте уменьшить размер миниатюры или изменить её сжатие, если размер раздела EXIF слишком велик.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

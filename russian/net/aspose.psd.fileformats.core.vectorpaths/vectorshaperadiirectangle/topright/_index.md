@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopRight
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeRadiiRectangle свойство. Получает или задает верхний правый угол.
+title: "VectorShapeRadiiRectangle.TopRight"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeRadiiRectangle. Получает или задает верхний правый"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopRight property
 
-Получает или задает верхний правый угол.
+Получает или задает правый верхний угол.
 
 ```csharp
 public double TopRight { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Вверху справа.
+Верхний правый.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeRadiiRectangle](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

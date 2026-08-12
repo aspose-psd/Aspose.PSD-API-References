@@ -1,24 +1,25 @@
 ---
-title: PdfOptions.PdfDocumentInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfOptions свойство. Получает или задает метаданные для документа.
+title: "PdfOptions.PdfDocumentInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PdfOptions свойство. Получает или задает метаданные документа"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfDocumentInfo property
 
-Получает или задает метаданные для документа.
+Получает или задает метаданные документа.
 
 ```csharp
 public PdfDocumentInfo PdfDocumentInfo { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../../../aspose.psd.fileformats.pdf/pdfdocumentinfo/)
 * class [PdfOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.ColorPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPalette строитель. Инициализирует новый экземплярColorPalette класс.
+title: "ColorPalette.ColorPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ColorPalette. Инициализирует новый экземпляр класса ColorPalette."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/colorpalette/colorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette(int[], bool) {#constructor_3}
 
-Инициализирует новый экземпляр[`ColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`ColorPalette`](../).
 
 ```csharp
 public ColorPalette(int[] argb32Entries, bool isCompactPalette)
@@ -16,20 +17,20 @@ public ColorPalette(int[] argb32Entries, bool isCompactPalette)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| argb32Entries | Int32[] | 32-битные записи цветовой палитры ARGB. |
-| isCompactPalette | Boolean | Указание на компактность палитры. |
+| argb32Entries | Int32[] | Элементы 32‑битовой палитры цветов ARGB. |
+| isCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(int[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`ColorPalette`](../) класс, а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр класса [`ColorPalette`](../) и IsCompactPalette имеет значение false.
 
 ```csharp
 public ColorPalette(int[] argb32Entries)
@@ -37,19 +38,19 @@ public ColorPalette(int[] argb32Entries)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| argb32Entries | Int32[] | 32-битные записи цветовой палитры ARGB. |
+| argb32Entries | Int32[] | Элементы 32‑битовой палитры цветов ARGB. |
 
-### Смотрите также
+### См. также
 
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[], bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`ColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`ColorPalette`](../).
 
 ```csharp
 public ColorPalette(Color[] entries, bool isCompactPalette)
@@ -57,21 +58,21 @@ public ColorPalette(Color[] entries, bool isCompactPalette)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entries | Color[] | Записи цветовой палитры. |
-| isCompactPalette | Boolean | Указание на компактность палитры. |
+| entries | Color[] | Элементы цветовой палитры. |
+| isCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[]) {#constructor}
 
-Инициализирует новый экземпляр[`ColorPalette`](../) класс, а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр класса [`ColorPalette`](../) и IsCompactPalette имеет значение false.
 
 ```csharp
 public ColorPalette(Color[] entries)
@@ -79,13 +80,13 @@ public ColorPalette(Color[] entries)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entries | Color[] | Записи цветовой палитры. |
+| entries | Color[] | Элементы цветовой палитры. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

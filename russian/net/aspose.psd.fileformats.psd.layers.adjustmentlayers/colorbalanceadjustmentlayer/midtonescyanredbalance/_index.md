@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorBalanceAdjustmentLayer свойство. Получает или задает баланс голубого и красного полутонов.
+title: "ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorBalanceAdjustmentLayer. Получает или задает Midtones Cyan Red Balance"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance property
 
-Получает или задает баланс голубого и красного полутонов.
+Получает или задает значение Midtones Cyan Red Balance.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Голубо-красный баланс полутонов.
+Баланс Midtones Cyan Red.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Средние тона Cyan Red Balance должен находиться в диапазоне от -100 до +100. |
+| ArgumentOutOfRangeException | Баланс Midtones Cyan Red должен быть в диапазоне от -100 до +100. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorBalanceAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

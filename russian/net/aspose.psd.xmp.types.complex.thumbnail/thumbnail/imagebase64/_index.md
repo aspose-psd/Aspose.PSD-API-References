@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.ImageBase64
-second_title: Справочник по Aspose.PSD для .NET API
-description: Thumbnail свойство. Получает или задает изображение в формате base64.
+title: "Thumbnail.ImageBase64"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Thumbnail. Возвращает или задает изображение в формате base64"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 ---
+{{< psd/tize >}}
 ## Thumbnail.ImageBase64 property
 
 Получает или задает изображение в формате base64.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 public string ImageBase64 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Изображение в формате base64.
 
-### Смотрите также
+### См. также
 
 * class [Thumbnail](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

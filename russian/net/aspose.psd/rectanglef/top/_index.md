@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Top
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF свойство. Получает или задает координату y верхнего края этогоRectangleFструктура.
+title: "RectangleF.Top"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RectangleF. Получает или задает координату y верхнего края этой структуры RectangleF"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-Получает или задает координату y верхнего края этого[`RectangleF`](../)структура.
+Получает или задает координату y верхнего края этой структуры [`RectangleF`](../).
 
 ```csharp
 public float Top { get; set; }
@@ -16,12 +17,12 @@ public float Top { get; set; }
 
 ### Возвращаемое значение
 
-Y-координата верхнего края этого[`RectangleF`](../) состав.
+Координата y верхнего края этой структуры [`RectangleF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

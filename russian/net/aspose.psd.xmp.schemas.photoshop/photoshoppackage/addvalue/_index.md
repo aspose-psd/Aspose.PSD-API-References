@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Добавляет строковое свойство.
+title: "PhotoshopPackage.AddValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Добавляет строковое свойство"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
 Добавляет строковое свойство.
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с добавленной стоимостью. |
-| value | String | Строковое значение. |
+| ключ | String | Строковое представление ключа, идентифицируемого добавленным значением. |
+| значение | String | Строковое значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ключ;свойство Photoshop не может быть пустым |
+| ArgumentNullException | key;Свойство Photoshop не может быть null |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

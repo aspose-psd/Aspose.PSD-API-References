@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.StartPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: IOrderedShape свойство. Получает начальную точку формы.
+title: "IOrderedShape.StartPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IOrderedShape свойство. Получает начальную точку фигуры"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/iorderedshape/startpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.StartPoint property
 
-Получает начальную точку формы.
+Получает начальную точку фигуры.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Начальная точка формы.
+Начальная точка фигуры.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* пространство имен [Aspose.PSD](../../iorderedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

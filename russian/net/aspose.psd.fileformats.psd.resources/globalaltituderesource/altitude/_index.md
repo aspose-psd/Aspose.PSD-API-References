@@ -1,27 +1,28 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalAltitudeResource свойство. Получает или задает высоту.
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GlobalAltitudeResource свойство. Получает или задает высоту"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
-Получает или задает высоту.
+Получает или задаёт высоту.
 
 ```csharp
 public int Altitude { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Высота над уровнем моря.
+Высота.
 
-### Смотрите также
+### См. также
 
 * class [GlobalAltitudeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

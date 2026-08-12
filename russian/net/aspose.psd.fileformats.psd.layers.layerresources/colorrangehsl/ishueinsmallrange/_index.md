@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.IsHueInSmallRange
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorRangeHsl метод. Определяет находится ли оттенок в небольшом диапазоне.
+title: "ColorRangeHsl.IsHueInSmallRange"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorRangeHsl. Определяет, находится ли оттенок в небольшом диапазоне"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInSmallRange method
 
-Определяет, находится ли оттенок в небольшом диапазоне.
+Определяет, находится ли оттенок в малом диапазоне.
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
@@ -16,16 +17,16 @@ public bool IsHueInSmallRange(double hue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Double | Значение оттенка. |
+| оттенок | Double | Значение оттенка. |
 
 ### Возвращаемое значение
 
-`истинный` если оттенок в маленьком диапазоне; в противном случае,`ЛОЖЬ` .
+`true` если оттенок в небольшом диапазоне; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [ColorRangeHsl](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

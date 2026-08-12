@@ -1,11 +1,12 @@
 ---
-title: AiImage.Header
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage свойство. Получает заголовок.
+title: "AiImage.Header"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiImage. Возвращает заголовок"
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
 Получает заголовок.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.ai/aiimage/header/
 public AiHeader Header { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Заголовок.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

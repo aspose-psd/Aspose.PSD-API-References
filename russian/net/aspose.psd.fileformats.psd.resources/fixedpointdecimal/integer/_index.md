@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: Справочник по Aspose.PSD для .NET API
-description: FixedPointDecimal свойство. Получает или задает целое число.
+title: "FixedPointDecimal.Integer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "FixedPointDecimal свойство. Получает или задает целое число"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
-Получает или задает целое число.
+Получает или задает целую часть.
 
 ```csharp
 public int Integer { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Целое число.
 
-### Смотрите также
+### См. также
 
 * class [FixedPointDecimal](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

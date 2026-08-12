@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит связанные вспомогательные классы константы и методы используемые Adobe Photoshop.
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит связанные вспомогательные классы, константы и методы, используемые Adobe Photoshop"
 type: docs
-weight: 550
+weight: 590
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/
 ---
-Пространство имен содержит связанные вспомогательные классы, константы и методы, используемые Adobe Photoshop.
+{{< psd/tize >}}
+Пространство имен содержит связанные вспомогательные классы, константы и методы, используемые в Adobe Photoshop.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [Layer](./layer/) | Представляет текстовый слой Photoshop. |
-| [PhotoshopPackage](./photoshoppackage/) | Представляет пространство имен Adobe Photoshop. |
-## перечисление
+| [PhotoshopPackage](./photoshoppackage/) | Представляет пространство имён Adobe Photoshop. |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [ColorMode](./colormode/) | Представляет цветовой режим в[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | Представляет режим цвета в [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/). |
 
 

@@ -1,14 +1,15 @@
 ---
-title: RleCompressorException.RleCompressorException
-second_title: Справочник по Aspose.PSD для .NET API
-description: RleCompressorException строитель. Инициализирует новый экземплярRleCompressorException класс.
+title: "RleCompressorException.RleCompressorException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор RleCompressorException. Инициализирует новый экземпляр класса RleCompressorException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException(string) {#constructor}
 
-Инициализирует новый экземпляр[`RleCompressorException`](../) класс.
+Инициализирует новый экземпляр класса [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message)
@@ -16,19 +17,19 @@ public RleCompressorException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [RleCompressorException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RleCompressorException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`RleCompressorException`](../) класс.
+Инициализирует новый экземпляр класса [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public RleCompressorException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [RleCompressorException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

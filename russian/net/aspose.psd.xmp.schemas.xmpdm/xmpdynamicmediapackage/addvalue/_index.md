@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.AddValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Добавляет строковое свойство.
+title: "XmpDynamicMediaPackage.AddValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Добавляет строковое свойство"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.AddValue method
 
 Добавляет строковое свойство.
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с добавленной стоимостью. |
-| value | String | Строковое значение. |
+| ключ | String | Строковое представление ключа, идентифицируемого добавленным значением. |
+| значение | String | Строковое значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ключ; свойство DynamicMedia не может быть нулевым |
+| ArgumentNullException | key;Свойство DynamicMedia не может быть null |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Shape.Segments
-second_title: Справочник по Aspose.PSD для .NET API
-description: Shape свойство. Получает сегменты формы.
+title: "Shape.Segments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Shape. Возвращает сегменты фигуры"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-Получает сегменты формы.
+Получает сегменты фигуры.
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Сегменты формы.
+Сегменты фигуры.
 
-### Смотрите также
+### См. также
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* пространство имен [Aspose.PSD](../../shape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

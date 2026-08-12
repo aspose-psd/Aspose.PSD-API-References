@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает целевой принтер.
+title: "TiffOptions.TargetPrinter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает целевой принтер"
 type: docs
-weight: 500
+weight: 510
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
 Получает или задает целевой принтер.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 public string TargetPrinter { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Целевой принтер.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

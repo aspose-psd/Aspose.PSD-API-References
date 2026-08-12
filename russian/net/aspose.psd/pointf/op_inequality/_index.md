@@ -1,11 +1,12 @@
 ---
-title: PointF.op_Inequality
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF метод. Определяет не равны ли координаты указанных точек.
+title: "PointF.op_Inequality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointF. Определяет, не равны ли координаты указанных точек"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/pointf/op_inequality/
 ---
+{{< psd/tize >}}
 ## PointF Inequality operator
 
 Определяет, не равны ли координаты указанных точек.
@@ -16,17 +17,17 @@ public static bool operator !=(PointF point1, PointF point2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point1 | PointF | Первый[`PointF`](../) сравнивать. |
-| point2 | PointF | Второй[`PointF`](../) сравнивать. |
+| point1 | PointF | Первая [`PointF`](../) для сравнения. |
+| point2 | PointF | Вторая [`PointF`](../) для сравнения. |
 
 ### Возвращаемое значение
 
-Истинно, чтобы указать[`X`](../x/) и[`Y`](../y/) ценности*point1* и*point2* не равны; в противном случае ложно.
+True, если значения [`X`](../x/) и [`Y`](../y/) *point1* и *point2* не равны; иначе — false.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

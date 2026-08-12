@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetRgb
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat метод. Получает цвет RGB с указанным количеством битов на выборку.
+title: "PixelDataFormat.GetRgb"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat method. Возвращает цвет RGB с указанным числом битов на образец"
 type: docs
 weight: 250
 url: /ru/net/aspose.psd/pixeldataformat/getrgb/
 ---
+{{< psd/tize >}}
 ## GetRgb(int) {#getrgb}
 
-Получает цвет RGB с указанным количеством битов на выборку.
+Возвращает цвет RGB с указанным количеством бит на образец.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerSample)
@@ -16,23 +17,23 @@ public static PixelDataFormat GetRgb(int bitsPerSample)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Количество битов на выборку. |
+| bitsPerSample | Int32 | Количество битов на образец. |
 
 ### Возвращаемое значение
 
 Цвет RGB.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgb(int, int, int) {#getrgb_1}
 
-Получает цвет RGB с указанным количеством битов на выборку.
+Возвращает цвет RGB с указанным количеством бит на образец.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerRedChannel, int bitsPerGreenChannel, 
@@ -41,18 +42,18 @@ public static PixelDataFormat GetRgb(int bitsPerRedChannel, int bitsPerGreenChan
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | Количество бит на красный канал. |
-| bitsPerGreenChannel | Int32 | Количество битов на зеленый канал. |
+| bitsPerRedChannel | Int32 | Количество бит на канал Red. |
+| bitsPerGreenChannel | Int32 | Количество бит на канал Green. |
 | bitsPerBlueChannel | Int32 | Количество битов на синий канал. |
 
 ### Возвращаемое значение
 
 Цвет RGB.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

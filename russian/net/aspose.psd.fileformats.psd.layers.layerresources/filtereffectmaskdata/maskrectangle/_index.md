@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.MaskRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: FilterEffectMaskData свойство. Получает прямоугольник маски листа.
+title: "FilterEffectMaskData.MaskRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FilterEffectMaskData. Возвращает прямоугольник маски листа"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaskRectangle property
 
 Получает прямоугольник маски листа.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public Rectangle MaskRectangle { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

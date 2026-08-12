@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: ObjectWithBounds свойство. Получает границы объекта.
+title: "ObjectWithBounds.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ObjectWithBounds. Возвращает границы объекта"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
 Получает границы объекта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/objectwithbounds/bounds/
 public abstract RectangleF Bounds { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* пространство имен [Aspose.PSD](../../objectwithbounds/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

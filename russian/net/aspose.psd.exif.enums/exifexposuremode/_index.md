@@ -1,30 +1,31 @@
 ---
-title: Enum ExifExposureMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifExposureMode перечисление. режим экспонирования exif enum.
+title: "Перечисление ExifExposureMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode перечисление. exif режим экспозиции перечисление"
 type: docs
-weight: 830
+weight: 840
 url: /ru/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-режим экспонирования exif enum.
+Перечисление режима экспозиции exif.
 
 ```csharp
 public enum ExifExposureMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Auto | `0` | Автоматическая экспозиция. |
+| Auto | `0` | Автоэкспозиция. |
 | Manual | `1` | Ручная экспозиция. |
-| AutoBracket | `2` | Автобрекетинг. |
+| AutoBracket | `2` | Автоматический брекетинг. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

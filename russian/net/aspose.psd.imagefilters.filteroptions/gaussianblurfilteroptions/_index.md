@@ -1,14 +1,15 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions сорт. Размытие по Гауссу
+title: "Класс GaussianBlurFilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions. Гауссово размытие"
 type: docs
-weight: 4710
+weight: 5180
 url: /ru/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
-Размытие по Гауссу
+Гауссово размытие
 
 ```csharp
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
@@ -18,22 +19,22 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 | Имя | Описание |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Инициализирует новый экземпляр`GaussianBlurFilterOptions` class. С настройками по умолчанию. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Инициализирует новый экземпляр`GaussianBlurFilterOptions` класс. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Инициализирует новый экземпляр класса `GaussianBlurFilterOptions`. С настройками по умолчанию. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Инициализирует новый экземпляр класса `GaussianBlurFilterOptions`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Получает или задает смещение. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Получает или задает фактор. |
-| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Получает или задает радиус. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Получает или задает сигму. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Получает или задает bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Получает или задает factor. |
+| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Получает или задает radius. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Получает или задает sigma. |
 
-### Смотрите также
+### См. также
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

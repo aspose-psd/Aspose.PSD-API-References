@@ -1,14 +1,15 @@
 ---
-title: Class LinearGradientBrush
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Brushes.LinearGradientBrush сорт. ИнкапсулируетBrush с линейным градиентом. Этот класс не может быть унаследован.
+title: "Класс LinearGradientBrush"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Brushes.LinearGradientBrush. Инкапсулирует Brush с линейным градиентом. Этот класс не может быть унаследован."
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.brushes/lineargradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush class
 
-Инкапсулирует[`Brush`](../../aspose.psd/brush/) с линейным градиентом. Этот класс не может быть унаследован.
+Инкапсулирует [`Brush`](../../aspose.psd/brush/) с линейным градиентом. Этот класс не может быть унаследован.
 
 ```csharp
 public sealed class LinearGradientBrush : LinearGradientBrushBase
@@ -18,55 +19,57 @@ public sealed class LinearGradientBrush : LinearGradientBrushBase
 
 | Имя | Описание |
 | --- | --- |
-| [LinearGradientBrush](lineargradientbrush/#constructor)() | Инициализирует новый экземпляр`LinearGradientBrush` класс с параметрами по умолчанию. Начальный цвет черный, конечный цвет белый, угол 45 градусов и прямоугольник расположен в (0,0) с размером (1,1). |
-| [LinearGradientBrush](lineargradientbrush/#constructor_1)(Point, Point, Color, Color) | Инициализирует новый экземпляр`LinearGradientBrush` класс с указанными точками и цветами. |
-| [LinearGradientBrush](lineargradientbrush/#constructor_2)(PointF, PointF, Color, Color) | Инициализирует новый экземпляр`LinearGradientBrush` класс с указанными точками и цветами. |
-| [LinearGradientBrush](lineargradientbrush/#constructor_3)(Rectangle, Color, Color, float) | Инициализирует новый экземпляр`LinearGradientBrush` класс на основе прямоугольника, начального и конечного цветов и угла ориентации. |
-| [LinearGradientBrush](lineargradientbrush/#constructor_5)(RectangleF, Color, Color, float) | Инициализирует новый экземпляр`LinearGradientBrush` класс на основе прямоугольника, начального и конечного цветов и угла ориентации. |
-| [LinearGradientBrush](lineargradientbrush/#constructor_4)(Rectangle, Color, Color, float, bool) | Инициализирует новый экземпляр`LinearGradientBrush` класс на основе прямоугольника, начального и конечного цветов и угла ориентации. |
-| [LinearGradientBrush](lineargradientbrush/#constructor_6)(RectangleF, Color, Color, float, bool) | Инициализирует новый экземпляр`LinearGradientBrush` класс на основе прямоугольника, начального и конечного цветов и угла ориентации. |
+| [LinearGradientBrush](lineargradientbrush/#constructor)() | Инициализирует новый экземпляр класса `LinearGradientBrush` с параметрами по умолчанию. Начальный цвет — черный, конечный цвет — белый, угол — 45 градусов, а прямоугольник расположен в (0,0) размером (1,1). |
+| [LinearGradientBrush](lineargradientbrush/#constructor_1)(Point, Point, Color, Color) | Инициализирует новый экземпляр класса `LinearGradientBrush` с указанными точками и цветами. |
+| [LinearGradientBrush](lineargradientbrush/#constructor_2)(PointF, PointF, Color, Color) | Инициализирует новый экземпляр класса `LinearGradientBrush` с указанными точками и цветами. |
+| [LinearGradientBrush](lineargradientbrush/#constructor_3)(Rectangle, Color, Color, float) | Инициализирует новый экземпляр класса `LinearGradientBrush` на основе прямоугольника, начального и конечного цветов и угла ориентации. |
+| [LinearGradientBrush](lineargradientbrush/#constructor_5)(RectangleF, Color, Color, float) | Инициализирует новый экземпляр класса `LinearGradientBrush` на основе прямоугольника, начального и конечного цветов и угла ориентации. |
+| [LinearGradientBrush](lineargradientbrush/#constructor_4)(Rectangle, Color, Color, float, bool) | Инициализирует новый экземпляр класса `LinearGradientBrush` на основе прямоугольника, начального и конечного цветов и угла ориентации. |
+| [LinearGradientBrush](lineargradientbrush/#constructor_6)(RectangleF, Color, Color, float, bool) | Инициализирует новый экземпляр класса `LinearGradientBrush` на основе прямоугольника, начального и конечного цветов и угла ориентации. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Angle](../../aspose.psd.brushes/lineargradientbrushbase/angle/) { get; set; } | Получает или задает угол градиента. |
-| [Blend](../../aspose.psd.brushes/lineargradientbrush/blend/) { get; set; } | Получает или задает[`Blend`](../../aspose.psd/blend/) который указывает позиции и факторы, которые определяют пользовательский спад для градиента. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
+| [Angle](../../aspose.psd.brushes/lineargradientbrushbase/angle/) { get; set; } | Получает или задаёт угол градиента. |
+| [Blend](../../aspose.psd.brushes/lineargradientbrush/blend/) { get; set; } | Получает или задает [`Blend`](../../aspose.psd/blend/), который определяет позиции и коэффициенты, задающие пользовательское затухание градиента. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, освобожден ли этот экземпляр. |
 | [EndColor](../../aspose.psd.brushes/lineargradientbrush/endcolor/) { get; set; } | Получает или задает конечный цвет градиента. |
-| [GammaCorrection](../../aspose.psd.brushes/lineargradientbrushbase/gammacorrection/) { get; set; } | Получает или задает значение, указывающее, включена ли гамма-коррекция для этого[`LinearGradientBrushBase`](../lineargradientbrushbase/) . |
-| [IsAngleScalable](../../aspose.psd.brushes/lineargradientbrushbase/isanglescalable/) { get; set; } | Получает или задает значение, указывающее,[`Angle`](../lineargradientbrushbase/angle/) изменяется во время трансформаций с этим[`LinearGradientBrushBase`](../lineargradientbrushbase/) . |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Получает значение, указывающее, были ли каким-либо образом изменены преобразования. Например установка матрицы преобразования или вызов любого из методов, изменяющих матрицу преобразования. Свойство введено для обратной совместимости с GDI+. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Получает или задает непрозрачность кисти. Значение должно быть от 0 до 1. Значение 0 означает, что кисть полностью видна, значение 1 означает, что кисть полностью непрозрачна. |
+| [GammaCorrection](../../aspose.psd.brushes/lineargradientbrushbase/gammacorrection/) { get; set; } | Получает или задаёт значение, указывающее, включена ли гамма‑коррекция для этого [`LinearGradientBrushBase`](../lineargradientbrushbase/). |
+| [InterpolationColors](../../aspose.psd.brushes/lineargradientbrush/interpolationcolors/) { get; set; } | Получает или задаёт [`ColorBlend`](../../aspose.psd/colorblend/), определяющий многокрасочный линейный градиент. |
+| [IsAngleScalable](../../aspose.psd.brushes/lineargradientbrushbase/isanglescalable/) { get; set; } | Получает или задаёт значение, указывающее, изменяется ли [`Angle`](../lineargradientbrushbase/angle/) во время трансформаций с этим [`LinearGradientBrushBase`](../lineargradientbrushbase/). |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Получает значение, указывающее, были ли трансформации изменены каким-либо образом. Например, установка матрицы трансформации или вызов любого из методов, изменяющих матрицу трансформации. Свойство введено для обратной совместимости с GDI+. |
+| [LinearColors](../../aspose.psd.brushes/lineargradientbrush/linearcolors/) { get; set; } | Получает или задает начальный и конечный цвета градиента. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Получает или задает непрозрачность кисти. Значение должно быть от 0 до 1. Значение 0 означает, что кисть полностью видима, значение 1 означает, что кисть полностью непрозрачна. |
 | [Rectangle](../../aspose.psd.brushes/lineargradientbrushbase/rectangle/) { get; set; } | Получает или задает прямоугольную область, определяющую начальную и конечную точки градиента. |
 | [StartColor](../../aspose.psd.brushes/lineargradientbrush/startcolor/) { get; set; } | Получает или задает начальный цвет градиента. |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Получает или устанавливает копию[`Matrix`](../../aspose.psd/matrix/) который определяет локальное геометрическое преобразование для этого[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Получает или задает[`WrapMode`](../../aspose.psd/wrapmode/) перечисление, указывающее режим переноса для этого[`TransformBrush`](../transformbrush/) . |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Получает или задает копию [`Matrix`](../../aspose.psd/matrix/), определяющую локальное геометрическое преобразование для этого [`TransformBrush`](../transformbrush/). |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Получает или задает перечисление [`WrapMode`](../../aspose.psd/wrapmode/), указывающее режим обтекания для этого [`TransformBrush`](../transformbrush/). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Создает новый глубокий клон текущего[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Умножает[`Matrix`](../../aspose.psd/matrix/) который представляет собой локальное геометрическое преобразование этого`LinearGradientBrush` указанным[`Matrix`](../../aspose.psd/matrix/) путем добавления указанного[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Умножает[`Matrix`](../../aspose.psd/matrix/) который представляет собой локальное геометрическое преобразование этого`LinearGradientBrush` указанным[`Matrix`](../../aspose.psd/matrix/) в указанном порядке. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Сбрасывает[`Transform`](../transformbrush/transform/) свойство к личности. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод добавляет поворот к преобразованию. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Поворачивает локальное геометрическое преобразование на указанную величину в указанном порядке. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Масштабирует локальное геометрическое преобразование на указанные величины. Этот метод добавляет матрицу масштабирования перед преобразованием. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Масштабирует локальное геометрическое преобразование на указанные величины в указанном порядке. |
-| [SetBlendTriangularShape](../../aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/#setblendtriangularshape)(float) | Создает линейный градиент с центральным цветом и линейным спадом к одному цвету на обоих концах. |
-| [SetBlendTriangularShape](../../aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/#setblendtriangularshape_1)(float, float) | Создает линейный градиент с центральным цветом и линейным спадом к одному цвету на обоих концах. |
-| [SetSigmaBellShape](../../aspose.psd.brushes/lineargradientbrush/setsigmabellshape/#setsigmabellshape)(float) | Создает спад градиента на основе колоколообразной кривой. |
-| [SetSigmaBellShape](../../aspose.psd.brushes/lineargradientbrush/setsigmabellshape/#setsigmabellshape_1)(float, float) | Создает спад градиента на основе колоколообразной кривой. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Преобразует локальное геометрическое преобразование по указанным размерам. Этот метод добавляет перевод к transform. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Преобразует локальное геометрическое преобразование по указанным размерам в указанном порядке. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Создает новый глубокий клон текущего [`Brush`](../../aspose.psd/brush/). |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Освобождает текущий экземпляр. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Умножает [`Matrix`](../../aspose.psd/matrix/), представляющий локальное геометрическое преобразование этого `LinearGradientBrush`, на указанный [`Matrix`](../../aspose.psd/matrix/), предварительно добавляя указанный [`Matrix`](../../aspose.psd/matrix/). |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Умножает [`Matrix`](../../aspose.psd/matrix/), представляющий локальное геометрическое преобразование этого `LinearGradientBrush`, на указанный [`Matrix`](../../aspose.psd/matrix/) в указанном порядке. |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Сбрасывает свойство [`Transform`](../transformbrush/transform/) к единичному. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод предварительно добавляет вращение к преобразованию. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Поворачивает локальное геометрическое преобразование на указанную величину в заданном порядке. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Масштабирует локальное геометрическое преобразование на указанные коэффициенты. Этот метод предварительно добавляет матрицу масштабирования к преобразованию. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Масштабирует локальное геометрическое преобразование на указанные коэффициенты в заданном порядке. |
+| [SetBlendTriangularShape](../../aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/#setblendtriangularshape)(float) | Создает линейный градиент с центральным цветом и линейным спадом к одному цвету с обеих сторон. |
+| [SetBlendTriangularShape](../../aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/#setblendtriangularshape_1)(float, float) | Создает линейный градиент с центральным цветом и линейным спадом к одному цвету с обеих сторон. |
+| [SetSigmaBellShape](../../aspose.psd.brushes/lineargradientbrush/setsigmabellshape/#setsigmabellshape)(float) | Создает спад градиента, основанный на колоколообразной кривой. |
+| [SetSigmaBellShape](../../aspose.psd.brushes/lineargradientbrush/setsigmabellshape/#setsigmabellshape_1)(float, float) | Создает спад градиента, основанный на колоколообразной кривой. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Смещает локальное геометрическое преобразование на указанные размеры. Этот метод предварительно добавляет трансляцию к преобразованию. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Смещает локальное геометрическое преобразование на указанные размеры в заданном порядке. |
 
-### Смотрите также
+### См. также
 
 * class [LinearGradientBrushBase](../lineargradientbrushbase/)
-* пространство имен [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

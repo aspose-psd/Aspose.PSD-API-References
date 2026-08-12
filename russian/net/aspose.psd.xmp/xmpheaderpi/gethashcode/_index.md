@@ -1,14 +1,15 @@
 ---
-title: XmpHeaderPi.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpHeaderPi метод. Возвращает хэшкод для этого экземпляра.
+title: "XmpHeaderPi.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpHeaderPi. Возвращает хеш-код для этого экземпляра"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp/xmpheaderpi/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.GetHashCode method
 
-Возвращает хэш-код для этого экземпляра.
+Возвращает хеш‑код для этого экземпляра.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хэш-таблица.
+Хеш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хеш-таблица.
 
-### Смотрите также
+### См. также
 
 * class [XmpHeaderPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

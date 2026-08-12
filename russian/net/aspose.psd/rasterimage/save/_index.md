@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Сохраняет данные изображения в указанный поток в указанном формате файла в соответствии с параметрами сохранения.
+title: "RasterImage.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Сохраняет данные изображения в указанный поток в указанном файловом формате согласно параметрам сохранения."
 type: docs
-weight: 490
+weight: 500
 url: /ru/net/aspose.psd/rasterimage/save/
 ---
+{{< psd/tize >}}
 ## RasterImage.Save method
 
-Сохраняет данные изображения в указанный поток в указанном формате файла в соответствии с параметрами сохранения.
+Сохраняет данные изображения в указанный поток в указанном файловом формате в соответствии с параметрами сохранения.
 
 ```csharp
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
@@ -17,15 +18,15 @@ public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, в который сохраняются данные изображения. |
-| optionsBase | ImageOptionsBase | Варианты сохранения. |
-| boundsRectangle | Rectangle | Конечный образ ограничивает прямоугольник. Установите пустой прямоугольник для использования исходных границ. |
+| optionsBase | ImageOptionsBase | Параметры сохранения. |
+| boundsRectangle | Rectangle | Прямоугольник границ целевого изображения. Установите пустой прямоугольник для использования границ источника. |
 
-### Смотрите также
+### См. также
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

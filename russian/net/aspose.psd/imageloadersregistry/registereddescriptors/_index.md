@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageLoadersRegistry свойство. Получает зарегистрированные дескрипторы.
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageLoadersRegistry. Возвращает зарегистрированные дескрипторы"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
 Получает зарегистрированные дескрипторы.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/imageloadersregistry/registereddescriptors/
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зарегистрированные дескрипторы.
 
-### Смотрите также
+### См. также
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageloadersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

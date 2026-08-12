@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientColorPoint свойство. Получает или задает положение точки на градиенте.
+title: "GradientColorPoint.Location"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientColorPoint. Получает или задает расположение точки на градиенте"
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-Получает или задает положение точки на градиенте.
+Получает или задаёт расположение точки на градиенте.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение.
+Расположение.
 
-### Смотрите также
+### См. также
 
 * class [GradientColorPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.MaxApertureValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает максимальное значение диафрагмы.
+title: "ExifData.MaxApertureValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает значение максимальной диафрагмы"
 type: docs
 weight: 800
 url: /ru/net/aspose.psd.exif/exifdata/maxaperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.MaxApertureValue property
 
-Получает или задает максимальное значение диафрагмы.
+Получает или задает значение максимальной диафрагмы.
 
 ```csharp
 public TiffRational MaxApertureValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Максимальное значение диафрагмы.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

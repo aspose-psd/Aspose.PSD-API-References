@@ -1,27 +1,24 @@
 ---
-title: Lr32Resource.Lr32Resource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lr32Resource строитель. Инициализирует новый экземплярLr32Resource класс.
+title: "Lr32Resource.Lr32Resource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Lr32Resource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource constructor
 
-Инициализирует новый экземпляр[`Lr32Resource`](../) класс.
+Конструктор по умолчанию.
 
 ```csharp
-public Lr32Resource(int length)
+public Lr32Resource()
 ```
 
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| length | Int32 | Длина. |
-
-### Смотрите также
+### См. также
 
 * class [Lr32Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

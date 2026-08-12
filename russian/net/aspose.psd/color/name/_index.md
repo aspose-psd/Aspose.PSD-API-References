@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает имя этогоColor .
+title: "Color.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает имя этого Color"
 type: docs
 weight: 1520
 url: /ru/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-Получает имя этого[`Color`](../) .
+Возвращает имя этого [`Color`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Название этого[`Color`](../).
+Имя этого [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

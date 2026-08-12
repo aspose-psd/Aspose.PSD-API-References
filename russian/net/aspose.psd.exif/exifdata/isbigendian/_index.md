@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение указывающее являются ли потоковые данные EXIF созданные из обратным порядком байтов.
+title: "ExifData.IsBigEndian"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение, указывающее, является ли поток EXIF-данных, из которого создаётся, big endian"
 type: docs
 weight: 690
 url: /ru/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-Получает или задает значение, указывающее, являются ли потоковые данные EXIF, созданные из, обратным порядком байтов.
+Получает или задает значение, указывающее, является ли поток данных EXIF, созданный из него, big endian.
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если данные EXIF потока, созданные из, имеют формат big endian; в противном случае,`ЛОЖЬ` .
+`true`, если поток EXIF-данных, из которого создаётся, big endian; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

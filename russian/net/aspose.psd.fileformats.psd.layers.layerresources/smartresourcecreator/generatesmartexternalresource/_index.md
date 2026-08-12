@@ -1,14 +1,15 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartResourceCreator метод. Генерирует внешний ресурс смартобъекта.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartResourceCreator. Генерирует внешний ресурс умного объекта"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
-Генерирует внешний ресурс смарт-объекта.
+Создаёт внешний ресурс смарт‑объекта.
 
 ```csharp
 public SoLeResource GenerateSmartExternalResource()
@@ -16,13 +17,13 @@ public SoLeResource GenerateSmartExternalResource()
 
 ### Возвращаемое значение
 
-Сгенерированный[`SoLeResource`](../../soleresource/) пример.
+Сгенерированный экземпляр [`SoLeResource`](../../soleresource/).
 
-### Смотрите также
+### См. также
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

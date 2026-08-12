@@ -1,11 +1,12 @@
 ---
-title: Enum AutoKerning
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.AutoKerning перечисление. Режим автоматического кернинга Photoshop расстояние между символами.
+title: "Перечисление AutoKerning"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Режим автоматического кернинга Photoshop, расстояние между символами"
 type: docs
-weight: 1600
+weight: 1610
 url: /ru/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
 Режим автоматического кернинга Photoshop (расстояние между символами).
@@ -14,17 +15,17 @@ url: /ru/net/aspose.psd.fileformats.psd/autokerning/
 public enum AutoKerning
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Manual | `0` | Ручное значение кернинга. |
-| Metric | `1` | Кернинг метрик использует пары кернов, которые включены в большинство шрифтов (от их разработчиков). |
-| Optical | `2` | Оптический кернинг регулирует расстояние между соседними символами в зависимости от их формы. |
+| Manual | `0` | Значение ручного кернинга. |
+| Metric | `1` | Кернинг метрик использует пары керна, которые включены в большинство шрифтов (от их дизайнеров). |
+| Optical | `2` | Оптический кернинг регулирует расстояние между соседними символами в зависимости от их форм. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку поддержки новых свойств ITextStyle.
+Следующий код демонстрирует поддержку новых свойств ITextStyle.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// Проверяем значения
+// Проверьте значения
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

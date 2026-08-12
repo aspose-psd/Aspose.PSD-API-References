@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.JpegLsInterleaveMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает режим чередования JPEGLS.
+title: "JpegOptions.JpegLsInterleaveMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает режим чередования JPEGLS"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsInterleaveMode property
 
 Получает или задает режим чередования JPEG-LS.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/
 public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [JpegLsInterleaveMode](../../../aspose.psd.fileformats.jpeg/jpeglsinterleavemode/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

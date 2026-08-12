@@ -1,11 +1,12 @@
 ---
-title: Image.FileFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. Получает значение формата файла
+title: "Image.FileFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Возвращает значение формата файла"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
 Получает значение формата файла
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd/image/fileformat/
 public virtual FileFormat FileFormat { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

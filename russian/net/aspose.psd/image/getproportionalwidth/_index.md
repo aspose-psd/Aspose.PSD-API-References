@@ -1,11 +1,12 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Получает пропорциональную ширину.
+title: "Image.GetProportionalWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Получает пропорциональную ширину"
 type: docs
-weight: 290
+weight: 300
 url: /ru/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
 Получает пропорциональную ширину.
@@ -24,10 +25,10 @@ public static int GetProportionalWidth(int width, int height, int newHeight)
 
 Пропорциональная ширина.
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

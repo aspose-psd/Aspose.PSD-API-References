@@ -1,23 +1,24 @@
 ---
-title: ObjectArrayStructure.StructureKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: ObjectArrayStructure поле. Идентифицирует ключ структуры ObAr.
+title: "ObjectArrayStructure.StructureKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ObjectArrayStructure. Идентифицирует ключ структуры ObAr"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureKey field
 
-Идентифицирует ключ структуры 'ObAr'.
+Определяет ключ структуры 'ObAr'.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ObjectArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

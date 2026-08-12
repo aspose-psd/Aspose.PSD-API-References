@@ -1,14 +1,15 @@
 ---
-title: LayerResource.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResource метод. ВозвращаетString который представляет этот экземпляр.
+title: "LayerResource.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LayerResource. Возвращает строку, представляющую этот экземпляр."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresource/tostring/
 ---
+{{< psd/tize >}}
 ## LayerResource.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

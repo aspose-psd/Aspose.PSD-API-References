@@ -1,11 +1,12 @@
 ---
-title: VectorImage.HeightF
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorImage свойство. Получает высоту объекта в дюймах.
+title: "VectorImage.HeightF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorImage. Возвращает высоту объекта в дюймах"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
 Получает высоту объекта в дюймах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/vectorimage/heightf/
 public virtual float HeightF { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Высота объекта в дюймах.
+Высота объекта, в дюймах.
 
-### Смотрите также
+### См. также
 
 * class [VectorImage](../)
-* пространство имен [Aspose.PSD](../../vectorimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

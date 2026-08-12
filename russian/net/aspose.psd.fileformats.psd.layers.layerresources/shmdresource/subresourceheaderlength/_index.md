@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: Справочник по Aspose.PSD для .NET API
-description: ShmdResource поле. Длина заголовка подресурса
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ShmdResource поле. Длина заголовка подресурса"
 type: docs
-weight: 90
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
 Длина заголовка подресурса
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subre
 public const int SubResourceHeaderLength;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ShmdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

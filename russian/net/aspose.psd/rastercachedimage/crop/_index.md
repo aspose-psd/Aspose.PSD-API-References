@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterCachedImage метод. Обрезка изображения.
+title: "RasterCachedImage.Crop"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterCachedImage. Обрезка изображения"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 Обрезка изображения.
@@ -16,11 +17,11 @@ public override void Crop(Rectangle rectangle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник. |
+| прямоугольник | Rectangle | Прямоугольник. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность обрезать изображение по определенному прямоугольнику.
+Следующий код демонстрирует возможность обрезать изображение по заданному прямоугольнику.
 
 ```csharp
 [C#]
@@ -78,11 +79,11 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

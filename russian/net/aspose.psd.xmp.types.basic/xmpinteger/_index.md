@@ -1,11 +1,12 @@
 ---
-title: Class XmpInteger
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpInteger сорт. Представляет базовый тип XMP Integer.
+title: "Класс XmpInteger"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Basic.XmpInteger. Представляет базовый тип XMP Integer."
 type: docs
-weight: 5960
+weight: 6460
 url: /ru/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger class
 
 Представляет базовый тип XMP Integer.
@@ -18,11 +19,11 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [XmpInteger](xmpinteger/#constructor)(int) | Инициализирует новый экземпляр`XmpInteger` класс. |
-| [XmpInteger](xmpinteger/#constructor_1)(long) | Инициализирует новый экземпляр`XmpInteger` класс. |
-| [XmpInteger](xmpinteger/#constructor_2)(string) | Инициализирует новый экземпляр`XmpInteger` класс. |
+| [XmpInteger](xmpinteger/#constructor)(int) | Инициализирует новый экземпляр класса `XmpInteger`. |
+| [XmpInteger](xmpinteger/#constructor_1)(long) | Инициализирует новый экземпляр класса `XmpInteger`. |
+| [XmpInteger](xmpinteger/#constructor_2)(string) | Инициализирует новый экземпляр класса `XmpInteger`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -32,12 +33,12 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

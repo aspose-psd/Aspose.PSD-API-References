@@ -1,14 +1,15 @@
 ---
-title: Point.op_Explicit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Преобразует указанныйPoint структура кSizeструктура.
+title: "Point.op_Explicit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Преобразует указанную структуру Point в структуру Size."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/point/op_explicit/
 ---
+{{< psd/tize >}}
 ## Point Explicit operator
 
-Преобразует указанный[`Point`](../) структура к[`Size`](../../size/)структура.
+Преобразует указанную структуру [`Point`](../) в структуру [`Size`](../../size/).
 
 ```csharp
 public static explicit operator Size(Point point)
@@ -16,17 +17,17 @@ public static explicit operator Size(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../) быть преобразованным. |
+| point | Point | `[`Point`](../)` для преобразования. |
 
 ### Возвращаемое значение
 
-[`Size`](../../size/) что получается в результате преобразования.
+Элемент [`Size`](../../size/), полученный в результате преобразования.
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

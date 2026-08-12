@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Заглавные буквы шрифта.
+title: "ITextStyle.FontCaps"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Прописные буквы шрифта"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-Заглавные буквы шрифта.
+Верхний регистр шрифта.
 
 ```csharp
 public FontCaps FontCaps { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

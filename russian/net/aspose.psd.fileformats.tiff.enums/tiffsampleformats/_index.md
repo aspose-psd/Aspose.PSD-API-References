@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats перечисление. Образец формата enum
+title: "Перечисление TiffSampleFormats"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Перечисление форматов образцов."
 type: docs
-weight: 4160
+weight: 4630
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Образец формата enum
+Перечисление формата образца
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Uint | `1` | Целое число без знака data |
-| Int | `2` | Целочисленные данные со знаком |
-| IeeeFp | `3` | Данные IEEE с плавающей запятой |
-| Void | `4` | Нетипизированные данные |
-| ComplexInt | `5` | Комплекс со знаком int |
-| ComplexIeeeFp | `6` | Комплекс ieee с плавающей запятой |
+| Uint | `1` | Данные беззнакового целого числа |
+| Int | `2` | Данные знакового целого числа |
+| IeeeFp | `3` | Данные с плавающей точкой IEEE |
+| Void | `4` | Данные без типа |
+| ComplexInt | `5` | Комплексное знаковое целое |
+| ComplexIeeeFp | `6` | Комплексное IEEE с плавающей точкой |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.Rectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: FilterEffectMaskData свойство. Получает прямоугольник каналов.
+title: "FilterEffectMaskData.Rectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FilterEffectMaskData. Возвращает прямоугольник каналов"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Rectangle property
 
 Получает прямоугольник каналов.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public Rectangle Rectangle { get; }
 ```
 
-### Примеры
+## Примеры
 
-В этом примере показано, как получить и установить свойства ресурса FXidResource.
+Этот пример демонстрирует, как получать и задавать свойства ресурса FXidResource.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// проверка после сохранения
+// проверьте после сохранения
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -61,11 +62,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

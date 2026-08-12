@@ -1,14 +1,15 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmlsResource строитель. Инициализирует новый экземплярCmlsResource класс.
+title: "CmlsResource.CmlsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор CmlsResource. Инициализирует новый экземпляр класса CmlsResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-Инициализирует новый экземпляр[`CmlsResource`](../) класс.
+Инициализирует новый экземпляр класса [`CmlsResource`](../).
 
 ```csharp
 public CmlsResource(byte[] data)
@@ -16,12 +17,12 @@ public CmlsResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
-### Смотрите также
+### См. также
 
 * class [CmlsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

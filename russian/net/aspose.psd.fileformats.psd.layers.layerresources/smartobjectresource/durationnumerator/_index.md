@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.DurationNumerator
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает числитель длительности.
+title: "SmartObjectResource.DurationNumerator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает числитель длительности."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationNumerator property
 
 Получает или задает числитель длительности.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public int DurationNumerator { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Числитель длительности.
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

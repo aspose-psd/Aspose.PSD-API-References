@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.IsClosed
-second_title: Справочник по Aspose.PSD для .NET API
-description: LengthRecord свойство. Получает или задает значение указывающее закрыт ли этот экземпляр.
+title: "LengthRecord.IsClosed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LengthRecord. Возвращает или задает значение, указывающее, закрыт ли данный экземпляр."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsClosed property
 
 Получает или задает значение, указывающее, закрыт ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 public bool IsClosed { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр закрыт; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр закрыт; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [LengthRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

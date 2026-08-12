@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Widen
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Добавляет дополнительный контур пути.
+title: "GraphicsPath.Widen"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Добавляет дополнительный контур к пути."
 type: docs
 weight: 190
 url: /ru/net/aspose.psd/graphicspath/widen/
 ---
+{{< psd/tize >}}
 ## Widen(Pen) {#widen}
 
-Добавляет дополнительный контур пути.
+Добавляет дополнительный контур к пути.
 
 ```csharp
 public void Widen(Pen pen)
@@ -16,20 +17,20 @@ public void Widen(Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | А[`Pen`](../../pen/) который указывает ширину между исходным контуром пути и новым контуром, создаваемым этим методом. |
+| pen | Pen | Объект [`Pen`](../../pen/), определяющий ширину между оригинальным контуром пути и новым контуром, создаваемым этим методом. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix) {#widen_1}
 
-Добавляет дополнительный контур к[`GraphicsPath`](../) .
+Добавляет дополнительный контур к [`GraphicsPath`](../).
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix)
@@ -37,22 +38,22 @@ public void Widen(Pen pen, Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | А[`Pen`](../../pen/) который указывает ширину между исходным контуром пути и новым контуром, создаваемым этим методом. |
-| matrix | Matrix | А[`Matrix`](../../matrix/) который указывает преобразование, которое необходимо применить к пути перед расширением. |
+| pen | Pen | Объект [`Pen`](../../pen/), определяющий ширину между оригинальным контуром пути и новым контуром, создаваемым этим методом. |
+| matrix | Matrix | Объект [`Matrix`](../../matrix/), определяющий преобразование, применяемое к пути перед расширением. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix, float) {#widen_2}
 
-Заменяет это[`GraphicsPath`](../) с кривыми, которые охватывают область, которая заполняется, когда этот путь рисуется указанным пером.
+Заменяет этот [`GraphicsPath`](../) кривыми, которые охватывают область, заполняемую, когда этот путь рисуется указанной ручкой.
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix, float flatness)
@@ -60,16 +61,16 @@ public void Widen(Pen pen, Matrix matrix, float flatness)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | А[`Pen`](../../pen/) который указывает ширину между исходным контуром пути и новым контуром, создаваемым этим методом. |
-| matrix | Matrix | А[`Matrix`](../../matrix/) который указывает преобразование, которое необходимо применить к пути перед расширением. |
-| flatness | Single | Значение, определяющее плоскостность кривых. |
+| pen | Pen | Объект [`Pen`](../../pen/), определяющий ширину между оригинальным контуром пути и новым контуром, создаваемым этим методом. |
+| matrix | Matrix | Объект [`Matrix`](../../matrix/), определяющий преобразование, применяемое к пути перед расширением. |
+| плоскость | Single | Значение, определяющее плоскость кривых. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

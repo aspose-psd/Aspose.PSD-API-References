@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Xml
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Пространство имен XML.
+title: "Namespaces.Xml"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Пространство имён Xml"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/namespaces/xml/
 ---
+{{< psd/tize >}}
 ## Namespaces.Xml field
 
-Пространство имен XML.
+Пространство имён Xml.
 
 ```csharp
 public const string Xml;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

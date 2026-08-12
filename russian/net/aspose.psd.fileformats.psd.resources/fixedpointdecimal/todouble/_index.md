@@ -1,14 +1,15 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: Справочник по Aspose.PSD для .NET API
-description: FixedPointDecimal метод. Преобразует текущее десятичное число с фиксированной точкой в двойное.
+title: "FixedPointDecimal.ToDouble"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FixedPointDecimal. Преобразует текущее фиксированное десятичное число в double"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-Преобразует текущее десятичное число с фиксированной точкой в двойное.
+Преобразует текущее фиксированное десятичное число в double.
 
 ```csharp
 public double ToDouble()
@@ -18,10 +19,10 @@ public double ToDouble()
 
 Преобразованное значение.
 
-### Смотрите также
+### См. также
 
 * class [FixedPointDecimal](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

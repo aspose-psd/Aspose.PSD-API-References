@@ -1,11 +1,12 @@
 ---
-title: LoadOptions.LoadOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: LoadOptions строитель. Конструктор по умолчанию.
+title: "LoadOptions.LoadOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LoadOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/loadoptions/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/loadoptions/loadoptions/
 public LoadOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LoadOptions](../)
-* пространство имен [Aspose.PSD](../../loadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

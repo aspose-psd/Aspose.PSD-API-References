@@ -1,11 +1,12 @@
 ---
-title: Graphics.Image
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics свойство. Получает изображение.
+title: "Graphics.Image"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Graphics. Получает изображение."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
 Получает изображение.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/graphics/image/
 public Image Image { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Графическое изображение.
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class CurvResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvResource сорт. Класс CurvResource. Ресурс настройки кривых Layer 1 байт  0 если использовать кривые 1 если используются пиксели на карте если 0 то 2 байта  короткие. По умолчанию 1 4 байта  инт. Используется только последний байт за битом. Первый бит для 1 канала Четвертый бит для 4 канала например 2 байта  короткие точки count 4 байта  количество точек  точки кривой 2 короткие первая позиция вторая высота 4 байта  слово Crv 2 байта  короткий по умолчанию 4 для Curves 4 байта  внутр. По умолчанию 1 4 байта  количество точек 4 байта  количество точек  точек кривой 2 короткая первая позиция вторая высота 04 байта  Ведущий будет складывать для четырех если 1 то 2 байта  короткая. По умолчанию 1 4 байта  инт. Используется только последний байт. Один канал в одном бите. Первый бит для 1 канала Четвертый бит для 4 канала например 256  количество измененных каналов  упорядоченные значения канала в диапазоне 0  255 4 байта  слово Crv 2 байта  короткие. По умолчанию 3 для пикселей на карте 4 байта  int Channel count 2  256 байт  короткая 2 для индекса канала 256 упорядоченные значения канала в диапазоне 0  255
+title: "Класс CurvResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvResource класс. Класс CurvResource. Ресурс слоя регулировки кривых 1 байт 0 если используются кривые 1 если используются пиксели на карте, если 0 то 2 байта short. По умолчанию 1. 4 байта int. Используется только последний байт битом. Первый бит — для 1 канала, четвертый бит — для 4 каналов, например 2 байта short количество точек. 4 байта количество точек кривой. 2 short первая позиция, вторая высота. 4 байта word Crv. 2 байта short по умолчанию 4 для Curves. 4 байта int. По умолчанию 1. 4 байта количество точек. 4 байта количество точек кривой. 2 short первая позиция, вторая высота. 04 байта Ведущее выравнивание до четырёх, если 1 то 2 байта short. По умолчанию 1. 4 байта int. Используется только последний байт. Один канал в одном бите. Первый бит — для 1 канала, четвертый бит — для 4 каналов, например 256 количество изменённых каналов упорядоченные значения канала в диапазоне 0‑255. 4 байта word Crv. 2 байта short по умолчанию 3 для пикселей на карте. 4 байта int количество каналов 2 256 байт short 2 для индекса канала 256 упорядоченные значения канала в диапазоне 0‑255."
 type: docs
-weight: 2400
+weight: 2660
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource class
 
-Класс CurvResource. Ресурс настройки кривых Layer 1 байт - 0 если использовать кривые, 1 если используются пиксели на карте если 0 то: 2 байта - короткие. По умолчанию 1 4 байта - инт. Используется только последний байт за битом. Первый бит для 1 канала, Четвертый бит для 4 канала например 2 байта - короткие точки count 4 байта * количество точек - точки кривой 2 короткие: первая позиция, вторая высота 4 байта - слово "Crv" 2 байта - короткий по умолчанию 4 для Curves 4 байта - внутр. По умолчанию 1 4 байта - количество точек 4 байта * количество точек - точек кривой 2 короткая: первая позиция, вторая высота 0-4 байта - Ведущий будет складывать для четырех если 1 то: 2 байта - короткая. По умолчанию 1 4 байта - инт. Используется только последний байт. Один канал в одном бите. Первый бит для 1 канала, Четвертый бит для 4 канала например 256 * количество измененных каналов - упорядоченные значения канала в диапазоне 0 - 255 4 байта - слово "Crv" 2 байта - короткие. По умолчанию 3 для пикселей на карте 4 байта - int Channel count (2 + 256) байт - короткая 2 для индекса канала, 256 упорядоченные значения канала в диапазоне 0 - 255
+Класс CurvResource. Ресурс слоя коррекции кривых. 1 байт — 0, если используются кривые, 1, если используется карта пикселей; если 0, то: 2 байта — short. По умолчанию 1. 4 байта — int. Используется только последний байт по биту. Первый бит — для 1 канала, четвёртый бит — для 4 каналов, например 2 байта — short количество точек. 4 байта * количество точек — точки кривой. 2 short: первая позиция, вторая высота. 4 байта — слово "Crv ". 2 байта — short, по умолчанию 4 для кривых. 4 байта — int, по умолчанию 1. 4 байта — количество точек. 4 байта * количество точек — точки кривой. 2 short: первая позиция, вторая высота. 0‑4 байта — ведущие для четырёх, если 1, то: 2 байта — short, по умолчанию 1. 4 байта — int, используется только последний байт. Один канал в одном бите. Первый бит — для 1 канала, четвёртый бит — для 4 каналов, например 256 * количество изменённых каналов — упорядоченные значения канала в диапазоне 0‑255. 4 байта — слово "Crv ". 2 байта — short, по умолчанию 3 для карты пикселей. 4 байта — int количество каналов (2 + 256) байт — short 2 для индекса канала, 256 — упорядоченные значения канала в диапазоне 0‑255.
 
 ```csharp
 public class CurvResource : AdjustmentLayerResource
@@ -18,40 +19,40 @@ public class CurvResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [CurvResource](curvresource/#constructor)(byte[]) | Инициализирует новый экземпляр`CurvResource` класс. |
-| [CurvResource](curvresource/#constructor_1)(int) | Инициализирует новый экземпляр`CurvResource` класс. |
+| [CurvResource](curvresource/#constructor)(byte[]) | Инициализирует новый экземпляр класса `CurvResource`. |
+| [CurvResource](curvresource/#constructor_1)(int) | Инициализирует новый экземпляр класса `CurvResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [IsDataStoredDiscretely](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/) { get; set; } | Получает или задает значение, указывающее, является ли этот экземпляр хранимыми данными дискретными. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [IsDataStoredDiscretely](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/) { get; set; } | Получает или задает значение, указывающее, хранится ли данный экземпляр дискретно. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetActiveManager](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager/)() | Получает активного менеджера. |
+| [GetActiveManager](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager/)() | Получает активный менеджер. |
 | [GetChannelData](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata/)(int) | Получает данные канала. |
-| [GetCurveManager](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/)() | Получает диспетчер кривых. |
+| [GetCurveManager](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/)() | Получает менеджер кривой. |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

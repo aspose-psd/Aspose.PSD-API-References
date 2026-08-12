@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubsecTimeOriginal
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает доли секунды для тега DateTimeOriginal.
+title: "ExifData.SubsecTimeOriginal"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает доли секунды для тега DateTimeOriginal"
 type: docs
 weight: 1050
 url: /ru/net/aspose.psd.exif/exifdata/subsectimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeOriginal property
 
 Получает или задает доли секунды для тега DateTimeOriginal.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/subsectimeoriginal/
 public string SubsecTimeOriginal { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Доли секунд для тега DateTimeOriginal.
+Доли секунды для тега DateTimeOriginal.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

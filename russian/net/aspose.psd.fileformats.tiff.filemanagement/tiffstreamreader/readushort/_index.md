@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadUShort
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Чтение беззнакового короткого значения из потока.
+title: "TiffStreamReader.ReadUShort"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamReader. Считывает беззнаковое короткое значение из потока"
 type: docs
 weight: 210
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShort method
 
-Чтение беззнакового короткого значения из потока.
+Считывает беззнаковое значение short из потока.
 
 ```csharp
 public ushort ReadUShort(long position)
@@ -16,16 +17,16 @@ public ushort ReadUShort(long position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
+| позиция | Int64 | Позиция, из которой читать. |
 
 ### Возвращаемое значение
 
-Короткое значение без знака.
+Беззнаковое короткое значение.
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

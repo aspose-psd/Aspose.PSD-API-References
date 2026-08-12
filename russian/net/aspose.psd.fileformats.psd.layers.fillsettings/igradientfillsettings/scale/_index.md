@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: IGradientFillSettings свойство. Получает или задает масштаб.
+title: "IGradientFillSettings.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IGradientFillSettings. Возвращает или задает нормализованную шкалу градиента в процентах"
 type: docs
-weight: 100
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Получает или задает масштаб.
+Получает или задает **нормализованный** масштаб градиента (в процентах).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Масштаб.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как использовать свойство Scale для масштабирования FillLayer с градиентом.
+В следующем примере демонстрируется, как использовать свойство Scale для масштабирования FillLayer с градиентом.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // получаем слой-заливку
+    // получение FillLayer
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,18 +44,18 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // обновить значение шкалы
+    // обновление значения масштаба
     settings.Scale = 200;
-    fillLayer.Update(); // Обновляет данные пикселей
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IGradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

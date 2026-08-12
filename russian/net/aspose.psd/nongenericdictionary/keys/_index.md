@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary свойство. Получает ICollection объект содержащий ключи IDictionary объект.
+title: "NonGenericDictionary.Keys"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericDictionary. Возвращает объект ICollection, содержащий ключи объекта IDictionary"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-Получает ICollection объект, содержащий ключи IDictionary объект.
+Возвращает объект ICollection, содержащий ключи объекта IDictionary.
 
 ```csharp
 public ICollection Keys { get; }
@@ -16,12 +17,12 @@ public ICollection Keys { get; }
 
 ### Возвращаемое значение
 
-АнICollection объект, содержащий ключиIDictionary объект.
+Объект ICollection, содержащий ключи объекта IDictionary.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

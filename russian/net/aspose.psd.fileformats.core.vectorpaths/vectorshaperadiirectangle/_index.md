@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle сорт. Определяет прямоугольник радиусов векторной формы class
+title: "Класс VectorShapeRadiiRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle класс. Определяет класс прямоугольника радиусов векторной формы."
 type: docs
-weight: 1450
+weight: 1460
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Определяет прямоугольник радиусов векторной формы class
+Определяет класс прямоугольника радиусов векторной формы
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -20,24 +21,24 @@ public sealed class VectorShapeRadiiRectangle
 | --- | --- |
 | [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Получает или задает нижнюю часть. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Получает или задает нижнее значение. |
 | [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Получает или задает правый нижний угол. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Получает или задает четырехъядерную версию значения единицы измерения. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Получает или задает версию квадрата единичного значения. |
 | [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Получает или задает левый верхний угол. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Получает или задает верхний правый угол. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Получает или задает правый верхний угол. |
 
-### Примеры
+## Примеры
 
-В этом примере показано, что загрузка и сохранение изображения PSD со слоями-фигурами и векторными путями работает правильно.
+Этот пример демонстрирует, что загрузка и сохранение PSD‑изображения с слоями фигур и векторными путями работает корректно.
 
 ```csharp
 [C#]
 
-// Этот пример демонстрирует, что загрузка и сохранение изображения PSD со слоями формы и векторными путями работает правильно.
+// Этот пример демонстрирует, что загрузка и сохранение PSD‑изображения с слоями фигур и векторными путями работает корректно.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdOptions свойство. Получает или задает версию файла psd.
+title: "PsdOptions.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdOptions. Получает или задает версию файла psd"
 type: docs
-weight: 100
+weight: 120
 url: /ru/net/aspose.psd.imageoptions/psdoptions/version/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Version property
 
-Получает или задает версию файла psd.
+Получает или задает версию файла PSD.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия файла psd.
 
-### Смотрите также
+### См. также
 
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

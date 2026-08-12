@@ -1,14 +1,15 @@
 ---
-title: Class ColorantRgb
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantRgb сорт. Представляет краситель RGB.
+title: "Класс ColorantRgb"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantRgb. Представляет RGB‑цветант."
 type: docs
-weight: 6040
+weight: 6540
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb class
 
-Представляет краситель RGB.
+Представляет RGB‑краситель.
 
 ```csharp
 public sealed class ColorantRgb : ColorantBase
@@ -18,32 +19,32 @@ public sealed class ColorantRgb : ColorantBase
 
 | Имя | Описание |
 | --- | --- |
-| [ColorantRgb](colorantrgb/#constructor)() | Инициализирует новый экземпляр`ColorantRgb` класс. |
-| [ColorantRgb](colorantrgb/#constructor_1)(byte, byte, byte) | Инициализирует новый экземпляр`ColorantRgb` класс. |
+| [ColorantRgb](colorantrgb/#constructor)() | Инициализирует новый экземпляр класса `ColorantRgb`. |
+| [ColorantRgb](colorantrgb/#constructor_1)(byte, byte, byte) | Инициализирует новый экземпляр класса `ColorantRgb`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Blue](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/) { get; set; } | Получает или задает значение синего компонента. |
 | [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Получает или задает тип цвета. |
 | [Green](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/green/) { get; set; } | Получает или задает значение зеленого компонента. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | получает[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имен по умолчанию. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Получает [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имён по умолчанию. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Получает префикс. |
 | [Red](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/red/) { get; set; } | Получает или задает значение красного компонента. |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Получает или задает имя образца. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Получает или задает название образца. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [ColorantBase](../colorantbase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

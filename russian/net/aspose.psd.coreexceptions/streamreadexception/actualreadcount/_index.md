@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamReadException свойство. Получает фактическое количество прочитанных байтов.
+title: "StreamReadException.ActualReadCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StreamReadException. Возвращает фактическое количество прочитанных байтов"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
-Получает фактическое количество прочитанных байтов.
+Возвращает фактическое количество прочитанных байтов.
 
 ```csharp
 public int ActualReadCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Фактическое количество прочитанных байтов.
 
-### Смотрите также
+### См. также
 
 * class [StreamReadException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

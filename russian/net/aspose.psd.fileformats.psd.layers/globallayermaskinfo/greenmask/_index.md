@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.GreenMask
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalLayerMaskInfo свойство. Получает или задает зеленую маску.
+title: "GlobalLayerMaskInfo.GreenMask"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GlobalLayerMaskInfo. Получает или задает зеленую маску"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.GreenMask property
 
 Получает или задает зеленую маску.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/
 public short GreenMask { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зеленая маска.
 
-### Смотрите также
+### См. также
 
 * class [GlobalLayerMaskInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

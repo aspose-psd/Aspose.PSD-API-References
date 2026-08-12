@@ -1,20 +1,21 @@
 ---
-title: GdFlResource.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает масштаб.
+title: "GdFlResource.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GdFlResource свойство. Получает или задает масштаб"
 type: docs
-weight: 150
+weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Scale property
 
 Получает или задает масштаб.
 
 ```csharp
-public int Scale { get; set; }
+public double Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Масштаб.
 
@@ -24,10 +25,10 @@ public int Scale { get; set; }
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Масштаб должен быть в диапазоне от 1 до 1000. |
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

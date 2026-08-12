@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResource свойство. Получает или задает плотность.
+title: "PhflResource.Density"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResource. Получает или задает плотность"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 Получает или задает плотность.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/densi
 public int Density { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Плотность.
 
-### Смотрите также
+### См. также
 
 * class [PhflResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.ActionDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceEvent свойство. Получает или задает дату действия.
+title: "ResourceEvent.ActionDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceEvent. Получает или задает дату действия"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.ActionDate property
 
 Получает или задает дату действия.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate
 public DateTime ActionDate { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Дата действия.
 
-### Смотрите также
+### См. также
 
 * class [ResourceEvent](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

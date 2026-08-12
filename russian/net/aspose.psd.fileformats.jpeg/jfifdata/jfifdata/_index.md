@@ -1,23 +1,24 @@
 ---
-title: JFIFData.JFIFData
-second_title: Справочник по Aspose.PSD для .NET API
-description: JFIFData строитель. Инициализирует новый экземплярJFIFData класс.
+title: "JFIFData.JFIFData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор JFIFData. Инициализирует новый экземпляр класса JFIFData"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-Инициализирует новый экземпляр[`JFIFData`](../) класс.
+Инициализирует новый экземпляр класса [`JFIFData`](../).
 
 ```csharp
 public JFIFData()
 ```
 
-### Смотрите также
+### См. также
 
 * class [JFIFData](../)
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

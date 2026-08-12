@@ -1,14 +1,15 @@
 ---
-title: IImageCreator.Create
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageCreator метод. Создает новый экземпляр образа сimageOptions .
+title: "IImageCreator.Create"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageCreator. Создаёт новый экземпляр изображения с imageOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-Создает новый экземпляр образа с*imageOptions* .
+Создаёт новый экземпляр изображения с *imageOptions*.
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
@@ -17,22 +18,22 @@ public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока, в котором создаются данные изображения. |
-| imageOptions | ImageOptionsBase | Варианты изображения. |
+| streamContainer | StreamContainer | Контейнер потока, в котором будет создано изображение. |
+| imageOptions | ImageOptionsBase | Параметры изображения. |
 | width | Int32 | ширина нового изображения |
 | height | Int32 | высота нового изображения |
 
 ### Возвращаемое значение
 
-Новый экземпляр образа.
+Новый экземпляр изображения.
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* пространство имен [Aspose.PSD](../../iimagecreator/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

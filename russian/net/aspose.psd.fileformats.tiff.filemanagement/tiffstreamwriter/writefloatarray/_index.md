@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteFloatArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток массив значений с плавающей запятой.
+title: "TiffStreamWriter.WriteFloatArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamWriter. Записывает массив значений с плавающей точкой в поток"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloatArray method
 
-Записывает в поток массив значений с плавающей запятой.
+Записывает массив значений float в поток.
 
 ```csharp
 public void WriteFloatArray(float[] data)
@@ -16,12 +17,12 @@ public void WriteFloatArray(float[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Single[] | Массив для записи. |
+| данные | Single[] | Массив для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

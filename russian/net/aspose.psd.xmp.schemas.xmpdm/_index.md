@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpDm
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит вспомогательные классы константы и методы связанные с XMP используемые группой динамических носителей Adobe.
+title: "Aspose.PSD.Xmp.Schemas.XmpDm"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит вспомогательные классы, константы и методы, связанные с XMP, используемые группой динамических медиа Adobe"
 type: docs
-weight: 570
+weight: 610
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/
 ---
-Пространство имен содержит вспомогательные классы, константы и методы, связанные с XMP, используемые группой динамических носителей Adobe.
+{{< psd/tize >}}
+Пространство имен содержит вспомогательные классы, константы и методы, связанные с XMP, используемые группой Adobe Dynamic Media.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [AudioChannelType](./audiochanneltype/) | Представляет тип аудиоканала. |
-| [AudioSampleType](./audiosampletype/) | Представляет тип семпла аудио в[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
-| [ProjectLink](./projectlink/) | Представляет путь к проекту. |
-| [Time](./time/) | Представление значения времени в секундах. |
-| [Timecode](./timecode/) | Представляет значение временного кода в видео. |
-| [TimeFormat](./timeformat/) | Представляет формат времени в[`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) . |
+| [AudioSampleType](./audiosampletype/) | Представляет тип аудиосэмпла в [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
+| [ProjectLink](./projectlink/) | Представляет путь проекта. |
+| [Time](./time/) | Представление временного значения в секундах. |
+| [Timecode](./timecode/) | Представляет значение таймкода в видео. |
+| [TimeFormat](./timeformat/) | Представляет формат времени в [`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/). |
 | [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | Представляет пространство имен XMP Dynamic Media. |
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [ProjectType](./projecttype/) | Представляет тип проекта в[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [ProjectType](./projecttype/) | Представляет тип проекта в [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary метод. Копирует элементы ICollection к Array  начиная с определенного Array индекс.
+title: "NonGenericDictionary.CopyTo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericDictionary. Копирует элементы ICollection в Array, начиная с определённого индекса Array"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/nongenericdictionary/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.CopyTo method
 
-Копирует элементы ICollection к Array , начиная с определенного Array индекс.
+Копирует элементы ICollection в массив, начиная с определённого индекса массива.
 
 ```csharp
 public void CopyTo(Array array, int index)
@@ -16,13 +17,13 @@ public void CopyTo(Array array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Array | Одномерное Array это место назначения элементов, скопированных из ICollection . Array должны иметь индексацию с отсчетом от нуля. |
-| index | Int32 | Индекс с отсчетом от нуля в *array* при котором начинается копирование. |
+| array | Array | Одномерный Array, который является получателем элементов, скопированных из ICollection. Array должен иметь нулевую индексацию. |
+| index | Int32 | Нулевой индекс в *array*, с которого начинается копирование. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

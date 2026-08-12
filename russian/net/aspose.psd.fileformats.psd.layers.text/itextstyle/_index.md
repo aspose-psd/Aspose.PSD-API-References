@@ -1,11 +1,12 @@
 ---
-title: Interface ITextStyle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle интерфейс. Интерфейс для работы со стилем текста
+title: "Интерфейс ITextStyle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle. Интерфейс для работы со стилем текста"
 type: docs
-weight: 3540
+weight: 3960
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
 Интерфейс для работы со стилем текста
@@ -14,37 +15,37 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 public interface ITextStyle
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Получает или задает автоматический кернинг. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Получает или задает значение, указывающее, используется ли [автоматический интерлиньяж]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Базовый сдвиг. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Контекстные альтернативы, используемые для соединения букв вместе. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Дискреционные лигатуры, используемые для соединения букв, особенно в рукописных шрифтах. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Получает или устанавливает, что искусственный полужирный шрифт включен. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Получает или устанавливает, что искусственный полужирный шрифт включен. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Получает или задает автоматическое кернинг. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Получает или задает значение, указывающее, включено ли [automatic leading]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Смещение базовой линии. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Контекстные альтернативы, используемые для соединения букв. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Дискретные лигатуры, используемые для соединения букв, особенно в курсивных шрифтах. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Получает или задает включение имитации полужирного начертания. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Получает или задает включение имитации полужирного начертания. |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Получает или задает цвет заливки. |
 | [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Базовая линия шрифта. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Заглавные буквы шрифта. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Верхний регистр шрифта. |
 | [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Получает индекс шрифта. |
 | [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Получает или задает имя шрифта. |
 | [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Получает или задает размер шрифта. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Символы дробей можно заменить специальным глифом. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Получает или задает значение, указывающее, являются ли [числа на хинди]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Масштаб по горизонтали. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Получает или задает стандартное вертикальное выравнивание римлянином. На основе значения ресурса BaselineDirection применяется только в том случае, еслиVertical . |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Символы дробей могут быть заменены специальным глифом. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Получает или задает значение, указывающее, включены ли [hindi numbers]. |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Горизонтальный масштаб. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Получает или задает стандартное вертикальное римское выравнивание. Это, основанное на значении ресурса BaselineDirection, применяется только при вертикальной ориентации текста. |
 | [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Получает или задает кернинг. |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Получает индекс языка. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Получает или устанавливает начальный. |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Получает или устанавливает неразрывное значение. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Получает или задает межстрочный интервал. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Получает или задает значение без разрыва. |
 | [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Стандартные контекстные лигатуры, используемые для соединения букв. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Получает или задает значение, указывающее, будет ли [перечеркнуто]. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Получает или задает значение, указывающее, включено ли [strikethrough]. |
 | [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Получает или задает цвет обводки. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Получает или задает отслеживание. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Получает или задает значение, указывающее, является ли [подчеркивание]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Вертикальный масштаб. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Получает или задает трекинг. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Получает или задает значение, указывающее, является ли [underline]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Вертикальная шкала. |
 
 ## Методы
 
@@ -53,15 +54,15 @@ public interface ITextStyle
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Применяет указанный стиль. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Определяет, равен ли указанный стиль. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно визуализировать разные стили в одном текстовом слое в Aspose.PSD.
+Следующий пример демонстрирует, как можно отрисовать разные стили в одном текстовом слое в Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // редактируем стиль текста "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // редактируем стиль текста "2\r"
-    newPortions[2].Style.FauxBold = true; // редактируем стиль текста "Жирный"
-    newPortions[3].Style.FauxItalic = true; // редактируем стиль текста "Курсив\r"
-    newPortions[3].Style.BaselineShift = -25; // редактируем стиль текста "Курсив\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // редактируем стиль текста "Текст нижнего регистра"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Следующий код демонстрирует, как получить размер шрифта для любой текстовой части в текстовом слое.
+В следующем коде показано, как получить размер шрифта для любой части текста в текстовом слое.
 
 ```csharp
 [C#]
 
-// Извлечен неправильный размер шрифта 
+// Получен неправильный размер шрифта 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -120,7 +121,7 @@ using (var image = Image.Load(filePath))
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Проверяем базовый размер шрифта
+    // Проверка базового размера шрифта
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
@@ -132,7 +133,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // Новый API (Один текстовый слой может содержать любое количество размеров шрифта)
+    // Новый API (один слой текста может содержать любое количество размеров шрифтов)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
@@ -143,7 +144,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Проверка реального размера шрифта порции
+    // Проверка размера шрифта реальной части
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-В следующем примере кода показано редактирование текстовых частей и стиля их текста.
+В следующем примере кода демонстрируется редактирование частей текста и их стиля.
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка текста каждой порции
+            // Проверка текста каждой части
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -183,8 +184,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка данных абзаца
-            // Абзацы имеют разное обоснование
+            // Проверка данных абзацев
+            // Абзацы имеют разное выравнивание
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -274,7 +275,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Пример добавления новой текстовой части
+            // Пример добавления новой части текста
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -282,17 +283,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Пример редактирования абзаца и стиля для частей
-            // Установить правильное выравнивание
+            // Установить выравнивание по правому краю
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Разные цвета для каждого стиля. Будет изменено, но рендеринг поддерживается не полностью
+            // Разные цвета для каждого стиля. Они будут изменены, но рендеринг полностью не поддерживается
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Другой шрифт. Будет изменено, но рендеринг поддерживается не полностью
+            // Разный шрифт. Он будет изменён, но рендеринг полностью не поддерживается
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSLongArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток массив целочисленных значений.
+title: "TiffStreamWriter.WriteSLongArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamWriter. Записывает массив целочисленных значений в поток"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSLongArray method
 
-Записывает в поток массив целочисленных значений.
+Записывает массив целочисленных значений в поток.
 
 ```csharp
 public void WriteSLongArray(int[] data)
@@ -16,12 +17,12 @@ public void WriteSLongArray(int[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Int32[] | Массив для записи. |
+| данные | Int32[] | Массив для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

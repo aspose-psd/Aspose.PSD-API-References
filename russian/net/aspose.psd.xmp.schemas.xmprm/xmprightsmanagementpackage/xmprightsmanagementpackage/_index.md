@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.XmpRightsManagementPackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRightsManagementPackage строитель. Конструктор по умолчанию.
+title: "XmpRightsManagementPackage.XmpRightsManagementPackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpRightsManagementPackage. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/xmprightsmanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/xmprightsma
 public XmpRightsManagementPackage()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpRightsManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

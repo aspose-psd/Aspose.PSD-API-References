@@ -1,14 +1,15 @@
 ---
-title: PathStructure.PathStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathStructure строитель. Инициализирует новый экземплярPathStructure класс.
+title: "PathStructure.PathStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PathStructure. Инициализирует новый экземпляр класса PathStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure constructor
 
-Инициализирует новый экземпляр[`PathStructure`](../) класс.
+Инициализирует новый экземпляр класса [`PathStructure`](../).
 
 ```csharp
 public PathStructure(ClassID keyName)
@@ -16,9 +17,9 @@ public PathStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует возможность загрузки файла со структурой PathStructure.
 
@@ -34,11 +35,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

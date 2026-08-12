@@ -1,55 +1,56 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource интерфейс. Определяет интерфейс IPlacedLayerResource который содержит информацию о размещенном слое в файле PSD. Is  это интерфейс разметки используемый для обозначения ресурсов PlLd Sold и Sole в изображениях Adobe Photoshop. Is используется для поддержки слоев смартобъектов в изображения Adobe Photoshop.
+title: "Интерфейс IPlacedLayerResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource интерфейс. Определяет интерфейс IPlacedLayerResource, который содержит информацию о размещённом слое в файле PSD. Это разметочный интерфейс, используемый для обозначения ресурсов PlLd Sold и Sole в изображениях Adobe Photoshop. Он используется для поддержки слоёв смарт‑объектов в изображениях Adobe Photoshop."
 type: docs
-weight: 2530
+weight: 2820
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-Определяет интерфейс IPlacedLayerResource, который содержит информацию о размещенном слое в файле PSD. Is — это интерфейс разметки, используемый для обозначения ресурсов PlLd, Sold и Sole в изображениях Adobe® Photoshop®. Is используется для поддержки слоев смарт-объектов в изображения Adobe® Photoshop®.
+Определяет интерфейс IPlacedLayerResource, который содержит информацию о размещённом слое в файле PSD. Это разметочный интерфейс, используемый для обозначения ресурсов PlLd, Sold и Sole в изображениях Adobe® Photoshop®. Используется для поддержки слоёв умных объектов в изображениях Adobe® Photoshop®.
 
 ```csharp
 public interface IPlacedLayerResource
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Получает или задает политику сглаживания для размещенного слоя в изображении PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Получает или задает положение нижнего слоя размещенного слоя в изображении PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Получает или задает границы размещенного слоя в файле PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Получает или задает политику сглаживания размещённого слоя в изображении PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Получает или задает положение снизу размещённого слоя в изображении PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Получает или задает границы размещённого слоя в файле PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещённого слоя в файле PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Получает или задает единицу измерения горизонтальных точек сетки. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Получает или задает значение, указывающее, является ли этот стиль деформации экземпляра пользовательским. Если true, он содержит точки сетки. Если установлено значение false, стираются точки сетки. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Получает или устанавливает элементы деформации. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Получает или задает левое расположение размещенного слоя в PSD-файле. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Получает или задает номер страницы размещенного слоя в файле PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Получает или задает значение перспективы размещенного слоя в файле PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Получает или задает другое значение перспективы размещенного слоя в файле PSD. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Получает или задает тип размещенного слоя в файле PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Получает или задает правильное расположение размещенного слоя в файле PSD. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Получает или задает верхнюю позицию размещенного слоя в изображении PSD. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Получает или задает общее количество страниц размещенного слоя в файле PSD. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Получает или задает матрицу преобразования размещенного слоя в файле PSD. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Получает или задает глобальный уникальный идентификатор слоя или смарт-объекта, размещенного в изображении PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Получает или задает значение порядка U размещенного слоя в PSD-файле. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Получает или задает значение деформации размещенного слоя в изображении PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Получает версию размещенного слоя в файле PSD, обычно 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Получает или задает единицу измерения точек вертикальной сетки. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Получает или задает значение V порядка размещенного слоя в файле PSD. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Получает или задает значение, указывающее, является ли стиль деформации этого экземпляра пользовательским. Если true, содержит точки сетки. Если false, удаляет точки сетки. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Получает или задает элементы деформации. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Получает или задает положение слева размещённого слоя в файле PSD. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Получает или задает номер страницы размещённого слоя в файле PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Получает или задает значение перспективы размещённого слоя в файле PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Получает или задает другое значение перспективы размещённого слоя в файле PSD. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Получает или задает тип размещённого слоя в файле PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Получает или задает положение справа размещённого слоя в файле PSD. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Получает или задает верхнее положение размещённого слоя в изображении PSD. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Получает или задает общее количество страниц размещённого слоя в файле PSD. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Получает или задает матрицу преобразования размещённого слоя в файле PSD. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Получает или задаёт глобальный уникальный идентификатор размещённого слоя смарт‑объекта в изображении PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Получает или задает значение порядка U размещённого слоя в файле PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Получает или задает значение искажения размещённого слоя в изображении PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Получает версию размещённого слоя в файле PSD, обычно 3‑5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещённого слоя в файле PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Получает или задает единицу измерения вертикальных точек сетки. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Получает или задает значение порядка V размещённого слоя в файле PSD. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса SoLdResource.
 
 ```csharp
 [C#]
 
-// В этом примере показано, как получить или установить свойства данных слоя смарт-объекта файла PSD.
+// Этот пример показывает, как получить или установить свойства данных слоя смарт‑объекта файла PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Эти значения также должны быть изменены в PlLdResource (с указанным UniqueId)
-                // и некоторые из них должны соответствовать подчеркиванию смарт-объекта в LinkDataSource
+                // Эти значения также следует изменить в PlLdResource (с указанным UniqueId)
+                // и некоторые из них должны соответствовать подлежащему смарт‑объекту в LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,19 +330,20 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Этот уникальный идентификатор должен быть изменен в ссылках, если таковые имеются
+                // Этот уникальный Id следует изменить в ссылках, если они есть
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым для Adobe® Photoshop®
+                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым в Adobe® Photoshop®
                 ////resource.UOrder = 6;
-                ////ресурс.VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-                // или изменить подчеркивающий смарт-объект на векторный тип
+                // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+                // или измените подлежащий смарт‑объект на векторный тип
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Должен быть действительный PlLdResource с этим уникальным идентификатором
-                ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Должен существовать действительный PlLdResource с этим уникальным Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -353,9 +355,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

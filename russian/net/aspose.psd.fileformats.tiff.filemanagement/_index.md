@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит классы обработки потока файлов формата Tiff.
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит классы обработки потоков формата файлов Tiff."
 type: docs
-weight: 390
+weight: 430
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-Пространство имен содержит классы обработки потока файлов формата Tiff.
+{{< psd/tize >}}
+Пространство имён содержит классы обработки потоков формата файлов TIFF.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | Поток tiff для обработки файлов формата tiff с прямым порядком байтов. |
-| [TiffStreamWriter](./tiffstreamwriter/) | Потоковое устройство записи Tiff. |
+| [TiffStreamReader](./tiffstreamreader/) | Поток tiff для обработки формата файлов tiff с little endian. |
+| [TiffStreamWriter](./tiffstreamwriter/) | Записыватель потока Tiff. |
 
 

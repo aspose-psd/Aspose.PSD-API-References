@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YResolution
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает разрешение по оси y.
+title: "JpegExifData.YResolution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает разрешение по оси y"
 type: docs
 weight: 260
 url: /ru/net/aspose.psd.exif/jpegexifdata/yresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YResolution property
 
-Получает или задает разрешение по оси y.
+Получает или задает разрешение по оси Y.
 
 ```csharp
 public TiffRational YResolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разрешение по оси Y.
+Разрешение по оси y.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

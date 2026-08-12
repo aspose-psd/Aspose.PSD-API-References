@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: LengthRecord свойство. Получает или задает индекс формы текущего пути в слое.
+title: "LengthRecord.ShapeIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LengthRecord. Возвращает или задает индекс текущей формы пути в слое"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-Получает или задает индекс формы текущего пути в слое.
+Получает или задает индекс текущей формы пути в слое.
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка новых свойств LengthRecord, PathOperations (логические операции), ShapeIndex и BezierKnotRecordsCount.
+Следующий пример кода демонстрирует поддержку новых свойств LengthRecord, PathOperations (булевые операции), ShapeIndex и BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Здесь мы меняем способ объединения фигур.
+    // Здесь мы меняем способ комбинирования между формами.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,10 +50,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LengthRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

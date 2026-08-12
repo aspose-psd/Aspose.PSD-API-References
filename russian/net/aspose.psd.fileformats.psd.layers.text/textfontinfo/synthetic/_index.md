@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Synthetic
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextFontInfo свойство. Получает значение указывающее является ли этоFontInformation синтетический.
+title: "TextFontInfo.Synthetic"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextFontInfo. Возвращает значение, указывающее, является ли эта информация о шрифте синтетической"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Synthetic property
 
-Получает значение, указывающее, является ли этоFontInformation синтетический.
+Получает значение, указывающее, является ли эта FontInformation синтетической.
 
 ```csharp
 public bool Synthetic { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если синтетический; в противном случае,`ЛОЖЬ` .
+`true` если синтетический; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [TextFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.FillOpacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает непрозрачность заливки.
+title: "Layer.FillOpacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задаёт непрозрачность заливки"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
+{{< psd/tize >}}
 ## Layer.FillOpacity property
 
 Получает или задает непрозрачность заливки.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 public int FillOpacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность заливки в диапазоне от 0 до 100
 
@@ -24,10 +25,10 @@ public int FillOpacity { get; set; }
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Непрозрачность заливки может быть только в диапазоне от 0 до 100 |
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

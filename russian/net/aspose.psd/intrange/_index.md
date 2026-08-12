@@ -1,14 +1,15 @@
 ---
-title: Class IntRange
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IntRange сорт. Класс для представления последовательности элементов
+title: "Класс IntRange"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.IntRange. Класс для представления последовательности элементов"
 type: docs
-weight: 5010
+weight: 5500
 url: /ru/net/aspose.psd/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange class
 
-Класс для представления последовательности элементов
+Класс для представления последовательности элементов.
 
 ```csharp
 public class IntRange
@@ -18,11 +19,11 @@ public class IntRange
 
 | Имя | Описание |
 | --- | --- |
-| [IntRange](intrange/#constructor_2)(int[]) | Инициализирует новый экземпляр`IntRange` класс. |
-| [IntRange](intrange/#constructor)(int, int) | Инициализирует новый экземпляр`IntRange` класс. |
-| [IntRange](intrange/#constructor_1)(int, int, int) | Инициализирует новый экземпляр`IntRange` класс. |
+| [IntRange](intrange/#constructor_2)(int[]) | Инициализирует новый экземпляр класса `IntRange`. |
+| [IntRange](intrange/#constructor)(int, int) | Инициализирует новый экземпляр класса `IntRange`. |
+| [IntRange](intrange/#constructor_1)(int, int, int) | Инициализирует новый экземпляр класса `IntRange`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -32,12 +33,12 @@ public class IntRange
 
 | Имя | Описание |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Возвращает один массив элементов из указанного index |
-| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Получает диапазон количества элементов int, начиная с start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Возвращает массив из одного элемента по указанному индексу |
+| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Получает диапазон количества int‑элементов, начиная с start |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

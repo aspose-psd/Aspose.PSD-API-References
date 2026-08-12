@@ -1,11 +1,12 @@
 ---
-title: AiHeader.ColorUsage
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задает использование цвета.
+title: "AiHeader.ColorUsage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает использование цвета"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/colorusage/
 ---
+{{< psd/tize >}}
 ## AiHeader.ColorUsage property
 
 Получает или задает использование цвета.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/aiheader/colorusage/
 public string ColorUsage { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Использование цвета.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

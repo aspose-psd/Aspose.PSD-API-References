@@ -1,11 +1,12 @@
 ---
-title: LclrResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: LclrResource свойство. Получает версию psd.
+title: "LclrResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LclrResource. Возвращает версию psd"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LclrResource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LclrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

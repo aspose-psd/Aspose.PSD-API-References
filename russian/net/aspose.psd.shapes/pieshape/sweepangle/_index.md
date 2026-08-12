@@ -1,27 +1,28 @@
 ---
-title: PieShape.SweepAngle
-second_title: Справочник по Aspose.PSD для .NET API
-description: PieShape свойство. Получает или задает угол развертки.
+title: "PieShape.SweepAngle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PieShape. Возвращает или задает угол охвата"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
-Получает или задает угол развертки.
+Получает или задает угол охвата.
 
 ```csharp
 public float SweepAngle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Угол развертки.
+Угол охвата.
 
-### Смотрите также
+### См. также
 
 * class [PieShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../pieshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

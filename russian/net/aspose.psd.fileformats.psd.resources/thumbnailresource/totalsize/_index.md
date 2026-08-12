@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.TotalSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает общий размер данных.
+title: "ThumbnailResource.TotalSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Возвращает общий размер данных"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.TotalSize property
 
 Получает общий размер данных.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/
 public int TotalSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Общий размер данных.
 
-### Смотрите также
+### См. также
 
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

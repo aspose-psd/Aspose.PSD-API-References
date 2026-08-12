@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.PatternId
-second_title: Справочник по Aspose.PSD для .NET API
-description: PtFlResource свойство. Получает или задает идентификатор шаблона.
+title: "PtFlResource.PatternId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PtFlResource. Получает или задает идентификатор шаблона"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PatternId property
 
 Получает или задает идентификатор шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patte
 public string PatternId { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор шаблона.
 
-### Смотрите также
+### См. также
 
 * class [PtFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

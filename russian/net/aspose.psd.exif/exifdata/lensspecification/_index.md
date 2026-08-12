@@ -1,28 +1,29 @@
 ---
-title: ExifData.LensSpecification
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает спецификацию объектива
+title: "ExifData.LensSpecification"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает спецификацию объектива"
 type: docs
 weight: 760
 url: /ru/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
-Получает или задает спецификацию объектива
+Получает или задает спецификацию объектива.
 
 ```csharp
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Спецификация объектива.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

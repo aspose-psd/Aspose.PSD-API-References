@@ -1,11 +1,12 @@
 ---
-title: Class LyidResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource сорт. Класс LyidResource.
+title: "Класс LyidResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource класс. Класс LyidResource"
 type: docs
-weight: 2810
+weight: 3140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
 Класс LyidResource.
@@ -18,17 +19,17 @@ public class LyidResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | Инициализирует новый экземпляр`LyidResource` class. С пользовательским или неизвестным значением |
-| [LyidResource](lyidresource/#constructor_1)(int) | Инициализирует новый экземпляр`LyidResource` класс. |
+| [LyidResource](lyidresource/#constructor)(byte[]) | Инициализирует новый экземпляр класса `LyidResource`. С пользовательским или неизвестным значением |
+| [LyidResource](lyidresource/#constructor_1)(int) | Инициализирует новый экземпляр класса `LyidResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Получает значение. |
 
 ## Методы
@@ -36,18 +37,18 @@ public class LyidResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Сохраняет в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

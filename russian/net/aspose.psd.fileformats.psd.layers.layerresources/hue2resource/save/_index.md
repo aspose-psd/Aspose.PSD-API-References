@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: Hue2Resource метод. Сохраняет ресурс в указанный контейнер потока.
+title: "Hue2Resource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Hue2Resource. Сохраняет ресурс в указанный контейнер потока"
 type: docs
-weight: 110
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Save method
 
 Сохраняет ресурс в указанный контейнер потока.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Hue2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

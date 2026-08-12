@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Считать одно двойное значение из потока.
+title: "TiffStreamReader.ReadDouble"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamReader. Считать одно значение double из потока"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-Считать одно двойное значение из потока.
+Считывает одно двойное значение из потока.
 
 ```csharp
 public double ReadDouble(long position)
@@ -16,16 +17,16 @@ public double ReadDouble(long position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
+| позиция | Int64 | Позиция, из которой читать. |
 
 ### Возвращаемое значение
 
-Одно двойное значение.
+Одно значение double.
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

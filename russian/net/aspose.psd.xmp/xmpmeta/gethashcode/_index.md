@@ -1,14 +1,15 @@
 ---
-title: XmpMeta.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMeta метод. Возвращает хэшкод для этого экземпляра.
+title: "XmpMeta.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpMeta. Возвращает хеш-код для этого экземпляра"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/xmpmeta/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpMeta.GetHashCode method
 
-Возвращает хэш-код для этого экземпляра.
+Возвращает хеш‑код для этого экземпляра.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хэш-таблица.
+Хеш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хеш-таблица.
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

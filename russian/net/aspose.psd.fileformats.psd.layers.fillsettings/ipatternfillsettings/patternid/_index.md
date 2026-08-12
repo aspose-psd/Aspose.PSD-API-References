@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternId
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или задает идентификатор шаблона.
+title: "IPatternFillSettings.PatternId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает или задает идентификатор шаблона"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternId property
 
 Получает или задает идентификатор шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public string PatternId { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор шаблона.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

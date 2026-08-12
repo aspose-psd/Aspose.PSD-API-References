@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToPointF
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF метод. ПреобразуетSizeF кPointF .
+title: "SizeF.ToPointF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SizeF. Преобразует SizeF в PointF"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/sizef/topointf/
 ---
+{{< psd/tize >}}
 ## SizeF.ToPointF method
 
-Преобразует[`SizeF`](../) к[`PointF`](../../pointf/) .
+Преобразует [`SizeF`](../) в [`PointF`](../../pointf/).
 
 ```csharp
 public PointF ToPointF()
@@ -16,13 +17,13 @@ public PointF ToPointF()
 
 ### Возвращаемое значение
 
-Возвращает[`PointF`](../../pointf/) состав.
+Возвращает структуру [`PointF`](../../pointf/).
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

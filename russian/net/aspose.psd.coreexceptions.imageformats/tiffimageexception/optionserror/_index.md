@@ -1,28 +1,29 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffImageException свойство. Получает ошибку параметров TIFF.
+title: "TiffImageException.OptionsError"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffImageException. Получает ошибку параметров tiff"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
-Получает ошибку параметров TIFF.
+Возвращает ошибку параметров tiff.
 
 ```csharp
 public TiffOptionsError OptionsError { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ошибка параметров tiff.
 
-### Смотрите также
+### См. также
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

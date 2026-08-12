@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.Extensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит методы расширения.
+title: "Aspose.PSD.Extensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит методы расширения"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd.extensions/
 ---
-Пространство имен содержит методы расширения.
+{{< psd/tize >}}
+Пространство имён содержит методы расширения.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [BrushExtensions](./brushextensions/) | Содержит методы расширения для[`Brush`](../aspose.psd/brush/) иBrush . |
-| [ColorBlendExtensions](./colorblendextensions/) | Содержит[`ColorBlend`](../aspose.psd/colorblend/) методы расширения. |
-| [ColorExtensions](./colorextensions/) | [`Color`](../aspose.psd/color/) методы расширения. |
-| [ColorMapExtensions](./colormapextensions/) | [`ColorMap`](../aspose.psd/colormap/) методы расширения. |
-| [ColorMatrixExtensions](./colormatrixextensions/) | [`ColorMatrix`](../aspose.psd/colormatrix/) методы расширения. |
-| [FileFormatExtensions](./fileformatextensions/) | Содержит[`FileFormat`](../aspose.psd/fileformat/) методы расширения. |
-| [FontExtensions](./fontextensions/) | Содержит методы расширения для[`Font`](../aspose.psd/font/) класс. |
-| [GraphicsPathExtensions](./graphicspathextensions/) | Содержит[`GraphicsPath`](../aspose.psd/graphicspath/) методы расширения. |
-| [ImageAttributesExtensions](./imageattributesextensions/) | Содержит методы расширения для[`ImageAttributes`](../aspose.psd/imageattributes/) иImageAttributes . |
-| [ImageExtensions](./imageextensions/) | Содержит методы расширения для преобразования на основеImage и[`Image`](../aspose.psd/image/) . |
-| [MatrixExtensions](./matrixextensions/) | Содержит[`Matrix`](../aspose.psd/matrix/) расширения класса. |
-| [PenExtensions](./penextensions/) | Содержит методы расширения для[`Pen`](../aspose.psd/pen/) иPen . |
-| [PointExtensions](./pointextensions/) | Содержит методы расширения для[`Point`](../aspose.psd/point/) и[`PointF`](../aspose.psd/pointf/) структуры. |
-| [RectangleExtensions](./rectangleextensions/) | Содержит методы расширения для[`Rectangle`](../aspose.psd/rectangle/) . |
-| [RegionExtensions](./regionextensions/) | Содержит методы расширения для[`Region`](../aspose.psd/region/) класс. |
-| [RotateFlipExtensions](./rotateflipextensions/) | Содержит методы расширения для преобразованияRotateFlipType и[`RotateFlipType`](../aspose.psd/rotatefliptype/) классы. |
-| [StringFormatExtensions](./stringformatextensions/) | Содержит методы расширения для[`StringFormat`](../aspose.psd/stringformat/) класс. |
+| [BrushExtensions](./brushextensions/) | Содержит методы расширения для [`Brush`](../aspose.psd/brush/) и Brush. |
+| [ColorBlendExtensions](./colorblendextensions/) | Содержит методы расширения [`ColorBlend`](../aspose.psd/colorblend/). |
+| [ColorExtensions](./colorextensions/) | Методы расширения [`Color`](../aspose.psd/color/). |
+| [ColorMapExtensions](./colormapextensions/) | Методы расширения [`ColorMap`](../aspose.psd/colormap/). |
+| [ColorMatrixExtensions](./colormatrixextensions/) | Методы расширения [`ColorMatrix`](../aspose.psd/colormatrix/). |
+| [FileFormatExtensions](./fileformatextensions/) | Содержит методы расширения [`FileFormat`](../aspose.psd/fileformat/). |
+| [FontExtensions](./fontextensions/) | Содержит методы расширения для класса [`Font`](../aspose.psd/font/). |
+| [GraphicsPathExtensions](./graphicspathextensions/) | Содержит методы расширения [`GraphicsPath`](../aspose.psd/graphicspath/). |
+| [ImageAttributesExtensions](./imageattributesextensions/) | Содержит методы расширения для [`ImageAttributes`](../aspose.psd/imageattributes/) и ImageAttributes. |
+| [ImageExtensions](./imageextensions/) | Содержит методы расширения для преобразований на основе Image и Image. |
+| [MatrixExtensions](./matrixextensions/) | Содержит расширения класса [`Matrix`](../aspose.psd/matrix/). |
+| [PenExtensions](./penextensions/) | Содержит методы расширения для [`Pen`](../aspose.psd/pen/) и Pen. |
+| [PointExtensions](./pointextensions/) | Содержит методы расширения для структур [`Point`](../aspose.psd/point/) и [`PointF`](../aspose.psd/pointf/). |
+| [RectangleExtensions](./rectangleextensions/) | Содержит методы расширения для [`Rectangle`](../aspose.psd/rectangle/). |
+| [RegionExtensions](./regionextensions/) | Содержит методы расширения для класса [`Region`](../aspose.psd/region/). |
+| [RotateFlipExtensions](./rotateflipextensions/) | Содержит методы расширения для преобразования RotateFlipType и классов [`RotateFlipType`](../aspose.psd/rotatefliptype/). |
+| [StringFormatExtensions](./stringformatextensions/) | Содержит методы расширения для класса [`StringFormat`](../aspose.psd/stringformat/). |
 
 

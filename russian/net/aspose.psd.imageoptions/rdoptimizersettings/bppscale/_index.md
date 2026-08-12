@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Справочник по Aspose.PSD для .NET API
-description: RdOptimizerSettings свойство. Получает или задает коэффициент масштабирования BPP бит на пиксель.
+title: "RdOptimizerSettings.BppScale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RdOptimizerSettings свойство. Получает или задает коэффициент масштабирования BPP (битов на пиксель)"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
 Получает или задает коэффициент масштабирования BPP (бит на пиксель).
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 public int BppScale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Шкала BPP.
+Масштаб BPP.
 
-### Смотрите также
+### См. также
 
 * class [RdOptimizerSettings](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

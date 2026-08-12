@@ -1,11 +1,12 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Справочник по Aspose.PSD для .NET API
-description: TransparencySupporter строитель. Конструктор по умолчанию.
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TransparencySupporter. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/transparencysupporter/transparencysupporter/
 public TransparencySupporter()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TransparencySupporter](../)
-* пространство имен [Aspose.PSD](../../transparencysupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

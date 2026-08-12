@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetClient
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает клиент.
+title: "XmpDynamicMediaPackage.SetClient"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает клиент"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setclient/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetClient method
 
 Устанавливает клиент.
@@ -18,10 +19,10 @@ public void SetClient(string client)
 | --- | --- | --- |
 | client | String | Клиент. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

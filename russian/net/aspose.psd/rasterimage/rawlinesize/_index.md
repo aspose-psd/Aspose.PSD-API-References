@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает исходный размер строки в байтах.
+title: "RasterImage.RawLineSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Возвращает необработанный размер строки в байтах"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-Получает исходный размер строки в байтах.
+Получает размер необработанной строки в байтах.
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Необработанный размер строки в байтах.
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

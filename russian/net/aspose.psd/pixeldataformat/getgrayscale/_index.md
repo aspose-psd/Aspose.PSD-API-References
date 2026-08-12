@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetGrayscale
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat метод. Получает цвет в градациях серого с указанным количеством битов на выборку.
+title: "PixelDataFormat.GetGrayscale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat method. Возвращает цвет Grayscale с указанным числом битов на образец"
 type: docs
 weight: 230
 url: /ru/net/aspose.psd/pixeldataformat/getgrayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetGrayscale method
 
-Получает цвет в градациях серого с указанным количеством битов на выборку.
+Возвращает цвет Grayscale с указанным количеством бит на образец.
 
 ```csharp
 public static PixelDataFormat GetGrayscale(int bitsPerSample)
@@ -16,16 +17,16 @@ public static PixelDataFormat GetGrayscale(int bitsPerSample)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Количество битов на выборку. |
+| bitsPerSample | Int32 | Количество битов на образец. |
 
 ### Возвращаемое значение
 
-Цвет шкалы серого.
+Цвет Grayscale.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.RightBottom
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape свойство. Получает правую нижнюю точку прямоугольника.
+title: "RectangleProjectedShape.RightBottom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleProjectedShape свойство. Получает точку правого нижнего угла прямоугольника"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/rightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RightBottom property
 
-Получает правую нижнюю точку прямоугольника.
+Получает точку правого нижнего угла прямоугольника.
 
 ```csharp
 public PointF RightBottom { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правая нижняя точка прямоугольника.
+Точка правого нижнего угла прямоугольника.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

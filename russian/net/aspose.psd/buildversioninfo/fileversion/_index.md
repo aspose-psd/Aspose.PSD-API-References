@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: BuildVersionInfo поле. Версия файла.
+title: "BuildVersionInfo.FileVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле BuildVersionInfo. Версия файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/buildversioninfo/fileversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.FileVersion field
 
 Версия файла.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/buildversioninfo/fileversion/
 public static readonly string FileVersion;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BuildVersionInfo](../)
-* пространство имен [Aspose.PSD](../../buildversioninfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

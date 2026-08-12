@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructuresRegistry свойство. Получает зарегистрированные дескрипторы.
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OSTypeStructuresRegistry. Возвращает зарегистрированные дескрипторы"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
 Получает зарегистрированные дескрипторы.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresre
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зарегистрированные дескрипторы.
 
-### Смотрите также
+### См. также
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

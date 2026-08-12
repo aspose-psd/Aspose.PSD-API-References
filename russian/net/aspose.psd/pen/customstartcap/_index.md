@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задает пользовательскую заглушку для использования в начале строк нарисованных с помощью этогоPen .
+title: "Pen.CustomStartCap"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задаёт пользовательскую заглушку, используемую в начале линий, рисуемых этим Pen."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-Получает или задает пользовательскую заглушку для использования в начале строк, нарисованных с помощью этого[`Pen`](../) .
+Получает или задаёт пользовательскую заглушку, используемую в начале линий, рисуемых этим [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`CustomLineCap`](../../customlinecap/) который представляет собой колпачок, используемый в начале линий, нарисованных с помощью этого[`Pen`](../).
+Объект [`CustomLineCap`](../../customlinecap/), представляющий заглушку, используемую в начале линий, рисуемых этим [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `CustomStartCap` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `CustomStartCap` устанавливается для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

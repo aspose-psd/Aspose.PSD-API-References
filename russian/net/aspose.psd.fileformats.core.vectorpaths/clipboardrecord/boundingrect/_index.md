@@ -1,28 +1,29 @@
 ---
-title: ClipboardRecord.BoundingRect
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClipboardRecord свойство. Получает или задает ограничивающий прямоугольник.
+title: "ClipboardRecord.BoundingRect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ClipboardRecord свойство. Получает или задает ограничивающий прямоугольник"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.BoundingRect property
 
-Получает или задает ограничивающий прямоугольник.
+Получает или задаёт ограничивающий прямоугольник.
 
 ```csharp
 public RectangleF BoundingRect { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ограничивающий прямоугольник.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ClipboardRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

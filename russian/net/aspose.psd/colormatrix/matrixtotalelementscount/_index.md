@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixTotalElementsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMatrix поле. Общее количество элементов в матрице.
+title: "ColorMatrix.MatrixTotalElementsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ColorMatrix. Общее количество элементов в матрице"
 type: docs
 weight: 310
 url: /ru/net/aspose.psd/colormatrix/matrixtotalelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixTotalElementsCount field
 
 Общее количество элементов в матрице.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/colormatrix/matrixtotalelementscount/
 public const int MatrixTotalElementsCount;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../)
-* пространство имен [Aspose.PSD](../../colormatrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

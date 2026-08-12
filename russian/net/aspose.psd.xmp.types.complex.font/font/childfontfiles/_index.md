@@ -1,27 +1,28 @@
 ---
-title: Font.ChildFontFiles
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает массив имен файлов для шрифтов составляющих составной шрифт.
+title: "Font.ChildFontFiles"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Получает или задает массив имен файлов шрифтов, составляющих составной шрифт"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/childfontfiles/
 ---
+{{< psd/tize >}}
 ## Font.ChildFontFiles property
 
-Получает или задает массив имен файлов для шрифтов, составляющих составной шрифт.
+Получает или задаёт массив имён файлов шрифтов, составляющих составной шрифт.
 
 ```csharp
 public string[] ChildFontFiles { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Массив имен файлов для шрифтов, составляющих составной шрифт.
+Массив имен файлов шрифтов, составляющих составной шрифт.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

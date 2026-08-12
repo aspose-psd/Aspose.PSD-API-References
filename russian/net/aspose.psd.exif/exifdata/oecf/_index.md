@@ -1,27 +1,28 @@
 ---
-title: ExifData.OECF
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает функцию оптоэлектрического преобразования OECF указанную в ISO 14524.
+title: "ExifData.OECF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает OptoElectric Conversion Function OECF, указанную в ISO 14524"
 type: docs
 weight: 820
 url: /ru/net/aspose.psd.exif/exifdata/oecf/
 ---
+{{< psd/tize >}}
 ## ExifData.OECF property
 
-Получает или задает функцию оптоэлектрического преобразования (OECF), указанную в ISO 14524.
+Получает или задает опто-электрическую функцию преобразования (OECF), указанную в ISO 14524.
 
 ```csharp
 public byte[] OECF { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Функция оптоэлектрического преобразования (OECF), указанная в ISO 14524.
+Опто-электрическая функция преобразования (OECF), указанная в ISO 14524.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

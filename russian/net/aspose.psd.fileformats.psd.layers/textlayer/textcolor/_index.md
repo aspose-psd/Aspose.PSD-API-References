@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TextColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer свойство. Получает цвет текста.
+title: "TextLayer.TextColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextLayer. Возвращает цвет текста"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
 Получает цвет текста.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 public Color TextColor { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет текста.
 
@@ -22,13 +23,13 @@ public Color TextColor { get; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Ошибка анализа данных цветового компонента |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Ошибка при разборе данных компонента цвета |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

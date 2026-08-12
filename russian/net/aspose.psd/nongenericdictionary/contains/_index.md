@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Contains
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary метод. Определяет является ли IDictionary объект содержит элемент с указанным ключом.
+title: "NonGenericDictionary.Contains"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericDictionary. Определяет, содержит ли объект IDictionary элемент с указанным ключом"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/nongenericdictionary/contains/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Contains method
 
-Определяет, является ли IDictionary объект содержит элемент с указанным ключом.
+Определяет, содержит ли объект IDictionary элемент с указанным ключом.
 
 ```csharp
 public bool Contains(object key)
@@ -16,16 +17,16 @@ public bool Contains(object key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | Object | Ключ найти в IDictionary объект. |
+| ключ | Object | Ключ для поиска в объекте IDictionary. |
 
 ### Возвращаемое значение
 
-верно, если IDictionary содержит элемент с ключом; в противном случае false.
+true, если объект IDictionary содержит элемент с этим ключом; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

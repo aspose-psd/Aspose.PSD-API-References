@@ -1,31 +1,32 @@
 ---
-title: Enum ExifFileSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifFileSource перечисление. источник файла exif enum.
+title: "Перечисление ExifFileSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifFileSource перечисление. exif file source перечисление"
 type: docs
-weight: 850
+weight: 860
 url: /ru/net/aspose.psd.exif.enums/exiffilesource/
 ---
+{{< psd/tize >}}
 ## ExifFileSource enumeration
 
-источник файла exif enum.
+Перечисление источника файла exif.
 
 ```csharp
 public enum ExifFileSource : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Others | `0` | Остальные. |
-| FilmScanner | `1` | Пленочный сканер. |
-| ReflexionPrintScanner | `2` | Сканер печати Reflexion. |
-| DigitalStillCamera | `3` | Цифровой фотоаппарат. |
+| Others | `0` | Другие. |
+| FilmScanner | `1` | Сканер пленки. |
+| ReflexionPrintScanner | `2` | Сканер рефлексных отпечатков. |
+| DigitalStillCamera | `3` | Цифровая фотокамера. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает массив пикселей цвета int.
+title: "AiRasterImageSection.Pixels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает массив целочисленных цветовых пикселей."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-Получает массив пикселей цвета int.
+Получает массив целочисленных цветовых пикселей.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Массив пикселей цвета int.
+Массив целочисленных цветовых пикселей.
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,39 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect сорт. Эффект слоя узора
+title: "Класс PatternOverlayEffect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect. Эффект слоя Pattern."
 type: docs
-weight: 2180
+weight: 2380
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-Эффект слоя узора
+Эффект узора слоя.
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Получает или задает режим наложения. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Получает тип эффекта type |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, виден ли этот экземпляр. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Получает или задает прозрачность. |
-| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Получает или задает параметры. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Получает тип эффекта. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, видим ли этот экземпляр. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Получает или задает непрозрачность. |
+| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Получает или задает настройки. |
 
-### Примеры
+## Методы
 
-Следующий код демонстрирует поддержку эффекта наложения шаблона.
+| Имя | Описание |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Вычисляет и получает границы пикселей эффекта на основе границ пикселей входного слоя. |
+
+## Примеры
+
+Следующий код демонстрирует поддержку эффекта наложения узора.
 
 ```csharp
 [C#]
@@ -141,7 +148,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // Проверяем данные паттерна
+    // Проверьте данные шаблона
     AssertAreEqual(newPattern, resource.Patterns[1].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[1].Width, resource.Patterns[1].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[1].PatternId);
@@ -149,10 +156,10 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ILayerEffect](../ilayereffect/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

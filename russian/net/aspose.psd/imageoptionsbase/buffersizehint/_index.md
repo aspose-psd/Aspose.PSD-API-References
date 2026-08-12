@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.BufferSizeHint
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageOptionsBase свойство. Получает или задает подсказку о размере буфера которая определяет максимально допустимый размер для всех внутренних буферов.
+title: "ImageOptionsBase.BufferSizeHint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageOptionsBase. Получает или задает подсказку размера буфера, определяющую максимальный допустимый размер для всех внутренних буферов"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/imageoptionsbase/buffersizehint/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.BufferSizeHint property
 
-Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов.
+Получает или задает подсказку о размере буфера, определяющую максимальный допустимый размер для всех внутренних буферов.
 
 ```csharp
 public int BufferSizeHint { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Подсказка о размере буфера в мегабайтах. Неположительное значение означает отсутствие ограничения памяти для внутренних буферов
+Подсказка размера буфера в мегабайтах. Неположительное значение означает отсутствие ограничения памяти для внутренних буферов
 
-### Смотрите также
+### См. также
 
 * class [ImageOptionsBase](../)
-* пространство имен [Aspose.PSD](../../imageoptionsbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

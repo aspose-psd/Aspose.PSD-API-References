@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsAntiAliasing
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает или устанавливает включенный эффект сглаживания
+title: "OuterGlowEffect.IsAntiAliasing"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "OuterGlowEffect свойство. Получает или задает включенный эффект AntiAliasing"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsAntiAliasing property
 
-Получает или устанавливает включенный эффект сглаживания
+Получает или задает включенный эффект AntiAliasing.
 
 ```csharp
 public bool IsAntiAliasing { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Расстояние.
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает идентификатор версии GPS.
+title: "ExifData.GPSVersionID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает идентификатор версии GPS"
 type: docs
 weight: 670
 url: /ru/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
 Получает или задает идентификатор версии GPS.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/gpsversionid/
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор версии GPS.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

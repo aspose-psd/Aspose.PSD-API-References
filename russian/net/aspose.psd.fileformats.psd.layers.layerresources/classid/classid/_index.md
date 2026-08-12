@@ -1,14 +1,15 @@
 ---
-title: ClassID.ClassID
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassID строитель. Инициализирует новый экземплярClassID класс.
+title: "ClassID.ClassID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ClassID. Инициализирует новый экземпляр класса ClassID"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-Инициализирует новый экземпляр[`ClassID`](../) класс.
+Инициализирует новый экземпляр класса [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID)
@@ -18,17 +19,17 @@ public ClassID(byte[] classID)
 | --- | --- | --- |
 | classID | Byte[] | Идентификатор класса в виде последовательности байтов. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`ClassID`](../) класс.
+Инициализирует новый экземпляр класса [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
@@ -37,25 +38,25 @@ public ClassID(byte[] classID, bool isZeroLength)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | classID | Byte[] | Идентификатор класса в виде последовательности байтов. |
-| isZeroLength | Boolean | если установлено`истинный` [нулевая длина]. Записанная длина строки равна нулю, но фактическая длина равна четырем. |
+| isZeroLength | Boolean | если установлено `true` [is zero length]. Записанная длина строки равна нулю, но фактическая — четыре. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | идентификатор класса равен нулю. |
+| ArgumentNullException | classID равен null. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-Инициализирует новый экземпляр[`ClassID`](../) класс.
+Инициализирует новый экземпляр класса [`ClassID`](../).
 
 ```csharp
 public ClassID(int classID)
@@ -65,17 +66,17 @@ public ClassID(int classID)
 | --- | --- | --- |
 | classID | Int32 | Идентификатор класса. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-Инициализирует новый экземпляр[`ClassID`](../) класс.
+Инициализирует новый экземпляр класса [`ClassID`](../).
 
 ```csharp
 public ClassID(uint classID)
@@ -85,17 +86,17 @@ public ClassID(uint classID)
 | --- | --- | --- |
 | classID | UInt32 | Идентификатор класса. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-Инициализирует новый экземпляр[`ClassID`](../) класс.
+Инициализирует новый экземпляр класса [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
@@ -104,16 +105,16 @@ public ClassID(string classID, bool isZeroLength)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | classID | String | Идентификатор класса в кодировке ASCII. |
-| isZeroLength | Boolean | если установлено`истинный` [нулевая длина]. |
+| isZeroLength | Boolean | если установлено `true` [is zero length]. |
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует, что слой, импортированный из изображения, преобразуется в слой смарт-объекта, а сохраненный файл PSD является правильным.
+Этот пример демонстрирует, что слой, импортированный из изображения, преобразуется в слой смарт‑объекта, и сохранённый файл PSD корректен.
 
 ```csharp
 [C#]
 
-// Проверяет, что слой, импортированный из изображения, преобразован в слой смарт-объекта, а сохраненный PSD-файл правильный.
+// Тестирует, что слой, импортированный из изображения, преобразуется в слой смарт‑объекта, и сохранённый файл PSD корректен.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,17 +153,17 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-Инициализирует новый экземпляр[`ClassID`](../) класс.
+Инициализирует новый экземпляр класса [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID)
@@ -172,10 +173,10 @@ public ClassID(string classID)
 | --- | --- | --- |
 | classID | String | Идентификатор класса в кодировке ASCII. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

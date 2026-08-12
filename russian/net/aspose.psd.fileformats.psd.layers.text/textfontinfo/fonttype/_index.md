@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.FontType
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextFontInfo свойство. Получает тип шрифта.
+title: "TextFontInfo.FontType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextFontInfo. Возвращает тип шрифта"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
 Получает тип шрифта.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 public int FontType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип шрифта.
 
-### Смотрите также
+### См. также
 
 * class [TextFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

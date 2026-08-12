@@ -1,11 +1,12 @@
 ---
-title: Class StringStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.StringStructure сорт. Строковая структура.
+title: "Класс StringStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.StringStructure. Строковая структура"
 type: docs
-weight: 3260
+weight: 3650
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure class
 
 Строковая структура.
@@ -18,16 +19,16 @@ public sealed class StringStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [StringStructure](stringstructure/#constructor)(ClassID) | Инициализирует новый экземпляр`StringStructure` класс. |
-| [StringStructure](stringstructure/#constructor_1)(ClassID, string) | Инициализирует новый экземпляр`StringStructure`класс со значением. |
+| [StringStructure](stringstructure/#constructor)(ClassID) | Инициализирует новый экземпляр класса `StringStructure`. |
+| [StringStructure](stringstructure/#constructor_1)(ClassID, string) | Инициализирует новый экземпляр класса `StringStructure` со значением. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/key/) { get; } | Получает ключ. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length/) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length/) { get; } | Получает длину [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value/) { get; set; } | Получает или задает значение. |
 
 ## Методы
@@ -42,12 +43,12 @@ public sealed class StringStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/structurekey/) | Идентифицирует ключ структуры. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/structurekey/) | Определяет ключ структуры. |
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

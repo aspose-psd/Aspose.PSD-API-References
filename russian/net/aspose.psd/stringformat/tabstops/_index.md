@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat свойство. Получает массив расстояний между позициями табуляции в единицах указанныхPageUnit свойство.
+title: "StringFormat.TabStops"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StringFormat. Возвращает массив расстояний между табуляциями в единицах, указанных свойством PageUnit."
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-Получает массив расстояний между позициями табуляции в единицах, указанных[`PageUnit`](../../graphics/pageunit/) свойство.
+Возвращает массив расстояний между табуляциями в единицах, указанных свойством [`PageUnit`](../../graphics/pageunit/).
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Вкладка останавливается.
+Табуляции.
 
-### Примечания
+## Примечания
 
-Свойство введено для удаленного метода GetTabStops.
+Свойство введено для удалённого метода GetTabStops.
 
-### Смотрите также
+### См. также
 
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

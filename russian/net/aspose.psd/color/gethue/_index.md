@@ -1,14 +1,15 @@
 ---
-title: Color.GetHue
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. Получает значение оттенка оттенканасыщенностияркости HSB в градусах для данногоColorструктура.
+title: "Color.GetHue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Возвращает значение оттенка HSB (hue-saturation-brightness) в градусах для этой структуры Color"
 type: docs
 weight: 1570
 url: /ru/net/aspose.psd/color/gethue/
 ---
+{{< psd/tize >}}
 ## Color.GetHue method
 
-Получает значение оттенка оттенка-насыщенности-яркости (HSB) в градусах для данного[`Color`](../)структура.
+Возвращает значение оттенка hue-saturation-brightness (HSB) в градусах для этой структуры [`Color`](../).
 
 ```csharp
 public float GetHue()
@@ -16,12 +17,12 @@ public float GetHue()
 
 ### Возвращаемое значение
 
-Оттенок в градусах этого[`Color`](../). Оттенок измеряется в градусах в диапазоне от 0,0 до 360,0 в цветовом пространстве HSB.
+Оттенок в градусах этого [`Color`](../). Оттенок измеряется в градусах, диапазон от 0.0 до 360.0, в цветовом пространстве HSB.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

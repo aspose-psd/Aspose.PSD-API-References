@@ -1,14 +1,15 @@
 ---
-title: LspfResource.LspfResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LspfResource строитель. Инициализирует новый экземплярLspfResource class. С пользовательским или неизвестным значением
+title: "LspfResource.LspfResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LspfResource. Инициализирует новый экземпляр класса LspfResource. С пользовательским или неизвестным значением"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`LspfResource`](../) class. С пользовательским или неизвестным значением
+Инициализирует новый экземпляр класса [`LspfResource`](../). С пользовательским или неизвестным значением
 
 ```csharp
 public LspfResource(byte[] data)
@@ -16,7 +17,7 @@ public LspfResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -24,17 +25,17 @@ public LspfResource(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимая длина данных ресурса Lspf |
 
-### Смотрите также
+### См. также
 
 * class [LspfResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`LspfResource`](../) класс.
+Инициализирует новый экземпляр класса [`LspfResource`](../).
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
@@ -43,30 +44,30 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | если установлено`истинный` [защищена прозрачность]. |
-| isCompositeProtected | Boolean | если установлено`истинный` [защищено композитом]. |
-| isPositionProtected | Boolean | если установлено`истинный` [позиция защищена]. |
+| isTransparencyProtected | Boolean | если установлено `true` [защищено от прозрачности]. |
+| isCompositeProtected | Boolean | если установлено `true` [защищено от композитных изменений]. |
+| isPositionProtected | Boolean | если установлено `true` [защищено от изменения позиции]. |
 
-### Смотрите также
+### См. также
 
 * class [LspfResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-Инициализирует новый экземпляр[`LspfResource`](../) класс.
+Инициализирует новый экземпляр класса [`LspfResource`](../).
 
 ```csharp
 public LspfResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LspfResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

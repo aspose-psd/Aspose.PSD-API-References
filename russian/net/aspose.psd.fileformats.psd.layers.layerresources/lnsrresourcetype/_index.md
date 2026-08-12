@@ -1,11 +1,12 @@
 ---
-title: Enum LnsrResourceType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType перечисление. Обнаружены возможные типы ресурсов Lnsr
+title: "Перечисление LnsrResourceType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType. Обнаружены возможные типы ресурсов Lnsr."
 type: docs
-weight: 2760
+weight: 3070
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
 Обнаружены возможные типы ресурсов Lnsr
@@ -14,19 +15,19 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 public enum LnsrResourceType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Rend | `0` | Разрыв для text |
-| Cont | `1` | Продолжение слоя заливки для примера |
-| Bgnd | `2` | Фон для фонового слоя |
-| Layr | `3` | Слой для обычного изображения layer |
-| Unknown | `4` | Неизвестное для ситуации, когда мы не описали enum |
+| Rend | `0` | rend для текста |
+| Cont | `1` | cont для слоя заполнения, например |
+| Bgnd | `2` | Bgnd для слоя Background |
+| Layr | `3` | layr для обычного слоя изображения |
+| Unknown | `4` | Unknown используется в ситуации, когда мы не описали перечисление |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

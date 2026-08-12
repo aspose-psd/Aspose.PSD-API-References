@@ -1,14 +1,15 @@
 ---
-title: SoLeResource.SoLeResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: SoLeResource строитель. Инициализирует новый экземплярSoLeResource класс.
+title: "SoLeResource.SoLeResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор SoLeResource. Инициализирует новый экземпляр класса SoLeResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`SoLeResource`](../) класс.
+Инициализирует новый экземпляр класса [`SoLeResource`](../).
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,30 +17,30 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uniqueId | Guid | Уникальный идентификатор размещенных данных слоя[`PlLdResource`](../../plldresource/). |
-| isCustom | Boolean | если установлено`истинный` [это обычай]. |
-| hasCompInfo | Boolean | если установлено`истинный` [имеет информацию о комп.]. |
+| uniqueId | Guid | Уникальный идентификатор размещённых данных слоя [`PlLdResource`](../../plldresource/). |
+| isCustom | Boolean | если установлено `true` [является пользовательским]. |
+| hasCompInfo | Boolean | если установлено `true` [имеет информацию о компоновке]. |
 
-### Смотрите также
+### См. также
 
 * class [SoLeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLeResource() {#constructor}
 
-Инициализирует новый экземпляр[`SoLeResource`](../) класс.
+Инициализирует новый экземпляр класса [`SoLeResource`](../).
 
 ```csharp
 public SoLeResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SoLeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

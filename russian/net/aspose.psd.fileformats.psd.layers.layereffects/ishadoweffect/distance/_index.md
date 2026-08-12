@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Distance
-second_title: Справочник по Aspose.PSD для .NET API
-description: IShadowEffect свойство. Получает или задает расстояние в пикселях.
+title: "IShadowEffect.Distance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IShadowEffect. Возвращает или задает расстояние в пикселях"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Distance property
 
 Получает или задает расстояние в пикселях.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distan
 public int Distance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Расстояние.
 
-### Смотрите также
+### См. также
 
 * interface [IShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

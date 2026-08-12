@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSelectionIdsResource свойство. Получает или задает количество.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerSelectionIdsResource. Получает или задает количество"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
-Получает или задает количество.
+Получает или задаёт количество.
 
 ```csharp
 public short Count { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество.
 
-### Смотрите также
+### См. также
 
 * class [LayerSelectionIdsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

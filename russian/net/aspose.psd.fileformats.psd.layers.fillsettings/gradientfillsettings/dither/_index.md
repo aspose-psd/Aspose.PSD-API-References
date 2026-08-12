@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Получает или задает значение указывающее является ли этоGradientFillSettings дизеринг.
+title: "GradientFillSettings.Dither"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Получает или задает значение, указывающее, является ли этот GradientFillSettings дизерингом"
 type: docs
-weight: 60
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../) дизеринг.
+Получает или задает значение, указывающее, является ли этот [`GradientFillSettings`](../) дизерингом.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если смущать; в противном случае,`ЛОЖЬ` .
+`true` если дизеринг; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

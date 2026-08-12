@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.ProgressEventHandler
-second_title: Справочник по Aspose.PSD для .NET API
-description: LoadOptions свойство. Получает или задает обработчик события выполнения.
+title: "LoadOptions.ProgressEventHandler"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LoadOptions. Получает или задаёт обработчик события прогресса"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/loadoptions/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## LoadOptions.ProgressEventHandler property
 
-Получает или задает обработчик события выполнения.
+Получает или задает обработчик события прогресса.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Обработчик событий прогресса.
+Обработчик события прогресса.
 
-### Смотрите также
+### См. также
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* пространство имен [Aspose.PSD](../../loadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

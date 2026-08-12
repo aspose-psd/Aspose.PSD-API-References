@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeOriginSettings свойство. Получает значение указывающее имеет ли этот экземпляр свойство преобразования.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeOriginSettings. Возвращает значение, указывающее, имеет ли данный экземпляр свойство transform."
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-Получает значение, указывающее, имеет ли этот экземпляр свойство преобразования.
+Возвращает значение, указывающее, имеет ли данный экземпляр свойство transform.
 
 ```csharp
 public bool IsTransformPresent { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр имеет свойство преобразования; в противном случае,`ЛОЖЬ` .
+`true` если данный экземпляр имеет свойство transform; иначе `false`.
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность изменения размера слоев формы, содержащих векторные пути.
+Следующий код демонстрирует возможность изменения размера слоёв формы, содержащих векторные пути.
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeOriginSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle свойство. Получает или задает размер этогоRectangle .
+title: "Rectangle.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rectangle. Получает или задает размер этого Rectangle."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/rectangle/size/
 ---
+{{< psd/tize >}}
 ## Rectangle.Size property
 
-Получает или задает размер этого[`Rectangle`](../) .
+Получает или задает размер этого [`Rectangle`](../).
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`Size`](../../size/) который представляет ширину и высоту этого[`Rectangle`](../) состав.
+`[`Size`](../../size/)` представляет ширину и высоту этой структуры [`Rectangle`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

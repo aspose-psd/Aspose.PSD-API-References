@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.RightTop
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape свойство. Получает правую верхнюю точку прямоугольника.
+title: "RectangleProjectedShape.RightTop"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RectangleProjectedShape. Возвращает точку правого верхнего угла прямоугольника"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/righttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RightTop property
 
-Получает правую верхнюю точку прямоугольника.
+Получает точку правого верхнего угла прямоугольника.
 
 ```csharp
 public PointF RightTop { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правая верхняя точка прямоугольника.
+Точка правого верхнего угла прямоугольника.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

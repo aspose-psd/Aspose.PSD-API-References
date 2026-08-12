@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Гаммакоррекция изображения.
+title: "PsdImage.AdjustGamma"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Гамма‑коррекция изображения"
 type: docs
-weight: 460
+weight: 520
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-Гамма-коррекция изображения.
+Гамма‑коррекция изображения.
 
 ```csharp
 public override void AdjustGamma(float gamma)
@@ -16,19 +17,19 @@ public override void AdjustGamma(float gamma)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gamma | Single | Коэффициент гаммы для красного, зеленого и синего каналов |
+| гамма | Single | Коэффициент гаммы для каналов красного, зелёного и синего |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AdjustGamma(float, float, float) {#adjustgamma_1}
 
-Гамма-коррекция изображения.
+Гамма‑коррекция изображения.
 
 ```csharp
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
@@ -36,14 +37,14 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gammaRed | Single | Гамма для коэффициента красного канала |
-| gammaGreen | Single | Гамма коэффициента зеленого канала |
-| gammaBlue | Single | Гамма коэффициента синего канала |
+| gammaRed | Single | Коэффициент гаммы для канала красного |
+| gammaGreen | Single | Коэффициент гаммы для канала зелёного |
+| gammaBlue | Single | Коэффициент гаммы для канала синего |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSectionResource свойство. Получает или задает тип раздела.
+title: "LayerSectionResource.SectionType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerSectionResource. Получает или задает тип секции"
 type: docs
-weight: 60
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
-Получает или задает тип раздела.
+Получает или задаёт тип секции.
 
 ```csharp
 public LayerSectionType SectionType { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

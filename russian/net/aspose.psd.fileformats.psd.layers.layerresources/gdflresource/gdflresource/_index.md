@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GdFlResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource строитель. Конструктор по умолчанию.
+title: "GdFlResource.GdFlResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор GdFlResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gdflr
 public GdFlResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

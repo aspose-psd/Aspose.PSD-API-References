@@ -1,11 +1,12 @@
 ---
-title: IntegerStructure.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: IntegerStructure свойство. Получает ключ.
+title: "IntegerStructure.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IntegerStructure свойство. Возвращает ключ"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Key property
 
 Получает ключ.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [IntegerStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

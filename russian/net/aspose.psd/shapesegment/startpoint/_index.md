@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: ShapeSegment свойство. Получает начальную точку.
+title: "ShapeSegment.StartPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ShapeSegment. Получает начальную точку"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
-Получает начальную точку.
+Возвращает начальную точку.
 
 ```csharp
 public abstract PointF StartPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Отправная точка.
+Начальная точка.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* пространство имен [Aspose.PSD](../../shapesegment/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

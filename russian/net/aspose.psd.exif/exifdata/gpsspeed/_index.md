@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSSpeed
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает скорость движения приемника GPS.
+title: "ExifData.GPSSpeed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает скорость движения GPS-приемника"
 type: docs
 weight: 600
 url: /ru/net/aspose.psd.exif/exifdata/gpsspeed/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeed property
 
-Получает или задает скорость движения приемника GPS.
+Получает или задает скорость движения GPS-приемника.
 
 ```csharp
 public TiffRational GPSSpeed { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Скорость движения GPS-приемника.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

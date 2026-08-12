@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Справочник по Aspose.PSD для .NET API
-description: ChannelInformation свойство. Получает или задает идентификатор канала.
+title: "ChannelInformation.ChannelID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ChannelInformation. Получает или задает идентификатор канала"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
-Получает или задает идентификатор канала.
+Получает или задаёт идентификатор канала.
 
 ```csharp
 public short ChannelID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор канала.
 
-### Смотрите также
+### См. также
 
 * class [ChannelInformation](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

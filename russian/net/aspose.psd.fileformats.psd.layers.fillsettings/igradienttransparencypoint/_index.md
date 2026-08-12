@@ -1,11 +1,12 @@
 ---
-title: Interface IGradientTransparencyPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint интерфейс. Базовый интерфейс для настроек заливки
+title: "Интерфейс IGradientTransparencyPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint. Базовый интерфейс для настроек заливки"
 type: docs
-weight: 2020
+weight: 2140
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint interface
 
 Базовый интерфейс для настроек заливки
@@ -14,17 +15,17 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparenc
 public interface IGradientTransparencyPoint
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Получает или задает местоположение. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Получает или задает положение срединной точки. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | Получает или задает прозрачность. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Получает или задает расположение. Диапазон значений 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Получает или задает расположение медианной точки. Диапазон значений 0-4096. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | Получает или задает непрозрачность. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

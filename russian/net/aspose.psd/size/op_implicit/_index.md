@@ -1,14 +1,15 @@
 ---
-title: Size.op_Implicit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Преобразует указанныйSize кSizeF .
+title: "Size.op_Implicit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Преобразует указанный Size в SizeF"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-Преобразует указанный[`Size`](../) к[`SizeF`](../../sizef/) .
+Преобразует указанный [`Size`](../) в [`SizeF`](../../sizef/).
 
 ```csharp
 public static implicit operator SizeF(Size size)
@@ -16,17 +17,17 @@ public static implicit operator SizeF(Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | Size | [`Size`](../) для преобразования. |
+| size | Size | [`Size`](../), который нужно преобразовать. |
 
 ### Возвращаемое значение
 
-[`SizeF`](../../sizef/) структура, в которую преобразуется этот оператор.
+Структура [`SizeF`](../../sizef/), в которую преобразует этот оператор.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

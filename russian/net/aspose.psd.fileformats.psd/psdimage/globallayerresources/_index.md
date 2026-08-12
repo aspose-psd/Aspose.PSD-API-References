@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GlobalLayerResources
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает ресурсы глобального слоя.
+title: "PsdImage.GlobalLayerResources"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задает глобальные ресурсы слоёв."
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/globallayerresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerResources property
 
-Получает или задает ресурсы глобального слоя.
+Получает или задает глобальные ресурсы слоя.
 
 ```csharp
 public LayerResource[] GlobalLayerResources { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ресурсы глобального слоя.
+Глобальные ресурсы слоёв.
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

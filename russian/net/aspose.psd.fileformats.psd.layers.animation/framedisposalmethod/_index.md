@@ -1,30 +1,31 @@
 ---
-title: Enum FrameDisposalMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod перечисление. Метод удаления кадров указывает следует ли отбрасывать текущий кадр перед отображением следующего кадра. Вы выбираете метод удаления для анимаций включающих прозрачность фона чтобы указать будет ли кадр current виден через прозрачные области следующего кадра.
+title: "Перечисление FrameDisposalMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod. Метод удаления кадра указывает, следует ли отбрасывать текущий кадр перед отображением следующего кадра. Вы выбираете метод удаления для анимаций, включающих прозрачность фона, чтобы указать, будет ли текущий кадр виден через прозрачные области следующего кадра."
 type: docs
-weight: 1850
+weight: 1950
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/framedisposalmethod/
 ---
+{{< psd/tize >}}
 ## FrameDisposalMethod enumeration
 
-Метод удаления кадров указывает, следует ли отбрасывать текущий кадр перед отображением следующего кадра. Вы выбираете метод удаления для анимаций, включающих прозрачность фона, чтобы указать, будет ли кадр current виден через прозрачные области следующего кадра.
+Метод утилизации кадра определяет, следует ли удалять текущий кадр перед отображением следующего кадра. Вы выбираете метод утилизации для анимаций, включающих прозрачность фона, чтобы указать, будет ли текущий кадр виден через прозрачные области следующего кадра.
 
 ```csharp
 public enum FrameDisposalMethod
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Automatic | `0` | Автоматически определяет метод удаления для текущего кадра, отбрасывая текущий кадр, если следующий кадр содержит прозрачность слоя. Для большинства анимаций параметр «Автоматически» (по умолчанию) дает желаемые результаты. |
-| DoNotDispose | `1` | Сохраняет текущий кадр при добавлении следующего кадра на дисплей. Текущий кадр (и предшествующие кадры) могут отображаться сквозь прозрачные области следующего кадра. |
-| Dispose | `2` | Отбрасывает текущий кадр с экрана перед отображением следующего кадра. В каждый момент времени отображается только один кадр (и текущий кадр не виден через прозрачные области следующего кадра). |
+| Automatic | `0` | Определяет метод удаления текущего кадра автоматически, отбрасывая текущий кадр, если следующий кадр содержит прозрачность слоев. Для большинства анимаций автоматический вариант (по умолчанию) дает желаемый результат. |
+| DoNotDispose | `1` | Сохраняет текущий кадр при добавлении следующего кадра в отображение. Текущий кадр (и предшествующие кадры) могут просвечивать через прозрачные области следующего кадра. |
+| Dispose | `2` | Отбрасывает текущий кадр из отображения перед тем, как будет показан следующий кадр. В любой момент отображается только один кадр (и текущий кадр не просвечивает через прозрачные области следующего кадра). |
 
-### Примеры
+## Примеры
 
-Класс TimeLine дает высокоуровневую возможность манипулировать временной шкалой PsdImage, например, изменять задержку кадра или редактировать состояние слоя в конкретном кадре.
+Класс Timeline предоставляет высокоуровневую возможность управлять временной шкалой PsdImage, например изменять задержку кадра или редактировать состояние слоя в конкретном кадре.
 
 ```csharp
 [C#]
@@ -34,40 +35,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Изменяем метод удаления кадра 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Изменить метод освобождения кадра 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
     // Изменить задержку кадра 2
-    timeLine.Frames[1].Delay = 15;
+    timeline.Frames[1].Delay = 15;
 
-    // Изменяем непрозрачность «Слоя 1» на кадре 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Изменить непрозрачность 'Layer 1' в кадре 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // перемещаем 'Слой 1' в левый нижний угол кадра 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // переместить 'Layer 1' в левый нижний угол в кадре 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // Добавляет новый кадр
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Изменяем режим смешивания «Слой 1» на кадре 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Изменить blendMode слоя 'Layer 1' на кадре 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Применить изменения к экземпляру PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Применить изменения обратно к экземпляру PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

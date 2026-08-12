@@ -1,30 +1,31 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleShape строитель. Инициализирует новый экземплярRectangleShape класс.
+title: "RectangleShape.RectangleShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleShape constructor. Инициализирует новый экземпляр класса RectangleShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-Инициализирует новый экземпляр[`RectangleShape`](../) класс.
+Инициализирует новый экземпляр класса [`RectangleShape`](../).
 
 ```csharp
 public RectangleShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RectangleShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-Инициализирует новый экземпляр[`RectangleShape`](../) класс.
+Инициализирует новый экземпляр класса [`RectangleShape`](../).
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
@@ -32,13 +33,13 @@ public RectangleShape(RectangleF rectangle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
+| прямоугольник | RectangleF | Прямоугольник. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Frame.DisposalMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: Frame свойство. Получает или задает метод удаления кадра.
+title: "Frame.DisposalMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Frame. Получает или задает метод утилизации кадра"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/
 ---
+{{< psd/tize >}}
 ## Frame.DisposalMethod property
 
 Получает или задает метод удаления кадра.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/
 public FrameDisposalMethod DisposalMethod { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [FrameDisposalMethod](../../framedisposalmethod/)
 * class [Frame](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

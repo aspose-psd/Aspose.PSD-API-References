@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: CgEdResource свойство. Получает или задает версию.
+title: "CgEdResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CgEdResource property. Возвращает или задает версию"
 type: docs
-weight: 110
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
 Получает или задает версию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/versi
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [CgEdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorTranslator.FromOle
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorTranslator метод. Берет цвет из цвета OLE.
+title: "ColorTranslator.FromOle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorTranslator. Получает цвет из OLE-цвета."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/colortranslator/fromole/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromOle method
 
-Берет цвет из цвета OLE.
+Берёт цвет из OLE‑цвета.
 
 ```csharp
 public static Color FromOle(int oleColor)
@@ -16,17 +17,17 @@ public static Color FromOle(int oleColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| oleColor | Int32 | ОЛЕ цвет. |
+| oleColor | Int32 | OLE-цвет. |
 
 ### Возвращаемое значение
 
 Цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* пространство имен [Aspose.PSD](../../colortranslator/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

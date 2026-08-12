@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Y
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle свойство. Получает или задает координату Y верхнего левого угла этогоRectangleструктура.
+title: "Rectangle.Y"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rectangle. Получает или задает координату y верхнего левого угла этой структуры Rectangle."
 type: docs
 weight: 210
 url: /ru/net/aspose.psd/rectangle/y/
 ---
+{{< psd/tize >}}
 ## Rectangle.Y property
 
-Получает или задает координату Y верхнего левого угла этого[`Rectangle`](../)структура.
+Получает или задает координату y верхнего левого угла этой [`Rectangle`](../) структуры.
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Y-координата верхнего левого угла этого[`Rectangle`](../) состав.
+Координата y верхнего левого угла этой [`Rectangle`](../) структуры.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

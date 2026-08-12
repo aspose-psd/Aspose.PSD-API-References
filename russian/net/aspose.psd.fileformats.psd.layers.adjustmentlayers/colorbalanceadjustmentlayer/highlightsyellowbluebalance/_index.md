@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorBalanceAdjustmentLayer свойство. Получает или задает баланс желтого и синего в светлых тонах.
+title: "ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorBalanceAdjustmentLayer. Получает или задает Highlights Yellow Blue Balance"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance property
 
-Получает или задает баланс желтого и синего в светлых тонах.
+Получает или задает значение Highlights Yellow Blue Balance.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Основные моменты Желто-синий баланс.
+Баланс Highlights Yellow Blue.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Основные моменты Желтый Синий Баланс должен быть в диапазоне от -100 до +100. |
+| ArgumentOutOfRangeException | Баланс Highlights Yellow Blue должен быть в диапазоне от -100 до +100. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorBalanceAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

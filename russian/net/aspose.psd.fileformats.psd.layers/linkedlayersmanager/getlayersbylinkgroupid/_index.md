@@ -1,11 +1,12 @@
 ---
-title: LinkedLayersManager.GetLayersByLinkGroupId
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkedLayersManager метод. Получает слои по идентификатору группы ссылок.
+title: "LinkedLayersManager.GetLayersByLinkGroupId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LinkedLayersManager. Получает слои по идентификатору группы ссылок"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.GetLayersByLinkGroupId method
 
 Получает слои по идентификатору группы ссылок.
@@ -20,11 +21,11 @@ public Layer[] GetLayersByLinkGroupId(short linkGroupId)
 
 ### Возвращаемое значение
 
-Массив слоев.
+Массив слоёв.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как вы можете манипулировать связанными слоями в Aspose.PSD.
+Следующий пример демонстрирует, как можно управлять связанными слоями в Aspose.PSD
 
 ```csharp
 [C#]
@@ -32,15 +33,15 @@ public Layer[] GetLayersByLinkGroupId(short linkGroupId)
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // связываем все слои в одну связанную группу
+    // свяжите все слои в одну связанную группу
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // получаем id для одного слоя
+    // получает идентификатор для одного слоя
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
@@ -50,13 +51,13 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
     // получает все связанные слои по идентификатору группы ссылок.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // отвязать каждый слой от группы
+    // отвяжите каждый слой от группы
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // возвращает NULL для идентификатора группы ссылок, в которой нет слоев в группе.
+    // возвращает NULL для идентификатора группы ссылок, в которой нет слоёв.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -66,11 +67,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

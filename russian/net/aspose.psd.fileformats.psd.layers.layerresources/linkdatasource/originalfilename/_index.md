@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.OriginalFileName
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает исходное имя файла источника данных в ресурсе глобальной ссылки Adobe Photoshop.
+title: "LinkDataSource.OriginalFileName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Возвращает оригинальное имя файла источника данных в глобальном ресурсе ссылок Adobe Photoshop."
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalFileName property
 
-Получает исходное имя файла источника данных в ресурсе глобальной ссылки Adobe® Photoshop®.
+Получает оригинальное имя файла источника данных в глобальном ресурсе ссылки Adobe® Photoshop®.
 
 ```csharp
 public string OriginalFileName { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Исходное имя файла в формате PSD ресурса LnkE/Lnk2.
+Оригинальное имя файла в ресурсе PSD формата LnkE / Lnk2.
 
 ### Исключения
 
@@ -24,10 +25,10 @@ public string OriginalFileName { get; }
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству OriginalFileName. |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

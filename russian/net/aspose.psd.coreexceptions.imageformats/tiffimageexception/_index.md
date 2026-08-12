@@ -1,14 +1,15 @@
 ---
-title: Class TiffImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException сорт. Исключение изображения Tiff
+title: "Класс TiffImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException класс. Исключение изображения Tiff"
 type: docs
 weight: 610
 url: /ru/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException class
 
-Исключение изображения Tiff
+Исключение изображения TIFF
 
 ```csharp
 public class TiffImageException : ImageException
@@ -18,21 +19,21 @@ public class TiffImageException : ImageException
 
 | Имя | Описание |
 | --- | --- |
-| [TiffImageException](tiffimageexception/#constructor_1)(string) | Инициализирует новый экземпляр`TiffImageException` класс. |
-| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Инициализирует новый экземпляр`TiffImageException` класс. |
-| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Инициализирует новый экземпляр`TiffImageException` класс. |
-| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Инициализирует новый экземпляр`TiffImageException` класс. |
+| [TiffImageException](tiffimageexception/#constructor_1)(string) | Инициализирует новый экземпляр класса `TiffImageException`. |
+| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Инициализирует новый экземпляр класса `TiffImageException`. |
+| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса `TiffImageException`. |
+| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Инициализирует новый экземпляр класса `TiffImageException`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | Получает ошибку параметров TIFF. |
+| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | Возвращает ошибку параметров tiff. |
 
-### Смотрите также
+### См. также
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

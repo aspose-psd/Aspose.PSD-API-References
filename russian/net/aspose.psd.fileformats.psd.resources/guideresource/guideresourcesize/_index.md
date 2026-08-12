@@ -1,23 +1,24 @@
 ---
-title: GuideResource.GuideResourceSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: GuideResource поле. Размер блока ресурсов справочника.
+title: "GuideResource.GuideResourceSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле GuideResource. Размер блока ресурса направляющей"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
+{{< psd/tize >}}
 ## GuideResource.GuideResourceSize field
 
-Размер блока ресурсов справочника.
+Размер блока ресурса направляющих.
 
 ```csharp
 public const int GuideResourceSize;
 ```
 
-### Смотрите также
+### См. также
 
 * class [GuideResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

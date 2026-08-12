@@ -1,30 +1,31 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: Справочник по Aspose.PSD для .NET API
-description: SolidBrush строитель. Инициализирует новый экземплярSolidBrush класс.
+title: "SolidBrush.SolidBrush"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "SolidBrush конструктор. Инициализирует новый экземпляр класса SolidBrush"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-Инициализирует новый экземпляр[`SolidBrush`](../) класс.
+Инициализирует новый экземпляр класса [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SolidBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../solidbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-Инициализирует новый экземпляр[`SolidBrush`](../) класс.
+Инициализирует новый экземпляр класса [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush(Color color)
@@ -32,13 +33,13 @@ public SolidBrush(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | Сплошной цвет кисти. |
+| color | Color | Цвет сплошной кисти. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../solidbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

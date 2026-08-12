@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlncResource свойство. Получает или задает значение указывающее является ли этоBlncResource сохраняет яркость.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BlncResource свойство. Получает или задает значение, указывающее, сохраняет ли этот BlncResource яркость"
 type: docs
-weight: 100
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-Получает или задает значение, указывающее, является ли это[`BlncResource`](../) сохраняет яркость.
+Получает или задает значение, указывающее, сохраняет ли этот [`BlncResource`](../) яркость.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если он сохраняет светимость; в противном случае,`ЛОЖЬ` .
+`true`, если сохраняет яркость; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [BlncResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

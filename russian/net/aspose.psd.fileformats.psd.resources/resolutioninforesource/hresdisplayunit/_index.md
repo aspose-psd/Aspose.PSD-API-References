@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HResDisplayUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResolutionInfoResource свойство. Единицы отображения для горизонтального разрешения. Это влияет только на пользовательский интерфейс  разрешение попрежнему хранится в файле PSD как пиксели/дюйм.
+title: "ResolutionInfoResource.HResDisplayUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResolutionInfoResource. Единицы отображения горизонтального разрешения. Это влияет только на пользовательский интерфейс, разрешение всё ещё хранится в файле PSD как пиксели/дюйм"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HResDisplayUnit property
 
-Единицы отображения для горизонтального разрешения. Это влияет только на пользовательский интерфейс ; разрешение по-прежнему хранится в файле PSD как пиксели/дюйм.
+Единицы отображения для горизонтального разрешения. Это влияет только на пользовательский интерфейс; разрешение по‑прежнему хранится в файле PSD в виде пикселей/дюйм.
 
 ```csharp
 public ResolutionUnit HResDisplayUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Единица отображения разрешения по горизонтали.
+Единица отображения горизонтального разрешения.
 
-### Смотрите также
+### См. также
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginResolutionPresent
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeOriginSettings свойство. Получает значение указывающее имеет ли этот экземпляр свойство разрешения источника.
+title: "VectorShapeOriginSettings.IsOriginResolutionPresent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorShapeOriginSettings свойство. Получает значение, указывающее, имеет ли данный экземпляр свойство разрешения исходного"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginResolutionPresent property
 
-Получает значение, указывающее, имеет ли этот экземпляр свойство разрешения источника.
+Возвращает значение, указывающее, имеет ли данный экземпляр свойство origin resolution.
 
 ```csharp
 public bool IsOriginResolutionPresent { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный`если у этого экземпляра есть свойство разрешения источника; в противном случае,`ЛОЖЬ` .
+`true` если у данного экземпляра есть свойство разрешения исходного; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeOriginSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

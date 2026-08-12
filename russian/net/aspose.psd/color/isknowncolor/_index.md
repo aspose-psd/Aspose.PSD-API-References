@@ -1,27 +1,28 @@
 ---
-title: Color.IsKnownColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает значение указывающее является ли этоColor структура предопределенного цвета. Предопределенные цвета представлены элементамиKnownColor перечисление.
+title: "Color.IsKnownColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает значение, указывающее, является ли эта структура Color предопределённым цветом. Предопределённые цвета представлены элементами перечисления KnownColor"
 type: docs
 weight: 1500
 url: /ru/net/aspose.psd/color/isknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.IsKnownColor property
 
-Получает значение, указывающее, является ли это[`Color`](../) структура предопределенного цвета. Предопределенные цвета представлены элементами[`KnownColor`](../../knowncolor/) перечисление.
+Возвращает значение, указывающее, является ли эта структура [`Color`](../) предопределённым цветом. Предопределённые цвета представлены элементами перечисления [`KnownColor`](../../knowncolor/).
 
 ```csharp
 public bool IsKnownColor { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правда, если это[`Color`](../) был создан из предопределенного цвета с помощью[`FromName`](../fromname/) метод или[`FromKnownColor`](../fromknowncolor/) метод; в противном случае ложно.
+True, если этот [`Color`](../) был создан из предопределённого цвета с помощью метода [`FromName`](../fromname/) или метода [`FromKnownColor`](../fromknowncolor/); иначе — false.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

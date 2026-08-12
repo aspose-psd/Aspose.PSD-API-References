@@ -1,27 +1,28 @@
 ---
-title: GradientOverlayEffect.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientOverlayEffect свойство. Получает или задает прозрачность.
+title: "GradientOverlayEffect.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientOverlayEffect. Получает или задает непрозрачность"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Opacity property
 
-Получает или задает прозрачность.
+Получает или задает непрозрачность.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность.
 
-### Смотрите также
+### См. также
 
 * class [GradientOverlayEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

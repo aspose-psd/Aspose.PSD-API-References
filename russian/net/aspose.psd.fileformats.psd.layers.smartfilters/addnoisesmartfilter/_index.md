@@ -1,14 +1,15 @@
 ---
-title: Class AddNoiseSmartFilter
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter сорт. Интеллектуальный фильтр AddNoise.
+title: "Класс AddNoiseSmartFilter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter class. Смарт‑фильтр AddNoise"
 type: docs
-weight: 3420
+weight: 3830
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter class
 
-Интеллектуальный фильтр AddNoise.
+Смарт‑фильтр AddNoise.
 
 ```csharp
 public sealed class AddNoiseSmartFilter : SmartFilter
@@ -18,39 +19,39 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | Имя | Описание |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter/)() | Инициализирует новый экземпляр`AddNoiseSmartFilter` класс. |
+| [AddNoiseSmartFilter](addnoisesmartfilter/)() | Инициализирует новый экземпляр класса `AddNoiseSmartFilter`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | Получает или задает количество значений шума. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Получает или задает режим наложения. |
-| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | Получает или задает распределение фильтра шума. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | Получает идентификатор типа интеллектуального фильтра. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Получает или задает состояние включения интеллектуального фильтра. |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | Получает или задает значение монохроматического. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | Получает имя смарт-фильтра. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Получает или задает значение непрозрачности интеллектуального фильтра. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Структура исходного дескриптора с данными интеллектуального фильтра. |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | Получает или задает количество шума. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Получает или задает режим смешивания. |
+| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | Получает или задает распределение шума фильтра. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | Получает идентификатор типа умного фильтра. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Получает или задает статус включения умного фильтра. |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | Получает или задает значение монохроматичности. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | Получает имя умного фильтра. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Получает или задает значение непрозрачности умного фильтра. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Структура дескриптора источника с данными умного фильтра. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Применяет текущий фильтр ко входу[`RasterImage`](../../aspose.psd/rasterimage/) изображение. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Применяет текущий фильтр ко входу[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) данные маски. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Создает почленный клон текущего экземпляра типа. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Применяет текущий фильтр к входному изображению [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Применяет текущий фильтр к входным данным маски [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/). |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Создаёт побочный клон текущего экземпляра типа. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | Идентификатор текущего смарт-фильтра. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | Идентификатор текущего умного фильтра. |
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку интерфейса интеллектуальных фильтров.
+Этот пример демонстрирует поддержку интерфейса умных фильтров.
 
 ```csharp
 [C#]
@@ -70,7 +71,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // редактируем умные фильтры
+    // редактировать умные фильтры
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // проверить значения фильтра
@@ -96,7 +97,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // применить изменения
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Применение фильтров
+    // Применить фильтры
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -120,10 +121,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilter](../smartfilter/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

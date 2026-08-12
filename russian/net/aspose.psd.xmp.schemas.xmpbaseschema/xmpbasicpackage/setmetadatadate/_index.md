@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage метод. Добавляет дату последнего изменения метаданных.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBasicPackage. Добавляет дату последнего изменения метаданных"
 type: docs
-weight: 70
+weight: 90
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
 Добавляет дату последнего изменения метаданных.
@@ -18,11 +19,11 @@ public void SetMetadataDate(DateTime metadataDate)
 | --- | --- | --- |
 | metadataDate | DateTime | Дата метаданных. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,10 +39,10 @@ public void SetMetadataDate(string metadataDate)
 | --- | --- | --- |
 | metadataDate | String | Дата метаданных. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

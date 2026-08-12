@@ -1,14 +1,15 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvResource метод. Получает диспетчер кривых.
+title: "CurvResource.GetCurveManager"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CurvResource. Получает менеджер кривой"
 type: docs
-weight: 80
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
-Получает диспетчер кривых.
+Получает менеджер кривой.
 
 ```csharp
 public CurvesManager GetCurveManager()
@@ -16,13 +17,13 @@ public CurvesManager GetCurveManager()
 
 ### Возвращаемое значение
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) или[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
-### Смотрите также
+### См. также
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PieShape.Segments
-second_title: Справочник по Aspose.PSD для .NET API
-description: PieShape свойство. Получает сегменты формы.
+title: "PieShape.Segments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PieShape. Возвращает сегменты фигуры"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.shapes/pieshape/segments/
 ---
+{{< psd/tize >}}
 ## PieShape.Segments property
 
-Получает сегменты формы.
+Получает сегменты фигуры.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Сегменты формы.
+Сегменты фигуры.
 
-### Смотрите также
+### См. также
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PieShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../pieshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

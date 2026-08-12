@@ -1,11 +1,12 @@
 ---
-title: FillLayerResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: FillLayerResource свойство. Получает подпись.
+title: "FillLayerResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FillLayerResource. Получает подпись"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/signature/
 ---
+{{< psd/tize >}}
 ## FillLayerResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FillLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filllayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

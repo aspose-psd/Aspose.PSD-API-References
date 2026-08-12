@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResourceData свойство. Получает или задает имя.
+title: "PattResourceData.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PattResourceData. Возвращает или задает имя"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Name property
 
 Получает или задает имя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/n
 public string Name { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя.
 
-### Смотрите также
+### См. также
 
 * class [PattResourceData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

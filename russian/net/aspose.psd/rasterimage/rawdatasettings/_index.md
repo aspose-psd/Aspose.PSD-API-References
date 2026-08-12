@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает текущие настройки необработанных данных. Обратите внимание что при использовании этих настроек данные загружаются без преобразования.
+title: "RasterImage.RawDataSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Возвращает текущие настройки необработанных данных. Обратите внимание, что при использовании этих настроек данные загружаются без преобразования."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/rasterimage/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataSettings property
 
 Получает текущие настройки необработанных данных. Обратите внимание, что при использовании этих настроек данные загружаются без преобразования.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/rasterimage/rawdatasettings/
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Текущие настройки необработанных данных.
 
-### Смотрите также
+### См. также
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

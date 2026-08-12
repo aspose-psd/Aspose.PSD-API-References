@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSImgDirection
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает GPSнаправление изображения при его захвате.
+title: "ExifData.GPSImgDirection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает направление GPS изображения при захвате"
 type: docs
 weight: 500
 url: /ru/net/aspose.psd.exif/exifdata/gpsimgdirection/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirection property
 
-Получает или задает GPS-направление изображения при его захвате.
+Получает или задает направление GPS изображения при его захвате.
 
 ```csharp
 public TiffRational GPSImgDirection { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-GPS-направление изображения при его захвате.
+Направление GPS изображения при захвате.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

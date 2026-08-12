@@ -1,11 +1,12 @@
 ---
-title: RgbChannelMixerLayer.GreenChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: RgbChannelMixerLayer свойство. Получает зеленый канал.
+title: "RgbChannelMixerLayer.GreenChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RgbChannelMixerLayer. Получает зеленый канал"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/greenchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GreenChannel property
 
 Получает зеленый канал.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerl
 public RgbMixerChannel GreenChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зеленый канал.
 
-### Смотрите также
+### См. также
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

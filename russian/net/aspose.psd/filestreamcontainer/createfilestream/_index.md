@@ -1,14 +1,15 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileStreamContainer метод. Создает новый файловый поток.
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FileStreamContainer. Создает новый файловый поток."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
-Создает новый файловый поток.
+Создаёт новый файловый поток.
 
 ```csharp
 public static FileStreamContainer CreateFileStream(string fileLocation, bool isTemporal)
@@ -17,16 +18,16 @@ public static FileStreamContainer CreateFileStream(string fileLocation, bool isT
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileLocation | String | Расположение файла. |
-| isTemporal | Boolean | Если установлено`истинный` контейнер файлового потока является временным. |
+| isTemporal | Boolean | Если установлено значение `true`, контейнер файлового потока является временным. |
 
 ### Возвращаемое значение
 
 Контейнер файлового потока.
 
-### Смотрите также
+### См. также
 
 * class [FileStreamContainer](../)
-* пространство имен [Aspose.PSD](../../filestreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

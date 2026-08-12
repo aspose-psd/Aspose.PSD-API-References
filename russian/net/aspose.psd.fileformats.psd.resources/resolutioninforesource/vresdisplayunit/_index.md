@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VResDisplayUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResolutionInfoResource свойство. Единицы отображения вертикального разрешения.
+title: "ResolutionInfoResource.VResDisplayUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResolutionInfoResource. Единицы отображения вертикального разрешения"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VResDisplayUnit property
 
-Единицы отображения вертикального разрешения.
+Единицы отображения для вертикального разрешения.
 
 ```csharp
 public ResolutionUnit VResDisplayUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Единица отображения вертикального разрешения.
 
-### Смотрите также
+### См. также
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

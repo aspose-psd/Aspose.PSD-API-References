@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.DitheringMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataSettings свойство. Получает или задает метод дизеринга для преобразования необработанных данных
+title: "RawDataSettings.DitheringMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RawDataSettings. Получает или задает метод дизеринга, используемый для преобразования необработанных данных."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/rawdatasettings/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.DitheringMethod property
 
-Получает или задает метод дизеринга для преобразования необработанных данных
+Получает или задает метод дизеринга, используемый для преобразования необработанных данных
 
 ```csharp
 public DitheringMethods DitheringMethod { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Метод дизеринга для преобразования необработанных данных
+Метод дизеринга, используемый для преобразования необработанных данных.
 
-### Смотрите также
+### См. также
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* пространство имен [Aspose.PSD](../../rawdatasettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

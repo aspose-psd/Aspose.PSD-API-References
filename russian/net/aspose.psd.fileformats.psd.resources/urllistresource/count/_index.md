@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Count
-second_title: Справочник по Aspose.PSD для .NET API
-description: UrlListResource свойство. Получает или задает количество.
+title: "UrlListResource.Count"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UrlListResource. Получает или задает количество"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
-Получает или задает количество.
+Получает или задаёт количество.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество.
 
-### Смотрите также
+### См. также
 
 * class [UrlListResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

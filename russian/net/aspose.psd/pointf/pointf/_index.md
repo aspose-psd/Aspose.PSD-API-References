@@ -1,14 +1,15 @@
 ---
-title: PointF.PointF
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF строитель. Инициализирует новый экземплярPointF структура с указанными координатами.
+title: "PointF.PointF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PointF. Инициализирует новый экземпляр структуры PointF с указанными координатами"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-Инициализирует новый экземпляр[`PointF`](../) структура с указанными координатами.
+Инициализирует новый экземпляр структуры [`PointF`](../) с указанными координатами.
 
 ```csharp
 public PointF(float x, float y)
@@ -19,10 +20,10 @@ public PointF(float x, float y)
 | x | Single | Горизонтальное положение точки. |
 | y | Single | Вертикальное положение точки. |
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Timecode.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Timecode метод. Возвращает строку содержащую значение в формате XMP.
+title: "Timecode.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Timecode. Возвращает строковое значение в формате XMP"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Timecode.GetXmpRepresentation method
 
-Возвращает строку, содержащую значение, в формате XMP.
+Возвращает строковое значение в формате XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Возвращаемое значение
 
-Возвращает содержащееся в строке значение в формате XMP.
+Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [Timecode](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

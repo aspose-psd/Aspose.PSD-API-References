@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataFull.BackgroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskDataFull свойство. Получает или задает цвет фона.
+title: "LayerMaskDataFull.BackgroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskDataFull. Получает или задает цвет фона"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.BackgroundColor property
 
 Получает или задает цвет фона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor
 public byte BackgroundColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет фона.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskDataFull](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

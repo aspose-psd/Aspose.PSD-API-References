@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает левый нижний сдвиг.
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает сдвиг левого нижнего угла."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
-Получает левый нижний сдвиг.
+Получает сдвиг в левом нижнем углу.
 
 ```csharp
 public double LeftBottomShift { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Левый нижний сдвиг.
+Сдвиг левого нижнего угла.
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

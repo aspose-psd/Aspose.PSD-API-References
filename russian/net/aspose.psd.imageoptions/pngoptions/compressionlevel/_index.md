@@ -1,23 +1,24 @@
 ---
-title: PngOptions.CompressionLevel
-second_title: Справочник по Aspose.PSD для .NET API
-description: PngOptions свойство. Уровень сжатия изображения png в диапазоне от 0 до 9 где 9  максимальное сжатие а 0  режим сохранения.
+title: "PngOptions.CompressionLevel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PngOptions свойство. Уровень сжатия PNG‑изображения в диапазоне 0‑9, где 9 — максимальное сжатие, а 0 — режим хранения"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imageoptions/pngoptions/compressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.CompressionLevel property
 
-Уровень сжатия изображения png в диапазоне от 0 до 9, где 9 — максимальное сжатие, а 0 — режим сохранения.
+Уровень сжатия PNG‑изображения в диапазоне от 0 до 9, где 9 — максимальное сжатие, а 0 — режим хранения.
 
 ```csharp
 public int CompressionLevel { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PngOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pngoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

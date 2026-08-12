@@ -1,23 +1,24 @@
 ---
-title: ResourceBlock.ValidateValues
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock метод. Проверяет значения ресурсов.
+title: "ResourceBlock.ValidateValues"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock метод. Проверяет значения ресурса"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/validatevalues/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ValidateValues method
 
-Проверяет значения ресурсов.
+Проверяет значения ресурса.
 
 ```csharp
 public virtual void ValidateValues()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: PolygonShape свойство. Получает конечную точку формы.
+title: "PolygonShape.EndPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PolygonShape. Возвращает конечную точку фигуры"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-Получает конечную точку формы.
+Получает конечную точку фигуры.
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Конечная точка формы.
+Конечная точка фигуры.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

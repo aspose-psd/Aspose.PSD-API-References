@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Compression
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает сжатие.
+title: "JpegExifData.Compression"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает степень сжатия"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.exif/jpegexifdata/compression/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Compression property
 
-Получает или задает сжатие.
+Получает или задает степень сжатия.
 
 ```csharp
 public ushort Compression { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сжатие.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 
