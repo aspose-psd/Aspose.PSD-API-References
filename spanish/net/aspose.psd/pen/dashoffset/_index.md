@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece la distancia desde el inicio de una línea hasta el inicio de un patrón de guiones.
+title: "Pen.DashOffset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Pen. Obtiene o establece la distancia desde el inicio de una línea hasta el comienzo de un patrón de guiones"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-Obtiene o establece la distancia desde el inicio de una línea hasta el inicio de un patrón de guiones.
+Obtiene o establece la distancia desde el inicio de una línea hasta el comienzo de un patrón de guiones.
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La distancia desde el comienzo de una línea hasta el comienzo de un patrón de guiones.
+La distancia desde el inicio de una línea hasta el comienzo de un patrón de guiones.
 
 ### Ver también
 
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

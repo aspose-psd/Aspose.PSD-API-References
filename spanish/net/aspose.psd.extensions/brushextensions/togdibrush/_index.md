@@ -1,32 +1,33 @@
 ---
-title: BrushExtensions.ToGdiBrush
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BrushExtensions método. Convierte elBrush haciaBrush .
+title: "BrushExtensions.ToGdiBrush"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método BrushExtensions. Convierte el Brush al Brush"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
+{{< psd/tize >}}
 ## BrushExtensions.ToGdiBrush method
 
-Convierte el[`Brush`](../../../aspose.psd/brush/) haciaBrush .
+Convierte el [`Brush`](../../../aspose.psd/brush/) al Brush.
 
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| brush | Brush | El[`Brush`](../../../aspose.psd/brush/) para convertir. |
+| brush | Brush | El [`Brush`](../../../aspose.psd/brush/) para convertir. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el convertidoBrush.
+El Brush convertido.
 
 ### Ver también
 
 * class [Brush](../../../aspose.psd/brush/)
 * class [BrushExtensions](../)
-* espacio de nombres [Aspose.PSD.Extensions](../../brushextensions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

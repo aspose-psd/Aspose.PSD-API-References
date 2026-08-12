@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MotionWienerFilterOptions propiedad. Obtiene o establece el suavizado.
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad MotionWienerFilterOptions. Obtiene o establece el suavizado"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-Obtiene o establece el suavizado.
+Obtiene o establece la suavidad.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El suave.
+El suavizado.
 
 ### Ver también
 
 * class [MotionWienerFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

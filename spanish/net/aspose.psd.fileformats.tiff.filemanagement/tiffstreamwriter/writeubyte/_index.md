@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUByte
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamWriter método. Escribe un valor de un solo byte en la secuencia.
+title: "TiffStreamWriter.WriteUByte"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamWriter. Escribe un solo valor de byte al flujo"
 type: docs
 weight: 190
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUByte method
 
-Escribe un valor de un solo byte en la secuencia.
+Escribe un único valor de byte en el flujo.
 
 ```csharp
 public void WriteUByte(byte data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte | El valor a escribir. |
+| datos | Byte | El valor a escribir. |
 
 ### Ver también
 
 * class [TiffStreamWriter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

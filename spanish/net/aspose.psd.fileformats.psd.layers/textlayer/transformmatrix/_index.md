@@ -1,31 +1,32 @@
 ---
-title: TextLayer.TransformMatrix
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextLayer propiedad. Obtiene o establece la transformación matrix
+title: "TextLayer.TransformMatrix"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextLayer. Obtiene o establece la matriz de transformación"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TextLayer.TransformMatrix property
 
-Obtiene o establece la transformación matrix
+Obtiene o establece la matriz de transformación
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La matriz de transformación
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra cómo obtener el tamaño de fuente para cualquier parte de texto en la capa de texto.
+El siguiente código demuestra cómo obtener el tamaño de fuente para cualquier porción de texto en la capa de texto.
 
 ```csharp
 [C#]
 
-// Tamaño de fuente incorrecto extraído 
+// Tamaño de fuente extraído incorrecto
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -33,7 +34,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Antigua API (Usando la fuente del primer párrafo)
+    // API antigua (usando la fuente del primer párrafo)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -51,7 +52,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // Nueva API (una capa de texto puede contener cualquier cantidad de tamaños de fuente)
+    // Nueva API (Una capa de texto puede contener cualquier cantidad de tamaños de fuente)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
@@ -73,7 +74,7 @@ using (var image = Image.Load(filePath))
 ### Ver también
 
 * class [TextLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

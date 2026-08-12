@@ -1,11 +1,12 @@
 ---
-title: IntRange.Range
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IntRange propiedad. Obtiene o establece el rango.
+title: "IntRange.Range"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IntRange. Obtiene o establece el rango."
 type: docs
 weight: 20
 url: /es/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
 Obtiene o establece el rango.
@@ -14,14 +15,14 @@ Obtiene o establece el rango.
 public int[] Range { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El rango.
 
 ### Ver también
 
 * class [IntRange](../)
-* espacio de nombres [Aspose.PSD](../../intrange/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

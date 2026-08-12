@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la fecha hora digitalizada.
+title: "ExifData.DateTimeDigitized"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la fecha y hora de digitalización"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-Obtiene o establece la fecha hora digitalizada.
+Obtiene o establece la fecha y hora de digitalización.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La fecha y hora digitalizada.
+La fecha y hora de digitalización.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

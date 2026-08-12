@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorBlend constructor. Inicializa una nueva instancia delColorBlend clase.
+title: "ColorBlend.ColorBlend"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ColorBlend. Inicializa una nueva instancia de la clase ColorBlend"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-Inicializa una nueva instancia del[`ColorBlend`](../) clase.
+Inicializa una nueva instancia de la clase [`ColorBlend`](../).
 
 ```csharp
 public ColorBlend()
@@ -17,27 +18,27 @@ public ColorBlend()
 ### Ver también
 
 * class [ColorBlend](../)
-* espacio de nombres [Aspose.PSD](../../colorblend/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-Inicializa una nueva instancia del[`ColorBlend`](../) clase con el número especificado de colores y posiciones.
+Inicializa una nueva instancia de la clase [`ColorBlend`](../) con el número especificado de colores y posiciones.
 
 ```csharp
 public ColorBlend(int count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| count | Int32 | El número de colores y posiciones en este[`ColorBlend`](../). |
+| count | Int32 | El número de colores y posiciones en este [`ColorBlend`](../). |
 
 ### Ver también
 
 * class [ColorBlend](../)
-* espacio de nombres [Aspose.PSD](../../colorblend/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

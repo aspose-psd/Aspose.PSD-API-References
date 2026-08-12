@@ -1,11 +1,12 @@
 ---
-title: ExifData.CFAPattern
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el patrón CFA.
+title: "ExifData.CFAPattern"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el patrón CFA"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.exif/exifdata/cfapattern/
 ---
+{{< psd/tize >}}
 ## ExifData.CFAPattern property
 
 Obtiene o establece el patrón CFA.
@@ -14,14 +15,14 @@ Obtiene o establece el patrón CFA.
 public byte[] CFAPattern { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El patrón CFA.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

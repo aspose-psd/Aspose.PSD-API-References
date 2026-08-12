@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa de ajuste de blanco y negro.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste blanco y negro"
 type: docs
-weight: 290
+weight: 300
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-Agrega la capa de ajuste de blanco y negro.
+Añade la capa de ajuste blanco y negro.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-La capa de ajuste de blanco y negro creada.
+La capa de ajuste blanco y negro creada.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede agregar la capa de ajuste de blanco y negro en tiempo de ejecución en Aspose.PSD
+El siguiente ejemplo muestra cómo puede agregar la capa de ajuste black white en tiempo de ejecución en Aspose.PSD.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

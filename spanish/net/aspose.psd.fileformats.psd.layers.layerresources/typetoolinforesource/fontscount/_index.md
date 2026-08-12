@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.FontsCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfoResource propiedad. Obtiene el recuento de fuentes.
+title: "TypeToolInfoResource.FontsCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolInfoResource. Obtiene el recuento de fuentes."
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontsCount property
 
 Obtiene el recuento de fuentes.
@@ -17,7 +18,7 @@ public short FontsCount { get; }
 ### Ver también
 
 * class [TypeToolInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

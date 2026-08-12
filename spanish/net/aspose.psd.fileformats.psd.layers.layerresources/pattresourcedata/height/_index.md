@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Height
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResourceData propiedad. Obtiene la altura.
+title: "PattResourceData.Height"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PattResourceData. Obtiene la altura"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Height property
 
 Obtiene la altura.
@@ -14,14 +15,14 @@ Obtiene la altura.
 public short Height { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La altura.
+El alto.
 
 ### Ver también
 
 * class [PattResourceData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.OriginalCompId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinkDataSource propiedad. Obtiene el ID original del Comp seleccionado actualmente para el documento secundario que será 1 si no se selecciona ninguno. Esta propiedad obtiene el identificador de selección de Comp de capa original para objetos inteligentes. Composiciones de capas en objetos inteligentes
+title: "LinkDataSource.OriginalCompId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinkDataSource. Obtiene el ID original del Comp actualmente seleccionado para el documento hijo, que será 1 si no hay ninguno seleccionado. Esta propiedad obtiene el identificador de selección del Comp de capa original para Smart Objects. Comps de capa en Smart Objects"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalCompId property
 
-Obtiene el ID original del Comp seleccionado actualmente para el documento secundario, que será -1 si no se selecciona ninguno. Esta propiedad obtiene el identificador de selección de Comp de capa original para objetos inteligentes. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Obtiene el ID original de la Comp (composición) actualmente seleccionada para el documento hijo, que será -1 si no hay ninguna seleccionada. Esta propiedad obtiene el identificador de selección de la composición de capa original para objetos inteligentes. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El ID original de la composición actualmente seleccionada para el documento secundario, que será -1 si no se selecciona ninguno.
+El ID original del comp actualmente seleccionado para el documento hijo, que será -1 si no hay ninguno seleccionado.
 
 ### Excepciones
 
@@ -27,7 +28,7 @@ El ID original de la composición actualmente seleccionada para el documento sec
 ### Ver también
 
 * class [LinkDataSource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

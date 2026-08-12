@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Referencia de la función del controlador de eventos de progreso
+title: "Delegado ProgressEventHandler"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Referencia a la función manejadora del evento de progreso"
 type: docs
-weight: 5280
+weight: 5780
 url: /es/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-Referencia de la función del controlador de eventos de progreso
+Referencia a la función manejadora del evento de progreso
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | Los datos del controlador de eventos de progreso. |
+| información | ProgressEventHandlerInfo | Los datos del controlador de eventos de progreso. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra que el progreso de conversión de documentos funciona correctamente y sin excepción.
+El siguiente ejemplo demuestra que el progreso de conversión del documento funciona correctamente y sin excepciones.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 ### Ver también
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

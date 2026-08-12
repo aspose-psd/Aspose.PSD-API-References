@@ -1,11 +1,12 @@
 ---
-title: ExifData.Saturation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la saturación.
+title: "ExifData.Saturation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la saturación"
 type: docs
 weight: 890
 url: /es/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
 Obtiene o establece la saturación.
@@ -14,7 +15,7 @@ Obtiene o establece la saturación.
 public ExifSaturation Saturation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La saturación.
 
@@ -22,7 +23,7 @@ La saturación.
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

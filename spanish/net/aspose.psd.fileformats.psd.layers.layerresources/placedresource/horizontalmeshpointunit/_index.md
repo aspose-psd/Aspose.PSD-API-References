@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.HorizontalMeshPointUnit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PlacedResource propiedad. Obtiene o establece la unidad de medida de los puntos de la malla horizontal.
+title: "PlacedResource.HorizontalMeshPointUnit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PlacedResource. Obtiene o establece la unidad de medida de los puntos de malla horizontales"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.HorizontalMeshPointUnit property
 
-Obtiene o establece la unidad de medida de los puntos de la malla horizontal.
+Obtiene o establece la unidad de medida de los puntos de malla horizontales.
 
 ```csharp
 public UnitTypes HorizontalMeshPointUnit { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La unidad de medida de los puntos de malla horizontal.
+La unidad de medida de los puntos de malla horizontales.
 
 ### Ver también
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

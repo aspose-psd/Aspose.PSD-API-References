@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Validate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions método. Valida si las opciones tienen una combinación válida de etiquetas
+title: "TiffOptions.Validate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffOptions. Valida si las opciones tienen una combinación válida de etiquetas"
 type: docs
-weight: 750
+weight: 760
 url: /es/net/aspose.psd.imageoptions/tiffoptions/validate/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Validate method
 
 Valida si las opciones tienen una combinación válida de etiquetas
@@ -17,7 +18,7 @@ public void Validate()
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

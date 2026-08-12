@@ -1,25 +1,26 @@
 ---
-title: TiffStreamReader.ReadSLongArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee una matriz de valores enteros con signo de la secuencia.
+title: "TiffStreamReader.ReadSLongArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee una matriz de valores enteros con signo del flujo."
 type: docs
 weight: 140
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLongArray method
 
-Lee una matriz de valores enteros con signo de la secuencia.
+Lee una matriz de valores enteros con signo del flujo.
 
 ```csharp
 public int[] ReadSLongArray(long position, long count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
-| count | Int64 | Los elementos cuentan. |
+| posición | Int64 | La posición desde la cual leer. |
+| count | Int64 | El recuento de elementos. |
 
-### Valor_devuelto
+### Valor devuelto
 
 La matriz de valores enteros con signo.
 
@@ -27,12 +28,12 @@ La matriz de valores enteros con signo.
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | count;El recuento total de bytes es negativo. + cuenta + x4= + bytes totales |
+| ArgumentOutOfRangeException | count;El recuento total de bytes es negativo. + count + x4= + totalBytes |
 
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

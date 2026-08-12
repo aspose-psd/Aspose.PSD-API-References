@@ -1,11 +1,12 @@
 ---
-title: Interface ISmartFilterRenderer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer interfaz. La interfaz para un renderizador de filtro inteligente específico.
+title: "Interfaz ISmartFilterRenderer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer interfaz. La interfaz para un renderizador de filtro inteligente específico."
 type: docs
-weight: 3450
+weight: 3860
 url: /es/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer interface
 
 La interfaz para un renderizador de filtro inteligente específico.
@@ -18,21 +19,21 @@ public interface ISmartFilterRenderer
 
 | Nombre | Descripción |
 | --- | --- |
-| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | Representa el filtro inteligente actual en los datos de píxeles. |
+| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | Renderiza el filtro inteligente actual sobre los datos de píxeles. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código le muestra cómo crear un filtro inteligente personalizado que tiene un representador personalizado.
+El siguiente código muestra cómo crear un filtro inteligente personalizado que tiene un renderizador personalizado.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Inicia el filtro inteligente 'Crystallize' no compatible en la matriz de entrada
+    // Inicializa el filtro inteligente no compatible 'Crystallize' en la matriz de entrada
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // el ID del filtro inteligente 'Crystallize'.
+        // El ID del filtro inteligente 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -82,15 +83,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // el ID del filtro inteligente 'Crystallize'.
+        // El ID del filtro inteligente 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // obtener la estructura del filtro
+        // obtener estructura del filtro
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // obtener el valor del tamaño de cristalización
+        // obtener valor de Tamaño Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -108,7 +109,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../)
 
 

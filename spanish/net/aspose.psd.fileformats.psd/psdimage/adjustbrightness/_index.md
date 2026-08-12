@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Ajuste de un brillo para la imagen.
+title: "PsdImage.AdjustBrightness"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PsdImage método. Ajusta el brillo de una imagen"
 type: docs
-weight: 440
+weight: 500
 url: /es/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-Ajuste de un brillo para la imagen.
+Ajuste de brillo de la imagen.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| brightness | Int32 | Valor de brillo. |
+| brillo | Int32 | Valor de brillo. |
 
 ### Ver también
 
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

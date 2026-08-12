@@ -1,28 +1,29 @@
 ---
-title: ExifData.GainControl
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el grado de ajuste general de la ganancia de la imagen.
+title: "ExifData.GainControl"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el grado de ajuste general de ganancia de la imagen"
 type: docs
 weight: 340
 url: /es/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-Obtiene o establece el grado de ajuste general de la ganancia de la imagen.
+Obtiene o establece el grado de ajuste global de ganancia de la imagen.
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El grado de ajuste general de la ganancia de la imagen.
+El grado de ajuste general de ganancia de imagen.
 
 ### Ver también
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

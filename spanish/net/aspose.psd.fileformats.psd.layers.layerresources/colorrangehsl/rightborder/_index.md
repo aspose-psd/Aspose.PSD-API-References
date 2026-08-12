@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.RightBorder
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorRangeHsl propiedad. Obtiene o establece el borde derecho.
+title: "ColorRangeHsl.RightBorder"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorRangeHsl. Obtiene o establece el borde derecho"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.RightBorder property
 
 Obtiene o establece el borde derecho.
@@ -14,14 +15,14 @@ Obtiene o establece el borde derecho.
 public short RightBorder { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El borde derecho.
 
 ### Ver también
 
 * class [ColorRangeHsl](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

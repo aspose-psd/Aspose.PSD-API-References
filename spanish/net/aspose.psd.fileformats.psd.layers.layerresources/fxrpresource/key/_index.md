@@ -1,14 +1,15 @@
 ---
-title: FxrpResource.Key
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FxrpResource propiedad. Obtiene la clave de recurso de la capa.
+title: "FxrpResource.Key"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FxrpResource. Obtiene la clave del recurso de capa"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Key property
 
-Obtiene la clave de recurso de la capa.
+Obtiene la clave del recurso de capa.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Ver también
 
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

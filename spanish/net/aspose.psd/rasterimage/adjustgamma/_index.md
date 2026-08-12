@@ -1,33 +1,12 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Corrección gamma de una imagen.
+title: "RasterImage.AdjustGamma"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "RasterImage método. Corrección gamma de una imagen."
 type: docs
 weight: 200
 url: /es/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Corrección gamma de una imagen.
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Parámetro | Escribe | Descripción |
-| --- | --- | --- |
-| gammaRed | Single | Gamma para coeficiente de canal rojo |
-| gammaGreen | Single | Gamma para coeficiente de canal verde |
-| gammaBlue | Single | Gamma para coeficiente de canal azul |
-
-### Ver también
-
-* class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Corrección gamma de una imagen.
@@ -36,14 +15,36 @@ Corrección gamma de una imagen.
 public virtual void AdjustGamma(float gamma)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| gamma | Single | Gamma para coeficiente de canales rojo, verde y azul |
+| gamma | Single | Coeficiente gamma para los canales rojo, verde y azul |
 
 ### Ver también
 
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Corrección gamma de una imagen.
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| gammaRed | Single | Coeficiente gamma para el canal rojo |
+| gammaGreen | Single | Coeficiente gamma para el canal verde |
+| gammaBlue | Single | Coeficiente gamma para el canal azul |
+
+### Ver también
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

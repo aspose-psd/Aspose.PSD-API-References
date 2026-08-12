@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeFlip
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix campo. Este bit indicador indica que la transformación definida por este objeto realiza un giro de imagen especular sobre algún eje que cambia el sistema de coordenadas normalmente de mano derecha a un sistema zurdo además de las conversiones indicadas por otros bits de bandera. Un sistema de coordenadas de mano derecha es uno en el que el eje X positivo gira en sentido contrario a las agujas del reloj para superponerse al eje Y positivo similar a la dirección en la que los dedos de la mano derecha se curvan cuando miras el extremo del pulgar. Un sistema de coordenadas para zurdos es aquel en el que el eje X positivo gira en el sentido de las agujas del reloj para superponer el eje Y positivo similar a la dirección en la que se curvan los dedos de la mano izquierda. No existe una forma matemática de determinar el ángulo de la transformación de volteo o espejo original de ya que todos los ángulos de volteo son idénticos dada una rotación de ajuste adecuada. NOTA TypeFlip se agregó después de GENERAL_TRANSFORM estaba en circulación pública y los bits de la bandera ya no podían volver a numerarse convenientemente sin introducir una incompatibilidad binaria en el código exterior .
+title: "Matrix.TypeFlip"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Matrix. Este bit de bandera indica que la transformación definida por este objeto realiza una inversión de imagen espejo alrededor de algún eje, lo que cambia el sistema de coordenadas normalmente derecho a uno izquierdo, además de las conversiones indicadas por otros bits de bandera. Un sistema de coordenadas derecho es aquel donde el eje X positivo rota en sentido antihorario para superponerse al eje Y positivo, similar a la dirección en que los dedos de su mano derecha se curvan cuando observa de frente su pulgar. Un sistema de coordenadas izquierdo es aquel donde el eje X positivo rota en sentido horario para superponerse al eje Y positivo, similar a la dirección en que los dedos de su mano izquierda se curvan. No existe una forma matemática de determinar el ángulo de la transformación original de volteo o espejo, ya que todos los ángulos de volteo son idénticos dado una rotación de ajuste apropiada. NOTA: TypeFlip se añadió después de que GENERAL_TRANSFORM estuviera en circulación pública y los bits de bandera ya no pudieron renumerarse convenientemente sin introducir incompatibilidad binaria en código externo."
 type: docs
 weight: 200
 url: /es/net/aspose.psd/matrix/typeflip/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeFlip field
 
-Este bit indicador indica que la transformación definida por este objeto realiza un giro de imagen especular sobre algún eje que cambia el sistema de coordenadas normalmente de mano derecha a un sistema zurdo además de las conversiones indicadas por otros bits de bandera. Un sistema de coordenadas de mano derecha es uno en el que el eje X positivo gira en sentido contrario a las agujas del reloj para superponerse al eje Y positivo similar a la dirección en la que los dedos de la mano derecha se curvan cuando miras el extremo del pulgar. Un sistema de coordenadas para zurdos es aquel en el que el eje X positivo gira en el sentido de las agujas del reloj para superponer el eje Y positivo similar a la dirección en la que se curvan los dedos de la mano izquierda. No existe una forma matemática de determinar el ángulo de la transformación de volteo o espejo original de ya que todos los ángulos de volteo son idénticos dada una rotación de ajuste adecuada. NOTA: TypeFlip se agregó después de GENERAL_TRANSFORM estaba en circulación pública y los bits de la bandera ya no podían volver a numerarse convenientemente sin introducir una incompatibilidad binaria en el código exterior .
+Este bit de bandera indica que la transformación definida por este objeto realiza una inversión de imagen espejo alrededor de algún eje, lo que cambia el sistema de coordenadas normalmente derecho a uno izquierdo, además de las conversiones indicadas por otros bits de bandera. Un sistema de coordenadas derecho es aquel donde el eje X positivo gira en sentido antihorario para superponerse al eje Y positivo, similar a la dirección en que los dedos de tu mano derecha se curvan cuando miras de frente tu pulgar. Un sistema de coordenadas izquierdo es aquel donde el eje X positivo gira en sentido horario para superponerse al eje Y positivo, similar a la dirección en que los dedos de tu mano izquierda se curvan. No hay forma matemática de determinar el ángulo de la transformación original de volteo o espejo, ya que todos los ángulos de volteo son idénticos dado una rotación de ajuste apropiada. NOTA: TypeFlip se añadió después de que GENERAL_TRANSFORM estuviera en circulación pública y los bits de bandera ya no pudieron renumerarse convenientemente sin introducir incompatibilidad binaria en código externo.
 
 ```csharp
 public const int TypeFlip;
@@ -17,7 +18,7 @@ public const int TypeFlip;
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

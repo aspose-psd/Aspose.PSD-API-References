@@ -1,11 +1,12 @@
 ---
-title: Class XmpText
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpText clase. Representa el tipo básico de texto XMP.
+title: "Clase XmpText"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Types.Basic.XmpText. Representa el tipo básico de texto XMP"
 type: docs
-weight: 5980
+weight: 6480
 url: /es/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
 Representa el tipo básico de texto XMP.
@@ -18,7 +19,7 @@ public class XmpText : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Inicializa una nueva instancia del`XmpText` clase. |
+| [XmpText](xmptext/)(string) | Inicializa una nueva instancia de la clase `XmpText`. |
 
 ## Propiedades
 
@@ -30,12 +31,12 @@ public class XmpText : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

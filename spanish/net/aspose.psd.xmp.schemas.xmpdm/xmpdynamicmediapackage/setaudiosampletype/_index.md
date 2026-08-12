@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece el tipo de muestra de audio.
+title: "XmpDynamicMediaPackage.SetAudioSampleType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece el tipo de muestra de audio"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosampletype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleType method
 
 Establece el tipo de muestra de audio.
@@ -14,7 +15,7 @@ Establece el tipo de muestra de audio.
 public void SetAudioSampleType(AudioSampleType audioSampleType)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | audioSampleType | AudioSampleType | El tipo de muestra de audio. |
 
@@ -22,7 +23,7 @@ public void SetAudioSampleType(AudioSampleType audioSampleType)
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.ReadFloatArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee una matriz de valores flotantes de la secuencia.
+title: "TiffStreamReader.ReadFloatArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee una matriz de valores float del flujo"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloatArray method
 
-Lee una matriz de valores flotantes de la secuencia.
+Lee una matriz de valores flotantes del flujo.
 
 ```csharp
 public float[] ReadFloatArray(long position, long count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
-| count | Int64 | Los elementos cuentan. |
+| posición | Int64 | La posición desde la cual leer. |
+| count | Int64 | El recuento de elementos. |
 
-### Valor_devuelto
+### Valor devuelto
 
-La matriz de valores flotantes.
+La matriz de valores float.
 
 ### Excepciones
 
@@ -32,7 +33,7 @@ La matriz de valores flotantes.
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

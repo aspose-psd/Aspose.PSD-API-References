@@ -1,23 +1,24 @@
 ---
-title: DublinCorePackage.AddValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DublinCorePackage método. Agrega propiedad de cadena.
+title: "DublinCorePackage.AddValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método DublinCorePackage. Añade una propiedad de cadena"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage.AddValue method
 
-Agrega propiedad de cadena.
+Agrega una propiedad de cadena.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | La representación de cadena de clave que se identifica con valor agregado. |
-| value | String | El valor de la cadena. |
+| clave | String | La representación en cadena de la clave que se identifica con el valor añadido. |
+| valor | String | El valor de cadena. |
 
 ### Excepciones
 
@@ -28,7 +29,7 @@ public override void AddValue(string key, string value)
 ### Ver también
 
 * class [DublinCorePackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

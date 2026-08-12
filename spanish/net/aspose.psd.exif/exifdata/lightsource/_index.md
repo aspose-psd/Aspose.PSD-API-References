@@ -1,11 +1,12 @@
 ---
-title: ExifData.LightSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la fuente de luz.
+title: "ExifData.LightSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la fuente de luz"
 type: docs
 weight: 770
 url: /es/net/aspose.psd.exif/exifdata/lightsource/
 ---
+{{< psd/tize >}}
 ## ExifData.LightSource property
 
 Obtiene o establece la fuente de luz.
@@ -14,7 +15,7 @@ Obtiene o establece la fuente de luz.
 public ExifLightSource LightSource { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La fuente de luz.
 
@@ -22,7 +23,7 @@ La fuente de luz.
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

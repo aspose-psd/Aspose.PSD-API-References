@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el nombre del documento.
+title: "TiffOptions.DocumentName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el nombre del documento."
 type: docs
-weight: 120
+weight: 130
 url: /es/net/aspose.psd.imageoptions/tiffoptions/documentname/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DocumentName property
 
 Obtiene o establece el nombre del documento.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre del documento.
 public string DocumentName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre del documento.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

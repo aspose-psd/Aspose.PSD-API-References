@@ -1,22 +1,23 @@
 ---
-title: VogkResource.Key
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VogkResource propiedad. Obtiene la clave de recurso de la capa.
+title: "VogkResource.Key"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VogkResource. Obtiene la clave del recurso de capa"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
+{{< psd/tize >}}
 ## VogkResource.Key property
 
-Obtiene la clave de recurso de la capa.
+Obtiene la clave del recurso de capa.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra el soporte del recurso VogkResource.
+El siguiente ejemplo muestra el soporte del recurso VogkResource.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [VogkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

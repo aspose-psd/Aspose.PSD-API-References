@@ -1,11 +1,12 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorantBase propiedad. Obtiene o establece el nombre de la muestra.
+title: "ColorantBase.SwatchName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorantBase. Obtiene o establece el nombre de la muestra"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
 Obtiene o establece el nombre de la muestra.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre de la muestra.
 public string SwatchName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre de la muestra.
 
 ### Ver también
 
 * class [ColorantBase](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

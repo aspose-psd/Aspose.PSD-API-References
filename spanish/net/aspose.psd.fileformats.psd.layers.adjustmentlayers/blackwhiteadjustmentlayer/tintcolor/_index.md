@@ -1,11 +1,12 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlackWhiteAdjustmentLayer propiedad. Obtiene o establece el valor de Tint Color.
+title: "BlackWhiteAdjustmentLayer.TintColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "BlackWhiteAdjustmentLayer propiedad. Obtiene o establece el valor del Color de Tinte"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolor/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColor property
 
 Obtiene o establece el valor de Tint Color.
@@ -14,14 +15,14 @@ Obtiene o establece el valor de Tint Color.
 public int TintColor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor del color de matiz.
+El valor del Color de Tinte.
 
 ### Ver también
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LuniResource.Name
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LuniResource propiedad. Obtiene o establece el nombre.
+title: "LuniResource.Name"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LuniResource. Obtiene o establece el nombre"
 type: docs
-weight: 40
+weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
+{{< psd/tize >}}
 ## LuniResource.Name property
 
 Obtiene o establece el nombre.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre.
 public string Name { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre.
 
 ### Ver también
 
 * class [LuniResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

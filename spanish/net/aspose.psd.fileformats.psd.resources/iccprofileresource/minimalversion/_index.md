@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.MinimalVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IccProfileResource propiedad. Obtiene la versión PSD mínima requerida.
+title: "IccProfileResource.MinimalVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IccProfileResource. Obtiene la versión mínima requerida de PSD"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/iccprofileresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.MinimalVersion property
 
-Obtiene la versión PSD mínima requerida.
+Obtiene la versión mínima requerida del PSD.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La versión PSD mínima.
+La versión mínima de PSD.
 
 ### Ver también
 
 * class [IccProfileResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

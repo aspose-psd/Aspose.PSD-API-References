@@ -1,14 +1,15 @@
 ---
-title: PdfCoreOptions.BookmarksOutlineLevel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PdfCoreOptions propiedad. Especifica en qué nivel del esquema del documento se muestran los objetos de marcador. 0 no se muestra. 1 en el primer nivel y así sucesivamente. El valor predeterminado es 0.
+title: "PdfCoreOptions.BookmarksOutlineLevel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PdfCoreOptions propiedad. Especifica en qué nivel del esquema del documento se muestran los objetos de marcador. 0 no se muestra. 1 en el primer nivel y así sucesivamente. El valor predeterminado es 0"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.BookmarksOutlineLevel property
 
-Especifica en qué nivel del esquema del documento se muestran los objetos de marcador. 0: no se muestra. 1 en el primer nivel y así sucesivamente. El valor predeterminado es 0.
+Especifica en qué nivel del esquema del documento se muestran los objetos de marcador. 0 - no se muestra. 1 en el primer nivel y así sucesivamente. El valor predeterminado es 0.
 
 ```csharp
 public int BookmarksOutlineLevel { get; set; }
@@ -17,7 +18,7 @@ public int BookmarksOutlineLevel { get; set; }
 ### Ver también
 
 * class [PdfCoreOptions](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

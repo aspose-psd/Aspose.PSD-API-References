@@ -1,11 +1,12 @@
 ---
-title: ClassID.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ClassID método. Guarda la información de la clase en el contenedor de flujo especificado.
+title: "ClassID.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ClassID. Guarda la información de la clase en el contenedor de flujo especificado"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/classid/save/
 ---
+{{< psd/tize >}}
 ## ClassID.Save method
 
 Guarda la información de la clase en el contenedor de flujo especificado.
@@ -14,15 +15,15 @@ Guarda la información de la clase en el contenedor de flujo especificado.
 public void Save(StreamContainer streamContainer)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de secuencias en el que guardar. |
+| streamContainer | StreamContainer | El contenedor de flujo donde guardar. |
 
 ### Ver también
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ClassID](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Bottom
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerMaskData propiedad. Obtiene o establece la posición de la máscara de la capa inferior.
+title: "LayerMaskData.Bottom"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LayerMaskData. Obtiene o establece la posición inferior de la máscara de capa"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Bottom property
 
-Obtiene o establece la posición de la máscara de la capa inferior.
+Obtiene o establece la posición inferior de la máscara de capa.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La posición de la máscara de la capa inferior.
+La posición inferior de la máscara de capa.
 
 ### Ver también
 
 * class [LayerMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RawDataStructure.Key
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RawDataStructure propiedad. Obtiene la clave.
+title: "RawDataStructure.Key"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RawDataStructure. Obtiene la clave"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Key property
 
 Obtiene la clave.
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Ver también
 
 * class [RawDataStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader interfaz. El cargador de recursos de capa.
+title: "Interfaz ILayerResourceLoader"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader. El cargador de recursos de capa"
 type: docs
-weight: 2070
+weight: 2250
 url: /es/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
 El cargador de recursos de capa.
@@ -18,12 +19,12 @@ public interface ILayerResourceLoader
 
 | Nombre | Descripción |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Determina si el recurso de capa se puede cargar desde el[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Carga el[`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Determina si el recurso de capa puede cargarse desde el [`StreamContainer`](../../aspose.psd/streamcontainer/) especificado. |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Carga el [`LayerResource`](../layerresource/). |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

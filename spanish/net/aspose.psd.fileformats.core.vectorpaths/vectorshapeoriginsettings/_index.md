@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeOriginSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings clase. Configuración de origen de forma vectorial.
+title: "Clase VectorShapeOriginSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings. Configuraciones de origen de forma vectorial."
 type: docs
-weight: 1440
+weight: 1450
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings class
 
-Configuración de origen de forma vectorial.
+Configuraciones de origen de forma vectorial.
 
 ```csharp
 public sealed class VectorShapeOriginSettings
@@ -18,32 +19,33 @@ public sealed class VectorShapeOriginSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Inicializa una nueva instancia del`VectorShapeOriginSettings` clase. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Inicializa una nueva instancia de la clase `VectorShapeOriginSettings`. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor_1)(bool, int) | Inicializa una nueva instancia de la clase `VectorShapeOriginSettings`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad de esquinas del cuadro de origen. |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene propiedad de índice de origen. |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad de rectángulo de radios de origen. |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad de resolución de origen. |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad de rectángulo. |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Obtiene un valor que indica si esta instancia tiene propiedad de tipo de origen. |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Obtiene o establece un valor que indica si la forma está invalidada. |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene un conjunto de propiedades de forma invalidada. |
-| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad de transformación. |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Obtiene o establece las esquinas del cuadro de origen. |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Obtiene o establece el índice de forma de origen. |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Obtiene o establece el rectángulo de radios de origen. |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Obtiene o establece la resolución de origen. |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Obtiene o establece el cuadro delimitador de la forma de origen. |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Obtiene o establece el tipo del origen. |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Obtiene o establece la matriz de transformación. |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad de esquinas de la caja de origen. |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad origin index. |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad origin radii rectangle. |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad origin resolution. |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad rectangle. |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad origin type. |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Obtiene o establece un valor que indica si shape está invalidada. |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene un conjunto de la propiedad shape invalidated. |
+| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Obtiene un valor que indica si esta instancia tiene la propiedad transform. |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Obtiene o establece los origin box corners. |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Obtiene o establece el origin shape index. |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Obtiene o establece el origin radii rectangle. |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Obtiene o establece la origin resolution. |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Obtiene o establece el origin shape bounding box. |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Obtiene o establece el tipo del origin. |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Obtiene o establece la transformation matrix. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra el soporte del recurso VogkResource.
+El siguiente ejemplo muestra el soporte del recurso VogkResource.
 
 ```csharp
 [C#]
@@ -99,7 +101,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

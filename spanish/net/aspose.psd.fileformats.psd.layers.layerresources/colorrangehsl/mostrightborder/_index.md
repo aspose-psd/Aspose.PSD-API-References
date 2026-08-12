@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.MostRightBorder
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorRangeHsl propiedad. Obtiene o establece el borde más a la derecha.
+title: "ColorRangeHsl.MostRightBorder"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorRangeHsl. Obtiene o establece el borde más a la derecha"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostRightBorder property
 
 Obtiene o establece el borde más a la derecha.
@@ -14,14 +15,14 @@ Obtiene o establece el borde más a la derecha.
 public short MostRightBorder { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El borde más a la derecha.
 
 ### Ver también
 
 * class [ColorRangeHsl](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

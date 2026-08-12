@@ -1,11 +1,12 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings método. Establece las carpetas desde donde se cargan las fuentes TrueType y borra todas las fuentes cargadas. No se realizan comprobaciones en las carpetas de fuentes.
+title: "FontSettings.SetFontsFolders"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método FontSettings. Establece las carpetas desde donde se cargan las fuentes TrueType y elimina todas las fuentes cargadas. No se realizan comprobaciones en las carpetas de fuentes"
 type: docs
-weight: 130
+weight: 150
 url: /es/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
 Establece las carpetas desde donde se cargan las fuentes TrueType y borra todas las fuentes cargadas. No se realizan comprobaciones en las carpetas de fuentes.
@@ -14,15 +15,15 @@ Establece las carpetas desde donde se cargan las fuentes TrueType y borra todas 
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontsFolders | String[] | Las carpetas de fuentes. |
-| recursive | Boolean | si se establece en`verdadero` [recursivo]. |
+| recursivo | Boolean | si se establece en `true` [recursive]. |
 
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

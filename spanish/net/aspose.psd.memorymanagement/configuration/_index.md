@@ -1,11 +1,12 @@
 ---
-title: Class Configuration
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.MemoryManagement.Configuration clase. La configuración global de gestión de memoria
+title: "Clase Configuration"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.MemoryManagement.Configuration class. La configuración global de gestión de memoria"
 type: docs
-weight: 5110
+weight: 5600
 url: /es/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
 La configuración global de gestión de memoria
@@ -18,11 +19,11 @@ public static class Configuration
 
 | Nombre | Descripción |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Obtiene o establece la sugerencia de tamaño de búfer que se define como el tamaño máximo permitido para todos los búferes internos. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Obtiene o establece la sugerencia de tamaño del búfer, que define el tamaño máximo permitido para todos los búferes internos. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

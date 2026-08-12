@@ -1,11 +1,12 @@
 ---
-title: Rectangle.Offset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle método. Ajusta la ubicación de este rectángulo en la cantidad especificada.
+title: "Rectangle.Offset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Rectangle. Ajusta la ubicación de este rectángulo en la cantidad especificada."
 type: docs
 weight: 270
 url: /es/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
 Ajusta la ubicación de este rectángulo en la cantidad especificada.
@@ -14,16 +15,16 @@ Ajusta la ubicación de este rectángulo en la cantidad especificada.
 public void Offset(Point pos)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pos | Point | Cantidad para compensar la ubicación. |
+| pos | Punto | Cantidad para desplazar la ubicación. |
 
 ### Ver también
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,7 +36,7 @@ Ajusta la ubicación de este rectángulo en la cantidad especificada.
 public void Offset(int x, int y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Int32 | El desplazamiento horizontal. |
 | y | Int32 | El desplazamiento vertical. |
@@ -43,7 +44,7 @@ public void Offset(int x, int y)
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

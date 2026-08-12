@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Union
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle método. Obtiene unRectangle estructura que contiene la unión de dosRectangle estructuras.
+title: "Rectangle.Union"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de Rectangle. Obtiene una estructura Rectangle que contiene la unión de dos estructuras Rectangle."
 type: docs
 weight: 100
 url: /es/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-Obtiene un[`Rectangle`](../) estructura que contiene la unión de dos[`Rectangle`](../) estructuras.
+Obtiene una estructura [`Rectangle`](../) que contiene la unión de dos estructuras [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| a | Rectangle | Un primer rectángulo a unión. |
-| b | Rectangle | Un segundo rectángulo a unión. |
+| a | Rectangle | El primer rectángulo para la unión. |
+| b | Rectangle | El segundo rectángulo para la unión. |
 
-### Valor_devuelto
+### Valor devuelto
 
-A[`Rectangle`](../) estructura que limita la unión de los dos[`Rectangle`](../) estructuras
+Una estructura [`Rectangle`](../) que delimita la unión de las dos estructuras [`Rectangle`](../).
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

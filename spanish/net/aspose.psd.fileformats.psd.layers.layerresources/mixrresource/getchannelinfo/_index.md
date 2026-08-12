@@ -1,26 +1,27 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MixrResource método. Obtiene la información del canal raw data
+title: "MixrResource.GetChannelInfo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método MixrResource. Obtiene los datos sin procesar de la información del canal"
 type: docs
-weight: 70
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
-Obtiene la información del canal raw data
+Obtiene los datos sin procesar de la información del canal.
 
 ```csharp
 public byte[] GetChannelInfo(int channelIndex)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | channelIndex | Int32 | Índice del canal. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Matriz de bytes sin formato de información del canal.
+Matriz de bytes sin procesar de la información del canal.
 
 ### Excepciones
 
@@ -31,7 +32,7 @@ Matriz de bytes sin formato de información del canal.
 ### Ver también
 
 * class [MixrResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

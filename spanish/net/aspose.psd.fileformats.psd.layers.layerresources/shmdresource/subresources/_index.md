@@ -1,22 +1,23 @@
 ---
-title: ShmdResource.SubResources
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ShmdResource propiedad. Obtiene los subrecursos de shmd resource.
+title: "ShmdResource.SubResources"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de ShmdResource. Obtiene los subrecursos del recurso shmd"
 type: docs
-weight: 70
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
-Obtiene los subrecursos de shmd resource.
+Obtiene los subrecursos del recurso shmd.
 
 ```csharp
 public LayerResource[] SubResources { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con el recurso MlstResource que brinda un mecanismo de bajo nivel para manipular los estados de la capa.
+El siguiente código demuestra el soporte del recurso MlstResource que brinda un mecanismo de bajo nivel para manipular los estados de la capa.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Deshabilitar la capa 1 en el marco 1
+    // Desactivar la capa 1 en el fotograma 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

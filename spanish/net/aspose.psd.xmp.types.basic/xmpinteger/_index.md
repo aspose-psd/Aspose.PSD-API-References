@@ -1,11 +1,12 @@
 ---
-title: Class XmpInteger
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpInteger clase. Representa el tipo básico entero XMP.
+title: "Clase XmpInteger"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Types.Basic.XmpInteger. Representa el tipo básico XMP Integer"
 type: docs
-weight: 5960
+weight: 6460
 url: /es/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger class
 
 Representa el tipo básico entero XMP.
@@ -18,9 +19,9 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [XmpInteger](xmpinteger/#constructor)(int) | Inicializa una nueva instancia del`XmpInteger` clase. |
-| [XmpInteger](xmpinteger/#constructor_1)(long) | Inicializa una nueva instancia del`XmpInteger` clase. |
-| [XmpInteger](xmpinteger/#constructor_2)(string) | Inicializa una nueva instancia del`XmpInteger` clase. |
+| [XmpInteger](xmpinteger/#constructor)(int) | Inicializa una nueva instancia de la clase `XmpInteger`. |
+| [XmpInteger](xmpinteger/#constructor_1)(long) | Inicializa una nueva instancia de la clase `XmpInteger`. |
+| [XmpInteger](xmpinteger/#constructor_2)(string) | Inicializa una nueva instancia de la clase `XmpInteger`. |
 
 ## Propiedades
 
@@ -32,12 +33,12 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

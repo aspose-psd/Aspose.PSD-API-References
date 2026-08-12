@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormat propiedad. Obtiene o establece elHotkeyPrefix objeto para estoStringFormat objeto.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StringFormat. Obtiene o establece el objeto HotkeyPrefix para este objeto StringFormat."
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-Obtiene o establece el[`HotkeyPrefix`](../../hotkeyprefix/) objeto para esto[`StringFormat`](../) objeto.
+Obtiene o establece el objeto [`HotkeyPrefix`](../../hotkeyprefix/) para este objeto [`StringFormat`](../).
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El[`HotkeyPrefix`](../../hotkeyprefix/) objeto para esto[`StringFormat`](../) objeto, el valor predeterminado esNone.
+El objeto [`HotkeyPrefix`](../../hotkeyprefix/) para este objeto [`StringFormat`](../), el valor predeterminado es None.
 
 ### Ver también
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* espacio de nombres [Aspose.PSD](../../stringformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

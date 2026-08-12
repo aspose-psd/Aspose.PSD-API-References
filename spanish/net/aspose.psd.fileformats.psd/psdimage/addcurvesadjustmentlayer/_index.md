@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa Ajuste de curvas.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste Curves."
 type: docs
-weight: 330
+weight: 340
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-Agrega la capa Ajuste de curvas.
+Añade la capa de ajuste de curvas.
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Creado[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Capa
+Capa [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) creada
 
 ### Ver también
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

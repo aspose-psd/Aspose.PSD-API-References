@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethod
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.DitheringMethod enumeración. Método de tramado.
+title: "Enumeración DitheringMethod"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.DitheringMethod. Método de tramado"
 type: docs
-weight: 770
+weight: 780
 url: /es/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
 Método de tramado.
@@ -18,12 +19,12 @@ public enum DitheringMethod
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Difuminado de umbral. Algoritmo de tramado más simple y rápido. |
-| FloydSteinbergDithering | `1` | El tramado de Floyd-Steinberg. Un algoritmo de tramado más complejo, utiliza los valores de intensidad de los vecinos más cercanos. |
+| ThresholdDithering | `0` | Tramado por umbral. Algoritmo de tramado más simple y rápido. |
+| FloydSteinbergDithering | `1` | El tramado Floyd‑Steinberg. Un algoritmo de tramado más complejo, que utiliza los valores de intensidad de los vecinos más cercanos. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

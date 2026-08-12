@@ -1,20 +1,21 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene o establece el rectángulo de radios de origen.
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene o establece el rectángulo de radios de origen"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-Obtiene o establece el rectángulo de radios de origen.
+Obtiene o establece el origin radii rectangle.
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El rectángulo de radios de origen.
 
@@ -22,7 +23,7 @@ El rectángulo de radios de origen.
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

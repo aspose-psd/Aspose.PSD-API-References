@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece los recuentos de bytes de tira.
+title: "TiffOptions.StripByteCounts"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece la cantidad de bytes de la tira"
 type: docs
-weight: 460
+weight: 470
 url: /es/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-Obtiene o establece los recuentos de bytes de tira.
+Obtiene o establece los recuentos de bytes de la tira.
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El byte de tira cuenta.
+Los recuentos de bytes de la tira.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

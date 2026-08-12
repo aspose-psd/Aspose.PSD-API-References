@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAltTapeName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece el nombre alternativo de la cinta.
+title: "XmpDynamicMediaPackage.SetAltTapeName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece el nombre alternativo de la cinta"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAltTapeName method
 
 Establece el nombre alternativo de la cinta.
@@ -14,14 +15,14 @@ Establece el nombre alternativo de la cinta.
 public void SetAltTapeName(string altTapeName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| altTapeName | String | Nombre de cinta alternativo. |
+| altTapeName | String | Nombre alternativo de la cinta. |
 
 ### Ver también
 
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

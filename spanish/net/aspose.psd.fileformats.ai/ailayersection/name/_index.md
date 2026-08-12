@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece el nombre de la capa. Especifica el nombre del elemento tal como aparece en el panel Capas.
+title: "AiLayerSection.Name"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece el nombre de la capa. Especifica el nombre del elemento tal como aparece en el panel Capas"
 type: docs
-weight: 110
+weight: 130
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-Obtiene o establece el nombre de la capa. Especifica el nombre del elemento tal como aparece en el panel Capas.
+Obtiene o establece el nombre de la capa. Especifica el nombre del elemento tal como aparece en el panel de Capas.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre de la capa.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

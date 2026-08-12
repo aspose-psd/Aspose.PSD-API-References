@@ -1,11 +1,12 @@
 ---
-title: DoubleStructure.Value
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DoubleStructure propiedad. Obtiene o establece el valor doble.
+title: "DoubleStructure.Value"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad DoubleStructure. Obtiene o establece el valor doble"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Value property
 
 Obtiene o establece el valor doble.
@@ -14,14 +15,14 @@ Obtiene o establece el valor doble.
 public double Value { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor doble.
+El valor double.
 
 ### Ver también
 
 * class [DoubleStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

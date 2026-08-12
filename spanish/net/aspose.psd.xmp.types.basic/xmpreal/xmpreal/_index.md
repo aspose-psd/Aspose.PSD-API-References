@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpReal constructor. Inicializa una nueva instancia delXmpReal clase.
+title: "XmpReal.XmpReal"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor XmpReal. Inicializa una nueva instancia de la clase XmpReal"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Inicializa una nueva instancia del[`XmpReal`](../) clase.
+Inicializa una nueva instancia de la clase [`XmpReal`](../).
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Single | Valor flotante. |
+| valor | Single | Valor float. |
 
 ### Ver también
 
 * class [XmpReal](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Inicializa una nueva instancia del[`XmpReal`](../) clase.
+Inicializa una nueva instancia de la clase [`XmpReal`](../).
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | String | El valor. |
+| valor | String | El valor. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | el valor es nulo. |
-| ArgumentException | Valor no válido. Debería ser flotante. |
+| ArgumentNullException | El valor es nulo. |
+| ArgumentException | Valor no válido. Debe ser float. |
 
 ### Ver también
 
 * class [XmpReal](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

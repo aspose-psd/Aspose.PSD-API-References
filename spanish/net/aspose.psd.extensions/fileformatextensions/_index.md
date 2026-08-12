@@ -1,14 +1,15 @@
 ---
-title: Class FileFormatExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.FileFormatExtensions clase. ContieneFileFormat métodos de extensión.
+title: "Clase FileFormatExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.FileFormatExtensions. Contiene métodos de extensión de FileFormat."
 type: docs
-weight: 1080
+weight: 1090
 url: /es/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-Contiene[`FileFormat`](../../aspose.psd/fileformat/) métodos de extensión.
+Contiene los métodos de extensión de [`FileFormat`](../../aspose.psd/fileformat/).
 
 ```csharp
 public static class FileFormatExtensions
@@ -18,11 +19,11 @@ public static class FileFormatExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Determina si se define el formato de archivo único. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Determina si se ha definido un formato de archivo único. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

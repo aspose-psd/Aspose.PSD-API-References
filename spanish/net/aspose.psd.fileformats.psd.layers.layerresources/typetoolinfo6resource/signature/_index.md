@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfo6Resource.Signature
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfo6Resource propiedad. Obtiene la firma del recurso de la capa.
+title: "TypeToolInfo6Resource.Signature"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolInfo6Resource. Obtiene la firma del recurso de capa"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Signature property
 
-Obtiene la firma del recurso de la capa.
+Obtiene la firma del recurso de capa.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Ver también
 
 * class [TypeToolInfo6Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

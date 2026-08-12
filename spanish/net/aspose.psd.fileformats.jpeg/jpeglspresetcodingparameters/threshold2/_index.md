@@ -1,14 +1,15 @@
 ---
-title: JpegLsPresetCodingParameters.Threshold2
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegLsPresetCodingParameters propiedad. Obtiene o establece el segundo valor de umbral de cuantificación para los gradientes locales.
+title: "JpegLsPresetCodingParameters.Threshold2"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "JpegLsPresetCodingParameters property. Obtiene o establece el segundo valor de umbral de cuantización para los gradientes locales"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.Threshold2 property
 
-Obtiene o establece el segundo valor de umbral de cuantificación para los gradientes locales.
+Obtiene o establece el segundo valor umbral de cuantización para los gradientes locales.
 
 ```csharp
 public int Threshold2 { get; set; }
@@ -17,7 +18,7 @@ public int Threshold2 { get; set; }
 ### Ver también
 
 * class [JpegLsPresetCodingParameters](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

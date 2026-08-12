@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases de subprocesos múltiples.
+title: "Aspose.PSD.Multithreading"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases de multihilo"
 type: docs
-weight: 460
+weight: 500
 url: /es/net/aspose.psd.multithreading/
 ---
-El espacio de nombres contiene clases de subprocesos múltiples.
+{{< psd/tize >}}
+El espacio de nombres contiene clases de multihilo.
 
 ## Clases
 

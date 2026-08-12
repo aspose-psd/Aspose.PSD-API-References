@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Saturation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VibAResource propiedad. Obtiene o establece el valor de saturación
+title: "VibAResource.Saturation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VibAResource property. Obtiene o establece el valor de saturación"
 type: docs
-weight: 50
+weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/
 ---
+{{< psd/tize >}}
 ## VibAResource.Saturation property
 
 Obtiene o establece el valor de saturación
@@ -14,14 +15,14 @@ Obtiene o establece el valor de saturación
 public int Saturation { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código demuestra la compatibilidad con el recurso VibAResource.
+El siguiente ejemplo de código muestra el soporte del recurso VibAResource.
 
 ```csharp
 [C#]
 
-// Ejemplo del soporte de lectura y escritura de Vibration Resource en tiempo de ejecución.
+// Ejemplo del soporte de lectura y escritura del Recurso de Vibración en tiempo de ejecución.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [VibAResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

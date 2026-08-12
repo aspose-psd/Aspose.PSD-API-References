@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffSRational método. Aproxima el valor proporcionado a una fracción.
+title: "TiffSRational.ApproximateFraction"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffSRational. Aproxima el valor proporcionado a una fracción"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
 Aproxima el valor proporcionado a una fracción.
@@ -14,20 +15,20 @@ Aproxima el valor proporcionado a una fracción.
 public static TiffSRational ApproximateFraction(double value, double epsilon)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Double | El valor. |
+| valor | Double | El valor. |
 | epsilon | Double | El error permitido. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Un número racional que tiene un error menor que*epsilon*.
+Un número racional con error menor que *epsilon*.
 
 ### Ver también
 
 * class [TiffSRational](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,19 +40,19 @@ Aproxima el valor proporcionado a una fracción.
 public static TiffSRational ApproximateFraction(double value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Double | El valor. |
+| valor | Double | El valor. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Un número racional que tiene un error menor que[`Epsilon`](../epsilon/) .
+Un número racional con error menor que [`Epsilon`](../epsilon/).
 
 ### Ver también
 
 * class [TiffSRational](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -63,20 +64,20 @@ Aproxima el valor proporcionado a una fracción.
 public static TiffSRational ApproximateFraction(float value, double epsilon)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Single | El valor. |
+| valor | Single | El valor. |
 | epsilon | Double | El error permitido. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Un número racional que tiene un error menor que*epsilon*.
+Un número racional con error menor que *epsilon*.
 
 ### Ver también
 
 * class [TiffSRational](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -88,18 +89,18 @@ Aproxima el valor proporcionado a una fracción.
 public static TiffSRational ApproximateFraction(float value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Single | El valor. |
+| valor | Single | El valor. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Un número racional que tiene un error menor que[`Epsilon`](../epsilon/) .
+Un número racional con error menor que [`Epsilon`](../epsilon/).
 
 ### Ver también
 
 * class [TiffSRational](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

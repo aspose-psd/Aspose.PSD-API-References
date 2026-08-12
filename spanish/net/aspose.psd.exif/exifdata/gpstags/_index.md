@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSTags
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece etiquetas que pertenecen solo a la sección GPS.
+title: "ExifData.GPSTags"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece etiquetas que pertenecen únicamente a la sección GPS"
 type: docs
 weight: 630
 url: /es/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
 Obtiene o establece etiquetas, que pertenecen solo a la sección GPS.
@@ -14,7 +15,7 @@ Obtiene o establece etiquetas, que pertenecen solo a la sección GPS.
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las etiquetas GPS.
 
@@ -22,7 +23,7 @@ Las etiquetas GPS.
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

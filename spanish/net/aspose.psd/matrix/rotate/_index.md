@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix método. Aplica una rotación en el sentido de las agujas del reloj de una cantidad especificada en el parámetro de ángulo alrededor del origen coordenadas x e y cero para esta Matriz en el orden especificado.
+title: "Matrix.Rotate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Matrix. Aplica una rotación en sentido horario de una cantidad especificada en el parámetro ángulo alrededor del origen (coordenadas x y y en cero) para este Matrix en el orden especificado."
 type: docs
 weight: 140
 url: /es/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-Aplica una rotación en el sentido de las agujas del reloj de una cantidad especificada en el parámetro de ángulo, alrededor del origen (coordenadas x e y cero) para esta Matriz en el orden especificado.
+Aplica una rotación en sentido horario de una cantidad especificada en el parámetro angle, alrededor del origen (coordenadas x e y cero) para esta Matrix en el orden especificado.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| angle | Single | El ángulo de giro. |
-| order | MatrixOrder | El orden de la matriz. |
+| ángulo | Single | El ángulo de rotación. |
+| orden | MatrixOrder | El orden de la matriz. |
 
 ### Ver también
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Aplica una rotación en el sentido de las agujas del reloj de una cantidad especificada en el parámetro de ángulo, alrededor del origen (coordenadas x e y cero) para esta matriz en el orden predeterminado (anteponer).
+Aplica una rotación en sentido horario de una cantidad especificada en el parámetro angle, alrededor del origen (coordenadas x e y cero) para esta Matrix en el orden predeterminado (Prepend).
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| angle | Single | El ángulo de giro. |
+| ángulo | Single | El ángulo de rotación. |
 
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

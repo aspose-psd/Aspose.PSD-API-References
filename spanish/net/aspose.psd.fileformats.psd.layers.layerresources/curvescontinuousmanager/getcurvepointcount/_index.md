@@ -1,31 +1,32 @@
 ---
-title: CurvesContinuousManager.GetCurvePointCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurvesContinuousManager método. Obtiene el conteo de puntos de la curva.
+title: "CurvesContinuousManager.GetCurvePointCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método CurvesContinuousManager. Obtiene el recuento de puntos de la curva"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointCount method
 
-Obtiene el conteo de puntos de la curva.
+Obtiene el recuento de puntos de la curva.
 
 ```csharp
 public int GetCurvePointCount(int channelIndex)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | channelIndex | Int32 | Índice del canal. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Recuento de puntos de curva en el canal
 
 ### Ver también
 
 * class [CurvesContinuousManager](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

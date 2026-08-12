@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Reverse
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GdFlResource propiedad. Obtiene o establece un valor que indica si esteGdFlResource es inversa.
+title: "GdFlResource.Reverse"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de GdFlResource. Obtiene o establece un valor que indica si este GdFlResource está invertido"
 type: docs
-weight: 140
+weight: 170
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-Obtiene o establece un valor que indica si este[`GdFlResource`](../) es inversa.
+Obtiene o establece un valor que indica si este [`GdFlResource`](../) está invertido.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si es inversa; de lo contrario,`FALSO` .
+`true` si está invertido; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con la carga de recursos GdFlResource.
+El siguiente ejemplo demuestra el soporte de la carga de recursos GdFlResource.
 
 ```csharp
 [C#]
@@ -117,7 +118,7 @@ using (im)
 ### Ver también
 
 * class [GdFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegOptions propiedad. Obtiene o establece la configuración del optimizador de Escritorio remoto.
+title: "JpegOptions.RdOptSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad JpegOptions. Obtiene o establece la configuración del optimizador RD"
 type: docs
-weight: 150
+weight: 160
 url: /es/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-Obtiene o establece la configuración del optimizador de Escritorio remoto.
+Obtiene o establece la configuración del optimizador RD.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La configuración del optimizador de RD.
+La configuración del optimizador RD.
 
 ### Ver también
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

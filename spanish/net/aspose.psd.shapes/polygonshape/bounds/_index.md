@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Bounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PolygonShape propiedad. Obtiene los límites del objeto.
+title: "PolygonShape.Bounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PolygonShape. Obtiene los límites del objeto"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.shapes/polygonshape/bounds/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Bounds property
 
 Obtiene los límites del objeto.
@@ -14,7 +15,7 @@ Obtiene los límites del objeto.
 public override RectangleF Bounds { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los límites del objeto.
 
@@ -22,7 +23,7 @@ Los límites del objeto.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PolygonShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../polygonshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

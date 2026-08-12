@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.ConvertToLinked
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectLayer método. Convierte este objeto inteligente incrustado en un objeto inteligente vinculado.
+title: "SmartObjectLayer.ConvertToLinked"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SmartObjectLayer. Convierte este objeto inteligente incrustado en un objeto inteligente vinculado"
 type: docs
-weight: 70
+weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ConvertToLinked method
 
 Convierte este objeto inteligente incrustado en un objeto inteligente vinculado.
@@ -14,14 +15,14 @@ Convierte este objeto inteligente incrustado en un objeto inteligente vinculado.
 public void ConvertToLinked(string linkedPath)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| linkedPath | String | El camino enlazado. |
+| linkedPath | String | La ruta vinculada. |
 
 ### Ver también
 
 * class [SmartObjectLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

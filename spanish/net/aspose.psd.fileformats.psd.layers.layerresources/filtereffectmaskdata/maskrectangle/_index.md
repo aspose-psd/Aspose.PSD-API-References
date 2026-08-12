@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.MaskRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FilterEffectMaskData propiedad. Obtiene el rectángulo de máscara de hoja.
+title: "FilterEffectMaskData.MaskRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FilterEffectMaskData. Obtiene el rectángulo de la máscara de hoja"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaskRectangle property
 
-Obtiene el rectángulo de máscara de hoja.
+Obtiene el rectángulo de la máscara de hoja.
 
 ```csharp
 public Rectangle MaskRectangle { get; }
@@ -18,7 +19,7 @@ public Rectangle MaskRectangle { get; }
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

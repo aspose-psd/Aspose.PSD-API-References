@@ -1,14 +1,15 @@
 ---
-title: Class LengthRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord clase. Clase de registro de longitud de subruta
+title: "Clase LengthRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord class. Clase Subpath Length Record."
 type: docs
-weight: 1370
+weight: 1380
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord class
 
-Clase de registro de longitud de subruta
+Clase de registro de longitud de subruta.
 
 ```csharp
 public class LengthRecord : VectorPathRecord
@@ -18,14 +19,14 @@ public class LengthRecord : VectorPathRecord
 
 | Nombre | Descripción |
 | --- | --- |
-| [LengthRecord](lengthrecord/#constructor)() | Inicializa una nueva instancia del`LengthRecord` clase. |
-| [LengthRecord](lengthrecord/#constructor_1)(byte[]) | Inicializa una nueva instancia del`LengthRecord` clase. |
+| [LengthRecord](lengthrecord/#constructor)() | Inicializa una nueva instancia de la clase `LengthRecord`. |
+| [LengthRecord](lengthrecord/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `LengthRecord`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BezierKnotRecordsCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/) { get; set; } | Obtiene o establece el recuento de registros de nudos Bézier. |
+| [BezierKnotRecordsCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/) { get; set; } | Obtiene o establece el recuento de registros de nudos bezier. |
 | [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está cerrada. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está abierta. |
 | [PathOperations](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/) { get; set; } | Obtiene o establece las operaciones de ruta. |
@@ -36,7 +37,7 @@ public class LengthRecord : VectorPathRecord
 ### Ver también
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

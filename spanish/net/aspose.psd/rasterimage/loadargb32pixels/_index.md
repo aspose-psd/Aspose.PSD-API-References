@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadArgb32Pixels
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Carga píxeles ARGB de 32 bits.
+title: "RasterImage.LoadArgb32Pixels"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Carga los píxeles ARGB de 32 bits"
 type: docs
 weight: 350
 url: /es/net/aspose.psd/rasterimage/loadargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb32Pixels method
 
 Carga píxeles ARGB de 32 bits.
@@ -14,11 +15,11 @@ Carga píxeles ARGB de 32 bits.
 public int[] LoadArgb32Pixels(Rectangle rectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | El rectángulo desde el que cargar píxeles. |
+| rectángulo | Rectangle | El rectángulo del cual cargar los píxeles. |
 
-### Valor_devuelto
+### Valor devuelto
 
 La matriz de píxeles ARGB de 32 bits cargada.
 
@@ -26,7 +27,7 @@ La matriz de píxeles ARGB de 32 bits cargada.
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

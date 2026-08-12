@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode23976
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TimeFormat propiedad. Obtiene el código de tiempo 23976.
+title: "TimeFormat.Timecode23976"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TimeFormat. Obtiene el timecode23976"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode23976/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode23976 property
 
-Obtiene el código de tiempo 23976.
+Obtiene el timecode23976.
 
 ```csharp
 public static TimeFormat Timecode23976 { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El código de tiempo 23976.
+El timecode23976.
 
 ### Ver también
 
 * class [TimeFormat](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

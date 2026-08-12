@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfoResource propiedad. Obtiene o establece el final de la selección.
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "TypeToolInfoResource propiedad. Obtiene o establece el final de la selección"
 type: docs
-weight: 180
+weight: 160
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
 Obtiene o establece el final de la selección.
@@ -14,14 +15,14 @@ Obtiene o establece el final de la selección.
 public int SelectionEnd { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Fin de la selección.
+El final de la selección.
 
 ### Ver también
 
 * class [TypeToolInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

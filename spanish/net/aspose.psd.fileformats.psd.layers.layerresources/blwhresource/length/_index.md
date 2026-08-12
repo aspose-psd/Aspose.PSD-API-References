@@ -1,14 +1,15 @@
 ---
-title: BlwhResource.Length
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlwhResource propiedad. Obtiene la longitud del recurso de la capa en bytes.
+title: "BlwhResource.Length"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BlwhResource. Obtiene la longitud del recurso de capa en bytes"
 type: docs
-weight: 80
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
-Obtiene la longitud del recurso de la capa en bytes.
+Obtiene la longitud del recurso de capa en bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Ver también
 
 * class [BlwhResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

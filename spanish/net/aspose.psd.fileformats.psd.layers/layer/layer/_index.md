@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer constructor. Inicializa una nueva instancia delLayer clase. Constructor para inicialización diferida.
+title: "Layer.Layer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor Layer. Inicializa una nueva instancia de la clase Layer. Constructor para inicialización perezosa"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-Inicializa una nueva instancia del[`Layer`](../) clase. Constructor para inicialización diferida.
+Inicializa una nueva instancia de la clase [`Layer`](../). Constructor para inicialización perezosa.
 
 ```csharp
 public Layer()
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede dibujar en una capa recién creada si se usa la versión de constructor simple en Aspose.PSD
+El siguiente ejemplo muestra cómo puedes dibujar en una capa recién creada si se usa la versión simple del constructor en Aspose.PSD
 
 ```csharp
 [C#]
@@ -35,10 +36,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // dibujar un rectángulo con la herramienta Pluma
+    // dibujar un rectángulo con la herramienta Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // dibuja otro rectángulo con Pincel Sólido en color Azul
+    // dibujar otro rectángulo con Solid Brush en color azul
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -48,27 +49,27 @@ using (var image = new PsdImage(width, height))
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Inicializa una nueva instancia del[`Layer`](../) clase.
+Inicializa una nueva instancia de la clase [`Layer`](../).
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| image | RasterImage | La imagen. |
-| disposeImage | Boolean | si se establece en`verdadero` [eliminar imagen]. |
+| imagen | RasterImage | La imagen. |
+| disposeImage | Boolean | si se establece a `true` [dispose image]. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de cargar archivos de imagen JPEG/PNG/etc en PsdImage sin carga directa.
+El siguiente código demuestra la capacidad de cargar archivos de imagen JPEG/PNG/etc a PsdImage sin carga directa.
 
 ```csharp
 [C#]
@@ -104,26 +105,26 @@ using (var image = new PsdImage(200, 200))
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-Inicializa una nueva instancia del[`Layer`](../) clase.
+Inicializa una nueva instancia de la clase [`Layer`](../).
 
 ```csharp
 public Layer(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | El flujo de imágenes |
+| flujo | Flujo | El flujo de imagen |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede agregar imágenes Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif como capas a PsdImage
+El siguiente ejemplo muestra cómo puede agregar imágenes Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif como capas a PsdImage
 
 ```csharp
 [C#]
@@ -173,38 +174,38 @@ using (var image = new PsdImage(200, 200))
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Inicializa una nueva instancia del[`Layer`](../) clase de matrices de bytes.
+Inicializa una nueva instancia de la clase [`Layer`](../) a partir de matrices de bytes.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| bounds | Rectangle | Los límites de la capa. |
+| límites | Rectangle | Los límites de la capa. |
 | redBytes | Byte[] | Los bytes rojos. |
 | greenBytes | Byte[] | Los bytes verdes. |
 | blueBytes | Byte[] | Los bytes azules. |
-| name | String | El nombre de la capa. |
+| nombre | String | El nombre de la capa. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Las matrices de bytes no pueden estar vacías o La longitud de las matrices de bytes debe ser igual a las dimensiones de los límites (límites.Ancho * límites.Altura) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Las matrices de bytes no pueden estar vacías o la longitud de las matrices de bytes debe ser igual a las dimensiones de los límites (bounds.Width * bounds.Height) |
 
 ### Ver también
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

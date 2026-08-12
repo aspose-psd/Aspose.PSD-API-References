@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene el recuento de etiquetas válidas. Este no es el recuento total de etiquetas sino el número de etiquetas que se pueden conservar.
+title: "TiffOptions.ValidTagCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene el recuento de etiquetas válidas. Esto no es el recuento total de etiquetas sino el número de etiquetas que pueden preservarse"
 type: docs
-weight: 570
+weight: 580
 url: /es/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-Obtiene el recuento de etiquetas válidas. Este no es el recuento total de etiquetas, sino el número de etiquetas que se pueden conservar.
+Obtiene el recuento de etiquetas válidas. Este no es el recuento total de etiquetas, sino el número de etiquetas que pueden preservarse.
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El recuento de etiquetas válido.
+El recuento de etiquetas válidas.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class RenditionClass
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Derived.RenditionClass clase. Representa la representación XMP.
+title: "Clase RenditionClass"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Xmp.Types.Derived.RenditionClass clase. Representa la Rendición XMP."
 type: docs
-weight: 6130
+weight: 6630
 url: /es/net/aspose.psd.xmp.types.derived/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass class
 
-Representa la representación XMP.
+Representa la XMP Rendition.
 
 ```csharp
 public sealed class RenditionClass : XmpTypeBase
@@ -18,8 +19,8 @@ public sealed class RenditionClass : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [RenditionClass](renditionclass/#constructor)() | Inicializa una nueva instancia del`RenditionClass` clase. |
-| [RenditionClass](renditionclass/#constructor_1)(string, string) | Inicializa una nueva instancia del`RenditionClass` clase. |
+| [RenditionClass](renditionclass/#constructor)() | Inicializa una nueva instancia de la clase `RenditionClass`. |
+| [RenditionClass](renditionclass/#constructor_1)(string, string) | Inicializa una nueva instancia de la clase `RenditionClass`. |
 
 ## Propiedades
 
@@ -33,12 +34,12 @@ public sealed class RenditionClass : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

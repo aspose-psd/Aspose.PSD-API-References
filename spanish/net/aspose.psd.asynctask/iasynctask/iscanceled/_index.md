@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.IsCanceled
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IAsyncTask propiedad. Obtiene un valor que indica si esta tarea fue cancelada.
+title: "IAsyncTask.IsCanceled"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IAsyncTask. Obtiene un valor que indica si esta tarea fue cancelada"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.asynctask/iasynctask/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsCanceled property
 
 Obtiene un valor que indica si esta tarea fue cancelada.
@@ -14,14 +15,14 @@ Obtiene un valor que indica si esta tarea fue cancelada.
 public bool IsCanceled { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta tarea fue cancelada; de lo contrario,`FALSO` .
+`true` si esta tarea fue cancelada; de lo contrario, `false`.
 
 ### Ver también
 
 * interface [IAsyncTask](../)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../iasynctask/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

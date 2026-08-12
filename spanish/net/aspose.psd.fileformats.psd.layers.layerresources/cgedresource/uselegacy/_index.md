@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CgEdResource propiedad. Obtiene o establece un valor que indica si usar legado.
+title: "CgEdResource.UseLegacy"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de CgEdResource. Obtiene o establece un valor que indica si se utiliza el legado"
 type: docs
-weight: 100
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-Obtiene o establece un valor que indica si [usar legado].
+Obtiene o establece un valor que indica si se [use legacy].
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si [usar legado]; de lo contrario,`FALSO` .
+`true` si [usar legado]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [CgEdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

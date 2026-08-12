@@ -1,14 +1,15 @@
 ---
-title: Enum XmpArrayType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.XmpArrayType enumeración. Representa el tipo de matriz enXmpArray .
+title: "Enumeración XmpArrayType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.Xmp.XmpArrayType. Representa el tipo de array en XmpArray"
 type: docs
-weight: 6230
+weight: 6730
 url: /es/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-Representa el tipo de matriz en[`XmpArray`](../xmparray/) .
+Representa el tipo de array en [`XmpArray`](../xmparray/).
 
 ```csharp
 public enum XmpArrayType
@@ -18,13 +19,13 @@ public enum XmpArrayType
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| UNORDERED | `0` | La matriz desordenada. |
-| ORDERED | `1` | La matriz ordenada. |
-| ALTERNATIVE | `2` | La matriz alternativa. |
+| UNORDERED | `0` | El array desordenado. |
+| ORDERED | `1` | El array ordenado. |
+| ALTERNATIVE | `2` | El array alternativo. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StringFormat.ToString
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormat método. Convierte estoStringFormat objeto a una cadena legible por humanos.
+title: "StringFormat.ToString"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método StringFormat. Convierte este objeto StringFormat a una cadena legible por humanos"
 type: docs
-weight: 150
+weight: 180
 url: /es/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-Convierte esto[`StringFormat`](../) objeto a una cadena legible por humanos.
+Convierte este objeto [`StringFormat`](../) a una cadena legible por humanos.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Una representación de cadena de este[`StringFormat`](../) objeto.
+Una representación en cadena de este objeto [`StringFormat`](../).
 
 ### Ver también
 
 * class [StringFormat](../)
-* espacio de nombres [Aspose.PSD](../../stringformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HatchBrush propiedad. Obtiene o establece el estilo de sombreado de este pincel.
+title: "HatchBrush.HatchStyle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad HatchBrush. Obtiene o establece el estilo de trama de este pincel"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
-Obtiene o establece el estilo de sombreado de este pincel.
+Obtiene o establece el estilo de trama de este brush.
 
 ```csharp
 public HatchStyle HatchStyle { get; set; }
@@ -18,7 +19,7 @@ public HatchStyle HatchStyle { get; set; }
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../hatchbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

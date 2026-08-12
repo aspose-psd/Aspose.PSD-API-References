@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.VerticalPlacement
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfoResource propiedad. Obtiene o establece la ubicación vertical.
+title: "TypeToolInfoResource.VerticalPlacement"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolInfoResource. Obtiene o establece la ubicación vertical."
 type: docs
-weight: 260
+weight: 230
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.VerticalPlacement property
 
-Obtiene o establece la ubicación vertical.
+Obtiene o establece la posición vertical.
 
 ```csharp
 public int VerticalPlacement { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La colocación vertical.
+La ubicación vertical.
 
 ### Ver también
 
 * class [TypeToolInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

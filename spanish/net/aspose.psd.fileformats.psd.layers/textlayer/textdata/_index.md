@@ -1,22 +1,23 @@
 ---
-title: TextLayer.TextData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextLayer propiedad. Obtiene las porciones de texto.
+title: "TextLayer.TextData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextLayer. Obtiene las porciones del texto"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextData property
 
-Obtiene las porciones de texto.
+Obtiene las porciones del texto.
 
 ```csharp
 public IText TextData { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra cómo Aspose.PSD obtiene las propiedades del formato en línea de la capa de texto.
+El siguiente código demuestra cómo Aspose.PSD obtiene propiedades del formato en línea de la capa de texto.
 
 ```csharp
 [C#]
@@ -26,7 +27,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // obtiene las fuentes que contiene en la capa de texto
+        // obtiene fuentes que contiene la capa de texto
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -70,7 +71,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El siguiente ejemplo de código muestra la edición de porciones de texto y su estilo de texto.
+El siguiente ejemplo de código demuestra la edición de porciones de texto y su estilo de texto.
 
 ```csharp
 [C#]
@@ -93,7 +94,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando el texto de cada porción
+            // Comprobando el texto de cada porción
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -102,8 +103,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando los datos de los párrafos
-            // Los párrafos tienen diferente justificación
+            // Comprobando los datos de los párrafos
+            // Los párrafos tienen justificación diferente
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -137,7 +138,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -152,8 +153,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Comprobando datos de estilo
-            // Los estilos tienen diferentes colores y tamaños de letra
+            // Comprobando los datos de estilo
+            // Los estilos tienen colores diferentes y tamaño de fuente
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -193,7 +194,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Ejemplo de cómo agregar una nueva porción de texto
+            // Ejemplo de agregar una nueva porción de texto
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -201,17 +202,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Ejemplo de edición de párrafo y estilo para porciones
-            // Establecer justificación correcta
+            // Establecer justificación a la derecha
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Diferentes colores para cada estilo. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Diferentes colores para cada estilo. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Fuente diferente. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Fuente diferente. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -230,7 +231,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * interface [IText](../../../aspose.psd.fileformats.psd.layers.text/itext/)
 * class [TextLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

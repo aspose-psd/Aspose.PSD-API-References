@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.CompressionType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegOptions propiedad. Obtiene o establece el tipo de compresión.
+title: "JpegOptions.CompressionType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de JpegOptions. Obtiene o establece el tipo de compresión"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.imageoptions/jpegoptions/compressiontype/
 ---
+{{< psd/tize >}}
 ## JpegOptions.CompressionType property
 
 Obtiene o establece el tipo de compresión.
@@ -18,7 +19,7 @@ public JpegCompressionMode CompressionType { get; set; }
 
 * enum [JpegCompressionMode](../../../aspose.psd.fileformats.jpeg/jpegcompressionmode/)
 * class [JpegOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

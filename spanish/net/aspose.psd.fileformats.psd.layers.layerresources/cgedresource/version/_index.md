@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CgEdResource propiedad. Obtiene o establece la versión.
+title: "CgEdResource.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de CgEdResource. Obtiene o establece la versión"
 type: docs
-weight: 110
+weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
 Obtiene o establece la versión.
@@ -14,14 +15,14 @@ Obtiene o establece la versión.
 public int Version { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión.
 
 ### Ver también
 
 * class [CgEdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

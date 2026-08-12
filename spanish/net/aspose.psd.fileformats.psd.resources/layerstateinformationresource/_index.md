@@ -1,14 +1,15 @@
 ---
-title: Class LayerStateInformationResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.LayerStateInformationResource clase. Recurso de información de estado de capa
+title: "Clase LayerStateInformationResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Resources.LayerStateInformationResource. Recurso de información del estado de capa"
 type: docs
-weight: 3810
+weight: 4280
 url: /es/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource class
 
-Recurso de información de estado de capa
+Recurso de información del estado de capa
 
 ```csharp
 public sealed class LayerStateInformationResource : ResourceBlock
@@ -18,7 +19,7 @@ public sealed class LayerStateInformationResource : ResourceBlock
 
 | Nombre | Descripción |
 | --- | --- |
-| [LayerStateInformationResource](layerstateinformationresource/)() | Constructor predeterminado |
+| [LayerStateInformationResource](layerstateinformationresource/)() | El constructor predeterminado. |
 
 ## Propiedades
 
@@ -27,22 +28,22 @@ public sealed class LayerStateInformationResource : ResourceBlock
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/layerstateinformationresource/datasize/) { get; } | Obtiene el tamaño de los datos del recurso en bytes. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtiene o establece el identificador único del recurso. |
 | [LayerIndex](../../aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/) { get; set; } | Obtiene o establece el índice de la capa. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layerstateinformationresource/minimalversion/) { get; } | Obtiene la versión PSD mínima requerida. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea uniforme (un nombre nulo consta de dos bytes de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Debe ser siempre '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recursos en bytes, incluidos sus datos. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layerstateinformationresource/minimalversion/) { get; } | Obtiene la versión mínima requerida del PSD. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea par (un nombre nulo consta de dos bytes de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Siempre debe ser '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recurso en bytes, incluidos sus datos. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recursos en el flujo especificado. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recurso en el flujo especificado. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valida los valores del recurso. |
 
 ### Ver también
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

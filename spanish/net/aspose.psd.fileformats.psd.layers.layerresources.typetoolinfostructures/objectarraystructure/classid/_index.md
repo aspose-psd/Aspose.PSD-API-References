@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ObjectArrayStructure propiedad. Obtiene o establece el ID de clase de la matriz de objetos.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ObjectArrayStructure. Obtiene o establece el ID de clase del arreglo de objetos"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Obtiene o establece el ID de clase de la matriz de objetos.
+Obtiene o establece el ID de la clase de la matriz de objetos.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La clase de matriz de objetos ID.
+El ID de clase del arreglo de objetos.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con las firmas ObAr y UnFl.
+El siguiente código demuestra el soporte de las firmas ObAr y UnFl.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

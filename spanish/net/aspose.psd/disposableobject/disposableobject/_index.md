@@ -1,14 +1,15 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DisposableObject constructor. Constructor predeterminado
+title: "DisposableObject.DisposableObject"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor DisposableObject. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public DisposableObject()
@@ -17,7 +18,7 @@ public DisposableObject()
 ### Ver también
 
 * class [DisposableObject](../)
-* espacio de nombres [Aspose.PSD](../../disposableobject/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

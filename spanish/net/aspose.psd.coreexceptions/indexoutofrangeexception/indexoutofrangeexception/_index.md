@@ -1,48 +1,49 @@
 ---
-title: IndexOutOFRangeException.IndexOutOFRangeException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IndexOutOFRangeException constructor. Inicializa una nueva instancia delCompressorException clase.
+title: "IndexOutOFRangeException.IndexOutOFRangeException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de IndexOutOFRangeException. Inicializa una nueva instancia de la clase CompressorException"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.coreexceptions/indexoutofrangeexception/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException(string) {#constructor}
 
-Inicializa una nueva instancia del[`CompressorException`](../../compressorexception/) clase.
+Inicializa una nueva instancia de la clase [`CompressorException`](../../compressorexception/).
 
 ```csharp
 public IndexOutOFRangeException(string message)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| message | String | El mensaje de excepción. |
+| message | String | El mensaje de la excepción. |
 
 ### Ver también
 
 * class [IndexOutOFRangeException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IndexOutOFRangeException(string, Exception) {#constructor_1}
 
-Inicializa una nueva instancia del[`CompressorException`](../../compressorexception/) clase.
+Inicializa una nueva instancia de la clase [`CompressorException`](../../compressorexception/).
 
 ```csharp
 public IndexOutOFRangeException(string message, Exception innerException)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| message | String | El mensaje de excepción. |
-| innerException | Exception | La excepción interior. |
+| message | String | El mensaje de la excepción. |
+| innerException | Excepción | La excepción interna. |
 
 ### Ver también
 
 * class [IndexOutOFRangeException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

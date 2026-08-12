@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadDoubleArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee una matriz de valores dobles de la secuencia.
+title: "TiffStreamReader.ReadDoubleArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee una matriz de valores double del flujo"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdoublearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDoubleArray method
 
-Lee una matriz de valores dobles de la secuencia.
+Lee una matriz de valores dobles del flujo.
 
 ```csharp
 public double[] ReadDoubleArray(long position, long count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
-| count | Int64 | Los elementos cuentan. |
+| posición | Int64 | La posición desde la cual leer. |
+| count | Int64 | El recuento de elementos. |
 
-### Valor_devuelto
+### Valor devuelto
 
-La matriz de valores dobles.
+La matriz de valores double.
 
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

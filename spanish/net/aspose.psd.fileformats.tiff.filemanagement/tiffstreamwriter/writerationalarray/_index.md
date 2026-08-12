@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamWriter método. Escribe una matriz de valores racionales sin signo en la secuencia.
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamWriter. Escribe un arreglo de valores racionales sin signo al flujo"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
-Escribe una matriz de valores racionales sin signo en la secuencia.
+Escribe una matriz de valores racionales sin signo al flujo.
 
 ```csharp
 public void WriteRationalArray(TiffRational[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | TiffRational[] | La matriz a escribir. |
+| datos | TiffRational[] | La matriz a escribir. |
 
 ### Ver también
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

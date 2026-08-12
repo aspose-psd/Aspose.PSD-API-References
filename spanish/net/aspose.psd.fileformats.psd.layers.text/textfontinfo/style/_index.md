@@ -1,26 +1,27 @@
 ---
-title: TextFontInfo.Style
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextFontInfo propiedad. Obtiene el estilo de fuente analizado del nombre de la subfamilia
+title: "TextFontInfo.Style"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextFontInfo. Obtiene el estilo de la fuente analizado a partir del nombre de la subfamilia"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/style/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Style property
 
-Obtiene el estilo de fuente analizado del nombre de la subfamilia
+Obtiene el estilo de fuente analizado a partir del nombre de subfamilia
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Estilo de fuente analizado del nombre de la subfamilia
+Estilo de la fuente analizado a partir del nombre de la subfamilia
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra cómo Aspose.PSD obtiene las propiedades del formato en línea de la capa de texto.
+El siguiente código demuestra cómo Aspose.PSD obtiene propiedades del formato en línea de la capa de texto.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // obtiene las fuentes que contiene en la capa de texto
+        // obtiene fuentes que contiene la capa de texto
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * enum [FontStyle](../../../aspose.psd/fontstyle/)
 * class [TextFontInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AliasStructure.StructureKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AliasStructure campo. Identifica la clave de estructura.
+title: "AliasStructure.StructureKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo AliasStructure. Identifica la clave de la estructura"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## AliasStructure.StructureKey field
 
-Identifica la clave de estructura.
+Identifica la clave de la estructura.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Ver también
 
 * class [AliasStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AudioSampleType.ToString
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AudioSampleType método. Devuelve unString que representa esta instancia.
+title: "AudioSampleType.ToString"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método AudioSampleType. Devuelve una String que representa esta instancia"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-Devuelve unString que representa esta instancia.
+Devuelve una String que representa esta instancia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-AString que representa esta instancia.
+Una String que representa esta instancia.
 
 ### Ver también
 
 * class [AudioSampleType](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

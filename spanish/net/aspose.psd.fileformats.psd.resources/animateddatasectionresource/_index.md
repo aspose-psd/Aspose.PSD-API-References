@@ -1,14 +1,15 @@
 ---
-title: Class AnimatedDataSectionResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.AnimatedDataSectionResource clase. El recurso del complemento Sección de datos animados.
+title: "Clase AnimatedDataSectionResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Resources.AnimatedDataSectionResource. El recurso PlugIn de la Sección de Datos Animados."
 type: docs
-weight: 3630
+weight: 4090
 url: /es/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource class
 
-El recurso del complemento Sección de datos animados.
+El recurso del complemento Animated Data Section.
 
 ```csharp
 public class AnimatedDataSectionResource : ResourceBlock
@@ -18,25 +19,25 @@ public class AnimatedDataSectionResource : ResourceBlock
 
 | Nombre | Descripción |
 | --- | --- |
-| [AnimatedDataSection](../../aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/) { get; } | Obtiene o establece la estructura de la sección de datos animada. |
+| [AnimatedDataSection](../../aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/) { get; } | Obtiene o establece la estructura de la sección de datos animados. |
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/animateddatasectionresource/datasize/) { get; } | Obtiene el tamaño de los datos del recurso en bytes. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtiene o establece el identificador único del recurso. |
 | [KeyName](../../aspose.psd.fileformats.psd.resources/animateddatasectionresource/keyname/) { get; } | El nombre de la clave del recurso. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/animateddatasectionresource/minimalversion/) { get; } | Obtiene la versión PSD mínima requerida. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea uniforme (un nombre nulo consta de dos bytes de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Debe ser siempre '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recursos en bytes, incluidos sus datos. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/animateddatasectionresource/minimalversion/) { get; } | Obtiene la versión mínima requerida del PSD. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea par (un nombre nulo consta de dos bytes de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Siempre debe ser '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recurso en bytes, incluidos sus datos. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recursos en el flujo especificado. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recurso en el flujo especificado. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valida los valores del recurso. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra cómo configurar/actualizar el tiempo de retraso en el marco de la línea de tiempo de los datos animados.
+El siguiente código muestra cómo establecer/actualizar el tiempo de retraso en el fotograma de la línea de tiempo de datos animados.
 
 ```csharp
 [C#]
@@ -88,9 +89,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Crea el registro de retardo de cuadro con un valor de 100 centisegundos que es igual a 1 segundo.
+            // Crea el registro de retraso de fotograma con un valor de 100 centisegundos, que equivale a 1 segundo.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // establece el tiempo en centisegundos.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -105,7 +106,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Ver también
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

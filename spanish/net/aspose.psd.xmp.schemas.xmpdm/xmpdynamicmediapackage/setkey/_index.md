@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece la clave musical del audio.
+title: "XmpDynamicMediaPackage.SetKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece la tonalidad musical del audio"
 type: docs
 weight: 260
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetKey method
 
-Establece la clave musical del audio.
+Establece la tonalidad musical del audio.
 
 ```csharp
 public void SetKey(string key)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | La clave musical del audio. Uno de: C, C#, D, D#, E, F, F#, G, G#, A, A# y B. |
+| clave | String | La tonalidad musical del audio. Uno de: C, C#, D, D#, E, F, F#, G, G#, A, A#, y B. |
 
 ### Ver también
 
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Matrix.GetElements
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix método. Obtiene la copia de los elementos de la matriz.
+title: "Matrix.GetElements"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Matrix. Obtiene la copia de los elementos de la matriz."
 type: docs
 weight: 100
 url: /es/net/aspose.psd/matrix/getelements/
 ---
+{{< psd/tize >}}
 ## Matrix.GetElements method
 
 Obtiene la copia de los elementos de la matriz.
@@ -14,14 +15,14 @@ Obtiene la copia de los elementos de la matriz.
 public float[] GetElements()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Copia de elementos de una matriz.
+Una copia de los elementos de la matriz.
 
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

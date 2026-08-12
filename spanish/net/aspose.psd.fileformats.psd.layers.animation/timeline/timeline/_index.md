@@ -1,23 +1,24 @@
 ---
-title: TimeLine.TimeLine
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TimeLine constructor. Constructor predeterminado
+title: "Timeline.Timeline"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de Timeline. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.animation/timeline/timeline/
 ---
-## TimeLine constructor
+{{< psd/tize >}}
+## Timeline constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
-public TimeLine()
+public Timeline()
 ```
 
 ### Ver también
 
-* class [TimeLine](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* asamblea [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

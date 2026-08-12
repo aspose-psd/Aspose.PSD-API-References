@@ -1,24 +1,25 @@
 ---
-title: ColorTranslator.FromHtml
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorTranslator método. Toma color del HTML color.
+title: "ColorTranslator.FromHtml"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorTranslator. Obtiene el color del color HTML"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/colortranslator/fromhtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromHtml method
 
-Toma color del HTML color.
+Obtiene el color del color HTML.
 
 ```csharp
 public static Color FromHtml(string htmlColor)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| htmlColor | String | color HTML. |
+| htmlColor | String | Color HTML. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El color.
 
@@ -26,7 +27,7 @@ El color.
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* espacio de nombres [Aspose.PSD](../../colortranslator/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

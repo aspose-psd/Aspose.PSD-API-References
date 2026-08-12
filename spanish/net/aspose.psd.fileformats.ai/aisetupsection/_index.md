@@ -1,11 +1,12 @@
 ---
-title: Class AiSetupSection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection clase. La sección de configuración del formato Ai
+title: "Clase AiSetupSection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Ai.AiSetupSection clase. La sección de configuración del formato Ai"
 type: docs
-weight: 1300
+weight: 1310
 url: /es/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
 La sección de configuración del formato Ai
@@ -18,12 +19,12 @@ public sealed class AiSetupSection : AiSection
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Obtiene los datos de la cadena. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Obtiene los datos de cadena. |
 
 ### Ver también
 
 * class [AiSection](../aisection/)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

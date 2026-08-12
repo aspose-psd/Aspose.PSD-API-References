@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.ChildDocId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinkDataSource propiedad. Obtiene o establece el identificador de documento secundario en la fuente de datos liFE o liFD del recurso Lnk2 / LnkE Adobe Photoshop.
+title: "LinkDataSource.ChildDocId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinkDataSource. Obtiene o establece el identificador del documento hijo en la fuente de datos liFE o liFD del recurso Adobe Photoshop Lnk2 / LnkE."
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.ChildDocId property
 
-Obtiene o establece el identificador de documento secundario en la fuente de datos liFE o liFD del recurso Lnk2 / LnkE Adobe® Photoshop®.
+Obtiene o establece el identificador del documento hijo en la fuente de datos liFE o liFD del recurso Lnk2 / LnkE de Adobe® Photoshop®.
 
 ```csharp
 public string ChildDocId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El identificador del documento secundario en la fuente de datos liFE o liFD del recurso PSD Lnk2 / LnkE.
+El identificador del documento hijo en la fuente de datos liFE o liFD del recurso PSD Lnk2 / LnkE.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | No puede acceder a la propiedad ChildDocId, está disponible solo para fuente de datos liFE o liFD con versión 5 o superior. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | No puede acceder a la propiedad ChildDocId, solo está disponible para la fuente de datos liFE o liFD con versión 5 o superior. |
 
 ### Ver también
 
 * class [LinkDataSource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

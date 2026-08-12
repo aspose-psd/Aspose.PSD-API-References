@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle propiedad. Obtiene o establece la coordenada y que es la suma de losY yHeight valores de propiedad de esteRectangleestructura.
+title: "Rectangle.Bottom"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Rectangle. Obtiene o establece la coordenada y que es la suma de los valores de las propiedades Y y Height de esta estructura Rectangle."
 type: docs
 weight: 110
 url: /es/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-Obtiene o establece la coordenada y que es la suma de los[`Y`](../y/) y[`Height`](../height/) valores de propiedad de este[`Rectangle`](../)estructura.
+Obtiene o establece la coordenada y que es la suma de los valores de las propiedades [`Y`](../y/) y [`Height`](../height/) de esta estructura [`Rectangle`](../).
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La coordenada y que es la suma de[`Y`](../y/) y[`Height`](../height/) de esta[`Rectangle`](../) .
+La coordenada y que es la suma de [`Y`](../y/) y [`Height`](../height/) de este [`Rectangle`](../).
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

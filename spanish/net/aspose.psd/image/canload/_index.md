@@ -1,107 +1,108 @@
 ---
-title: Image.CanLoad
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image método. Determina si la imagen se puede cargar desde la ruta de archivo especificada.
+title: "Image.CanLoad"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Image. Determina si la imagen puede cargarse desde la ruta de archivo especificada"
 type: docs
-weight: 250
+weight: 260
 url: /es/net/aspose.psd/image/canload/
 ---
+{{< psd/tize >}}
 ## CanLoad(string) {#canload_2}
 
-Determina si la imagen se puede cargar desde la ruta de archivo especificada.
+Determina si la imagen puede cargarse desde la ruta de archivo especificada.
 
 ```csharp
 public static bool CanLoad(string filePath)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si la imagen se puede cargar desde el archivo especificado; de lo contrario,`FALSO` .
+`true` si la imagen puede cargarse desde el archivo especificado; de lo contrario, `false`.
 
 ### Ver también
 
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(string, LoadOptions) {#canload_3}
 
-Determina si la imagen se puede cargar desde la ruta de archivo especificada y, opcionalmente, usando las opciones de apertura especificadas.
+Determina si la imagen puede cargarse desde la ruta de archivo especificada y, opcionalmente, usando las opciones de apertura especificadas.
 
 ```csharp
 public static bool CanLoad(string filePath, LoadOptions loadOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo. |
 | loadOptions | LoadOptions | Las opciones de carga. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si la imagen se puede cargar desde el archivo especificado; de lo contrario,`FALSO` .
+`true` si la imagen puede cargarse desde el archivo especificado; de lo contrario, `false`.
 
 ### Ver también
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream) {#canload}
 
-Determina si la imagen se puede cargar desde el flujo especificado.
+Determina si la imagen puede cargarse desde el flujo especificado.
 
 ```csharp
 public static bool CanLoad(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | El flujo desde el que cargar. |
+| flujo | Flujo | El flujo desde el cual cargar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si la imagen se puede cargar desde el flujo especificado; de lo contrario,`FALSO` .
+`true` si la imagen puede cargarse desde el flujo especificado; de lo contrario, `false`.
 
 ### Ver también
 
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream, LoadOptions) {#canload_1}
 
-Determina si la imagen se puede cargar desde el flujo especificado y, opcionalmente, utilizando el*loadOptions* .
+Determina si la imagen puede cargarse desde el flujo especificado y, opcionalmente, usando los *loadOptions* especificados.
 
 ```csharp
 public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | El flujo desde el que cargar. |
+| flujo | Flujo | El flujo desde el cual cargar. |
 | loadOptions | LoadOptions | Las opciones de carga. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si la imagen se puede cargar desde el flujo especificado; de lo contrario,`FALSO` .
+`true` si la imagen puede cargarse desde el flujo especificado; de lo contrario, `false`.
 
 ### Ver también
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

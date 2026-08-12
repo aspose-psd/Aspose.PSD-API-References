@@ -1,75 +1,76 @@
 ---
-title: Rectangle.Inflate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle método. Crea y devuelve una copia inflada del especificadoRectangleestructura. La copia se infla en la cantidad especificada. El originalRectangle la estructura permanece sin modificar.
+title: "Rectangle.Inflate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Rectangle. Crea y devuelve una copia inflada de la estructura Rectangle especificada. La copia se infla en la cantidad especificada. La estructura Rectangle original permanece sin modificar."
 type: docs
 weight: 60
 url: /es/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-Crea y devuelve una copia inflada del especificado[`Rectangle`](../)estructura. La copia se infla en la cantidad especificada. El original[`Rectangle`](../) la estructura permanece sin modificar.
+Crea y devuelve una copia inflada de la estructura [`Rectangle`](../) especificada. La copia se infla en la cantidad especificada. La estructura [`Rectangle`](../) original permanece sin modificar.
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El[`Rectangle`](../) con el que empezar. Este rectángulo no se modifica. |
-| x | Int32 | La cantidad para inflar este[`Rectangle`](../) horizontalmente. |
-| y | Int32 | La cantidad para inflar este[`Rectangle`](../) verticalmente |
+| rect | Rectangle | El [`Rectangle`](../) con el que comenzar. Este rectángulo no se modifica. |
+| x | Int32 | La cantidad para inflar este [`Rectangle`](../) horizontalmente. |
+| y | Int32 | La cantidad para inflar este [`Rectangle`](../) verticalmente. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el inflado[`Rectangle`](../).
+El [`Rectangle`](../) inflado.
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-infla esto[`Rectangle`](../)por la cantidad especificada.
+Infla este [`Rectangle`](../) en la cantidad especificada.
 
 ```csharp
 public void Inflate(int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| width | Int32 | La cantidad para inflar este[`Rectangle`](../) horizontalmente. |
-| height | Int32 | La cantidad para inflar este[`Rectangle`](../) verticalmente |
+| width | Int32 | La cantidad para inflar este [`Rectangle`](../) horizontalmente. |
+| height | Int32 | La cantidad para inflar este [`Rectangle`](../) verticalmente. |
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-infla esto[`Rectangle`](../)por la cantidad especificada.
+Infla este [`Rectangle`](../) en la cantidad especificada.
 
 ```csharp
 public void Inflate(Size size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size | Size | La cantidad para inflar este rectángulo. |
+| tamaño | Tamaño | La cantidad para inflar este rectángulo. |
 
 ### Ver también
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

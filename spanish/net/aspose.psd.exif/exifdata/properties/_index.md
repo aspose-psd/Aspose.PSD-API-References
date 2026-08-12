@@ -1,28 +1,29 @@
 ---
-title: ExifData.Properties
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece todas las etiquetas EXIF incluidas las etiquetas comunes y GPS.
+title: "ExifData.Properties"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece todas las etiquetas EXIF, incluidas las comunes y las de GPS"
 type: docs
 weight: 860
 url: /es/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
-Obtiene o establece todas las etiquetas EXIF (incluidas las etiquetas comunes y GPS).
+Obtiene o establece todas las etiquetas EXIF (incluyendo etiquetas comunes y GPS).
 
 ```csharp
 public TiffDataType[] Properties { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las etiquetas EXIF (incluidas las etiquetas comunes y GPS).
+Las etiquetas EXIF (incluidas las comunes y las de GPS).
 
 ### Ver también
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

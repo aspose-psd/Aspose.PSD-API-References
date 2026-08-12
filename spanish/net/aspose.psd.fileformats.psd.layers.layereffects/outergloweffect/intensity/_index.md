@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OuterGlowEffect propiedad. Obtiene o establece el ángulo en grados.
+title: "OuterGlowEffect.Intensity"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OuterGlowEffect propiedad. Obtiene o establece el ángulo en grados"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
 Obtiene o establece el ángulo en grados.
@@ -14,13 +15,13 @@ Obtiene o establece el ángulo en grados.
 public int Intensity { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ángulo.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con OuterGlowEffect.
+El siguiente código demuestra el soporte de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Ver también
 
 * class [OuterGlowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

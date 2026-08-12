@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.DocumentUri
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResourceRef propiedad. Obtiene o establece la URI del documento.
+title: "ResourceRef.DocumentUri"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResourceRef. Obtiene o establece el URI del documento"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 ---
+{{< psd/tize >}}
 ## ResourceRef.DocumentUri property
 
-Obtiene o establece la URI del documento.
+Obtiene o establece el URI del documento.
 
 ```csharp
 public string DocumentUri { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El documento URI.
+El URI del documento.
 
 ### Ver también
 
 * class [ResourceRef](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

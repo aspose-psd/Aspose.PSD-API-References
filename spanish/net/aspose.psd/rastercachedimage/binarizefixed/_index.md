@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.BinarizeFixed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterCachedImage método. Binarización de una imagen con umbral predefinido
+title: "RasterCachedImage.BinarizeFixed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterCachedImage. Binarización de una imagen con umbral predefinido"
 type: docs
 weight: 60
 url: /es/net/aspose.psd/rastercachedimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.BinarizeFixed method
 
 Binarización de una imagen con umbral predefinido
@@ -14,14 +15,14 @@ Binarización de una imagen con umbral predefinido
 public override void BinarizeFixed(byte threshold)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| threshold | Byte | Valor umbral. Si el valor de gris correspondiente de un píxel es mayor que el umbral, se le asignará un valor de 255, 0 de lo contrario. |
+| umbral | Byte | Valor del umbral. Si el valor gris correspondiente de un píxel es mayor que el umbral, se le asignará un valor de 255; de lo contrario, 0. |
 
 ### Ver también
 
 * class [RasterCachedImage](../)
-* espacio de nombres [Aspose.PSD](../../rastercachedimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

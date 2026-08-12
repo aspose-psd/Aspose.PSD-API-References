@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FxrpResource método. Guarda en el contenedor de flujo especificado.
+title: "FxrpResource.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método FxrpResource. Guarda en el contenedor de flujo especificado"
 type: docs
-weight: 80
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Save method
 
 Guarda en el contenedor de flujo especificado.
@@ -14,7 +15,7 @@ Guarda en el contenedor de flujo especificado.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | streamContainer | StreamContainer | El contenedor de flujo. |
 | psdVersion | Int32 | La versión PSD. |
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

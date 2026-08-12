@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VogkResource propiedad. Obtiene o establece la versión.
+title: "VogkResource.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VogkResource. Obtiene o establece la versión"
 type: docs
-weight: 70
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/version/
 ---
+{{< psd/tize >}}
 ## VogkResource.Version property
 
 Obtiene o establece la versión.
@@ -14,13 +15,13 @@ Obtiene o establece la versión.
 public int Version { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra el soporte del recurso VogkResource.
+El siguiente ejemplo muestra el soporte del recurso VogkResource.
 
 ```csharp
 [C#]
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [VogkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

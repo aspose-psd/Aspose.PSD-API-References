@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MultiPageOptions método. Inicializa las páginas de rangos array
+title: "MultiPageOptions.InitPages"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método MultiPageOptions. Inicializa las páginas a partir del arreglo de rangos"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.imageoptions/multipageoptions/initpages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.InitPages method
 
-Inicializa las páginas de rangos array
+Inicializa las páginas a partir del arreglo de rangos.
 
 ```csharp
 public void InitPages(IntRange[] ranges)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| ranges | IntRange[] | Los rangos. |
+| rangos | IntRange[] | Los rangos. |
 
 ### Ver también
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

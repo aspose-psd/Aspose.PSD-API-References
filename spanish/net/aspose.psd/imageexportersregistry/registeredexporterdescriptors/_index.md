@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageExportersRegistry propiedad. Obtiene los descriptores del exportador registrado.
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ImageExportersRegistry. Obtiene los descriptores de exportador registrados"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
-Obtiene los descriptores del exportador registrado.
+Obtiene los descriptores de exportador registrados.
 
 ```csharp
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los descriptores del exportador registrado.
+Los descriptores de exportador registrados.
 
 ### Ver también
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imageexportersregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

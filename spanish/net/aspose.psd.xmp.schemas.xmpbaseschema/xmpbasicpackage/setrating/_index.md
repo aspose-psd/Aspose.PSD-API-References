@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetRating
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpBasicPackage método. Clasificación de conjuntos.
+title: "XmpBasicPackage.SetRating"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpBasicPackage. Establece la calificación"
 type: docs
-weight: 90
+weight: 110
 url: /es/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetRating method
 
-Clasificación de conjuntos.
+Establece la calificación.
 
 ```csharp
 public void SetRating(int choise)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| choise | Int32 | De -1 a 5 |
+| opción | Int32 | De -1 a 5 |
 
 ### Ver también
 
 * class [XmpBasicPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

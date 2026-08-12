@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. Obtiene el índice de fuente.
+title: "ITextStyle.FontIndex"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ITextStyle propiedad. Obtiene el índice de fuente"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
-Obtiene el índice de fuente.
+Obtiene el índice de la fuente.
 
 ```csharp
 public int FontIndex { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La fuente.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra cómo Aspose.PSD obtiene las propiedades del formato en línea de la capa de texto.
+El siguiente código demuestra cómo Aspose.PSD obtiene propiedades del formato en línea de la capa de texto.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // obtiene las fuentes que contiene en la capa de texto
+        // obtiene fuentes que contiene la capa de texto
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 ### Ver también
 
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

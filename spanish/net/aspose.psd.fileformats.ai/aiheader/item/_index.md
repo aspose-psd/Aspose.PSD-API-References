@@ -1,14 +1,15 @@
 ---
-title: AiHeader.Item
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiHeader propiedad. Obtiene o establece elString con el nombre de propiedad especificado.
+title: "AiHeader.Item"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiHeader. Obtiene o establece el String con el nombre de propiedad especificado"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-Obtiene o establece elString con el nombre de propiedad especificado.
+Obtiene o establece la cadena con el nombre de propiedad especificado.
 
 ```csharp
 public string this[string propertyName] { get; set; }
@@ -18,14 +19,14 @@ public string this[string propertyName] { get; set; }
 | --- | --- |
 | propertyName | Nombre de la propiedad. |
 
-### El valor de la propiedad
+### Property Value
 
-ElString .
+El String.
 
 ### Ver también
 
 * class [AiHeader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

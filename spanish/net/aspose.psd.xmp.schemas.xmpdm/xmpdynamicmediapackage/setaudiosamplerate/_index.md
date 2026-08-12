@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece la frecuencia de muestreo de audio.
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece la frecuencia de muestreo del audio"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
 Establece la frecuencia de muestreo de audio.
@@ -14,14 +15,14 @@ Establece la frecuencia de muestreo de audio.
 public void SetAudioSampleRate(int rate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rate | Int32 | La frecuencia de muestreo de audio. |
+| tasa | Int32 | La tasa de muestreo de audio. |
 
 ### Ver también
 
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

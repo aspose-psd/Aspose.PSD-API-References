@@ -1,14 +1,15 @@
 ---
-title: Class CustResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource clase. Class CustResource. Este recurso contiene información sobre la combinación de elementos recortados.
+title: "Clase CustResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource. Clase CustResource. Este recurso contiene información sobre la fusión del elemento recortado."
 type: docs
-weight: 2440
+weight: 2700
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource class
 
-Class CustResource. Este recurso contiene información sobre la combinación de elementos recortados.
+Clase CustResource. Este recurso contiene información sobre la fusión del elemento recortado.
 
 ```csharp
 public class CustResource : LayerResource
@@ -18,25 +19,25 @@ public class CustResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [CustResource](custresource/#constructor)() | Inicializa una nueva instancia del`CustResource` clase. |
-| [CustResource](custresource/#constructor_1)(byte[]) | Inicializa una nueva instancia del`CustResource` clase. |
+| [CustResource](custresource/#constructor)() | Inicializa una nueva instancia de la clase `CustResource`. |
+| [CustResource](custresource/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `CustResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
 | [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Obtiene o establece la fecha de creación de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/) { get; } | Obtiene la firma. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -47,7 +48,7 @@ public class CustResource : LayerResource
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.FillType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PatternFillSettings propiedad. El tipo de relleno
+title: "PatternFillSettings.FillType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PatternFillSettings. El tipo de relleno"
 type: docs
-weight: 30
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.FillType property
 
 El tipo de relleno
@@ -18,7 +19,7 @@ public override FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * class [PatternFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

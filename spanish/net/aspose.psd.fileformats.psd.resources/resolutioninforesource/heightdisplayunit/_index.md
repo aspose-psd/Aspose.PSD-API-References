@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.HeightDisplayUnit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResolutionInfoResource propiedad. Obtiene o establece la unidad de visualización de altura.
+title: "ResolutionInfoResource.HeightDisplayUnit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResolutionInfoResource. Obtiene o establece la unidad de visualización de la altura"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/heightdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HeightDisplayUnit property
 
 Obtiene o establece la unidad de visualización de altura.
@@ -14,15 +15,15 @@ Obtiene o establece la unidad de visualización de altura.
 public PhysicalUnit HeightDisplayUnit { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La unidad de visualización de altura.
+La unidad de visualización de la altura.
 
 ### Ver también
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

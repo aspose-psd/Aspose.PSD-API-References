@@ -1,11 +1,12 @@
 ---
-title: CustomLineCap.FillPath
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CustomLineCap propiedad. Obtiene o establece el objeto que define el relleno para la tapa personalizada.
+title: "CustomLineCap.FillPath"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CustomLineCap. Obtiene o establece el objeto que define el relleno para la tapa personalizada"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/customlinecap/fillpath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.FillPath property
 
 Obtiene o establece el objeto que define el relleno para la tapa personalizada.
@@ -14,7 +15,7 @@ Obtiene o establece el objeto que define el relleno para la tapa personalizada.
 public GraphicsPath FillPath { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El objeto que define el relleno para la tapa personalizada.
 
@@ -22,7 +23,7 @@ El objeto que define el relleno para la tapa personalizada.
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* espacio de nombres [Aspose.PSD](../../customlinecap/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

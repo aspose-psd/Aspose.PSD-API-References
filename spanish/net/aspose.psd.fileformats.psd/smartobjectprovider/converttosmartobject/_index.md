@@ -1,11 +1,12 @@
 ---
-title: SmartObjectProvider.ConvertToSmartObject
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectProvider método. Convierte capas en un objeto inteligente incrustado.
+title: "SmartObjectProvider.ConvertToSmartObject"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "SmartObjectProvider método. Convierte capas a un objeto inteligente incrustado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
 ---
+{{< psd/tize >}}
 ## ConvertToSmartObject(params int[]) {#converttosmartobject_1}
 
 Convierte capas en un objeto inteligente incrustado.
@@ -14,26 +15,26 @@ Convierte capas en un objeto inteligente incrustado.
 public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | layerNumbers | Int32[] | Los números de capa. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Lo creado[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instancia.
+La instancia de [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) creada.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | No hay capas para convertir. o El número de capa está fuera de rango. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | No hay capas para convertir. o el número de capa está fuera de rango. |
 
 ### Ver también
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -45,13 +46,13 @@ Convierte capas en un objeto inteligente incrustado.
 public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | layers | Layer[] | Las capas. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Lo creado[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instancia.
+La instancia de [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) creada.
 
 ### Excepciones
 
@@ -64,7 +65,7 @@ Lo creado[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartob
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

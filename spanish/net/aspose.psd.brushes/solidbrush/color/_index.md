@@ -1,20 +1,21 @@
 ---
-title: SolidBrush.Color
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SolidBrush propiedad. Obtiene o establece el color del pincel.
+title: "SolidBrush.Color"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SolidBrush. Obtiene o establece el color del pincel"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.brushes/solidbrush/color/
 ---
+{{< psd/tize >}}
 ## SolidBrush.Color property
 
-Obtiene o establece el color del pincel.
+Obtiene o establece el color del brush.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El color del pincel.
 
@@ -22,7 +23,7 @@ El color del pincel.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../solidbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

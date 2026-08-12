@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPacketWrapper método. Determina si el paquete existe en el contenedor xmp.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpPacketWrapper. Determina si el paquete existe en el xmp wrapper"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
 Determina si el paquete existe en el contenedor xmp.
@@ -14,18 +15,18 @@ Determina si el paquete existe en el contenedor xmp.
 public bool ContainsPackage(string namespaceUri)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| namespaceUri | String | Esquema de paquete uri. |
+| namespaceUri | String | URI del esquema del paquete. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve verdadero si el paquete con el Uri de espacio de nombres especificado existe en el contenedor XMP.
+Devuelve true si el paquete con el URI de espacio de nombres especificado existe en el contenedor XMP.
 
 ### Ver también
 
 * class [XmpPacketWrapper](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

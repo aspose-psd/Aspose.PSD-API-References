@@ -1,11 +1,12 @@
 ---
-title: PieShape.SweepAngle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PieShape propiedad. Obtiene o establece el ángulo de barrido.
+title: "PieShape.SweepAngle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PieShape. Obtiene o establece el ángulo de barrido"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
 Obtiene o establece el ángulo de barrido.
@@ -14,14 +15,14 @@ Obtiene o establece el ángulo de barrido.
 public float SweepAngle { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ángulo de barrido.
 
 ### Ver también
 
 * class [PieShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../pieshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamSource.Stream
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StreamSource propiedad. Obtiene la transmisión.
+title: "StreamSource.Stream"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StreamSource. Obtiene el flujo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
-Obtiene la transmisión.
+Obtiene el flujo.
 
 ```csharp
 public Stream Stream { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El flujo de origen.
 
 ### Ver también
 
 * class [StreamSource](../)
-* espacio de nombres [Aspose.PSD.Sources](../../streamsource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

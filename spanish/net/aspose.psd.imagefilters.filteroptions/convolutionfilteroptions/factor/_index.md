@@ -1,11 +1,12 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ConvolutionFilterOptions propiedad. Obtiene o establece el factor.
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ConvolutionFilterOptions. Obtiene o establece el factor."
 type: docs
 weight: 30
 url: /es/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
 Obtiene o establece el factor.
@@ -14,14 +15,14 @@ Obtiene o establece el factor.
 public double Factor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El factor.
 
 ### Ver también
 
 * class [ConvolutionFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

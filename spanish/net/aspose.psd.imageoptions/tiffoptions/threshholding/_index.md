@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el umbral.
+title: "TiffOptions.Threshholding"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el umbralado"
 type: docs
-weight: 510
+weight: 520
 url: /es/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-Obtiene o establece el umbral.
+Obtiene o establece el umbralado.
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La umbralización.
+El umbralado.
 
 ### Ver también
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

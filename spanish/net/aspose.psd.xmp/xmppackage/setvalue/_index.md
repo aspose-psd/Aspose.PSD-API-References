@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPackage método. Establece el valor.
+title: "XmpPackage.SetValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "XmpPackage método. Establece el valor"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.xmp/xmppackage/setvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetValue method
 
 Establece el valor.
@@ -14,16 +15,16 @@ Establece el valor.
 public virtual void SetValue(string key, IXmlValue value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | La representación de cadena de clave que se identifica con valor agregado. |
-| value | IXmlValue | El valor a agregar. |
+| clave | String | La representación en cadena de la clave que se identifica con el valor añadido. |
+| valor | IXmlValue | El valor al que se añadirá. |
 
 ### Ver también
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

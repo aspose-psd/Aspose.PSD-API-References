@@ -1,11 +1,12 @@
 ---
-title: ExifData.FocalLength
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la distancia focal.
+title: "ExifData.FocalLength"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la distancia focal"
 type: docs
 weight: 290
 url: /es/net/aspose.psd.exif/exifdata/focallength/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLength property
 
 Obtiene o establece la distancia focal.
@@ -14,15 +15,15 @@ Obtiene o establece la distancia focal.
 public TiffRational FocalLength { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La longitud de la focal.
+La longitud de la distancia focal.
 
 ### Ver también
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleLineDashOffset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VstkResource propiedad. Obtiene o establece el desplazamiento de guión de línea de estilo de trazo.
+title: "VstkResource.StrokeStyleLineDashOffset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VstkResource property. Obtiene o establece el desplazamiento de guiones de la línea del estilo de trazo"
 type: docs
-weight: 130
+weight: 110
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashOffset property
 
-Obtiene o establece el desplazamiento de guión de línea de estilo de trazo.
+Obtiene o establece el desplazamiento de guión de línea del estilo de trazo.
 
 ```csharp
 public int StrokeStyleLineDashOffset { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El desplazamiento del guión de línea de estilo de trazo.
+El desplazamiento de guiones de la línea del estilo de trazo.
 
 ### Ver también
 
 * class [VstkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

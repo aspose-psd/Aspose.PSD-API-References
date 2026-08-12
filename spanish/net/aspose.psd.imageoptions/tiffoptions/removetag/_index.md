@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions método. Elimina la etiqueta.
+title: "TiffOptions.RemoveTag"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffOptions. Elimina la etiqueta"
 type: docs
-weight: 740
+weight: 750
 url: /es/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 Elimina la etiqueta.
@@ -14,19 +15,19 @@ Elimina la etiqueta.
 public bool RemoveTag(TiffTags tag)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| tag | TiffTags | La etiqueta a eliminar. |
+| etiqueta | TiffTags | La etiqueta a eliminar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero si se eliminó con éxito
+true si se eliminó correctamente
 
 ### Ver también
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

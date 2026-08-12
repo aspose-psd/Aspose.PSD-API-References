@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.XLocation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PrintScaleResource propiedad. Obtiene o establece la ubicación x.
+title: "PrintScaleResource.XLocation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PrintScaleResource. Obtiene o establece la ubicación x"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.XLocation property
 
 Obtiene o establece la ubicación x.
@@ -14,14 +15,14 @@ Obtiene o establece la ubicación x.
 public float XLocation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La ubicación x.
 
 ### Ver también
 
 * class [PrintScaleResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AiImage.CacheData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiImage método. Almacena en caché los datos y garantiza que no se realizará ninguna carga de datos adicional desde el servidor subyacente.DataStreamContainer .
+title: "AiImage.CacheData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "AiImage method. Almacena en caché los datos y asegura que no se carguen datos adicionales desde el DataStreamContainer subyacente."
 type: docs
-weight: 140
+weight: 170
 url: /es/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
+{{< psd/tize >}}
 ## AiImage.CacheData method
 
-Almacena en caché los datos y garantiza que no se realizará ninguna carga de datos adicional desde el servidor subyacente.[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) .
+Almacena en caché los datos y asegura que no se carguen datos adicionales desde el [`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) subyacente.
 
 ```csharp
 public override void CacheData()
@@ -18,12 +19,12 @@ public override void CacheData()
 
 | excepción | condición |
 | --- | --- |
-| NotImplementedException | No se ha implementado |
+| NotImplementedException | No implementado |
 
 ### Ver también
 
 * class [AiImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

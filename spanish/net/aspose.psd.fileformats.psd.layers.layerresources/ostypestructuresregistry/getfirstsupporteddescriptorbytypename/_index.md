@@ -1,29 +1,30 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OSTypeStructuresRegistry método. Obtiene el primer descriptor admitido por su nombre de tipo.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OSTypeStructuresRegistry método. Obtiene el primer descriptor compatible por su nombre de tipo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Obtiene el primer descriptor admitido por su nombre de tipo.
+Obtiene el primer descriptor compatible por su nombre de tipo.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | descriptorTypeName | String | El nombre del tipo de descriptor. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El primer descriptor de apertura encontrado o nulo si no se encuentra dicho descriptor.
+El primer descriptor de apertura encontrado o null si no se encuentra tal descriptor.
 
-### Observaciones
+## Observaciones
 
 El primer descriptor de apertura será en realidad el último registrado.
 
@@ -31,7 +32,7 @@ El primer descriptor de apertura será en realidad el último registrado.
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

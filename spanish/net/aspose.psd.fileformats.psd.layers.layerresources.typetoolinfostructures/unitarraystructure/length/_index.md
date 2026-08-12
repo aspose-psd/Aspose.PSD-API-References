@@ -1,14 +1,15 @@
 ---
-title: UnitArrayStructure.Length
-second_title: Referencia de API de Aspose.PSD para .NET
-description: UnitArrayStructure propiedad. Obtiene elOSTypeStructure longitud en bytes.
+title: "UnitArrayStructure.Length"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad UnitArrayStructure. Obtiene la longitud en bytes de OSTypeStructure"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Length property
 
-Obtiene el[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes.
+Obtiene la longitud de [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) en bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Ver también
 
 * class [UnitArrayStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

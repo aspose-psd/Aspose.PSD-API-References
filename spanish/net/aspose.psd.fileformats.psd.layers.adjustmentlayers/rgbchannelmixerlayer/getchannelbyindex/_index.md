@@ -1,11 +1,12 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RgbChannelMixerLayer método. Obtiene el índice del canal por. Devuelve RgbMixerChannel
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RgbChannelMixerLayer. Obtiene el índice del canal por. Devuelve RgbMixerChannel"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
 Obtiene el índice del canal por. Devuelve RgbMixerChannel
@@ -14,11 +15,11 @@ Obtiene el índice del canal por. Devuelve RgbMixerChannel
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | index | Int32 | El índice. |
 
-### Valor_devuelto
+### Valor devuelto
 
 [`RgbMixerChannel`](../../rgbmixerchannel/)
 
@@ -32,7 +33,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

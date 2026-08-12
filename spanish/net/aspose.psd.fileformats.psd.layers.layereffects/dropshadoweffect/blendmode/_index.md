@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.BlendMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DropShadowEffect propiedad. Obtiene o establece el modo de fusión.
+title: "DropShadowEffect.BlendMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad DropShadowEffect. Obtiene o establece el modo de fusión"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.BlendMode property
 
 Obtiene o establece el modo de fusión.
@@ -14,11 +15,11 @@ Obtiene o establece el modo de fusión.
 public BlendMode BlendMode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El modo de mezcla.
+El modo de fusión.
 
-### Ejemplos
+## Ejemplos
 
 El siguiente código demuestra el uso de la propiedad Opacity de DropShadowEffect.
 
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Ejemplo con Opacidad = 20
+    // Ejemplo con Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Ejemplo con Opacidad = 200
+    // Ejemplo con Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -51,7 +52,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [DropShadowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

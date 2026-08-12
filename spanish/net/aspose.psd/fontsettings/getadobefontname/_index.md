@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings método. Obtiene el nombre de la fuente Adobe por nombre de familia de fuentes.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "FontSettings method. Obtiene el nombre de fuente adobe por nombre de familia de fuente"
 type: docs
-weight: 30
+weight: 40
 url: /es/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Obtiene el nombre de la fuente Adobe por nombre de familia de fuentes.
+Obtiene el nombre de fuente de Adobe por el nombre de la familia de fuentes.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontFamilyName | String | El nombre de la familia de fuentes. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El nombre de la fuente de adobe por nombre de familia de fuentes.
+El nombre de fuente adobe por nombre de familia de fuente.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de cambiar el nombre de fuente en el estilo de porción.
+El siguiente código demuestra la capacidad de cambiar el nombre de la fuente en el estilo de porción.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -80,7 +81,7 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

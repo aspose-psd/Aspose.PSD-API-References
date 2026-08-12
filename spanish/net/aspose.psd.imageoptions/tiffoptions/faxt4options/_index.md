@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.FaxT4Options
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece las opciones de fax t4.
+title: "TiffOptions.FaxT4Options"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece las opciones de fax t4"
 type: docs
-weight: 140
+weight: 150
 url: /es/net/aspose.psd.imageoptions/tiffoptions/faxt4options/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FaxT4Options property
 
-Obtiene o establece las opciones de fax t4.
+Obtiene o establece las opciones fax t4.
 
 ```csharp
 public Group3Options FaxT4Options { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las opciones de fax t4.
 
@@ -22,7 +23,7 @@ Las opciones de fax t4.
 
 * enum [Group3Options](../../../aspose.psd.fileformats.tiff.enums/group3options/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

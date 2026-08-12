@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.AddPackage
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPacketWrapper método. Agrega el paquete.
+title: "XmpPacketWrapper.AddPackage"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpPacketWrapper. Añade el paquete"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.xmp/xmppacketwrapper/addpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.AddPackage method
 
-Agrega el paquete.
+Añade el paquete.
 
 ```csharp
 public void AddPackage(XmpPackage package)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| package | XmpPackage | El paquete. |
+| paquete | XmpPackage | El paquete. |
 
 ### Ver también
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

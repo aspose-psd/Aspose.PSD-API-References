@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ChannelBits
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PixelDataFormat propiedad. Obtiene el conteo de bits para cada canal.
+title: "PixelDataFormat.ChannelBits"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PixelDataFormat. Obtiene el recuento de bits para cada canal"
 type: docs
 weight: 320
 url: /es/net/aspose.psd/pixeldataformat/channelbits/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelBits property
 
-Obtiene el conteo de bits para cada canal.
+Obtiene el recuento de bits para cada canal.
 
 ```csharp
 public int[] ChannelBits { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los bits del canal.
 
 ### Ver también
 
 * class [PixelDataFormat](../)
-* espacio de nombres [Aspose.PSD](../../pixeldataformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

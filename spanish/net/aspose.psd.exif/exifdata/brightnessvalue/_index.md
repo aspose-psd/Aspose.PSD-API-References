@@ -1,11 +1,12 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el valor de brillo.
+title: "Propiedad ExifData. Obtiene o establece el valor de brillo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ExifData.SubsecTime"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
 Obtiene o establece el valor de brillo.
@@ -14,7 +15,7 @@ Obtiene o establece el valor de brillo.
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor de brillo.
 
@@ -22,7 +23,7 @@ El valor de brillo.
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

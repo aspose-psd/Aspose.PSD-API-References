@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.OffsetY
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiRasterImageSection propiedad. Obtiene el desplazamiento Y.
+title: "AiRasterImageSection.OffsetY"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiRasterImageSection. Obtiene el desplazamiento Y."
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetY property
 
 Obtiene el desplazamiento Y.
@@ -14,14 +15,14 @@ Obtiene el desplazamiento Y.
 public double OffsetY { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El desplazamiento Y.
 
 ### Ver también
 
 * class [AiRasterImageSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

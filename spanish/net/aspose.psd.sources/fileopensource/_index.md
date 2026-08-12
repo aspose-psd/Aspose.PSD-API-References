@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Sources.FileOpenSource clase. Representa una fuente de archivo para abrir.
+title: "Clase FileOpenSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Sources.FileOpenSource. Representa una fuente de archivo para abrir"
 type: docs
-weight: 5600
+weight: 6100
 url: /es/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-Representa una fuente de archivo para abrir.
+Representa una fuente de archivo para apertura.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -18,13 +19,13 @@ public sealed class FileOpenSource : FileSource
 
 | Nombre | Descripción |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | Inicializa una nueva instancia del`FileOpenSource` clase. |
+| [FileOpenSource](fileopensource/)(string) | Inicializa una nueva instancia de la clase `FileOpenSource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Obtiene la ruta del archivo a abrir. |
+| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Obtiene la ruta del archivo para abrir. |
 | override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Obtiene un valor que indica si el archivo será temporal. |
 
 ## Métodos
@@ -36,7 +37,7 @@ public sealed class FileOpenSource : FileSource
 ### Ver también
 
 * class [FileSource](../filesource/)
-* espacio de nombres [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

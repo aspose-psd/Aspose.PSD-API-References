@@ -1,11 +1,12 @@
 ---
-title: Font.IsComposite
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font propiedad. Obtiene o establece un valor que indica si esta fuente es compuesta.
+title: "Font.IsComposite"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Font. Obtiene o establece un valor que indica si esta fuente es compuesta"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
 Obtiene o establece un valor que indica si esta fuente es compuesta.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta fuente es compuesta.
 public bool IsComposite { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta fuente es compuesta; de lo contrario,`FALSO` .
+`true` si esta fuente es compuesta; de lo contrario, `false`.
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

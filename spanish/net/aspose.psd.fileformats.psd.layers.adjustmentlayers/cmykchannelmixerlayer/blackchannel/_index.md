@@ -1,11 +1,12 @@
 ---
-title: CmykChannelMixerLayer.BlackChannel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykChannelMixerLayer propiedad. Obtiene el canal negro.
+title: "CmykChannelMixerLayer.BlackChannel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "CmykChannelMixerLayer propiedad. Obtiene el canal negro"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/blackchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.BlackChannel property
 
 Obtiene el canal negro.
@@ -14,7 +15,7 @@ Obtiene el canal negro.
 public CmykMixerChannel BlackChannel { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El canal negro.
 
@@ -22,7 +23,7 @@ El canal negro.
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

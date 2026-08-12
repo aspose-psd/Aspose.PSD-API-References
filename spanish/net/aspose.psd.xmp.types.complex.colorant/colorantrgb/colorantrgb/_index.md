@@ -1,14 +1,15 @@
 ---
-title: ColorantRgb.ColorantRgb
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorantRgb constructor. Inicializa una nueva instancia delColorantRgb clase.
+title: "ColorantRgb.ColorantRgb"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ColorantRgb. Inicializa una nueva instancia de la clase ColorantRgb"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb() {#constructor}
 
-Inicializa una nueva instancia del[`ColorantRgb`](../) clase.
+Inicializa una nueva instancia de la clase [`ColorantRgb`](../).
 
 ```csharp
 public ColorantRgb()
@@ -17,29 +18,29 @@ public ColorantRgb()
 ### Ver también
 
 * class [ColorantRgb](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantRgb(byte, byte, byte) {#constructor_1}
 
-Inicializa una nueva instancia del[`ColorantRgb`](../) clase.
+Inicializa una nueva instancia de la clase [`ColorantRgb`](../).
 
 ```csharp
 public ColorantRgb(byte red, byte green, byte blue)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| red | Byte | El valor del componente rojo. |
-| green | Byte | El valor del componente verde. |
-| blue | Byte | El valor del componente azul. |
+| rojo | Byte | El valor del componente rojo. |
+| verde | Byte | El valor del componente verde. |
+| azul | Byte | El valor del componente azul. |
 
 ### Ver también
 
 * class [ColorantRgb](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

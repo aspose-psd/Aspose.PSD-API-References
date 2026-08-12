@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.ClassID
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfo6Resource propiedad. Obtiene o establece el ID de clase.
+title: "TypeToolInfo6Resource.ClassID"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolInfo6Resource. Obtiene o establece el ID de clase"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classid/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.ClassID property
 
-Obtiene o establece el ID de clase.
+Obtiene o establece el ID de la clase.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El ID de clase.
+El ID de la clase.
 
 ### Ver también
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

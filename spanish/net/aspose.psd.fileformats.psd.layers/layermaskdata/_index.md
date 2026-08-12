@@ -1,14 +1,15 @@
 ---
-title: Class LayerMaskData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskData clase. Define la clase base LayerMaskData que contiene información sobre los datos de la máscara de capa en el archivo PSD. Puede ayudar a modificar los archivos de Adobe Photoshop mediante programación y automatizar la edición del formato PSD. Si la capa solo tiene una máscara ráster ImageData contiene el ráster bytes de datos de máscara. Si la capa solo tiene una máscara vectorial ImageData contiene los bytes de datos rasterizados almacenados en caché de la máscara vectorial. Si la capa tiene máscaras de capa y vectoriales ImageData contiene la máscara ráster y la máscara vectorial rasterizada combinadas. ElImageDatala longitud de bytes debe ser igual Ancho  Altura deMaskRectangle properties. Tenga en cuenta que simplemente eliminar/agregar/actualizar LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan aunque puede proporcionar una representación correcta. ElAddLayerMask se debe usar el método para eso.
+title: "Clase LayerMaskData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerMaskData class. Define la clase base LayerMaskData que contiene información sobre los datos de la máscara de capa en el archivo PSD. Puede ayudar a modificar archivos Adobe Photoshop programáticamente y automatizar la edición del formato PSD. Si la capa tiene solo una máscara raster, ImageData contiene los bytes de datos de la máscara raster. Si la capa tiene solo una máscara vector, ImageData contiene los bytes de datos en caché rasterizados de la máscara vector. Si la capa tiene tanto máscaras de capa como vectoriales, ImageData contiene la máscara raster y la máscara vector rasterizada combinadas. La longitud de los bytes de ImageData debe ser igual al ancho y alto de las propiedades MaskRectangle. Observe que simplemente eliminar / agregar / actualizar el LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan, aunque puede proporcionar un renderizado correcto. El método AddLayerMask debe usarse para eso."
 type: docs
-weight: 2240
+weight: 2440
 url: /es/net/aspose.psd.fileformats.psd.layers/layermaskdata/
 ---
+{{< psd/tize >}}
 ## LayerMaskData class
 
-Define la clase base LayerMaskData que contiene información sobre los datos de la máscara de capa en el archivo PSD. Puede ayudar a modificar los archivos de Adobe® Photoshop® mediante programación y automatizar la edición del formato PSD. Si la capa solo tiene una máscara ráster, ImageData contiene el ráster bytes de datos de máscara. Si la capa solo tiene una máscara vectorial, ImageData contiene los bytes de datos rasterizados (almacenados en caché) de la máscara vectorial. Si la capa tiene máscaras de capa y vectoriales, ImageData contiene la máscara ráster y la máscara vectorial rasterizada combinadas. El[`ImageData`](./imagedata/)la longitud de bytes debe ser igual Ancho * Altura de[`MaskRectangle`](./maskrectangle/) properties. Tenga en cuenta que simplemente eliminar/agregar/actualizar LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan; aunque puede proporcionar una representación correcta. El[`AddLayerMask`](../layer/addlayermask/) se debe usar el método para eso.
+Define la clase base LayerMaskData que contiene información sobre los datos de la máscara de capa en el archivo PSD. Puede ayudar a modificar archivos Adobe® Photoshop® programáticamente y automatizar la edición del formato PSD. Si la capa tiene solo una máscara raster, ImageData contiene los bytes de datos de la máscara raster. Si la capa tiene solo una máscara vector, ImageData contiene los bytes de datos rasterizados (en caché) de la máscara vector. Si la capa tiene tanto máscaras de capa como vectoriales, ImageData contiene la máscara raster y la máscara vector rasterizada combinadas. Los bytes de [`ImageData`](./imagedata/) deben tener una longitud igual al Ancho * Alto de las propiedades [`MaskRectangle`](./maskrectangle/). Observe que simplemente eliminar / agregar / actualizar el LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan; aunque puede proporcionar un renderizado correcto. El método [`AddLayerMask`](../layer/addlayermask/) debe usarse para eso.
 
 ```csharp
 public abstract class LayerMaskData
@@ -18,19 +19,19 @@ public abstract class LayerMaskData
 
 | Nombre | Descripción |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | Obtiene o establece la posición de la máscara de la capa inferior. |
-| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | Obtiene el tamaño de los datos de máscara de máscara de capa. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | Obtiene o establece la posición inferior de la máscara de capa. |
+| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | Obtiene el tamaño de los datos de la máscara de capa. |
 | [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | Obtiene o establece el color predeterminado. |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | Obtiene o establece los indicadores de máscara de capa. |
-| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | Obtiene o establece los datos de la máscara de capa (o la máscara combinada/final si hay una máscara vectorial) en el archivo PSD. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | Obtiene o establece la posición de la máscara de capa izquierda. |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | Obtiene o establece la máscara[`Rectangle`](../../aspose.psd/rectangle/)de la máscara de capa en el archivo PSD. Toma las propiedades izquierda, derecha, superior e inferior y crea[`Rectangle`](../../aspose.psd/rectangle/) |
-| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | Obtiene o establece la posición correcta de la máscara de capa. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | Obtiene o establece la posición de la máscara de capa superior. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | Obtiene o establece los indicadores de la máscara de capa. |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | Obtiene o establece los datos de la máscara de capa (o la máscara combinada / final si hay una máscara vector) en el archivo PSD. |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | Obtiene o establece la posición izquierda de la máscara de capa. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | Obtiene o establece el [`Rectangle`](../../aspose.psd/rectangle/) de la máscara de capa en el archivo PSD. Toma las propiedades izquierda, derecha, superior e inferior y crea un [`Rectangle`](../../aspose.psd/rectangle/). |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | Obtiene o establece la posición derecha de la máscara de capa. |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | Obtiene o establece la posición superior de la máscara de capa. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PostResource.Length
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PostResource propiedad. Obtiene la longitud del recurso de la capa en bytes.
+title: "PostResource.Length"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PostResource. Obtiene la longitud del recurso de capa en bytes"
 type: docs
-weight: 30
+weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/length/
 ---
+{{< psd/tize >}}
 ## PostResource.Length property
 
-Obtiene la longitud del recurso de la capa en bytes.
+Obtiene la longitud del recurso de capa en bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Ver también
 
 * class [PostResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

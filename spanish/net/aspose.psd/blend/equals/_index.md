@@ -1,31 +1,32 @@
 ---
-title: Blend.Equals
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Blend método. Comprueba si el objeto especificado es unBlend class y es equivalente a esteBlend clase.
+title: "Blend.Equals"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Blend. Comprueba si el objeto especificado es una clase Blend y es equivalente a esta clase Blend"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-Comprueba si el objeto especificado es un[`Blend`](../) class y es equivalente a este[`Blend`](../) clase.
+Comprueba si el objeto especificado es una clase [`Blend`](../) y es equivalente a esta clase [`Blend`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | obj | Object | El objeto a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-cierto si*obj* es un[`Blend`](../) clase equivalente a esta[`Blend`](../) clase; en caso contrario, falso.
+True si *obj* es una clase [`Blend`](../) equivalente a esta clase [`Blend`](../); de lo contrario, false.
 
 ### Ver también
 
 * class [Blend](../)
-* espacio de nombres [Aspose.PSD](../../blend/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

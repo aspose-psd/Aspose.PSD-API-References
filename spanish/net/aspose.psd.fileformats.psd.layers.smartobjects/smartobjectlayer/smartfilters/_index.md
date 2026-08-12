@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectLayer propiedad. Obtiene los filtros inteligentes.
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SmartObjectLayer. Obtiene los filtros inteligentes"
 type: docs
-weight: 50
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
 Obtiene los filtros inteligentes.
@@ -14,7 +15,7 @@ Obtiene los filtros inteligentes.
 public SmartFilters SmartFilters { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
 Este ejemplo demuestra el soporte de la interfaz de filtros inteligentes.
 
@@ -39,13 +40,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // editar filtros inteligentes
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // comprobar los valores del filtro
+    // verificar valores del filtro
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // actualizar los valores del filtro
+    // actualizar valores del filtro
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // comprobar los valores del filtro
+    // verificar valores del filtro
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -90,7 +91,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BezierShape
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Shapes.BezierShape clase. Representa una spline bezier.
+title: "Clase BezierShape"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Shapes.BezierShape. Representa una spline Bézier"
 type: docs
-weight: 5470
+weight: 5970
 url: /es/net/aspose.psd.shapes/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape class
 
-Representa una spline bezier.
+Representa una spline Bézier.
 
 ```csharp
 public sealed class BezierShape : PolygonShape
@@ -18,9 +19,9 @@ public sealed class BezierShape : PolygonShape
 
 | Nombre | Descripción |
 | --- | --- |
-| [BezierShape](beziershape/#constructor)() | Inicializa una nueva instancia del`BezierShape` clase. |
-| [BezierShape](beziershape/#constructor_1)(PointF[]) | Inicializa una nueva instancia del`BezierShape` clase. |
-| [BezierShape](beziershape/#constructor_2)(PointF[], bool) | Inicializa una nueva instancia del`BezierShape` clase. |
+| [BezierShape](beziershape/#constructor)() | Inicializa una nueva instancia de la clase `BezierShape`. |
+| [BezierShape](beziershape/#constructor_1)(PointF[]) | Inicializa una nueva instancia de la clase `BezierShape`. |
+| [BezierShape](beziershape/#constructor_2)(PointF[], bool) | Inicializa una nueva instancia de la clase `BezierShape`. |
 
 ## Propiedades
 
@@ -28,12 +29,12 @@ public sealed class BezierShape : PolygonShape
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/beziershape/bounds/) { get; } | Obtiene los límites del objeto. |
 | override [Center](../../aspose.psd.shapes/beziershape/center/) { get; } | Obtiene el centro de la forma. |
-| override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint/) { get; } | Obtiene el punto de forma final. |
+| override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint/) { get; } | Obtiene el punto final de la forma. |
 | override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments/) { get; } | Obtiene un valor que indica si la forma tiene segmentos. |
 | [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | Obtiene o establece un valor que indica si la forma está cerrada. |
 | [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | Obtiene o establece los puntos de la curva. |
-| override [Segments](../../aspose.psd.shapes/beziershape/segments/) { get; } | Obtiene los segmentos de forma. |
-| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | Obtiene el punto de forma inicial. |
+| override [Segments](../../aspose.psd.shapes/beziershape/segments/) { get; } | Obtiene los segmentos de la forma. |
+| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | Obtiene el punto inicial de la forma. |
 
 ## Métodos
 
@@ -47,7 +48,7 @@ public sealed class BezierShape : PolygonShape
 ### Ver también
 
 * class [PolygonShape](../polygonshape/)
-* espacio de nombres [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

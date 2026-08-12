@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega una nueva capa regular.
+title: "PsdImage.AddRegularLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade una nueva capa regular"
 type: docs
-weight: 410
+weight: 440
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
-Agrega una nueva capa regular.
+Añade una nueva capa regular.
 
 ```csharp
 public Layer AddRegularLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 Capa regular creada.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra cómo agregar la capa regular recién generada a PsdImage.
+El siguiente código muestra cómo añadir la capa regular recién generada a PsdImage.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // Preparando dos arreglos int
+    // Preparando dos matrices de enteros
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -70,7 +71,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

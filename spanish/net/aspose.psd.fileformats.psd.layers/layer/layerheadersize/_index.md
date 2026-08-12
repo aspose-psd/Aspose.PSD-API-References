@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer campo. El tamaño del encabezado de la capa.
+title: "Layer.LayerHeaderSize"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Layer. El tamaño del encabezado de la capa"
 type: docs
-weight: 400
+weight: 420
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
 El tamaño del encabezado de la capa.
@@ -17,7 +18,7 @@ public const int LayerHeaderSize;
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

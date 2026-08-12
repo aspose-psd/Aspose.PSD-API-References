@@ -1,14 +1,15 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorPathRecordFactory constructor. Constructor predeterminado
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor VectorPathRecordFactory. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public VectorPathRecordFactory()
@@ -17,7 +18,7 @@ public VectorPathRecordFactory()
 ### Ver también
 
 * class [VectorPathRecordFactory](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

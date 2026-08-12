@@ -1,14 +1,15 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PathFillRuleRecord constructor. Inicializa una nueva instancia delPathFillRuleRecord clase.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor PathFillRuleRecord. Inicializa una nueva instancia de la clase PathFillRuleRecord"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-Inicializa una nueva instancia del[`PathFillRuleRecord`](../) clase.
+Inicializa una nueva instancia de la clase [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord()
@@ -17,27 +18,27 @@ public PathFillRuleRecord()
 ### Ver también
 
 * class [PathFillRuleRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`PathFillRuleRecord`](../) clase.
+Inicializa una nueva instancia de la clase [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte[] | Los datos de registro. |
+| datos | Byte[] | Los datos del registro. |
 
 ### Ver también
 
 * class [PathFillRuleRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

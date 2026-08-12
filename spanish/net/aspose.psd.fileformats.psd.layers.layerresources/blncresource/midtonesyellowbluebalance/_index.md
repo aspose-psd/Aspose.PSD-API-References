@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesYellowBlueBalance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlncResource propiedad. Obtiene o establece el Equilibrio azul amarillo de tonos medios.
+title: "BlncResource.MidtonesYellowBlueBalance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BlncResource. Obtiene o establece el equilibrio de amarillo y azul de los tonos medios"
 type: docs
-weight: 90
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesYellowBlueBalance property
 
-Obtiene o establece el Equilibrio azul amarillo de tonos medios.
+Obtiene o establece el balance Amarillo Azul de Midtones.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El balance azul amarillo de tonos medios.
+El Equilibrio de Amarillo Azul de Tonos Medios.
 
 ### Ver también
 
 * class [BlncResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

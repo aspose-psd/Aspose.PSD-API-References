@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Styles
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfoResource propiedad. Obtiene o establece los estilos de fuente.
+title: "TypeToolInfoResource.Styles"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolInfoResource. Obtiene o establece los estilos de fuente"
 type: docs
-weight: 210
+weight: 180
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Styles property
 
 Obtiene o establece los estilos de fuente.
@@ -14,7 +15,7 @@ Obtiene o establece los estilos de fuente.
 public TypeToolStyleInfo[] Styles { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los estilos de fuente.
 
@@ -22,7 +23,7 @@ Los estilos de fuente.
 
 * class [TypeToolStyleInfo](../../typetoolstyleinfo/)
 * class [TypeToolInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurvResource propiedad. Obtiene o establece un valor que indica si esta instancia son datos almacenados discretos.
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CurvResource. Obtiene o establece un valor que indica si esta instancia almacena datos de forma discreta"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-Obtiene o establece un valor que indica si esta instancia son datos almacenados discretos.
+Obtiene o establece un valor que indica si esta instancia almacena datos de forma discreta.
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia son datos almacenados discretos; de lo contrario,`FALSO` .
+`true` si esta instancia almacena datos de forma discreta; de lo contrario, `false`.
 
 ### Ver también
 
 * class [CurvResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

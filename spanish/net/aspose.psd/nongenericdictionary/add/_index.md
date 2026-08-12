@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.Add
-second_title: Referencia de API de Aspose.PSD para .NET
-description: NonGenericDictionary método. Agrega un elemento con la clave y el valor proporcionados al IDictionary objeto.
+title: "NonGenericDictionary.Add"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método NonGenericDictionary. Añade un elemento con la clave y el valor proporcionados al objeto IDictionary"
 type: docs
 weight: 100
 url: /es/net/aspose.psd/nongenericdictionary/add/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Add method
 
-Agrega un elemento con la clave y el valor proporcionados al IDictionary objeto.
+Agrega un elemento con la clave y el valor proporcionados al objeto IDictionary.
 
 ```csharp
 public void Add(object key, object value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | Object | El Object para usar como clave del elemento a agregar. |
-| value | Object | El Object para usar como el valor del elemento a agregar. |
+| clave | Object | El objeto a usar como clave del elemento a añadir. |
+| valor | Object | El objeto a usar como valor del elemento a añadir. |
 
 ### Ver también
 
 * class [NonGenericDictionary](../)
-* espacio de nombres [Aspose.PSD](../../nongenericdictionary/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

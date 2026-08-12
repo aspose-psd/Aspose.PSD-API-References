@@ -1,41 +1,42 @@
 ---
-title: Class Lfx2Resource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource clase. recurso Lfx2 recurso de efectos
+title: "Clase Lfx2Resource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource class. Recurso Lfx2 de efectos regulares"
 type: docs
-weight: 2650
+weight: 2960
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource class
 
-recurso Lfx2 (recurso de efectos)
+Recurso Lfx2 (recurso de efectos regulares)
 
 ```csharp
-public sealed class Lfx2Resource : LayerResource
+public sealed class Lfx2Resource : BaseFxResource
 ```
 
 ## Constructores
 
 | Nombre | Descripción |
 | --- | --- |
-| [Lfx2Resource](lfx2resource/)() | Constructor predeterminado |
+| [Lfx2Resource](lfx2resource/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/) { get; } | Obtiene la versión del descriptor. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signature/) { get; } | Obtiene la firma del recurso de la capa. |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/descriptorversion/) { get; } | Obtiene la versión del descriptor. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -45,8 +46,8 @@ public sealed class Lfx2Resource : LayerResource
 
 ### Ver también
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* class [BaseFxResource](../basefxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ShapeSegment
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ShapeSegment clase. Representa un segmento de forma. Un segmento es una línea o curva que conecta dos puntos.
+title: "Clase ShapeSegment"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ShapeSegment. Representa un segmento de forma. Un segmento es una línea o curva que conecta dos puntos"
 type: docs
-weight: 5430
+weight: 5930
 url: /es/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
 Representa un segmento de forma. Un segmento es una línea o curva que conecta dos puntos.
@@ -19,11 +20,11 @@ public abstract class ShapeSegment
 | Nombre | Descripción |
 | --- | --- |
 | abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Obtiene el punto final. |
-| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Obtiene el punto de partida. |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Obtiene el punto inicial. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

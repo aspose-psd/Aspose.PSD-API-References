@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Token
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RenditionClass propiedad. Obtiene o establece el token.
+title: "RenditionClass.Token"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RenditionClass. Obtiene o establece el token"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp.types.derived/renditionclass/token/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Token property
 
 Obtiene o establece el token.
@@ -14,14 +15,14 @@ Obtiene o establece el token.
 public string Token { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La ficha.
+El token.
 
 ### Ver también
 
 * class [RenditionClass](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

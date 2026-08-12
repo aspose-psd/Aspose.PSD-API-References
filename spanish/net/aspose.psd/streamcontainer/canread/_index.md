@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanRead
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StreamContainer propiedad. Obtiene un valor que indica si la secuencia admite la lectura.
+title: "StreamContainer.CanRead"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StreamContainer. Obtiene un valor que indica si la secuencia admite lectura"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/streamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanRead property
 
-Obtiene un valor que indica si la secuencia admite la lectura.
+Obtiene un valor que indica si el flujo admite lectura.
 
 ```csharp
 public virtual bool CanRead { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si el flujo admite la lectura; de lo contrario,`FALSO`.
+`true` si el stream admite lectura; de lo contrario, `false`.
 
 ### Ver también
 
 * class [StreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../streamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

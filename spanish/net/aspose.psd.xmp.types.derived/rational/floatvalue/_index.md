@@ -1,11 +1,12 @@
 ---
-title: Rational.FloatValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rational propiedad. Obtiene el valor flotante.
+title: "Rational.FloatValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Rational. Obtiene el valor de punto flotante"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
 Obtiene el valor flotante.
@@ -14,14 +15,14 @@ Obtiene el valor flotante.
 public float FloatValue { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor flotante.
 
 ### Ver también
 
 * class [Rational](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

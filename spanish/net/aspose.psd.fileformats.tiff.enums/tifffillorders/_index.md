@@ -1,11 +1,12 @@
 ---
-title: Enum TiffFillOrders
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders enumeración. Orden de datos dentro de un byte. Valores posibles para la etiqueta FILLORDER.
+title: "Enumeración TiffFillOrders"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders enum. Orden de datos dentro de un byte. Valores posibles para la etiqueta FILLORDER."
 type: docs
-weight: 4090
+weight: 4560
 url: /es/net/aspose.psd.fileformats.tiff.enums/tifffillorders/
 ---
+{{< psd/tize >}}
 ## TiffFillOrders enumeration
 
 Orden de datos dentro de un byte. Valores posibles para la etiqueta FILLORDER.
@@ -23,7 +24,7 @@ public enum TiffFillOrders : ushort
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

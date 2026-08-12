@@ -1,11 +1,12 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerResourcesRegistry método. Obtiene el primer descriptor de apertura compatible.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerResourcesRegistry. Obtiene el primer descriptor de apertura compatible."
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
 Obtiene el primer descriptor de apertura compatible.
@@ -14,16 +15,16 @@ Obtiene el primer descriptor de apertura compatible.
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La corriente. |
+| flujo | Flujo | El flujo. |
 | psdVersion | Int32 | La versión PSD. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El descriptor del cargador de recursos de la capa o nulo si no se admite ningún descriptor del cargador para dicha secuencia.
+El descriptor cargador de recursos de capa o null si no hay descriptor cargador compatible para dicho flujo.
 
-### Observaciones
+## Observaciones
 
 El primer cargador será en realidad el último registrado.
 
@@ -31,7 +32,7 @@ El primer cargador será en realidad el último registrado.
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

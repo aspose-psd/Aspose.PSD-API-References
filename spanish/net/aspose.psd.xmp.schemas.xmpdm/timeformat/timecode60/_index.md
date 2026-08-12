@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode60
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TimeFormat propiedad. Obtiene el código de tiempo60.
+title: "TimeFormat.Timecode60"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TimeFormat. Obtiene el timecode60"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode60/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode60 property
 
-Obtiene el código de tiempo60.
+Obtiene el timecode60.
 
 ```csharp
 public static TimeFormat Timecode60 { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El código de tiempo60.
+El timecode60.
 
 ### Ver también
 
 * class [TimeFormat](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

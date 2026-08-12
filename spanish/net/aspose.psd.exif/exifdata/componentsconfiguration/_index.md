@@ -1,11 +1,12 @@
 ---
-title: ExifData.ComponentsConfiguration
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la configuración de los componentes.
+title: "ExifData.ComponentsConfiguration"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la configuración de los componentes"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.exif/exifdata/componentsconfiguration/
 ---
+{{< psd/tize >}}
 ## ExifData.ComponentsConfiguration property
 
 Obtiene o establece la configuración de los componentes.
@@ -14,14 +15,14 @@ Obtiene o establece la configuración de los componentes.
 public byte[] ComponentsConfiguration { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La configuración de los componentes.
+La configuración de componentes.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Blue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RgbMixerChannel propiedad. Obtiene o establece el blue.
+title: "RgbMixerChannel.Blue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "RgbMixerChannel propiedad. Obtiene o establece el azul"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Blue property
 
-Obtiene o establece el blue.
+Obtiene o establece el azul.
 
 ```csharp
 public short Blue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El azul.
 
 ### Ver también
 
 * class [RgbMixerChannel](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

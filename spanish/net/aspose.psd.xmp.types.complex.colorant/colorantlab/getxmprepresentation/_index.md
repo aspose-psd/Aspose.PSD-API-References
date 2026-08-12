@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.GetXmpRepresentation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorantLab método. Obtiene el valor de la cadena contenida en formato XMP.
+title: "ColorantLab.GetXmpRepresentation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorantLab. Obtiene el valor de cadena contenido en formato XMP"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantLab.GetXmpRepresentation method
 
-Obtiene el valor de la cadena contenida en formato XMP.
+Obtiene el valor de cadena contenido en formato XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve el valor contenido en la cadena en formato XMP.
+Devuelve el valor de cadena contenido en formato XMP.
 
 ### Ver también
 
 * class [ColorantLab](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

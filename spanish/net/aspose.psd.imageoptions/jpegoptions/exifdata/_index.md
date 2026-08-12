@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.ExifData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegOptions propiedad. Obtener o configurar el contenedor de datos exif
+title: "JpegOptions.ExifData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de JpegOptions. Obtiene o establece el contenedor de datos exif"
 type: docs
-weight: 70
+weight: 80
 url: /es/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-Obtener o configurar el contenedor de datos exif
+Obtenga o establezca el contenedor de datos exif
 
 ```csharp
 public JpegExifData ExifData { get; set; }
@@ -18,7 +19,7 @@ public JpegExifData ExifData { get; set; }
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

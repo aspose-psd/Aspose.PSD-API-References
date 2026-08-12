@@ -1,11 +1,12 @@
 ---
-title: Class TiffImageException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException clase. La excepción de imagen Tiff
+title: "Clase TiffImageException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException. La excepción de imagen Tiff"
 type: docs
 weight: 610
 url: /es/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException class
 
 La excepción de imagen Tiff
@@ -18,10 +19,10 @@ public class TiffImageException : ImageException
 
 | Nombre | Descripción |
 | --- | --- |
-| [TiffImageException](tiffimageexception/#constructor_1)(string) | Inicializa una nueva instancia del`TiffImageException` clase. |
-| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Inicializa una nueva instancia del`TiffImageException` clase. |
-| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Inicializa una nueva instancia del`TiffImageException` clase. |
-| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Inicializa una nueva instancia del`TiffImageException` clase. |
+| [TiffImageException](tiffimageexception/#constructor_1)(string) | Inicializa una nueva instancia de la clase `TiffImageException`. |
+| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Inicializa una nueva instancia de la clase `TiffImageException`. |
+| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Inicializa una nueva instancia de la clase `TiffImageException`. |
+| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Inicializa una nueva instancia de la clase `TiffImageException`. |
 
 ## Propiedades
 
@@ -32,7 +33,7 @@ public class TiffImageException : ImageException
 ### Ver también
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

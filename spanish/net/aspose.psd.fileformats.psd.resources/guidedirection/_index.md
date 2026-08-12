@@ -1,11 +1,12 @@
 ---
-title: Enum GuideDirection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enumeración. La dirección de la guía.
+title: "Enumeración GuideDirection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. La dirección de la guía"
 type: docs
-weight: 3740
+weight: 4210
 url: /es/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
 La dirección de la guía.
@@ -18,12 +19,12 @@ public enum GuideDirection : byte
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Vertical | `0` | Dirección guía vertical. |
-| Horizontal | `1` | Dirección guía horizontal. |
+| Vertical | `0` | Dirección de guía vertical. |
+| Horizontal | `1` | Dirección de guía horizontal. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

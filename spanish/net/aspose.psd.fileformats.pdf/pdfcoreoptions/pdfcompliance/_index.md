@@ -1,28 +1,29 @@
 ---
-title: PdfCoreOptions.PdfCompliance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PdfCoreOptions propiedad. Obtiene o establece el cumplimiento de PDF.
+title: "PdfCoreOptions.PdfCompliance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PdfCoreOptions propiedad. Obtiene o establece la conformidad PDF"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.PdfCompliance property
 
-Obtiene o establece el cumplimiento de PDF.
+Obtiene o establece la conformidad PDF.
 
 ```csharp
 public PdfComplianceVersion PdfCompliance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El cumplimiento de PDF.
+La conformidad PDF.
 
 ### Ver también
 
 * enum [PdfComplianceVersion](../../../aspose.psd/pdfcomplianceversion/)
 * class [PdfCoreOptions](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

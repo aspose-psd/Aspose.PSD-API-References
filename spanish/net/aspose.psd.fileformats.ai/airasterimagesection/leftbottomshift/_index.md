@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiRasterImageSection propiedad. Obtiene el desplazamiento inferior izquierdo.
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiRasterImageSection. Obtiene el desplazamiento inferior izquierdo."
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
 Obtiene el desplazamiento inferior izquierdo.
@@ -14,14 +15,14 @@ Obtiene el desplazamiento inferior izquierdo.
 public double LeftBottomShift { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El desplazamiento inferior izquierdo.
 
 ### Ver también
 
 * class [AiRasterImageSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

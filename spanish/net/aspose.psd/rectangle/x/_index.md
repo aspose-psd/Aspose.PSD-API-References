@@ -1,27 +1,28 @@
 ---
-title: Rectangle.X
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle propiedad. Obtiene o establece la coordenada x de la esquina superior izquierda de esteRectangleestructura.
+title: "Rectangle.X"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de Rectangle. Obtiene o establece la coordenada x de la esquina superior izquierda de esta estructura Rectangle."
 type: docs
 weight: 200
 url: /es/net/aspose.psd/rectangle/x/
 ---
+{{< psd/tize >}}
 ## Rectangle.X property
 
-Obtiene o establece la coordenada x de la esquina superior izquierda de este[`Rectangle`](../)estructura.
+Obtiene o establece la coordenada x de la esquina superior izquierda de esta estructura [`Rectangle`](../).
 
 ```csharp
 public int X { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La coordenada x de la esquina superior izquierda de este[`Rectangle`](../) estructura.
+La coordenada x de la esquina superior izquierda de esta estructura [`Rectangle`](../).
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DublinCorePackage método. Agrega el asunto.
+title: "DublinCorePackage.SetSubject"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método DublinCorePackage. Añade el asunto"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
-Agrega el asunto.
+Añade el asunto.
 
 ```csharp
 public void SetSubject(string subject)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| subject | String | El tema. |
+| asunto | String | El asunto. |
 
 ### Ver también
 
 * class [DublinCorePackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSubject(string[]) {#setsubject_1}
 
-Agrega el asunto.
+Añade el asunto.
 
 ```csharp
 public void SetSubject(string[] subject)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| subject | String[] | El tema. |
+| asunto | String[] | El asunto. |
 
 ### Ver también
 
 * class [DublinCorePackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

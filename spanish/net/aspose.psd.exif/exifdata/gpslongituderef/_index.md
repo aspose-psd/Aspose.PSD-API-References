@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la longitud del GPS en longitud este u oeste.
+title: "ExifData.GPSLongitudeRef"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece si la longitud GPS es este u oeste"
 type: docs
 weight: 550
 url: /es/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-Obtiene o establece la longitud del GPS en longitud este u oeste.
+Obtiene o establece si la longitud GPS es este u oeste.
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La longitud del GPS es longitud este u oeste.
+La longitud GPS es este u oeste.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

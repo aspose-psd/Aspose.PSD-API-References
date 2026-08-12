@@ -1,14 +1,15 @@
 ---
-title: Enum SmoothingMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.SmoothingMode enumeración. Especifica si se aplica suavizado antialiasing a las líneas y curvas y los bordes de las áreas rellenas.
+title: "Enumeración SmoothingMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.SmoothingMode. Especifica si se aplica suavizado antialiasing a líneas y curvas y a los bordes de áreas rellenas"
 type: docs
-weight: 5570
+weight: 6070
 url: /es/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-Especifica si se aplica suavizado (antialiasing) a las líneas y curvas y los bordes de las áreas rellenas.
+Especifica si se aplica suavizado (antialiasing) a líneas y curvas y a los bordes de áreas rellenas.
 
 ```csharp
 public enum SmoothingMode
@@ -18,16 +19,16 @@ public enum SmoothingMode
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Invalid | `-1` | Especifica un modo no válido. |
-| Default | `0` | No especifica antialiasing. |
-| HighSpeed | `1` | No especifica antialiasing. |
-| HighQuality | `2` | Especifica el renderizado suavizado. |
-| None | `3` | No especifica antialiasing. |
-| AntiAlias | `4` | Especifica el renderizado suavizado. |
+| Invalid | `-1` | Especifica un modo inválido. |
+| Default | `0` | Especifica sin antialiasing. |
+| HighSpeed | `1` | Especifica sin antialiasing. |
+| HighQuality | `2` | Especifica renderizado antialiasing. |
+| None | `3` | Especifica sin antialiasing. |
+| AntiAlias | `4` | Especifica renderizado antialiasing. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

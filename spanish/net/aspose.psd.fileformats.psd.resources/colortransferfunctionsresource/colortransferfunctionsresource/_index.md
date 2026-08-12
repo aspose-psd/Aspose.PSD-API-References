@@ -1,14 +1,15 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferFunctionsResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorTransferFunctionsResource constructor. Constructor predeterminado
+title: "ColorTransferFunctionsResource.ColorTransferFunctionsResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ColorTransferFunctionsResource. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferfunctionsresource/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public ColorTransferFunctionsResource()
@@ -17,7 +18,7 @@ public ColorTransferFunctionsResource()
 ### Ver también
 
 * class [ColorTransferFunctionsResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

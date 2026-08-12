@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinearGradientBrush propiedad. Obtiene o establece el color de degradado inicial.
+title: "LinearGradientBrush.StartColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinearGradientBrush. Obtiene o establece el color inicial del degradado"
 type: docs
-weight: 40
+weight: 60
 url: /es/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-Obtiene o establece el color de degradado inicial.
+Obtiene o establece el color inicial del degradado.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El color de degradado inicial.
+El color inicial del degradado.
 
 ### Ver también
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

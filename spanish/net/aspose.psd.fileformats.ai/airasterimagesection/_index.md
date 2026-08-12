@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection clase. Sección de imagen ráster de IA
+title: "Clase AiRasterImageSection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Ai.AiRasterImageSection. La sección de imagen raster AI"
 type: docs
-weight: 1280
+weight: 1290
 url: /es/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-Sección de imagen ráster de IA
+La sección de imagen raster AI
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -22,15 +23,15 @@ public sealed class AiRasterImageSection
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Obtiene la altura. |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Obtiene el rectángulo de la imagen. |
 | [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Obtiene el desplazamiento inferior izquierdo. |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Obtiene el nombre de la imagen ráster. |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Obtiene el nombre de la imagen raster. |
 | [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Obtiene el desplazamiento X. |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Obtiene el desplazamiento Y. |
 | [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Obtiene la matriz de píxeles de color int. |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Obtiene el ancho. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra cómo cargar la configuración de imágenes ráster en archivos con formato AI.
+El siguiente código muestra cómo cargar la configuración de imágenes raster en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinearGradientBrush método. Crea un degradado lineal con un color central y una caída lineal a un solo color en ambos extremos.
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LinearGradientBrush. Crea un degradado lineal con un color central y una caída lineal a un solo color en ambos extremos."
 type: docs
-weight: 50
+weight: 70
 url: /es/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
 Crea un degradado lineal con un color central y una caída lineal a un solo color en ambos extremos.
@@ -14,15 +15,15 @@ Crea un degradado lineal con un color central y una caída lineal a un solo colo
 public void SetBlendTriangularShape(float focus)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| focus | Single | Un valor de 0 a 1 que especifica el centro del degradado (el punto donde el degradado se compone únicamente del color final). |
+| punto focal | Single | Un valor de 0 a 1 que especifica el centro del degradado (el punto donde el degradado está compuesto únicamente por el color final). |
 
 ### Ver también
 
 * class [LinearGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Crea un degradado lineal con un color central y una caída lineal a un solo colo
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| focus | Single | Un valor de 0 a 1 que especifica el centro del degradado (el punto donde el degradado se compone únicamente del color final). |
-| scale | Single | Un valor de 0 a 1 que especifica qué tan rápido los colores caen desde el color inicial hasta*focus*(color final) |
+| punto focal | Single | Un valor de 0 a 1 que especifica el centro del degradado (el punto donde el degradado está compuesto únicamente por el color final). |
+| escala | Single | Un valor de 0 a 1 que especifica la rapidez con la que los colores disminuyen desde el color inicial hasta el *punto focal* (color final) |
 
 ### Ver también
 
 * class [LinearGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

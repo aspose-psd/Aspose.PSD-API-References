@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font propiedad. Obtiene o establece el tipo de letra.
+title: "Font.FontFace"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Font. Obtiene o establece la cara de la fuente"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-Obtiene o establece el tipo de letra.
+Obtiene o establece el estilo de fuente.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El tipo de fuente.
+La cara de la fuente.
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

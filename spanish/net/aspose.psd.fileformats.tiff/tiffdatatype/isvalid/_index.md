@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.IsValid
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffDataType propiedad. Obtiene un valor que indica si los datos de la etiqueta son válidos. La etiqueta válida contiene datos que pueden conservarse. No se puede almacenar la etiqueta no válida.
+title: "TiffDataType.IsValid"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffDataType. Obtiene un valor que indica si los datos de la etiqueta son válidos. La etiqueta válida contiene datos que pueden preservarse. La etiqueta inválida no puede almacenarse"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.tiff/tiffdatatype/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.IsValid property
 
-Obtiene un valor que indica si los datos de la etiqueta son válidos. La etiqueta válida contiene datos que pueden conservarse. No se puede almacenar la etiqueta no válida.
+Obtiene un valor que indica si los datos de la etiqueta son válidos. La etiqueta válida contiene datos que pueden preservarse. La etiqueta inválida no puede almacenarse.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si los datos de la etiqueta son válidos; de lo contrario,`FALSO` .
+`true` si los datos de la etiqueta son válidos; de lo contrario, `false`.
 
 ### Ver también
 
 * class [TiffDataType](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

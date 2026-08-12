@@ -1,11 +1,12 @@
 ---
-title: Figure.Transform
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Figure método. Aplica la transformación especificada a la forma.
+title: "Figure.Transform"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de Figure. Aplica la transformación especificada a la forma"
 type: docs
 weight: 120
 url: /es/net/aspose.psd/figure/transform/
 ---
+{{< psd/tize >}}
 ## Figure.Transform method
 
 Aplica la transformación especificada a la forma.
@@ -14,7 +15,7 @@ Aplica la transformación especificada a la forma.
 public override void Transform(Matrix transform)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | transform | Matrix | La transformación a aplicar. |
 
@@ -22,7 +23,7 @@ public override void Transform(Matrix transform)
 
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* espacio de nombres [Aspose.PSD](../../figure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ListStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ListStructure clase. La estructura de la lista.
+title: "Clase ListStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ListStructure class. La estructura de lista"
 type: docs
-weight: 3190
+weight: 3570
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure class
 
-La estructura de la lista.
+La estructura de lista.
 
 ```csharp
 public sealed class ListStructure : OSTypeStructure
@@ -18,16 +19,16 @@ public sealed class ListStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [ListStructure](liststructure/)(ClassID) | Inicializa una nueva instancia del`ListStructure` clase. |
+| [ListStructure](liststructure/)(ClassID) | Inicializa una nueva instancia de la clase `ListStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/) { get; } | Obtiene el conteo de artículos. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key/) { get; } | Obtiene la clave de estructura. |
+| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/) { get; } | Obtiene el recuento de elementos. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key/) { get; } | Obtiene la clave de la estructura. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
 | [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/) { get; set; } | Obtiene o establece una copia de una matriz de estructuras. |
 
 ## Métodos
@@ -42,12 +43,12 @@ public sealed class ListStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey/) | Identifica la clave de estructura. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey/) | Identifica la clave de la estructura. |
 
 ### Ver también
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

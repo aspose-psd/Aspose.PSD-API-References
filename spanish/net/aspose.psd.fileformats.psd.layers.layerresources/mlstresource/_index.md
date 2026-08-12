@@ -1,11 +1,12 @@
 ---
-title: Class MlstResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource clase. El recurso mlst. Esta clase entre otras cosas contiene información sobre la posición de la capa en la línea de tiempo.
+title: "Clase MlstResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource. El recurso mlst. Esta clase, entre otras cosas, contiene información sobre la posición de la capa en la línea de tiempo."
 type: docs
-weight: 2830
+weight: 3170
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource class
 
 El recurso mlst. Esta clase, entre otras cosas, contiene información sobre la posición de la capa en la línea de tiempo.
@@ -18,7 +19,7 @@ public class MlstResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [MlstResource](mlstresource/)() | Constructor predeterminado |
+| [MlstResource](mlstresource/)() | El constructor predeterminado. |
 
 ## Propiedades
 
@@ -26,17 +27,17 @@ public class MlstResource : LayerResource
 | --- | --- |
 | [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | Obtiene o establece la versión del descriptor. |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/) { get; } | Obtiene o establece las estructuras. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | Guarda el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -44,9 +45,9 @@ public class MlstResource : LayerResource
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con el recurso MlstResource que brinda un mecanismo de bajo nivel para manipular los estados de la capa.
+El siguiente código demuestra el soporte del recurso MlstResource que brinda un mecanismo de bajo nivel para manipular los estados de la capa.
 
 ```csharp
 [C#]
@@ -64,7 +65,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Deshabilitar la capa 1 en el marco 1
+    // Desactivar la capa 1 en el fotograma 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -74,7 +75,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

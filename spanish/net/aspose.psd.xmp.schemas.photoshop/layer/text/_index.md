@@ -1,11 +1,12 @@
 ---
-title: Layer.Text
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece el contenido de texto de la capa.
+title: "Layer.Text"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Layer propiedad. Obtiene o establece el contenido de texto de la capa"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
+{{< psd/tize >}}
 ## Layer.Text property
 
 Obtiene o establece el contenido de texto de la capa.
@@ -14,14 +15,14 @@ Obtiene o establece el contenido de texto de la capa.
 public string Text { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El contenido de texto de la capa.
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

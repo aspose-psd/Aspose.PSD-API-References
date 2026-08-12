@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.TagType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffDataType propiedad. Obtiene el tipo de etiqueta.
+title: "TiffDataType.TagType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffDataType. Obtiene el tipo de etiqueta."
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.tiff/tiffdatatype/tagtype/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagType property
 
 Obtiene el tipo de etiqueta.
@@ -14,7 +15,7 @@ Obtiene el tipo de etiqueta.
 public abstract TiffDataTypes TagType { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de etiqueta.
 
@@ -22,7 +23,7 @@ El tipo de etiqueta.
 
 * enum [TiffDataTypes](../../../aspose.psd.fileformats.tiff.enums/tiffdatatypes/)
 * class [TiffDataType](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

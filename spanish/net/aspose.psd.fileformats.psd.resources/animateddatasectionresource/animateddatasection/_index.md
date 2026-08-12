@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AnimatedDataSectionResource propiedad. Obtiene o establece la estructura de la sección de datos animada.
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AnimatedDataSectionResource. Obtiene o establece la estructura de la sección de datos animados."
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
-Obtiene o establece la estructura de la sección de datos animada.
+Obtiene o establece la estructura de la sección de datos animados.
 
 ```csharp
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra cómo configurar/actualizar el tiempo de retraso en el marco de la línea de tiempo de los datos animados.
+El siguiente código muestra cómo establecer/actualizar el tiempo de retraso en el fotograma de la línea de tiempo de datos animados.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Crea el registro de retardo de cuadro con un valor de 100 centisegundos que es igual a 1 segundo.
+            // Crea el registro de retraso de fotograma con un valor de 100 centisegundos, que equivale a 1 segundo.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // establece el tiempo en centisegundos.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpRightsManagementPackage método. Propietarios de conjuntos.
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpRightsManagementPackage. Establece propietarios"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
-Propietarios de conjuntos.
+Establece los propietarios.
 
 ```csharp
 public void SetOwners(string[] owners)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| owners | String[] | Los propietarios. |
+| propietarios | String[] | Los propietarios. |
 
 ### Ver también
 
 * class [XmpRightsManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.DisplayName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece el nombre para mostrar de la capa.
+title: "Layer.DisplayName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene o establece el nombre para mostrar de la capa"
 type: docs
-weight: 100
+weight: 110
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
 Obtiene o establece el nombre para mostrar de la capa.
@@ -14,18 +15,18 @@ Obtiene o establece el nombre para mostrar de la capa.
 public string DisplayName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre para mostrar de la capa.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la capacidad de establecer el valor de DisplayName, en el que se muestra correctamente el nombre de la capa.
+El siguiente ejemplo demuestra la capacidad de establecer el valor DisplayName, en el que el nombre de la capa se muestra correctamente.
 
 ```csharp
 [C#]
 
-// hacer cambios en los nombres de las capas y guardarlos
+// realiza cambios en los nombres de las capas y guárdalo
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // establece un nuevo valor en la propiedad DisplayName
+        // establecer un nuevo valor en la propiedad DisplayName
         layer.DisplayName += "_changed";
     }
 
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

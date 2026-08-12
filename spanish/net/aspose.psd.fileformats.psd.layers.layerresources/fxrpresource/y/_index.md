@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.Y
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FxrpResource propiedad. Obtiene o establece la y del punto de referencia
+title: "FxrpResource.Y"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FxrpResource. Obtiene o establece la y del punto de referencia"
 type: docs
-weight: 70
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
 Obtiene o establece la y del punto de referencia
@@ -14,14 +15,14 @@ Obtiene o establece la y del punto de referencia
 public double Y { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La y del punto de referencia
 
 ### Ver también
 
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

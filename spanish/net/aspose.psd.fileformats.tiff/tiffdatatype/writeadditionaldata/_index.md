@@ -1,24 +1,25 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffDataType método. Escribe los datos adicionales de la etiqueta.
+title: "TiffDataType.WriteAdditionalData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffDataType. Escribe los datos adicionales de la etiqueta"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteAdditionalData method
 
-Escribe los datos adicionales de la etiqueta.
+Escribe los datos de etiqueta adicionales.
 
 ```csharp
 public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | El flujo de datos. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Los bytes reales escritos.
 
@@ -26,7 +27,7 @@ Los bytes reales escritos.
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

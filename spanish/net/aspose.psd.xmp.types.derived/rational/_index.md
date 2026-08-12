@@ -1,14 +1,15 @@
 ---
-title: Class Rational
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Derived.Rational clase. Representa XMP Racional.
+title: "Clase Rational"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Xmp.Types.Derived.Rational clase. Representa el Rational XMP."
 type: docs
-weight: 6120
+weight: 6620
 url: /es/net/aspose.psd.xmp.types.derived/rational/
 ---
+{{< psd/tize >}}
 ## Rational class
 
-Representa XMP Racional.
+Representa XMP Rational.
 
 ```csharp
 public class Rational : XmpTypeBase
@@ -18,7 +19,7 @@ public class Rational : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [Rational](rational/)(int, int) | Inicializa una nueva instancia del`Rational` clase. |
+| [Rational](rational/)(int, int) | Inicializa una nueva instancia de la clase `Rational`. |
 
 ## Propiedades
 
@@ -32,12 +33,12 @@ public class Rational : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Obtiene el valor contenido en la cadena en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Obtiene el valor contenido de la cadena en formato XMP. |
 
 ### Ver también
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

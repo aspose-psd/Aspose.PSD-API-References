@@ -1,28 +1,29 @@
 ---
-title: XmpRdfRoot.RegisterNamespaceUri
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpRdfRoot método. Agrega uri de espacio de nombres por prefijo. El prefijo puede comenzar sin xmlns.
+title: "XmpRdfRoot.RegisterNamespaceUri"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpRdfRoot. Añade un URI de espacio de nombres mediante un prefijo. El prefijo puede comenzar sin xmlns"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp/xmprdfroot/registernamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.RegisterNamespaceUri method
 
-Agrega uri de espacio de nombres por prefijo. El prefijo puede comenzar sin xmlns.
+Agrega la URI del espacio de nombres por prefijo. El prefijo puede comenzar sin xmlns.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| prefix | String | el prefijo |
-| namespaceUri | String | Esquema de paquete uri. |
+| prefijo | String | El prefijo. |
+| namespaceUri | String | URI del esquema del paquete. |
 
 ### Ver también
 
 * class [XmpRdfRoot](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmprdfroot/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

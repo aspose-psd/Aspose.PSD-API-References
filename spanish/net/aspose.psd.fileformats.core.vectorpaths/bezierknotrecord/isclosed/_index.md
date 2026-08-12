@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.IsClosed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BezierKnotRecord propiedad. Obtiene o establece un valor que indica si esta instancia está cerrada.
+title: "BezierKnotRecord.IsClosed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BezierKnotRecord. Obtiene o establece un valor que indica si esta instancia está cerrada"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsClosed property
 
 Obtiene o establece un valor que indica si esta instancia está cerrada.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta instancia está cerrada.
 public bool IsClosed { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia está cerrada; de lo contrario,`FALSO` .
+`true` si esta instancia está cerrada; de lo contrario, `false`.
 
 ### Ver también
 
 * class [BezierKnotRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

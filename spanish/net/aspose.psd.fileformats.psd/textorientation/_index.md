@@ -1,14 +1,15 @@
 ---
-title: Enum TextOrientation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.TextOrientation enumeración. Enumeración para modo de orientación de texto.
+title: "Enumeración TextOrientation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.TextOrientation enum. Enumeración para el modo de orientación del texto."
 type: docs
-weight: 4010
+weight: 4480
 url: /es/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-Enumeración para modo de orientación de texto.
+Enumeración para el modo de orientación del texto.
 
 ```csharp
 public enum TextOrientation
@@ -18,12 +19,12 @@ public enum TextOrientation
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Horizontal | `0` | La orientación del texto horizontal. |
-| Vertical | `2` | La orientación vertical del texto. |
+| Horizontal | `0` | La orientación de texto horizontal. |
+| Vertical | `2` | La orientación de texto vertical. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de editar la nueva propiedad TextOrientation. Esto no afecta el renderizado en este momento, pero solo le permite editar el valor de la propiedad.
+El siguiente código demuestra la capacidad de editar la nueva propiedad TextOrientation. Esto no afecta la renderización en este momento, pero solo permite editar el valor de la propiedad.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

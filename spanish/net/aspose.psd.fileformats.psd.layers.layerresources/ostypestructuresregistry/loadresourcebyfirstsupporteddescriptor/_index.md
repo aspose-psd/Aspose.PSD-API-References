@@ -1,36 +1,37 @@
 ---
-title: OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OSTypeStructuresRegistry método. CargasOSTypeStructure usando el primer abridor encontrado adecuado para el especificadostream .
+title: "OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OSTypeStructuresRegistry método. Carga OSTypeStructure usando el primer abridor encontrado adecuado para el flujo especificado"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Cargas[`OSTypeStructure`](../../ostypestructure/) usando el primer abridor encontrado adecuado para el especificado*stream* .
+Carga [`OSTypeStructure`](../../ostypestructure/) usando el primer abridor encontrado adecuado para el *stream* especificado.
 
 ```csharp
 public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La corriente. |
+| flujo | Flujo | El flujo. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El cargado[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) o nulo si no se encuentra ningún abridor.
+El [`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) cargado o null si no se encuentra ningún abridor.
 
-### Observaciones
+## Observaciones
 
-El primer abridor será en realidad el último registrado.
+El primer descriptor de apertura será en realidad el último registrado.
 
 ### Ver también
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [OSTypeStructuresRegistry](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

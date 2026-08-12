@@ -1,14 +1,15 @@
 ---
-title: Interface IXmlValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.IXmlValue interfaz. Convierte valores xmp a la representación de cadena XML.
+title: "Interfaz IXmlValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.Xmp.IXmlValue. Convierte los valores xmp a la representación de cadena XML."
 type: docs
-weight: 5750
+weight: 6250
 url: /es/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
-Convierte valores xmp a la representación de cadena XML.
+Convierte los valores xmp a la representación de cadena XML.
 
 ```csharp
 public interface IXmlValue
@@ -22,7 +23,7 @@ public interface IXmlValue
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

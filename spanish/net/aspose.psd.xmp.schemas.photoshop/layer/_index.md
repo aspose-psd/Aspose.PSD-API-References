@@ -1,11 +1,12 @@
 ---
-title: Class Layer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Schemas.Photoshop.Layer clase. Representa la capa de texto de Photoshop.
+title: "Clase Layer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Schemas.Photoshop.Layer. Representa una capa de texto de Photoshop"
 type: docs
-weight: 5810
+weight: 6310
 url: /es/net/aspose.psd.xmp.schemas.photoshop/layer/
 ---
+{{< psd/tize >}}
 ## Layer class
 
 Representa la capa de texto de Photoshop.
@@ -18,8 +19,8 @@ public class Layer : XmpTypeBase, IEquatable<Layer>
 
 | Nombre | Descripción |
 | --- | --- |
-| [Layer](layer/#constructor)() | Inicializa una nueva instancia del`Layer` clase. |
-| [Layer](layer/#constructor_1)(string, string) | Inicializa una nueva instancia del`Layer` clase. |
+| [Layer](layer/#constructor)() | Inicializa una nueva instancia de la clase `Layer`. |
+| [Layer](layer/#constructor_1)(string, string) | Inicializa una nueva instancia de la clase `Layer`. |
 
 ## Propiedades
 
@@ -33,14 +34,14 @@ public class Layer : XmpTypeBase, IEquatable<Layer>
 | Nombre | Descripción |
 | --- | --- |
 | [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | Indica si el objeto actual es igual a otro objeto del mismo tipo. |
-| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | Determina si el especificadoObject , es igual a esta instancia. |
+| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | Determina si el Object especificado es igual a esta instancia. |
 | override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | Devuelve un código hash para esta instancia. |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | Devuelve el valor contenido en la cadena en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | Devuelve el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

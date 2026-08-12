@@ -1,11 +1,12 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord clase. Clase de registro de regla de relleno inicial
+title: "Clase InitialFillRuleRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord. Clase de registro de regla de relleno inicial"
 type: docs
-weight: 1360
+weight: 1370
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
 Clase de registro de regla de relleno inicial
@@ -18,9 +19,9 @@ public class InitialFillRuleRecord : VectorPathRecord
 
 | Nombre | Descripción |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Inicializa una nueva instancia del`InitialFillRuleRecord` clase. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Inicializa una nueva instancia del`InitialFillRuleRecord` clase. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Inicializa una nueva instancia del`InitialFillRuleRecord` clase. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Inicializa una nueva instancia de la clase `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Inicializa una nueva instancia de la clase `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Inicializa una nueva instancia de la clase `InitialFillRuleRecord`. |
 
 ## Propiedades
 
@@ -32,7 +33,7 @@ public class InitialFillRuleRecord : VectorPathRecord
 ### Ver también
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

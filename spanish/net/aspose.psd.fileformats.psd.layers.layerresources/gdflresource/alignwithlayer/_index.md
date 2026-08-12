@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GdFlResource propiedad. Obtiene o establece un valor que indica si alinear con la capa.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de GdFlResource. Obtiene o establece un valor que indica si se alinea con la capa"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-Obtiene o establece un valor que indica si [alinear con la capa].
+Obtiene o establece un valor que indica si [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si [alinear con la capa]; de lo contrario,`FALSO` .
+`true` si [alinear con la capa]; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con la carga de recursos GdFlResource.
+El siguiente ejemplo demuestra el soporte de la carga de recursos GdFlResource.
 
 ```csharp
 [C#]
@@ -117,7 +118,7 @@ using (im)
 ### Ver también
 
 * class [GdFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpTypeResourceRef
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Namespaces campo. URI de referencia de recurso XMP.
+title: "Namespaces.XmpTypeResourceRef"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Namespaces. URI de XMP ResourceRef"
 type: docs
 weight: 150
 url: /es/net/aspose.psd.xmp/namespaces/xmptyperesourceref/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeResourceRef field
 
-URI de referencia de recurso XMP.
+URI de ResourceRef de XMP.
 
 ```csharp
 public const string XmpTypeResourceRef;
@@ -17,7 +18,7 @@ public const string XmpTypeResourceRef;
 ### Ver también
 
 * class [Namespaces](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../namespaces/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

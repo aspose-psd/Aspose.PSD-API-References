@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen constructor. Inicializa una nueva instancia delPen clase con el color especificado.
+title: "Pen.Pen"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de Pen. Inicializa una nueva instancia de la clase Pen con el color especificado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-Inicializa una nueva instancia del[`Pen`](../) clase con el color especificado.
+Inicializa una nueva instancia de la clase [`Pen`](../) con el color especificado.
 
 ```csharp
 public Pen(Color color)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) estructura que indica el color de este[`Pen`](../). |
+| color | Color | Una estructura [`Color`](../color/) que indica el color de este [`Pen`](../). |
 
 ### Ver también
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-Inicializa una nueva instancia del[`Pen`](../) clase con el especificado[`Color`](../color/) y[`Width`](../width/) propiedades.
+Inicializa una nueva instancia de la clase [`Pen`](../) con las propiedades [`Color`](../color/) y [`Width`](../width/) especificadas.
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) estructura que indica el color de este[`Pen`](../). |
-| width | Single | Un valor que indica el ancho de este[`Pen`](../). |
+| color | Color | Una estructura [`Color`](../color/) que indica el color de este [`Pen`](../). |
+| width | Single | Un valor que indica el ancho de este [`Pen`](../). |
 
 ### Ver también
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-Inicializa una nueva instancia del[`Pen`](../) clase con el especificado[`Brush`](../brush/) .
+Inicializa una nueva instancia de la clase [`Pen`](../) con el [`Brush`](../brush/) especificado.
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) que determina las propiedades de relleno de este[`Pen`](../). |
+| brush | Brush | Un [`Brush`](../brush/) que determina las propiedades de relleno de este [`Pen`](../). |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | *brush* es nulo. |
+| ArgumentNullException | El *brush* es nulo. |
 
 ### Ver también
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-Inicializa una nueva instancia del[`Pen`](../) clase con el especificado[`Brush`](../brush/) y[`Width`](../width/) .
+Inicializa una nueva instancia de la clase [`Pen`](../) con el [`Brush`](../brush/) y la [`Width`](../width/) especificados.
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) que determina las características de este[`Pen`](../). |
-| width | Single | El ancho de la nueva[`Pen`](../). |
+| brush | Brush | Un [`Brush`](../brush/) que determina las características de este [`Pen`](../). |
+| width | Single | El ancho del nuevo [`Pen`](../). |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | *brush* es nulo. |
+| ArgumentNullException | El *brush* es nulo. |
 
 ### Ver también
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

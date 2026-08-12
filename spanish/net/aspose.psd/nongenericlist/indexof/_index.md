@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.IndexOf
-second_title: Referencia de API de Aspose.PSD para .NET
-description: NonGenericList método. Determina el índice de un elemento específico en elIList .
+title: "NonGenericList.IndexOf"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método NonGenericList. Determina el índice de un elemento específico en el IList"
 type: docs
 weight: 130
 url: /es/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-Determina el índice de un elemento específico en elIList .
+Determina el índice de un elemento específico en IList.
 
 ```csharp
 public int IndexOf(object value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Object | ElObjectubicar en elIList. |
+| valor | Object | El objeto a localizar en el IList. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El índice de*value* si se encuentra en la lista; de lo contrario, -1.
+El índice de *value* si se encuentra en la lista; de lo contrario, -1.
 
 ### Ver también
 
 * class [NonGenericList](../)
-* espacio de nombres [Aspose.PSD](../../nongenericlist/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

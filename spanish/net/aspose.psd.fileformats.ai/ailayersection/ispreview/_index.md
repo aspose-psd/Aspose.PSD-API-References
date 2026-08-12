@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece un valor que indica si esta capa es una vista previa. Muestra la ilustración contenida en la capa en color en lugar de como contornos.
+title: "AiLayerSection.IsPreview"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece un valor que indica si esta capa es una vista previa. Muestra la obra de arte contenida en la capa en color en lugar de como contornos"
 type: docs
-weight: 70
+weight: 90
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Obtiene o establece un valor que indica si esta capa es una vista previa. Muestra la ilustración contenida en la capa en color en lugar de como contornos.
+Obtiene o establece un valor que indica si esta capa es de vista previa. Muestra el arte contenido en la capa en color en lugar de como contornos.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta capa es vista previa; de lo contrario,`FALSO` .
+`true` si esta capa es una vista previa; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

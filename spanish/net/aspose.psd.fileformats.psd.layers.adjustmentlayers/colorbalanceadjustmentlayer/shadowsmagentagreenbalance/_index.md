@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorBalanceAdjustmentLayer propiedad. Obtiene o establece el balance de sombras Magenta Green.
+title: "ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ColorBalanceAdjustmentLayer propiedad. Obtiene o establece el Balance de Magenta Verde en Sombras"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
-Obtiene o establece el balance de sombras Magenta Green.
+Obtiene o establece el balance Magenta Verde de Shadows.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El equilibrio verde magenta de las sombras.
+El Balance de Magenta Verde en Sombras.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Magenta Green Balance debe estar en el rango de -100 a +100. |
+| ArgumentOutOfRangeException | El Balance de Magenta Verde en Sombras debe estar en el rango de -100 a +100. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con ColorBalanceAdjustmentLayer.
+El siguiente código demuestra el soporte para la ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Ver también
 
 * class [ColorBalanceAdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

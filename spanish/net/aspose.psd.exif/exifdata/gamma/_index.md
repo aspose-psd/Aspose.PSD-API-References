@@ -1,11 +1,12 @@
 ---
-title: ExifData.Gamma
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la gamma.
+title: "ExifData.Gamma"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el gamma"
 type: docs
 weight: 350
 url: /es/net/aspose.psd.exif/exifdata/gamma/
 ---
+{{< psd/tize >}}
 ## ExifData.Gamma property
 
 Obtiene o establece la gamma.
@@ -14,7 +15,7 @@ Obtiene o establece la gamma.
 public TiffRational Gamma { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor gamma.
 
@@ -22,7 +23,7 @@ El valor gamma.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

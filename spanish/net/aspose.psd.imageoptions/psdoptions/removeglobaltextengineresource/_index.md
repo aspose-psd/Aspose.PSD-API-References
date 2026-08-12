@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RemoveGlobalTextEngineResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdOptions propiedad. Obtiene o establece un valor que indica si  Quitar el recurso del motor de texto global  Se utiliza para algunos archivos psd con capas de texto en el único caso cuando no se pueden abrir en Adobe Photoshop después del procesamiento principalmente para las capas de texto de fuentes ausentes relacionadas. Después de usar esta opción el usuario debe hacer lo siguiente en abrir un archivo de Photoshop Menú Texto  Procesar fuentes ausentes. Después de esa operación todo el texto volverá a aparecer. Tenga en cuenta que esta operación puede causar algunos cambios en el diseño final.
+title: "PsdOptions.RemoveGlobalTextEngineResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PsdOptions. Obtiene o establece un valor que indica si se elimina el recurso global del motor de texto. Se usa para algunos archivos psd con capas de texto cuando no pueden abrirse en Adobe Photoshop después del procesamiento, principalmente por capas de texto con fuentes ausentes. Después de usar esta opción, el usuario debe, en el archivo abierto en Photoshop, ir al menú Texto y ejecutar 'Procesar fuentes ausentes'. Tras esa operación, todo el texto volverá a aparecer. Tenga en cuenta que esta operación puede provocar algunos cambios finales en el diseño."
 type: docs
-weight: 80
+weight: 90
 url: /es/net/aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RemoveGlobalTextEngineResource property
 
-Obtiene o establece un valor que indica si - Quitar el recurso del motor de texto global - Se utiliza para algunos archivos psd con capas de texto, en el único caso, cuando no se pueden abrir en Adobe Photoshop después del procesamiento (principalmente para las capas de texto de fuentes ausentes relacionadas). Después de usar esta opción, el usuario debe hacer lo siguiente en abrir un archivo de Photoshop: Menú "Texto" -&gt; "Procesar fuentes ausentes". Después de esa operación, todo el texto volverá a aparecer. Tenga en cuenta que esta operación puede causar algunos cambios en el diseño final.
+Obtiene o establece un valor que indica si - Eliminar el recurso global del motor de texto - Utilizado para algunos archivos PSD con capas de texto, solo en el caso en que no puedan abrirse en Adobe Photoshop después del procesamiento (principalmente por capas de texto con fuentes ausentes). Después de usar esta opción, el usuario debe realizar lo siguiente en el archivo abierto en Photoshop: Menú "Text" -&gt; "Process absent fonts". Después de esa operación, todo el texto volverá a aparecer. Tenga en cuenta que esta operación puede causar algunos cambios en el diseño final.
 
 ```csharp
 public bool RemoveGlobalTextEngineResource { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` if [eliminar recurso de motor de texto global]; de lo contrario,`FALSO` .
+`true` si [remove global text engine resource]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [PsdOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../psdoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics método. Dibuja un rectángulo especificado por unRectangleFestructura.
+title: "Graphics.DrawRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Graphics. Dibuja un rectángulo especificado por una estructura RectangleF"
 type: docs
-weight: 300
+weight: 310
 url: /es/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-Dibuja un rectángulo especificado por un[`RectangleF`](../../rectanglef/)estructura.
+Dibuja un rectángulo especificado por una estructura [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/) estructura que representa el rectángulo a dibujar. |
+| pen | Pen | Un [`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
+| rect | RectangleF | Una estructura [`RectangleF`](../../rectanglef/) que representa el rectángulo a dibujar. |
 
 ### Excepciones
 
@@ -30,23 +31,23 @@ public void DrawRectangle(Pen pen, RectangleF rect)
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-Dibuja un rectángulo especificado por un[`Rectangle`](../../rectangle/)estructura.
+Dibuja un rectángulo especificado por una estructura [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/) estructura que representa el rectángulo a dibujar. |
+| pen | Pen | Un [`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
+| rect | Rectangle | Una estructura [`Rectangle`](../../rectangle/) que representa el rectángulo a dibujar. |
 
 ### Excepciones
 
@@ -59,8 +60,8 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,13 +73,13 @@ Dibuja un rectángulo especificado por un par de coordenadas, un ancho y una alt
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
-| x | Single | La coordenada x de la esquina superior izquierda del rectángulo que se va a dibujar. |
-| y | Single | La coordenada y de la esquina superior izquierda del rectángulo que se va a dibujar. |
+| pen | Pen | Un [`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
+| x | Single | La coordenada x de la esquina superior izquierda del rectángulo a dibujar. |
+| y | Single | La coordenada y de la esquina superior izquierda del rectángulo a dibujar. |
 | width | Single | El ancho del rectángulo a dibujar. |
-| height | Single | La altura del rectángulo a dibujar. |
+| height | Single | El alto del rectángulo a dibujar. |
 
 ### Excepciones
 
@@ -90,8 +91,8 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,13 +104,13 @@ Dibuja un rectángulo especificado por un par de coordenadas, un ancho y una alt
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo del rectángulo. |
-| x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo que se va a dibujar. |
-| y | Int32 | La coordenada y de la esquina superior izquierda del rectángulo que se va a dibujar. |
+| x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo a dibujar. |
+| y | Int32 | La coordenada y de la esquina superior izquierda del rectángulo a dibujar. |
 | width | Int32 | Ancho del rectángulo a dibujar. |
-| height | Int32 | Altura del rectángulo a dibujar. |
+| height | Int32 | Alto del rectángulo a dibujar. |
 
 ### Excepciones
 
@@ -121,7 +122,7 @@ public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

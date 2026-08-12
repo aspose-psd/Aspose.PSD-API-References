@@ -1,14 +1,15 @@
 ---
-title: Class ColorMapExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.ColorMapExtensions clase. ElColorMap métodos de extensión.
+title: "Clase ColorMapExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.ColorMapExtensions. Los métodos de extensión de ColorMap."
 type: docs
-weight: 1060
+weight: 1070
 url: /es/net/aspose.psd.extensions/colormapextensions/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions class
 
-El[`ColorMap`](../../aspose.psd/colormap/) métodos de extensión.
+Los métodos de extensión de [`ColorMap`](../../aspose.psd/colormap/).
 
 ```csharp
 public static class ColorMapExtensions
@@ -18,12 +19,12 @@ public static class ColorMapExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | Convierte el[`ColorMap`](../../aspose.psd/colormap/) haciaColorMap . |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | Convierte el[`ColorMap`](../../aspose.psd/colormap/) matriz a laColorMap matriz. |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | Convierte el [`ColorMap`](../../aspose.psd/colormap/) al ColorMap. |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | Convierte la matriz de [`ColorMap`](../../aspose.psd/colormap/) a la matriz de ColorMap. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

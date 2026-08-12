@@ -1,22 +1,23 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Referencia de API de Aspose.PSD para .NET
-description: UnitArrayStructure propiedad. Obtiene o establece los valores de la estructura de la matriz de unidades.
+title: "UnitArrayStructure.Values"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de UnitArrayStructure. Obtiene o establece los valores de la estructura de matriz de unidades"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Obtiene o establece los valores de la estructura de la matriz de unidades.
+Obtiene o establece los valores de la estructura de matriz de unidades.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los valores de estructura de la matriz de unidades.
+Los valores de la estructura de matriz de unidades.
 
 ### Excepciones
 
@@ -24,9 +25,9 @@ Los valores de estructura de la matriz de unidades.
 | --- | --- |
 | ArgumentNullException | La propiedad Values no debe ser nula. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con las firmas ObAr y UnFl.
+El siguiente código demuestra el soporte de las firmas ObAr y UnFl.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [UnitArrayStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

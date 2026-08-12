@@ -1,20 +1,21 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageCreatorsRegistry método. Da de baja al creador.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageCreatorsRegistry. Anula el registro del creador"
 type: docs
 weight: 70
 url: /es/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-Da de baja al creador.
+Anula el registro del creador.
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | creatorDescriptor | IImageCreatorDescriptor | El descriptor del creador. |
 
@@ -22,7 +23,7 @@ public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imagecreatorsregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

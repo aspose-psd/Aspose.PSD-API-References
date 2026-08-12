@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmykBytes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykColorHelper método. Convierte RGB a CMYK.
+title: "CmykColorHelper.ToCmykBytes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método CmykColorHelper. Convierte RGB a CMYK"
 type: docs
 weight: 100
 url: /es/net/aspose.psd/cmykcolorhelper/tocmykbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykBytes method
 
 Convierte RGB a CMYK.
@@ -14,20 +15,20 @@ Convierte RGB a CMYK.
 public static byte[] ToCmykBytes(int[] argbPixels, int startIndex, int length)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | argbPixels | Int32[] | Los colores RGB presentados como valores enteros de 32 bits. |
 | startIndex | Int32 | El índice de inicio del color RGB. |
-| length | Int32 | El número de píxeles RGB para convertir. |
+| longitud | Int32 | El número de píxeles RGB a convertir. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Los colores CMYK presentados como una matriz de bytes.
 
 ### Ver también
 
 * class [CmykColorHelper](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolorhelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

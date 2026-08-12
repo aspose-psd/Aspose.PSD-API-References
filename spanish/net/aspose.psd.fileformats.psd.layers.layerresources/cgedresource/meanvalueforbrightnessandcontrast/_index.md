@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CgEdResource propiedad. Obtiene o establece el valor medio de brillo y contraste.
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CgEdResource. Obtiene o establece el valor medio para el brillo y el contraste"
 type: docs
-weight: 80
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
-Obtiene o establece el valor medio de brillo y contraste.
+Obtiene o establece el valor medio para el brillo y el contraste.
 
 ```csharp
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor medio de brillo y contraste.
+El valor medio para el brillo y el contraste.
 
 ### Ver también
 
 * class [CgEdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

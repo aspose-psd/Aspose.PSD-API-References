@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GradientOverlayEffect propiedad. Obtiene o establece el modo de fusión.
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GradientOverlayEffect. Obtiene o establece el modo de fusión"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
 Obtiene o establece el modo de fusión.
@@ -14,15 +15,15 @@ Obtiene o establece el modo de fusión.
 public BlendMode BlendMode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El modo de mezcla.
+El modo de fusión.
 
 ### Ver también
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

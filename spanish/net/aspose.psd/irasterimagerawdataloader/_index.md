@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IRasterImageRawDataLoader interfaz. El cargador de datos sin procesar de imágenes ráster.
+title: "Interfaz IRasterImageRawDataLoader"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IRasterImageRawDataLoader. El cargador de datos sin procesar de imágenes rasterizadas"
 type: docs
-weight: 4580
+weight: 5050
 url: /es/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
-El cargador de datos sin procesar de imágenes ráster.
+El cargador de datos sin procesar de la imagen raster.
 
 ```csharp
 public interface IRasterImageRawDataLoader
@@ -18,8 +19,8 @@ public interface IRasterImageRawDataLoader
 
 | Nombre | Descripción |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Obtiene un valor que indica si se admite la carga de datos sin procesar. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Obtiene la configuración actual de datos sin procesar. Tenga en cuenta que al usar esta configuración, los datos se cargan sin conversión. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Obtiene un valor que indica si la carga de datos sin procesar es compatible. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Obtiene la configuración actual de datos sin procesar. Nota: al usar esta configuración los datos se cargan sin conversión. |
 
 ## Métodos
 
@@ -29,7 +30,7 @@ public interface IRasterImageRawDataLoader
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

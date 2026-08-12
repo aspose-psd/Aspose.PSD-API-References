@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpRightsManagementPackage método. Establece los términos de uso.
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpRightsManagementPackage. Establece los términos de uso"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
 Establece los términos de uso.
@@ -14,7 +15,7 @@ Establece los términos de uso.
 public void SetUsageTerms(LangAlt usageTerms)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | usageTerms | LangAlt | Los términos de uso. |
 
@@ -22,13 +23,13 @@ public void SetUsageTerms(LangAlt usageTerms)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | términos de uso |
+| ArgumentNullException | usageTerms |
 
 ### Ver también
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

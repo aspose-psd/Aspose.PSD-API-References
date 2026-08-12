@@ -1,51 +1,52 @@
 ---
-title: Matrix.Scale
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix método. Aplica el vector de escala especificado scaleX y scaleY a esteMatrix utilizando el orden especificado.
+title: "Matrix.Scale"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Matrix. Aplica el vector de escala especificado scaleX y scaleY a este Matrix usando el orden especificado."
 type: docs
 weight: 160
 url: /es/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-Aplica el vector de escala especificado (scaleX y scaleY) a este[`Matrix`](../) utilizando el orden especificado.
+Aplica el vector de escala especificado (scaleX y scaleY) a este [`Matrix`](../) usando el orden especificado.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | scaleX | Single | La escala X. |
 | scaleY | Single | La escala Y. |
-| order | MatrixOrder | El orden. |
+| orden | MatrixOrder | El orden. |
 
 ### Ver también
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-Aplica el vector de escala especificado (escalaX y escalaY) a esta Matriz usando (predeterminado) orden antepuesto.
+Aplica el vector de escala especificado (scaleX y scaleY) a esta Matrix usando el orden (predeterminado) Prepend.
 
 ```csharp
 public void Scale(float sx, float sy)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | sx | Single | El sx. El sx. El sx. |
-| sy | Single | El si. El si. El si. |
+| sy | Single | El sy. El sy. El sy. |
 
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IImageExporter.Export
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IImageExporter método. Exporta los datos de imagen especificados al formato de datos especificado.
+title: "IImageExporter.Export"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IImageExporter. Exporta los datos de imagen especificados al formato de datos especificado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
 Exporta los datos de imagen especificados al formato de datos especificado.
@@ -14,10 +15,10 @@ Exporta los datos de imagen especificados al formato de datos especificado.
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| image | Image | Los datos de la imagen a exportar. |
-| stream | Stream | La secuencia a la que se exportarán los datos. |
+| imagen | Image | Los datos de imagen a exportar. |
+| flujo | Flujo | El flujo al que exportar los datos. |
 | optionsBase | ImageOptionsBase | Opciones para la exportación de imágenes |
 
 ### Ver también
@@ -25,8 +26,8 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* espacio de nombres [Aspose.PSD](../../iimageexporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,10 +40,10 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
     Rectangle boundsRectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| image | Image | Los datos de la imagen a exportar. |
-| stream | Stream | La secuencia a la que se exportarán los datos. |
+| imagen | Image | Los datos de imagen a exportar. |
+| flujo | Flujo | El flujo al que exportar los datos. |
 | optionsBase | ImageOptionsBase | Opciones para la exportación de imágenes |
 | boundsRectangle | Rectangle | El rectángulo de límites. |
 
@@ -52,7 +53,7 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* espacio de nombres [Aspose.PSD](../../iimageexporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

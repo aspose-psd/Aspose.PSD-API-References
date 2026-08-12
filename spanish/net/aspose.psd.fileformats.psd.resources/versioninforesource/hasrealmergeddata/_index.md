@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.HasRealMergedData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VersionInfoResource propiedad. Obtiene o establece un valor que indica si esta instancia tiene datos fusionados reales.
+title: "VersionInfoResource.HasRealMergedData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VersionInfoResource propiedad. Obtiene o establece un valor que indica si esta instancia tiene datos fusionados reales"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.HasRealMergedData property
 
 Obtiene o establece un valor que indica si esta instancia tiene datos fusionados reales.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta instancia tiene datos fusionados
 public bool HasRealMergedData { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene datos combinados reales; de lo contrario,`FALSO` .
+`true` si esta instancia tiene datos fusionados reales; de lo contrario, `false`.
 
 ### Ver también
 
 * class [VersionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

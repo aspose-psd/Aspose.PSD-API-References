@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraAngle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece el ángulo de la cámara.
+title: "XmpDynamicMediaPackage.SetCameraAngle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece el ángulo de la cámara"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameraangle/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraAngle method
 
 Establece el ángulo de la cámara.
@@ -14,14 +15,14 @@ Establece el ángulo de la cámara.
 public void SetCameraAngle(string cameraAngle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | cameraAngle | String | El ángulo de la cámara. |
 
 ### Ver también
 
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerMaskData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece los datos de la máscara de capa.
+title: "Layer.LayerMaskData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene o establece los datos de máscara de la capa"
 type: docs
-weight: 220
+weight: 230
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-Obtiene o establece los datos de la máscara de capa.
+Obtiene o establece los datos de máscara de capa.
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los datos de máscara de capa.
+Los datos de máscara de la capa.
 
 ### Ver también
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

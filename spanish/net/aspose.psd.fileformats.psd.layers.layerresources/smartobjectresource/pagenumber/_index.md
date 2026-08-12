@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.PageNumber
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectResource propiedad. Obtiene o establece el número de página de los datos de la capa del objeto inteligente en el archivo PSD.
+title: "SmartObjectResource.PageNumber"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "SmartObjectResource propiedad. Obtiene o establece el número de página de los datos de la capa de objeto inteligente en el archivo PSD"
 type: docs
 weight: 150
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PageNumber property
 
-Obtiene o establece el número de página de los datos de la capa del objeto inteligente en el archivo PSD.
+Obtiene o establece el número de página de los datos de la capa de objeto inteligente en el archivo PSD.
 
 ```csharp
 public override int PageNumber { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El número de página de los datos de la capa de objeto inteligente.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los recursos SoLEResource, SmartObjectResource y PlacedResource.
+El siguiente código demuestra el soporte de los recursos SoLEResource, SmartObjectResource y PlacedResource.
 
 ```csharp
 [C#]
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+    // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Esta identificación única debe cambiarse en las referencias, si las hay
+    // Este Unique Id debe cambiarse en las referencias, si las hay
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -152,15 +153,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     }
 
     // Tenga cuidado con algunos parámetros: la imagen guardada puede volverse ilegible para Adobe® Photoshop®
-    ////recurso.UOrder = 6;
-    ////recurso.VOrden = 9;
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // No cambie esto, de lo contrario no podrá usar la transformación libre
-    // o cambie el objeto inteligente subrayado al tipo de vector
-    ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+    // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+    // o cambie el objeto inteligente subyacente al tipo vector
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Debería haber un PlLdResource válido con este ID único
-    ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Debe haber un PlLdResource válido con este Unique Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -326,7 +328,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [SmartObjectResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

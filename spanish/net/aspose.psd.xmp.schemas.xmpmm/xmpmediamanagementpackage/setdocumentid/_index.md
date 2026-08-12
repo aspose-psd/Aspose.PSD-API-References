@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpMediaManagementPackage método. Establece el identificador del documento.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "XmpMediaManagementPackage método. Establece el identificador del documento"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 Establece el identificador del documento.
@@ -14,15 +15,15 @@ Establece el identificador del documento.
 public void SetDocumentId(Guid guid)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | guid | Guid | El identificador único. |
 
 ### Ver también
 
 * class [XmpMediaManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Establece el identificador del documento.
 public void SetDocumentId(string guid)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | guid | String | El identificador único. |
 
 ### Ver también
 
 * class [XmpMediaManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

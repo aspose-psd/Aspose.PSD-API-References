@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsContinuousManagerUsed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurvesLayer propiedad. Obtiene o establece un valor que indica si esta instancia se usa continuamente como administrador.
+title: "CurvesLayer.IsContinuousManagerUsed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "CurvesLayer propiedad. Obtiene o establece un valor que indica si esta instancia usa un gestor continuo"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/iscontinuousmanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsContinuousManagerUsed property
 
-Obtiene o establece un valor que indica si esta instancia se usa continuamente como administrador.
+Obtiene o establece un valor que indica si esta instancia usa el administrador continuo.
 
 ```csharp
 public bool IsContinuousManagerUsed { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia es administrador continuo utilizado; de lo contrario,`FALSO` .
+`true` si esta instancia usa un gestor continuo; de lo contrario, `false`.
 
 ### Ver también
 
 * class [CurvesLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

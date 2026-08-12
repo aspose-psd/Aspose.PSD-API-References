@@ -1,14 +1,15 @@
 ---
-title: Enum TextRenderingHint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.TextRenderingHint enumeración. Especifica la calidad de la representación del texto.
+title: "Enumeración TextRenderingHint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.TextRenderingHint. Especifica la calidad del renderizado de texto"
 type: docs
-weight: 5700
+weight: 6200
 url: /es/net/aspose.psd/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## TextRenderingHint enumeration
 
-Especifica la calidad de la representación del texto.
+Especifica la calidad del renderizado de texto.
 
 ```csharp
 public enum TextRenderingHint
@@ -18,16 +19,16 @@ public enum TextRenderingHint
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| SystemDefault | `0` | Cada carácter se dibuja utilizando su mapa de bits de glifo, con la sugerencia de representación predeterminada del sistema. El texto se dibujará utilizando cualquier configuración de suavizado de fuentes que el usuario haya seleccionado para el sistema. |
-| SingleBitPerPixelGridFit | `1` | Cada carácter se dibuja utilizando su mapa de bits de glifo. Las sugerencias se utilizan para mejorar la apariencia del personaje en los tallos y la curvatura. |
-| SingleBitPerPixel | `2` | Cada carácter se dibuja utilizando su mapa de bits de glifo. No se utilizan sugerencias. |
-| AntiAliasGridFit | `3` | Cada carácter se dibuja utilizando su mapa de bits de glifo suavizado con sugerencias. Mucha mejor calidad debido al antialiasing, pero a un mayor costo de rendimiento. |
-| AntiAlias | `4` | Cada carácter se dibuja utilizando su mapa de bits de glifo suavizado sin sugerencias. Mejor calidad debido al antialiasing. Las diferencias en el ancho de la plica pueden notarse porque las sugerencias están desactivadas. |
-| ClearTypeGridFit | `5` | Cada carácter se dibuja utilizando su mapa de bits ClearType de glifo con sugerencias. El ajuste de la más alta calidad. Se utiliza para aprovechar las características de la fuente ClearType. |
+| SystemDefault | `0` | Cada carácter se dibuja usando su mapa de bits de glifo, con la sugerencia de renderizado predeterminada del sistema. El texto se dibujará usando cualquier configuración de suavizado de fuentes que el usuario haya seleccionado para el sistema. |
+| SingleBitPerPixelGridFit | `1` | Cada carácter se dibuja usando su mapa de bits de glifo. El hinting se usa para mejorar la apariencia de los caracteres en los tallos y curvas. |
+| SingleBitPerPixel | `2` | Cada carácter se dibuja usando su mapa de bits de glifo. No se utiliza hinting. |
+| AntiAliasGridFit | `3` | Cada carácter se dibuja usando su mapa de bits de glifo antialiasado con hinting. Mucha mejor calidad gracias al antialiasing, pero con un mayor costo de rendimiento. |
+| AntiAlias | `4` | Cada carácter se dibuja usando su mapa de bits de glifo antialiasado sin hinting. Mejor calidad gracias al antialiasing. Las diferencias de ancho de los tallos pueden ser notables porque el hinting está desactivado. |
+| ClearTypeGridFit | `5` | Cada carácter se dibuja usando su mapa de bits de glifo ClearType con hinting. La configuración de mayor calidad. Se usa para aprovechar las características de fuentes ClearType. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class InfxResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource clase. Class InfxResource. Este recurso contiene información sobre la combinación de elementos recortados.
+title: "Clase InfxResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource. Clase InfxResource. Este recurso contiene información sobre la mezcla de elementos recortados."
 type: docs
-weight: 2550
+weight: 2860
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource class
 
-Class InfxResource. Este recurso contiene información sobre la combinación de elementos recortados.
+Clase InfxResource. Este recurso contiene información sobre la fusión del elemento recortado.
 
 ```csharp
 public class InfxResource : BooleanResource
@@ -18,26 +19,26 @@ public class InfxResource : BooleanResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [InfxResource](infxresource/#constructor)() | Inicializa una nueva instancia del`InfxResource` clase. |
-| [InfxResource](infxresource/#constructor_1)(bool) | Inicializa una nueva instancia del`InfxResource` clase. |
-| [InfxResource](infxresource/#constructor_2)(byte[]) | Inicializa una nueva instancia del`InfxResource` class. Con valor personalizado o desconocido |
+| [InfxResource](infxresource/#constructor)() | Inicializa una nueva instancia de la clase `InfxResource`. |
+| [InfxResource](infxresource/#constructor_1)(bool) | Inicializa una nueva instancia de la clase `InfxResource`. |
+| [InfxResource](infxresource/#constructor_2)(byte[]) | Inicializa una nueva instancia de la clase `InfxResource`. Con valor personalizado o desconocido |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | Obtiene o establece un valor que indica si [combinar elementos interiores]. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Obtiene la firma. |
+| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | Obtiene o establece un valor que indica si [blend interior elements]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Guarda el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -49,7 +50,7 @@ public class InfxResource : BooleanResource
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

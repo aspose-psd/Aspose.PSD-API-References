@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearRemapTable
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageAttributes método. Borra la tabla de reasignación de color para la categoría predeterminada.
+title: "ImageAttributes.ClearRemapTable"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageAttributes. Borra la tabla de remapeo de color para la categoría predeterminada."
 type: docs
 weight: 90
 url: /es/net/aspose.psd/imageattributes/clearremaptable/
 ---
+{{< psd/tize >}}
 ## ClearRemapTable() {#clearremaptable}
 
-Borra la tabla de reasignación de color para la categoría predeterminada.
+Borra la tabla de remapeo de color para la categoría predeterminada.
 
 ```csharp
 public void ClearRemapTable()
@@ -17,28 +18,28 @@ public void ClearRemapTable()
 ### Ver también
 
 * class [ImageAttributes](../)
-* espacio de nombres [Aspose.PSD](../../imageattributes/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearRemapTable(ColorAdjustType) {#clearremaptable_1}
 
-Borra la tabla de reasignación de colores para una categoría específica.
+Borra la tabla de remapeo de color para una categoría especificada.
 
 ```csharp
 public void ClearRemapTable(ColorAdjustType type)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| type | ColorAdjustType | un elemento de[`ColorAdjustType`](../../coloradjusttype/) que especifica la categoría para la que se borra la tabla de reasignación. |
+| type | ColorAdjustType | Un elemento de [`ColorAdjustType`](../../coloradjusttype/) que especifica la categoría para la cual se borra la tabla de remapeo. |
 
 ### Ver también
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espacio de nombres [Aspose.PSD](../../imageattributes/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

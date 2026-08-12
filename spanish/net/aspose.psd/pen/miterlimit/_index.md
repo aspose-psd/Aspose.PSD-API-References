@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece el límite del grosor de la unión en una esquina a inglete.
+title: "Pen.MiterLimit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de Pen. Obtiene o establece el límite del grosor de la unión en una esquina en inglete."
 type: docs
 weight: 140
 url: /es/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-Obtiene o establece el límite del grosor de la unión en una esquina a inglete.
+Obtiene o establece el límite del grosor de la unión en una esquina en inglete.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El límite del espesor de la junta en una esquina a inglete.
+El límite del grosor de la unión en una esquina en inglete.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | El`MiterLimit` propiedad se establece en un inmutable[`Pen`](../) , como los devueltos por el[`Pen`](../) clase. |
+| ArgumentException | La propiedad `MiterLimit` se establece en un [`Pen`](../) inmutable, como los que devuelve la clase [`Pen`](../). |
 
 ### Ver también
 
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

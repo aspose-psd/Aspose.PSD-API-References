@@ -1,14 +1,15 @@
 ---
-title: Region.MakeEmpty
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Region método. Inicializa estoRegion a un interior vacío.
+title: "Region.MakeEmpty"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Region. Inicializa esta Region a un interior vacío"
 type: docs
-weight: 100
+weight: 110
 url: /es/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-Inicializa esto[`Region`](../) a un interior vacío.
+Inicializa este [`Region`](../) a un interior vacío.
 
 ```csharp
 public void MakeEmpty()
@@ -17,7 +18,7 @@ public void MakeEmpty()
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

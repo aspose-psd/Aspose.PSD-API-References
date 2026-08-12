@@ -1,11 +1,12 @@
 ---
-title: Pen.DashPattern
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece una matriz de guiones y espacios personalizados.
+title: "Pen.DashPattern"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Pen. Obtiene o establece una matriz de guiones y espacios personalizados"
 type: docs
 weight: 100
 url: /es/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
 Obtiene o establece una matriz de guiones y espacios personalizados.
@@ -14,20 +15,20 @@ Obtiene o establece una matriz de guiones y espacios personalizados.
 public float[] DashPattern { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Una matriz de números reales que especifica la longitud de guiones y espacios alternos en líneas discontinuas.
+Una matriz de números reales que especifica las longitudes de guiones y espacios alternados en líneas punteadas.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | El`DashPattern` propiedad se establece en un inmutable[`Pen`](../) , como los devueltos por el[`Pen`](../) clase. |
+| ArgumentException | La propiedad `DashPattern` se establece en un [`Pen`](../) inmutable, como los devueltos por la clase [`Pen`](../). |
 
 ### Ver también
 
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

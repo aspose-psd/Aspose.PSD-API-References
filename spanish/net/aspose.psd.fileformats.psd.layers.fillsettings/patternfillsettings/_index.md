@@ -1,11 +1,12 @@
 ---
-title: Class PatternFillSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings clase. Configuración del efecto de relleno de patrón
+title: "Clase PatternFillSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings. Configuración del efecto de relleno de patrón"
 type: docs
-weight: 2040
+weight: 2170
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
 Configuración del efecto de relleno de patrón
@@ -14,15 +15,22 @@ Configuración del efecto de relleno de patrón
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
+## Constructores
+
+| Nombre | Descripción |
+| --- | --- |
+| [PatternFillSettings](patternfillsettings/)() | El constructor predeterminado. |
+
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [enlace con capa]. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [link with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | Obtiene o establece el ángulo. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | Obtiene o establece el color. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | El tipo de relleno |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Obtiene o establece un valor que indica si este`PatternFillSettings`está vinculado. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Obtiene o establece un valor que indica si este `PatternFillSettings` está vinculado. |
 | [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Obtiene o establece los datos del patrón. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | Obtiene o establece la altura del patrón. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Obtiene o establece el identificador del patrón. |
@@ -38,9 +46,9 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 | --- | --- |
 | static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | Genera los nodos de recursos LFX2. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con la edición de patrón de capa de relleno.
+El siguiente código demuestra el soporte de la edición del patrón de capa de relleno.
 
 ```csharp
 [C#]
@@ -72,7 +80,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Edición 
+            // Editando 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-El siguiente código demuestra la compatibilidad de la capa de efecto de trazo con el tipo de relleno: patrón.
+El siguiente código demuestra el soporte de la capa de efecto de trazo con tipo de relleno - Patrón.
 
 ```csharp
 [C#]
@@ -174,7 +182,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Archivo de prueba después de editar
+// Archivo de prueba después de la edición
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -193,7 +201,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // Comprobar los datos del patrón
+    // Verificar los datos del patrón
     AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[0].PatternId);
@@ -212,7 +220,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

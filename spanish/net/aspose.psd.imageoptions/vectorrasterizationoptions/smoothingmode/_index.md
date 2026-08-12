@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorRasterizationOptions propiedad. Obtiene o establece el modo de suavizado.
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorRasterizationOptions. Obtiene o establece el modo de suavizado"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
 Obtiene o establece el modo de suavizado.
@@ -14,7 +15,7 @@ Obtiene o establece el modo de suavizado.
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El modo de suavizado.
 
@@ -22,7 +23,7 @@ El modo de suavizado.
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

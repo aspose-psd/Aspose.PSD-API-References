@@ -1,11 +1,12 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException clase. La excepción del compresor.
+title: "Clase IndexOutOFRangeException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.CoreExceptions.IndexOutOFRangeException. La excepción del compresor."
 type: docs
 weight: 640
 url: /es/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
 La excepción del compresor.
@@ -18,12 +19,12 @@ public class IndexOutOFRangeException : Exception
 
 | Nombre | Descripción |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Inicializa una nueva instancia del[`CompressorException`](../compressorexception/) clase. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Inicializa una nueva instancia del[`CompressorException`](../compressorexception/) clase. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Inicializa una nueva instancia de la clase [`CompressorException`](../compressorexception/). |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Inicializa una nueva instancia de la clase [`CompressorException`](../compressorexception/). |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

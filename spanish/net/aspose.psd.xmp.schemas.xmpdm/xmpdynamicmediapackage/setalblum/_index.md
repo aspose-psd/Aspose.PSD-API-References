@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAlblum
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece el álbum.
+title: "XmpDynamicMediaPackage.SetAlblum"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece el álbum"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAlblum method
 
 Establece el álbum.
@@ -14,14 +15,14 @@ Establece el álbum.
 public void SetAlblum(string album)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| album | String | El álbum. |
+| álbum | String | El álbum. |
 
 ### Ver también
 
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

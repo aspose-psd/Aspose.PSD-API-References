@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene un valor que indica si esta instancia tiene la propiedad de transformación.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene un valor que indica si esta instancia tiene la propiedad de transformación"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-Obtiene un valor que indica si esta instancia tiene la propiedad de transformación.
+Obtiene un valor que indica si esta instancia tiene la propiedad transform.
 
 ```csharp
 public bool IsTransformPresent { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene la propiedad transform; de lo contrario,`FALSO` .
+`true` si esta instancia tiene la propiedad de transformación; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de cambiar el tamaño de las capas de una forma que contiene rutas vectoriales.
+El siguiente código demuestra la capacidad de redimensionar capas de forma que contienen rutas vectoriales.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 ### Ver también
 
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.DataSize
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CaptionDigestResource propiedad. Obtiene el tamaño de los datos del recurso en bytes.
+title: "CaptionDigestResource.DataSize"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CaptionDigestResource. Obtiene el tamaño de los datos del recurso en bytes"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.resources/captiondigestresource/datasize/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.DataSize property
 
 Obtiene el tamaño de los datos del recurso en bytes.
@@ -14,14 +15,14 @@ Obtiene el tamaño de los datos del recurso en bytes.
 public override int DataSize { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tamaño de los datos del recurso.
 
 ### Ver también
 
 * class [CaptionDigestResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

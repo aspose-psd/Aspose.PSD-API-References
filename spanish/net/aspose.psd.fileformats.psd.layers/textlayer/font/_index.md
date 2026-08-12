@@ -1,11 +1,12 @@
 ---
-title: TextLayer.Font
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextLayer propiedad. Obtiene la fuente.
+title: "TextLayer.Font"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextLayer. Obtiene la fuente"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
 Obtiene la fuente.
@@ -14,7 +15,7 @@ Obtiene la fuente.
 public Font Font { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La fuente.
 
@@ -22,7 +23,7 @@ La fuente.
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

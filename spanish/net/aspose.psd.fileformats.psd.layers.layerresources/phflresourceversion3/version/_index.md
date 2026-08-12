@@ -1,20 +1,21 @@
 ---
-title: PhflResourceVersion3.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhflResourceVersion3 propiedad. Obtiene la versión. El valor predeterminado es 2 o 3
+title: "PhflResourceVersion3.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PhflResourceVersion3. Obtiene la versión. El valor predeterminado es 2 o 3"
 type: docs
-weight: 90
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Version property
 
-Obtiene la versión. El valor predeterminado es 2 o 3
+Obtiene la versión. El valor predeterminado es 2 o 3.
 
 ```csharp
 public override short Version { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión.
 
@@ -27,7 +28,7 @@ La versión.
 ### Ver también
 
 * class [PhflResourceVersion3](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

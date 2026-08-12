@@ -1,11 +1,12 @@
 ---
-title: AsyncTask.Create
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AsyncTask método. Crea la tarea asíncrona sin ningún resultado.
+title: "AsyncTask.Create"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método AsyncTask. Crea la tarea asíncrona sin ningún resultado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
 Crea la tarea asíncrona sin ningún resultado.
@@ -14,46 +15,46 @@ Crea la tarea asíncrona sin ningún resultado.
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | taskAction | AsyncTaskAction | La acción de la tarea. |
 
-### Valor_devuelto
+### Valor devuelto
 
-La tarea asincrónica
+La tarea asíncrona
 
 ### Ver también
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../asynctask/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Create(AsyncTaskFunc) {#create_1}
 
-Crea la tarea asíncrona con resultado de tipo genérico.
+Crea la tarea asíncrona con un resultado de tipo genérico.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| taskFunc | AsyncTaskFunc | La función de tarea. |
+| taskFunc | AsyncTaskFunc | La función de la tarea. |
 
-### Valor_devuelto
+### Valor devuelto
 
-La tarea asincrónica
+La tarea asíncrona
 
 ### Ver también
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../asynctask/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

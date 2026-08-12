@@ -1,11 +1,12 @@
 ---
-title: Interface IColorConverter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IColorConverter interfaz. El convertidor de color.
+title: "Interfaz IColorConverter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IColorConverter. El convertidor de color"
 type: docs
-weight: 4380
+weight: 4850
 url: /es/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
 El convertidor de color.
@@ -18,11 +19,11 @@ public interface IColorConverter
 
 | Nombre | Descripción |
 | --- | --- |
-| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | Convierte los datos pasados al formato de salida. |
+| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | Convierte los datos proporcionados al formato de salida. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class JFIFData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData clase. El segmento jfif.
+title: "Clase JFIFData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData clase. El segmento jfif"
 type: docs
-weight: 1470
+weight: 1480
 url: /es/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
 El segmento jfif.
@@ -18,7 +19,7 @@ public sealed class JFIFData
 
 | Nombre | Descripción |
 | --- | --- |
-| [JFIFData](jfifdata/)() | Inicializa una nueva instancia del`JFIFData` clase. |
+| [JFIFData](jfifdata/)() | Inicializa una nueva instancia de la clase `JFIFData`. |
 
 ## Propiedades
 
@@ -32,7 +33,7 @@ public sealed class JFIFData
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

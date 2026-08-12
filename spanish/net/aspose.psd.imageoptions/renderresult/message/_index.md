@@ -1,14 +1,15 @@
 ---
-title: RenderResult.Message
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RenderResult propiedad. Obtiene o establece la cadena mensaje
+title: "RenderResult.Message"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RenderResult. Obtiene o establece el mensaje de cadena"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.imageoptions/renderresult/message/
 ---
+{{< psd/tize >}}
 ## RenderResult.Message property
 
-Obtiene o establece la cadena mensaje
+Obtiene o establece el mensaje de cadena
 
 ```csharp
 public string Message { get; set; }
@@ -17,7 +18,7 @@ public string Message { get; set; }
 ### Ver también
 
 * class [RenderResult](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../renderresult/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

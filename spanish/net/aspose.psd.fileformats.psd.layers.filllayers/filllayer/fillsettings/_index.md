@@ -1,20 +1,21 @@
 ---
-title: FillLayer.FillSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FillLayer propiedad. Obtiene la configuración de relleno.
+title: "FillLayer.FillSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FillLayer. Obtiene o establece la configuración de relleno"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-Obtiene la configuración de relleno.
+Obtiene o establece la configuración de relleno.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La configuración de relleno.
 
@@ -22,7 +23,7 @@ La configuración de relleno.
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

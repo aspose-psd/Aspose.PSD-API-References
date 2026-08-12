@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerSectionResource método. Guarda el recurso en el contenedor de flujo especificado.
+title: "LayerSectionResource.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerSectionResource. Guarda el recurso en el contenedor de flujo especificado"
 type: docs
-weight: 90
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Save method
 
 Guarda el recurso en el contenedor de flujo especificado.
@@ -14,16 +15,16 @@ Guarda el recurso en el contenedor de flujo especificado.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de flujo para guardar. |
+| streamContainer | StreamContainer | El contenedor de flujo donde guardar. |
 | psdVersion | Int32 | La versión PSD. |
 
 ### Ver también
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LayerSectionResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

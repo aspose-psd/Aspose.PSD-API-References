@@ -1,25 +1,26 @@
 ---
-title: ILayerResourceLoader.Load
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ILayerResourceLoader método. Carga elLayerResource .
+title: "ILayerResourceLoader.Load"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ILayerResourceLoader. Carga el LayerResource"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.Load method
 
-Carga el[`LayerResource`](../../layerresource/) .
+Carga el [`LayerResource`](../../layerresource/).
 
 ```csharp
 public LayerResource Load(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de flujo desde el que cargar. |
+| streamContainer | StreamContainer | El contenedor de flujo del cual cargar. |
 | psdVersion | Int32 | La versión PSD. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El recurso cargado.
 
@@ -28,7 +29,7 @@ El recurso cargado.
 * class [LayerResource](../../layerresource/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

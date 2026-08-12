@@ -1,14 +1,15 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enumeración. Organización del almacenamiento. Valores posibles para la etiqueta PLANARCONFIG.
+title: "Enum TiffPlanarConfigs"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Organización de almacenamiento. Valores posibles para la etiqueta PLANARCONFIG."
 type: docs
-weight: 4130
+weight: 4600
 url: /es/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
-Organización del almacenamiento. Valores posibles para la etiqueta PLANARCONFIG.
+Organización de almacenamiento. Valores posibles para la etiqueta PLANARCONFIG.
 
 ```csharp
 public enum TiffPlanarConfigs : ushort
@@ -18,12 +19,12 @@ public enum TiffPlanarConfigs : ushort
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Contiguous | `1` | Plano de imagen única. |
-| Separate | `2` | Separar planos de datos. |
+| Contiguous | `1` | Plano de imagen único. |
+| Separate | `2` | Planos de datos separados. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

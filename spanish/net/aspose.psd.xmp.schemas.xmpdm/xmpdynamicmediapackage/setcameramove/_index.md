@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraMove
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpDynamicMediaPackage método. Establece el movimiento de la cámara.
+title: "XmpDynamicMediaPackage.SetCameraMove"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpDynamicMediaPackage. Establece el movimiento de cámara"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameramove/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraMove method
 
 Establece el movimiento de la cámara.
@@ -14,14 +15,14 @@ Establece el movimiento de la cámara.
 public void SetCameraMove(string cameraMove)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| cameraMove | String | La cámara se mueve. |
+| cameraMove | String | El movimiento de cámara. |
 
 ### Ver también
 
 * class [XmpDynamicMediaPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

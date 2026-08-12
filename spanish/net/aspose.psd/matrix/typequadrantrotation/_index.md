@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeQuadrantRotation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix campo. Este bit indicador indica que la transformación definida por este objeto realiza una rotación de cuadrante por algún múltiplo de 90 grados en además de las conversiones indicadas por otros bits indicadores. Una rotación cambia los ángulos de los vectores en la misma cantidad independientemente de la dirección original del vector y sin cambiar la longitud del vector. Este bit indicador es mutuamente excluyente con el indicador TypeGeneralRotation.
+title: "Matrix.TypeQuadrantRotation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Matrix. Este bit de bandera indica que la transformación definida por este objeto realiza una rotación de cuadrante por un múltiplo de 90 grados, además de las conversiones indicadas por otros bits de bandera. Una rotación cambia los ángulos de los vectores en la misma cantidad independientemente de la dirección original del vector y sin cambiar la longitud del vector. Este bit de bandera es mutuamente excluyente con la bandera TypeGeneralRotation."
 type: docs
 weight: 270
 url: /es/net/aspose.psd/matrix/typequadrantrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeQuadrantRotation field
 
-Este bit indicador indica que la transformación definida por este objeto realiza una rotación de cuadrante por algún múltiplo de 90 grados en además de las conversiones indicadas por otros bits indicadores. Una rotación cambia los ángulos de los vectores en la misma cantidad independientemente de la dirección original del vector y sin cambiar la longitud del vector. Este bit indicador es mutuamente excluyente con el indicador TypeGeneralRotation.
+Este bit de bandera indica que la transformación definida por este objeto realiza una rotación de cuadrante en un múltiplo de 90 grados, además de las conversiones indicadas por otros bits de bandera. Una rotación cambia los ángulos de los vectores en la misma cantidad sin importar la dirección original del vector y sin cambiar la longitud del vector. Este bit de bandera es mutuamente excluyente con la bandera TypeGeneralRotation.
 
 ```csharp
 public const int TypeQuadrantRotation;
@@ -17,7 +18,7 @@ public const int TypeQuadrantRotation;
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

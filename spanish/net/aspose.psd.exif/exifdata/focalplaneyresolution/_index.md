@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneYResolution
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la resolución del plano focal y.
+title: "Propiedad ExifData. Obtiene o establece la resolución y del plano focal"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "La resolución y del plano focal."
 type: docs
 weight: 330
 url: /es/net/aspose.psd.exif/exifdata/focalplaneyresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneYResolution property
 
-Obtiene o establece la resolución del plano focal y.
+Obtiene o establece la resolución Y del plano focal.
 
 ```csharp
 public TiffRational FocalPlaneYResolution { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El plano focal y resolución.
+ExifData.ISOSpeedLatitudeYYY
 
 ### Ver también
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

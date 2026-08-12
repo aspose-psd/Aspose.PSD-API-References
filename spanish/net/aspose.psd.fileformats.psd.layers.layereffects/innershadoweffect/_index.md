@@ -1,14 +1,15 @@
 ---
-title: Class InnerShadowEffect
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect clase. Efecto de capa de sombra interna
+title: "Clase InnerShadowEffect"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect. Efecto de capa de sombra interna"
 type: docs
-weight: 2160
+weight: 2350
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-Efecto de capa de sombra interna
+Efecto de capa de sombra interna.
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
@@ -23,16 +24,22 @@ public class InnerShadowEffect : IShadowEffect
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Obtiene o establece el color. |
 | [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Obtiene o establece la distancia en píxeles. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Obtiene un tipo de efecto |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está visible. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Obtiene o establece un valor que indica si esta instancia es visible. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Obtiene o establece el ruido. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Obtiene o establece la opacidad. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Obtiene o establece el valor de desenfoque en píxeles. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Obtiene o establece el spread (choke) como porcentaje. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Obtiene o establece un valor que indica si [usar este ángulo en todos los efectos de capa]. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Obtiene o establece la expansión (estrangulamiento) como porcentaje. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Obtiene o establece un valor que indica si [use this angle in all of the layer effects]. |
 
-### Ejemplos
+## Métodos
 
-El siguiente código demuestra cómo cambiar la configuración del efecto de capa de sombra interior.
+| Nombre | Descripción |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Calcula y obtiene los límites de los píxeles del efecto basándose en los límites de los píxeles de la capa de entrada. |
+
+## Ejemplos
+
+El siguiente código muestra cómo cambiar la configuración del efecto de capa de sombra interna.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ El siguiente código demuestra cómo cambiar la configuración del efecto de cap
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -64,7 +71,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 ### Ver también
 
 * interface [IShadowEffect](../ishadoweffect/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

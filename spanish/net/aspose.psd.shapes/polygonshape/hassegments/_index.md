@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.HasSegments
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PolygonShape propiedad. Obtiene un valor que indica si la forma tiene segmentos.
+title: "PolygonShape.HasSegments"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PolygonShape. Obtiene un valor que indica si la forma tiene segmentos"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.shapes/polygonshape/hassegments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.HasSegments property
 
 Obtiene un valor que indica si la forma tiene segmentos.
@@ -14,14 +15,14 @@ Obtiene un valor que indica si la forma tiene segmentos.
 public override bool HasSegments { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`Verdadero` si la forma tiene segmentos; de lo contrario,`FALSO`.
+`True` si la forma tiene segmentos; de lo contrario, `false`.
 
 ### Ver también
 
 * class [PolygonShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../polygonshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

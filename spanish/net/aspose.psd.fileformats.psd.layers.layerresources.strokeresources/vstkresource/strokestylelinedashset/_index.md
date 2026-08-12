@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleLineDashSet
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VstkResource propiedad. Obtiene o establece una matriz de guiones de línea.
+title: "VstkResource.StrokeStyleLineDashSet"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VstkResource. Obtiene o establece una matriz de guiones de línea"
 type: docs
-weight: 140
+weight: 120
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashSet property
 
-Obtiene o establece una matriz de guiones de línea.
+Obtiene o establece la matriz de guiones de línea.
 
 ```csharp
 public double[] StrokeStyleLineDashSet { get; set; }
@@ -17,7 +18,7 @@ public double[] StrokeStyleLineDashSet { get; set; }
 ### Ver también
 
 * class [VstkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

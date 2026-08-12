@@ -1,11 +1,12 @@
 ---
-title: Font.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font propiedad. Obtiene o establece la versión de la fuente.
+title: "Font.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Font. Obtiene o establece la versión de la fuente"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
 Obtiene o establece la versión de la fuente.
@@ -14,18 +15,18 @@ Obtiene o establece la versión de la fuente.
 public string Version { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La versión de fuente.
+La versión de la fuente.
 
-### Ejemplos
+## Ejemplos
 
-/versión para fuentes Type1 nameId 5 para Apple True Type y OpenType /CIDFontVersion para fuentes CID La cadena vacía para fuentes de mapa de bits
+/versión para fuentes Type1, nameId 5 para Apple True Type y OpenType /CIDFontVersion para fuentes CID La cadena vacía para fuentes bitmap
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

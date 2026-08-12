@@ -1,11 +1,12 @@
 ---
-title: ExifData.StandardOutputSensitivity
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la sensibilidad de salida estándar
+title: "ExifData.StandardOutputSensitivity"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la sensibilidad de salida estándar"
 type: docs
 weight: 980
 url: /es/net/aspose.psd.exif/exifdata/standardoutputsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.StandardOutputSensitivity property
 
 Obtiene o establece la sensibilidad de salida estándar
@@ -14,14 +15,14 @@ Obtiene o establece la sensibilidad de salida estándar
 public uint StandardOutputSensitivity { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La sensibilidad de salida estándar.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

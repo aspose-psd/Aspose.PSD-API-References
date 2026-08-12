@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.Length
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Txt2Resource propiedad. Obtiene la longitud del recurso de la capa en bytes.
+title: "Txt2Resource.Length"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Txt2Resource. Obtiene la longitud del recurso de capa en bytes"
 type: docs
-weight: 40
+weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Length property
 
-Obtiene la longitud del recurso de la capa en bytes.
+Obtiene la longitud del recurso de capa en bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Ver también
 
 * class [Txt2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

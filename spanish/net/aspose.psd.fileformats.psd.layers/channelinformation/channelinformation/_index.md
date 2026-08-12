@@ -1,20 +1,21 @@
 ---
-title: ChannelInformation.ChannelInformation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ChannelInformation constructor. Inicializa una nueva instancia delChannelInformation clase.
+title: "ChannelInformation.ChannelInformation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ChannelInformation. Inicializa una nueva instancia de la clase ChannelInformation"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation constructor
 
-Inicializa una nueva instancia del[`ChannelInformation`](../) clase.
+Inicializa una nueva instancia de la clase [`ChannelInformation`](../).
 
 ```csharp
 public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | compressionMethod | CompressionMethod | El método de compresión. |
 | bitDepth | Int32 | La profundidad de bits. |
@@ -24,7 +25,7 @@ public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

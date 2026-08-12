@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpMm
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Namespaces campo. Espacio de nombres de administración de activos digitales XMP.
+title: "Namespaces.XmpMm"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Namespaces. Espacio de nombres de gestión de activos digitales XMP"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.xmp/namespaces/xmpmm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpMm field
 
-Espacio de nombres de administración de activos digitales XMP.
+Espacio de nombres de gestión de activos digitales de XMP.
 
 ```csharp
 public const string XmpMm;
@@ -17,7 +18,7 @@ public const string XmpMm;
 ### Ver también
 
 * class [Namespaces](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../namespaces/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

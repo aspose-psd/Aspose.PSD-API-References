@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Dither
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GdFlResource propiedad. Obtiene o establece un valor que indica si esteGdFlResource es tramado.
+title: "GdFlResource.Dither"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GdFlResource. Obtiene o establece un valor que indica si este GdFlResource es dither"
 type: docs
-weight: 60
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-Obtiene o establece un valor que indica si este[`GdFlResource`](../) es tramado.
+Obtiene o establece un valor que indica si este [`GdFlResource`](../) es dither.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si vacila; de lo contrario,`FALSO` .
+`true` si tiene dithering; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con la carga de recursos GdFlResource.
+El siguiente ejemplo demuestra el soporte de la carga de recursos GdFlResource.
 
 ```csharp
 [C#]
@@ -117,7 +118,7 @@ using (im)
 ### Ver también
 
 * class [GdFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.Flash
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el flash.
+title: "ExifData.Flash"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ExifData property. Obtiene o establece el flash"
 type: docs
 weight: 250
 url: /es/net/aspose.psd.exif/exifdata/flash/
 ---
+{{< psd/tize >}}
 ## ExifData.Flash property
 
 Obtiene o establece el flash.
@@ -14,7 +15,7 @@ Obtiene o establece el flash.
 public ExifFlash Flash { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El flash.
 
@@ -22,7 +23,7 @@ El flash.
 
 * enum [ExifFlash](../../../aspose.psd.exif.enums/exifflash/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: IPlacedLayerResource.PlacedLayerType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPlacedLayerResource propiedad. Obtiene o establece el tipo de capa colocada en el archivo PSD.
+title: "IPlacedLayerResource.PlacedLayerType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPlacedLayerResource. Obtiene o establece el tipo de la capa colocada en el archivo PSD"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PlacedLayerType property
 
-Obtiene o establece el tipo de capa colocada en el archivo PSD.
+Obtiene o establece el tipo de la capa colocada en el archivo PSD.
 
 ```csharp
 public PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de la capa colocada.
 
@@ -22,7 +23,7 @@ El tipo de la capa colocada.
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * interface [IPlacedLayerResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

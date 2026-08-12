@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ColorMatrixFlag enumeración. Especifica los tipos de imágenes y colores que se verán afectados por la configuración de ajuste de color y escala de grises de unImageAttributes .
+title: "Enumeración ColorMatrixFlag"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.ColorMatrixFlag. Especifica los tipos de imágenes y colores que se verán afectados por la configuración de ajuste de color y escala de grises de un ImageAttributes."
 type: docs
 weight: 360
 url: /es/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-Especifica los tipos de imágenes y colores que se verán afectados por la configuración de ajuste de color y escala de grises de un[`ImageAttributes`](../imageattributes/) .
+Especifica los tipos de imágenes y colores que se verán afectados por la configuración de ajuste de color y escala de grises de un [`ImageAttributes`](../imageattributes/).
 
 ```csharp
 public enum ColorMatrixFlag
@@ -18,13 +19,13 @@ public enum ColorMatrixFlag
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Default | `0` | Todos los valores de color, incluidos los tonos de gris, se ajustan mediante la misma matriz de ajuste de color. |
-| SkipGrays | `1` | Se ajustan todos los colores, pero no se ajustan los tonos grises. Un tono gris es cualquier color que tiene el mismo valor para sus componentes rojo, verde y azul. |
-| AltGrays | `2` | Solo se ajustan los tonos grises. |
+| Default | `0` | Todos los valores de color, incluidas las tonalidades de gris, se ajustan mediante la misma matriz de ajuste de color. |
+| SkipGrays | `1` | Todos los colores se ajustan, pero las tonalidades de gris no se ajustan. Una tonalidad de gris es cualquier color que tiene el mismo valor en sus componentes rojo, verde y azul. |
+| AltGrays | `2` | Solo se ajustan las tonalidades de gris. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

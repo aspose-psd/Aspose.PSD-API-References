@@ -1,49 +1,50 @@
 ---
-title: TransformBrush.RotateTransform
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TransformBrush método. Gira la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a transform.
+title: "TransformBrush.RotateTransform"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TransformBrush. Rota la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a la transformación."
 type: docs
 weight: 60
 url: /es/net/aspose.psd.brushes/transformbrush/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Gira la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a transform.
+Rota la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a la transformación.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| angle | Single | El ángulo de rotación. |
+| ángulo | Single | El ángulo de rotación. |
 
 ### Ver también
 
 * class [TransformBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../transformbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Gira la transformación geométrica local en la cantidad especificada en el orden especificado.
+Rota la transformación geométrica local en la cantidad especificada en el orden indicado.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| angle | Single | El ángulo de rotación. |
-| order | MatrixOrder | A[`MatrixOrder`](../../../aspose.psd/matrixorder/) que especifica si agregar o anteponer la matriz de rotación. |
+| ángulo | Single | El ángulo de rotación. |
+| order | MatrixOrder | Una [`MatrixOrder`](../../../aspose.psd/matrixorder/) que especifica si se debe añadir o anteponer la matriz de rotación. |
 
 ### Ver también
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../transformbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.HasAlpha
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene un valor que indica si esta instancia tiene alfa.
+title: "Layer.HasAlpha"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene un valor que indica si esta instancia tiene alfa"
 type: docs
-weight: 150
+weight: 160
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
 Obtiene un valor que indica si esta instancia tiene alfa.
@@ -14,14 +15,14 @@ Obtiene un valor que indica si esta instancia tiene alfa.
 public override bool HasAlpha { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene alfa; de lo contrario,`FALSO` .
+`true` si esta instancia tiene alfa; de lo contrario, `false`.
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

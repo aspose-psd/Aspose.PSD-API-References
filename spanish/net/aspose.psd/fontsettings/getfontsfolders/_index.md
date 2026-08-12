@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetFontsFolders
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings método. Obtiene una copia de la matriz que contiene la lista de carpetas donde Aspose.Words busca fuentes TrueType.
+title: "FontSettings.GetFontsFolders"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "FontSettings method. Obtiene una copia del arreglo que contiene la lista de carpetas donde Aspose.Words busca fuentes TrueType"
 type: docs
-weight: 60
+weight: 70
 url: /es/net/aspose.psd/fontsettings/getfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontsFolders method
 
 Obtiene una copia de la matriz que contiene la lista de carpetas donde Aspose.Words busca fuentes TrueType.
@@ -14,18 +15,18 @@ Obtiene una copia de la matriz que contiene la lista de carpetas donde Aspose.Wo
 public static string[] GetFontsFolders()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Una copia de las ubicaciones de fuentes actuales.
+Una copia de las ubicaciones actuales de fuentes.
 
-### Observaciones
+## Observaciones
 
-El valor devuelto es una copia de los datos que utiliza Aspose.Words. Si cambia las entradas en la matriz devuelta, no tendrá ningún efecto en la representación del documento. Para especificar nuevas ubicaciones de fuente, use el[`SetFontsFolders`](../setfontsfolders/) método.
+El valor devuelto es una copia de los datos que Aspose.Words utiliza. Si cambia las entradas en el arreglo devuelto, no tendrá ningún efecto en la renderización del documento. Para especificar nuevas ubicaciones de fuentes use el método [`SetFontsFolders`](../setfontsfolders/).
 
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CustResource.TypeToolKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CustResource campo. La clave de información de la herramienta de tipo.
+title: "CustResource.TypeToolKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo CustResource. La clave de información de la herramienta de tipo"
 type: docs
-weight: 80
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CustResource.TypeToolKey field
 
 La clave de información de la herramienta de tipo.
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Ver también
 
 * class [CustResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

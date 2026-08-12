@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. La fuente mayúsculas.
+title: "ITextStyle.FontCaps"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ITextStyle propiedad. Las mayúsculas de la fuente"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-La fuente mayúsculas.
+Las mayúsculas de la fuente.
 
 ```csharp
 public FontCaps FontCaps { get; set; }
@@ -18,7 +19,7 @@ public FontCaps FontCaps { get; set; }
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

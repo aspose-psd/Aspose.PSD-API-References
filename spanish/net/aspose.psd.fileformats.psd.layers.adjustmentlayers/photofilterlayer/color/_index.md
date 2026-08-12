@@ -1,11 +1,12 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhotoFilterLayer propiedad. Obtiene o establece el color RGB del filtro.
+title: "PhotoFilterLayer.Color"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PhotoFilterLayer. Obtiene o establece el color RGB del filtro"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
 Obtiene o establece el color RGB del filtro.
@@ -14,7 +15,7 @@ Obtiene o establece el color RGB del filtro.
 public Color Color { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El color.
 
@@ -22,7 +23,7 @@ El color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

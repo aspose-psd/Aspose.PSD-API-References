@@ -1,11 +1,12 @@
 ---
-title: Class Font
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Complex.Font.Font clase. Representa la fuente XMP.
+title: "Clase Font"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Font.Font class. Representa la fuente XMP"
 type: docs
-weight: 6070
+weight: 6570
 url: /es/net/aspose.psd.xmp.types.complex.font/font/
 ---
+{{< psd/tize >}}
 ## Font class
 
 Representa la fuente XMP.
@@ -18,21 +19,21 @@ public sealed class Font : ComplexTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [Font](font/#constructor)() | Inicializa una nueva instancia del`Font` clase. |
-| [Font](font/#constructor_1)(string) | Inicializa una nueva instancia del`Font` clase. |
+| [Font](font/#constructor)() | Inicializa una nueva instancia de la clase `Font`. |
+| [Font](font/#constructor_1)(string) | Inicializa una nueva instancia de la clase `Font`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
 | [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | Obtiene o establece la matriz de nombres de archivo para las fuentes que componen una fuente compuesta. |
-| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | Obtiene o establece el tipo de letra. |
+| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | Obtiene o establece el estilo de fuente. |
 | [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily/) { get; set; } | Obtiene o establece la familia de fuentes. |
-| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | Obtiene o establece el nombre del archivo de fuente sin la ruta completa. |
-| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | Obtiene o establece el nombre de la fuente PostScript. |
+| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | Obtiene o establece el nombre del archivo de fuente sin ruta completa. |
+| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | Obtiene o establece el nombre de fuente PostScript. |
 | [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype/) { get; set; } | Obtiene o establece el tipo de fuente. |
 | [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | Obtiene o establece un valor que indica si esta fuente es compuesta. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtiene el URI de espacio de nombres predeterminado. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtiene el URI del espacio de nombres predeterminado. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Obtiene el prefijo. |
 | [Version](../../aspose.psd.xmp.types.complex.font/font/version/) { get; set; } | Obtiene o establece la versión de la fuente. |
 
@@ -40,12 +41,12 @@ public sealed class Font : ComplexTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../)
 
 

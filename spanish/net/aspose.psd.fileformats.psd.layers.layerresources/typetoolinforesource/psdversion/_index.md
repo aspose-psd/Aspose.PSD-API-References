@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfoResource.PsdVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfoResource propiedad. Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones.
+title: "TypeToolInfoResource.PsdVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "TypeToolInfoResource propiedad. Obtiene la versión mínima de psd requerida para el recurso de capa. 0 indica que no hay restricciones"
 type: docs
 weight: 150
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.PsdVersion property
 
-Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones.
+Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Ver también
 
 * class [TypeToolInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

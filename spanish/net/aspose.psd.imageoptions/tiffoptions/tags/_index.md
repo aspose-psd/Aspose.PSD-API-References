@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Tags
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece las etiquetas.
+title: "TiffOptions.Tags"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece las etiquetas"
 type: docs
-weight: 490
+weight: 500
 url: /es/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
 Obtiene o establece las etiquetas.
@@ -14,7 +15,7 @@ Obtiene o establece las etiquetas.
 public TiffDataType[] Tags { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las etiquetas.
 
@@ -22,7 +23,7 @@ Las etiquetas.
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

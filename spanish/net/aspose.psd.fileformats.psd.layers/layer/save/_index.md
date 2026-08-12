@@ -1,11 +1,12 @@
 ---
-title: Layer.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer método. Guarda los datos del objeto en el flujo especificado.
+title: "Layer.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Layer. Guarda los datos del objeto en el flujo especificado"
 type: docs
-weight: 370
+weight: 390
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream) {#save_1}
 
 Guarda los datos del objeto en el flujo especificado.
@@ -14,21 +15,21 @@ Guarda los datos del objeto en el flujo especificado.
 public override void Save(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La secuencia en la que guardar los datos del objeto. |
+| flujo | Flujo | El flujo donde guardar los datos del objeto. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | No deberíamos llamar al método Guardar sin opciones de Imagen |
+| ArgumentException | No deberíamos llamar al método Save sin opciones de Imagen |
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,17 +41,17 @@ Guarda los datos del objeto en la ubicación de archivo especificada en el forma
 public override void Save(string filePath, ImageOptionsBase options)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo. |
-| options | ImageOptionsBase | Las opciones. |
+| opciones | ImageOptionsBase | Las opciones. |
 
 ### Ver también
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -62,16 +63,16 @@ Guarda los datos del objeto en la ubicación de archivo especificada.
 public override void Save(string filePath, bool overWrite)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| filePath | String | La ruta del archivo para guardar los datos del objeto. |
-| overWrite | Boolean | si se establece en`verdadero` sobrescriba el contenido del archivo, de lo contrario, se agregará. |
+| filePath | String | La ruta del archivo donde guardar los datos del objeto. |
+| overWrite | Boolean | si se establece en `true` sobrescribe el contenido del archivo, de lo contrario se producirá una adición. |
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -83,19 +84,19 @@ Guarda los datos de la imagen en el flujo especificado en el formato de archivo 
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La secuencia en la que se guardarán los datos de la imagen. |
+| flujo | Flujo | El flujo al que guardar los datos de la imagen. |
 | optionsBase | ImageOptionsBase | Las opciones de guardado. |
-| boundsRectangle | Rectangle | El rectángulo de los límites de la imagen de destino. Establezca el rectángulo vacío para usar los límites de la fuente. |
+| boundsRectangle | Rectangle | El rectángulo de límites de la imagen de destino. Establezca el rectángulo vacío para usar los límites de origen. |
 
 ### Ver también
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -107,18 +108,18 @@ Guarda los datos del objeto en la ubicación de archivo especificada en el forma
 public override void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo. |
-| options | ImageOptionsBase | Las opciones. |
-| boundsRectangle | Rectangle | El rectángulo de los límites de la imagen de destino. Establezca el rectángulo vacío para usar los límites de la fuente. |
+| opciones | ImageOptionsBase | Las opciones. |
+| boundsRectangle | Rectangle | El rectángulo de límites de la imagen de destino. Establezca el rectángulo vacío para usar los límites de origen. |
 
 ### Ver también
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

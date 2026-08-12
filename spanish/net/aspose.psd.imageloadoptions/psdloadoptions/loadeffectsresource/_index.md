@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.LoadEffectsResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdLoadOptions propiedad. Obtiene o establece un valor que indica si la carga afecta el recurso por defecto el recurso no está cargado. Cuando se establece esta opción solo los efectos admitidos se renderizarán en la imagen fusionada final.
+title: "PsdLoadOptions.LoadEffectsResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PsdLoadOptions. Obtiene o establece un valor que indica si el recurso de efectos de carga está cargado por defecto; si no, no se carga. Cuando se establece, esta opción solo renderizará los efectos compatibles en la imagen final combinada."
 type: docs
-weight: 50
+weight: 60
 url: /es/net/aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.LoadEffectsResource property
 
-Obtiene o establece un valor que indica si [la carga afecta el recurso] (por defecto, el recurso no está cargado). Cuando se establece esta opción, solo los efectos admitidos se renderizarán en la imagen fusionada final.
+Obtiene o establece un valor que indica si se debe [load effects resource] (por defecto el recurso no se carga). Cuando se establece, solo los efectos compatibles se renderizarán en la imagen final combinada.
 
 ```csharp
 public bool LoadEffectsResource { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` if [recurso de efectos de carga]; de lo contrario,`FALSO` .
+`true` si [load effects resource]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [PsdLoadOptions](../)
-* espacio de nombres [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

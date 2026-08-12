@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa.
+title: "PsdImage.AddLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa"
 type: docs
-weight: 370
+weight: 390
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
-Agrega la capa.
+Añade la capa.
 
 ```csharp
 public void AddLayer(Layer layer)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| layer | Layer | La capa. |
+| capa | Capa | La capa. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede dibujar en una capa recién creada si se usa la versión de constructor simple en Aspose.PSD
+El siguiente ejemplo muestra cómo puedes dibujar en una capa recién creada si se usa la versión simple del constructor en Aspose.PSD
 
 ```csharp
 [C#]
@@ -39,10 +40,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // dibujar un rectángulo con la herramienta Pluma
+    // dibujar un rectángulo con la herramienta Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // dibuja otro rectángulo con Pincel Sólido en color Azul
+    // dibujar otro rectángulo con Solid Brush en color azul
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -53,7 +54,7 @@ using (var image = new PsdImage(width, height))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

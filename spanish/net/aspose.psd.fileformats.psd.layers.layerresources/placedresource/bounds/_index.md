@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.Bounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PlacedResource propiedad. Obtiene o establece los límites de la capa colocada en el archivo PSD.
+title: "PlacedResource.Bounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PlacedResource. Obtiene o establece los límites de la capa colocada en el archivo PSD"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bounds property
 
 Obtiene o establece los límites de la capa colocada en el archivo PSD.
@@ -14,7 +15,7 @@ Obtiene o establece los límites de la capa colocada en el archivo PSD.
 public Rectangle Bounds { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los límites de la capa colocada.
 
@@ -22,7 +23,7 @@ Los límites de la capa colocada.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

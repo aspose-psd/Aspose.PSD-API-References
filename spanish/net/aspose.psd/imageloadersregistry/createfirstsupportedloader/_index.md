@@ -1,29 +1,30 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageLoadersRegistry método. Crea el primer cargador encontrado adecuado para el especificadostream y opcionalmente elloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageLoadersRegistry. Crea el primer cargador encontrado adecuado para el *stream* especificado y, opcionalmente, los *loadOptions*."
 type: docs
 weight: 30
 url: /es/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-Crea el primer cargador encontrado adecuado para el especificado*stream* y opcionalmente el*loadOptions* .
+Crea el primer cargador encontrado que sea adecuado para el *stream* especificado y, opcionalmente, para los *loadOptions*.
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La corriente. |
+| flujo | Flujo | El flujo. |
 | loadOptions | LoadOptions | Las opciones de carga. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El cargador que soporta el especificado*stream* y*loadOptions* o nulo si no se encuentra dicho cargador.
+El cargador que soporta el *stream* y los *loadOptions* especificados o null si no se encuentra ningún cargador de ese tipo.
 
-### Observaciones
+## Observaciones
 
 El primer cargador será en realidad el último registrado.
 
@@ -32,7 +33,7 @@ El primer cargador será en realidad el último registrado.
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imageloadersregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

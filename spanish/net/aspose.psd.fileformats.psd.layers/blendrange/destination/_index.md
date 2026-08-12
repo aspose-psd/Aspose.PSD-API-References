@@ -1,11 +1,12 @@
 ---
-title: BlendRange.Destination
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlendRange propiedad. Obtiene o establece el rango de mezcla de destino.
+title: "BlendRange.Destination"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BlendRange. Obtiene o establece el rango de mezcla de destino"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
 Obtiene o establece el rango de mezcla de destino.
@@ -14,14 +15,14 @@ Obtiene o establece el rango de mezcla de destino.
 public int Destination { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El rango de mezcla de destino.
 
 ### Ver también
 
 * class [BlendRange](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

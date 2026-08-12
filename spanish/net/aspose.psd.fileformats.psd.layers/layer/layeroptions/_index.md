@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene las opciones de capa.
+title: "Layer.LayerOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene las opciones de capa"
 type: docs
-weight: 230
+weight: 240
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
 Obtiene las opciones de capa.
@@ -14,7 +15,7 @@ Obtiene las opciones de capa.
 public PsdOptions LayerOptions { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las opciones de capa.
 
@@ -22,7 +23,7 @@ Las opciones de capa.
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

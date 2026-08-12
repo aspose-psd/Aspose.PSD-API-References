@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorRasterizationOptions propiedad. Obtiene o establece la sugerencia de representación de texto.
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorRasterizationOptions. Obtiene o establece la sugerencia de renderizado de texto"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
-Obtiene o establece la sugerencia de representación de texto.
+Obtiene o establece la sugerencia de renderizado de texto.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La sugerencia de representación de texto.
+La sugerencia de renderizado de texto.
 
 ### Ver también
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

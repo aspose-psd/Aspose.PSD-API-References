@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font propiedad. Obtiene o establece el tipo de fuente.
+title: "Font.FontType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Font. Obtiene o establece el tipo de fuente"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 Obtiene o establece el tipo de fuente.
@@ -14,18 +15,18 @@ Obtiene o establece el tipo de fuente.
 public string FontType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de fuente.
 
-### Ejemplos
+## Ejemplos
 
-TrueType, Tipo 1, Tipo abierto, etc.
+TrueType, Type 1, Open Type, etc.
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

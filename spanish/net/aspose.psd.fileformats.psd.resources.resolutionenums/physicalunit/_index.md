@@ -1,14 +1,15 @@
 ---
-title: Enum PhysicalUnit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enumeración. La unidad física de resoulutionInfo enum
+title: "Enum PhysicalUnit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. El enum de unidad física de resoulutionInfo"
 type: docs
-weight: 3860
+weight: 4330
 url: /es/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-La unidad física de resoulutionInfo enum
+El enum de unidad física de resoulutionInfo
 
 ```csharp
 public enum PhysicalUnit
@@ -26,7 +27,7 @@ public enum PhysicalUnit
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

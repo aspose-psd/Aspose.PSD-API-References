@@ -1,14 +1,15 @@
 ---
-title: Frame.Delay
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Frame propiedad. Obtiene o establece el valor de retardo de cuadro en centasegundos. Por ejemplo en 1 segundo contiene 100 centasegundos.
+title: "Frame.Delay"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Frame. Obtiene o establece el valor de retardo del fotograma en centisegundos. Por ejemplo, 1 segundo contiene 100 centisegundos"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.animation/frame/delay/
 ---
+{{< psd/tize >}}
 ## Frame.Delay property
 
-Obtiene o establece el valor de retardo de cuadro en centa-segundos. Por ejemplo, en 1 segundo contiene 100 centa-segundos.
+Obtiene o establece el valor de retraso del fotograma en centisegundos. Por ejemplo, 1 segundo contiene 100 centisegundos.
 
 ```csharp
 public int Delay { get; set; }
@@ -17,7 +18,7 @@ public int Delay { get; set; }
 ### Ver también
 
 * class [Frame](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

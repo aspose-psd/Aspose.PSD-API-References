@@ -1,11 +1,12 @@
 ---
-title: PhflResource.GetRgbColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhflResource método. Obtiene el color del RGB.
+title: "PhflResource.GetRgbColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PhflResource. Obtiene el color del RGB"
 type: docs
-weight: 60
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.GetRgbColor method
 
 Obtiene el color del RGB.
@@ -14,7 +15,7 @@ Obtiene el color del RGB.
 public abstract Color GetRgbColor()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 El color RGB
 
@@ -22,7 +23,7 @@ El color RGB
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

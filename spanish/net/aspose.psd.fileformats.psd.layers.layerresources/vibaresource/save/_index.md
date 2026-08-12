@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VibAResource método. Guarda el recurso en el contenedor de flujo especificado.
+title: "VibAResource.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de VibAResource. Guarda el recurso en el contenedor de flujo especificado"
 type: docs
-weight: 70
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
 Guarda el recurso en el contenedor de flujo especificado.
@@ -14,19 +15,19 @@ Guarda el recurso en el contenedor de flujo especificado.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de secuencias en el que guardar. |
+| streamContainer | StreamContainer | El contenedor de flujo donde guardar. |
 | psdVersion | Int32 | La versión PSD. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código demuestra la compatibilidad con el recurso VibAResource.
+El siguiente ejemplo de código muestra el soporte del recurso VibAResource.
 
 ```csharp
 [C#]
 
-// Ejemplo del soporte de lectura y escritura de Vibration Resource en tiempo de ejecución.
+// Ejemplo del soporte de lectura y escritura del Recurso de Vibración en tiempo de ejecución.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -59,7 +60,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

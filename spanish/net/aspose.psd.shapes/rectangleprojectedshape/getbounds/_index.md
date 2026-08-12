@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.GetBounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RectangleProjectedShape método. Obtiene los límites del objeto.
+title: "RectangleProjectedShape.GetBounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RectangleProjectedShape. Obtiene los límites del objeto"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.shapes/rectangleprojectedshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Obtiene los límites del objeto.
@@ -14,21 +15,21 @@ Obtiene los límites del objeto.
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| matrix | Matrix | Se calculará la matriz a aplicar antes de los límites. |
+| matriz | Matrix | La matriz a aplicar antes de que se calculen los límites. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Los límites del objeto estimado.
+Los límites estimados del objeto.
 
 ### Ver también
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,14 +41,14 @@ Obtiene los límites del objeto.
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| matrix | Matrix | Se calculará la matriz a aplicar antes de los límites. |
-| pen | Pen | La pluma a utilizar para el objeto. Esto puede influir en el tamaño de los límites del objeto. |
+| matriz | Matrix | La matriz a aplicar antes de que se calculen los límites. |
+| pluma | Pluma | La pluma a usar para el objeto. Esto puede influir en el tamaño de los límites del objeto. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Los límites del objeto estimado.
+Los límites estimados del objeto.
 
 ### Ver también
 
@@ -55,7 +56,7 @@ Los límites del objeto estimado.
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [RectangleProjectedShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

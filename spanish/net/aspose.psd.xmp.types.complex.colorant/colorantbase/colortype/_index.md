@@ -1,11 +1,12 @@
 ---
-title: ColorantBase.ColorType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorantBase propiedad. Obtiene o establece el tipo de color.
+title: "ColorantBase.ColorType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorantBase. Obtiene o establece el tipo de color"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 ---
+{{< psd/tize >}}
 ## ColorantBase.ColorType property
 
 Obtiene o establece el tipo de color.
@@ -14,7 +15,7 @@ Obtiene o establece el tipo de color.
 public ColorType ColorType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de color.
 
@@ -22,7 +23,7 @@ El tipo de color.
 
 * enum [ColorType](../../colortype/)
 * class [ColorantBase](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

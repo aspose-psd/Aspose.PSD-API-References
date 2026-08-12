@@ -1,11 +1,12 @@
 ---
-title: Enum Image.ImageOperation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageImageOperation enumeración. Operaciones de imagen
+title: "Enumeración Image.ImageOperation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.ImageImageOperation. Operaciones de imagen"
 type: docs
-weight: 4600
+weight: 5070
 url: /es/net/aspose.psd/image.imageoperation/
 ---
+{{< psd/tize >}}
 ## Image.ImageOperation enumeration
 
 Operaciones de imagen
@@ -18,27 +19,27 @@ protected enum ImageOperation
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Resize | `0` | Operación de cambio de tamaño |
-| ResizeWidthProportionally | `1` | Operación de cambio de tamaño de ancho proporcionalmente |
-| ResizeHeightProportionally | `2` | Redimensionar altura proporcionalmente operación |
-| Filter | `3` | Operación filtro |
-| LoadPixels | `4` | Operación de carga de píxeles |
+| Resize | `0` | Operación de redimensionamiento |
+| ResizeWidthProportionally | `1` | Operación de redimensionamiento de ancho proporcional |
+| ResizeHeightProportionally | `2` | Operación de redimensionamiento de altura proporcional |
+| Filter | `3` | Operación de filtro |
+| LoadPixels | `4` | Operación de cargar píxeles |
 | SavePixels | `5` | La operación de guardar píxeles |
-| Crop | `6` | Operación de cultivo |
-| BinarizeFixed | `7` | Binarizar operación fija |
-| BinarizeOtsu | `8` | Binarizar otra operación |
-| BinarizeBradley | `9` | Binarizar operación bradley |
-| Grayscale | `10` | Operación en escala de grises |
+| Crop | `6` | Operación de recorte |
+| BinarizeFixed | `7` | Operación de binarización fija |
+| BinarizeOtsu | `8` | Operación de binarización otsu |
+| BinarizeBradley | `9` | Operación de binarización bradley |
+| Grayscale | `10` | Operación de escala de grises |
 | AdjustBrightness | `11` | Operación de ajuste de brillo |
-| AdjustContrast | `12` | Operación ajuste contraste |
-| AdjustGamma | `13` | Ajustar operación gamma |
+| AdjustContrast | `12` | Operación de ajuste de contraste |
+| AdjustGamma | `13` | Operación de ajuste de gamma |
 | Rotate | `14` | Operación de rotación |
-| RotateFlip | `15` | Rotar operación flip |
+| RotateFlip | `15` | Operación de rotación y volteo |
 
 ### Ver también
 
 * class [Image](../image/)
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

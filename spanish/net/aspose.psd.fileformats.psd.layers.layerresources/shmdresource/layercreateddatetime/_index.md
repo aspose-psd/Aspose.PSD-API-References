@@ -1,27 +1,28 @@
 ---
-title: ShmdResource.LayerCreatedDateTime
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ShmdResource propiedad. Obtiene o establece el tiempo de creación de la capa. Si no se especifica el tiempo de creación de la capa se devuelve un nuevo DateTime0
+title: "ShmdResource.LayerCreatedDateTime"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ShmdResource. Obtiene o establece la hora de creación de la capa. Si la hora de creación de la capa no se especifica, devuelve new DateTime0"
 type: docs
-weight: 30
+weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## ShmdResource.LayerCreatedDateTime property
 
-Obtiene o establece el tiempo de creación de la capa. Si no se especifica el tiempo de creación de la capa, se devuelve un nuevo DateTime(0)
+Obtiene o establece la hora de creación de la capa. Si la hora de creación de la capa no se especifica, devuelve new DateTime(0)
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El tiempo de creación de la capa.
+La hora de creación de la capa.
 
 ### Ver también
 
 * class [ShmdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

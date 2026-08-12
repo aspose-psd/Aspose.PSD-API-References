@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MultiPageOptions propiedad. Obtiene o establece un valor que indica si unir capas.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad MultiPageOptions. Obtiene o establece un valor que indica si se fusionan capas"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-Obtiene o establece un valor que indica si [unir capas].
+Obtiene o establece un valor que indica si [merege layers].
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si [mezclar capas]; de lo contrario,`FALSO` .
+`true` si [merege layers]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [MultiPageOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

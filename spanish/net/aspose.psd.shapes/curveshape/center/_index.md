@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Center
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurveShape propiedad. Obtiene el centro de la forma.
+title: "CurveShape.Center"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CurveShape. Obtiene el centro de la forma"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.shapes/curveshape/center/
 ---
+{{< psd/tize >}}
 ## CurveShape.Center property
 
 Obtiene el centro de la forma.
@@ -14,7 +15,7 @@ Obtiene el centro de la forma.
 public override PointF Center { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El centro de la forma.
 
@@ -22,7 +23,7 @@ El centro de la forma.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../curveshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

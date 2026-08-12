@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.VerticalScale
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. La escala vertical.
+title: "ITextStyle.VerticalScale"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ITextStyle propiedad. La escala vertical"
 type: docs
 weight: 270
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.VerticalScale property
 
 La escala vertical.
@@ -14,9 +15,9 @@ La escala vertical.
 public double VerticalScale { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Ver también
 
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

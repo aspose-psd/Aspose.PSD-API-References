@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FileStreamContainer propiedad. Obtiene o establece un valor que indica si el flujo es temporal.
+title: "FileStreamContainer.IsTemporal"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FileStreamContainer. Obtiene o establece un valor que indica si el flujo es temporal"
 type: docs
 weight: 50
 url: /es/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
 Obtiene o establece un valor que indica si el flujo es temporal.
@@ -14,18 +15,18 @@ Obtiene o establece un valor que indica si el flujo es temporal.
 public bool IsTemporal { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si el flujo es temporal; de lo contrario,`FALSO` .
+`true` si el flujo es temporal; de lo contrario, `false`.
 
-### Observaciones
+## Observaciones
 
-Una secuencia temporal se eliminará cuando se elimine. Si la transmisión se basa en la memoria, esta propiedad no tiene ningún efecto. La transmisión se puede marcar como temporal o persistente en caso de que se haya creado explícitamente; de lo contrario, se generará la excepción correspondiente.
+Un flujo temporal se eliminará a sí mismo cuando se libere. Si el flujo está basado en memoria, esta propiedad no tiene efecto. El flujo puede marcarse como temporal o persistente en caso de que haya sido creado explícitamente; de lo contrario, se lanzará la excepción correspondiente.
 
 ### Ver también
 
 * class [FileStreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../filestreamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

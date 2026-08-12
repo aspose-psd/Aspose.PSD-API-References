@@ -1,14 +1,15 @@
 ---
-title: Class GradientTransparencyPoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint clase. Punto de transparencia de degradado
+title: "Clase GradientTransparencyPoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint. Punto de Transparencia de Gradiente"
 type: docs
-weight: 1970
+weight: 2090
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint class
 
-Punto de transparencia de degradado
+Punto de transparencia del degradado
 
 ```csharp
 public class GradientTransparencyPoint : IGradientTransparencyPoint
@@ -18,7 +19,7 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 | Nombre | Descripción |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint/)() | Inicializa una nueva instancia del`GradientTransparencyPoint` clase. |
+| [GradientTransparencyPoint](gradienttransparencypoint/)() | Inicializa una nueva instancia de la clase `GradientTransparencyPoint`. |
 
 ## Propiedades
 
@@ -31,7 +32,7 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 ### Ver también
 
 * interface [IGradientTransparencyPoint](../igradienttransparencypoint/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

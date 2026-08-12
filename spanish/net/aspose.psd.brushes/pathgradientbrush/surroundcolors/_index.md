@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PathGradientBrush propiedad. Obtiene o establece una matriz de colores que corresponden a los puntos de la ruta quePathGradientBrush llena.
+title: "PathGradientBrush.SurroundColors"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PathGradientBrush. Obtiene o establece una matriz de colores que corresponden a los puntos en la ruta que este PathGradientBrush rellena"
 type: docs
-weight: 40
+weight: 50
 url: /es/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-Obtiene o establece una matriz de colores que corresponden a los puntos de la ruta que[`PathGradientBrush`](../) llena.
+Obtiene o establece una matriz de colores que corresponden a los puntos en la ruta que este [`PathGradientBrush`](../) rellena.
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-una matriz de[`Color`](../../../aspose.psd/color/) estructuras que representa los colores asociados con cada punto en el camino este[`PathGradientBrush`](../) llena
+Una matriz de estructuras [`Color`](../../../aspose.psd/color/) que representa los colores asociados a cada punto en la ruta que rellena este [`PathGradientBrush`](../).
 
 ### Ver también
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

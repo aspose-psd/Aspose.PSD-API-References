@@ -1,11 +1,12 @@
 ---
-title: IPlacedLayerResource.Value
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPlacedLayerResource propiedad. Obtiene o establece el valor de deformación de la capa colocada en la imagen PSD.
+title: "IPlacedLayerResource.Value"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPlacedLayerResource. Obtiene o establece el valor de deformación de la capa colocada en la imagen PSD"
 type: docs
 weight: 190
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Value property
 
 Obtiene o establece el valor de deformación de la capa colocada en la imagen PSD.
@@ -14,14 +15,14 @@ Obtiene o establece el valor de deformación de la capa colocada en la imagen PS
 public double Value { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor de deformación de la capa colocada.
 
 ### Ver también
 
 * interface [IPlacedLayerResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

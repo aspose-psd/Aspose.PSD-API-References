@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolFontInfo propiedad. Obtiene o establece la familia de fuentes.
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolFontInfo. Obtiene o establece la familia de fuentes"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
 Obtiene o establece la familia de fuentes.
@@ -14,14 +15,14 @@ Obtiene o establece la familia de fuentes.
 public string FontFamily { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La familia tipográfica.
+La familia de fuentes.
 
 ### Ver también
 
 * class [TypeToolFontInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

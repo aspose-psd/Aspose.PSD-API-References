@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamWriter método. Escribe un único valor entero en la secuencia.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "TiffStreamWriter method. Escribe un único valor entero al flujo"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-Escribe un único valor entero en la secuencia.
+Escribe un único valor entero al flujo.
 
 ```csharp
 public void WriteSlong(int data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Int32 | El valor a escribir. |
+| datos | Int32 | El valor a escribir. |
 
 ### Ver también
 
 * class [TiffStreamWriter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

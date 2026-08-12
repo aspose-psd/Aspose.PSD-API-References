@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpBasicPackage método. Agrega la fecha de última modificación del recurso.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpBasicPackage. Añade la fecha de última modificación del recurso"
 type: docs
-weight: 80
+weight: 100
 url: /es/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
 Agrega la fecha de última modificación del recurso.
@@ -14,15 +15,15 @@ Agrega la fecha de última modificación del recurso.
 public void SetModifyDate(DateTime modifiedDate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| modifiedDate | DateTime | Última fecha de modificación. |
+| modifiedDate | DateTime | Fecha de última modificación. |
 
 ### Ver también
 
 * class [XmpBasicPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Agrega la fecha de última modificación del recurso.
 public void SetModifyDate(string modifiedDate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| modifiedDate | String | Última fecha de modificación. |
+| modifiedDate | String | Fecha de última modificación. |
 
 ### Ver también
 
 * class [XmpBasicPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

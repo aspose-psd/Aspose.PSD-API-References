@@ -1,14 +1,15 @@
 ---
-title: Enum PdfComplianceVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.PdfComplianceVersion enumeración. Especifica el nivel de cumplimiento de PDF para el archivo de salida.
+title: "Enumeración PdfComplianceVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.PdfComplianceVersion. Especifica el nivel de cumplimiento PDF para el archivo de salida"
 type: docs
-weight: 5190
+weight: 5680
 url: /es/net/aspose.psd/pdfcomplianceversion/
 ---
+{{< psd/tize >}}
 ## PdfComplianceVersion enumeration
 
-Especifica el nivel de cumplimiento de PDF para el archivo de salida.
+Especifica el nivel de cumplimiento PDF del archivo de salida.
 
 ```csharp
 public enum PdfComplianceVersion
@@ -24,7 +25,7 @@ public enum PdfComplianceVersion
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

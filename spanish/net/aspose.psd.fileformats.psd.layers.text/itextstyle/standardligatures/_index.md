@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. Las ligaduras contextuales estándar utilizadas para unir letras.
+title: "ITextStyle.StandardLigatures"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ITextStyle propiedad. Las ligaduras contextuales estándar usadas para conectar letras entre sí"
 type: docs
 weight: 220
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-Las ligaduras contextuales estándar utilizadas para unir letras.
+Las ligaduras contextuales estándar utilizadas para conectar letras entre sí.
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Ver también
 
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

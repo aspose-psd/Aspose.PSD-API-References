@@ -1,14 +1,15 @@
 ---
-title: DitheringMode.CustomPalette
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DitheringMode propiedad. La paleta personalizada para tramado.
+title: "DitheringMode.CustomPalette"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "DitheringMode propiedad. La paleta personalizada para el dithering"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.dithering/ditheringmode/custompalette/
 ---
+{{< psd/tize >}}
 ## DitheringMode.CustomPalette property
 
-La paleta personalizada para tramado.
+La paleta personalizada para el tramado.
 
 ```csharp
 public IColorPalette CustomPalette { get; set; }
@@ -18,7 +19,7 @@ public IColorPalette CustomPalette { get; set; }
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* espacio de nombres [Aspose.PSD.Dithering](../../ditheringmode/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

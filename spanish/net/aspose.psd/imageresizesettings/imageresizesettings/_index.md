@@ -1,14 +1,15 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageResizeSettings constructor. Constructor predeterminado
+title: "ImageResizeSettings.ImageResizeSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ImageResizeSettings. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/imageresizesettings/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public ImageResizeSettings()
@@ -17,7 +18,7 @@ public ImageResizeSettings()
 ### Ver también
 
 * class [ImageResizeSettings](../)
-* espacio de nombres [Aspose.PSD](../../imageresizesettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

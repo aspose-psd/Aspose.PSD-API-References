@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Noise
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IShadowEffect propiedad. Obtiene o establece el ruido.
+title: "IShadowEffect.Noise"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IShadowEffect. Obtiene o establece el ruido"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Noise property
 
 Obtiene o establece el ruido.
@@ -14,7 +15,7 @@ Obtiene o establece el ruido.
 public int Noise { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ruido.
 
@@ -22,12 +23,12 @@ El ruido.
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | El ruido debe especificarse como porcentaje en un rango de 0 a 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | El ruido debe especificarse como porcentaje en el rango de 0 a 100 |
 
 ### Ver también
 
 * interface [IShadowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StreamContainer método. Escribe un byte en la posición actual en la secuencia y avanza la posición dentro de la secuencia en un byte.
+title: "StreamContainer.WriteByte"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método StreamContainer. Escribe un byte en la posición actual de la secuencia y avanza la posición dentro de la secuencia en un byte"
 type: docs
 weight: 180
 url: /es/net/aspose.psd/streamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.WriteByte method
 
-Escribe un byte en la posición actual en la secuencia y avanza la posición dentro de la secuencia en un byte.
+Escribe un byte en la posición actual del flujo y avanza la posición dentro del flujo en un byte.
 
 ```csharp
 public virtual void WriteByte(byte value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Byte | El byte para escribir en la secuencia. |
+| valor | Byte | El byte a escribir en el flujo. |
 
 ### Ver también
 
 * class [StreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../streamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

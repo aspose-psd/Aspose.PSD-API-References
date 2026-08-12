@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextLayer propiedad. Obtiene o establece el cuadro de límite de texto.
+title: "TextLayer.TextBoundBox"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextLayer. Obtiene o establece el cuadro delimitador del texto"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-Obtiene o establece el cuadro de límite de texto.
+Obtiene o establece el cuadro delimitador del texto.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El cuadro de texto enlazado.
+El cuadro delimitador del texto.
 
 ### Ver también
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

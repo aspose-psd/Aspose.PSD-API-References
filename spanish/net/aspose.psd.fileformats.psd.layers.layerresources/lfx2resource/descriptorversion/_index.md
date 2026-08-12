@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Lfx2Resource propiedad. Obtiene la versión del descriptor.
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Lfx2Resource. Obtiene la versión del descriptor"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
 Obtiene la versión del descriptor.
@@ -14,14 +15,14 @@ Obtiene la versión del descriptor.
 public int DescriptorVersion { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión del descriptor.
 
 ### Ver también
 
 * class [Lfx2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

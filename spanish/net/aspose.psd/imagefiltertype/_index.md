@@ -1,14 +1,15 @@
 ---
-title: Enum ImageFilterType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageFilterType enumeración. Filtros de imagen a utilizar
+title: "Enumeración ImageFilterType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.ImageFilterType. Filtros de imagen a usar"
 type: docs
-weight: 4640
+weight: 5110
 url: /es/net/aspose.psd/imagefiltertype/
 ---
+{{< psd/tize >}}
 ## ImageFilterType enumeration
 
-Filtros de imagen a utilizar
+Filtros de imagen a usar
 
 ```csharp
 public enum ImageFilterType
@@ -18,13 +19,13 @@ public enum ImageFilterType
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `0` | No se usó ningún filtro |
-| BigRectangular | `1` | El gran filtro rectangular |
-| SmallRectangular | `2` | El pequeño filtro rectangular |
+| None | `0` | No se usa ningún filtro |
+| BigRectangular | `1` | El filtro rectangular grande |
+| SmallRectangular | `2` | El filtro rectangular pequeño |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.ClassName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DescriptorStructure propiedad. Obtiene o establece el nombre de la clase.
+title: "DescriptorStructure.ClassName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad DescriptorStructure. Obtiene o establece el nombre de la clase"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.ClassName property
 
 Obtiene o establece el nombre de la clase.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre de la clase.
 public string ClassName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre de la clase.
 
 ### Ver también
 
 * class [DescriptorStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

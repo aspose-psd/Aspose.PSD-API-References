@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Offset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExpaResource propiedad. Obtiene o establece el desplazamiento.
+title: "ExpaResource.Offset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExpaResource. Obtiene o establece el desplazamiento"
 type: docs
-weight: 60
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
 Obtiene o establece el desplazamiento.
@@ -14,14 +15,14 @@ Obtiene o establece el desplazamiento.
 public float Offset { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El desplazamiento.
 
 ### Ver también
 
 * class [ExpaResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

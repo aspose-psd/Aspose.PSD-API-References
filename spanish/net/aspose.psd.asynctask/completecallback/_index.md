@@ -1,11 +1,12 @@
 ---
-title: Delegate CompleteCallback
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Función de devolución de llamada para recibir el evento de finalización de la tarea.
+title: "Delegado CompleteCallback"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Función de devolución de llamada para recibir el evento de finalización de la tarea"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.asynctask/completecallback/
 ---
+{{< psd/tize >}}
 ## CompleteCallback delegate
 
 Función de devolución de llamada para recibir el evento de finalización de la tarea.
@@ -14,16 +15,16 @@ Función de devolución de llamada para recibir el evento de finalización de la
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| task | IAsyncTask | La tarea asincrónica. |
-| wasCancelled | Boolean | si se establece en`verdadero` [fue cancelado]. |
-| error | Exception | El error. |
+| task | IAsyncTask | La tarea asíncrona. |
+| wasCancelled | Boolean | si se establece en `true` [was cancelled]. |
+| error | Excepción | El error. |
 
 ### Ver también
 
 * interface [IAsyncTask](../iasynctask/)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

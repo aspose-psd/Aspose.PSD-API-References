@@ -1,14 +1,15 @@
 ---
-title: Class ExpaResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource clase. Clase ExpaResource. Recurso de ajuste de exposición Layer
+title: "Clase ExpaResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource. Clase ExpaResource. Recurso de la capa de ajuste de exposición"
 type: docs
-weight: 2450
+weight: 2710
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource class
 
-Clase ExpaResource. Recurso de ajuste de exposición Layer
+Clase ExpaResource. Recurso de capa de ajuste de exposición
 
 ```csharp
 public class ExpaResource : AdjustmentLayerResource
@@ -18,9 +19,9 @@ public class ExpaResource : AdjustmentLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [ExpaResource](exparesource/#constructor)() | Inicializa una nueva instancia del`ExpaResource` clase. |
-| [ExpaResource](exparesource/#constructor_1)(byte[]) | Inicializa una nueva instancia del`ExpaResource` clase. |
-| [ExpaResource](exparesource/#constructor_2)(float, float, float) | Inicializa una nueva instancia del`ExpaResource` clase. |
+| [ExpaResource](exparesource/#constructor)() | Inicializa una nueva instancia de la clase `ExpaResource`. |
+| [ExpaResource](exparesource/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `ExpaResource`. |
+| [ExpaResource](exparesource/#constructor_2)(float, float, float) | Inicializa una nueva instancia de la clase `ExpaResource`. |
 
 ## Propiedades
 
@@ -28,11 +29,11 @@ public class ExpaResource : AdjustmentLayerResource
 | --- | --- |
 | [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | Obtiene o establece la exposición. |
 | [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | Obtiene o establece la gamma. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | Obtiene o establece el desplazamiento. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | Obtiene la versión. El valor predeterminado es 1 |
 
 ## Métodos
@@ -40,7 +41,7 @@ public class ExpaResource : AdjustmentLayerResource
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -52,7 +53,7 @@ public class ExpaResource : AdjustmentLayerResource
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

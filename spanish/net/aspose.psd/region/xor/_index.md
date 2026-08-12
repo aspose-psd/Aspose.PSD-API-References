@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Region método. Actualiza estoRegion a la unión menos la intersección de sí mismo con el especificadoRectangleFestructura.
+title: "Region.Xor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Region. Actualiza esta Region a la unión menos la intersección de sí misma con la estructura RectangleF especificada"
 type: docs
-weight: 150
+weight: 160
 url: /es/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-Actualiza esto[`Region`](../) a la unión menos la intersección de sí mismo con el especificado[`RectangleF`](../../rectanglef/)estructura.
+Actualiza este [`Region`](../) a la unión menos la intersección de sí mismo con la estructura [`RectangleF`](../../rectanglef/) especificada.
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | RectangleF | El[`RectangleF`](../../rectanglef/) estructura para xor con esto[`Region`](../). |
+| rect | RectangleF | La estructura [`RectangleF`](../../rectanglef/) para xor con este [`Region`](../). |
 
 ### Ver también
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-Actualiza esto[`Region`](../) a la unión menos la intersección de sí mismo con el especificado[`Rectangle`](../../rectangle/)estructura.
+Actualiza este [`Region`](../) a la unión menos la intersección de sí mismo con la estructura [`Rectangle`](../../rectangle/) especificada.
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El[`Rectangle`](../../rectangle/) estructura para xor con esto[`Region`](../). |
+| rect | Rectangle | La estructura [`Rectangle`](../../rectangle/) para xor con este [`Region`](../). |
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-Actualiza esto[`Region`](../) a la unión menos la intersección de sí mismo con el especificado[`GraphicsPath`](../../graphicspath/) .
+Actualiza este [`Region`](../) a la unión menos la intersección de sí mismo con el [`GraphicsPath`](../../graphicspath/) especificado.
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| path | GraphicsPath | El[`GraphicsPath`](../../graphicspath/) a xor con esto[`Region`](../). |
+| path | GraphicsPath | El [`GraphicsPath`](../../graphicspath/) para xor con este [`Region`](../). |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | *path* es nulo. |
+| ArgumentNullException | *path* es null. |
 
 ### Ver también
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-Actualiza esto[`Region`](../) a la unión menos la intersección de sí mismo con el especificado[`Region`](../) .
+Actualiza este [`Region`](../) a la unión menos la intersección de sí mismo con el [`Region`](../) especificado.
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| region | Region | El[`Region`](../) a xor con esto[`Region`](../). |
+| region | Region | El [`Region`](../) para xor con este [`Region`](../). |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | *region* es nulo. |
+| ArgumentNullException | *region* es null. |
 
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

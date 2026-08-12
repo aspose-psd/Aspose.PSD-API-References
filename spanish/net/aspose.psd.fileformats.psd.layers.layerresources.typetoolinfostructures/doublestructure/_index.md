@@ -1,14 +1,15 @@
 ---
-title: Class DoubleStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure clase. La doble estructura.
+title: "Clase DoubleStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure. La estructura doble"
 type: docs
-weight: 3150
+weight: 3530
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/
 ---
+{{< psd/tize >}}
 ## DoubleStructure class
 
-La doble estructura.
+La estructura doble.
 
 ```csharp
 public sealed class DoubleStructure : OSTypeStructure
@@ -18,15 +19,15 @@ public sealed class DoubleStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [DoubleStructure](doublestructure/)(ClassID) | Inicializa una nueva instancia del`DoubleStructure` clase. |
+| [DoubleStructure](doublestructure/)(ClassID) | Inicializa una nueva instancia de la clase `DoubleStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/) { get; } | Obtiene la clave de estructura. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/) { get; } | Obtiene la clave de la estructura. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/) { get; set; } | Obtiene o establece el valor doble. |
 
 ## Métodos
@@ -41,12 +42,12 @@ public sealed class DoubleStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/) | Identifica la clave de estructura. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/) | Identifica la clave de la estructura. |
 
 ### Ver también
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

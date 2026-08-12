@@ -1,14 +1,15 @@
 ---
-title: LayerBlendingRangesData.LayerBlendingRangesData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerBlendingRangesData constructor. Constructor predeterminado
+title: "LayerBlendingRangesData.LayerBlendingRangesData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor LayerBlendingRangesData. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public LayerBlendingRangesData()
@@ -17,7 +18,7 @@ public LayerBlendingRangesData()
 ### Ver también
 
 * class [LayerBlendingRangesData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

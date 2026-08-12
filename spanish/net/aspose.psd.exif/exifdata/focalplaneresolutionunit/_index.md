@@ -1,11 +1,12 @@
 ---
-title: ExifData.FocalPlaneResolutionUnit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la unidad de resolución del plano focal.
+title: "ExifData.FocalPlaneResolutionUnit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la unidad de resolución del plano focal"
 type: docs
 weight: 310
 url: /es/net/aspose.psd.exif/exifdata/focalplaneresolutionunit/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneResolutionUnit property
 
 Obtiene o establece la unidad de resolución del plano focal.
@@ -14,7 +15,7 @@ Obtiene o establece la unidad de resolución del plano focal.
 public ExifUnit FocalPlaneResolutionUnit { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La unidad de resolución del plano focal.
 
@@ -22,7 +23,7 @@ La unidad de resolución del plano focal.
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

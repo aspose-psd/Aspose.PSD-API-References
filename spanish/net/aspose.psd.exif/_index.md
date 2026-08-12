@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases auxiliares y métodos relacionados con EXIF.
+title: "Aspose.PSD.Exif"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases y métodos auxiliares relacionados con EXIF"
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.psd.exif/
 ---
-El espacio de nombres contiene clases auxiliares y métodos relacionados con EXIF.
+{{< psd/tize >}}
+El espacio de nombres contiene clases y métodos auxiliares relacionados con EXIF.
 
 ## Clases
 
@@ -14,7 +15,7 @@ El espacio de nombres contiene clases auxiliares y métodos relacionados con EXI
 | --- | --- |
 | [ExifData](./exifdata/) | Contenedor de datos EXIF. |
 | [JpegExifData](./jpegexifdata/) | Contenedor de datos EXIF para archivos jpeg. |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | Representa la clase general para trabajar con tipos de datos tiff. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | Representa una clase general para trabajar con tipos de datos TIFF. |
 ## Enumeración
 
 | Enumeración | Descripción |

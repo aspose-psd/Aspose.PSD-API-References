@@ -1,14 +1,15 @@
 ---
-title: Class XmpPackageBaseCollection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.XmpPackageBaseCollection clase. Representa la colección deXmpPackage .
+title: "Clase XmpPackageBaseCollection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.XmpPackageBaseCollection. Representa una colección de XmpPackage"
 type: docs
-weight: 6280
+weight: 6780
 url: /es/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection class
 
-Representa la colección de[`XmpPackage`](../xmppackage/) .
+Representa una colección de [`XmpPackage`](../xmppackage/).
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -18,29 +19,29 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 | Nombre | Descripción |
 | --- | --- |
-| [XmpPackageBaseCollection](xmppackagebasecollection/)() | Constructor predeterminado |
+| [XmpPackageBaseCollection](xmppackagebasecollection/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | Obtiene el número de elementos de la colección. |
+| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | Obtiene el número de elementos en la colección. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | Agrega una nueva instancia de[`XmpPackage`](../xmppackage/) . |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | Borrar todo[`XmpPackage`](../xmppackage/) colección interior. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | Devuelve un enumerador que itera a través de una colección. |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | Obtiene[`XmpPackage`](../xmppackage/) por su espacio de nombresURI. |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | Obtener matriz de[`XmpPackage`](../xmppackage/) . |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | Agrega una nueva instancia de [`XmpPackage`](../xmppackage/). |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | Elimina todos los [`XmpPackage`](../xmppackage/) dentro de la colección. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | Devuelve un enumerador que recorre una colección. |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | Obtiene el [`XmpPackage`](../xmppackage/) por su namespaceURI. |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | Obtiene el array de [`XmpPackage`](../xmppackage/). |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | Elimina el paquete XMP especificado. |
 
 ### Ver también
 
 * class [XmpPackage](../xmppackage/)
-* espacio de nombres [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

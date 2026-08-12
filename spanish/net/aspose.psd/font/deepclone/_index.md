@@ -1,27 +1,28 @@
 ---
-title: Font.DeepClone
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font método. Crea una copia profunda exacta de esteFont .
+title: "Font.DeepClone"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Font. Crea una copia profunda exacta de este Font."
 type: docs
 weight: 110
 url: /es/net/aspose.psd/font/deepclone/
 ---
+{{< psd/tize >}}
 ## Font.DeepClone method
 
-Crea una copia profunda exacta de este[`Font`](../) .
+Crea una copia profunda exacta de este [`Font`](../).
 
 ```csharp
 public Font DeepClone()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-El[`Font`](../) este método crea.
+El [`Font`](../) que crea este método.
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

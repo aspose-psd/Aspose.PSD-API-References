@@ -1,11 +1,12 @@
 ---
-title: Interface IKeyedObject
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IKeyedObject interfaz. Representa la interfaz para objetos con claves.
+title: "Interfaz IKeyedObject"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IKeyedObject. Representa una interfaz para objetos con claves"
 type: docs
-weight: 4480
+weight: 4950
 url: /es/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
 Representa la interfaz para objetos con claves.
@@ -22,7 +23,7 @@ public interface IKeyedObject
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

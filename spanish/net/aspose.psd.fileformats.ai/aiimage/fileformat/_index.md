@@ -1,14 +1,15 @@
 ---
-title: AiImage.FileFormat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiImage propiedad. Obtiene un valor de formato de archivo
+title: "AiImage.FileFormat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiImage. Obtiene un valor del formato de archivo"
 type: docs
-weight: 40
+weight: 50
 url: /es/net/aspose.psd.fileformats.ai/aiimage/fileformat/
 ---
+{{< psd/tize >}}
 ## AiImage.FileFormat property
 
-Obtiene un valor de formato de archivo
+Obtiene un valor del formato de archivo.
 
 ```csharp
 public override FileFormat FileFormat { get; }
@@ -18,7 +19,7 @@ public override FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [AiImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

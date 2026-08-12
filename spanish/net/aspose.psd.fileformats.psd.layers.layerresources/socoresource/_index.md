@@ -1,14 +1,15 @@
 ---
-title: Class SoCoResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource clase. Class SoCoResource. Este recurso contiene información sobre Color Fill Layers
+title: "Clase SoCoResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource. Clase SoCoResource. Este recurso contiene información sobre capas de relleno de color"
 type: docs
-weight: 3010
+weight: 3360
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Class SoCoResource. Este recurso contiene información sobre Color Fill Layers
+Clase SoCoResource. Este recurso contiene información sobre capas de relleno de color
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -18,24 +19,24 @@ public class SoCoResource : FillLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [SoCoResource](socoresource/)() | Inicializa una nueva instancia del`SoCoResource` clase. |
+| [SoCoResource](socoresource/)() | Inicializa una nueva instancia de la clase `SoCoResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Obtiene el color RGB . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Obtiene la firma del recurso de la capa. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Obtiene el color RGB. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -43,9 +44,9 @@ public class SoCoResource : FillLayerResource
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo muestra cómo editar SoCoResource (recurso de capa para capa de relleno de color)
+El siguiente ejemplo muestra cómo editas SoCoResource (Recurso de capa para capa de relleno de color)
 
 ```csharp
 [C#]
@@ -53,20 +54,20 @@ El siguiente ejemplo muestra cómo editar SoCoResource (recurso de capa para cap
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Hallazgo de FillLayer
+        // Búsqueda de FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Hallazgo de SoCoResource en la lista de recursos de capa
+                // Búsqueda de SoCoResource en la lista de recursos de capa
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Configuración de la propiedad Color de SoCoResource
+                    // Configurando la propiedad Color de SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -96,7 +97,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

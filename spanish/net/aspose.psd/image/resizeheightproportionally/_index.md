@@ -1,71 +1,72 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image método. Cambia el tamaño de la altura proporcionalmente.
+title: "Image.ResizeHeightProportionally"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Image. Redimensiona la altura proporcionalmente"
 type: docs
-weight: 200
+weight: 210
 url: /es/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
-Cambia el tamaño de la altura proporcionalmente.
+Redimensiona la altura proporcionalmente.
 
 ```csharp
 public void ResizeHeightProportionally(int newHeight)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| newHeight | Int32 | La nueva altura. |
+| newHeight | Int32 | El nuevo alto. |
 
 ### Ver también
 
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-Cambia el tamaño de la altura proporcionalmente.
+Redimensiona la altura proporcionalmente.
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| newHeight | Int32 | La nueva altura. |
-| resizeType | ResizeType | Tipo de cambio de tamaño. |
+| newHeight | Int32 | El nuevo alto. |
+| resizeType | ResizeType | Tipo de redimensionado. |
 
 ### Ver también
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
 
-Cambia el tamaño de la altura proporcionalmente.
+Redimensiona la altura proporcionalmente.
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| newHeight | Int32 | La nueva altura. |
-| settings | ImageResizeSettings | La configuración de cambio de tamaño de la imagen. |
+| newHeight | Int32 | El nuevo alto. |
+| configuraciones | ImageResizeSettings | Configuración de redimensionado de la imagen. |
 
 ### Ver también
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

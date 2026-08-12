@@ -1,31 +1,32 @@
 ---
-title: SizeF.Equals
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SizeF método. Pruebas para ver si el objeto especificado es unSizeF con las mismas dimensiones que esteSizeF .
+title: "SizeF.Equals"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SizeF. Prueba para ver si el objeto especificado es un SizeF con las mismas dimensiones que este SizeF"
 type: docs
 weight: 80
 url: /es/net/aspose.psd/sizef/equals/
 ---
+{{< psd/tize >}}
 ## SizeF.Equals method
 
-Pruebas para ver si el objeto especificado es un[`SizeF`](../) con las mismas dimensiones que este[`SizeF`](../) .
+Prueba para ver si el objeto especificado es un [`SizeF`](../) con las mismas dimensiones que este [`SizeF`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| obj | Object | ElObject Probar. |
+| obj | Object | El objeto a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Este método devuelve verdadero si*obj* es un[`SizeF`](../) y tiene el mismo ancho y alto que este[`SizeF`](../); en caso contrario, falso.
+Este método devuelve true si *obj* es un [`SizeF`](../) y tiene el mismo ancho y alto que este [`SizeF`](../); de lo contrario, false.
 
 ### Ver también
 
 * struct [SizeF](../)
-* espacio de nombres [Aspose.PSD](../../sizef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

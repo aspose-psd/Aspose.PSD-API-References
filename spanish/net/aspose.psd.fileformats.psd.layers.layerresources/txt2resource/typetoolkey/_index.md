@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.TypeToolKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Txt2Resource campo. La clave de información de la herramienta de tipo.
+title: "Txt2Resource.TypeToolKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Txt2Resource. La clave de información de la herramienta de tipo"
 type: docs
-weight: 100
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.TypeToolKey field
 
 La clave de información de la herramienta de tipo.
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Ver también
 
 * class [Txt2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

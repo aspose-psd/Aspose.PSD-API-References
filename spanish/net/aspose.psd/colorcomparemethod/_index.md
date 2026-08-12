@@ -1,14 +1,15 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ColorCompareMethod enumeración. Método de comparación de colores para ajustar al vecino más cercano
+title: "Enumeración ColorCompareMethod"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.ColorCompareMethod. Método de comparación de color para ajustar al vecino más cercano"
 type: docs
 weight: 330
 url: /es/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
-Método de comparación de colores para ajustar al vecino más cercano
+Método de comparación de color para ajustar al vecino más cercano
 
 ```csharp
 public enum ColorCompareMethod
@@ -18,11 +19,11 @@ public enum ColorCompareMethod
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Euclidian | `0` | El método euclidiano |
+| Euclidian | `0` | El método euclídeo |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

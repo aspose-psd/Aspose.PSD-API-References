@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BritResource propiedad. Obtiene o establece un valor que indica si color de laboratorio.
+title: "BritResource.LabColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BritResource. Obtiene o establece un valor que indica si es color lab"
 type: docs
-weight: 50
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-Obtiene o establece un valor que indica si [color de laboratorio].
+Obtiene o establece un valor que indica si [lab color].
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si [color de laboratorio]; de lo contrario,`FALSO` .
+`true` si [lab color]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [BritResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

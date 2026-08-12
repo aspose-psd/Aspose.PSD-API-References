@@ -1,14 +1,15 @@
 ---
-title: Enum LayerFlags
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerFlags enumeración. La capa flags
+title: "Enumeración LayerFlags"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerFlags enumeración. Las banderas de capa."
 type: docs
-weight: 2210
+weight: 2410
 url: /es/net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
+{{< psd/tize >}}
 ## LayerFlags enumeration
 
-La capa flags
+Las banderas de capa.
 
 ```csharp
 [Flags]
@@ -23,12 +24,12 @@ public enum LayerFlags : byte
 | Visible | `2` | La bandera visible |
 | Obsolete | `4` | La bandera obsoleta |
 | HasUsefulInformation | `8` | 1 para Photoshop 5.0 y posteriores, indica si el bit 4 tiene información útil |
-| PixelDataIrrelevantToAppearenceInDocument | `10` | Los datos de píxeles irrelevantes para la apariencia en document |
-| Undocumented | `20` | La bandera indocumentada |
+| PixelDataIrrelevantToAppearenceInDocument | `10` | Los datos de píxel irrelevantes para la apariencia en el documento |
+| Undocumented | `20` | La bandera no documentada |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

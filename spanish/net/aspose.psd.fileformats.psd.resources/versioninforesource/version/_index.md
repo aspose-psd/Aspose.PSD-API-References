@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VersionInfoResource propiedad. Obtiene o establece la versión.
+title: "VersionInfoResource.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VersionInfoResource propiedad. Obtiene o establece la versión"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.resources/versioninforesource/version/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.Version property
 
 Obtiene o establece la versión.
@@ -14,14 +15,14 @@ Obtiene o establece la versión.
 public uint Version { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión.
 
 ### Ver también
 
 * class [VersionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

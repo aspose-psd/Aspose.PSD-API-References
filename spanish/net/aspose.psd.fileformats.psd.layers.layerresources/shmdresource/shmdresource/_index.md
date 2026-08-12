@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ShmdResource constructor. Inicializa una nueva instancia delShmdResource clase.
+title: "ShmdResource.ShmdResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ShmdResource. Inicializa una nueva instancia de la clase ShmdResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-Inicializa una nueva instancia del[`ShmdResource`](../) clase.
+Inicializa una nueva instancia de la clase [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource()
@@ -17,27 +18,27 @@ public ShmdResource()
 ### Ver también
 
 * class [ShmdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`ShmdResource`](../) clase.
+Inicializa una nueva instancia de la clase [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte[] | Los datos del recurso. |
+| datos | Byte[] | Los datos del recurso. |
 
 ### Ver también
 
 * class [ShmdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

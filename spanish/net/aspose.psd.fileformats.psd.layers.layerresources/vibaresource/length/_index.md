@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Length
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VibAResource propiedad. Obtiene la longitud del recurso de la capa en bytes.
+title: "VibAResource.Length"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VibAResource property. Obtiene la longitud del recurso de capa en bytes"
 type: docs
-weight: 30
+weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/
 ---
+{{< psd/tize >}}
 ## VibAResource.Length property
 
-Obtiene la longitud del recurso de la capa en bytes.
+Obtiene la longitud del recurso de capa en bytes.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código demuestra la compatibilidad con el recurso VibAResource.
+El siguiente ejemplo de código muestra el soporte del recurso VibAResource.
 
 ```csharp
 [C#]
 
-// Ejemplo del soporte de lectura y escritura de Vibration Resource en tiempo de ejecución.
+// Ejemplo del soporte de lectura y escritura del Recurso de Vibración en tiempo de ejecución.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [VibAResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

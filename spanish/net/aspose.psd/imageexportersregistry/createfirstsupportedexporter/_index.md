@@ -1,29 +1,30 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageExportersRegistry método. Crea el primer exportador encontrado adecuado para las opciones de guardado y la imagen especificados.
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageExportersRegistry. Crea el primer exportador encontrado adecuado para las opciones de guardado y la imagen especificadas."
 type: docs
 weight: 30
 url: /es/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-Crea el primer exportador encontrado adecuado para las opciones de guardado y la imagen especificados.
+Crea el primer exportador encontrado que sea adecuado para las opciones de guardado e imagen especificadas.
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| image | Image | La imagen a exportar. |
-| options | ImageOptionsBase | Las opciones de guardado que se usarán para la exportación. |
+| imagen | Image | La imagen a exportar. |
+| opciones | ImageOptionsBase | Las opciones de guardado a usar para la exportación. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El exportador que admite la imagen especificada y las opciones de guardado o nulo si no se encuentra dicho exportador.
+El exportador que admite la imagen y las opciones de guardado especificadas o null si no se encuentra dicho exportador.
 
-### Observaciones
+## Observaciones
 
 El primer exportador será en realidad el último registrado.
 
@@ -33,7 +34,7 @@ El primer exportador será en realidad el último registrado.
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imageexportersregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class FXidResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource clase. El recurso Efectos de filtro contiene canales una máscara de usuario y una máscara de hoja para el filtro inteligente.
+title: "Clase FXidResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource. El recurso Filter Effects contiene canales, una máscara de usuario y una máscara de hoja para el filtro inteligente."
 type: docs
-weight: 2460
+weight: 2720
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource class
 
-El recurso Efectos de filtro contiene canales, una máscara de usuario y una máscara de hoja para el filtro inteligente.
+El recurso de efectos de filtro contiene canales, una máscara de usuario y una máscara de hoja para el filtro inteligente.
 
 ```csharp
 public sealed class FXidResource : LayerResource
@@ -18,17 +19,17 @@ public sealed class FXidResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | Inicializa una nueva instancia del`FXidResource` clase. |
+| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | Inicializa una nueva instancia de la clase `FXidResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | Obtiene las máscaras del efecto de filtro. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature/) { get; } | Obtiene la firma del recurso de la capa. |
+| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | Obtiene las máscaras de efecto de filtro. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/) { get; } | Obtiene la versión. |
 
 ## Métodos
@@ -36,18 +37,18 @@ public sealed class FXidResource : LayerResource
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/) | La clave de información de la herramienta tipo FEid. |
+| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/) | La clave de información de la herramienta de tipo FEid. |
 | const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/) | La clave de información de la herramienta de tipo FXid. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra cómo obtener y establecer propiedades del recurso FXidResource.
+Este ejemplo muestra cómo obtener y establecer propiedades del recurso FXidResource.
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -79,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// comprobar después de guardar
+// verificar después de guardar
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -95,7 +96,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

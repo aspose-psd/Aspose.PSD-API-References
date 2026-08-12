@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizationError
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.CoreExceptions.RdOptimizationError clase. Excepción de error de optimización de escritorio remoto class
+title: "Clase RdOptimizationError"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError clase. Clase de excepción de error de optimización RD"
 type: docs
 weight: 670
 url: /es/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-Excepción de error de optimización de escritorio remoto class
+Clase de excepción de error de optimización RD
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -18,11 +19,11 @@ public class RdOptimizationError : Exception
 
 | Nombre | Descripción |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | Inicializa una nueva instancia del`RdOptimizationError` clase. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | Inicializa una nueva instancia de la clase `RdOptimizationError`. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

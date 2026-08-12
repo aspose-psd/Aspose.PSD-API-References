@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece la alineación para estePen .
+title: "Pen.Alignment"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Pen. Obtiene o establece la alineación para este Pen"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-Obtiene o establece la alineación para este[`Pen`](../) .
+Obtiene o establece la alineación para este [`Pen`](../).
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-A[`PenAlignment`](../../penalignment/) que representa la alineación para este[`Pen`](../).
+Una [`PenAlignment`](../../penalignment/) que representa la alineación para este [`Pen`](../).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | El`Alignment` propiedad se establece en un inmutable[`Pen`](../) , como los devueltos por el[`Pen`](../) clase. |
+| ArgumentException | La propiedad `Alignment` se establece en un [`Pen`](../) inmutable, como los devueltos por la clase [`Pen`](../). |
 
 ### Ver también
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum TypeOfEntities
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageOptions.TypeOfEntities enumeración. Representa tipos de entidades a renderizar
+title: "Enum TypeOfEntities"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities enum. Representa los tipos de entidades a renderizar"
 type: docs
-weight: 4970
+weight: 5460
 url: /es/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
-Representa tipos de entidades a renderizar
+Representa tipos de entidades a renderizar.
 
 ```csharp
 public enum TypeOfEntities
@@ -23,7 +24,7 @@ public enum TypeOfEntities
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

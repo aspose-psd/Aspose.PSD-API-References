@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.CompId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectResource propiedad. Obtiene o establece el ID de la composición actualmente seleccionada para el documento secundario que será 1 si no se selecciona ninguna. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Con las composiciones de capas puede crear administrar y ver varias versiones de un diseño en un solo archivo de Adobe Photoshop. Una composición de capa es una instantánea de un estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de composición de capa para la capa de objeto inteligente en el archivo PSD. Composiciones de capas en objetos inteligentes
+title: "SmartObjectResource.CompId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SmartObjectResource. Obtiene o establece el ID del comp seleccionado actualmente para el documento hijo, que será 1 si no hay ninguno seleccionado. Los comps son composiciones de un diseño de página que los diseñadores pueden crear. Usando comps de capa puedes crear, gestionar y ver múltiples versiones de un diseño en un solo archivo de Adobe Photoshop. Un comp de capa es una instantánea del estado del panel Capas. Los comps de capa guardan tres tipos de opciones de capa, pero esta propiedad obtiene el identificador de selección del Layer Comp para la capa de objeto inteligente en el archivo PSD. Comps de capa en Objetos Inteligentes"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-Obtiene o establece el ID de la composición actualmente seleccionada para el documento secundario, que será -1 si no se selecciona ninguna. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Con las composiciones de capas, puede crear, administrar y ver varias versiones de un diseño en un solo archivo de Adobe® Photoshop®. Una composición de capa es una instantánea de un estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de composición de capa para la capa de objeto inteligente en el archivo PSD. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Obtiene o establece el ID de la composición seleccionada actualmente para el documento hijo, que será -1 si no hay ninguna seleccionada. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Usando composiciones de capa, puedes crear, gestionar y ver múltiples versiones de un diseño en un solo archivo Adobe Photoshop. Una composición de capa es una instantánea del estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de la composición de capa para la capa de objeto inteligente en el archivo PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El ID de la composición actualmente seleccionada para el documento secundario en la imagen PSD, que será -1 si no se selecciona ninguno.
+El ID del comp seleccionado actualmente para el documento hijo en la imagen PSD, que será -1 si no hay ninguno seleccionado.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los recursos SoLEResource, SmartObjectResource y PlacedResource.
+El siguiente código demuestra el soporte de los recursos SoLEResource, SmartObjectResource y PlacedResource.
 
 ```csharp
 [C#]
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+    // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Esta identificación única debe cambiarse en las referencias, si las hay
+    // Este Unique Id debe cambiarse en las referencias, si las hay
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -152,15 +153,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     }
 
     // Tenga cuidado con algunos parámetros: la imagen guardada puede volverse ilegible para Adobe® Photoshop®
-    ////recurso.UOrder = 6;
-    ////recurso.VOrden = 9;
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // No cambie esto, de lo contrario no podrá usar la transformación libre
-    // o cambie el objeto inteligente subrayado al tipo de vector
-    ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+    // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+    // o cambie el objeto inteligente subyacente al tipo vector
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Debería haber un PlLdResource válido con este ID único
-    ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Debe haber un PlLdResource válido con este Unique Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -323,12 +325,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-El siguiente código demuestra la compatibilidad con el recurso SoLdResource.
+El siguiente código demuestra el soporte del recurso SoLdResource.
 
 ```csharp
 [C#]
 
-// Este ejemplo muestra cómo obtener o establecer las propiedades de datos de la capa de objeto inteligente del archivo PSD.
+// Este ejemplo muestra cómo obtener o establecer las propiedades de los datos de la capa de objeto inteligente del archivo PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +564,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-                // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+                // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+                // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,19 +610,20 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Esta identificación única debe cambiarse en las referencias, si las hay
+                // Este Unique Id debe cambiarse en las referencias, si las hay
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible con Adobe® Photoshop®
-                ////recurso.UOrder = 6;
-                ////recurso.VOrden = 9;
+                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible para Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // No cambie esto, de lo contrario no podrá usar la transformación libre
-                // o cambie el objeto inteligente subrayado al tipo de vector
-                ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+                // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+                // o cambie el objeto inteligente subyacente al tipo vector
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Debería haber un PlLdResource válido con este ID único
-                ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Debe haber un PlLdResource válido con este Unique Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -635,7 +638,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [SmartObjectResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

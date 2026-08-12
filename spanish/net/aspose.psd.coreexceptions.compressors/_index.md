@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.CoreExceptions.Compressors
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene excepciones generadas por uno de los algoritmos de compresión compatibles.
+title: "Aspose.PSD.CoreExceptions.Compressors"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene excepciones lanzadas por uno de los algoritmos de compresión compatibles"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.coreexceptions.compressors/
 ---
-El espacio de nombres contiene excepciones generadas por uno de los algoritmos de compresión compatibles.
+{{< psd/tize >}}
+El espacio de nombres contiene excepciones lanzadas por uno de los algoritmos de compresión compatibles.
 
 ## Clases
 

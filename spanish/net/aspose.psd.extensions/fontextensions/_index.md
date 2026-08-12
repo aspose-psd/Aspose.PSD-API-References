@@ -1,14 +1,15 @@
 ---
-title: Class FontExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.FontExtensions clase. Contiene métodos de extensión para elFont clase.
+title: "Clase FontExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.FontExtensions. Contiene métodos de extensión para la clase Font."
 type: docs
-weight: 1090
+weight: 1100
 url: /es/net/aspose.psd.extensions/fontextensions/
 ---
+{{< psd/tize >}}
 ## FontExtensions class
 
-Contiene métodos de extensión para el[`Font`](../../aspose.psd/font/) clase.
+Contiene métodos de extensión para la clase [`Font`](../../aspose.psd/font/).
 
 ```csharp
 public static class FontExtensions
@@ -18,12 +19,12 @@ public static class FontExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont)(Font) | Convierte el[`Font`](../../aspose.psd/font/) haciaFont . |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont_1)(Font, GraphicsUnit) | Convierte el[`Font`](../../aspose.psd/font/) haciaFont . |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont)(Font) | Convierte el [`Font`](../../aspose.psd/font/) a Font. |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont_1)(Font, GraphicsUnit) | Convierte el [`Font`](../../aspose.psd/font/) a Font. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

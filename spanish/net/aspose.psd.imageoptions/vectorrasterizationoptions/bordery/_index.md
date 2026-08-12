@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.BorderY
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorRasterizationOptions propiedad. Obtiene o establece el borde Y.
+title: "VectorRasterizationOptions.BorderY"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorRasterizationOptions. Obtiene o establece el borde Y"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.imageoptions/vectorrasterizationoptions/bordery/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderY property
 
 Obtiene o establece el borde Y.
@@ -14,14 +15,14 @@ Obtiene o establece el borde Y.
 public float BorderY { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El borde Y.
 
 ### Ver también
 
 * class [VectorRasterizationOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

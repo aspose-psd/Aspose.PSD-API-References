@@ -1,14 +1,15 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SolidBrush constructor. Inicializa una nueva instancia delSolidBrush clase.
+title: "SolidBrush.SolidBrush"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor SolidBrush. Inicializa una nueva instancia de la clase SolidBrush"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-Inicializa una nueva instancia del[`SolidBrush`](../) clase.
+Inicializa una nueva instancia de la clase [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush()
@@ -17,20 +18,20 @@ public SolidBrush()
 ### Ver también
 
 * class [SolidBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../solidbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-Inicializa una nueva instancia del[`SolidBrush`](../) clase.
+Inicializa una nueva instancia de la clase [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush(Color color)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | color | Color | El color del pincel sólido. |
 
@@ -38,7 +39,7 @@ public SolidBrush(Color color)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../solidbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

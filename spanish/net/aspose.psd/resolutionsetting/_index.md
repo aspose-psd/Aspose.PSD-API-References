@@ -1,14 +1,15 @@
 ---
-title: Class ResolutionSetting
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ResolutionSetting clase. La configuración de resolución para las opciones de guardado de imágenes.
+title: "Clase ResolutionSetting"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ResolutionSetting. La configuración de resolución para las opciones de guardado de imágenes"
 type: docs
-weight: 5380
+weight: 5880
 url: /es/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
-La configuración de resolución para las opciones de guardado de imágenes.
+La configuración de resolución para las opciones de guardado de imagen.
 
 ```csharp
 public class ResolutionSetting
@@ -18,8 +19,8 @@ public class ResolutionSetting
 
 | Nombre | Descripción |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Inicializa una nueva instancia del`ResolutionSetting` clase. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Inicializa una nueva instancia del`ResolutionSetting` clase. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | Inicializa una nueva instancia de la clase `ResolutionSetting`. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Inicializa una nueva instancia de la clase `ResolutionSetting`. |
 
 ## Propiedades
 
@@ -30,7 +31,7 @@ public class ResolutionSetting
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

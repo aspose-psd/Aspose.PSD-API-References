@@ -1,14 +1,15 @@
 ---
-title: Class XmpMeta
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.XmpMeta clase. Representa xmpmeta. Opcional. El propósito de este elemento es identificar los metadatos XMP dentro del texto XML general que podría contener otros usos no XMP de RDF.
+title: "Clase XmpMeta"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.XmpMeta. Representa xmpmeta. Opcional. El propósito de este elemento es identificar los metadatos XMP dentro de un texto XML general que podría contener otros usos no XMP de RDF."
 type: docs
-weight: 6260
+weight: 6760
 url: /es/net/aspose.psd.xmp/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta class
 
-Representa xmpmeta. Opcional. El propósito de este elemento es identificar los metadatos XMP dentro del texto XML general que podría contener otros usos no XMP de RDF.
+Representa xmpmeta. Opcional. El propósito de este elemento es identificar los metadatos XMP dentro de un texto XML general que podría contener otros usos no XMP de RDF.
 
 ```csharp
 public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
@@ -18,14 +19,14 @@ public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
 
 | Nombre | Descripción |
 | --- | --- |
-| [XmpMeta](xmpmeta/#constructor)() | Inicializa una nueva instancia del`XmpMeta` clase. |
-| [XmpMeta](xmpmeta/#constructor_1)(string) | Inicializa una nueva instancia del`XmpMeta` clase. |
+| [XmpMeta](xmpmeta/#constructor)() | Inicializa una nueva instancia de la clase `XmpMeta`. |
+| [XmpMeta](xmpmeta/#constructor_1)(string) | Inicializa una nueva instancia de la clase `XmpMeta`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AdobeXmpToolkit](../../aspose.psd.xmp/xmpmeta/adobexmptoolkit/) { get; set; } | Obtiene o establece la versión del kit de herramientas de Adobe Xmp. |
+| [AdobeXmpToolkit](../../aspose.psd.xmp/xmpmeta/adobexmptoolkit/) { get; set; } | Obtiene o establece la versión del kit de herramientas Adobe Xmp. |
 
 ## Métodos
 
@@ -33,7 +34,7 @@ public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
 | --- | --- |
 | override [AddAttribute](../../aspose.psd.xmp/xmpmeta/addattribute/)(string, string) | Agrega el atributo. |
 | virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | Elimina todos los atributos. |
-| override [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_2)(object) | Determina si el especificadoObject , es igual a esta instancia. |
+| override [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_2)(object) | Determina si el Object especificado es igual a esta instancia. |
 | [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(XmpElementBase) | Indica si el objeto actual es igual a otro objeto del mismo tipo. |
 | [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_1)(XmpMeta) | Indica si el objeto actual es igual a otro objeto del mismo tipo. |
 | virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | Obtiene el atributo. |
@@ -44,7 +45,7 @@ public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
 
 * class [XmpElementBase](../xmpelementbase/)
 * interface [IXmlValue](../ixmlvalue/)
-* espacio de nombres [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

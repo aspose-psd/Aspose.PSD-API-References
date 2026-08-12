@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece un valor que indica si se muestra esta capa. Muestra todas las ilustraciones contenidas en la capa en la mesa de trabajo si es verdadero.
+title: "AiLayerSection.IsShown"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece un valor que indica si esta capa se muestra. Muestra todo el arte contenido en la capa en la mesa de trabajo si es verdadero"
 type: docs
-weight: 90
+weight: 110
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Obtiene o establece un valor que indica si se muestra esta capa. Muestra todas las ilustraciones contenidas en la capa en la mesa de trabajo si es verdadero.
+Obtiene o establece un valor que indica si esta capa se muestra. Muestra todo el arte contenido en la capa en la mesa de trabajo si es verdadero.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si se muestra esta capa; de lo contrario,`FALSO` .
+`true` si esta capa se muestra; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

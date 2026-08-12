@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeGeneralRotation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix campo. Este bit indicador indica que la transformación definida por este objeto realiza una rotación en un ángulo arbitrario además de las conversiones indicadas por otros bits indicadores. Una rotación cambia los ángulos de los vectores en la misma cantidad independientemente de la dirección original del vector y sin cambiando la longitud del vector. Este bit indicador es mutuamente excluyente con el
+title: "Matrix.TypeGeneralRotation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Matrix. Este bit de bandera indica que la transformación definida por este objeto realiza una rotación por un ángulo arbitrario además de las conversiones indicadas por otros bits de bandera. Una rotación cambia los ángulos de los vectores en la misma cantidad sin importar la dirección original del vector y sin cambiar la longitud del vector. Este bit de bandera es mutuamente excluyente con el"
 type: docs
 weight: 210
 url: /es/net/aspose.psd/matrix/typegeneralrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralRotation field
 
-Este bit indicador indica que la transformación definida por este objeto realiza una rotación en un ángulo arbitrario además de las conversiones indicadas por otros bits indicadores. Una rotación cambia los ángulos de los vectores en la misma cantidad independientemente de la dirección original del vector y sin cambiando la longitud del vector. Este bit indicador es mutuamente excluyente con el
+Este bit de bandera indica que la transformación definida por este objeto realiza una rotación por un ángulo arbitrario, además de las conversiones indicadas por otros bits de bandera. Una rotación cambia los ángulos de los vectores en la misma cantidad sin importar la dirección original del vector y sin cambiar la longitud del vector. Este bit de bandera es mutuamente excluyente con el
 
 ```csharp
 public const int TypeGeneralRotation;
@@ -17,7 +18,7 @@ public const int TypeGeneralRotation;
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

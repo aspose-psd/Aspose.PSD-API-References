@@ -1,11 +1,12 @@
 ---
-title: Class FileSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Sources.FileSource clase. Representa una fuente de archivo que es capaz de manipular archivos.
+title: "Clase FileSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Sources.FileSource. Representa una fuente de archivo capaz de manipular archivos"
 type: docs
-weight: 5610
+weight: 6110
 url: /es/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
 Representa una fuente de archivo que es capaz de manipular archivos.
@@ -29,7 +30,7 @@ public abstract class FileSource : Source
 ### Ver también
 
 * class [Source](../../aspose.psd/source/)
-* espacio de nombres [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

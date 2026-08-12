@@ -1,14 +1,15 @@
 ---
-title: VstkResource.Length
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VstkResource propiedad. Obtiene la longitud del recurso de la capa en bytes.
+title: "VstkResource.Length"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VstkResource. Obtiene la longitud del recurso de capa en bytes"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/
 ---
+{{< psd/tize >}}
 ## VstkResource.Length property
 
-Obtiene la longitud del recurso de la capa en bytes.
+Obtiene la longitud del recurso de capa en bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Ver también
 
 * class [VstkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

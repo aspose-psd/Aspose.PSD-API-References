@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesCyanRedBalance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlncResource propiedad. Obtiene o establece el balance de medios tonos cian rojo.
+title: "BlncResource.MidtonesCyanRedBalance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de BlncResource. Obtiene o establece el Balance de Medios tonos Cian Rojo"
 type: docs
-weight: 70
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesCyanRedBalance property
 
-Obtiene o establece el balance de medios tonos cian rojo.
+Obtiene o establece el balance Cyan Rojo de Midtones.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El equilibrio rojo cian de tonos medios.
+El Equilibrio de Cian Rojo de Tonos Medios.
 
 ### Ver también
 
 * class [BlncResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

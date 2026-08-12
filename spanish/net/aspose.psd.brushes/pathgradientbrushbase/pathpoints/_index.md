@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.PathPoints
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PathGradientBrushBase propiedad. Obtiene los puntos de ruta sobre los que se construyó este pincel.
+title: "PathGradientBrushBase.PathPoints"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PathGradientBrushBase. Obtiene los puntos de ruta sobre los que se construyó este pincel"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.brushes/pathgradientbrushbase/pathpoints/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.PathPoints property
 
-Obtiene los puntos de ruta sobre los que se construyó este pincel.
+Obtiene los puntos de ruta sobre los que se construyó este brush.
 
 ```csharp
 public PointF[] PathPoints { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El camino apunta.
+Los puntos de ruta.
 
 ### Ver también
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

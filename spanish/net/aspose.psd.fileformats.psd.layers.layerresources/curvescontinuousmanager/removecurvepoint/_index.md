@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.RemoveCurvePoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurvesContinuousManager método. Elimina el punto de la curva.
+title: "CurvesContinuousManager.RemoveCurvePoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método CurvesContinuousManager. Elimina el punto de la curva"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.RemoveCurvePoint method
 
 Elimina el punto de la curva.
@@ -14,7 +15,7 @@ Elimina el punto de la curva.
 public void RemoveCurvePoint(int channelIndex, int pointIndex)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | channelIndex | Int32 | Índice del canal. |
 | pointIndex | Int32 | Índice del punto. |
@@ -22,7 +23,7 @@ public void RemoveCurvePoint(int channelIndex, int pointIndex)
 ### Ver también
 
 * class [CurvesContinuousManager](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

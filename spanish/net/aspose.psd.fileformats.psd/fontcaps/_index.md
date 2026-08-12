@@ -1,14 +1,15 @@
 ---
-title: Enum FontCaps
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.FontCaps enumeración. Esta es la fuente de referencia.
+title: "Enumeración FontCaps"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.FontCaps enum. Esta es la línea base de la fuente"
 type: docs
-weight: 1640
+weight: 1680
 url: /es/net/aspose.psd.fileformats.psd/fontcaps/
 ---
+{{< psd/tize >}}
 ## FontCaps enumeration
 
-Esta es la fuente de referencia.
+Esta es la línea base de la fuente.
 
 ```csharp
 public enum FontCaps
@@ -18,13 +19,13 @@ public enum FontCaps
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `0` | Sin valor de mayúsculas de fuente. |
-| SmallCaps | `1` | Las versalitas. |
-| AllCaps | `2` | Todo en mayúsculas. |
+| None | `0` | No hay valor de font caps. |
+| SmallCaps | `1` | Las small caps. |
+| AllCaps | `2` | Los all caps. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

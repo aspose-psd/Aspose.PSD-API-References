@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Value
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LyidResource propiedad. Obtiene el valor.
+title: "LyidResource.Value"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LyidResource property. Obtiene el valor"
 type: docs
-weight: 60
+weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
 Obtiene el valor.
@@ -14,14 +15,14 @@ Obtiene el valor.
 public int Value { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor.
 
 ### Ver también
 
 * class [LyidResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Figure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Figure clase. La figura. Un contenedor para formas.
+title: "Clase Figure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Figure. La figura. Un contenedor para formas."
 type: docs
-weight: 1200
+weight: 1210
 url: /es/net/aspose.psd/figure/
 ---
+{{< psd/tize >}}
 ## Figure class
 
 La figura. Un contenedor para formas.
@@ -18,16 +19,16 @@ public class Figure : ObjectWithBounds
 
 | Nombre | Descripción |
 | --- | --- |
-| [Figure](figure/)() | Constructor predeterminado |
+| [Figure](figure/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Bounds](../../aspose.psd/figure/bounds/) { get; } | Obtiene o establece los límites del objeto. |
-| [IsClosed](../../aspose.psd/figure/isclosed/) { get; set; } | Obtiene o establece un valor que indica si esta figura es cerrada. Una figura cerrada hará una diferencia solo en caso de que las formas de la primera y la última figura sean formas continuas. En tal caso, el primer punto de la primera forma estará conectado por una línea recta desde el último punto de la última forma. |
+| [IsClosed](../../aspose.psd/figure/isclosed/) { get; set; } | Obtiene o establece un valor que indica si esta figura está cerrada. Una figura cerrada solo hará una diferencia en el caso en que las formas de la primera y la última figura sean formas continuas. En tal caso, el primer punto de la primera forma se conectará mediante una línea recta con el último punto de la última forma. |
 | [Segments](../../aspose.psd/figure/segments/) { get; } | Obtiene los segmentos completos de la figura. |
-| [Shapes](../../aspose.psd/figure/shapes/) { get; } | Obtiene las formas de las figuras. |
+| [Shapes](../../aspose.psd/figure/shapes/) { get; } | Obtiene las formas de la figura. |
 
 ## Métodos
 
@@ -42,43 +43,43 @@ public class Figure : ObjectWithBounds
 | [Reverse](../../aspose.psd/figure/reverse/)() | Invierte el orden de las formas de esta figura y el orden de los puntos de las formas. |
 | override [Transform](../../aspose.psd/figure/transform/)(Matrix) | Aplica la transformación especificada a la forma. |
 
-### Ejemplos
+## Ejemplos
 
-Estos ejemplos hacen uso de las clases GraphicsPath y Graphics para crear y manipular figuras en una superficie de imagen. El ejemplo crea una nueva imagen y dibuja rutas con la ayuda de la clase GraphicsPath. Al final, se llama al método DrawPath expuesto por la clase Graphics para representar las rutas en la superficie. Finalmente, la imagen se exporta a formato de archivo Tiff.
+Este ejemplo utiliza las clases GraphicsPath y Graphics para crear y manipular Figuras en una superficie de Imagen. El ejemplo crea una nueva Imagen y dibuja rutas con la ayuda de la clase GraphicsPath. Al final se llama al método DrawPath expuesto por la clase Graphics para renderizar las rutas en la superficie. Finalmente, la imagen se exporta al formato de archivo Tiff.
 
 ```csharp
 [C#]
 
-//Crear una instancia de Imagen 
+//Crea una instancia de Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Crear e inicializar una instancia de la clase Graphics
+    //Crea e inicializa una instancia de la clase Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Borrar superficie gráfica
+    //Limpia la superficie Graphics
     graphics.Clear(Color.Wheat);
 
-    //Crear una instancia de la clase GraphicsPath
+    //Crea una instancia de la clase GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Crear una instancia de la clase Figure
+    //Crea una instancia de la clase Figure
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    //Agregar formas al objeto Figura
+    //Agrega formas al objeto Figure
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    //Agregar objeto Figura a GraphicsPath
+    //Agrega el objeto Figure a GraphicsPath
     graphicspath.AddFigure(figure);
 
-    //Dibujar ruta con objeto Pluma de color Negro
+    //Dibuja la ruta con el objeto Pen de color negro
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    //Crear una instancia de TiffOptions y establecer sus diversas propiedades
+    //Crea una instancia de TiffOptions y establece sus diversas propiedades
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
-    // guarda todos los cambios.
+    // Guarda todos los cambios.
     image.Save("C:\\temp\\output.tiff", tiffOptions);
 }
 ```
@@ -86,7 +87,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 ### Ver también
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

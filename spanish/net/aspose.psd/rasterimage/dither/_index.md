@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Dither
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Realiza tramado en la imagen actual.
+title: "RasterImage.Dither"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Realiza dithering en la imagen actual"
 type: docs
 weight: 250
 url: /es/net/aspose.psd/rasterimage/dither/
 ---
+{{< psd/tize >}}
 ## Dither(DitheringMethod, int, IColorPalette) {#dither_1}
 
 Realiza tramado en la imagen actual.
@@ -15,19 +16,19 @@ public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount,
     IColorPalette customPalette)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | ditheringMethod | DitheringMethod | El método de tramado. |
-| bitsCount | Int32 | Los bits finales cuentan para el tramado. |
-| customPalette | IColorPalette | La paleta personalizada para tramado. |
+| bitsCount | Int32 | El recuento final de bits para el tramado. |
+| customPalette | IColorPalette | La paleta personalizada para el tramado. |
 
 ### Ver también
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,16 +40,16 @@ Realiza tramado en la imagen actual.
 public void Dither(DitheringMethod ditheringMethod, int bitsCount)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | ditheringMethod | DitheringMethod | El método de tramado. |
-| bitsCount | Int32 | Los bits finales cuentan para el tramado. |
+| bitsCount | Int32 | El recuento final de bits para el tramado. |
 
 ### Ver también
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

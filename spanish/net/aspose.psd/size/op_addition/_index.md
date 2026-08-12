@@ -1,32 +1,33 @@
 ---
-title: Size.op_Addition
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Size método. Suma el ancho y alto de unoSize estructura a la anchura y altura de otraSizeestructura.
+title: "Size.op_Addition"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Size. Añade el ancho y alto de una estructura Size al ancho y alto de otra estructura Size"
 type: docs
 weight: 140
 url: /es/net/aspose.psd/size/op_addition/
 ---
+{{< psd/tize >}}
 ## Size Addition operator
 
-Suma el ancho y alto de uno[`Size`](../) estructura a la anchura y altura de otra[`Size`](../)estructura.
+Añade el ancho y alto de una estructura [`Size`](../) al ancho y alto de otra estructura [`Size`](../).
 
 ```csharp
 public static Size operator +(Size size1, Size size2)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size1 | Size | La primera[`Size`](../) para agregar |
-| size2 | Size | El segundo[`Size`](../) para agregar |
+| size1 | Size | El primer [`Size`](../) a añadir. |
+| size2 | Size | El segundo [`Size`](../) a añadir. |
 
-### Valor_devuelto
+### Valor devuelto
 
-A[`Size`](../) estructura que es el resultado de la operación de suma.
+Una estructura [`Size`](../) que es el resultado de la operación de suma.
 
 ### Ver también
 
 * struct [Size](../)
-* espacio de nombres [Aspose.PSD](../../size/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

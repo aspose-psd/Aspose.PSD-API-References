@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegExifData constructor. Inicializa una nueva instancia delJpegExifData clase.
+title: "JpegExifData.JpegExifData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "JpegExifData constructor. Inicializa una nueva instancia de la clase JpegExifData"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.exif/jpegexifdata/jpegexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData() {#constructor}
 
-Inicializa una nueva instancia del[`JpegExifData`](../) clase.
+Inicializa una nueva instancia de la clase [`JpegExifData`](../).
 
 ```csharp
 public JpegExifData()
@@ -17,20 +18,20 @@ public JpegExifData()
 ### Ver también
 
 * class [JpegExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../jpegexifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`JpegExifData`](../) clase con datos de array.
+Inicializa una nueva instancia de la clase [`JpegExifData`](../) con datos del arreglo.
 
 ```csharp
 public JpegExifData(TiffDataType[] exifdata)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | exifdata | TiffDataType[] | Matriz de etiquetas EXIF junto con etiquetas comunes y GPS. |
 
@@ -38,20 +39,20 @@ public JpegExifData(TiffDataType[] exifdata)
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../jpegexifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Inicializa una nueva instancia del[`JpegExifData`](../) clase con datos de array.
+Inicializa una nueva instancia de la clase [`JpegExifData`](../) con datos del arreglo.
 
 ```csharp
 public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | commonTags | TiffDataType[] | Las etiquetas comunes. |
 | exifTags | TiffDataType[] | Las etiquetas EXIF. |
@@ -61,7 +62,7 @@ public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffData
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../jpegexifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: PointF.PointF
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PointF constructor. Inicializa una nueva instancia delPointF estructura con las coordenadas especificadas.
+title: "PointF.PointF"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor PointF. Inicializa una nueva instancia de la estructura PointF con las coordenadas especificadas"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-Inicializa una nueva instancia del[`PointF`](../) estructura con las coordenadas especificadas.
+Inicializa una nueva instancia de la estructura [`PointF`](../) con las coordenadas especificadas.
 
 ```csharp
 public PointF(float x, float y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Single | La posición horizontal del punto. |
 | y | Single | La posición vertical del punto. |
@@ -22,7 +23,7 @@ public PointF(float x, float y)
 ### Ver también
 
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

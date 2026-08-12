@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ShmdResource campo. La longitud del encabezado del recurso secundario
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo de ShmdResource. La longitud del encabezado del subrecurso"
 type: docs
-weight: 90
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
-La longitud del encabezado del recurso secundario
+La longitud del encabezado del subrecurso
 
 ```csharp
 public const int SubResourceHeaderLength;
@@ -17,7 +18,7 @@ public const int SubResourceHeaderLength;
 ### Ver también
 
 * class [ShmdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

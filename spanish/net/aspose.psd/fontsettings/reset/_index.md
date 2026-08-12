@@ -1,11 +1,12 @@
 ---
-title: FontSettings.Reset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings método. Restablece la carpeta de fuentes y el nombre de fuente predeterminado al valor predeterminado del sistema.
+title: "FontSettings.Reset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método FontSettings. Restablece la carpeta de fuentes y el nombre de fuente predeterminado al valor predeterminado del sistema"
 type: docs
-weight: 90
+weight: 110
 url: /es/net/aspose.psd/fontsettings/reset/
 ---
+{{< psd/tize >}}
 ## FontSettings.Reset method
 
 Restablece la carpeta de fuentes y el nombre de fuente predeterminado al valor predeterminado del sistema.
@@ -17,7 +18,7 @@ public static void Reset()
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

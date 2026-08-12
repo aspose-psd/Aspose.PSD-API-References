@@ -1,14 +1,15 @@
 ---
-title: Class LayerHashCalculator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator clase. Calculadora hash para capas PSD. Se puede usar para encontrar capas iguales o diferentes en diferentes archivos PSD
+title: "Clase LayerHashCalculator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator. Calculadora de hash para capas PSD. Puede usarse para encontrar capas iguales o diferentes en distintos archivos PSD."
 type: docs
-weight: 2230
+weight: 2430
 url: /es/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-Calculadora hash para capas PSD. Se puede usar para encontrar capas iguales o diferentes en diferentes archivos PSD
+Calculadora de hash para capas PSD. Puede usarse para encontrar capas iguales o diferentes en distintos archivos PSD
 
 ```csharp
 public class LayerHashCalculator
@@ -18,19 +19,19 @@ public class LayerHashCalculator
 
 | Nombre | Descripción |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | Inicializa una nueva instancia del`LayerHashCalculator` clase. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | Inicializa una nueva instancia de la clase `LayerHashCalculator`. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Obtiene el hash combinado. |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Obtiene el hash de los canales. |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Obtiene el hash de fusión. |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Obtiene el hash de canales. |
 | [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Obtiene el hash de contenido. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la API para obtener el hash único para capas similares en diferentes archivos.
+El siguiente código muestra la API para obtener el hash único de capas similares en diferentes archivos.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ El siguiente código demuestra la API para obtener el hash único para capas sim
 /// <summary>
 /// Obtiene el nombre de la capa por.
 /// </summary>
-/// <typeparam nombre="T"></typeparam>
+/// <typeparam name="T"></typeparam>
 /// <param name="image">La imagen.</param>
 /// <param name="name">El nombre.</param>
 /// <returns></returns>
@@ -57,11 +58,11 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Ares el no igual.
+/// Ares la no igualdad.
 /// </summary>
-/// <typeparam nombre="T"></typeparam>
-/// <param name="esperado">El esperado.</param>
-/// <param name="actual">El real.</param>
+/// <typeparam name="T"></typeparam>
+/// <param name="expected">El esperado.</param>
+/// <param name="actual">El actual.</param>
 /// <exception cref="System.Exception">Los argumentos no deben ser iguales</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
@@ -72,11 +73,11 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ares el igual.
+/// Ares la igualdad.
 /// </summary>
-/// <typeparam nombre="T"></typeparam>
-/// <param name="esperado">El esperado.</param>
-/// <param name="actual">El real.</param>
+/// <typeparam name="T"></typeparam>
+/// <param name="expected">El esperado.</param>
+/// <param name="actual">El actual.</param>
 /// <exception cref="System.Exception">Los argumentos deben ser iguales</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
@@ -87,7 +88,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Regulariza la prueba hash del contenido de la capa.
+/// Regulars la prueba de hash de contenido de la capa.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -114,7 +115,7 @@ public static void RegularLayerContentHashTest(string fileName)
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Comprobar el hash del modo de fusión 
+        // Verifica el hash del modo de fusión 
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
@@ -127,7 +128,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Rellena la prueba hash del contenido de la capa.
+/// Rellena la prueba de hash de contenido de la capa.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Capas similares siempre están en un índice
+            // Las capas similares siempre están en el mismo índice
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,7 +163,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Smarts la prueba de hash de contenido de capa de objeto.
+/// Smarts la prueba de hash de contenido de la capa de objeto.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Los datos del canal son iguales para Layer y Createad a partir de ellos Smart Objects.
+        // Los datos del canal son iguales para la capa y creados a partir de ellos objetos inteligentes.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Content Hash es diferente, porque Smart Object usa otros datos como contenido
+        // El hash de contenido es diferente, porque el objeto inteligente usa otros datos como contenido.
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Pero mezclar hash es similar. Ambas capas, inteligente y normal, tienen el modo de fusión normal y la opacidad 255
+        // Pero el hash de mezcla es similar. Ambas capas - inteligente y regular tienen el modo Normal Blend y opacidad 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Los datos del canal son iguales para Layer y Createad a partir de ellos Smart Objects.
+        // Los datos del canal son iguales para la capa y creados a partir de ellos objetos inteligentes.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Content Hash es diferente, porque Smart Object usa otros datos como contenido
+        // El hash de contenido es diferente, porque el objeto inteligente usa otros datos como contenido.
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Pero mezclar hash es similar. Ambas capas, inteligente y normal, tienen el modo de fusión normal y la opacidad 255
+        // Pero el hash de mezcla es similar. Ambas capas - inteligente y regular tienen el modo Normal Blend y opacidad 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,7 +215,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Ajusta la prueba de hash del contenido de las capas.
+/// Ajustes la prueba de hash del contenido de capas.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -258,7 +259,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Envía mensajes de texto a la prueba hash del contenido de las capas.
+/// Textos la prueba de hash del contenido de capas.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -302,18 +303,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // La matriz de transformación no se usa en el cálculo hash. Deberías revisarlo adicionalmente
+        // La matriz de transformación no se usa en el cálculo del hash. Deberías comprobarla adicionalmente.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // En este caso tenemos una rotación en matriz
+        // En este caso tenemos una rotación en la matriz
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // En este caso solo tenemos traducción (Capa de texto desplazada a continuación)
+        // En este caso solo tenemos traslación (Capa de texto desplazada abajo)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Agrupa la prueba hash del contenido de la capa.
+/// Grupos la prueba de hash del contenido de la capa.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -333,14 +334,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Group Layer Hash se calcula a partir de las capas de su interior
+        // El hash del grupo de capas se calcula a partir de las capas dentro de él
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Regulariza el contenido de la capa de diferentes archivos hash test.
+/// Regulares la prueba de hash del contenido de la capa de diferentes archivos.
 /// </summary>
 /// <param name="fileName">Nombre del archivo.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -361,7 +362,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // Las capas tienen diferentes punteros
+                // Las capas tienen punteros diferentes
                 AreNotEqual(layer, layer_copied);
 
                 // Pero el hash de las capas es igual
@@ -377,7 +378,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

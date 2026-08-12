@@ -1,406 +1,407 @@
 ---
-title: Region.IsVisible
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Region método. Comprueba si el punto especificado está contenido dentro de esteRegion .
+title: "Region.IsVisible"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Region. Comprueba si el punto especificado está contenido dentro de este Region."
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.psd/region/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_11}
 
-Comprueba si el punto especificado está contenido dentro de este[`Region`](../) .
+Comprueba si el punto especificado está contenido dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(float x, float y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Single | La coordenada x del punto a probar. |
 | y | Single | La coordenada y del punto a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Verdadero cuando el punto especificado está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+Verdadero cuando el punto especificado está contenido dentro de este [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Comprueba si el especificado[`PointF`](../../pointf/) estructura está contenida dentro de este[`Region`](../) .
+Comprueba si la estructura [`PointF`](../../pointf/) especificada está contenida dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(PointF point)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../../pointf/) estructura a probar. |
+| point | PointF | La estructura [`PointF`](../../pointf/) a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando*point* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+verdadero cuando *point* está contenido dentro de este [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * struct [PointF](../../pointf/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_12}
 
-Comprueba si el punto especificado está contenido dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si el punto especificado está contenido dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Single | La coordenada x del punto a probar. |
 | y | Single | La coordenada y del punto a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Verdadero cuando el punto especificado está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+Verdadero cuando el punto especificado está contenido dentro de este [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Comprueba si el especificado[`PointF`](../../pointf/) estructura está contenida dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si la estructura [`PointF`](../../pointf/) especificada está contenida dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(PointF point, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../../pointf/) estructura a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| point | PointF | La estructura [`PointF`](../../pointf/) a probar. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando*point* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+verdadero cuando *point* está contenido dentro de este [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float) {#isvisible_13}
 
-Comprueba si alguna parte del rectángulo especificado está contenida dentro de este[`Region`](../) .
+Comprueba si alguna porción del rectángulo especificado está contenida dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Single | La coordenada x de la esquina superior izquierda del rectángulo a probar. |
 | y | Single | La coordenada y de la esquina superior izquierda del rectángulo a probar. |
 | width | Single | El ancho del rectángulo a probar. |
 | height | Single | La altura del rectángulo a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando cualquier parte del rectángulo especificado está contenido dentro de este[`Region`](../) objeto; de lo contrario, false.
+verdadero cuando alguna porción del rectángulo especificado está contenida dentro de este objeto [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF) {#isvisible_6}
 
-Comprueba si alguna parte del valor especificado[`RectangleF`](../../rectanglef/) estructura está contenida dentro de este[`Region`](../) .
+Comprueba si alguna porción de la estructura [`RectangleF`](../../rectanglef/) especificada está contenida dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(RectangleF rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | RectangleF | El[`RectangleF`](../../rectanglef/) estructura a probar. |
+| rect | RectangleF | La estructura [`RectangleF`](../../rectanglef/) a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando cualquier porción de*rect* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando cualquier parte de *rect* está contenido dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float, Graphics) {#isvisible_14}
 
-Comprueba si alguna parte del rectángulo especificado está contenida dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si cualquier parte del rectángulo especificado está contenida dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Single | La coordenada x de la esquina superior izquierda del rectángulo a probar. |
 | y | Single | La coordenada y de la esquina superior izquierda del rectángulo a probar. |
 | width | Single | El ancho del rectángulo a probar. |
 | height | Single | La altura del rectángulo a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando cualquier parte del rectángulo especificado está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando cualquier parte del rectángulo especificado está contenida dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF, Graphics) {#isvisible_7}
 
-Comprueba si alguna parte del valor especificado[`RectangleF`](../../rectanglef/) estructura está contenida dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si cualquier parte de la estructura [`RectangleF`](../../rectanglef/) especificada está contenida dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(RectangleF rect, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | RectangleF | El[`RectangleF`](../../rectanglef/) estructura a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| rect | RectangleF | La estructura [`RectangleF`](../../rectanglef/) a probar. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando*rect* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando *rect* está contenido dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_8}
 
-Comprueba si el punto especificado está contenido dentro de este[`Region`](../) objeto cuando se dibuja usando el especificado[`Graphics`](../../graphics/) objeto.
+Comprueba si el punto especificado está contenido dentro de este objeto [`Region`](../) cuando se dibuja usando el objeto [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Int32 | La coordenada x del punto a probar. |
 | y | Int32 | La coordenada y del punto a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando el punto especificado está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando el punto especificado está contenido dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Comprueba si el especificado[`Point`](../../point/) estructura está contenida dentro de este[`Region`](../) .
+Comprueba si la estructura [`Point`](../../point/) especificada está contenida dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(Point point)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | Point | El[`Point`](../../point/) estructura a probar. |
+| point | Point | La estructura [`Point`](../../point/) a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando*point* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+verdadero cuando *point* está contenido dentro de este [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * struct [Point](../../point/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Comprueba si el especificado[`Point`](../../point/) estructura está contenida dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si la estructura [`Point`](../../point/) especificada está contenida dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(Point point, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | Point | El[`Point`](../../point/) estructura a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| point | Point | La estructura [`Point`](../../point/) a probar. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando*point* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+verdadero cuando *point* está contenido dentro de este [`Region`](../); de lo contrario, falso.
 
 ### Ver también
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int) {#isvisible_9}
 
-Comprueba si alguna parte del rectángulo especificado está contenida dentro de este[`Region`](../) .
+Comprueba si alguna porción del rectángulo especificado está contenida dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo a probar. |
 | y | Int32 | La coordenada y de la esquina superior izquierda del rectángulo a probar. |
 | width | Int32 | El ancho del rectángulo a probar. |
 | height | Int32 | La altura del rectángulo a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando cualquier parte del rectángulo especificado está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando cualquier parte del rectángulo especificado está contenida dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle) {#isvisible_4}
 
-Comprueba si alguna parte del valor especificado[`Rectangle`](../../rectangle/) estructura está contenida dentro de este[`Region`](../) .
+Comprueba si cualquier parte de la estructura [`Rectangle`](../../rectangle/) especificada está contenida dentro de este [`Region`](../).
 
 ```csharp
 public bool IsVisible(Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El[`Rectangle`](../../rectangle/) estructura a probar. |
+| rect | Rectangle | La estructura [`Rectangle`](../../rectangle/) a probar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Este método devuelve verdadero cuando cualquier parte de*rect* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+Este método devuelve true cuando cualquier parte de *rect* está contenida dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int, Graphics) {#isvisible_10}
 
-Comprueba si alguna parte del rectángulo especificado está contenida dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si cualquier parte del rectángulo especificado está contenida dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo a probar. |
 | y | Int32 | La coordenada y de la esquina superior izquierda del rectángulo a probar. |
 | width | Int32 | El ancho del rectángulo a probar. |
 | height | Int32 | La altura del rectángulo a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando cualquier parte del rectángulo especificado está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando cualquier parte del rectángulo especificado está contenida dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle, Graphics) {#isvisible_5}
 
-Comprueba si alguna parte del valor especificado[`Rectangle`](../../rectangle/) estructura está contenida dentro de este[`Region`](../) cuando se dibuja usando el especificado[`Graphics`](../../graphics/) .
+Comprueba si cualquier parte de la estructura [`Rectangle`](../../rectangle/) especificada está contenida dentro de este [`Region`](../) cuando se dibuja usando el [`Graphics`](../../graphics/) especificado.
 
 ```csharp
 public bool IsVisible(Rectangle rect, Graphics g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El[`Rectangle`](../../rectangle/) estructura a probar. |
-| g | Graphics | A[`Graphics`](../../graphics/) que representa un contexto gráfico. |
+| rect | Rectangle | La estructura [`Rectangle`](../../rectangle/) a probar. |
+| g | Graphics | Un [`Graphics`](../../graphics/) que representa un contexto gráfico. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero cuando cualquier parte del*rect* está contenido dentro de este[`Region`](../) ; de lo contrario, false.
+true cuando cualquier parte del *rect* está contenida dentro de este [`Region`](../); de lo contrario, false.
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

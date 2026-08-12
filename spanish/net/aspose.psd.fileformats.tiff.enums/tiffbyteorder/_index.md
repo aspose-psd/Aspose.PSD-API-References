@@ -1,11 +1,12 @@
 ---
-title: Enum TiffByteOrder
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enumeración. El orden de bytes para la imagen tiff
+title: "Enum TiffByteOrder"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enum. Orden de bytes para la imagen tiff."
 type: docs
-weight: 4040
+weight: 4510
 url: /es/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
 El orden de bytes para la imagen tiff
@@ -23,7 +24,7 @@ public enum TiffByteOrder
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

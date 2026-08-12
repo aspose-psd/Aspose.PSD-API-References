@@ -1,14 +1,15 @@
 ---
-title: Enum TiffFileStandards
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enumeración. Especifica los estándares de formato de archivo TIFF.
+title: "Enumeración TiffFileStandards"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enum. Especifica los estándares del formato de archivo TIFF."
 type: docs
-weight: 4080
+weight: 4550
 url: /es/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
+{{< psd/tize >}}
 ## TiffFileStandards enumeration
 
-Especifica los estándares de formato de archivo TIFF.
+Especifica los estándares del formato de archivo TIFF.
 
 ```csharp
 public enum TiffFileStandards : ushort
@@ -18,12 +19,12 @@ public enum TiffFileStandards : ushort
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Baseline | `0` | El estándar de archivos Baseline TIFF 6.0. Este estándar se conoce formalmente como TIFF 6.0, Parte 1: Baseline TIFF. |
-| Extended | `1` | El estándar de archivo Extended TIFF 6.0. Este estándar se conoce formalmente como Extended TIFF 6.0, Parte 2: TIFF Extensions. |
+| Baseline | `0` | El estándar de archivo Baseline TIFF 6.0. Este estándar se conoce formalmente como TIFF 6.0, Parte 1: Baseline TIFF. |
+| Extended | `1` | El estándar de archivo Extended TIFF 6.0. Este estándar se conoce formalmente como Extended TIFF 6.0, Parte 2: Extensiones TIFF. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

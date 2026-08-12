@@ -1,14 +1,15 @@
 ---
-title: Class LiFeDataSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource clase. Define la clase LnkeDataSource que contiene información sobre el archivo vinculado externo. Esto es parte de la API de manipulación de formato de archivo PSD que ayuda a modificar los archivos de Adobe Photoshop
+title: "Clase LiFeDataSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource. Define la clase LnkeDataSource que contiene información sobre un archivo externo vinculado. Forma parte de la API de Manipulación de Formato de Archivo PSD que ayuda a modificar archivos de Adobe Photoshop."
 type: docs
-weight: 2680
+weight: 2980
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-Define la clase LnkeDataSource que contiene información sobre el archivo vinculado externo. Esto es parte de la API de manipulación de formato de archivo PSD que ayuda a modificar los archivos de Adobe® Photoshop®
+Define la clase LnkeDataSource que contiene información sobre un archivo vinculado externo. Esto es parte de la API de manipulación del formato de archivo PSD que ayuda a modificar archivos Adobe® Photoshop®.
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
@@ -18,40 +19,40 @@ public class LiFeDataSource : LinkDataSource
 
 | Nombre | Descripción |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | Inicializa una nueva instancia del`LiFeDataSource` clase. |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Inicializa una nueva instancia del`LiFeDataSource` clase. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Inicializa una nueva instancia de la clase `LiFeDataSource`. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Inicializa una nueva instancia de la clase `LiFeDataSource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Obtiene o establece la biblioteca de gráficos AdobeStockId, para las bibliotecas de Adobe® Photoshop® CC. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Obtiene el estado de la licencia de Adobe Stock, si está disponible, para las bibliotecas de Adobe® Photoshop® CC. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Obtiene o establece un valor que indica si el recurso PSD está bloqueado. El estado de bloqueo del recurso, para los recursos de las bibliotecas de Adobe® Photoshop® СС. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Obtiene o establece la hora de modificación del recurso, para los recursos de las bibliotecas de Adobe® Photoshop® СС. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Obtiene o establece el identificador de documento secundario en la fuente de datos liFE o liFD del recurso Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Obtiene o establece el ID de la composición actualmente seleccionada para el documento secundario, que será -1 si no se selecciona ninguna. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Con las composiciones de capas, puede crear, administrar y ver varias versiones de un diseño en un solo archivo de Adobe® Photoshop®. Una composición de capa es una instantánea de un estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de composición de capa para objetos inteligentes. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Obtiene o establece la última fecha y hora de escritura del archivo externo en la fuente de datos LiFE del recurso PSD LnkE. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Obtiene o establece el nombre del elemento de la biblioteca de gráficos, para las bibliotecas de Adobe® Photoshop® CC. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Obtiene o establece la referencia del elemento de la biblioteca de gráficos, para las bibliotecas de Adobe® Photoshop® CC. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Obtiene o establece el creador del archivo en formato PSD LnkE / Lnk2 resource. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Obtiene o establece el nombre del archivo externo o incrustado en el recurso de enlace PSD . |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Obtiene o establece la biblioteca gráfica AdobeStockId, para las Bibliotecas Adobe® Photoshop® CC. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Obtiene el estado de la licencia Adobe Stock si está disponible, para las bibliotecas Adobe® Photoshop® CC. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Obtiene o establece un valor que indica si el recurso PSD está bloqueado. El estado bloqueado del recurso, para los recursos de Adobe® Photoshop® СС Libraries. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Obtiene o establece la hora de modificación del recurso, para los recursos de Adobe® Photoshop® СС Libraries. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Obtiene o establece el identificador del documento hijo en la fuente de datos liFE o liFD del recurso Lnk2 / LnkE de Adobe® Photoshop®. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Obtiene o establece el ID de la composición (comp) actualmente seleccionada para el documento hijo, que será -1 si no hay ninguna seleccionada. Las composiciones son combinaciones de un diseño de página que los diseñadores pueden crear. Usando composiciones de capas, puedes crear, gestionar y ver múltiples versiones de un diseño en un solo archivo de Adobe® Photoshop®. Una composición de capa es una captura instantánea del estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de la composición de capa para objetos inteligentes. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Obtiene o establece la fecha y hora de la última escritura del archivo externo en la fuente de datos LiFE del recurso PSD LnkE. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Obtiene o establece el nombre del elemento de la biblioteca gráfica, para Adobe® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Obtiene o establece la referencia del elemento de la biblioteca gráfica, para Adobe® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Obtiene o establece el creador del archivo en el recurso de formato PSD LnkE / Lnk2. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Obtiene o establece el nombre del archivo externo o incrustado en el recurso de enlace PSD. |
 | [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Obtiene o establece el tamaño del archivo externo en la fuente de datos LiFE del recurso PSD LnkE. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Obtiene o establece el tipo de archivo incrustado o externo que contiene o vincula el recurso Adobe® Photoshop® Lnk2 / LnkE. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Obtiene o establece el tipo del archivo incrustado o externo que el recurso Adobe® Photoshop® Lnk2 / LnkE contiene o enlaza. |
 | [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Obtiene o establece la ruta completa del archivo externo en la fuente de datos LiFE del recurso PSD LnkE. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Obtiene o establece un valor que indica si esta fuente de datos de vínculo tiene el descriptor de apertura de archivo: CompId y OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Obtiene un valor que indica si esta fuente de datos de vínculo PSD se vincula con el elemento de la biblioteca de Adobe® Photoshop® СС. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Obtiene la longitud del origen de datos del vínculo en bytes. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Obtiene el ID original del Comp seleccionado actualmente para el documento secundario, que será -1 si no se selecciona ninguno. Esta propiedad obtiene el identificador de selección de Comp de capa original para objetos inteligentes. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Obtiene el nombre de archivo original de la fuente de datos en el recurso de vínculo global de Adobe® Photoshop®. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Obtiene o establece un valor que indica si esta fuente de datos de enlace tiene el descriptor de archivo abierto: CompId y OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Obtiene un valor que indica si esta fuente de datos de enlace PSD enlaza al elemento de la Biblioteca Adobe® Photoshop® СС. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Obtiene la longitud de la fuente de datos de enlace en bytes. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Obtiene el ID original de la Comp (composición) actualmente seleccionada para el documento hijo, que será -1 si no hay ninguna seleccionada. Esta propiedad obtiene el identificador de selección de la composición de capa original para objetos inteligentes. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Obtiene el nombre de archivo original de la fuente de datos en el recurso de enlace global de Adobe® Photoshop®. |
 | [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Obtiene o establece la ruta relativa del archivo externo en la fuente de datos LiFE del recurso PSD LnkE. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Obtiene el tipo de fuente de datos de vínculo global de Adobe® Photoshop® que puede ser uno de los siguientes o ninguno: El archivo vinculado incrustado liFD que corresponde al PSD Lnk2Resource El archivo vinculado externo liFE que corresponde al PSD LnkeResource El archivo vinculado alias liFA |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Obtiene el tipo de fuente de datos de enlace global de Adobe® Photoshop® que puede ser uno de los siguientes o ninguno: el archivo enlazado incrustado liFD que corresponde al recurso PSD Lnk2, el archivo enlazado externo liFE que corresponde al recurso PSD Lnke, el alias de archivo enlazado liFA. |
 | [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Obtiene el identificador único global de la fuente de datos en el recurso de enlace PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Obtiene la versión de la fuente de datos en el recurso PSD LnkE/Lnk2. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Obtiene la versión de la fuente de datos en el recurso PSD LnkE / Lnk2. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra cómo obtener y establecer propiedades del recurso Psd LnkE.
+Este ejemplo muestra cómo obtener y establecer propiedades del recurso Psd LnkE.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Este ejemplo demuestra cómo obtener y establecer propiedades del recurso Psd LnkE que contiene información sobre un archivo vinculado externo.
+// Este ejemplo muestra cómo obtener y establecer propiedades del recurso Psd LnkE que contiene información sobre un archivo enlazado externo.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -142,14 +143,14 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Este ejemplo demuestra cómo obtener y establecer las propiedades del Psd LnkeResource que contiene información sobre un archivo JPEG vinculado externo.
+// Este ejemplo muestra cómo obtener y establecer propiedades del recurso Psd LnkeResource que contiene información sobre un archivo JPEG enlazado externamente.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
     0x26c,
     0x274,
     0x27c,
-    @"file:///C:/Usuarios/cvallejo/Escritorio/foto.jpg",
+    @"file:///C:/Users/cvallejo/Desktop/photo.jpg",
     "05/09/2017 22:24:51",
     0,
     "F062B9DB73E8D124167A4186E54664B0",
@@ -161,7 +162,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Este ejemplo demuestra cómo obtener y establecer las propiedades del PSD LnkeResource que contiene información sobre un archivo PNG vinculado externo.
+// Este ejemplo muestra cómo obtener y establecer propiedades del recurso PSD LnkeResource que contiene información sobre un archivo PNG enlazado externamente.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -180,7 +181,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Este ejemplo demuestra cómo obtener y establecer las propiedades del PSD LnkeResource que contiene información sobre dos archivos PNG y PSD vinculados externamente.
+// Este ejemplo muestra cómo obtener y establecer propiedades del PSD LnkeResource que contiene información sobre dos archivos PNG y PSD vinculados externamente.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Este ejemplo demuestra cómo obtener y establecer propiedades de Photoshop Psd LnkeResource que contiene información sobre un recurso de bibliotecas CC vinculado externo.
+// Este ejemplo muestra cómo obtener y establecer propiedades del Photoshop Psd LnkeResource que contiene información sobre un recurso de CC Libraries vinculado externamente.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -219,7 +220,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-El código siguiente demuestra la compatibilidad con el recurso LnkeResource.
+El siguiente código muestra el soporte del recurso LnkeResource.
 
 ```csharp
 [C#]
@@ -444,7 +445,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### Ver también
 
 * class [LinkDataSource](../linkdatasource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

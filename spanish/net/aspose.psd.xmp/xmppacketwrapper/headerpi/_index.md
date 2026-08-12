@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPacketWrapper propiedad. Obtiene la instrucción de procesamiento del encabezado.
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad XmpPacketWrapper. Obtiene la instrucción de procesamiento del encabezado"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
 Obtiene la instrucción de procesamiento del encabezado.
@@ -14,7 +15,7 @@ Obtiene la instrucción de procesamiento del encabezado.
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La instrucción de procesamiento del encabezado.
 
@@ -22,7 +23,7 @@ La instrucción de procesamiento del encabezado.
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

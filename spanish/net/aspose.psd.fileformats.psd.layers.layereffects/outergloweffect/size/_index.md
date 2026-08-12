@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OuterGlowEffect propiedad. Obtiene el valor de desenfoque en píxeles.
+title: "OuterGlowEffect.Size"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OuterGlowEffect propiedad. Obtiene el valor de desenfoque en píxeles"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
 Obtiene el valor de desenfoque en píxeles.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tamaño.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con OuterGlowEffect.
+El siguiente código demuestra el soporte de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Ver también
 
 * class [OuterGlowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

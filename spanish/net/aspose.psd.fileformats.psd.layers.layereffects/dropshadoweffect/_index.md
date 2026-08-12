@@ -1,14 +1,15 @@
 ---
-title: Class DropShadowEffect
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect clase. Efecto de capa de sombra paralela
+title: "Clase DropShadowEffect"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect. Efecto de capa de sombra paralela"
 type: docs
-weight: 2120
+weight: 2310
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-Efecto de capa de sombra paralela
+Efecto de capa de sombra paralela.
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
@@ -23,22 +24,28 @@ public class DropShadowEffect : IShadowEffect
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Obtiene o establece el color. |
 | [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Obtiene o establece la distancia en píxeles. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Obtiene un tipo de efecto |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está visible. |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Obtiene o establece un valor que indica si [noquea]. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Obtiene o establece un valor que indica si esta instancia es visible. |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Obtiene o establece un valor que indica si [knocks out]. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Obtiene o establece el ruido. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Obtiene o establece la opacidad. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Obtiene o establece el valor de desenfoque en píxeles. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Obtiene o establece la intensidad en porcentaje. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Obtiene o establece un valor que indica si [usar este ángulo en todos los efectos de capa]. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Obtiene o establece la intensidad como un porcentaje. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Obtiene o establece un valor que indica si [use this angle in all of the layer effects]. |
 
-### Ejemplos
+## Métodos
 
-El siguiente código muestra la compatibilidad con la propiedad PsdImage.GlobalAngle para cambiar el valor del ángulo global.
+| Nombre | Descripción |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | Calcula y obtiene los límites de los píxeles del efecto basándose en los límites de los píxeles de la capa de entrada. |
+
+## Ejemplos
+
+El siguiente código demuestra el soporte de la propiedad PsdImage.GlobalAngle para cambiar el valor del ángulo global.
 
 ```csharp
 [C#]
 
-// Cuando la propiedad DropShadowEffect.UseGlobalLight es 'verdadera', entonces el objeto DropShadowEffect usa el valor de ángulo de la propiedad PsdImage.GlobalAngle.
+// Cuando la propiedad DropShadowEffect.UseGlobalLight es 'true', el objeto DropShadowEffect utiliza el valor del ángulo de la propiedad PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -64,11 +71,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Ejemplo con Opacidad = 20
+    // Ejemplo con Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Ejemplo con Opacidad = 200
+    // Ejemplo con Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -77,7 +84,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Ver también
 
 * interface [IShadowEffect](../ishadoweffect/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

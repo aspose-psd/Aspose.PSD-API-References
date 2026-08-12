@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo clase. Escriba información de línea de herramienta.
+title: "Clase TypeToolLineInfo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo. Información de línea de herramienta de tipo"
 type: docs
-weight: 3310
+weight: 3700
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-Escriba información de línea de herramienta.
+Información de línea de la herramienta de texto.
 
 ```csharp
 public class TypeToolLineInfo
@@ -18,7 +19,7 @@ public class TypeToolLineInfo
 
 | Nombre | Descripción |
 | --- | --- |
-| [TypeToolLineInfo](typetoollineinfo/)() | Constructor predeterminado |
+| [TypeToolLineInfo](typetoollineinfo/)() | El constructor predeterminado. |
 
 ## Propiedades
 
@@ -30,11 +31,11 @@ public class TypeToolLineInfo
 
 | Nombre | Descripción |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Guarda el`TypeToolLineInfo` información al contenedor de flujo especificado. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Guarda la información de `TypeToolLineInfo` en el contenedor de flujo especificado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

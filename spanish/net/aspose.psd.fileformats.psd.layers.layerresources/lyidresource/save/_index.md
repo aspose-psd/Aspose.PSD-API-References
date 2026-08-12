@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LyidResource método. Guarda en el contenedor de flujo especificado.
+title: "LyidResource.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LyidResource method. Guarda en el contenedor de flujo especificado"
 type: docs
-weight: 70
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/
 ---
+{{< psd/tize >}}
 ## LyidResource.Save method
 
 Guarda en el contenedor de flujo especificado.
@@ -14,7 +15,7 @@ Guarda en el contenedor de flujo especificado.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | streamContainer | StreamContainer | El contenedor de flujo. |
 | psdVersion | Int32 | La versión PSD. |
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LyidResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

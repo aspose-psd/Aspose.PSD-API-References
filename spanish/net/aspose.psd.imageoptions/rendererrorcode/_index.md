@@ -1,14 +1,15 @@
 ---
-title: Enum RenderErrorCode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageOptions.RenderErrorCode enumeración. Representa posibles secciones faltantes en el archivo CAD
+title: "Enumeración RenderErrorCode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.ImageOptions.RenderErrorCode. Representa posibles secciones faltantes en un archivo CAD"
 type: docs
-weight: 4920
+weight: 5410
 url: /es/net/aspose.psd.imageoptions/rendererrorcode/
 ---
+{{< psd/tize >}}
 ## RenderErrorCode enumeration
 
-Representa posibles secciones faltantes en el archivo CAD
+Representa posibles secciones faltantes en un archivo CAD.
 
 ```csharp
 public enum RenderErrorCode
@@ -19,14 +20,14 @@ public enum RenderErrorCode
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
 | MissingHeader | `0` | Falta el encabezado |
-| MissingLayouts | `1` | Falta información de diseños |
-| MissingBlocks | `2` | Falta información del bloque |
-| MissingDimensionStyles | `3` | Falta información de estilos de cota |
-| MissingStyles | `4` | Falta información de estilos |
+| MissingLayouts | `1` | Falta la información de diseños |
+| MissingBlocks | `2` | Falta la información del bloque |
+| MissingDimensionStyles | `3` | Falta la información de estilos de dimensión |
+| MissingStyles | `4` | Falta la información de estilos |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

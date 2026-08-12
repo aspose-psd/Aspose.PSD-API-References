@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhflResourceVersion2 propiedad. Obtiene la versión.
+title: "PhflResourceVersion2.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PhflResourceVersion2 propiedad. Obtiene la versión"
 type: docs
-weight: 90
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Version property
 
 Obtiene la versión.
@@ -14,7 +15,7 @@ Obtiene la versión.
 public override short Version { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión.
 
@@ -27,7 +28,7 @@ La versión.
 ### Ver también
 
 * class [PhflResourceVersion2](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

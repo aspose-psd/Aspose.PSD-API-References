@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.Txt2Resource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Txt2Resource constructor. Constructor predeterminado
+title: "Txt2Resource.Txt2Resource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor Txt2Resource. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/txt2resource/
 ---
+{{< psd/tize >}}
 ## Txt2Resource constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public Txt2Resource()
@@ -17,7 +18,7 @@ public Txt2Resource()
 ### Ver también
 
 * class [Txt2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

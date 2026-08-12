@@ -1,11 +1,12 @@
 ---
-title: Layer.BitsPerPixel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene el recuento de bits por píxel de la imagen.
+title: "Layer.BitsPerPixel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene el recuento de bits por píxel de la imagen"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Layer.BitsPerPixel property
 
 Obtiene el recuento de bits por píxel de la imagen.
@@ -14,14 +15,14 @@ Obtiene el recuento de bits por píxel de la imagen.
 public override int BitsPerPixel { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los bits de imagen por píxel cuentan.
+El recuento de bits por píxel de la imagen.
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

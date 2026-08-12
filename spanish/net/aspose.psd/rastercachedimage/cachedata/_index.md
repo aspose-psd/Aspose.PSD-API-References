@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.CacheData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterCachedImage método. Almacena en caché los datos y garantiza que no se realizará ninguna carga de datos adicional desde el servidor subyacente.DataStreamContainer .
+title: "RasterCachedImage.CacheData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterCachedImage. Almacena en caché los datos y garantiza que no se carguen datos adicionales desde el DataStreamContainer subyacente"
 type: docs
 weight: 80
 url: /es/net/aspose.psd/rastercachedimage/cachedata/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.CacheData method
 
-Almacena en caché los datos y garantiza que no se realizará ninguna carga de datos adicional desde el servidor subyacente.[`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) .
+Almacena en caché los datos y garantiza que no se carguen datos adicionales desde el [`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/).
 
 ```csharp
 public override void CacheData()
@@ -17,7 +18,7 @@ public override void CacheData()
 ### Ver también
 
 * class [RasterCachedImage](../)
-* espacio de nombres [Aspose.PSD](../../rastercachedimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LclrResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource clase. Class LclrResource. Este recurso contiene información sobre el color de la capa en la lista de capas es PS. Es solo
+title: "Clase LclrResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource clase. Clase LclrResource. Este recurso contiene información sobre el color de la capa en la lista de capas de PS. Su único"
 type: docs
-weight: 2620
+weight: 2930
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-Class LclrResource. Este recurso contiene información sobre el color de la capa en la lista de capas es PS. Es solo
+Clase LclrResource. Este recurso contiene información sobre el color de la capa en la lista de capas de PS. Sólo eso
 
 ```csharp
 public class LclrResource : LayerResource
@@ -18,26 +19,26 @@ public class LclrResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | Inicializa una nueva instancia del`LclrResource` clase. |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | Inicializa una nueva instancia del`LclrResource` clase. |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Inicializa una nueva instancia del`LclrResource` clase. |
+| [LclrResource](lclrresource/#constructor)() | Inicializa una nueva instancia de la clase `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | Inicializa una nueva instancia de la clase `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Inicializa una nueva instancia de la clase `LclrResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Obtiene o establece el color de la capa. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -45,9 +46,9 @@ public class LclrResource : LayerResource
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede cambiar el resaltado de color de hoja en Aspose.PSD (configuración de color de hoja)
+El siguiente ejemplo demuestra cómo puedes cambiar el resaltado de color de hoja en Aspose.PSD (configuración de color de hoja)
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ El siguiente ejemplo demuestra cómo puede cambiar el resaltado de color de hoja
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// En el archivo, los colores de las capas resaltadas están en este orden
+// En el archivo, los colores de resaltado de las capas están en este orden
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// El color de hoja de capa se usa para resaltar capas visualmente. 
-// Por ejemplo, puede actualizar algunas capas en PSD y luego resaltar con color la capa que desea llamar la atención.
+// El color de hoja de capa se usa para resaltar visualmente las capas.
+// Por ejemplo, puedes actualizar algunas capas en PSD y luego resaltar con color la capa a la que deseas atraer la atención.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // El recurso lcrl siempre se presenta en la lista de recursos del archivo psd.
+            // El recurso lcrl siempre está presente en la lista de recursos del archivo PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -100,7 +101,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Inverso de los colores de la hoja de estilo. Configuración del resaltado de color de capa.
+                // Inversión de los colores de la hoja de estilo. Configuración del resaltado de color de capa.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -112,7 +113,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

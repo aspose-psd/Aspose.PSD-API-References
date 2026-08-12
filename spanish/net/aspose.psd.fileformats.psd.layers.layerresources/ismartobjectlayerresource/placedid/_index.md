@@ -1,26 +1,27 @@
 ---
-title: ISmartObjectLayerResource.PlacedId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ISmartObjectLayerResource propiedad. Obtiene o establece el identificador único de los datos de esta capa de objeto inteligente en la imagen PSD.
+title: "ISmartObjectLayerResource.PlacedId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ISmartObjectLayerResource. Obtiene o establece el identificador único de estos datos de capa de objeto inteligente en la imagen PSD"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource.PlacedId property
 
-Obtiene o establece el identificador único de los datos de esta capa de objeto inteligente en la imagen PSD.
+Obtiene o establece el identificador único de estos datos de capa de objeto inteligente en la imagen PSD.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El identificador único de este recurso de capa de objeto inteligente.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con los objetos inteligentes integrados.
+El siguiente código demuestra el soporte de objetos inteligentes incrustados.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Este ejemplo demuestra cómo cambiar la capa del objeto inteligente en el archivo PSD y exportar/actualizar el contenido incrustado original del objeto inteligente.
+// Este ejemplo demuestra cómo cambiar la capa de objeto inteligente en el archivo PSD y exportar/actualizar el contenido original incrustado del objeto inteligente.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Exportemos la imagen del objeto inteligente incrustado desde la capa de objetos inteligentes PSD
+        // Exportemos la imagen del objeto inteligente incrustado de la capa de objeto inteligente del PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Verifiquemos si la imagen original se guardó correctamente
+        // Verifiquemos si la imagen original se guarda correctamente
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Vamos a invertir la imagen original del objeto inteligente
+            // Invertamos la imagen original del objeto inteligente
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,11 +85,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Reemplacemos la imagen del objeto inteligente incrustado en la capa PSD
+            // Reemplacemos la imagen del objeto inteligente incrustada en la capa del PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Verifiquemos si la imagen actualizada se guardó correctamente
+        // Verifiquemos si la imagen actualizada se guarda correctamente
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -98,7 +99,7 @@ foreach (FileFormat format in formats)
 ### Ver también
 
 * interface [ISmartObjectLayerResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Txt2Resource método. Agrega el registro de texto a Recurso y devuelve la identificación del registro de texto.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Txt2Resource. Añade el registro de texto al recurso y devuelve el id del registro de texto"
 type: docs
-weight: 70
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-Agrega el registro de texto a Recurso y devuelve la identificación del registro de texto.
+Agrega el registro de texto al Recurso y devuelve el id del registro de texto.
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| text | String | El texto del registro. |
-| bounds | RectangleF | Los límites. |
+| texto | String | El texto del registro. |
+| límites | RectangleF | Los límites. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve la identificación del registro de texto para resource
+Devuelve el Id del registro de texto para el recurso
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Versión desconocida del recurso Txt2. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Versión desconocida de Txt2 Resource. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -87,7 +88,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

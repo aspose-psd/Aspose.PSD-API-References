@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect.Settings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PatternOverlayEffect propiedad. Obtiene o establece la configuración.
+title: "PatternOverlayEffect.Settings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PatternOverlayEffect propiedad. Obtiene o establece los ajustes"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.Settings property
 
 Obtiene o establece la configuración.
@@ -14,15 +15,15 @@ Obtiene o establece la configuración.
 public PatternFillSettings Settings { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La configuración.
+Los ajustes.
 
 ### Ver también
 
 * class [PatternFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/)
 * class [PatternOverlayEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

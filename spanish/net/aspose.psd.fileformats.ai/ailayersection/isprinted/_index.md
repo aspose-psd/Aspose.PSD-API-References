@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece un valor que indica si esta capa está impresa. Hace que la ilustración contenida en la capa sea imprimible si es verdadero.
+title: "AiLayerSection.IsPrinted"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece un valor que indica si esta capa está impresa. Hace que el arte contenido en la capa sea imprimible si es verdadero"
 type: docs
-weight: 80
+weight: 100
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Obtiene o establece un valor que indica si esta capa está impresa. Hace que la ilustración contenida en la capa sea imprimible si es verdadero.
+Obtiene o establece un valor que indica si esta capa se imprime. Hace que el arte contenido en la capa sea imprimible si es verdadero.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta capa está impresa; de lo contrario,`FALSO` .
+`true` si esta capa está impresa; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

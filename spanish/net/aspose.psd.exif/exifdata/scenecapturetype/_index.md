@@ -1,11 +1,12 @@
 ---
-title: ExifData.SceneCaptureType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el tipo de captura de escena.
+title: "ExifData.SceneCaptureType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el tipo de captura de escena"
 type: docs
 weight: 900
 url: /es/net/aspose.psd.exif/exifdata/scenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneCaptureType property
 
 Obtiene o establece el tipo de captura de escena.
@@ -14,7 +15,7 @@ Obtiene o establece el tipo de captura de escena.
 public ExifSceneCaptureType SceneCaptureType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de captura de escena.
 
@@ -22,7 +23,7 @@ El tipo de captura de escena.
 
 * enum [ExifSceneCaptureType](../../../aspose.psd.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

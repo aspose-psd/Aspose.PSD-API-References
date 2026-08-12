@@ -1,11 +1,12 @@
 ---
-title: Class XmpMimeType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType clase. Representa el tipo MIME.
+title: "Clase XmpMimeType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Types.Derived.XmpMimeType. Representa un tipo MIME"
 type: docs
-weight: 6180
+weight: 6680
 url: /es/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType class
 
 Representa el tipo MIME.
@@ -18,7 +19,7 @@ public sealed class XmpMimeType : XmpText
 
 | Nombre | Descripción |
 | --- | --- |
-| [XmpMimeType](xmpmimetype/)(string) | Inicializa una nueva instancia del`XmpMimeType` clase. |
+| [XmpMimeType](xmpmimetype/)(string) | Inicializa una nueva instancia de la clase `XmpMimeType`. |
 
 ## Propiedades
 
@@ -30,16 +31,16 @@ public sealed class XmpMimeType : XmpText
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
-### Observaciones
+## Observaciones
 
 Tipo MIME definido en IETF RFC 2046.
 
 ### Ver también
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

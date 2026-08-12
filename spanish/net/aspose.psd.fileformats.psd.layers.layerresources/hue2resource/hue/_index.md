@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Hue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Hue2Resource propiedad. Obtiene o establece el tono maestro.
+title: "Hue2Resource.Hue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Hue2Resource. Obtiene o establece la tonalidad maestra"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
 Obtiene o establece el tono maestro.
@@ -14,14 +15,14 @@ Obtiene o establece el tono maestro.
 public short Hue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El tono maestro.
+La tonalidad maestra.
 
 ### Ver también
 
 * class [Hue2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

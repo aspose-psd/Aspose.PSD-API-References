@@ -1,14 +1,15 @@
 ---
-title: Enum ExifFileSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Exif.Enums.ExifFileSource enumeración. archivo EXIF fuente enum.
+title: "Enumeración ExifFileSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Exif.Enums.ExifFileSource enumeración. exif origen del archivo enumeración"
 type: docs
-weight: 850
+weight: 860
 url: /es/net/aspose.psd.exif.enums/exiffilesource/
 ---
+{{< psd/tize >}}
 ## ExifFileSource enumeration
 
-archivo EXIF fuente enum.
+enumeración de origen de archivo exif.
 
 ```csharp
 public enum ExifFileSource : byte
@@ -20,12 +21,12 @@ public enum ExifFileSource : byte
 | --- | --- | --- |
 | Others | `0` | Los demás. |
 | FilmScanner | `1` | Escáner de película. |
-| ReflexionPrintScanner | `2` | Escáner de impresión réflex. |
-| DigitalStillCamera | `3` | Cámara fija digital. |
+| ReflexionPrintScanner | `2` | Escáner de impresión de reflexión. |
+| DigitalStillCamera | `3` | Cámara digital fija. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

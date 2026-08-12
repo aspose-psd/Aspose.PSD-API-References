@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginResolution
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene o establece la resolución de origen.
+title: "VectorShapeOriginSettings.OriginResolution"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene o establece la resolución de origen"
 type: docs
 weight: 140
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginResolution property
 
-Obtiene o establece la resolución de origen.
+Obtiene o establece la origin resolution.
 
 ```csharp
 public double OriginResolution { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La resolución de origen.
 
 ### Ver también
 
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

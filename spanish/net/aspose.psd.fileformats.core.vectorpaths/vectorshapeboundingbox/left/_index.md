@@ -1,11 +1,12 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeBoundingBox propiedad. Obtiene o establece la izquierda.
+title: "VectorShapeBoundingBox.Left"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeBoundingBox. Obtiene o establece la parte izquierda"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
 Obtiene o establece la izquierda.
@@ -14,14 +15,14 @@ Obtiene o establece la izquierda.
 public double Left { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La izquierda.
+La parte izquierda.
 
 ### Ver también
 
 * class [VectorShapeBoundingBox](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

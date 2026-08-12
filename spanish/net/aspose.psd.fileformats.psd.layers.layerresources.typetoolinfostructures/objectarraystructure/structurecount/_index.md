@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.StructureCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ObjectArrayStructure propiedad. Obtiene el recuento de la subestructura de la matriz de objetos.
+title: "ObjectArrayStructure.StructureCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ObjectArrayStructure property. Obtiene el recuento de subestructuras del arreglo de objetos"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureCount property
 
-Obtiene el recuento de la subestructura de la matriz de objetos.
+Obtiene el recuento de subestructuras de la matriz de objetos.
 
 ```csharp
 public int StructureCount { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El recuento de subestructuras en la estructura de la matriz de objetos.
+El recuento de subestructuras en la estructura del arreglo de objetos.
 
 ### Ver también
 
 * class [ObjectArrayStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

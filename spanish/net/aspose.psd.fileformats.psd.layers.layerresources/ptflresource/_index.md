@@ -1,14 +1,15 @@
 ---
-title: Class PtFlResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource clase. Clase PtFlResource. Contiene datos de capa de relleno de patrón.
+title: "Clase PtFlResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource. Clase PtFlResource. Contiene datos de capa de relleno de patrón"
 type: docs
-weight: 2960
+weight: 3310
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
+{{< psd/tize >}}
 ## PtFlResource class
 
-Clase PtFlResource. Contiene datos de capa de relleno de patrón.
+Clase PtFlResource. Contiene datos de capa Pattern Fill.
 
 ```csharp
 public class PtFlResource : FillLayerResource
@@ -18,29 +19,31 @@ public class PtFlResource : FillLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [PtFlResource](ptflresource/)(string, string) | Inicializa una nueva instancia del`PtFlResource` clase. |
+| [PtFlResource](ptflresource/#constructor)() | Inicializa una nueva instancia de la clase `PtFlResource`. |
+| [PtFlResource](ptflresource/#constructor_1)(string, string) | Inicializa una nueva instancia de la clase `PtFlResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [alinear con la capa]. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/) { get; set; } | Obtiene o establece el ángulo. |
 | [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está vinculada con la capa. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Obtiene o establece el desplazamiento. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Obtiene o establece el identificador del patrón. |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Obtiene o establece el nombre del patrón. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Obtiene o establece la escala. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | Obtiene la firma del recurso de la capa. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -48,7 +51,7 @@ public class PtFlResource : FillLayerResource
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
-### Ejemplos
+## Ejemplos
 
 El siguiente ejemplo demuestra el soporte de la carga y edición de un recurso PtFlResource.
 
@@ -91,7 +94,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // No tenemos datos de patrones en PattResource, por lo que podemos agregarlos.
+                    // No tenemos datos de patrón en PattResource, así que podemos añadirlos.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -120,7 +123,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.GetM
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykColorHelper método. Obtiene el valor del componente magenta.
+title: "CmykColorHelper.GetM"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método CmykColorHelper. Obtiene el valor del componente magenta"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/cmykcolorhelper/getm/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetM method
 
 Obtiene el valor del componente magenta.
@@ -14,18 +15,18 @@ Obtiene el valor del componente magenta.
 public static int GetM(int cmyk)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | cmyk | Int32 | El color CMYK presentado como un valor entero de 32 bits. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El valor del componente magenta.
 
 ### Ver también
 
 * class [CmykColorHelper](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolorhelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

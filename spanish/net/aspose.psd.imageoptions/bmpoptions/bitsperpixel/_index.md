@@ -1,27 +1,28 @@
 ---
-title: BmpOptions.BitsPerPixel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BmpOptions propiedad. Obtiene o establece el recuento de bits por píxel de la imagen.
+title: "BmpOptions.BitsPerPixel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BmpOptions. Obtiene o establece el recuento de bits por píxel de la imagen"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.imageoptions/bmpoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## BmpOptions.BitsPerPixel property
 
-Obtiene o establece el recuento de bits por píxel de la imagen.
+Obtiene o establece la cantidad de bits por píxel de la imagen.
 
 ```csharp
 public int BitsPerPixel { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los bits de imagen por píxel cuentan.
+El recuento de bits por píxel de la imagen.
 
 ### Ver también
 
 * class [BmpOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

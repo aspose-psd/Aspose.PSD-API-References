@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdLoadOptions propiedad. Obtiene o establece un valor que indica si se ignorará el ancho fijo de la capa de texto PSD en la ejecución de la operación UpdateText.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PsdLoadOptions. Obtiene o establece un valor que indica si se ignorará el ancho fijo de la capa de texto PSD al ejecutar la operación UpdateText"
 type: docs
-weight: 40
+weight: 50
 url: /es/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-Obtiene o establece un valor que indica si se ignorará el ancho fijo de la capa de texto PSD en la ejecución de la operación UpdateText.
+Obtiene o establece un valor que indica si se debe ignorar el ancho fijo de la capa de texto PSD al ejecutar la operación UpdateText.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` if [ignorar el ancho de la capa de texto]; de lo contrario,`FALSO` .
+`true` si [ignorar el ancho de la capa de texto]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [PsdLoadOptions](../)
-* espacio de nombres [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

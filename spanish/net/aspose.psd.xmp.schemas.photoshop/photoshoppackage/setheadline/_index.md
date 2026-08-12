@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhotoshopPackage método. Establece el titular.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PhotoshopPackage. Establece el encabezado"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
 Establece el titular.
@@ -14,14 +15,14 @@ Establece el titular.
 public void SetHeadline(string headline)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| headline | String | El encabezado. |
+| encabezado | String | El encabezado. |
 
 ### Ver también
 
 * class [PhotoshopPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

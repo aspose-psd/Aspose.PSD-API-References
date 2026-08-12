@@ -1,48 +1,43 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LengthRecord constructor. Inicializa una nueva instancia delLengthRecord clase.
+title: "LengthRecord.LengthRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LengthRecord constructor. Inicializa una nueva instancia de la clase LengthRecord"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`LengthRecord`](../) clase.
+Inicializa una nueva instancia de la clase [`LengthRecord`](../).
 
 ```csharp
 public LengthRecord(byte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte[] | Los datos de registro. |
-
-### Excepciones
-
-| excepción | condición |
-| --- | --- |
-| !:PsdImageArgumentException | Datos incorrectos para la creación de LengthRecord |
+| datos | Byte[] | Los datos del registro. |
 
 ### Ver también
 
 * class [LengthRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-Inicializa una nueva instancia del[`LengthRecord`](../) clase.
+Inicializa una nueva instancia de la clase [`LengthRecord`](../).
 
 ```csharp
 public LengthRecord()
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código de ejemplo demuestra la compatibilidad con las nuevas propiedades de LengthRecord, PathOperations (operaciones booleanas), ShapeIndex y BezierKnotRecordsCount.
+El siguiente ejemplo de código demuestra el soporte de nuevas propiedades LengthRecord, PathOperations (operaciones booleanas), ShapeIndex y BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Aquí cambiamos la forma de combinar entre formas.
+    // Aquí cambiamos la forma de combinar entre shapes.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -78,7 +73,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [LengthRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure clase. La sección con datos animados.
+title: "Clase AnimatedDataSectionStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure. La sección con datos animados."
 type: docs
-weight: 2300
+weight: 2510
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
 La sección con datos animados.
@@ -19,9 +20,9 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 | Nombre | Descripción |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | Obtiene o establece las estructuras de la sección de datos animados. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | Obtiene la clave de estructura. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | Obtiene la clave de la estructura. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../ostypestructure/) longitud en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | Obtiene la longitud en bytes del [`OSTypeStructure`](../ostypestructure/). |
 
 ## Métodos
 
@@ -37,9 +38,9 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | Identifica la clave de estructura de AnDs. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra cómo configurar/actualizar el tiempo de retraso en el marco de la línea de tiempo de los datos animados.
+El siguiente código muestra cómo establecer/actualizar el tiempo de retraso en el fotograma de la línea de tiempo de datos animados.
 
 ```csharp
 [C#]
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Crea el registro de retardo de cuadro con un valor de 100 centisegundos que es igual a 1 segundo.
+            // Crea el registro de retraso de fotograma con un valor de 100 centisegundos, que equivale a 1 segundo.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // establece el tiempo en centisegundos.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Ver también
 
 * class [OSTypeStructure](../ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

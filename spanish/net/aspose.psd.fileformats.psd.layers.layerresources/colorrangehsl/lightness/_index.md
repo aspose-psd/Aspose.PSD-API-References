@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorRangeHsl propiedad. Obtiene o establece la luminosidad.
+title: "ColorRangeHsl.Lightness"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorRangeHsl. Obtiene o establece la luminosidad"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
 Obtiene o establece la luminosidad.
@@ -14,14 +15,14 @@ Obtiene o establece la luminosidad.
 public short Lightness { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La luminosidad.
 
 ### Ver también
 
 * class [ColorRangeHsl](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

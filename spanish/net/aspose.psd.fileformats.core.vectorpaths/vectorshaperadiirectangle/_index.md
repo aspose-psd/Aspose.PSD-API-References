@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle clase. Define el rectángulo de radios de forma vectorial class
+title: "Clase VectorShapeRadiiRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle. Define la clase de rectángulo de radios de forma vectorial"
 type: docs
-weight: 1450
+weight: 1460
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Define el rectángulo de radios de forma vectorial class
+Define la clase de rectángulo de radios de forma vectorial
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -18,26 +19,26 @@ public sealed class VectorShapeRadiiRectangle
 
 | Nombre | Descripción |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Constructor predeterminado |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Obtiene o establece el fondo. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Obtiene o establece la parte inferior derecha. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Obtiene o establece la parte inferior. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Obtiene o establece la esquina inferior derecha. |
 | [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Obtiene o establece la versión cuádruple del valor unitario. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Obtiene o establece la parte superior izquierda. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Obtiene o establece la parte superior derecha. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Obtiene o establece la esquina superior izquierda. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Obtiene o establece la esquina superior derecha. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra que cargar y guardar la imagen PSD con capas de formas y rutas vectoriales funciona correctamente.
+Este ejemplo demuestra que la carga y guardado de la imagen PSD con capas de forma y rutas vectoriales funciona correctamente.
 
 ```csharp
 [C#]
 
-// Este ejemplo demuestra que cargar y guardar la imagen PSD con capas de forma y rutas vectoriales funciona correctamente.
+// Este ejemplo demuestra que la carga y guardado de la imagen PSD con capas de forma y rutas vectoriales funciona correctamente.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -164,7 +165,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

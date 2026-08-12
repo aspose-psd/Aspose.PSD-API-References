@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.MinimalVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GridAndGuidesResouce propiedad. Obtiene la versión psd mínima requerida.
+title: "GridAndGuidesResouce.MinimalVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GridAndGuidesResouce. Obtiene la versión mínima requerida de psd"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.MinimalVersion property
 
-Obtiene la versión psd mínima requerida.
+Obtiene la versión mínima requerida de PSD.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La versión psd mínima.
+La versión mínima de psd.
 
 ### Ver también
 
 * class [GridAndGuidesResouce](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

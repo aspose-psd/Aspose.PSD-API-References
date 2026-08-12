@@ -1,11 +1,12 @@
 ---
-title: Layer.Name
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece el nombre de la capa.
+title: "Layer.Name"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene o establece el nombre de la capa"
 type: docs
-weight: 260
+weight: 270
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
 Obtiene o establece el nombre de la capa.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre de la capa.
 public string Name { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre de la capa.
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

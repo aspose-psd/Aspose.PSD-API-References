@@ -1,14 +1,15 @@
 ---
-title: GifOptions.Interlaced
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GifOptions propiedad. Verdadero si la imagen debe estar entrelazada.
+title: "GifOptions.Interlaced"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GifOptions. Verdadero si la imagen debe estar entrelazada"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-Verdadero si la imagen debe estar entrelazada.
+True si la imagen debe estar entrelazada.
 
 ```csharp
 public bool Interlaced { get; set; }
@@ -17,7 +18,7 @@ public bool Interlaced { get; set; }
 ### Ver también
 
 * class [GifOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../gifoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

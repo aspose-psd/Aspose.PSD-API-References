@@ -1,11 +1,12 @@
 ---
-title: Image.GetFileFormat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image método. Obtiene el formato de archivo.
+title: "Image.GetFileFormat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Image. Obtiene el formato de archivo"
 type: docs
-weight: 260
+weight: 270
 url: /es/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
 Obtiene el formato de archivo.
@@ -14,24 +15,24 @@ Obtiene el formato de archivo.
 public static FileFormat GetFileFormat(string filePath)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El formato de archivo determinado.
 
-### Observaciones
+## Observaciones
 
-El formato de archivo determinado no significa que se pueda cargar la imagen especificada. Use una de las sobrecargas del método CanLoad para determinar si se puede cargar el archivo.
+El formato de archivo determinado no significa que la imagen especificada pueda cargarse. Use una de las sobrecargas del método CanLoad para determinar si el archivo puede cargarse.
 
 ### Ver también
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ Obtiene el formato de archivo.
 public static FileFormat GetFileFormat(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | El arroyo. |
+| flujo | Flujo | El flujo. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El formato de archivo determinado.
 
-### Observaciones
+## Observaciones
 
-El formato de archivo determinado no significa que se pueda cargar la imagen especificada. Use una de las sobrecargas del método CanLoad para determinar si se puede cargar el flujo.
+El formato de archivo determinado no significa que la imagen especificada pueda cargarse. Use una de las sobrecargas del método CanLoad para determinar si la secuencia puede cargarse.
 
 ### Ver también
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

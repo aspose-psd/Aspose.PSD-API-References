@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpMm
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases auxiliares constantes y métodos relacionados que utilizan principalmente los sistemas de gestión de activos digitales DAM.
+title: "Aspose.PSD.Xmp.Schemas.XmpMm"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases auxiliares relacionadas, constantes y métodos que se utilizan principalmente en sistemas de gestión de activos digitales (DAM)"
 type: docs
-weight: 580
+weight: 620
 url: /es/net/aspose.psd.xmp.schemas.xmpmm/
 ---
-El espacio de nombres contiene clases auxiliares, constantes y métodos relacionados que utilizan principalmente los sistemas de gestión de activos digitales (DAM).
+{{< psd/tize >}}
+El espacio de nombres contiene clases, constantes y métodos auxiliares relacionados que se utilizan principalmente en sistemas de gestión de activos digitales (DAM).
 
 ## Clases
 
 | Clase | Descripción |
 | --- | --- |
-| [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | Representa el espacio de nombres de administración de medios XMP. |
+| [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | Representa el espacio de nombres de gestión de medios XMP. |
 
 

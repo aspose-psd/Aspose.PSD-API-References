@@ -1,20 +1,21 @@
 ---
-title: Layer.Resources
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece los recursos de la capa.
+title: "Layer.Resources"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de Layer. Obtiene o establece los recursos de la capa."
 type: docs
-weight: 280
+weight: 290
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/resources/
 ---
+{{< psd/tize >}}
 ## Layer.Resources property
 
-Obtiene o establece los recursos de la capa.
+Obtiene o establece los recursos de capa.
 
 ```csharp
 public LayerResource[] Resources { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los recursos de la capa.
 
@@ -22,7 +23,7 @@ Los recursos de la capa.
 
 * class [LayerResource](../../layerresource/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

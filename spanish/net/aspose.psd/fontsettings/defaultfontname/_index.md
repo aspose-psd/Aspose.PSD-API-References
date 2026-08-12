@@ -1,11 +1,12 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings propiedad. Obtiene o establece el nombre predeterminado de la fuente.
+title: "FontSettings.DefaultFontName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FontSettings. Obtiene o establece el nombre predeterminado de la fuente"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
 Obtiene o establece el nombre predeterminado de la fuente.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre predeterminado de la fuente.
 public static string DefaultFontName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre predeterminado de la fuente.
 
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

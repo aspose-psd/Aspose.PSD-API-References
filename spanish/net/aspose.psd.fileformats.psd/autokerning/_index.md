@@ -1,11 +1,12 @@
 ---
-title: Enum AutoKerning
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.AutoKerning enumeración. El modo de kerning automático de Photoshop distancia entre símbolos.
+title: "Enum AutoKerning"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. El modo de kerning automático de Photoshop, distancia entre símbolos"
 type: docs
-weight: 1600
+weight: 1610
 url: /es/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
 El modo de kerning automático de Photoshop (distancia entre símbolos).
@@ -18,13 +19,13 @@ public enum AutoKerning
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Manual | `0` | Valor de interletraje manual. |
-| Metric | `1` | El interletraje métrico utiliza pares de interletraje, que se incluyen con la mayoría de las fuentes (de sus diseñadores). |
-| Optical | `2` | El interletraje óptico ajusta el espaciado entre caracteres adyacentes en función de sus formas. |
+| Manual | `0` | Valor de kerning manual. |
+| Metric | `1` | El kerning de métricas utiliza pares de kerning, que están incluidos en la mayoría de las fuentes (de sus diseñadores). |
+| Optical | `2` | El kerning óptico ajusta el espaciado entre caracteres adyacentes según sus formas. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

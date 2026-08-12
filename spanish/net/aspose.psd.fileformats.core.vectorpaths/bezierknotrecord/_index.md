@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord clase. Clase de registro de nudo Bezier
+title: "Clase BezierKnotRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord. Clase de registro de nudos Bezier utilizada para leer/escribir datos de nudos Bezier desde el recurso."
 type: docs
-weight: 1330
+weight: 1340
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Clase de registro de nudo Bezier
+Clase de registro de nudos Bézier, utilizada para leer/escribir datos de nudos Bézier desde el recurso.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -18,8 +19,8 @@ public class BezierKnotRecord : VectorPathRecord
 
 | Nombre | Descripción |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Inicializa una nueva instancia del`BezierKnotRecord` clase. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Inicializa una nueva instancia del`BezierKnotRecord` clase. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | Inicializa una nueva instancia de la clase `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `BezierKnotRecord`. |
 
 ## Propiedades
 
@@ -28,13 +29,13 @@ public class BezierKnotRecord : VectorPathRecord
 | [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está cerrada. |
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está vinculada. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está abierta. |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Obtiene o establece los puntos de ruta. |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Obtiene o establece los puntos de la ruta. |
 | [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Obtiene o establece los puntos. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Obtiene el tipo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con la carga de recursos de VmskResource. Cómo funciona la edición de rutas.
+El siguiente ejemplo demuestra el soporte de la carga del recurso VmskResource. Cómo funciona la edición de rutas.
 
 ```csharp
 [C#]
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // La regla de relleno de ruta no contiene ninguna información adicional
+        // La regla de relleno de ruta no contiene información adicional
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-El siguiente ejemplo demuestra la compatibilidad con la carga de recursos de VsmsResource. Cómo funciona la edición de rutas.
+El siguiente ejemplo muestra el soporte de la carga del recurso VsmsResource. Cómo funciona la edición de rutas.
 
 ```csharp
 [C#]
@@ -119,7 +120,7 @@ El siguiente ejemplo demuestra la compatibilidad con la carga de recursos de Vsm
 [Test]
 public void TestPsdNet140()
 {
-    // Compatibilidad con VsmsResource
+    // Soporte de VsmsResource
     string sourceFileName = "EmptyRectangle.psd";
     string exportPath = "EmptyRectangle_changed.psd";
     var im = (PsdImage)Image.Load(sourceFileName);
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // La regla de relleno de ruta no contiene ninguna información adicional
+        // La regla de relleno de ruta no contiene información adicional
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -195,7 +196,7 @@ private VsmsResource GetVsmsResource(PsdImage image)
 ### Ver también
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

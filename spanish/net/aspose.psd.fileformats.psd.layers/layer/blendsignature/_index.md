@@ -1,14 +1,15 @@
 ---
-title: Layer.BlendSignature
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer campo. Representa la firma del modo combinado.
+title: "Layer.BlendSignature"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo Layer. Representa la firma del modo de fusión"
 type: docs
-weight: 390
+weight: 410
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-Representa la firma del modo combinado.
+Representa la firma del modo de fusión.
 
 ```csharp
 public const int BlendSignature;
@@ -17,7 +18,7 @@ public const int BlendSignature;
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpRdfRoot.XmpRdfRoot
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpRdfRoot constructor. Constructor predeterminado
+title: "XmpRdfRoot.XmpRdfRoot"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor XmpRdfRoot. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp/xmprdfroot/xmprdfroot/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public XmpRdfRoot()
@@ -17,7 +18,7 @@ public XmpRdfRoot()
 ### Ver también
 
 * class [XmpRdfRoot](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmprdfroot/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

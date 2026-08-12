@@ -1,43 +1,44 @@
 ---
-title: Class LayerSectionResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource clase. El recurso de la sección de capa.
+title: "Clase LayerSectionResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource. El recurso de sección de capa"
 type: docs
-weight: 2590
+weight: 2900
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource class
 
-El recurso de la sección de capa.
+El recurso de sección de capa.
 
 ```csharp
-public class LayerSectionResource : LayerResource
+public class LayerSectionResource : BaseLayerSectionResource
 ```
 
 ## Constructores
 
 | Nombre | Descripción |
 | --- | --- |
-| [LayerSectionResource](layersectionresource/)() | Inicializa una nueva instancia del`LayerSectionResource` clase. |
+| [LayerSectionResource](layersectionresource/)() | Inicializa una nueva instancia de la clase `LayerSectionResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/) { get; set; } | Obtiene o establece la clave del modo de combinación. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/) { get; set; } | Obtiene o establece el tipo de sección. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/) { get; } | Obtiene la firma del recurso de la capa. |
-| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/) { get; set; } | Obtiene o establece el subtipo. |
+| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/blendmodekey/) { get; set; } | Obtiene o establece la clave del modo de fusión. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/sectiontype/) { get; set; } | Obtiene o establece el tipo de sección. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
+| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/subtype/) { get; set; } | Obtiene o establece el subtipo. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -47,8 +48,8 @@ public class LayerSectionResource : LayerResource
 
 ### Ver también
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* class [BaseLayerSectionResource](../baselayersectionresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

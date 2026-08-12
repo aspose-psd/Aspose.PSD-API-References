@@ -1,14 +1,15 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlwhResource campo. La tecla de información de la herramienta de tipo.
+title: "BlwhResource.TypeToolKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo BlwhResource. La clave de información de la herramienta de tipo"
 type: docs
-weight: 160
+weight: 140
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-La tecla de información de la herramienta de tipo.
+La clave de información de la herramienta de tipo.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Ver también
 
 * class [BlwhResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

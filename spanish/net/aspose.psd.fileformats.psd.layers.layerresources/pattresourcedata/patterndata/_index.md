@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.PatternData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResourceData propiedad. Obtiene los datos del patrón.
+title: "PattResourceData.PatternData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PattResourceData. Obtiene los datos del patrón."
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternData property
 
 Obtiene los datos del patrón.
@@ -14,14 +15,14 @@ Obtiene los datos del patrón.
 public int[] PatternData { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los datos del patrón.
 
 ### Ver también
 
 * class [PattResourceData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

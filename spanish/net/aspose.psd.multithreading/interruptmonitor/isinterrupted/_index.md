@@ -1,14 +1,15 @@
 ---
-title: InterruptMonitor.IsInterrupted
-second_title: Referencia de API de Aspose.PSD para .NET
-description: InterruptMonitor propiedad. Obtiene el valor que indica si se debe interrumpir la operación.
+title: "InterruptMonitor.IsInterrupted"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad InterruptMonitor. Obtiene el valor que indica si las operaciones deben interrumpirse"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.multithreading/interruptmonitor/isinterrupted/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.IsInterrupted property
 
-Obtiene el valor que indica si se debe interrumpir la operación.
+Obtiene el valor que indica si las operaciones deben interrumpirse.
 
 ```csharp
 public bool IsInterrupted { get; }
@@ -17,7 +18,7 @@ public bool IsInterrupted { get; }
 ### Ver también
 
 * class [InterruptMonitor](../)
-* espacio de nombres [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

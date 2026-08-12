@@ -1,14 +1,15 @@
 ---
-title: Class UnitArrayStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure clase. Define la clase UnitArrayStructure que contieneDouble matriz de valores y su unidad de medida. Se utiliza en los recursos del archivo PSD generalmente porObjectArrayStructure .
+title: "Clase UnitArrayStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure clase. Define la clase UnitArrayStructure que contiene una matriz de valores Double y su unidad de medida. Se utiliza en los recursos de archivos PSD normalmente por ObjectArrayStructure"
 type: docs
-weight: 3270
+weight: 3660
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-Define la clase UnitArrayStructure que contieneDouble matriz de valores y su unidad de medida. Se utiliza en los recursos del archivo PSD, generalmente por[`ObjectArrayStructure`](../objectarraystructure/) .
+Define la clase UnitArrayStructure que contiene una matriz de valores Double y su unidad de medida. Se utiliza en los recursos de archivos PSD, normalmente por [`ObjectArrayStructure`](../objectarraystructure/).
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,18 +19,18 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Inicializa una nueva instancia del`UnitArrayStructure` clase. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Inicializa una nueva instancia de la clase `UnitArrayStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Obtiene esta clave de estructura de matriz de unidades. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Obtiene la clave de esta estructura de matriz de unidades. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Obtiene o establece el tipo de unidad de medida del`UnitArrayStructure` valores. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Obtiene el valor contador. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Obtiene o establece los valores de la estructura de la matriz de unidades. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Obtiene o establece el tipo de unidad de medida de los valores de `UnitArrayStructure`. |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Obtiene la cantidad de valores. |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Obtiene o establece los valores de la estructura de matriz de unidades. |
 
 ## Métodos
 
@@ -43,11 +44,11 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Define el 'UnFl'`UnitArrayStructure` clave. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Define la clave 'UnFl' `UnitArrayStructure`. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con las firmas ObAr y UnFl.
+El siguiente código demuestra el soporte de las firmas ObAr y UnFl.
 
 ```csharp
 [C#]
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

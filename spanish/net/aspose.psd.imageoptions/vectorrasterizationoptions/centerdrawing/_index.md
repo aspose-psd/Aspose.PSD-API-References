@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.CenterDrawing
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorRasterizationOptions propiedad. Obtiene o establece un valor que indica si centrar el dibujo.
+title: "VectorRasterizationOptions.CenterDrawing"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorRasterizationOptions. Obtiene o establece un valor que indica si se dibuja centrado"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.imageoptions/vectorrasterizationoptions/centerdrawing/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CenterDrawing property
 
-Obtiene o establece un valor que indica si centrar el dibujo.
+Obtiene o establece un valor que indica si se dibuja centrado.
 
 ```csharp
 public bool CenterDrawing { get; set; }
@@ -17,7 +18,7 @@ public bool CenterDrawing { get; set; }
 ### Ver también
 
 * class [VectorRasterizationOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

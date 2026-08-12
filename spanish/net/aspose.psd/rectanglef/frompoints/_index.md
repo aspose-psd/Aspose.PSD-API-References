@@ -1,33 +1,34 @@
 ---
-title: RectangleF.FromPoints
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RectangleF método. Crea un nuevoRectangle de dos puntos especificados. Dos vertices de lo creadoRectangle será igual a lo pasadopoint1 ypoint2 . Estos serían típicamente los vértices opuestos.
+title: "RectangleF.FromPoints"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RectangleF. Crea un nuevo Rectangle a partir de dos puntos especificados. Los dos vértices del Rectangle creado serán iguales a los puntos point1 y point2 proporcionados. Estos serían típicamente los vértices opuestos."
 type: docs
 weight: 40
 url: /es/net/aspose.psd/rectanglef/frompoints/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromPoints method
 
-Crea un nuevo[`Rectangle`](../../rectangle/) de dos puntos especificados. Dos vertices de lo creado[`Rectangle`](../../rectangle/) será igual a lo pasado*point1* y*point2* . Estos serían típicamente los vértices opuestos.
+Crea un nuevo [`Rectangle`](../../rectangle/) a partir de dos puntos especificados. Los dos vértices del [`Rectangle`](../../rectangle/) creado serán iguales a los *point1* y *point2* proporcionados. Estos serían típicamente los vértices opuestos.
 
 ```csharp
 public static RectangleF FromPoints(PointF point1, PointF point2)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point1 | PointF | La primera[`Point`](../../point/) para el nuevo rectángulo. |
-| point2 | PointF | El segundo[`Point`](../../point/) para el nuevo rectángulo. |
+| point1 | PointF | El primer [`Point`](../../point/) para el nuevo rectángulo. |
+| point2 | PointF | El segundo [`Point`](../../point/) para el nuevo rectángulo. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Una recién creada[`Rectangle`](../../rectangle/).
+Un [`Rectangle`](../../rectangle/) recién creado.
 
 ### Ver también
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* espacio de nombres [Aspose.PSD](../../rectanglef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

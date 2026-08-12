@@ -1,14 +1,15 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage propiedad. Obtiene el administrador de capas enlazadas.
+title: "PsdImage.LinkedLayersManager"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PsdImage. Obtiene el gestor de capas vinculadas"
 type: docs
 weight: 210
 url: /es/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
-Obtiene el administrador de capas enlazadas.
+Obtiene el administrador de capas vinculadas.
 
 ```csharp
 public LinkedLayersManager LinkedLayersManager { get; }
@@ -18,7 +19,7 @@ public LinkedLayersManager LinkedLayersManager { get; }
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

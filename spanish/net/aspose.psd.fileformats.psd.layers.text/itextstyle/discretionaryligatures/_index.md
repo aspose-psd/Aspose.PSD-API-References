@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. Las ligaduras discrecionales utilizadas para conectar letras especialmente en fuentes script.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ITextStyle propiedad. Las ligaduras discrecionales usadas para conectar letras, especialmente en fuentes de escritura"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-Las ligaduras discrecionales utilizadas para conectar letras, especialmente en fuentes script.
+Las ligaduras discrecionales utilizadas para conectar letras, especialmente en fuentes de escritura.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Ver también
 
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class BlendRange
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange clase. El rango de mezcla.
+title: "Clase BlendRange"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange clase. El rango de mezcla"
 type: docs
-weight: 1890
+weight: 2000
 url: /es/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
 El rango de mezcla.
@@ -18,7 +19,7 @@ public sealed class BlendRange
 
 | Nombre | Descripción |
 | --- | --- |
-| [BlendRange](blendrange/)() | Constructor predeterminado |
+| [BlendRange](blendrange/)() | El constructor predeterminado. |
 
 ## Propiedades
 
@@ -29,7 +30,7 @@ public sealed class BlendRange
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

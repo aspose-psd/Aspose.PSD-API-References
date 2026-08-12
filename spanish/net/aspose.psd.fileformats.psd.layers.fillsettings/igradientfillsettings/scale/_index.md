@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IGradientFillSettings propiedad. Obtiene o establece la escala.
+title: "IGradientFillSettings.Scale"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IGradientFillSettings. Obtiene o establece la escala de degradado normalizada en porcentaje"
 type: docs
-weight: 100
+weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Obtiene o establece la escala.
+Obtiene o establece la escala de degradado **normalizada** (en porcentaje).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La báscula.
+La escala.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo muestra cómo usar la propiedad Scale para escalar FillLayer con degradado.
+El siguiente ejemplo muestra cómo usar la propiedad Scale para escalar FillLayer con un degradado.
 
 ```csharp
 [C#]
@@ -43,9 +44,9 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // actualizar valor de escala
+    // actualizar el valor de escala
     settings.Scale = 200;
-    fillLayer.Update(); // Actualiza los datos de píxeles
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * interface [IGradientFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

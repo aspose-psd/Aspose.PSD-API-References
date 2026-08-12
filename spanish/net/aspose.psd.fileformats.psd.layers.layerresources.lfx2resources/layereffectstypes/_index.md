@@ -1,14 +1,15 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enumeración. Efectos de fusión de capas.
+title: "Enumeración LayerEffectsTypes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes. Efectos de fusión de capa"
 type: docs
-weight: 2660
+weight: 2900
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
-Efectos de fusión de capas.
+Efectos de fusión de capa.
 
 ```csharp
 public enum LayerEffectsTypes
@@ -20,18 +21,18 @@ public enum LayerEffectsTypes
 | --- | --- | --- |
 | DropShadow | `0` | La sombra paralela. |
 | OuterGlow | `1` | El resplandor exterior. |
-| PatternOverlay | `2` | La superposición del patrón. |
+| PatternOverlay | `2` | La superposición de patrón. |
 | GradientOverlay | `3` | La superposición de degradado. |
-| ColorOverlay | `4` | La superposición de colores. |
+| ColorOverlay | `4` | La superposición de color. |
 | Satin | `5` | El tipo de efecto satinado. |
-| InnerGlow | `6` | El resplandor interior. |
-| InnerShadow | `7` | La sombra interior. |
+| InnerGlow | `6` | El resplandor interno. |
+| InnerShadow | `7` | La sombra interna. |
 | Stroke | `8` | El trazo. |
-| BevelEmboss | `9` | El bisel en relieve. |
+| BevelEmboss | `9` | El biselado en relieve. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con la propiedad ILayerEffect.EffectType.
+El siguiente código demuestra el soporte de la propiedad ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // atrapó
+            // lo atrapó
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -64,7 +65,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

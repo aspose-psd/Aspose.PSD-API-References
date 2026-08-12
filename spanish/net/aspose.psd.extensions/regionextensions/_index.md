@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.RegionExtensions clase. Contiene métodos de extensión para elRegion clase.
+title: "Clase RegionExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.RegionExtensions. Contiene métodos de extensión para la clase Region"
 type: docs
-weight: 1170
+weight: 1180
 url: /es/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-Contiene métodos de extensión para el[`Region`](../../aspose.psd/region/) clase.
+Contiene métodos de extensión para la clase [`Region`](../../aspose.psd/region/).
 
 ```csharp
 public static class RegionExtensions
@@ -18,11 +19,11 @@ public static class RegionExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Convierte el[`Region`](../../aspose.psd/region/) haciaRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Convierte el [`Region`](../../aspose.psd/region/) a la Region. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

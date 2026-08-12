@@ -1,14 +1,15 @@
 ---
-title: Class DitheringMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Dithering.DitheringMode clase. Ajustes de tramado que se aplicarán a la imagen al guardar.
+title: "Clase DitheringMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Dithering.DitheringMode. Configuraciones de dithering que se aplicarán a la imagen al guardarla"
 type: docs
-weight: 760
+weight: 770
 url: /es/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-Ajustes de tramado que se aplicarán a la imagen al guardar.
+Configuraciones de difuminado que se aplicarán a la imagen al guardar.
 
 ```csharp
 public class DitheringMode
@@ -18,19 +19,19 @@ public class DitheringMode
 
 | Nombre | Descripción |
 | --- | --- |
-| [DitheringMode](ditheringmode/)() | Constructor predeterminado |
+| [DitheringMode](ditheringmode/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | El factor de muestreo de la imagen tramada. |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | La paleta personalizada para tramado. |
-| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Selección de algoritmo de tramado. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | El factor de muestreo de la imagen con dithering. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | La paleta personalizada para el tramado. |
+| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Selección del algoritmo de tramado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

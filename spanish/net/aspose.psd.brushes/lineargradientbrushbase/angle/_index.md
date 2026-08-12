@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinearGradientBrushBase propiedad. Obtiene o establece el ángulo de gradiente.
+title: "LinearGradientBrushBase.Angle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinearGradientBrushBase. Obtiene o establece el ángulo del degradado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
-Obtiene o establece el ángulo de gradiente.
+Obtiene o establece el ángulo del degradado.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El ángulo de gradiente.
+El ángulo del degradado.
 
 ### Ver también
 
 * class [LinearGradientBrushBase](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

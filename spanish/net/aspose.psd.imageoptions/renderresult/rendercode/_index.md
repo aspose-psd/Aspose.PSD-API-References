@@ -1,11 +1,12 @@
 ---
-title: RenderResult.RenderCode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RenderResult propiedad. Obtiene o establece el código de error
+title: "RenderResult.RenderCode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RenderResult. Obtiene o establece el código de error"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.imageoptions/renderresult/rendercode/
 ---
+{{< psd/tize >}}
 ## RenderResult.RenderCode property
 
 Obtiene o establece el código de error
@@ -18,7 +19,7 @@ public RenderErrorCode RenderCode { get; set; }
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../renderresult/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

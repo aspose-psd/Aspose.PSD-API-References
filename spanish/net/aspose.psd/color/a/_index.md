@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Color propiedad. Obtiene el valor del componente alfa de esteColorestructura.
+title: "Color.A"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Color. Obtiene el valor del componente alfa de esta estructura Color"
 type: docs
 weight: 1460
 url: /es/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-Obtiene el valor del componente alfa de este[`Color`](../)estructura.
+Obtiene el valor del componente alfa de esta estructura [`Color`](../).
 
 ```csharp
 public byte A { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor del componente alfa de este[`Color`](../).
+El valor del componente alfa de este [`Color`](../).
 
 ### Ver también
 
 * struct [Color](../)
-* espacio de nombres [Aspose.PSD](../../color/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

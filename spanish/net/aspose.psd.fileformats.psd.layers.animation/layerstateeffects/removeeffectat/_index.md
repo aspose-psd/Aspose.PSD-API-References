@@ -1,11 +1,12 @@
 ---
-title: LayerStateEffects.RemoveEffectAt
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerStateEffects método. Elimina el efecto de capa en el índice específico.
+title: "LayerStateEffects.RemoveEffectAt"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerStateEffects. Elimina el efecto de capa en el índice específico"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/removeeffectat/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.RemoveEffectAt method
 
 Elimina el efecto de capa en el índice específico.
@@ -14,14 +15,14 @@ Elimina el efecto de capa en el índice específico.
 public void RemoveEffectAt(int index)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| index | Int32 | El índice de efecto de capa. |
+| index | Int32 | El índice del efecto de capa. |
 
 ### Ver también
 
 * class [LayerStateEffects](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

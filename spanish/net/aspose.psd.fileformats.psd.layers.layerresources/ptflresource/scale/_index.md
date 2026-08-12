@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Scale
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PtFlResource propiedad. Obtiene o establece la escala.
+title: "PtFlResource.Scale"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PtFlResource propiedad. Obtiene o establece la escala"
 type: docs
-weight: 100
+weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Scale property
 
 Obtiene o establece la escala.
@@ -14,11 +15,11 @@ Obtiene o establece la escala.
 public double Scale { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La báscula.
+La escala.
 
-### Ejemplos
+## Ejemplos
 
 El siguiente ejemplo demuestra el soporte de la carga y edición de un recurso PtFlResource.
 
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // No tenemos datos de patrones en PattResource, por lo que podemos agregarlos.
+                    // No tenemos datos de patrón en PattResource, así que podemos añadirlos.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -89,7 +90,7 @@ using (im)
 ### Ver también
 
 * class [PtFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

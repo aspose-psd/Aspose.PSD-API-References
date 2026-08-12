@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadCmyk32Pixels
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Carga píxeles en formato CMYK.
+title: "RasterImage.LoadCmyk32Pixels"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Carga píxeles en formato CMYK"
 type: docs
 weight: 370
 url: /es/net/aspose.psd/rasterimage/loadcmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadCmyk32Pixels method
 
 Carga píxeles en formato CMYK.
@@ -14,11 +15,11 @@ Carga píxeles en formato CMYK.
 public int[] LoadCmyk32Pixels(Rectangle rectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | El rectángulo desde el que cargar píxeles. |
+| rectángulo | Rectangle | El rectángulo del cual cargar los píxeles. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Los píxeles CMYK cargados se presentan como valores enteros de 32 bits.
 
@@ -26,7 +27,7 @@ Los píxeles CMYK cargados se presentan como valores enteros de 32 bits.
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

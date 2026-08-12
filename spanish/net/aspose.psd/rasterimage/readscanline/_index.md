@@ -1,32 +1,33 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Lee toda la línea de escaneo por el índice de línea de escaneo especificado.
+title: "RasterImage.ReadScanLine"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Lee la línea de escaneo completa según el índice de línea de escaneo especificado"
 type: docs
-weight: 440
+weight: 450
 url: /es/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
-Lee toda la línea de escaneo por el índice de línea de escaneo especificado.
+Lee toda la línea de escaneo mediante el índice de línea de escaneo especificado.
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Índice basado en cero de la línea de exploración. |
+| scanLineIndex | Int32 | Índice basado en cero de la línea de escaneo. |
 
-### Valor_devuelto
+### Valor devuelto
 
-La matriz de valores de color de píxeles de la línea de exploración.
+La matriz de valores de color de píxeles de la línea de escaneo.
 
 ### Ver también
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

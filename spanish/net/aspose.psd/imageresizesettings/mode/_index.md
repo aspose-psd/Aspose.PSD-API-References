@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageResizeSettings propiedad. Obtiene o establece el modo de interpolación.
+title: "ImageResizeSettings.Mode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ImageResizeSettings. Obtiene o establece el modo de interpolación"
 type: docs
 weight: 60
 url: /es/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
 Obtiene o establece el modo de interpolación.
@@ -14,7 +15,7 @@ Obtiene o establece el modo de interpolación.
 public ResizeType Mode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El modo.
 
@@ -22,7 +23,7 @@ El modo.
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* espacio de nombres [Aspose.PSD](../../imageresizesettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

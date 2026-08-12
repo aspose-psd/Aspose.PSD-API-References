@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Width
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Dimensions propiedad. Obtiene o establece el ancho.
+title: "Dimensions.Width"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Dimensions. Obtiene o establece el ancho"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
 Obtiene o establece el ancho.
@@ -14,7 +15,7 @@ Obtiene o establece el ancho.
 public float Width { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ancho.
 
@@ -22,12 +23,12 @@ El ancho.
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | value;El ancho no puede ser menor que cero |
+| ArgumentOutOfRangeException | valor;Width no puede ser menor que cero |
 
 ### Ver también
 
 * class [Dimensions](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

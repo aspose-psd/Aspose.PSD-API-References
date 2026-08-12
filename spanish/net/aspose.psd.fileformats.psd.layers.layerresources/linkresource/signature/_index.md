@@ -1,11 +1,12 @@
 ---
-title: LinkResource.Signature
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinkResource propiedad. Obtiene la firma del recurso de enlace global PSD.
+title: "LinkResource.Signature"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinkResource. Obtiene la firma del recurso de enlace global PSD"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/
 ---
+{{< psd/tize >}}
 ## LinkResource.Signature property
 
 Obtiene la firma del recurso de enlace global PSD.
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Ver también
 
 * class [LinkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

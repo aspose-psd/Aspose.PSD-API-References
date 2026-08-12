@@ -1,11 +1,12 @@
 ---
-title: IPlacedLayerResource.Left
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPlacedLayerResource propiedad. Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PSD.
+title: "IPlacedLayerResource.Left"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPlacedLayerResource. Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PSD"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Left property
 
 Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PSD.
@@ -14,14 +15,14 @@ Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PS
 public double Left { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La ubicación izquierda de la capa colocada.
 
 ### Ver también
 
 * interface [IPlacedLayerResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

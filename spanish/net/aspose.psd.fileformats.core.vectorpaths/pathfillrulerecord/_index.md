@@ -1,11 +1,12 @@
 ---
-title: Class PathFillRuleRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord clase. Clase de registro de regla de relleno de ruta
+title: "Clase PathFillRuleRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord. Clase Path Fill Rule Record."
 type: docs
-weight: 1380
+weight: 1390
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
 Clase de registro de regla de relleno de ruta
@@ -18,8 +19,8 @@ public class PathFillRuleRecord : VectorPathRecord
 
 | Nombre | Descripción |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Inicializa una nueva instancia del`PathFillRuleRecord` clase. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Inicializa una nueva instancia del`PathFillRuleRecord` clase. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Inicializa una nueva instancia de la clase `PathFillRuleRecord`. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `PathFillRuleRecord`. |
 
 ## Propiedades
 
@@ -30,7 +31,7 @@ public class PathFillRuleRecord : VectorPathRecord
 ### Ver también
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

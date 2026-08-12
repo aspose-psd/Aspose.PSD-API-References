@@ -1,26 +1,27 @@
 ---
-title: SoCoResource.Color
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SoCoResource propiedad. Obtiene el color RGB .
+title: "SoCoResource.Color"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SoCoResource. Obtiene el color RGB"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-Obtiene el color RGB .
+Obtiene el color RGB.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 El color RGB
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo muestra cómo editar SoCoResource (recurso de capa para capa de relleno de color)
+El siguiente ejemplo muestra cómo editas SoCoResource (Recurso de capa para capa de relleno de color)
 
 ```csharp
 [C#]
@@ -28,20 +29,20 @@ El siguiente ejemplo muestra cómo editar SoCoResource (recurso de capa para cap
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Hallazgo de FillLayer
+        // Búsqueda de FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Hallazgo de SoCoResource en la lista de recursos de capa
+                // Búsqueda de SoCoResource en la lista de recursos de capa
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Configuración de la propiedad Color de SoCoResource
+                    // Configurando la propiedad Color de SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -71,7 +72,7 @@ using (im)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextShape propiedad. Obtiene el centro de la forma.
+title: "TextShape.Center"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextShape. Obtiene el centro de la forma"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 Obtiene el centro de la forma.
@@ -14,7 +15,7 @@ Obtiene el centro de la forma.
 public override PointF Center { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El centro de la forma.
 
@@ -22,7 +23,7 @@ El centro de la forma.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../textshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

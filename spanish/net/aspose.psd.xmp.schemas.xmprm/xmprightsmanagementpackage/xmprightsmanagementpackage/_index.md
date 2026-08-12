@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.XmpRightsManagementPackage
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpRightsManagementPackage constructor. Constructor predeterminado
+title: "XmpRightsManagementPackage.XmpRightsManagementPackage"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor XmpRightsManagementPackage. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/xmprightsmanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public XmpRightsManagementPackage()
@@ -17,7 +18,7 @@ public XmpRightsManagementPackage()
 ### Ver también
 
 * class [XmpRightsManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

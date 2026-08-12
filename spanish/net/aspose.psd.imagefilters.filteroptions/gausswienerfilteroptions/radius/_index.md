@@ -1,11 +1,12 @@
 ---
-title: GaussWienerFilterOptions.Radius
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GaussWienerFilterOptions propiedad. Obtiene o establece el radio.
+title: "GaussWienerFilterOptions.Radius"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "GaussWienerFilterOptions propiedad. Obtiene o establece el radio"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Radius property
 
 Obtiene o establece el radio.
@@ -14,14 +15,14 @@ Obtiene o establece el radio.
 public int Radius { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El radio.
 
 ### Ver también
 
 * class [GaussWienerFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: ResourceEvent.Action
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResourceEvent propiedad. Obtiene o establece acción.
+title: "ResourceEvent.Action"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResourceEvent. Obtiene o establece la acción"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
-Obtiene o establece acción.
+Obtiene o establece la acción.
 
 ```csharp
 public string Action { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La acción.
 
-### Ejemplos
+## Ejemplos
 
-Los valores definidos son: convertido, copiado, creado, recortado, editado, filtrado, formateado, versión_actualizada, impreso, publicado, administrado, producido, redimensionado, guardado. Los nuevos valores deben ser verbos en tiempo pasado.
+Los valores definidos son: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. Los nuevos valores deben ser verbos en tiempo pasado.
 
 ### Ver también
 
 * class [ResourceEvent](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

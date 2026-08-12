@@ -1,14 +1,15 @@
 ---
-title: Class RectangleProjectedShape
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Shapes.RectangleProjectedShape clase. Representa una forma que se proyecta sobre un rectángulo girado hacia una orientación particular. Especificado por cuatro puntos que se pueden rotar en el espacio manteniendo la misma longitud de los bordes y 90 grados entre los bordes adyacentes.
+title: "Clase RectangleProjectedShape"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Shapes.RectangleProjectedShape. Representa una forma que se proyecta sobre un rectángulo girado a una orientación particular. Especificada por cuatro puntos que pueden rotarse en el espacio manteniendo la misma longitud de los bordes y 90 grados entre bordes adyacentes."
 type: docs
-weight: 5520
+weight: 6020
 url: /es/net/aspose.psd.shapes/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape class
 
-Representa una forma que se proyecta sobre un rectángulo girado hacia una orientación particular. Especificado por cuatro puntos que se pueden rotar en el espacio manteniendo la misma longitud de los bordes y 90 grados entre los bordes adyacentes.
+Representa una forma que se proyecta sobre un rectángulo girado a una orientación particular. Se especifica mediante cuatro puntos que pueden rotarse en el espacio manteniendo la misma longitud de los bordes y 90 grados entre los bordes adyacentes.
 
 ```csharp
 public abstract class RectangleProjectedShape : Shape
@@ -18,8 +19,8 @@ public abstract class RectangleProjectedShape : Shape
 
 | Nombre | Descripción |
 | --- | --- |
-| [RectangleProjectedShape](rectangleprojectedshape/#constructor)() | Inicializa una nueva instancia del`RectangleProjectedShape` clase. |
-| [RectangleProjectedShape](rectangleprojectedshape/#constructor_1)(RectangleF) | Inicializa una nueva instancia del`RectangleProjectedShape` clase. |
+| [RectangleProjectedShape](rectangleprojectedshape/#constructor)() | Inicializa una nueva instancia de la clase `RectangleProjectedShape`. |
+| [RectangleProjectedShape](rectangleprojectedshape/#constructor_1)(RectangleF) | Inicializa una nueva instancia de la clase `RectangleProjectedShape`. |
 
 ## Propiedades
 
@@ -28,13 +29,13 @@ public abstract class RectangleProjectedShape : Shape
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Obtiene los límites del objeto. |
 | override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Obtiene el centro de la forma. |
 | override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Obtiene un valor que indica si la forma tiene segmentos. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Obtiene el punto del rectángulo inferior izquierdo. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Obtiene el punto del rectángulo superior izquierdo. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Obtiene el punto inferior izquierdo del rectángulo. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Obtiene el punto superior izquierdo del rectángulo. |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Obtiene la altura del rectángulo. |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Obtiene el ancho del rectángulo. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Obtiene el punto del rectángulo inferior derecho. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Obtiene el punto inferior derecho del rectángulo. |
 | [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Obtiene el punto superior derecho del rectángulo. |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Obtiene los segmentos de forma. |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Obtiene los segmentos de la forma. |
 
 ## Métodos
 
@@ -47,7 +48,7 @@ public abstract class RectangleProjectedShape : Shape
 ### Ver también
 
 * class [Shape](../../aspose.psd/shape/)
-* espacio de nombres [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

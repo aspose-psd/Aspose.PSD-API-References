@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadFloat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Leer un solo valor flotante de la secuencia.
+title: "TiffStreamReader.ReadFloat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee un único valor float del flujo."
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloat method
 
-Leer un solo valor flotante de la secuencia.
+Lee un único valor flotante del flujo.
 
 ```csharp
 public float ReadFloat(long position)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
+| posición | Int64 | La posición desde la cual leer. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El valor flotante único.
+El único valor float.
 
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

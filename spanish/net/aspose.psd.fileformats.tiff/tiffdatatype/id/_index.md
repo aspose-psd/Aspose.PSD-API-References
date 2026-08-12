@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.Id
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffDataType propiedad. Obtiene la representación de números enteros de ID de etiqueta.
+title: "TiffDataType.Id"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffDataType. Obtiene la representación entera del id de la etiqueta"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.tiff/tiffdatatype/id/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Id property
 
-Obtiene la representación de números enteros de ID de etiqueta.
+Obtiene la representación entera del id de la etiqueta.
 
 ```csharp
 public ushort Id { get; }
@@ -17,7 +18,7 @@ public ushort Id { get; }
 ### Ver también
 
 * class [TiffDataType](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

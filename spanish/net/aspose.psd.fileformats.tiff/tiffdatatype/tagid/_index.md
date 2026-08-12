@@ -1,28 +1,29 @@
 ---
-title: TiffDataType.TagId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffDataType propiedad. Obtiene la etiqueta id.
+title: "TiffDataType.TagId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffDataType. Obtiene el id de la etiqueta"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
-Obtiene la etiqueta id.
+Obtiene el id de la etiqueta.
 
 ```csharp
 public TiffTags TagId { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La etiqueta id.
+El id de la etiqueta.
 
 ### Ver también
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

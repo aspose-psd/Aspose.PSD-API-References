@@ -1,14 +1,15 @@
 ---
-title: Class AdjustmentLayerResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AdjustmentLayerResource clase. Clase base para recursos de capa de ajustes
+title: "Clase AdjustmentLayerResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AdjustmentLayerResource. Clase base para recursos de capas de ajuste"
 type: docs
-weight: 2290
+weight: 2500
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource class
 
-Clase base para recursos de capa de ajustes
+Clase base para recursos de capa de ajuste
 
 ```csharp
 public abstract class AdjustmentLayerResource : LayerResource
@@ -18,22 +19,22 @@ public abstract class AdjustmentLayerResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

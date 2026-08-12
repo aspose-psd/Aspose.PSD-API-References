@@ -1,14 +1,15 @@
 ---
-title: Enum LayerSectionType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType enumeración. La sección de capa type
+title: "Enumeración LayerSectionType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType. El tipo de sección de capa"
 type: docs
-weight: 2610
+weight: 2920
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
-La sección de capa type
+El tipo de sección de capa
 
 ```csharp
 public enum LayerSectionType
@@ -21,11 +22,11 @@ public enum LayerSectionType
 | Layer | `0` | La capa. |
 | OpenFolder | `1` | La carpeta abierta. |
 | ClosedFolder | `2` | La carpeta cerrada. |
-| SectionDivider | `3` | El separador de secciones. |
+| SectionDivider | `3` | El divisor de sección. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

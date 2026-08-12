@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GdFlResource propiedad. Obtiene o establece el nombre del gradiente.
+title: "GdFlResource.GradientName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de GdFlResource. Obtiene o establece el nombre del gradiente"
 type: docs
-weight: 80
+weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
-Obtiene o establece el nombre del gradiente.
+Obtiene o establece el nombre del degradado.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El nombre del gradiente.
+El nombre del degradado.
 
 ### Ver también
 
 * class [GdFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

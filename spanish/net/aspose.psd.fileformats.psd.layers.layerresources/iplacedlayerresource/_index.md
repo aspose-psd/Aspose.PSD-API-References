@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource interfaz. Define la interfaz IPlacedLayerResource que contiene información sobre una capa colocada en el archivo PSD. Es una interfaz de marcado utilizada para designar recursos PlLd Sold y Sole en las imágenes de Adobe Photoshop. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop.
+title: "Interfaz IPlacedLayerResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource interface. Define la interfaz IPlacedLayerResource que contiene información sobre una capa colocada en el archivo PSD. Es una interfaz de marcado utilizada para designar recursos PlLd Sold y Sole en las imágenes de Adobe Photoshop. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop."
 type: docs
-weight: 2530
+weight: 2820
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-Define la interfaz IPlacedLayerResource que contiene información sobre una capa colocada en el archivo PSD. Es una interfaz de marcado utilizada para designar recursos PlLd, Sold y Sole en las imágenes de Adobe® Photoshop®. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe® Photoshop®.
+Define la interfaz IPlacedLayerResource que contiene información sobre una capa colocada en el archivo PSD. Es una interfaz de marcado utilizada para designar recursos PlLd, Sold y Sole en las imágenes de Adobe® Photoshop®. Es usada para soportar capas de objetos inteligentes en las imágenes de Adobe® Photoshop®.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -18,38 +19,38 @@ public interface IPlacedLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Obtiene o establece la política de suavizado de la capa colocada en la imagen PSD. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Obtiene o establece la política de antialias de la capa colocada en la imagen PSD. |
 | [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Obtiene o establece la ubicación inferior de la capa colocada en la imagen PSD. |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Obtiene o establece los límites de la capa colocada en el archivo PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de la malla horizontal. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Obtiene o establece un valor que indica si el estilo de deformación de esta instancia es personalizado. Si es verdadero, contiene puntos de malla. Si se establece en falso, borra los puntos de malla. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Obtiene o establece los elementos warp. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de malla horizontales. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Obtiene o establece un valor que indica si el estilo de deformación de esta instancia es personalizado. Si es verdadero, contiene puntos de malla. Si se establece en falso, elimina los puntos de malla. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Obtiene o establece los elementos de deformación. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PSD. |
 | [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Obtiene o establece el número de página de la capa colocada en el archivo PSD. |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Obtiene o establece el valor de perspectiva de la capa colocada en el archivo PSD. |
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Obtiene o establece el otro valor de perspectiva de la capa colocada en el archivo PSD. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Obtiene o establece el tipo de capa colocada en el archivo PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Obtiene o establece la ubicación correcta de la capa colocada en el archivo PSD. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Obtiene o establece el tipo de la capa colocada en el archivo PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Obtiene o establece la ubicación derecha de la capa colocada en el archivo PSD. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Obtiene o establece la ubicación superior de la capa colocada en la imagen PSD. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Obtiene o establece el total de páginas de la capa colocada en el archivo PSD. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Obtiene o establece el número total de páginas de la capa colocada en el archivo PSD. |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Obtiene o establece la matriz de transformación de la capa colocada en el archivo PSD. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Obtiene o establece el identificador único global de la capa colocada en la imagen PSD. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Obtiene o establece el identificador único global de la capa colocada del objeto inteligente en la imagen PSD. |
 | [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Obtiene o establece el valor de orden U de la capa colocada en el archivo PSD. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Obtiene o establece el valor de deformación de la capa colocada en la imagen PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Obtiene la versión de la capa colocada en el archivo PSD, generalmente 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Obtiene la versión de la capa colocada en el archivo PSD, normalmente 3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD. |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de malla vertical. |
 | [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Obtiene o establece el valor de orden V de la capa colocada en el archivo PSD. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con el recurso SoLdResource.
+El siguiente código demuestra el soporte del recurso SoLdResource.
 
 ```csharp
 [C#]
 
-// Este ejemplo muestra cómo obtener o establecer las propiedades de datos de la capa de objeto inteligente del archivo PSD.
+// Este ejemplo muestra cómo obtener o establecer las propiedades de los datos de la capa de objeto inteligente del archivo PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-                // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+                // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+                // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,19 +330,20 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Esta identificación única debe cambiarse en las referencias, si las hay
+                // Este Unique Id debe cambiarse en las referencias, si las hay
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible con Adobe® Photoshop®
-                ////recurso.UOrder = 6;
-                ////recurso.VOrden = 9;
+                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible para Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // No cambie esto, de lo contrario no podrá usar la transformación libre
-                // o cambie el objeto inteligente subrayado al tipo de vector
-                ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+                // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+                // o cambie el objeto inteligente subyacente al tipo vector
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Debería haber un PlLdResource válido con este ID único
-                ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Debe haber un PlLdResource válido con este Unique Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -355,7 +357,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

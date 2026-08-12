@@ -1,34 +1,35 @@
 ---
-title: SmartObjectProvider.NewSmartObjectViaCopy
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectProvider método. Crea una nueva capa de objeto inteligente copiando la fuente.
+title: "SmartObjectProvider.NewSmartObjectViaCopy"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "SmartObjectProvider método. Crea una nueva capa de objeto inteligente copiando la original"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-Crea una nueva capa de objeto inteligente copiando la fuente.
+Crea una nueva capa de objeto inteligente copiando la original.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | sourceLayer | SmartObjectLayer | La capa de origen. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El clonado[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instancia.
+La instancia clonada de [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Solo puede reemplazar un objeto inteligente incrustado. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Solo puedes reemplazar un objeto inteligente incrustado. |
 
-### Ejemplos
+## Ejemplos
 
 Estos ejemplos demuestran cómo copiar capas de objetos inteligentes en una imagen PSD.
 
@@ -46,7 +47,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // El número de capa a copiar
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -67,17 +68,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Invirtamos la imagen del objeto inteligente incrustado (para una imagen PSD interna, invertimos solo su primera capa)
+            // Invertamos la imagen del objeto inteligente incrustado (para una imagen PSD interna invertimos solo su primera capa)
             InvertImage(innerImage);
 
-            // Reemplacemos la imagen del objeto inteligente incrustado en la capa PSD
+            // Reemplacemos la imagen del objeto inteligente incrustada en la capa del PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
         // La capa duplicada comparte su imagen incrustada con el objeto inteligente original
-        // y debe actualizarse explícitamente; de lo contrario, su caché de representación permanece sin cambios.
+        // y debe actualizarse explícitamente; de lo contrario, su caché de renderizado permanece sin cambios.
         // Actualizamos cada objeto inteligente para asegurarnos de que la nueva capa creada por NewSmartObjectViaCopy
-        // no comparte la imagen incrustada con los demás.
+        // no comparta la imagen incrustada con los demás.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -85,7 +86,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// Invierte la imagen raster incluyendo la imagen PSD.
+// Invierte la imagen rasterizada, incluida la imagen PSD.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -99,7 +100,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Invierte la imagen ráster.
+// Invierte la imagen raster.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -126,7 +127,7 @@ void AssertIsTrue(bool condition)
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

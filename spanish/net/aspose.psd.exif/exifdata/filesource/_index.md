@@ -1,11 +1,12 @@
 ---
-title: ExifData.FileSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el tipo de origen del archivo.
+title: "ExifData.FileSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ExifData property. Obtiene o establece el tipo de origen del archivo"
 type: docs
 weight: 240
 url: /es/net/aspose.psd.exif/exifdata/filesource/
 ---
+{{< psd/tize >}}
 ## ExifData.FileSource property
 
 Obtiene o establece el tipo de origen del archivo.
@@ -14,7 +15,7 @@ Obtiene o establece el tipo de origen del archivo.
 public ExifFileSource FileSource { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de origen del archivo.
 
@@ -22,7 +23,7 @@ El tipo de origen del archivo.
 
 * enum [ExifFileSource](../../../aspose.psd.exif.enums/exiffilesource/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

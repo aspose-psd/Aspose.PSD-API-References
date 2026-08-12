@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizerSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageOptions.RdOptimizerSettings clase. Configuración del optimizador de escritorio remoto class
+title: "Clase RdOptimizerSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ImageOptions.RdOptimizerSettings. Clase de configuración del optimizador RD"
 type: docs
-weight: 4910
+weight: 5400
 url: /es/net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings class
 
-Configuración del optimizador de escritorio remoto class
+Clase de configuración del optimizador RD.
 
 ```csharp
 public class RdOptimizerSettings
@@ -18,18 +19,18 @@ public class RdOptimizerSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [RdOptimizerSettings](rdoptimizersettings/)() | Constructor predeterminado |
+| [RdOptimizerSettings](rdoptimizersettings/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | Obtiene o establece el valor R máximo a considerar en bits por píxel |
+| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | Obtiene o establece el valor máximo R para consideración en bits por píxel |
 | [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | Obtiene o establece el factor de escala BPP (bits por píxel). |
-| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | Obtiene el valor máximo de R para su consideración. |
+| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | Obtiene el valor máximo R para consideración. |
 | [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | Obtiene el valor máximo de píxel. |
-| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | Obtiene o establece el valor máximo de cuantificación. |
-| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | Obtiene el valor de cuantización mínimo permitido. |
+| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | Obtiene o establece el valor máximo de cuantización. |
+| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | Obtiene el valor mínimo permitido de cuantización. |
 | [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | Obtiene el valor máximo esperado de PSNR. |
 
 ## Métodos
@@ -40,7 +41,7 @@ public class RdOptimizerSettings
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

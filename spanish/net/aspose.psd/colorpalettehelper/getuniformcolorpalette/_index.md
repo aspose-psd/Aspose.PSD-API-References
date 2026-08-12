@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetUniformColorPalette
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorPaletteHelper método. Consigue una paleta uniforme de 256 colores.
+title: "ColorPaletteHelper.GetUniformColorPalette"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorPaletteHelper. Obtiene una paleta de color uniforme de 256 colores"
 type: docs
 weight: 80
 url: /es/net/aspose.psd/colorpalettehelper/getuniformcolorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetUniformColorPalette method
 
-Consigue una paleta uniforme de 256 colores.
+Obtiene una paleta uniforme de 256 colores.
 
 ```csharp
 public static ColorPalette GetUniformColorPalette(RasterImage image)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| image | RasterImage | La imagen. |
+| imagen | RasterImage | La imagen. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El[`ColorPalette`](../../colorpalette/) .
+El [`ColorPalette`](../../colorpalette/).
 
 ### Ver también
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* espacio de nombres [Aspose.PSD](../../colorpalettehelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

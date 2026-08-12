@@ -1,27 +1,28 @@
 ---
-title: Font.GetXmpRepresentation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font método. Obtiene el valor de la cadena contenida en formato XMP.
+title: "Font.GetXmpRepresentation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Font. Obtiene el valor de cadena contenido en formato XMP"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.xmp.types.complex.font/font/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Font.GetXmpRepresentation method
 
-Obtiene el valor de la cadena contenida en formato XMP.
+Obtiene el valor de cadena contenido en formato XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve el valor contenido en la cadena en formato XMP.
+Devuelve el valor de cadena contenido en formato XMP.
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

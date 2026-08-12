@@ -1,14 +1,15 @@
 ---
-title: EllipseShape.EllipseShape
-second_title: Referencia de API de Aspose.PSD para .NET
-description: EllipseShape constructor. Inicializa una nueva instancia delEllipseShape clase.
+title: "EllipseShape.EllipseShape"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor EllipseShape. Inicializa una nueva instancia de la clase EllipseShape"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape() {#constructor}
 
-Inicializa una nueva instancia del[`EllipseShape`](../) clase.
+Inicializa una nueva instancia de la clase [`EllipseShape`](../).
 
 ```csharp
 public EllipseShape()
@@ -17,28 +18,28 @@ public EllipseShape()
 ### Ver también
 
 * class [EllipseShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../ellipseshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-Inicializa una nueva instancia del[`EllipseShape`](../) clase.
+Inicializa una nueva instancia de la clase [`EllipseShape`](../).
 
 ```csharp
 public EllipseShape(RectangleF rectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | RectangleF | el rectángulo |
+| rectángulo | RectangleF | El rectángulo. |
 
 ### Ver también
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../ellipseshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

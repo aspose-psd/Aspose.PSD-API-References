@@ -1,14 +1,15 @@
 ---
-title: Class OSTypeStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure clase. Representa la estructura del tipo de SO.
+title: "Clase OSTypeStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure. Representa la estructura de tipo OS"
 type: docs
-weight: 2850
+weight: 3190
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure class
 
-Representa la estructura del tipo de SO.
+Representa la estructura de tipo OS.
 
 ```csharp
 public abstract class OSTypeStructure
@@ -18,15 +19,15 @@ public abstract class OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [OSTypeStructure](ostypestructure/)(ClassID) | Inicializa una nueva instancia del`OSTypeStructure` clase. |
+| [OSTypeStructure](ostypestructure/)(ClassID) | Inicializa una nueva instancia de la clase `OSTypeStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Obtiene la clave de estructura. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Obtiene la clave de la estructura. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Obtiene el`OSTypeStructure` longitud en bytes. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Obtiene la longitud en bytes de `OSTypeStructure`. |
 
 ## Métodos
 
@@ -38,7 +39,7 @@ public abstract class OSTypeStructure
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

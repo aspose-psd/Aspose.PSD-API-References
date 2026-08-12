@@ -1,27 +1,28 @@
 ---
-title: CmykColor.C
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykColor propiedad. Obtiene el valor del componente cian de esteColorestructura.
+title: "CmykColor.C"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CmykColor. Obtiene el valor del componente cian de esta estructura Color"
 type: docs
-weight: 20
+weight: 30
 url: /es/net/aspose.psd/cmykcolor/c/
 ---
+{{< psd/tize >}}
 ## CmykColor.C property
 
-Obtiene el valor del componente cian de este[`Color`](../../color/)estructura.
+Obtiene el valor del componente cian de esta estructura [`Color`](../../color/).
 
 ```csharp
 public byte C { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor del componente cian de este[`Color`](../../color/) .
+El valor del componente cian de este [`Color`](../../color/).
 
 ### Ver también
 
 * struct [CmykColor](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolor/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

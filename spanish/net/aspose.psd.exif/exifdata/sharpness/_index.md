@@ -1,11 +1,12 @@
 ---
-title: ExifData.Sharpness
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la nitidez.
+title: "ExifData.Sharpness"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la nitidez"
 type: docs
 weight: 940
 url: /es/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
 Obtiene o establece la nitidez.
@@ -14,14 +15,14 @@ Obtiene o establece la nitidez.
 public ushort Sharpness { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La nitidez.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

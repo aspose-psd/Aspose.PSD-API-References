@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPacketWrapper propiedad. Obtiene la instrucción de procesamiento del tráiler.
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad XmpPacketWrapper. Obtiene la instrucción de procesamiento del tráiler"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
 Obtiene la instrucción de procesamiento del tráiler.
@@ -14,15 +15,15 @@ Obtiene la instrucción de procesamiento del tráiler.
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Instrucción de procesamiento de remolque.
+Instrucción de procesamiento del tráiler.
 
 ### Ver también
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

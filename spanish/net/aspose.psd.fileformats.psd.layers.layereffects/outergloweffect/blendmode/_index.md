@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OuterGlowEffect propiedad. Obtiene o establece el modo de fusión.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OuterGlowEffect propiedad. Obtiene o establece el modo de fusión"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
 Obtiene o establece el modo de fusión.
@@ -14,13 +15,13 @@ Obtiene o establece el modo de fusión.
 public BlendMode BlendMode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El modo de mezcla.
+El modo de fusión.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con OuterGlowEffect.
+El siguiente código demuestra el soporte de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

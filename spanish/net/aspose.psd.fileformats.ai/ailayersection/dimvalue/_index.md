@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece el valor de atenuación como porcentaje. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa al porcentaje especificado.
+title: "AiLayerSection.DimValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece el valor de atenuación como porcentaje. Reduce la intensidad de las imágenes vinculadas y de las imágenes de mapa de bits contenidas en la capa al porcentaje especificado"
 type: docs
-weight: 30
+weight: 40
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Obtiene o establece el valor de atenuación como porcentaje. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa al porcentaje especificado.
+Obtiene o establece el valor de atenuación como porcentaje. Reduce la intensidad de las imágenes vinculadas y de los mapas de bits contenidos en la capa al porcentaje especificado.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor dim como porcentaje.
+El valor de atenuación como porcentaje.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

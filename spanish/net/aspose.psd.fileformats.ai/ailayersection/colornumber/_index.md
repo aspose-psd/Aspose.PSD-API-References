@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece el número de color. 1 es el valor de color personalizado de las propiedades Rojo Verde Azul. Especifica la configuración de color de la capa.
+title: "AiLayerSection.ColorNumber"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece el número de color. 1 es el valor de color personalizado de las propiedades Rojo, Verde y Azul. Especifica la configuración de color de la capa"
 type: docs
-weight: 20
+weight: 30
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
 Obtiene o establece el número de color. -1 es el valor de color personalizado de las propiedades Rojo, Verde, Azul. Especifica la configuración de color de la capa.
@@ -14,13 +15,13 @@ Obtiene o establece el número de color. -1 es el valor de color personalizado d
 public int ColorNumber { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El número de color.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

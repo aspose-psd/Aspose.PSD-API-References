@@ -1,11 +1,12 @@
 ---
-title: IText.AddPortion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IText método. Agrega la porción de texto al final
+title: "IText.AddPortion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IText. Añade la porción de texto al final"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itext/addportion/
 ---
+{{< psd/tize >}}
 ## IText.AddPortion method
 
 Agrega la porción de texto al final
@@ -14,19 +15,19 @@ Agrega la porción de texto al final
 public void AddPortion(ITextPortion portion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| portion | ITextPortion | La porción. |
+| porción | ITextPortion | La porción. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede representar diferentes estilos en una capa de texto en Aspose.PSD
+El siguiente ejemplo muestra cómo puedes renderizar diferentes estilos en una capa de texto en Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -49,12 +50,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // editar estilo de texto "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // editar estilo de texto "2\r"
-    newPortions[2].Style.FauxBold = true; // editar estilo de texto "Negrita"
-    newPortions[3].Style.FauxItalic = true; // editar estilo de texto "Cursiva\r"
-    newPortions[3].Style.BaselineShift = -25; // editar estilo de texto "Cursiva\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // editar estilo de texto "Texto en minúsculas"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -66,7 +67,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El siguiente ejemplo de código muestra la edición de porciones de texto y su estilo de texto.
+El siguiente ejemplo de código demuestra la edición de porciones de texto y su estilo de texto.
 
 ```csharp
 [C#]
@@ -89,7 +90,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando el texto de cada porción
+            // Comprobando el texto de cada porción
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -98,8 +99,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando los datos de los párrafos
-            // Los párrafos tienen diferente justificación
+            // Comprobando los datos de los párrafos
+            // Los párrafos tienen justificación diferente
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -133,7 +134,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -148,8 +149,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Comprobando datos de estilo
-            // Los estilos tienen diferentes colores y tamaños de letra
+            // Comprobando los datos de estilo
+            // Los estilos tienen colores diferentes y tamaño de fuente
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -189,7 +190,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Ejemplo de cómo agregar una nueva porción de texto
+            // Ejemplo de agregar una nueva porción de texto
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -197,17 +198,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Ejemplo de edición de párrafo y estilo para porciones
-            // Establecer justificación correcta
+            // Establecer justificación a la derecha
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Diferentes colores para cada estilo. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Diferentes colores para cada estilo. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Fuente diferente. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Fuente diferente. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -226,7 +227,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * interface [ITextPortion](../../itextportion/)
 * interface [IText](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

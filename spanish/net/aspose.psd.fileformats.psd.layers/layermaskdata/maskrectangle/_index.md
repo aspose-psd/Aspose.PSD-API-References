@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerMaskData propiedad. Obtiene o establece la máscaraRectanglede la máscara de capa en el archivo PSD. Toma las propiedades izquierda derecha superior e inferior y creaRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LayerMaskData propiedad. Obtiene o establece el rectángulo de máscara de la máscara de capa en el archivo PSD. Toma las propiedades left, right, top y bottom y crea Rectangle"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Obtiene o establece la máscara[`Rectangle`](../../../aspose.psd/rectangle/)de la máscara de capa en el archivo PSD. Toma las propiedades izquierda, derecha, superior e inferior y crea[`Rectangle`](../../../aspose.psd/rectangle/)
+Obtiene o establece la máscara [`Rectangle`](../../../aspose.psd/rectangle/) de la máscara de capa en el archivo PSD. Toma las propiedades left, right, top y bottom y crea [`Rectangle`](../../../aspose.psd/rectangle/)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El rectángulo de la máscara.
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo muestra cómo obtener, actualizar, eliminar y agregar máscaras de capa ráster en el archivo de Adobe® Photoshop® mediante programación.
+Este ejemplo muestra cómo obtener, actualizar, eliminar y agregar máscaras de capa raster en el archivo Adobe® Photoshop® de forma programática.
 
 ```csharp
 [C#]
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Obtiene una máscara de trama de la capa de una imagen PSD y la guarda en un archivo
+// Obtiene una máscara raster de la capa de una imagen PSD y la guarda en un archivo
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Agrega una máscara de trama del archivo a la capa y la guarda en la imagen en formato PSD
+// Agrega una máscara raster del archivo a la capa y la guarda en la imagen en formato PSD
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,21 +101,21 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Solo agregar LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan;
-    // capa.LayerMaskData = máscara; // Esto no agrega el canal de máscara
+    // Simplemente agregar LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan;
+    // layer.LayerMaskData = mask; // Esto no agrega el canal de máscara
 
-    // Añadir (o actualizar) la máscara
-    layer.AddLayerMask(maskData); // ¡Pero esto agrega/actualiza tanto la máscara como los canales!
+    // Agregar (o actualizar) la máscara
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// Este ejemplo muestra cómo obtener, actualizar, eliminar y agregar máscaras de capa ráster en el archivo de Adobe® Photoshop® mediante programación.
+// Este ejemplo muestra cómo obtener, actualizar, eliminar y agregar máscaras de capa raster en el archivo Adobe® Photoshop® de forma programática.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Obtenga una máscara rasterizada de la capa y guárdela en un archivo
+    // Obtener una máscara raster de la capa y guardarla en un archivo
     SaveRasterMask("FourWithMasks2.msk", layer);
 
     // Cambiar la máscara de capa (invertir) y guardar la imagen
@@ -125,22 +126,22 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Solo cambiar LayerMaskData es suficiente para efectuar el renderizado
+    // Simplemente cambiar LayerMaskData es suficiente para afectar la renderización
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Pero solo cambiar LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan;
-    layer.LayerMaskData = mask; // Esto tampoco funciona
-    layer.AddLayerMask(mask); // ¡Pero esto actualiza tanto la máscara como los canales!
+    // Pero simplemente cambiar LayerMaskData no es suficiente para guardar correctamente porque los canales no se actualizan;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // Elimina una máscara rasterizada de la capa y guarda la imagen
-    layer.LayerMaskData = null; // Solo eliminar LayerMaskData es suficiente para efectuar el renderizado pero no para guardar en formato PSD
+    // Eliminar una máscara raster de la capa y guardar la imagen
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // ¡Pero esto elimina tanto la máscara como el canal de la máscara!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // Agregue una máscara de trama del archivo a la capa y guarde la imagen
+    // Agregar una máscara raster del archivo a la capa y guardar la imagen
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
@@ -151,7 +152,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 
