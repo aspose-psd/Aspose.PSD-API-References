@@ -69,10 +69,10 @@ using (im)
                         throw new Exception("Gradient Transparency Points were read Wrong");
                     }
                     var colorPoints = resource.ColorPoints;
-                    if (colorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+                    if (colorPoints[0].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 64, 140) ||
                      colorPoints[0].Location != 0 ||
                      colorPoints[0].MedianPointLocation != 50 ||
-                     colorPoints[1].Color != Color.FromArgb(203, 0, 0) ||
+                     colorPoints[1].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 0, 0) ||
                      colorPoints[1].Location != 4096 ||
                      colorPoints[1].MedianPointLocation != 50)
                     {
@@ -91,7 +91,7 @@ using (im)
                     List<IGradientTransparencyPoint>(resource.TransparencyPoints);
                     newColorPoints.Add(new GradientColorPoint()
                     {
-                        Color = Color.Violet,
+                        RawColor = RawColorHelper.CreateArgb8BitColor(Color.Violet),
                         Location = 4096,
                         MedianPointLocation = 75
                     });

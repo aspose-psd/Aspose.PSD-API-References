@@ -3,7 +3,7 @@ title: Enum SmoothingMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.SmoothingMode enum. Specifies whether smoothing antialiasing is applied to lines and curves and the edges of filled areas
 type: docs
-weight: 6070
+weight: 6100
 url: /net/aspose.psd/smoothingmode/
 ---
 {{< psd/tize >}}

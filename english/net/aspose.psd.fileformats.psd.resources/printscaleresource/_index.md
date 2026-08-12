@@ -3,7 +3,7 @@ title: Class PrintScaleResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.PrintScaleResource class. Print Scale resource
 type: docs
-weight: 4310
+weight: 4340
 url: /net/aspose.psd.fileformats.psd.resources/printscaleresource/
 ---
 {{< psd/tize >}}

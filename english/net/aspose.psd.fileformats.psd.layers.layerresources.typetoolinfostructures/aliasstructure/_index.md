@@ -26,10 +26,11 @@ public sealed class AliasStructure : OSTypeStructure
 | Name | Description |
 | --- | --- |
 | [DataLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/) { get; } | Gets the exact data length in bytes. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/) { get; set; } | Gets or sets the full path. |
+| [DisplacementMapPath](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/displacementmappath/) { get; } | Gets the displacement map full path extracted from the alias data, or null if not found. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/key/) { get; } | Gets the structure key. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Gets or sets the key name. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length/) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) length in bytes. |
+| [Payload](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/payload/) { get; set; } | Gets or sets the payload data. |
 
 ## Methods
 
