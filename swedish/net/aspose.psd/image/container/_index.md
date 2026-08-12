@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. FårImage container.
+title: "Image.Container"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar Image-behållaren"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Får[`Image`](../) container.
+Hämtar [`Image`](../) behållaren.
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den[`Image`](../) container.
+Den [`Image`](../) behållaren.
 
-### Anmärkningar
+## Anmärkningar
 
-Om den här egenskapen inte är null indikerar det att bilden finns i en annan bild.
+Om den här egenskapen inte är null indikerar det att bilden är innesluten i en annan bild.
 
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

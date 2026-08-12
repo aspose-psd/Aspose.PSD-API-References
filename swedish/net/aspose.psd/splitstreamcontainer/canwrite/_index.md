@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanWrite
-second_title: Aspose.PSD för .NET API-referens
-description: SplitStreamContainer fast egendom. Får ett värde som indikerar om ström stöder skrivning.
+title: "SplitStreamContainer.CanWrite"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SplitStreamContainer-egenskap. Hämtar ett värde som indikerar om strömmen stöder skrivning"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/splitstreamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanWrite property
 
-Får ett värde som indikerar om ström stöder skrivning.
+Hämtar ett värde som indikerar om strömmen stödjer skrivning.
 
 ```csharp
 public override bool CanWrite { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om ström stöder skrivning; annat,`falsk`.
+`true` om strömmen stöder skrivning; annars `false`.
 
 ### Se även
 
 * class [SplitStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../splitstreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD för .NET API-referens
-description: LnkeResource byggare. Initierar en ny instans avLnkeResource class.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LnkeResource-konstruktor. Initierar en ny instans av klassen LnkeResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-Initierar en ny instans av[`LnkeResource`](../) class.
+Initierar en ny instans av klassen [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource()
@@ -17,14 +18,14 @@ public LnkeResource()
 ### Se även
 
 * class [LnkeResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Initierar en ny instans av[`LnkeResource`](../) class.
+Initierar en ny instans av klassen [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
@@ -38,7 +39,7 @@ public LnkeResource(LinkDataSource[] dataSources)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

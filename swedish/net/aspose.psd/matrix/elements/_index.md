@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix fast egendom. Får en matris med flyttalsvärden som representerar elementen i dettaMatrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-egenskap. Hämtar en array av flyttalsvärden som representerar elementen i denna Matrix"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-Får en matris med flyttalsvärden som representerar elementen i detta[`Matrix`](../) .
+Hämtar en array av flyttal som representerar elementen i denna [`Matrix`](../).
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En uppsättning flyttalsvärden som representerar elementen i detta[`Matrix`](../).
+En array av flyttal som representerar elementen i denna [`Matrix`](../).
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

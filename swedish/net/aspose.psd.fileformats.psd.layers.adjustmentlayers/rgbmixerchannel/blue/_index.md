@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Blue
-second_title: Aspose.PSD för .NET API-referens
-description: RgbMixerChannel fast egendom. Får eller ställer in den blå.
+title: "RgbMixerChannel.Blue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RgbMixerChannel-egenskap. Hämtar eller anger den blå"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Blue property
 
-Får eller ställer in den blå.
+Hämtar eller anger blått.
 
 ```csharp
 public short Blue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den blå.
 
 ### Se även
 
 * class [RgbMixerChannel](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

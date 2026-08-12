@@ -1,27 +1,28 @@
 ---
-title: Layer.HasAlpha
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Får ett värde som indikerar om denna instans har alpha.
+title: "Layer.HasAlpha"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer property. Hämtar ett värde som indikerar om detta objekt har alfa"
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
-Får ett värde som indikerar om denna instans har alpha.
+Hämtar ett värde som indikerar om detta objekt har alfa.
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har alfa; annat,`falsk` .
+`true` om detta objekt har alfa; annars `false`.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

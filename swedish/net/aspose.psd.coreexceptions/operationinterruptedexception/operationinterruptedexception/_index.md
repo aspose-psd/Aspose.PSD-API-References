@@ -1,14 +1,15 @@
 ---
-title: OperationInterruptedException.OperationInterruptedException
-second_title: Aspose.PSD för .NET API-referens
-description: OperationInterruptedException byggare. Initierar en ny instans avOperationInterruptedException class.
+title: "OperationInterruptedException.OperationInterruptedException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OperationInterruptedException konstruktor. Initierar en ny instans av klassen OperationInterruptedException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions/operationinterruptedexception/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException(string) {#constructor}
 
-Initierar en ny instans av[`OperationInterruptedException`](../) class.
+Initierar en ny instans av klassen [`OperationInterruptedException`](../).
 
 ```csharp
 public OperationInterruptedException(string message)
@@ -21,14 +22,14 @@ public OperationInterruptedException(string message)
 ### Se även
 
 * class [OperationInterruptedException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## OperationInterruptedException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`OperationInterruptedException`](../) class.
+Initierar en ny instans av klassen [`OperationInterruptedException`](../).
 
 ```csharp
 public OperationInterruptedException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public OperationInterruptedException(string message, Exception innerException)
 ### Se även
 
 * class [OperationInterruptedException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

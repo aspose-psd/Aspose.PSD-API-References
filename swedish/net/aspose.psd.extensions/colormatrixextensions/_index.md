@@ -1,14 +1,15 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Extensions.ColorMatrixExtensions klass. DenColorMatrix tilläggsmetoder.
+title: "Klass ColorMatrixExtensions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Extensions.ColorMatrixExtensions-klass. ColorMatrix-utökningmetoderna."
 type: docs
-weight: 1070
+weight: 1080
 url: /sv/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-Den[`ColorMatrix`](../../aspose.psd/colormatrix/) tilläggsmetoder.
+De [`ColorMatrix`](../../aspose.psd/colormatrix/) utökningmetoderna.
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -16,13 +17,13 @@ public static class ColorMatrixExtensions
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Konverterar[`ColorMatrix`](../../aspose.psd/colormatrix/) tillColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Konverterar [`ColorMatrix`](../../aspose.psd/colormatrix/) till ColorMatrix. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

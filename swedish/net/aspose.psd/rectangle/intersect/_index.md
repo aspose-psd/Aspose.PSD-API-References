@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle metod. Returnerar en tredjedelRectangle struktur som representerar skärningspunkten mellan två andraRectangle strukturer. Om det inte finns någon korsning en tomRectangle returneras.
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle-metod. Returnerar en tredje Rectangle-struktur som representerar skärningspunkten mellan två andra Rectangle-strukturer. Om det inte finns någon skärning returneras en tom Rectangle."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-Returnerar en tredjedel[`Rectangle`](../) struktur som representerar skärningspunkten mellan två andra[`Rectangle`](../) strukturer. Om det inte finns någon korsning, en tom[`Rectangle`](../) returneras.
+Returnerar en tredje [`Rectangle`](../)-struktur som representerar skärningspunkten mellan två andra [`Rectangle`](../)-strukturer. Om det inte finns någon skärning returneras en tom [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
@@ -16,24 +17,24 @@ public static Rectangle Intersect(Rectangle a, Rectangle b)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| a | Rectangle | En första rektangel att skära. |
-| b | Rectangle | En andra rektangel att skära. |
+| a | Rectangle | Den första rektangeln att skära. |
+| b | Rectangle | Den andra rektangeln att skära. |
 
 ### Returvärde
 
-A[`Rectangle`](../) som representerar skärningspunkten mellan*a* och*b*.
+En [`Rectangle`](../) som representerar skärningspunkten mellan *a* och *b*.
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-Ersätter detta[`Rectangle`](../) med skärningspunkten mellan sig själv och det specificerade[`Rectangle`](../) .
+Ersätter denna [`Rectangle`](../) med skärningspunkten mellan den själv och den angivna [`Rectangle`](../).
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -41,12 +42,12 @@ public void Intersect(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../) som man korsar sig med. |
+| rect | Rectangle | Den [`Rectangle`](../) att skära med. |
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

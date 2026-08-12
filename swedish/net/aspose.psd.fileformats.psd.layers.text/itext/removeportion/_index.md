@@ -1,14 +1,15 @@
 ---
-title: IText.RemovePortion
-second_title: Aspose.PSD för .NET API-referens
-description: IText metod. Tar bort delen i specificerad index
+title: "IText.RemovePortion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IText metod. Tar bort delen på angivet index"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itext/removeportion/
 ---
+{{< psd/tize >}}
 ## IText.RemovePortion method
 
-Tar bort delen i specificerad index
+Tar bort delen på angivet index
 
 ```csharp
 public void RemovePortion(int index)
@@ -18,9 +19,9 @@ public void RemovePortion(int index)
 | --- | --- | --- |
 | index | Int32 | Indexet. |
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar redigeringstextdelarna och deras textstil.
+Följande kodexempel demonstrerar redigering av textdelar och deras textstil.
 
 ```csharp
 [C#]
@@ -52,8 +53,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Kontrollera styckedata
-            // Stycken har olika motivering
+            // Kontrollerar styckens data
+            // Stycken har olika justering
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -63,7 +64,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Alla andra egenskaper i första och andra stycket är lika
+            // Alla andra egenskaper för första och andra stycket är lika
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -87,7 +88,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -150,18 +151,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exempel på stycke- och stilredigering för delar
-            // Ställ in rätt motivering
+            // Exempel på redigering av stycke och stil för textdelar
+            // Ställ in högerriktad justering
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Olika färger för varje stil. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika färger för varje stil. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Annat typsnitt. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika typsnitt. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -179,7 +180,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Se även
 
 * interface [IText](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

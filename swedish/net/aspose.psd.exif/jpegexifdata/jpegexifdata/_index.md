@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData byggare. Initierar en ny instans avJpegExifData class.
+title: "JpegExifData.JpegExifData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData-konstruktor. Initierar en ny instans av JpegExifData-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.exif/jpegexifdata/jpegexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData() {#constructor}
 
-Initierar en ny instans av[`JpegExifData`](../) class.
+Initierar en ny instans av klassen [`JpegExifData`](../).
 
 ```csharp
 public JpegExifData()
@@ -17,14 +18,14 @@ public JpegExifData()
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[]) {#constructor_1}
 
-Initierar en ny instans av[`JpegExifData`](../) klass med data från array.
+Initierar en ny instans av klassen [`JpegExifData`](../) med data från en array.
 
 ```csharp
 public JpegExifData(TiffDataType[] exifdata)
@@ -38,14 +39,14 @@ public JpegExifData(TiffDataType[] exifdata)
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Initierar en ny instans av[`JpegExifData`](../) klass med data från array.
+Initierar en ny instans av klassen [`JpegExifData`](../) med data från en array.
 
 ```csharp
 public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
@@ -61,7 +62,7 @@ public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffData
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: Aspose.PSD för .NET API-referens
-description: FixedPointDecimal fast egendom. Hämtar eller ställer in heltal.
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FixedPointDecimal egenskap. Hämtar eller anger heltalet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
-Hämtar eller ställer in heltal.
+Hämtar eller anger heltalet.
 
 ```csharp
 public int Integer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Heltalet.
 
 ### Se även
 
 * class [FixedPointDecimal](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

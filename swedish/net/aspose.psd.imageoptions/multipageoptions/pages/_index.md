@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.PSD för .NET API-referens
-description: MultiPageOptions fast egendom. Hämtar eller ställer in sidorna.
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MultiPageOptions egenskap. Hämtar eller anger sidorna"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
-Hämtar eller ställer in sidorna.
+Hämtar eller anger sidorna.
 
 ```csharp
 public int[] Pages { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Sidorna.
 
 ### Se även
 
 * class [MultiPageOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

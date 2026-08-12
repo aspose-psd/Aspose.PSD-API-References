@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet hanterar Psdresursers resolution units
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet hanterar Psd-resursupplösningsenheter"
 type: docs
-weight: 360
+weight: 400
 url: /sv/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-Namnutrymmet hanterar Psd-resursers resolution units
+{{< psd/tize >}}
+Namnutrymmet hanterar Psd-resursupplösningsenheter
 
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | ResoulutionInfo fysiska enheten enum |
-| [ResolutionUnit](./resolutionunit/) | Upplösningen info resolution unit |
+| [PhysicalUnit](./physicalunit/) | Den fysiska enhetsenum för resoulutionInfo |
+| [ResolutionUnit](./resolutionunit/) | Den resolution info upplösningsenhet |
 
 

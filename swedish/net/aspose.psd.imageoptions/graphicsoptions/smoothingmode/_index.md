@@ -1,14 +1,15 @@
 ---
-title: GraphicsOptions.SmoothingMode
-second_title: Aspose.PSD för .NET API-referens
-description: GraphicsOptions fast egendom. Hämtar eller ställer in utjämningsläge.
+title: "GraphicsOptions.SmoothingMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GraphicsOptions-egenskap. Hämtar eller anger utjämningsläge"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imageoptions/graphicsoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.SmoothingMode property
 
-Hämtar eller ställer in utjämningsläge.
+Hämtar eller anger utjämningsläge.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
@@ -18,7 +19,7 @@ public SmoothingMode SmoothingMode { get; set; }
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [GraphicsOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

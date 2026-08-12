@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.XmpData
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in XMPmetadatabehållaren.
+title: "TiffOptions.XmpData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger XMP-metadatabehållaren"
 type: docs
-weight: 580
+weight: 590
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XmpData property
 
-Hämtar eller ställer in XMP-metadatabehållaren.
+Hämtar eller anger XMP-metadatabehållaren.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-XMP-databehållaren.
+XMP‑databehållaren.
 
 ### Se även
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

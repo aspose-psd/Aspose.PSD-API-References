@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD för .NET API-referens
-description: GradientFillSettings fast egendom. Hämtar eller ställer in skalan.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientFillSettings egenskap. Hämtar eller anger den normaliserade gradientens skala i procent."
 type: docs
-weight: 120
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-Hämtar eller ställer in skalan.
+Hämtar eller anger den **normaliserade** gradientskalan (i procent)
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skalan.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Skalan måste ligga inom intervallet 1 till 1000. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Skalan måste vara i intervallet från 1 till 1000. |
 
 ### Se även
 
 * class [GradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in skannertillverkaren.
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger skannertillverkaren"
 type: docs
-weight: 410
+weight: 420
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
-Hämtar eller ställer in skannertillverkaren.
+Hämtar eller anger skannertillverkaren.
 
 ```csharp
 public string ScannerManufacturer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skannertillverkaren.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

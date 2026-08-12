@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: Aspose.PSD för .NET API-referens
-description: TextureBrush fast egendom. FårRectangle i samband med dettaTextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextureBrush-egenskap. Hämtar Rectangle som är associerad med detta TextureBrush"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-Får[`Rectangle`](../../../aspose.psd/rectangle/) i samband med detta[`TextureBrush`](../) .
+Hämtar [`Rectangle`](../../../aspose.psd/rectangle/) som är associerad med detta [`TextureBrush`](../).
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De[`Rectangle`](../../../aspose.psd/rectangle/).
+Den [`Rectangle`](../../../aspose.psd/rectangle/).
 
 ### Se även
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../texturebrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

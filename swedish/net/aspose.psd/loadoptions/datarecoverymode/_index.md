@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: Aspose.PSD för .NET API-referens
-description: LoadOptions fast egendom. Hämtar eller ställer in dataåterställningsläget.
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LoadOptions-egenskap. Hämtar eller anger dataåtervinningsläget"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
-Hämtar eller ställer in dataåterställningsläget.
+Hämtar eller anger dataräddningsläget.
 
 ```csharp
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Dataåterställningsläget.
+Datåterställningsläget.
 
 ### Se även
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* namnutrymme [Aspose.PSD](../../loadoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

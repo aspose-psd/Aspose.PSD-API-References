@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.CenterPoint
-second_title: Aspose.PSD för .NET API-referens
-description: PathGradientBrushBase fast egendom. Hämtar eller ställer in mittpunkten för banans gradient.
+title: "PathGradientBrushBase.CenterPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathGradientBrushBase‑egenskap. Hämtar eller anger mittpunkten för sökvägsgradienten"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.brushes/pathgradientbrushbase/centerpoint/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.CenterPoint property
 
-Hämtar eller ställer in mittpunkten för banans gradient.
+Hämtar eller anger centrumpunkten för bangradienten.
 
 ```csharp
 public PointF CenterPoint { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`PointF`](../../../aspose.psd/pointf/) som representerar mittpunkten för banans gradient.
+En [`PointF`](../../../aspose.psd/pointf/) som representerar mittpunkten för sökvägsgradienten.
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

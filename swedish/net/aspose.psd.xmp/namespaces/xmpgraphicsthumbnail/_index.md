@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpGraphicsThumbnail
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. XMPgrafiknamnområde.
+title: "Namespaces.XmpGraphicsThumbnail"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namespaces-fält. XMP-grafiknamnrymd"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphicsThumbnail field
 
-XMP-grafiknamnområde.
+XMP graphics namnrymd.
 
 ```csharp
 public const string XmpGraphicsThumbnail;
@@ -17,7 +18,7 @@ public const string XmpGraphicsThumbnail;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

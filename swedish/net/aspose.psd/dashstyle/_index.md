@@ -1,33 +1,34 @@
 ---
-title: Enum DashStyle
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.DashStyle uppräkning. Anger stilen för streckade linjer som ritas med aPen objekt.
+title: "Enum DashStyle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.DashStyle-enum. Anger stilen på streckade linjer som ritas med ett Pen-objekt"
 type: docs
-weight: 720
+weight: 730
 url: /sv/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-Anger stilen för streckade linjer som ritas med a[`Pen`](../pen/) objekt.
+Anger stilen på streckade linjer som ritas med ett [`Pen`](../pen/)‑objekt.
 
 ```csharp
 public enum DashStyle
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Solid | `0` | Anger en heldragen linje. |
-| Dash | `1` | Anger en linje som består av bindestreck. |
-| Dot | `2` | Anger en linje som består av punkter. |
-| DashDot | `3` | Anger en linje som består av ett upprepande mönster av streck-dot. |
-| DashDotDot | `4` | Anger en linje som består av ett upprepande mönster av streck-dot-dot. |
-| Custom | `5` | Anger en användardefinierad anpassad bindestreckstil. |
+| Solid | `0` | Anger en solid linje. |
+| Dash | `1` | Anger en linje bestående av streck. |
+| Dot | `2` | Anger en linje bestående av punkter. |
+| DashDot | `3` | Anger en linje bestående av ett upprepande mönster av streck-punkt. |
+| DashDotDot | `4` | Anger en linje bestående av ett upprepande mönster av streck-punkt-punkt. |
+| Custom | `5` | Anger en användardefinierad anpassad streckstil. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

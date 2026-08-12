@@ -1,14 +1,15 @@
 ---
-title: CurvesContinuousManager.CurvesContinuousManager
-second_title: Aspose.PSD för .NET API-referens
-description: CurvesContinuousManager byggare. Initierar en ny instans avCurvesContinuousManager class.
+title: "CurvesContinuousManager.CurvesContinuousManager"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvesContinuousManager-konstruktor. Initierar en ny instans av klassen CurvesContinuousManager"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager constructor
 
-Initierar en ny instans av[`CurvesContinuousManager`](../) class.
+Initierar en ny instans av klassen [`CurvesContinuousManager`](../).
 
 ```csharp
 public CurvesContinuousManager(int maxChannelCount)
@@ -16,12 +17,12 @@ public CurvesContinuousManager(int maxChannelCount)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxChannelCount | Int32 | Maximalt antal kanaler. |
+| maxChannelCount | Int32 | Det maximala kanalantalet. |
 
 ### Se även
 
 * class [CurvesContinuousManager](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

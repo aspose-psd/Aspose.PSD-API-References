@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions metod. Avgör om tagg finns i alternativen eller inte.
+title: "TiffOptions.IsTagPresent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-metod. Avgör om taggen finns i alternativen eller inte"
 type: docs
-weight: 730
+weight: 740
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
-Avgör om tagg finns i alternativen eller inte.
+Bestämmer om taggen finns i alternativen eller inte.
 
 ```csharp
 public bool IsTagPresent(TiffTags tag)
@@ -16,17 +17,17 @@ public bool IsTagPresent(TiffTags tag)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tag | TiffTags | Tagg-id att kontrollera. |
+| tagg | TiffTags | Tagg‑id‑t att kontrollera. |
 
 ### Returvärde
 
-`Sann` om taggen finns; annat,`falsk` .
+`true` om taggen finns; annars `false`.
 
 ### Se även
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

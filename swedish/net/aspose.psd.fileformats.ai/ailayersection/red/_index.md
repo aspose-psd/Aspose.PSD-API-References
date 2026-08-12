@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in den röda färgkomponenten.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection-egenskap. Hämtar eller anger den röda färgkomponenten"
 type: docs
-weight: 130
+weight: 150
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-Hämtar eller ställer in den röda färgkomponenten.
+Hämtar eller anger den röda färgkomponenten.
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den röda färgkomponenten.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: Aspose.PSD för .NET API-referens
-description: TransformBrush fast egendom. Får ett värde som indikerar om transformationer har ändrats på något sätt. Till exempel att ställa in transformationsmatrisen eller anropa någon av metoderna som ändrar transformationsmatrisen. Egenskapen introduceras för bakåtkompatibilitet med GDI.
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TransformBrush egenskap. Hämtar ett värde som indikerar om transformationer har ändrats på något sätt. Till exempel genom att sätta transformationsmatrisen eller anropa någon av metoderna som ändrar transformationsmatrisen. Egenskapen introduceras för bakåtkompatibilitet med GDI"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-Får ett värde som indikerar om transformationer har ändrats på något sätt. Till exempel att ställa in transformationsmatrisen eller anropa någon av metoderna som ändrar transformationsmatrisen. Egenskapen introduceras för bakåtkompatibilitet med GDI+.
+Hämtar ett värde som indikerar om transformationer har ändrats på något sätt. Till exempel att sätta transformationsmatrisen eller anropa någon av metoderna som ändrar transformationsmatrisen. Egenskapen infördes för bakåtkompatibilitet med GDI+.
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om transformationen ändrades; annat,`falsk` .
+`True` om transformationen har ändrats; annars `false`.
 
 ### Se även
 
 * class [TransformBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../transformbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

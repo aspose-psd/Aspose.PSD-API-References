@@ -1,28 +1,29 @@
 ---
-title: ExifData.WhitePoint
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in kromaticiteten för bildens vitpunkt.
+title: "ExifData.WhitePoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger kromaticiteten för bildens vitpunkt"
 type: docs
 weight: 1080
 url: /sv/net/aspose.psd.exif/exifdata/whitepoint/
 ---
+{{< psd/tize >}}
 ## ExifData.WhitePoint property
 
-Hämtar eller ställer in kromaticiteten för bildens vitpunkt.
+Hämtar eller anger kromaticiteten för bildens vita punkt.
 
 ```csharp
 public TiffRational[] WhitePoint { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kromaticiteten hos bildens vita punkt.
+Kromaticiteten för bildens vitpunkt.
 
 ### Se även
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: IShadowEffect.Noise
-second_title: Aspose.PSD för .NET API-referens
-description: IShadowEffect fast egendom. Får eller ställer in bruset.
+title: "IShadowEffect.Noise"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IShadowEffect-egenskap. Hämtar eller anger bruset"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Noise property
 
-Får eller ställer in bruset.
+Hämtar eller anger brus.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bullret.
+Bruset.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Brus måste anges som procent i intervallet 0 till 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Brus måste anges som procent i intervallet från 0 till 100 |
 
 ### Se även
 
 * interface [IShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

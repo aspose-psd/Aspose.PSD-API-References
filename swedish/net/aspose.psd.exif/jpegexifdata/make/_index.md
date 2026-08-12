@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Make
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in tillverkaren av färdskrivaren.
+title: "JpegExifData.Make"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData-egenskap. Hämtar eller anger tillverkaren av inspelningsutrustningen"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.exif/jpegexifdata/make/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Make property
 
-Hämtar eller ställer in tillverkaren av färdskrivaren.
+Hämtar eller anger tillverkaren av inspelningsutrustningen.
 
 ```csharp
 public string Make { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Tillverkaren av färdskrivaren.
+Tillverkaren av inspelningsutrustningen.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

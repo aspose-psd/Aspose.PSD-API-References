@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.JpegLsAllowedLossyError
-second_title: Aspose.PSD för .NET API-referens
-description: JpegOptions fast egendom. Hämtar eller ställer in JPEGLSskillnaden för nästan förlustfri kodning NEARparameter från JPEGLSspecifikationen.
+title: "JpegOptions.JpegLsAllowedLossyError"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegOptions egenskap. Hämtar eller anger JPEGLS-differensgränsen för närnära förlustfri kodning (NEAR-parameter) enligt JPEGLS-specifikationen"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsAllowedLossyError property
 
-Hämtar eller ställer in JPEG-LS-skillnaden för nästan förlustfri kodning (NEAR-parameter från JPEG-LS-specifikationen).
+Hämtar eller anger JPEG-LS-differensgränsen för nästan förlustfri kodning (NEAR-parameter från JPEG-LS-specifikationen).
 
 ```csharp
 public int JpegLsAllowedLossyError { get; set; }
@@ -17,7 +18,7 @@ public int JpegLsAllowedLossyError { get; set; }
 ### Se även
 
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

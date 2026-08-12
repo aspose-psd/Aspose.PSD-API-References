@@ -1,43 +1,47 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller lager i PSDfilformat.
+title: "Aspose.PSD.FileFormats.Psd.Layers"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnområdet innehåller lager för PSD-filformatet"
 type: docs
-weight: 210
+weight: 230
 url: /sv/net/aspose.psd.fileformats.psd.layers/
 ---
-Namnutrymmet innehåller lager i PSD-filformat.
+{{< psd/tize >}}
+Namnutrymmet innehåller PSD-filformatlager.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
+| [ArtboardLayer](./artboardlayer/) | Artboard-lagerklassen. |
 | [BlendRange](./blendrange/) | Blandningsintervallet. |
 | [ChannelInformation](./channelinformation/) | Kanalinformationen. |
-| [GlobalLayerMaskInfo](./globallayermaskinfo/) | Den globala lagermasksektionen. |
-| [Layer](./layer/) | PSD-lagret. |
+| [GlobalLayerMaskInfo](./globallayermaskinfo/) | Det globala lagermaskavsnittet. |
+| [Layer](./layer/) | PSD‑lagret. |
 | [LayerBlendingRangesData](./layerblendingrangesdata/) | Data för lagerblandningsintervall. |
-| [LayerGroup](./layergroup/) | Grupplager klass |
-| [LayerHashCalculator](./layerhashcalculator/) | Hash-kalkylator för PSD-lager. Den kan användas för att hitta lika eller olika lager i olika PSD-filer |
-| [LayerMaskData](./layermaskdata/) | Definierar basklassen LayerMaskData som innehåller information om lagermaskdata i PSD-filen. Det kan hjälpa till att modifiera Adobe® Photoshop®-filer programmatiskt och automatisera redigering av PSD-format. Om lagret endast har en rastermask innehåller ImageData rastret mask data bytes. Om lagret endast har en vektormask innehåller ImageData vektormasken rastrerade (cachelagrade) databytes. Om lagret har både lager- och vektormasker innehåller ImageData rastermasken och den rastrerade vektormasken kombinerat. De[`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)bytes längd ska vara lika Bredd * Höjd på[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) properties. Observera att det inte räcker att bara ta bort / lägga till / uppdatera LayerMaskData för att spara korrekt eftersom kanaler inte uppdateras; även om det kan ge korrekt rendering. The[`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) metod ska användas för det. |
-| [LayerMaskDataFull](./layermaskdatafull/) | Definierar klassen LayerMaskDataFull som innehåller information om maskdata i PSD-filen layer när lagret har både lager- och vektormasker. Annars, a[`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/) används. ImageData innehåller rastermasken och den rastrerade vektormasken kombinerat. ImageData-bytelängden ska vara lika med MaskRectangle.Width * MaskRectangle.Height properties. |
-| [LayerMaskDataShort](./layermaskdatashort/) | Definierar klassen LayerMaskDataShort som innehåller information om maskdata i PSD-filen layer när lagret bara har raster- eller vektormask men inte båda. Annars, a[`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/) används. Om lagret endast har en rastermask innehåller ImageData rastermaskdatabytes. Om lagret endast har en vektormask innehåller ImageData vektormasken rasteriserade (cachade) databytes. [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)bytes längd ska vara lika Bredd * Höjd på[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) egenskaper. |
+| [LayerGroup](./layergroup/) | Klass för grupplager |
+| [LayerHashCalculator](./layerhashcalculator/) | Hash‑kalkylator för PSD‑lager. Den kan användas för att hitta lika eller olika lager i olika PSD‑filer. |
+| [LayerMaskData](./layermaskdata/) | Definierar basklassen LayerMaskData som innehåller information om lagermaskdata i PSD‑filen. Den kan hjälpa till att programatiskt modifiera Adobe® Photoshop®‑filer och automatisera redigering av PSD‑formatet. Om lagret endast har en rastermask innehåller ImageData rastermaskens data‑byte. Om lagret endast har en vektormask innehåller ImageData vektormaskens rasteriserade (cachade) data‑byte. Om lagret har både lager‑ och vektormasker innehåller ImageData både rastermasken och den rasteriserade vektormasken kombinerade. Längden på byte‑arrayen för [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) ska vara lika med Bredd * Höjd för egenskaperna i [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/). Observera att enbart ta bort / lägga till / uppdatera LayerMaskData inte är tillräckligt för korrekt sparande eftersom kanalerna inte uppdateras; även om det kan ge korrekt rendering. Metoden [`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) bör användas för detta. |
+| [LayerMaskDataFull](./layermaskdatafull/) | Definierar klassen LayerMaskDataFull som innehåller information om maskdata i PSD‑lager när lagret har både lager‑ och vektormasker. Annars används en [`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/). ImageData innehåller rastermasken och den rasteriserade vektormasken kombinerade. Längden på ImageData‑byten ska vara lika med egenskaperna MaskRectangle.Width * MaskRectangle.Height. |
+| [LayerMaskDataShort](./layermaskdatashort/) | Definierar klassen LayerMaskDataShort som innehåller information om maskdata i PSD‑lager när lagret endast har en raster‑ eller vektormask men inte båda. Annars används en [`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/). Om lagret endast har en rastermask innehåller ImageData rastermaskens data‑byte. Om lagret endast har en vektormask innehåller ImageData vektormaskens rasteriserade (cachade) data‑byte. Längden på byte‑arrayen för [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) ska vara lika med Bredd * Höjd för egenskaperna i [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/). |
 | [LayerResource](./layerresource/) | Representerar lagerinformation. |
-| [LayerResourcesRegistry](./layerresourcesregistry/) | Definiera lagerresursregistret för PSD-filer som laddas. |
-| [LinkedLayersManager](./linkedlayersmanager/) | Manager class för länkade lager. |
-| [SectionDividerLayer](./sectiondividerlayer/) | Sektionsavdelarlagret för att markera gränserna för mappen (lagergrupp). |
-| [TextLayer](./textlayer/) | Textlagret class |
+| [LayerResourcesRegistry](./layerresourcesregistry/) | Definiera lagrets resurserregister för inläsning av PSD‑filer. |
+| [LinkedLayersManager](./linkedlayersmanager/) | Klass för hantering av länkade lager. |
+| [SectionDividerLayer](./sectiondividerlayer/) | Avsnittsskiljelager för att markera gränserna för mappen (lagergupp). |
+| [ShapeLayer](./shapelayer/) | Formlager. Inkapslar logiken för arbete med Formlager och relaterade resurser. |
+| [TextLayer](./textlayer/) | Klassen för textlager. |
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
 | --- | --- |
 | [IGradientColorPoint](./igradientcolorpoint/) | Basgränssnitt för fyllningsinställningar |
-| [ILayerResourceLoader](./ilayerresourceloader/) | Lagerresursladdningen. |
+| [ILayerResourceLoader](./ilayerresourceloader/) | Lagerresursläsaren. |
+| [IShapeLayer](./ishapelayer/) | Beskriver egenskaperna för Formlager. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [LayerFlags](./layerflags/) | Lagret flaggor |
-| [LayerMaskFlags](./layermaskflags/) | Lagermasken flaggor |
+| [LayerFlags](./layerflags/) | Lagerflaggor |
+| [LayerMaskFlags](./layermaskflags/) | Lagermaskflaggor |
 
 

@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat fast egendom. Hämtar antalet blanksteg mellan början av en textrad och det första tabbstoppet.
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat-egenskap. Hämtar antalet mellanslag mellan början av en textrad och den första tabbstoppet"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-Hämtar antalet blanksteg mellan början av en textrad och det första tabbstoppet.
+Hämtar antalet mellanslag mellan början av en textrad och den första tabbstoppet.
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den första flikförskjutningen.
+Den första tabbförskjutningen.
 
-### Anmärkningar
+## Anmärkningar
 
 Egenskapen introduceras för den borttagna metoden GetTabStops.
 
 ### Se även
 
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LimitMemoryException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.LimitMemoryException klass. Undantaget för gränsminnet. Uppstår när minnesanvändningen bör minskas.
+title: "Klass LimitMemoryException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.LimitMemoryException-klass. Minnesgränsundantaget. Förekommer när minnesanvändning bör minskas"
 type: docs
 weight: 650
 url: /sv/net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException class
 
-Undantaget för gränsminnet. Uppstår när minnesanvändningen bör minskas.
+Minnesbegränsningsundantaget. Förekommer när minnesanvändning bör minskas.
 
 ```csharp
 public class LimitMemoryException : OutOfMemoryException
@@ -16,22 +17,22 @@ public class LimitMemoryException : OutOfMemoryException
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LimitMemoryException](limitmemoryexception/#constructor)(string) | Initierar en ny instans av`LimitMemoryException` class. |
-| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | Initierar en ny instans av`LimitMemoryException` class. |
-| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | Initierar en ny instans av`LimitMemoryException` class. |
-| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | Initierar en ny instans av`LimitMemoryException` class. |
+| [LimitMemoryException](limitmemoryexception/#constructor)(string) | Initierar en ny instans av klassen `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | Initierar en ny instans av klassen `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | Initierar en ny instans av klassen `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | Initierar en ny instans av klassen `LimitMemoryException`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | Hämtar eller ställer in reduceringsfaktorn för minne. |
+| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | Hämtar eller anger minnesreduceringsfaktorn. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

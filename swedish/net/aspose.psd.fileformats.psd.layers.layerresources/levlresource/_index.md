@@ -1,14 +1,15 @@
 ---
-title: Class LevlResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource klass. KlassnivåResurs. Resurs för exponeringsjustering Layer
+title: "Klass LevlResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource‑klass. Klass LevlResource. Resurs för exponeringjusteringslager"
 type: docs
-weight: 2640
+weight: 2950
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
+{{< psd/tize >}}
 ## LevlResource class
 
-KlassnivåResurs. Resurs för exponeringsjustering Layer
+Klass LevlResource. Resurs för exponeringjusteringslager
 
 ```csharp
 public class LevlResource : AdjustmentLayerResource
@@ -16,40 +17,40 @@ public class LevlResource : AdjustmentLayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LevlResource](levlresource/#constructor)() | Initierar en ny instans av`LevlResource` class. |
-| [LevlResource](levlresource/#constructor_1)(byte[]) | Initierar en ny instans av`LevlResource` class. Stöds i GrayScale, Duotone, RGB, CMYK, Lab color modes 2 bytes - Version (=2) 29 * 10 byte - Uppsättningar nivåposter med 5 korta heltal 4 byte (9 byte - 2ts_0x header 2ts_0) 2 byte - Version (=3) 2 byte - Antal total nivå record 10 * (Totalt antal - 29) Nollslut av Lvls-resurs bör vara fold för fyra för |
+| [LevlResource](levlresource/#constructor)() | Initierar en ny instans av klassen `LevlResource`. |
+| [LevlResource](levlresource/#constructor_1)(byte[]) | Initierar en ny instans av klassen `LevlResource`. Stöds i färglägena GrayScale, Duotone, RGB, CMYK, Lab. 2 byte – Version (=2) 29 * 10 byte – Uppsättningar av nivåposter med 5 korta heltal 4 byte – Lvls‑huvud (börjar vid index 292) 2 byte – Version (=3) 2 byte – Antal totala nivåposter 10 * (Totalantal - 29) Nollavslutning av Lvls‑resursen bör också vikas för fyra. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Får signaturen. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | Hämtar versionen. Standard är 2 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | Hämtar versionen. Standard är 2. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | Får kanalen. |
+| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | Hämtar kanalen. |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

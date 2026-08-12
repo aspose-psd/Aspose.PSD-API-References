@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Result
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTask fast egendom. Får resultatet av denna uppgift.
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTask-egenskap. Hämtar resultatet av denna uppgift"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
-Får resultatet av denna uppgift.
+Hämtar resultatet av denna uppgift.
 
 ```csharp
 public object Result { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Resultatet av denna uppgift.
 
 ### Se även
 
 * interface [IAsyncTask](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctask/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

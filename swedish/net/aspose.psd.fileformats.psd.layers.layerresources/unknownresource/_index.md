@@ -1,11 +1,12 @@
 ---
-title: Class UnknownResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource klass. Den okända resursen.
+title: "Klass UnknownResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource-klass. Den okända resursen"
 type: docs
-weight: 3330
+weight: 3720
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
 Den okända resursen.
@@ -16,31 +17,31 @@ public class UnknownResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [UnknownResource](unknownresource/)(int, int) | Initierar en ny instans av`UnknownResource` class. |
+| [UnknownResource](unknownresource/)(int, int) | Initierar en ny instans av klassen `UnknownResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | Hämtar eller ställer in data. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion/) { get; } | Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Hämtar lagerresurssignaturen. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | Hämtar eller anger data. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Hämtar lagerresursens signatur. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

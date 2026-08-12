@@ -1,14 +1,15 @@
 ---
-title: LzwCompressorException.LzwCompressorException
-second_title: Aspose.PSD för .NET API-referens
-description: LzwCompressorException byggare. Initierar en ny instans avLzwCompressorException class.
+title: "LzwCompressorException.LzwCompressorException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LzwCompressorException konstruktor. Initierar en ny instans av klassen LzwCompressorException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException(string) {#constructor}
 
-Initierar en ny instans av[`LzwCompressorException`](../) class.
+Initierar en ny instans av klassen [`LzwCompressorException`](../).
 
 ```csharp
 public LzwCompressorException(string message)
@@ -21,14 +22,14 @@ public LzwCompressorException(string message)
 ### Se även
 
 * class [LzwCompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LzwCompressorException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`LzwCompressorException`](../) class.
+Initierar en ny instans av klassen [`LzwCompressorException`](../).
 
 ```csharp
 public LzwCompressorException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public LzwCompressorException(string message, Exception innerException)
 ### Se även
 
 * class [LzwCompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PattResource.Patterns
-second_title: Aspose.PSD för .NET API-referens
-description: PattResource fast egendom. Hämtar eller ställer in mönsterdata
+title: "PattResource.Patterns"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PattResource egenskap. Hämtar eller anger mönsterdata"
 type: docs
-weight: 40
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
+{{< psd/tize >}}
 ## PattResource.Patterns property
 
-Hämtar eller ställer in mönsterdata;
+Hämtar eller anger mönsterdata;
 
 ```csharp
 public PattResourceData[] Patterns { get; set; }
@@ -18,7 +19,7 @@ public PattResourceData[] Patterns { get; set; }
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

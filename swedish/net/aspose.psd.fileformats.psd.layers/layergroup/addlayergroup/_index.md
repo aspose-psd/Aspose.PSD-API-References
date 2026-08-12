@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD för .NET API-referens
-description: LayerGroup metod. Lägger till lagergruppen.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerGroup‑metod. Lägger till lagergruppen."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
 Lägger till lagergruppen.
@@ -17,28 +18,28 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | groupName | String | Gruppens namn. |
-| index | Int32 | Indexet för lagret som ska infogas efter. |
+| index | Int32 | Indexet för lagret att infoga efter. |
 
 ### Returvärde
 
-Inledande grupplager
+Öppnar grupplager
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur man lägger till LayerGroup i en annan LayerGroup.
+Följande exempel visar hur du lägger till LayerGroup i en annan LayerGroup.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// gör lagerhierarki så här:
+// skapa lagerhierarki så här:
 // -Grupp 1
-// --Layer 1
+// --Lager 1
 // --Grupp 2
-// ---Layer 2
-// ---Layer 3
-// --Layer 4
+// ---Lager 2
+// ---Lager 3
+// --Lager 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 ### Se även
 
 * class [LayerGroup](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

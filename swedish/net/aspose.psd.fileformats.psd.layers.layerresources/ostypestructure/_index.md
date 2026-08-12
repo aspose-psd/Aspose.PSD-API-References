@@ -1,11 +1,12 @@
 ---
-title: Class OSTypeStructure
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure klass. Representerar OStypstrukturen.
+title: "Klass OSTypeStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure klass. Representerar OS-typstrukturen"
 type: docs
-weight: 2850
+weight: 3190
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure class
 
 Representerar OS-typstrukturen.
@@ -16,29 +17,29 @@ public abstract class OSTypeStructure
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [OSTypeStructure](ostypestructure/)(ClassID) | Initierar en ny instans av`OSTypeStructure` class. |
+| [OSTypeStructure](ostypestructure/)(ClassID) | Initierar en ny instans av klassen `OSTypeStructure`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Hämtar strukturnyckeln. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Hämtar eller ställer in nyckelnamnet. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Får`OSTypeStructure` längd i byte. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Hämtar eller anger nyckelnamnet. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Hämtar `OSTypeStructure`-längden i byte. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Hämtar rubrikens längd. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Sparar strukturen i den angivna strömbehållaren. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Sparar strukturen i den angivna strömbehållaren. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Hämtar headerlängden. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Sparar strukturen till den angivna strömbehållaren. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Sparar strukturen till den angivna strömbehållaren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.Packed
-second_title: Aspose.PSD för .NET API-referens
-description: AudioSampleType fast egendom. Representerar packat ljudexempel.
+title: "AudioSampleType.Packed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AudioSampleType-egenskap. Representerar Packed-ljudprov"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Packed property
 
-Representerar packat ljudexempel.
+Representerar packat ljudprov.
 
 ```csharp
 public static AudioSampleType Packed { get; }
@@ -17,7 +18,7 @@ public static AudioSampleType Packed { get; }
 ### Se även
 
 * class [AudioSampleType](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

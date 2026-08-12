@@ -1,14 +1,15 @@
 ---
-title: CustResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: CustResource fast egendom. Får signaturen.
+title: "CustResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CustResource egenskap. Hämtar signaturen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/
 ---
+{{< psd/tize >}}
 ## CustResource.Signature property
 
-Får signaturen.
+Hämtar signaturen.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [CustResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

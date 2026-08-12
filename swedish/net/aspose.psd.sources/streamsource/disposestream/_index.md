@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD för .NET API-referens
-description: StreamSource fast egendom. Får ett värde som anger om strömmen ska kasseras när behållaren kasseras.
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamSource egenskap. Hämtar ett värde som indikerar om strömmen ska disponeras när behållaren disponeras"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-Får ett värde som anger om strömmen ska kasseras när behållaren kasseras.
+Hämtar ett värde som indikerar om strömmen ska avyttras när behållaren avyttras.
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om strömmen ska kasseras; annat,`falsk`.
+`true` om strömmen ska disponeras; annars `false`.
 
 ### Se även
 
 * class [StreamSource](../)
-* namnutrymme [Aspose.PSD.Sources](../../streamsource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

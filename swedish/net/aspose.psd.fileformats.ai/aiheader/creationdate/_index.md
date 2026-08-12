@@ -1,27 +1,28 @@
 ---
-title: AiHeader.CreationDate
-second_title: Aspose.PSD för .NET API-referens
-description: AiHeader fast egendom. Hämtar eller ställer in datum för skapande.
+title: "AiHeader.CreationDate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiHeader egenskap. Hämtar eller anger skapelsedatumet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.ai/aiheader/creationdate/
 ---
+{{< psd/tize >}}
 ## AiHeader.CreationDate property
 
-Hämtar eller ställer in datum för skapande.
+Hämtar eller anger skapelsedatumet.
 
 ```csharp
 public string CreationDate { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Skapandedatum.
+Skapelsedatumet.
 
 ### Se även
 
 * class [AiHeader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

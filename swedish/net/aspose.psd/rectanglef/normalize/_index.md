@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Normalize
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF metod. Normaliserar rektangeln genom att göra dens bredd och höjd positiv vänster mindre än höger och toppen mindre än botten.
+title: "RectangleF.Normalize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF-metoden. Normaliserar rektangeln genom att göra dess bredd och höjd positiva, vänster mindre än höger och topp mindre än botten."
 type: docs
 weight: 230
 url: /sv/net/aspose.psd/rectanglef/normalize/
 ---
+{{< psd/tize >}}
 ## RectangleF.Normalize method
 
-Normaliserar rektangeln genom att göra dens bredd och höjd positiv, vänster mindre än höger och toppen mindre än botten.
+Normaliserar rektangeln genom att göra dess bredd och höjd positiva, vänster mindre än höger och topp mindre än botten.
 
 ```csharp
 public void Normalize()
@@ -17,7 +18,7 @@ public void Normalize()
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

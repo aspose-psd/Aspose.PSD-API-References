@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetY
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColorHelper metod. Får det gula komponentvärdet.
+title: "CmykColorHelper.GetY"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColorHelper-metoden. Hämtar värdet för den gula komponenten"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/cmykcolorhelper/gety/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetY method
 
-Får det gula komponentvärdet.
+Hämtar gul-komponentens värde.
 
 ```csharp
 public static int GetY(int cmyk)
@@ -25,7 +26,7 @@ Det gula komponentvärdet.
 ### Se även
 
 * class [CmykColorHelper](../)
-* namnutrymme [Aspose.PSD](../../cmykcolorhelper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

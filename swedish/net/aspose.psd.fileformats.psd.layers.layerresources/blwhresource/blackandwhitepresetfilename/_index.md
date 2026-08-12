@@ -1,24 +1,25 @@
 ---
-title: BlwhResource.BlackAndWhitePresetFileName
-second_title: Aspose.PSD för .NET API-referens
-description: BlwhResource fast egendom. Hämtar eller ställer in det svartvita förinställda filnamnet.
+title: "BlwhResource.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlwhResource egenskap. Hämtar eller anger filnamnet för förinställning i svartvitt"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BlackAndWhitePresetFileName property
 
-Hämtar eller ställer in det svartvita förinställda filnamnet.
+Hämtar eller anger filnamnet för den svartvita förinställningen.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det svartvita förinställda filnamnet.
+Filnamnet för svart‑vit‑förinställning.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du redigerar en BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Testa redigering och spara
+                // Testa redigering och sparande
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Se även
 
 * class [BlwhResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

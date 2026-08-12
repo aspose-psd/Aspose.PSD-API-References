@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Aspose.PSD för .NET API-referens
-description: FixedPointDecimal fast egendom. Hämtar eller ställer in bråket.
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FixedPointDecimal egenskap. Hämtar eller anger bråkdelen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
-Hämtar eller ställer in bråket.
+Hämtar eller anger bråkdelen.
 
 ```csharp
 public int Fraction { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bråket.
+Bråkdelen.
 
 ### Se även
 
 * class [FixedPointDecimal](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PathGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD för .NET API-referens
-description: PathGradientBrush metod. Skapar en gradient med en mittfärg och en linjär nedgång till en omgivande färg.
+title: "PathGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathGradientBrush‑metod. Skapar en gradient med en centrumfärg och ett linjärt avtagande mot en omgivande färg"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd.brushes/pathgradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Skapar en gradient med en mittfärg och en linjär nedgång till en omgivande färg.
+Skapar en gradient med en mittfärg och ett linjärt avtagande till en omgivande färg.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
@@ -16,19 +17,19 @@ public void SetBlendTriangularShape(float focus)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| focus | Single | Ett värde från 0 till 1 som anger var, längs någon radiell från mitten av banan till banans gräns, centrumfärgen kommer att ha sin högsta intensitet. Ett värde på 1 (standard) placerar den högsta intensiteten i mitten av banan. |
+| fokus | Single | Ett värde mellan 0 och 1 som anger var, längs någon radie från banans centrum till banans gräns, centrumfärgen har sin högsta intensitet. Ett värde på 1 (standard) placerar den högsta intensiteten i banans centrum. |
 
 ### Se även
 
 * class [PathGradientBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Skapar en övertoning med en mittfärg och en linjär nedgång till varje omgivande färg.
+Skapar en gradient med en mittfärg och ett linjärt avtagande till varje omgivande färg.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
@@ -36,13 +37,13 @@ public void SetBlendTriangularShape(float focus, float scale)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| focus | Single | Ett värde från 0 till 1 som anger var, längs någon radiell från mitten av banan till banans gräns, centrumfärgen kommer att ha sin högsta intensitet. Ett värde på 1 (standard) placerar den högsta intensiteten i mitten av banan. |
-| scale | Single | Ett värde från 0 till 1 som anger den maximala intensiteten för mittfärgen som blandas med gränsfärgen. Ett värde på 1 ger högsta möjliga intensitet för mittfärgen, och det är standardvärdet. |
+| fokus | Single | Ett värde mellan 0 och 1 som anger var, längs någon radie från banans centrum till banans gräns, centrumfärgen har sin högsta intensitet. Ett värde på 1 (standard) placerar den högsta intensiteten i banans centrum. |
+| scale | Single | Ett värde mellan 0 och 1 som anger den maximala intensiteten för centrumfärgen som blandas med gränsfärgen. Ett värde på 1 ger den högsta möjliga intensiteten för centrumfärgen, och det är standardvärdet. |
 
 ### Se även
 
 * class [PathGradientBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

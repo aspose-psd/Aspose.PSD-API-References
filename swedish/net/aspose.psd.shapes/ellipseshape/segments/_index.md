@@ -1,20 +1,21 @@
 ---
-title: EllipseShape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: EllipseShape fast egendom. Hämtar formsegmenten.
+title: "EllipseShape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "EllipseShape egenskap. Hämtar formens segment"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.shapes/ellipseshape/segments/
 ---
+{{< psd/tize >}}
 ## EllipseShape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [EllipseShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../ellipseshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection klass. AI Raster Image Section
+title: "Klass AiRasterImageSection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection klass. Den AI Raster Image Section"
 type: docs
-weight: 1280
+weight: 1290
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-AI Raster Image Section
+AI rasterbildsektion
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -16,21 +17,21 @@ public sealed class AiRasterImageSection
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Får vinkeln. |
-| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Får höjden. |
+| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Hämtar vinkeln. |
+| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Hämtar höjden. |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Hämtar bildrektangeln. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Får vänster nedre växling. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Hämtar vänstra nedre förskjutningen. |
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Hämtar namnet på rasterbilden. |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Får offset X. |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Får offset Y. |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Hämtar X-offseten. |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Hämtar Y-offseten. |
 | [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Hämtar arrayen av int färgpixlar. |
-| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Får bredden. |
+| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Hämtar bredden. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur man laddar inställningar för rasterbilder i AI-formatfiler.
+Följande kod demonstrerar hur man laddar inställningar för Raster Images i AI Format Files.
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

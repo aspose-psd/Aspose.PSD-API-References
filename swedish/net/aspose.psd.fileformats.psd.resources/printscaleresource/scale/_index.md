@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD för .NET API-referens
-description: PrintScaleResource fast egendom. Hämtar eller ställer in skalan.
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PrintScaleResource egenskap. Hämtar eller anger skalan"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
-Hämtar eller ställer in skalan.
+Hämtar eller anger skalan.
 
 ```csharp
 public float Scale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skalan.
 
 ### Se även
 
 * class [PrintScaleResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

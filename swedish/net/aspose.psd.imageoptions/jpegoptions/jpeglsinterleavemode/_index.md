@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.JpegLsInterleaveMode
-second_title: Aspose.PSD för .NET API-referens
-description: JpegOptions fast egendom. Hämtar eller ställer in JPEGLSinterfolieringsläget.
+title: "JpegOptions.JpegLsInterleaveMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegOptions egenskap. Hämtar eller anger JPEGLS-interleavläge"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsInterleaveMode property
 
-Hämtar eller ställer in JPEG-LS-interfolieringsläget.
+Hämtar eller anger JPEG-LS-interleavläge.
 
 ```csharp
 public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
@@ -18,7 +19,7 @@ public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
 
 * enum [JpegLsInterleaveMode](../../../aspose.psd.fileformats.jpeg/jpeglsinterleavemode/)
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

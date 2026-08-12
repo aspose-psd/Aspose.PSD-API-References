@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Nominator
-second_title: Aspose.PSD för .NET API-referens
-description: TiffSRational fast egendom. Får nominatorn.
+title: "TiffSRational.Nominator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffSRational egenskap. Hämtar nämnaren"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.tiff/tiffsrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Nominator property
 
-Får nominatorn.
+Hämtar täljaren.
 
 ```csharp
 public int Nominator { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Nominatorn.
+Täljaren.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

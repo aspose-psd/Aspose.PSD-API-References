@@ -1,14 +1,15 @@
 ---
-title: Class PrintScaleResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.PrintScaleResource klass. Print Scale resource
+title: "Klass PrintScaleResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.PrintScaleResource klass. Resurs för utskrifts-skala"
 type: docs
-weight: 3840
+weight: 4310
 url: /sv/net/aspose.psd.fileformats.psd.resources/printscaleresource/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource class
 
-Print Scale resource
+Utskrifts skala-resurs
 
 ```csharp
 public sealed class PrintScaleResource : ResourceBlock
@@ -16,28 +17,28 @@ public sealed class PrintScaleResource : ResourceBlock
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PrintScaleResource](printscaleresource/)() | Default_Constructor |
+| [PrintScaleResource](printscaleresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/printscaleresource/datasize/) { get; } | Hämtar resursdatastorleken i byte. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller ställer in den unika identifieraren för resursen. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/printscaleresource/minimalversion/) { get; } | Får den minsta nödvändiga PSD-versionen. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller ställer in resursnamnet. Pascal-sträng, vadderad för att göra storleken jämn (ett nollnamn består av två byte på 0). |
-| [Scale](../../aspose.psd.fileformats.psd.resources/printscaleresource/scale/) { get; set; } | Hämtar eller ställer in skalan. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resurssignaturen. Bör alltid vara '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockstorleken i byte inklusive dess data. |
-| [Style](../../aspose.psd.fileformats.psd.resources/printscaleresource/style/) { get; set; } | Hämtar eller ställer in stilen. |
-| [XLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/) { get; set; } | Hämtar eller ställer in x-platsen. |
-| [YLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/) { get; set; } | Hämtar eller ställer in y-platsen. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/printscaleresource/datasize/) { get; } | Hämtar resursens datastorlek i byte. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller anger den unika identifieraren för resursen. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/printscaleresource/minimalversion/) { get; } | Hämtar den minsta erforderliga PSD-versionen. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller anger resursnamnet. Pascal-sträng, utfylld för att göra storleken jämn (ett nullnamn består av två nollbyte). |
+| [Scale](../../aspose.psd.fileformats.psd.resources/printscaleresource/scale/) { get; set; } | Hämtar eller anger skalan. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resursens signatur. Ska alltid vara '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockets storlek i byte inklusive dess data. |
+| [Style](../../aspose.psd.fileformats.psd.resources/printscaleresource/style/) { get; set; } | Hämtar eller anger stilen. |
+| [XLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/) { get; set; } | Hämtar eller anger x‑positionen. |
+| [YLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/) { get; set; } | Hämtar eller anger y‑positionen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Sparar resursblocket till den angivna strömmen. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Validerar resursvärdena. |
@@ -45,7 +46,7 @@ public sealed class PrintScaleResource : ResourceBlock
 ### Se även
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

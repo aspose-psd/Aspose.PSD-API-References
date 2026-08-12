@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginType
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Hämtar eller ställer in typen av ursprung.
+title: "VectorShapeOriginSettings.OriginType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings-egenskap. Hämtar eller anger typen av ursprunget"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginType property
 
-Hämtar eller ställer in typen av ursprung.
+Hämtar eller anger typen av ursprunget.
 
 ```csharp
 public int OriginType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av ursprung.
+Typen av ursprunget.
 
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

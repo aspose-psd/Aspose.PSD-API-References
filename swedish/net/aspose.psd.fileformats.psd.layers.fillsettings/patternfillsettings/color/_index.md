@@ -1,20 +1,21 @@
 ---
-title: PatternFillSettings.Color
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in färgen.
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings-egenskap. Hämtar eller anger färgen"
 type: docs
-weight: 20
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
-Hämtar eller ställer in färgen.
+Hämtar eller anger färgen.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
@@ -22,7 +23,7 @@ Färgen.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

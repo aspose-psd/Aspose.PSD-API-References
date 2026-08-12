@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixDimensionsCount
-second_title: Aspose.PSD för .NET API-referens
-description: ColorMatrix fält. Antalet matrisdimensioner.
+title: "ColorMatrix.MatrixDimensionsCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorMatrix-fält. Antalet matrisdimensioner"
 type: docs
 weight: 300
 url: /sv/net/aspose.psd/colormatrix/matrixdimensionscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionsCount field
 
 Antalet matrisdimensioner.
@@ -17,7 +18,7 @@ public const int MatrixDimensionsCount;
 ### Se även
 
 * class [ColorMatrix](../)
-* namnutrymme [Aspose.PSD](../../colormatrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

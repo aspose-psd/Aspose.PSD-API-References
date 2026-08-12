@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Läser hela skanningslinjen med det angivna skanningslinjeindexet.
+title: "RasterImage.ReadScanLine"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Läser hela skanningslinjen med det angivna skanningslinjeindexet"
 type: docs
-weight: 440
+weight: 450
 url: /sv/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
 Läser hela skanningslinjen med det angivna skanningslinjeindexet.
@@ -20,13 +21,13 @@ public Color[] ReadScanLine(int scanLineIndex)
 
 ### Returvärde
 
-Skanningslinjens pixelfärgvärdesmatris.
+Arrayen med pixel-färgvärden för skanningslinjen.
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PdfOptions.PdfDocumentInfo
-second_title: Aspose.PSD för .NET API-referens
-description: PdfOptions fast egendom. Hämtar eller ställer in metadata för dokument.
+title: "PdfOptions.PdfDocumentInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfOptions-egenskap. Hämtar eller anger metadata för dokumentet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfDocumentInfo property
 
-Hämtar eller ställer in metadata för dokument.
+Hämtar eller anger metadata för dokumentet.
 
 ```csharp
 public PdfDocumentInfo PdfDocumentInfo { get; set; }
@@ -18,7 +19,7 @@ public PdfDocumentInfo PdfDocumentInfo { get; set; }
 
 * class [PdfDocumentInfo](../../../aspose.psd.fileformats.pdf/pdfdocumentinfo/)
 * class [PdfOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

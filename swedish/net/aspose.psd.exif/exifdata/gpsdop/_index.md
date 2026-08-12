@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSDOP
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPS DOP datagrad av precision.
+title: "ExifData.GPSDOP"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger GPS DOP-datans grad av precision"
 type: docs
 weight: 490
 url: /sv/net/aspose.psd.exif/exifdata/gpsdop/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDOP property
 
-Hämtar eller ställer in GPS DOP (datagrad av precision).
+Hämtar eller anger GPS DOP (dataprecisionsgrad).
 
 ```csharp
 public TiffRational GPSDOP { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 GPS DOP (datagrad av precision).
 
@@ -22,7 +23,7 @@ GPS DOP (datagrad av precision).
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

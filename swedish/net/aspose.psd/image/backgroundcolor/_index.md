@@ -1,14 +1,15 @@
 ---
-title: Image.BackgroundColor
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Hämtar eller ställer in ett värde för bakgrundsfärgen.
+title: "Image.BackgroundColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger ett värde för bakgrundsfärgen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
-Hämtar eller ställer in ett värde för bakgrundsfärgen.
+Hämtar eller anger ett värde för bakgrundsfärgen.
 
 ```csharp
 public virtual Color BackgroundColor { get; set; }
@@ -18,7 +19,7 @@ public virtual Color BackgroundColor { get; set; }
 
 * struct [Color](../../color/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

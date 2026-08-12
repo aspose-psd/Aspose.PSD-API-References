@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in beskärningen av data för smarta objektlager i PSDbilden.
+title: "SmartObjectResource.Crop"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource egenskap. Hämtar eller anger beskärningen av smartobjektlagrets data i PSD-bilden"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-Hämtar eller ställer in beskärningen av data för smarta objektlager i PSD-bilden.
+Hämtar eller anger beskärningen för smartobjektlagrets data i PSD‑bilden.
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Beskärningsvärdet för information om placerat lager.
+Beskärningsvärdet för placerad lagerinformation.
 
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

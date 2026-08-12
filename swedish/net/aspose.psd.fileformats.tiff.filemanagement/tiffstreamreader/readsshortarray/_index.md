@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSShortArray
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader metod. Läser en matris med signerade korta värden från strömmen.
+title: "TiffStreamReader.ReadSShortArray"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader metod. Läser en array av signerade kortvärden från strömmen"
 type: docs
 weight: 180
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShortArray method
 
-Läser en matris med signerade korta värden från strömmen.
+Läser en matris av signerade short‑värden från strömmen.
 
 ```csharp
 public short[] ReadSShortArray(long position, long count)
@@ -17,22 +18,22 @@ public short[] ReadSShortArray(long position, long count)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | position | Int64 | Positionen att läsa från. |
-| count | Int64 | Elementen räknas. |
+| count | Int64 | Antalet element. |
 
 ### Returvärde
 
-Arrayen av korta värden med tecken.
+Arrayen med signerade kortvärden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentOutOfRangeException | count;Förväntade ett positivt tal. |
 
 ### Se även
 
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

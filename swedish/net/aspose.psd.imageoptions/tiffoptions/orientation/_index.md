@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Orientation
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in orienteringen.
+title: "TiffOptions.Orientation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger orienteringen"
 type: docs
-weight: 280
+weight: 290
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/orientation/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Orientation property
 
-Hämtar eller ställer in orienteringen.
+Hämtar eller anger orientering.
 
 ```csharp
 public TiffOrientations Orientation { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Orienteringen.
 
@@ -22,7 +23,7 @@ Orienteringen.
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

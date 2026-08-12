@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: Aspose.PSD för .NET API-referens
-description: TiffDataType metod. Skriver ytterligare taggdata.
+title: "TiffDataType.WriteAdditionalData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffDataType metod. Skriver den ytterligare taggdata"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteAdditionalData method
 
-Skriver ytterligare taggdata.
+Skriver den extra taggdata.
 
 ```csharp
 public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
@@ -16,17 +17,17 @@ public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dataStream | TiffStreamWriter | Dataströmmen. |
+| dataStream | TiffStreamWriter | Datastreamen. |
 
 ### Returvärde
 
-De faktiska bytes skrivna.
+De faktiska skrivna byten.
 
 ### Se även
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

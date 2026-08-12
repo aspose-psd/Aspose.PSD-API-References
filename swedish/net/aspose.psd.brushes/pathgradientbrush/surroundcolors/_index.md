@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Aspose.PSD för .NET API-referens
-description: PathGradientBrush fast egendom. Hämtar eller ställer in en rad färger som motsvarar punkterna i vägen dennaPathGradientBrush fyller.
+title: "PathGradientBrush.SurroundColors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathGradientBrush egenskap. Hämtar eller anger en array av färger som motsvarar punkterna i den bana som denna PathGradientBrush fyller"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-Hämtar eller ställer in en rad färger som motsvarar punkterna i vägen denna[`PathGradientBrush`](../) fyller.
+Hämtar eller anger en array av färger som motsvarar punkterna i den bana som denna [`PathGradientBrush`](../) fyller.
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En uppställning av[`Color`](../../../aspose.psd/color/) strukturer som representerar färgerna som är associerade med varje punkt i vägen detta[`PathGradientBrush`](../) fyller.
+En array av [`Color`](../../../aspose.psd/color/)‑strukturer som representerar färgerna som är associerade med varje punkt i den bana som denna [`PathGradientBrush`](../) fyller.
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.RealFlags
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskDataFull fast egendom. Hämtar eller ställer in lagermaskflaggor som används för användar/rastermask. För vektormask används egenskapen Flags.
+title: "LayerMaskDataFull.RealFlags"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskDataFull-egenskap. Hämtar eller anger lagermaskflaggorna som används för användar‑/rastermask. För vektormask används Flags‑egenskapen."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.RealFlags property
 
-Hämtar eller ställer in lagermaskflaggor som används för användar-/rastermask. För vektormask används egenskapen Flags.
+Hämtar eller anger lagermaskens flaggor som används för användar‑/rastermask. För vektormask används egenskapen Flags.
 
 ```csharp
 public LayerMaskFlags RealFlags { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De riktiga lagermaskflaggorna.
+De faktiska lagermaskflaggorna.
 
 ### Se även
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskDataFull](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

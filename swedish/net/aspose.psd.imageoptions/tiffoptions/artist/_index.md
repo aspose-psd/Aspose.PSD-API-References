@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Artist
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in artisten.
+title: "TiffOptions.Artist"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger artisten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
-Hämtar eller ställer in artisten.
+Hämtar eller anger konstnären.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Konstnären.
+Artisten.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

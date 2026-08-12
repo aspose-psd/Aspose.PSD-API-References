@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Color
-second_title: Aspose.PSD för .NET API-referens
-description: SoCoResource fast egendom. Får RGBfärgen .
+title: "SoCoResource.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SoCoResource egenskap. Hämtar RGB-färgen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-Får RGB-färgen .
+Hämtar RGB-färgen.
 
 ```csharp
 public Color Color { get; set; }
@@ -18,9 +19,9 @@ public Color Color { get; set; }
 
 RGB-färgen
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du redigerar SoCoResource (Layer Resource for Color Fill Layer)
+Följande exempel demonstrerar hur du redigerar SoCoResource (lageresurs för färgfyllningslager)
 
 ```csharp
 [C#]
@@ -28,20 +29,20 @@ Följande exempel visar hur du redigerar SoCoResource (Layer Resource for Color 
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Hitta FillLayer
+        // Sökning av FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Hitta SoCoResource i Layer Resource List
+                // Sökning av SoCoResource i lagerresurslistan
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Ställa in egenskapen SoCoResource Color
+                    // Ställer in SoCoResource färgegenskapen
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -71,7 +72,7 @@ using (im)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

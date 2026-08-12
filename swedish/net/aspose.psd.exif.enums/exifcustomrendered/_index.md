@@ -1,11 +1,12 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered uppräkning. exif anpassad renderad enum.
+title: "Enum ExifCustomRendered"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered enum. exif anpassad renderad enum"
 type: docs
-weight: 820
+weight: 830
 url: /sv/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
 exif anpassad renderad enum.
@@ -14,16 +15,16 @@ exif anpassad renderad enum.
 public enum ExifCustomRendered
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | NormalProcess | `0` | Normal renderingsprocess. |
 | CustomProcess | `1` | Anpassad renderingsprocess. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

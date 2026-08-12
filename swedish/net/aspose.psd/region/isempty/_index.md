@@ -1,14 +1,15 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Testar om dettaRegion har en tom interiör på den angivna ritytan.
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Testar om detta Region har ett tomt inre på den angivna ritytan"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-Testar om detta[`Region`](../) har en tom interiör på den angivna ritytan.
+Testar om detta [`Region`](../) har ett tomt inre på den angivna ritytan.
 
 ```csharp
 public bool IsEmpty(Graphics g)
@@ -16,15 +17,15 @@ public bool IsEmpty(Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar en rityta. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en rityta. |
 
 ### Returvärde
 
-sant om det inre av detta[`Region`](../) är tom när omvandlingen förknippas med*g* tillämpas; annars, false.
+Sant om inre av detta [`Region`](../) är tomt när transformationen som är associerad med *g* tillämpas; annars falskt.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | *g* är null. |
 
@@ -32,7 +33,7 @@ sant om det inre av detta[`Region`](../) är tom när omvandlingen förknippas m
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

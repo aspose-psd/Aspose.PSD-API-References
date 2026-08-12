@@ -1,14 +1,15 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBoolean byggare. Initierar en ny instans avXmpBoolean klass baserad på booleskt värde.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBoolean-konstruktor. Initierar en ny instans av XmpBoolean-klassen baserat på ett booleskt värde."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-Initierar en ny instans av[`XmpBoolean`](../) klass baserad på booleskt värde.
+Initierar en ny instans av [`XmpBoolean`](../)-klassen baserat på ett booleskt värde.
 
 ```csharp
 public XmpBoolean(bool value)
@@ -16,19 +17,19 @@ public XmpBoolean(bool value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Boolean | Det booleska värdet. Tillåtna värden är True eller False. |
+| värde | Boolean | Det booleska värdet. Tillåtna värden är Sant eller Falskt. |
 
 ### Se även
 
 * class [XmpBoolean](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-Initierar en ny instans av[`XmpBoolean`](../) klass med standardvärde.
+Initierar en ny instans av [`XmpBoolean`](../)-klassen med standardvärde.
 
 ```csharp
 public XmpBoolean()
@@ -37,14 +38,14 @@ public XmpBoolean()
 ### Se även
 
 * class [XmpBoolean](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-Initierar en ny instans av[`XmpBoolean`](../) class.
+Initierar en ny instans av [`XmpBoolean`](../)-klassen.
 
 ```csharp
 public XmpBoolean(string value)
@@ -52,19 +53,19 @@ public XmpBoolean(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | Värdet. |
+| värde | String | Värdet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | värde |
-| ArgumentException | Ogiltigt strängvärde;värde |
+| ArgumentException | Ogiltigt strängvärde;value |
 
 ### Se även
 
 * class [XmpBoolean](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

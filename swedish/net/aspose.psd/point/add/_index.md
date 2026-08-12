@@ -1,14 +1,15 @@
 ---
-title: Point.Add
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Lägger till det angivnaSize till det angivnaPoint .
+title: "Point.Add"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metod. Lägger till den angivna Size till det angivna Point"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-Lägger till det angivna[`Size`](../../size/) till det angivna[`Point`](../) .
+Lägger till den angivna [`Size`](../../size/) till den angivna [`Point`](../).
 
 ```csharp
 public static Point Add(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point Add(Point point, Size size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../) att lägga till. |
-| size | Size | De[`Size`](../../size/) att lägga till*point*. |
+| point | Point | Det [`Point`](../) att lägga till. |
+| size | Size | Den [`Size`](../../size/) att lägga till *point*. |
 
 ### Returvärde
 
-De[`Point`](../) det är resultatet av additionsoperationen.
+Det [`Point`](../) som är resultatet av additionsoperationen.
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

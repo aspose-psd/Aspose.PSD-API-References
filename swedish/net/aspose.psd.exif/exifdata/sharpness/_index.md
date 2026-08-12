@@ -1,27 +1,28 @@
 ---
-title: ExifData.Sharpness
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Får eller ställer in skärpan.
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger skärpan"
 type: docs
 weight: 940
 url: /sv/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
-Får eller ställer in skärpan.
+Hämtar eller anger skärpan.
 
 ```csharp
 public ushort Sharpness { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skärpan.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

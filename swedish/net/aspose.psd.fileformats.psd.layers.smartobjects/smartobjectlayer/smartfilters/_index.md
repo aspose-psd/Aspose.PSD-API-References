@@ -1,22 +1,23 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectLayer fast egendom. Får de smarta filtren.
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectLayer-egenskap. Hämtar de smarta filtren"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
-Får de smarta filtren.
+Hämtar de smarta filtren.
 
 ```csharp
 public SmartFilters SmartFilters { get; }
 ```
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för gränssnittet för smarta filter.
+Detta exempel demonstrerar stöd för smarta filtergränssnittet.
 
 ```csharp
 [C#]
@@ -59,10 +60,10 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // applicera förändringar
+    // tillämpa ändringar
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Använd filter
+    // Tillämpa filter
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -90,7 +91,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

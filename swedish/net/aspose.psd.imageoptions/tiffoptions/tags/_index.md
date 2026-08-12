@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Tags
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in taggarna.
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger taggarna"
 type: docs
-weight: 490
+weight: 500
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
-Hämtar eller ställer in taggarna.
+Hämtar eller anger taggarna.
 
 ```csharp
 public TiffDataType[] Tags { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Taggarna.
 
@@ -22,7 +23,7 @@ Taggarna.
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

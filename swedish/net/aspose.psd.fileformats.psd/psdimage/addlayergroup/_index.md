@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till lagergruppen.
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Lägger till lagergruppen"
 type: docs
-weight: 380
+weight: 400
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
 Lägger till lagergruppen.
@@ -17,24 +18,24 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | groupName | String | Gruppens namn. |
-| index | Int32 | Indexet för lagret som ska infogas efter. |
-| startBehaviour | Boolean | om inställt på`Sann` [startbeteende] än gruppen kommer att vara i öppet tillstånd vid start, annars i minimerat tillstånd. |
+| index | Int32 | Indexet för lagret att infoga efter. |
+| startBehaviour | Boolean | om den är satt till `true` [start behaviour] kommer gruppen att vara i öppet läge vid start, annars i minimerat läge. |
 
 ### Returvärde
 
-Inledande grupp lager
+Öppnar grupplager
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Index måste ligga inom gränserna för antal lager |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Index måste vara inom gränserna för lagerantalet |
 
 ### Se även
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

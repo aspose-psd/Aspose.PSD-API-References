@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCredit
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Anger krediten.
+title: "PhotoshopPackage.SetCredit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage metod. Anger krediten"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCredit method
 
 Anger krediten.
@@ -16,12 +17,12 @@ public void SetCredit(string credit)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| credit | String | Äran. |
+| kredit | String | Krediten. |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

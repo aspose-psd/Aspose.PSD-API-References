@@ -1,14 +1,15 @@
 ---
-title: Layer.BlendSignature
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fält. Representerar blandningslägessignatur.
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer field. Representerar blandningsläges signatur"
 type: docs
-weight: 390
+weight: 410
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-Representerar blandningslägessignatur.
+Representerar signatur för blandningsläge.
 
 ```csharp
 public const int BlendSignature;
@@ -17,7 +18,7 @@ public const int BlendSignature;
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

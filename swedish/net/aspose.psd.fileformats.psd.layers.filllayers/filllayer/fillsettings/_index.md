@@ -1,20 +1,21 @@
 ---
-title: FillLayer.FillSettings
-second_title: Aspose.PSD för .NET API-referens
-description: FillLayer fast egendom. Hämtar fyllningsinställningarna.
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FillLayer-egenskapen. Hämtar eller anger fyllningsinställningarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-Hämtar fyllningsinställningarna.
+Hämtar eller anger fyllningsinställningarna.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Fyllningsinställningarna.
 
@@ -22,7 +23,7 @@ Fyllningsinställningarna.
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: MotionWienerFilterOptions fast egendom. Hämtar eller ställer in vinkeln i gradus.
+title: "MotionWienerFilterOptions.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MotionWienerFilterOptions egenskap. Hämtar eller anger vinkeln i grader"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Angle property
 
-Hämtar eller ställer in vinkeln i gradus.
+Hämtar eller anger vinkeln i grader.
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
 ### Se även
 
 * class [MotionWienerFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

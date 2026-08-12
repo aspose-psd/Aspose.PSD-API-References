@@ -1,14 +1,15 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Ändrar storleken på höjden proportionellt.
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-metod. Ändrar höjden proportionellt"
 type: docs
-weight: 200
+weight: 210
 url: /sv/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
-Ändrar storleken på höjden proportionellt.
+Ändrar höjden proportionellt.
 
 ```csharp
 public void ResizeHeightProportionally(int newHeight)
@@ -21,14 +22,14 @@ public void ResizeHeightProportionally(int newHeight)
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-Ändrar storleken på höjden proportionellt.
+Ändrar höjden proportionellt.
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
@@ -43,14 +44,14 @@ public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeT
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
 
-Ändrar storleken på höjden proportionellt.
+Ändrar höjden proportionellt.
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
@@ -59,13 +60,13 @@ public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSetting
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | newHeight | Int32 | Den nya höjden. |
-| settings | ImageResizeSettings | Inställningarna för storleksändring av bilden. |
+| inställningar | ImageResizeSettings | Inställningarna för bildens storleksändring. |
 
 ### Se även
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

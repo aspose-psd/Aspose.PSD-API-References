@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Får stilen på linjer ritade med dettaPen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar stilen på linjer som ritas med denna Pen."
 type: docs
 weight: 150
 url: /sv/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-Får stilen på linjer ritade med detta[`Pen`](../) .
+Hämtar stilen på linjer som ritas med denna [`Pen`](../).
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A`PenType` uppräkning som anger stilen på linjer som ritas med detta[`Pen`](../).
+`PenType`-enumeration som specificerar stilen på linjer som ritas med denna [`Pen`](../).
 
 ### Se även
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

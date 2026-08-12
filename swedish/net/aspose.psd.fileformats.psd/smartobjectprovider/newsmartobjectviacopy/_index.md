@@ -1,14 +1,15 @@
 ---
-title: SmartObjectProvider.NewSmartObjectViaCopy
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectProvider metod. Skapar ett nytt smart objektlager genom att kopiera källan.
+title: "SmartObjectProvider.NewSmartObjectViaCopy"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectProvider-metod. Skapar ett nytt smartobjektlager genom att kopiera källan."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-Skapar ett nytt smart objektlager genom att kopiera källan.
+Skapar ett nytt smartobjekt‑lager genom att kopiera källan.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
@@ -16,21 +17,21 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sourceLayer | SmartObjectLayer | Källskiktet. |
+| sourceLayer | SmartObjectLayer | Källagret. |
 
 ### Returvärde
 
-Den klonade[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instans.
+Den klonade [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instansen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan bara ersätta ett inbäddat smart objekt. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan bara ersätta ett inbäddat smartobjekt. |
 
-### Exempel
+## Exempel
 
-Dessa exempel visar hur man kopierar smarta objektlager i en PSD-bild.
+Dessa exempel visar hur man kopierar smartobjektlager i en PSD‑bild.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ Dessa exempel visar hur man kopierar smarta objektlager i en PSD-bild.
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Dessa exempel visar hur man kopierar smarta objektlager i en PSD-bild.
+// Dessa exempel visar hur man kopierar smartobjektlager i en PSD‑bild.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -46,7 +47,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Lagernumret som ska kopieras
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -67,17 +68,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Låt oss invertera den inbäddade smarta objektbilden (för en inre PSD-bild inverterar vi bara dess första lager)
+            // Låt oss invertera den inbäddade smartobjektbilden (för en inre PSD‑bild inverterar vi bara dess första lager).
             InvertImage(innerImage);
 
             // Låt oss ersätta den inbäddade smarta objektbilden i PSD-lagret
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Det duplicerade lagret delar sin inbäddade bild med det ursprungliga smarta objektet
-        // och den bör uppdateras explicit, annars förblir dess renderingscache oförändrad.
-        // Vi uppdaterar varje smart objekt för att se till att det nya lagret skapat av NewSmartObjectViaCopy
-        // delar inte den inbäddade bilden med de andra.
+        // Det duplicerade lagret delar sin inbäddade bild med det ursprungliga smartobjektet.
+        // och det bör uppdateras explicit, annars förblir dess renderingscache oförändrad.
+        // Vi uppdaterar varje smartobjekt för att säkerställa att det nya lagret som skapats av NewSmartObjectViaCopy
+        // inte delar den inbäddade bilden med de andra.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -85,7 +86,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// Inverterar rasterbilden inklusive PSD-bilden.
+// Inverterar rasterbilden inklusive PSD‑bilden.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -126,7 +127,7 @@ void AssertIsTrue(bool condition)
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

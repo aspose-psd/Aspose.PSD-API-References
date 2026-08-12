@@ -1,23 +1,24 @@
 ---
-title: TimeLine.TimeLine
-second_title: Aspose.PSD för .NET API-referens
-description: TimeLine byggare. Default_Constructor
+title: "Timeline.Timeline"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Timeline‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/timeline/timeline/
 ---
-## TimeLine constructor
+{{< psd/tize >}}
+## Timeline constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
-public TimeLine()
+public Timeline()
 ```
 
 ### Se även
 
-* class [TimeLine](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* hopsättning [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpText.Value
-second_title: Aspose.PSD för .NET API-referens
-description: XmpText fast egendom. Hämtar eller ställer in textvärdet.
+title: "XmpText.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpText-egenskap. Hämtar eller sätter textvärdet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
-Hämtar eller ställer in textvärdet.
+Hämtar eller anger textvärdet.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Textvärdet.
 
 ### Se även
 
 * class [XmpText](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

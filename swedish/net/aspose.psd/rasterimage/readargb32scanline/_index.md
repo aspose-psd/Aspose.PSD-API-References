@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ReadArgb32ScanLine
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Läser hela skanningslinjen med det angivna skanningslinjeindexet.
+title: "RasterImage.ReadArgb32ScanLine"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Läser hela skanningslinjen med det angivna skanningslinjeindexet"
 type: docs
-weight: 430
+weight: 440
 url: /sv/net/aspose.psd/rasterimage/readargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadArgb32ScanLine method
 
 Läser hela skanningslinjen med det angivna skanningslinjeindexet.
@@ -20,12 +21,12 @@ public int[] ReadArgb32ScanLine(int scanLineIndex)
 
 ### Returvärde
 
-Skanningslinjens 32-bitars ARGB-färgvärdesmatris.
+Skanningslinjens 32-bitars ARGB-färgvärdearray.
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

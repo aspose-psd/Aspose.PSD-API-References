@@ -1,32 +1,33 @@
 ---
-title: OuterGlowEffect.Range
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Får eller ställer in bruset.
+title: "OuterGlowEffect.Range"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger bruset"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Range property
 
-Får eller ställer in bruset.
+Hämtar eller anger brus.
 
 ```csharp
 public int Range { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bullret.
+Bruset.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Brus måste anges som procent i intervallet 0 till 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Brus måste anges som procent i intervallet från 0 till 100 |
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Aspose.PSD för .NET API-referens
-description: DataMissmatchError byggare. Initierar en ny instans avDataMissmatchError class.
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DataMissmatchError konstruktor. Initierar en ny instans av klassen DataMissmatchError"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-Initierar en ny instans av[`DataMissmatchError`](../) class.
+Initierar en ny instans av klassen [`DataMissmatchError`](../).
 
 ```csharp
 public DataMissmatchError(string message)
@@ -21,7 +22,7 @@ public DataMissmatchError(string message)
 ### Se även
 
 * class [DataMissmatchError](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

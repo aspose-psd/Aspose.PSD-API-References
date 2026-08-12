@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in ett värde som anger om detta lager visas. Visar alla konstverk som finns i lagret på ritytan om sant.
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection property. Hämtar eller anger ett värde som indikerar om detta lager visas. Visar all grafik som finns i lagret på ritbordet om sant"
 type: docs
-weight: 90
+weight: 110
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Hämtar eller ställer in ett värde som anger om detta lager visas. Visar alla konstverk som finns i lagret på ritytan om sant.
+Hämtar eller anger ett värde som indikerar om detta lager visas. Visar allt konstverk i lagret på arbetsytan om sant.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta lager visas; annat,`falsk` .
+`true` om detta lager visas; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

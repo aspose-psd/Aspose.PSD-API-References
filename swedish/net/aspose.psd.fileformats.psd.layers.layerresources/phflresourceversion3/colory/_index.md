@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorY
-second_title: Aspose.PSD för .NET API-referens
-description: PhflResourceVersion3 fast egendom. Hämtar eller ställer in Yfärgen.
+title: "PhflResourceVersion3.ColorY"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhflResourceVersion3 egenskap. Hämtar eller anger Y-färgen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colory/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorY property
 
-Hämtar eller ställer in Y-färgen.
+Hämtar eller anger Y‑färgen.
 
 ```csharp
 public float ColorY { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Y-färgen.
 
 ### Se även
 
 * class [PhflResourceVersion3](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

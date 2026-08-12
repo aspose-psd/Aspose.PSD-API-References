@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.Entries
-second_title: Aspose.PSD för .NET API-referens
-description: ColorPalette fast egendom. Får en array avColor strukturer.
+title: "ColorPalette.Entries"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorPalette-egenskap. Hämtar en array av Color‑strukturer"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/colorpalette/entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Entries property
 
-Får en array av[`Color`](../../color/) strukturer.
+Hämtar en array av [`Color`](../../color/) strukturer.
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,9 +17,9 @@ public Color[] Entries { get; }
 
 ### Returvärde
 
-Arrayen av[`Color`](../../color/) struktur som utgör detta[`ColorPalette`](../) .
+Arrayen av [`Color`](../../color/) strukturer som utgör denna [`ColorPalette`](../).
 
-### Fastighetsvärde
+### Property Value
 
 Posterna.
 
@@ -26,7 +27,7 @@ Posterna.
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* namnutrymme [Aspose.PSD](../../colorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

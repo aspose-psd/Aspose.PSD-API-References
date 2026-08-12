@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleScaleLock
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Hämtar eller ställer in Stroke Style skala lås.
+title: "VstkResource.StrokeStyleScaleLock"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar eller anger lås för Stroke-stils skala"
 type: docs
-weight: 200
+weight: 180
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleScaleLock property
 
-Hämtar eller ställer in Stroke Style skala lås.
+Hämtar eller anger skalningslås för stroke‑stilen.
 
 ```csharp
 public bool StrokeStyleScaleLock { get; set; }
@@ -17,7 +18,7 @@ public bool StrokeStyleScaleLock { get; set; }
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

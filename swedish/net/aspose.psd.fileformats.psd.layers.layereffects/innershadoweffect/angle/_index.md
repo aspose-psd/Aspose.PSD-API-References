@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: InnerShadowEffect fast egendom. Hämtar eller ställer in vinkeln i grader.
+title: "InnerShadowEffect.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InnerShadowEffect-egenskap. Hämtar eller anger vinkeln i grader"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
-Hämtar eller ställer in vinkeln i grader.
+Hämtar eller anger vinkeln i grader.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
 ### Se även
 
 * class [InnerShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

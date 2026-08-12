@@ -1,14 +1,15 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions klass. Faltningsfiltret.
+title: "Klass ConvolutionFilterOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions-klass. Konvolutionsfiltret"
 type: docs
-weight: 4670
+weight: 5140
 url: /sv/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
-Faltningsfiltret.
+Konvolutionsfiltret.
 
 ```csharp
 public abstract class ConvolutionFilterOptions : FilterOptionsBase
@@ -16,21 +17,21 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Initierar en ny instans av`ConvolutionFilterOptions` class. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Initierar en ny instans av klassen `ConvolutionFilterOptions`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Hämtar eller ställer in bias. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Hämtar eller ställer in faktorn. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Hämtar eller anger bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Hämtar eller anger faktor. |
 
 ### Se även
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

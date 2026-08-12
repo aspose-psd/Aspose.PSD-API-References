@@ -1,11 +1,12 @@
 ---
-title: Enum FillType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType uppräkning. Fyllningstypen
+title: "Enum FillType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType enum. Fylltypen"
 type: docs
-weight: 1940
+weight: 2050
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
 Fyllningstypen
@@ -14,9 +15,9 @@ Fyllningstypen
 public enum FillType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Color | `0` | Färgfyllningstypen |
 | Gradient | `1` | Gradientfyllningstypen |
@@ -24,7 +25,7 @@ public enum FillType
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

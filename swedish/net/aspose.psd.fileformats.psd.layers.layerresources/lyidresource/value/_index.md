@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD för .NET API-referens
-description: LyidResource fast egendom. Hämtar värdet.
+title: "LyidResource.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LyidResource-egenskap. Hämtar värdet"
 type: docs
-weight: 60
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
 Hämtar värdet.
@@ -14,14 +15,14 @@ Hämtar värdet.
 public int Value { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Värdet.
 
 ### Se även
 
 * class [LyidResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

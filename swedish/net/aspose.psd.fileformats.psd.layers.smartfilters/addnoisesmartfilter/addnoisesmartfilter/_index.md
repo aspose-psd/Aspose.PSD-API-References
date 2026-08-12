@@ -1,14 +1,15 @@
 ---
-title: AddNoiseSmartFilter.AddNoiseSmartFilter
-second_title: Aspose.PSD för .NET API-referens
-description: AddNoiseSmartFilter byggare. Initierar en ny instans avAddNoiseSmartFilter class.
+title: "AddNoiseSmartFilter.AddNoiseSmartFilter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AddNoiseSmartFilter konstruktor. Initierar en ny instans av AddNoiseSmartFilter-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter constructor
 
-Initierar en ny instans av[`AddNoiseSmartFilter`](../) class.
+Initierar en ny instans av klassen [`AddNoiseSmartFilter`](../).
 
 ```csharp
 public AddNoiseSmartFilter()
@@ -17,7 +18,7 @@ public AddNoiseSmartFilter()
 ### Se även
 
 * class [AddNoiseSmartFilter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

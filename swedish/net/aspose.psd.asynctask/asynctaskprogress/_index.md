@@ -1,14 +1,15 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress klass. Ger förloppsinformation för den asynkrona uppgiften.
+title: "Klass AsyncTaskProgress"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.AsyncTask.AsyncTaskProgress-klass. Tillhandahåller framstegsinfo för den asynkrona uppgiften."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
-Ger förloppsinformation för den asynkrona uppgiften.
+Tillhandahåller förloppsinformation för den asynkrona uppgiften.
 
 ```csharp
 public class AsyncTaskProgress
@@ -16,20 +17,20 @@ public class AsyncTaskProgress
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Initierar en ny instans av`AsyncTaskProgress` class. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Initierar en ny instans av klassen `AsyncTaskProgress`. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Varaktigheten av den asynkrona uppgiften. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Förloppet för den asynkrona uppgiften, i procent. |
+| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Varaktigheten för den asynkrona uppgiften. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Framsteg för den asynkrona uppgiften, i procent. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

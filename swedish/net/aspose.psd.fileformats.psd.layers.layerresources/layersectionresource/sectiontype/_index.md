@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Aspose.PSD för .NET API-referens
-description: LayerSectionResource fast egendom. Hämtar eller ställer in sektionstypen.
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerSectionResource egenskap. Hämtar eller anger sektionstypen"
 type: docs
-weight: 60
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
-Hämtar eller ställer in sektionstypen.
+Hämtar eller anger sektionstypen.
 
 ```csharp
 public LayerSectionType SectionType { get; set; }
@@ -18,7 +19,7 @@ public LayerSectionType SectionType { get; set; }
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

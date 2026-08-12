@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD för .NET API-referens
-description: ColorBalanceAdjustmentLayer fast egendom. Får eller ställer in Shadows Magenta Green Balance.
+title: "ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorBalanceAdjustmentLayer property. Gets or sets the Shadows Magenta Green Balance"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
-Får eller ställer in Shadows Magenta Green Balance.
+Hämtar eller anger Skuggornas Magenta Grön Balans.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-The Shadows Magenta Green Balance.
+Den Shadows Magenta Green Balance.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Magenta grönbalans måste ligga inom området -100 till +100. |
+| ArgumentOutOfRangeException | Shadows Magenta Green Balance måste vara i intervallet från -100 till +100. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för ColorBalanceAdjustmentLayer.
+Följande kod demonstrerar stöd för ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Se även
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

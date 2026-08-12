@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.PSD för .NET API-referens
-description: RdOptimizerSettings fast egendom. Får det lägsta tillåtna kvantiseringsvärdet.
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RdOptimizerSettings property. Hämtar det minsta tillåtna kvantiseringsvärdet"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-Får det lägsta tillåtna kvantiseringsvärdet.
+Hämtar det minsta tillåtna kvantiseringsvärdet.
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Minsta lägsta tillåtna kvantiseringsvärde.
+Det minsta minsta tillåtna kvantiseringsvärdet.
 
 ### Se även
 
 * class [RdOptimizerSettings](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Offset
-second_title: Aspose.PSD för .NET API-referens
-description: PtFlResource fast egendom. Hämtar eller ställer in offset.
+title: "PtFlResource.Offset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PtFlResource egenskap. Hämtar eller anger förskjutningen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
-Hämtar eller ställer in offset.
+Hämtar eller anger förskjutningen.
 
 ```csharp
 public Point Offset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Offset.
+Förskjutningen.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för att ladda och redigera en PtFlResource-resurs.
+Följande exempel demonstrerar stöd för inläsning och redigering av en PtFlResource-resurs.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Läser
+                    // Läsning
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Vi har inte mönsterdata i PattResource, så vi kan lägga till det.
+                    // Vi har ingen mönsterdata i PattResource, så vi kan lägga till den.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -90,7 +91,7 @@ using (im)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

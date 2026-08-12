@@ -1,30 +1,31 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState uppräkning. Representerar resursblocktillstånd.
+title: "Enum ResourceBlock.ResourceBlockState"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState enum. Representerar resursblockstillstånd"
 type: docs
-weight: 3620
+weight: 4080
 url: /sv/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResourceBlockState enumeration
 
-Representerar resursblocktillstånd.
+Representerar resursblockstillstånd.
 
 ```csharp
 public enum ResourceBlockState
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Normal | `0` | Typiskt tillstånd. |
-| Cached | `1` | Cachad status. |
+| Cached | `1` | Cachat tillstånd. |
 
 ### Se även
 
 * class [ResourceBlock](../resourceblock/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: PlLdResource fast egendom. Får PlLdresurssignaturen.
+title: "PlLdResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlLdResource egenskap. Hämtar PlLd-resursens signatur"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Signature property
 
-Får PlLd-resurssignaturen.
+Hämtar PlLd-resursens signatur.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [PlLdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

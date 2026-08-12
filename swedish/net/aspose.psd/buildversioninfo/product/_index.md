@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PSD för .NET API-referens
-description: BuildVersionInfo fält. Produktens titel.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BuildVersionInfo‑fält. Produktens titel"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
 Produktens titel.
@@ -17,7 +18,7 @@ public static readonly string Product;
 ### Se även
 
 * class [BuildVersionInfo](../)
-* namnutrymme [Aspose.PSD](../../buildversioninfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

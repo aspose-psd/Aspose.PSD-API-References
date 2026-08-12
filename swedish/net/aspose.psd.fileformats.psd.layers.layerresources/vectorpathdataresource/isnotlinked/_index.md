@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsNotLinked
-second_title: Aspose.PSD för .NET API-referens
-description: VectorPathDataResource fast egendom. Hämtar eller ställer in ett värde som anger om denna instans inte är länkad.
+title: "VectorPathDataResource.IsNotLinked"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorPathDataResource-egenskap. Hämtar eller anger ett värde som indikerar om detta objekt inte är länkat"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsNotLinked property
 
-Hämtar eller ställer in ett värde som anger om denna instans inte är länkad.
+Hämtar eller anger ett värde som indikerar om den här instansen inte är länkad.
 
 ```csharp
 public bool IsNotLinked { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans inte är länkad; annat,`falsk` .
+`true` om denna instans inte är länkad; annars `false`.
 
 ### Se även
 
 * class [VectorPathDataResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

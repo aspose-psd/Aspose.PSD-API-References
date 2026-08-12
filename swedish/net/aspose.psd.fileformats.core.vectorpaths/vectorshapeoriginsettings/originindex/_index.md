@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.OriginIndex
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Hämtar eller ställer in ursprungsformindex.
+title: "VectorShapeOriginSettings.OriginIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings egenskap. Hämtar eller anger ursprungsformens index"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginIndex property
 
-Hämtar eller ställer in ursprungsformindex.
+Hämtar eller anger ursprungsformens index.
 
 ```csharp
 public int OriginIndex { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VogkResource-resursen.
+Följande exempel demonstrerar stöd för VogkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Läser
+    // Läsning
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

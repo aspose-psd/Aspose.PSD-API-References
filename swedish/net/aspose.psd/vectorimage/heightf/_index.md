@@ -1,11 +1,12 @@
 ---
-title: VectorImage.HeightF
-second_title: Aspose.PSD för .NET API-referens
-description: VectorImage fast egendom. Hämtar objektets höjd i tum.
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorImage-egenskapen. Hämtar objektets höjd i tum."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
 Hämtar objektets höjd, i tum.
@@ -14,14 +15,14 @@ Hämtar objektets höjd, i tum.
 public virtual float HeightF { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets höjd, i tum.
 
 ### Se även
 
 * class [VectorImage](../)
-* namnutrymme [Aspose.PSD](../../vectorimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

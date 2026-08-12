@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.EntriesCount
-second_title: Aspose.PSD för .NET API-referens
-description: IColorPalette fast egendom. Hämtar antalet poster.
+title: "IColorPalette.EntriesCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IColorPalette‑egenskap. Hämtar antalet poster"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/icolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## IColorPalette.EntriesCount property
 
 Hämtar antalet poster.
@@ -14,14 +15,14 @@ Hämtar antalet poster.
 public int EntriesCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Anmälningarna räknas.
+Antalet poster.
 
 ### Se även
 
 * interface [IColorPalette](../)
-* namnutrymme [Aspose.PSD](../../icolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

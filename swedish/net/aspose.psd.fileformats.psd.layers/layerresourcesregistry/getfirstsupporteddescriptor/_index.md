@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResourcesRegistry metod. Får den första öppnarbeskrivningen som stöds.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResourcesRegistry metod. Hämtar den första stödda öppnardeskriptorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
-Får den första öppnarbeskrivningen som stöds.
+Hämtar den första stödda öppnarebeskrivaren.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
@@ -16,22 +17,22 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen. |
+| ström | Ström | Strömmen. |
 | psdVersion | Int32 | PSD-versionen. |
 
 ### Returvärde
 
-Lagerresursladdningsbeskrivningen eller null om ingen laddarbeskrivning stöds för sådan ström.
+Lagerresursladdningsdeskriptorn eller null om ingen laddningsdeskriptör stöds för sådan ström.
 
-### Anmärkningar
+## Anmärkningar
 
-Den första laddaren kommer faktiskt att vara den senast registrerade.
+Den första laddaren kommer faktiskt att vara den sist registrerade.
 
 ### Se även
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

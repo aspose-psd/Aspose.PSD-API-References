@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: Aspose.PSD för .NET API-referens
-description: MultiPageOptions fast egendom. Hämtar eller ställer in sidrastreringsalternativen.
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MultiPageOptions egenskap. Hämtar eller anger sidans rasteriseringsalternativ"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
-Hämtar eller ställer in sidrastreringsalternativen.
+Hämtar eller anger sidans rasteriseringsalternativ.
 
 ```csharp
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Alternativen för sidrastrering.
+Sidans rasteriseringsalternativ.
 
 ### Se även
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

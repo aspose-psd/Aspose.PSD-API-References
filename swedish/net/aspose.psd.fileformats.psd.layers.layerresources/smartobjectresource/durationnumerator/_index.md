@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.DurationNumerator
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in varaktighetsräknaren.
+title: "SmartObjectResource.DurationNumerator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource-egenskap. Hämtar eller anger täljaren för varaktigheten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationNumerator property
 
-Hämtar eller ställer in varaktighetsräknaren.
+Hämtar eller anger varaktighetens täljare.
 
 ```csharp
 public int DurationNumerator { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Varaktighetsräknaren.
+Täljaren för varaktigheten.
 
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

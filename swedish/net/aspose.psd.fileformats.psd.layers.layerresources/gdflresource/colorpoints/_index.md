@@ -1,20 +1,21 @@
 ---
-title: GdFlResource.ColorPoints
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Får färgpunkterna.
+title: "GdFlResource.ColorPoints"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource-egenskap. Hämtar färgpunkterna"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.ColorPoints property
 
-Får färgpunkterna.
+Hämtar färgpunkterna.
 
 ```csharp
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgpunkterna.
 
@@ -22,7 +23,7 @@ Färgpunkterna.
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

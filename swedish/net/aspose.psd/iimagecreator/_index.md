@@ -1,11 +1,12 @@
 ---
-title: Interface IImageCreator
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IImageCreator gränssnitt. Bildskaparen.
+title: "Interface IImageCreator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IImageCreator interface. Bildskaparen"
 type: docs
-weight: 4400
+weight: 4870
 url: /sv/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
 Bildskaparen.
@@ -16,13 +17,13 @@ public interface IImageCreator
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Skapar en ny bildinstans med*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Skapar en ny bildinstans med *imageOptions*. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

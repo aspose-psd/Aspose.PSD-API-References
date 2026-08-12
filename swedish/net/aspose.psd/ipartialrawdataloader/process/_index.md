@@ -1,14 +1,15 @@
 ---
-title: IPartialRawDataLoader.Process
-second_title: Aspose.PSD för .NET API-referens
-description: IPartialRawDataLoader metod. Bearbetar inlästa data.
+title: "IPartialRawDataLoader.Process"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPartialRawDataLoader-metoden. Bearbetar den inlästa datan."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/ipartialrawdataloader/process/
 ---
+{{< psd/tize >}}
 ## Process(Rectangle, byte[], Point, Point) {#process}
 
-Bearbetar inlästa data.
+Bearbetar den inlästa datan.
 
 ```csharp
 public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
@@ -16,24 +17,24 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Datarektangeln. |
-| data | Byte[] | Rådata. |
-| start | Point | Startdatapunkten. Om inte lika med (vänster, topp) betyder det att det inte är en hel rektangel vi har. |
-| end | Point | Slutdatapunkten. Om inte lika med (höger, botten) betyder det att det inte är en hel rektangel vi har. |
+| rektangel | Rectangle | Daterektangeln. |
+| data | Byte[] | Den råa datan. |
+| start | Punkt | Startdatapunkten. Om den inte är lika med (left,top) betyder det att vi inte har en fullständig rektangel. |
+| end | Punkt | Slutdatapunkten. Om den inte är lika med (right,bottom) betyder det att vi inte har en fullständig rektangel. |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialRawDataLoader](../)
-* namnutrymme [Aspose.PSD](../../ipartialrawdataloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Process(Rectangle, byte[], Point, Point, LoadOptions) {#process_1}
 
-Bearbetar inlästa data.
+Bearbetar den inlästa datan.
 
 ```csharp
 public void Process(Rectangle rectangle, byte[] data, Point start, Point end, 
@@ -42,11 +43,11 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Datarektangeln. |
-| data | Byte[] | Rådata. |
-| start | Point | Startdatapunkten. Om inte lika med (vänster, topp) betyder det att det inte är en hel rektangel vi har. |
-| end | Point | Slutdatapunkten. Om inte lika med (höger, botten) betyder det att det inte är en hel rektangel vi har. |
-| loadOptions | LoadOptions | Lastalternativen. |
+| rektangel | Rectangle | Daterektangeln. |
+| data | Byte[] | Den råa datan. |
+| start | Punkt | Startdatapunkten. Om den inte är lika med (left,top) betyder det att vi inte har en fullständig rektangel. |
+| end | Punkt | Slutdatapunkten. Om den inte är lika med (right,bottom) betyder det att vi inte har en fullständig rektangel. |
+| loadOptions | LoadOptions | Laddningsalternativen. |
 
 ### Se även
 
@@ -54,7 +55,7 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 * struct [Point](../../point/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IPartialRawDataLoader](../)
-* namnutrymme [Aspose.PSD](../../ipartialrawdataloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

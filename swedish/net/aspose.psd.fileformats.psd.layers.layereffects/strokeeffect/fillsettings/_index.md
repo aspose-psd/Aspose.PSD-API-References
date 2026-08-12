@@ -1,20 +1,21 @@
 ---
-title: StrokeEffect.FillSettings
-second_title: Aspose.PSD för .NET API-referens
-description: StrokeEffect fast egendom. Hämtar eller ställer in fyllningsinställningarna.
+title: "StrokeEffect.FillSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StrokeEffect property. Hämtar eller anger fyllningsinställningarna"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.FillSettings property
 
-Hämtar eller ställer in fyllningsinställningarna.
+Hämtar eller anger fyllningsinställningarna.
 
 ```csharp
 public BaseFillSettings FillSettings { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Fyllningsinställningarna.
 
@@ -22,7 +23,7 @@ Fyllningsinställningarna.
 
 * class [BaseFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/)
 * class [StrokeEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

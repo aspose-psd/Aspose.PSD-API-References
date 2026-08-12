@@ -1,28 +1,29 @@
 ---
-title: IAsyncTaskState.Progress
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTaskState fast egendom. Hämtar förloppet för den asynkrona uppgiften.
+title: "IAsyncTaskState.Progress"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTaskState egenskap. Hämtar framsteg för den asynkrona uppgiften"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.asynctask/iasynctaskstate/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.Progress property
 
-Hämtar förloppet för den asynkrona uppgiften.
+Hämtar framsteget för den asynkrona uppgiften.
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Förloppet för den asynkrona uppgiften.
+Framsteg för den asynkrona uppgiften.
 
 ### Se även
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTaskState](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

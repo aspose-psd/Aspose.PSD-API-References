@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Teckensnittets kapslar.
+title: "ITextStyle.FontCaps"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle egenskap. Versaler"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-Teckensnittets kapslar.
+Typsnittets versaler.
 
 ```csharp
 public FontCaps FontCaps { get; set; }
@@ -18,7 +19,7 @@ public FontCaps FontCaps { get; set; }
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

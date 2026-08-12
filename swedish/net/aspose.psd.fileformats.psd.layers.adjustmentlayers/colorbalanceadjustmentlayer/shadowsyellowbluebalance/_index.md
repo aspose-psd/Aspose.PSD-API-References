@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance
-second_title: Aspose.PSD för .NET API-referens
-description: ColorBalanceAdjustmentLayer fast egendom. Hämtar eller ställer in Shadows YellowBlue Balance.
+title: "ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorBalanceAdjustmentLayer-egenskap. Hämtar eller anger Shadows YellowBlue Balance"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance property
 
-Hämtar eller ställer in Shadows YellowBlue Balance.
+Hämtar eller anger Skuggornas GulBlå Balans.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-The Shadows Yellow Blue Balance.
+Den Shadows Yellow Blue Balance.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Skuggor Gul Blå Balans måste ligga inom intervallet från -100 till +100. |
+| ArgumentOutOfRangeException | Shadows Yellow Blue Balance måste vara i intervallet från -100 till +100. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för ColorBalanceAdjustmentLayer.
+Följande kod demonstrerar stöd för ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Se även
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

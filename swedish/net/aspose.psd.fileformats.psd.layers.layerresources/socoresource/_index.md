@@ -1,14 +1,15 @@
 ---
-title: Class SoCoResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource klass. Class SoCoResource. Den här resursen innehåller information om Color Fill Layers
+title: "Klass SoCoResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource-klass. Klass SoCoResource. Denna resurs innehåller information om färgfyllningslager"
 type: docs
-weight: 3010
+weight: 3360
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Class SoCoResource. Den här resursen innehåller information om Color Fill Layers
+Klassen SoCoResource. Denna resurs innehåller information om färgfyllningslager.
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -16,36 +17,36 @@ public class SoCoResource : FillLayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SoCoResource](socoresource/)() | Initierar en ny instans av`SoCoResource` class. |
+| [SoCoResource](socoresource/)() | Initierar en ny instans av klassen `SoCoResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Får RGB-färgen . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Hämtar lagerresurssignaturen. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Hämtar RGB-färgen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du redigerar SoCoResource (Layer Resource for Color Fill Layer)
+Följande exempel demonstrerar hur du redigerar SoCoResource (lageresurs för färgfyllningslager)
 
 ```csharp
 [C#]
@@ -53,20 +54,20 @@ Följande exempel visar hur du redigerar SoCoResource (Layer Resource for Color 
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Hitta FillLayer
+        // Sökning av FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Hitta SoCoResource i Layer Resource List
+                // Sökning av SoCoResource i lagerresurslistan
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Ställa in egenskapen SoCoResource Color
+                    // Ställer in SoCoResource färgegenskapen
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -96,7 +97,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

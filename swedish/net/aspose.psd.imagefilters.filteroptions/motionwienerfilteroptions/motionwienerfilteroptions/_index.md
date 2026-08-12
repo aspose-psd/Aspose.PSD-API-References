@@ -1,14 +1,15 @@
 ---
-title: MotionWienerFilterOptions.MotionWienerFilterOptions
-second_title: Aspose.PSD för .NET API-referens
-description: MotionWienerFilterOptions byggare. Initierar en ny instans avMotionWienerFilterOptions class.
+title: "MotionWienerFilterOptions.MotionWienerFilterOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MotionWienerFilterOptions-konstruktor. Initierar en ny instans av klassen MotionWienerFilterOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/motionwienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions constructor
 
-Initierar en ny instans av[`MotionWienerFilterOptions`](../) class.
+Initierar en ny instans av klassen [`MotionWienerFilterOptions`](../).
 
 ```csharp
 public MotionWienerFilterOptions(int length, double smooth, double angle)
@@ -16,14 +17,14 @@ public MotionWienerFilterOptions(int length, double smooth, double angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| length | Int32 | Längden. |
-| smooth | Double | Den släta. |
-| angle | Double | Vinkeln i gradus. |
+| längd | Int32 | Längden. |
+| utjämning | Double | Utjämningen. |
+| vinkel | Double | Vinkeln i grader. |
 
 ### Se även
 
 * class [MotionWienerFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

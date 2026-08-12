@@ -1,20 +1,21 @@
 ---
-title: Figure.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: Figure fast egendom. Hämtar eller ställer in objektets gränser.
+title: "Figure.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Figure-egenskapen. Hämtar eller anger objektets gränser"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
-Hämtar eller ställer in objektets gränser.
+Hämtar eller anger objektets gränser.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets gränser.
 
@@ -22,7 +23,7 @@ Objektets gränser.
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* namnutrymme [Aspose.PSD](../../figure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

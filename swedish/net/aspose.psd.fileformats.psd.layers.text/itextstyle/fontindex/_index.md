@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Hämtar teckensnittsindex.
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle egenskap. Hämtar teckensnittets index"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
-Hämtar teckensnittsindex.
+Hämtar typsnittsindex.
 
 ```csharp
 public int FontIndex { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Teckensnittet.
 
-### Exempel
+## Exempel
 
-Följande kod visar hur Aspose.PSD får egenskaper för inline-formatering av Text Layer.
+Följande kod visar hur Aspose.PSD hämtar egenskaper för inlineformatering av Text Layer.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // får typsnitt som innehåller i textlager
+        // hämtar teckensnitt som finns i textlager
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

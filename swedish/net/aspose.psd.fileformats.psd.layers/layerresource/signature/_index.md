@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResource fast egendom. Hämtar lagerresurssignaturen.
+title: "LayerResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResource egenskap. Hämtar signaturen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerResource.Signature property
 
-Hämtar lagerresurssignaturen.
+Hämtar signaturen.
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
 ### Se även
 
 * class [LayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

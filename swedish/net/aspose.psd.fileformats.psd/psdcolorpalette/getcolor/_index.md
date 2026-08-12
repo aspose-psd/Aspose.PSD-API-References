@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.GetColor
-second_title: Aspose.PSD för .NET API-referens
-description: PsdColorPalette metod. Hämtar palettfärgen efter index.
+title: "PsdColorPalette.GetColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdColorPalette-metod. Hämtar palettfärgen efter index."
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.psd/psdcolorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetColor method
 
 Hämtar palettfärgen efter index.
@@ -20,19 +21,19 @@ public Color GetColor(int index)
 
 ### Returvärde
 
-Färgpalettposten som anges av*index* .
+Det färgpalettposten som specificeras av *index*.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | om färgpalett*index* angivna är utanför palettens intervall. |
+| ArgumentOutOfRangeException | om färgpalett *index* som anges är utanför palettposternas intervall. |
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

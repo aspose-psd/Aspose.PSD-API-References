@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTask fast egendom. Hämtar uppgiftsfelet som är tillgängligt efter att uppgiften är klar.
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTask-egenskap. Hämtar uppgiftsfelet som är tillgängligt efter att uppgiften har slutförts"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-Hämtar uppgiftsfelet som är tillgängligt efter att uppgiften är klar.
+Hämtar uppgiftsfelet som är tillgängligt efter att uppgiften har slutförts.
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Uppgiftsfelet.
 
 ### Se även
 
 * interface [IAsyncTask](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctask/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

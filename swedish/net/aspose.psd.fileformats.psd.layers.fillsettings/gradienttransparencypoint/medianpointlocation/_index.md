@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.MedianPointLocation
-second_title: Aspose.PSD för .NET API-referens
-description: GradientTransparencyPoint fast egendom. Hämtar eller ställer in medianpunktsplatsen.
+title: "GradientTransparencyPoint.MedianPointLocation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientTransparencyPoint-egenskap. Hämtar eller anger medianpunktsplatsen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.MedianPointLocation property
 
-Hämtar eller ställer in medianpunktsplatsen.
+Hämtar eller anger medianpunktsplatsen.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Medianpunktens plats.
+Medianpunktsplatsen.
 
 ### Se även
 
 * class [GradientTransparencyPoint](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller strömhanteringsklasser i Tifffilformat.
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller klasser för hantering av Tiff-filformatströmmar."
 type: docs
-weight: 390
+weight: 430
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-Namnutrymmet innehåller strömhanteringsklasser i Tiff-filformat.
+{{< psd/tize >}}
+Namnutrymmet innehåller Tiff-filformatströmhanteringsklasser.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | tiff-strömmen för att hantera little endian tiff-filformat. |
-| [TiffStreamWriter](./tiffstreamwriter/) | Tiff-strömskrivare. |
+| [TiffStreamReader](./tiffstreamreader/) | Tiff-strömmen för hantering av little endian Tiff-filformat. |
+| [TiffStreamWriter](./tiffstreamwriter/) | Tiff-strömsskrivare. |
 
 

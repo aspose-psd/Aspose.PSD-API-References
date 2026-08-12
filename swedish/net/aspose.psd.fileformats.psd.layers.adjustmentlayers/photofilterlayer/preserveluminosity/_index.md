@@ -1,27 +1,28 @@
 ---
-title: PhotoFilterLayer.PreserveLuminosity
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoFilterLayer fast egendom. Hämtar eller ställer in ett värde som anger om bevara ljusstyrkan.
+title: "PhotoFilterLayer.PreserveLuminosity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoFilterLayer egenskap. Hämtar eller anger ett värde som indikerar om luminositeten ska bevaras"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.PreserveLuminosity property
 
-Hämtar eller ställer in ett värde som anger om [bevara ljusstyrkan].
+Hämtar eller anger ett värde som indikerar om [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om [bevara ljusstyrkan]; annat,`falsk` .
+`true` om [bevara luminositeten]; annars, `false`.
 
 ### Se även
 
 * class [PhotoFilterLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

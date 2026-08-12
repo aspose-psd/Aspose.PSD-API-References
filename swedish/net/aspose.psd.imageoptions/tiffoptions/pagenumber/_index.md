@@ -1,26 +1,27 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in sidnummertaggen.
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger sidnummer-taggen"
 type: docs
-weight: 300
+weight: 310
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
-Hämtar eller ställer in sidnummertaggen.
+Hämtar eller anger sidnummer‑tagg.
 
 ```csharp
 public ushort[] PageNumber { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sidnummertaggen.
+Sidnummer-taggen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | värde |
 | ArgumentOutOfRangeException | värde;Förväntade 2 värden i arrayen: PageNumber[0] är sidnumret och PageNumber[1] är det totala antalet sidor i dokumentet. |
@@ -28,7 +29,7 @@ Sidnummertaggen.
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

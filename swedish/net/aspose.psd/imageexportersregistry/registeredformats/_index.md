@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD för .NET API-referens
-description: ImageExportersRegistry fast egendom. Hämtar de registrerade exportformaten.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageExportersRegistry egenskap. Hämtar de registrerade exportformaten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
 Hämtar de registrerade exportformaten.
@@ -14,7 +15,7 @@ Hämtar de registrerade exportformaten.
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De registrerade exportformaten.
 
@@ -22,7 +23,7 @@ De registrerade exportformaten.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageexportersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

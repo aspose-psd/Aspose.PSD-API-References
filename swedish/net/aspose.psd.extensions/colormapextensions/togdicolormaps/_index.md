@@ -1,14 +1,15 @@
 ---
-title: ColorMapExtensions.ToGdiColorMaps
-second_title: Aspose.PSD för .NET API-referens
-description: ColorMapExtensions metod. KonverterarColorMap array tillColorMap array.
+title: "ColorMapExtensions.ToGdiColorMaps"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorMapExtensions‑metod. Konverterar ColorMap‑arrayen till ColorMap‑arrayen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.extensions/colormapextensions/togdicolormaps/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMaps method
 
-Konverterar[`ColorMap`](../../../aspose.psd/colormap/) array tillColorMap array.
+Konverterar [`ColorMap`](../../../aspose.psd/colormap/)‑arrayen till ColorMap‑arrayen.
 
 ```csharp
 public static ColorMap[] ToGdiColorMaps(ColorMap[] colorMaps)
@@ -16,17 +17,17 @@ public static ColorMap[] ToGdiColorMaps(ColorMap[] colorMaps)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| colorMaps | ColorMap[] | Färgkartor att konvertera. |
+| färgkartor | ColorMap[] | Färgkartorna att konvertera. |
 
 ### Returvärde
 
-Den konverteradeColorMap array.
+Den konverterade ColorMap‑arrayen.
 
 ### Se även
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* namnutrymme [Aspose.PSD.Extensions](../../colormapextensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får ett värde som indikerar om bilden är sida vid sida.
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar ett värde som indikerar om bilden är uppdelad i rutor"
 type: docs
-weight: 240
+weight: 250
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-Får ett värde som indikerar om bilden är sida vid sida.
+Hämtar ett värde som indikerar om bilden är kaklad.
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann`om bilden är sida vid sida; annat,`falsk` .
+`true` om bilden är uppdelad i rutor; annars `false`.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

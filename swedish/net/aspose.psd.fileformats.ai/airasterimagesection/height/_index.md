@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Får höjden.
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection egenskap. Hämtar höjden"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
-Får höjden.
+Hämtar höjden.
 
 ```csharp
 public double Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Höjden.
 
 ### Se även
 
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

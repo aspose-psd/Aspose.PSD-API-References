@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Brightness
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar eller ställer in ljusstyrkan.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource-egenskapen. Hämtar eller anger ljusstyrkan"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
-Hämtar eller ställer in ljusstyrkan.
+Hämtar eller anger ljusstyrkan.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Ljusstyrkan.
 
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

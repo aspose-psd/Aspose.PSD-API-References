@@ -1,27 +1,28 @@
 ---
-title: BmpOptions.BitsPerPixel
-second_title: Aspose.PSD för .NET API-referens
-description: BmpOptions fast egendom. Hämtar eller ställer in bildbitar per pixelantal.
+title: "BmpOptions.BitsPerPixel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BmpOptions-egenskap. Hämtar eller anger antalet bildbitar per pixel"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imageoptions/bmpoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## BmpOptions.BitsPerPixel property
 
-Hämtar eller ställer in bildbitar per pixelantal.
+Hämtar eller anger antalet bildbitar per pixel.
 
 ```csharp
 public int BitsPerPixel { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antalet bildbitar per pixel.
+Bildens bit per pixel-antal.
 
 ### Se även
 
 * class [BmpOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

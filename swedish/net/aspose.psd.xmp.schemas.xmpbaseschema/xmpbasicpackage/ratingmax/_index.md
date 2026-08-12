@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBasicPackage fält. Betyg max värde.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBasicPackage fält. Rating maxvärde"
 type: docs
-weight: 100
+weight: 130
 url: /sv/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-Betyg max värde.
+Maxvärde för betyg.
 
 ```csharp
 public const int RatingMax;
@@ -17,7 +18,7 @@ public const int RatingMax;
 ### Se även
 
 * class [XmpBasicPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColor fast egendom. Hämtar magenta komponentvärdet för dettaColorstruktur.
+title: "CmykColor.M"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColor property. Hämtar magenta‑komponentens värde för denna Color‑struktur"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-Hämtar magenta komponentvärdet för detta[`Color`](../../color/)struktur.
+Hämtar magenta‑komponentens värde för denna [`Color`](../../color/) struktur.
 
 ```csharp
 public byte M { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Magenta komponentvärdet för detta[`Color`](../../color/) .
+Magenta‑komponentens värde för denna [`Color`](../../color/).
 
 ### Se även
 
 * struct [CmykColor](../)
-* namnutrymme [Aspose.PSD](../../cmykcolor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

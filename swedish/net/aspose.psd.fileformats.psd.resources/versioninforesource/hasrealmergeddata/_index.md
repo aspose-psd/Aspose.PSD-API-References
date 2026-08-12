@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.HasRealMergedData
-second_title: Aspose.PSD för .NET API-referens
-description: VersionInfoResource fast egendom. Hämtar eller ställer in ett värde som indikerar om denna instans har riktiga sammanslagna data.
+title: "VersionInfoResource.HasRealMergedData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VersionInfoResource-egenskap. Hämtar eller anger ett värde som indikerar om detta objekt har verkliga sammanslagna data"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.HasRealMergedData property
 
-Hämtar eller ställer in ett värde som indikerar om denna instans har riktiga sammanslagna data.
+Hämtar eller anger ett värde som indikerar om detta objekt har verkliga sammanslagna data.
 
 ```csharp
 public bool HasRealMergedData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har riktiga sammanslagna data; annat,`falsk` .
+`true` om detta objekt har verkliga sammanslagna data; annars, `false`.
 
 ### Se även
 
 * class [VersionInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PlacedResource.TotalPages
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Hämtar eller ställer in det totala antalet sidor för det placerade lagret i PSDfilen.
+title: "PlacedResource.TotalPages"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar eller anger det totala antalet sidor för det placerade lagret i PSD-filen"
 type: docs
-weight: 160
+weight: 150
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TotalPages property
 
-Hämtar eller ställer in det totala antalet sidor för det placerade lagret i PSD-filen.
+Hämtar eller anger det totala antalet sidor för det placerade lagret i PSD‑filen.
 
 ```csharp
 public virtual int TotalPages { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Det totala antalet sidor i det placerade lagret.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för PlLdResource-resursen.
+Följande kod demonstrerar stödet för PlLdResource-resursen.
 
 ```csharp
 [C#]
@@ -202,12 +203,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Var försiktig med vissa parametrar: bilden kan bli oläslig av Adobe® Photoshop®
+                // Var försiktig med vissa parametrar: bilden kan bli oläsbar i Adobe® Photoshop®.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-                // eller ändra det understrykande smarta objektet till vektortypen
+                // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+                // eller ändra det underliggande smarta objektet till vektortypen
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -223,12 +225,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Följande kod visar stödet för SoLdResource-resursen.
+Följande kod demonstrerar stödet för SoLdResource‑resursen.
 
 ```csharp
 [C#]
 
-// Det här exemplet visar hur man hämtar eller ställer in dataegenskaperna för smarta objektlager för PSD-filen.
+// Detta exempel visar hur man hämtar eller anger egenskaperna för smartobjekt‑lagerdata i PSD‑filen.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -463,7 +465,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 }
 
                 // Dessa värden bör också ändras i PlLdResource (med det angivna UniqueId).
-                // och några av dem måste vara i överensstämmelse med det understrukna smarta objektet i LinkDataSource
+                // och några av dem måste stämma överens med det underliggande smarta objektet i LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,15 +510,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Detta unika ID bör ändras i referenser om några
+                // Detta unika ID bör ändras i referenserna om några finns.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Var försiktig med vissa parametrar: bilden kan bli oläslig av Adobe® Photoshop®
+                // Var försiktig med vissa parametrar: bilden kan bli oläsbar i Adobe® Photoshop®.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-                // eller ändra det understrykande smarta objektet till vektortypen
+                // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+                // eller ändra det underliggande smarta objektet till vektortypen
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -535,7 +538,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

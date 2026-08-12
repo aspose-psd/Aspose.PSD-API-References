@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Hämtar alfakomponentvärdet för dettaColorstruktur.
+title: "Color.A"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Färgegenskap. Hämtar det alfa komponentvärdet för denna Color-struktur"
 type: docs
 weight: 1460
 url: /sv/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-Hämtar alfakomponentvärdet för detta[`Color`](../)struktur.
+Hämtar det alfa komponentvärdet för denna [`Color`](../) struktur.
 
 ```csharp
 public byte A { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Alfakomponentvärdet för detta[`Color`](../).
+Det alfa komponentvärdet för denna [`Color`](../).
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

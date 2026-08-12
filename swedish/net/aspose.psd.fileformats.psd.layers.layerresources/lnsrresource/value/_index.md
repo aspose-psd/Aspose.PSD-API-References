@@ -1,20 +1,21 @@
 ---
-title: LnsrResource.Value
-second_title: Aspose.PSD för .NET API-referens
-description: LnsrResource fast egendom. Får värdet som LnsrResourceType om motsvarande enum beskrivs. Returnerar annars Unknown
+title: "LnsrResource.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LnsrResource egenskap. Hämtar värdet som LnsrResourceType om motsvarande enum är beskriven. Annars returnerar Unknown"
 type: docs
-weight: 70
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Value property
 
-Får värdet som LnsrResourceType om motsvarande enum beskrivs. Returnerar annars Unknown
+Hämtar värdet som LnsrResourceType om motsvarande enum är beskriven. Returnerar annars Unknown
 
 ```csharp
 public LnsrResourceType Value { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Värdet som LnsrResourceType
 
@@ -22,7 +23,7 @@ Värdet som LnsrResourceType
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.CompId
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar eller ställer in ID för den för närvarande valda komp för det underordnade dokumentet vilket kommer att vara 1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med hjälp av lagersammansättningar kan du skapa hantera och visa flera versioner av en layout i en enda Adobe Photoshopfil. En lagerkomp är en ögonblicksbild av ett tillstånd på panelen Lager. Layer Comps sparar tre typer av lageralternativ men den här egenskapen får Layer Compurvalsidentifieraren för smarta objekt. Layer comps i Smart Objects
+title: "LinkDataSource.CompId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource-egenskap. Hämtar eller anger ID för den för närvarande valda comp för underdokumentet, vilket blir 1 om ingen är vald. Comp är sammansättningar av en sidlayout som designers kan skapa. Med lager‑comp kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe Photoshop‑fil. En lager‑comp är en ögonblicksbild av ett tillstånd i Lager‑panelen. Lager‑comp sparar tre typer av lageralternativ men den här egenskapen hämtar identifieraren för Layer Comp‑valet för Smart Objects. Lager‑comp i Smart Objects"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.CompId property
 
-Hämtar eller ställer in ID för den för närvarande valda komp för det underordnade dokumentet, vilket kommer att vara -1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med hjälp av lagersammansättningar kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe® Photoshop®-fil. En lagerkomp är en ögonblicksbild av ett tillstånd på panelen Lager. Layer Comps sparar tre typer av lageralternativ men den här egenskapen får Layer Comp-urvalsidentifieraren för smarta objekt. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Hämtar eller anger ID för den för närvarande valda kompositionen för underdokumentet, vilket blir -1 om ingen är vald. Kompositioner (comps) är sammansättningar av en sidlayout som designers kan skapa. Med lager‑kompositioner kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe® Photoshop®-fil. En lager‑komposition är en ögonblicksbild av ett tillstånd i lagerpanelen. Lager‑kompositioner sparar tre typer av lageralternativ men den här egenskapen hämtar identifieraren för lager‑kompositionsvalet för Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-ID för den för närvarande valda komp för det underordnade dokumentet, som kommer att vara -1 om ingen är vald.
+ID för den för närvarande valda comp för underdokumentet, vilket blir -1 om ingen är vald.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt CompId-egenskapen |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt CompId‑egenskapen |
 
 ### Se även
 
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

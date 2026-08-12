@@ -1,31 +1,32 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType uppräkning. Definierar PlacedLayerTypeuppräkningen för det placerade lagret PlLdresursen.
+title: "Enum PlacedLayerType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType enum. Definierar PlacedLayerType-uppräkningen för den placerade lagret PlLd-resursen"
 type: docs
-weight: 2930
+weight: 3280
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Definierar PlacedLayerType-uppräkningen för det placerade lagret PlLd-resursen.
+Definierar uppräkningen PlacedLayerType för den placerade lagern PlLd‑resursen.
 
 ```csharp
 public enum PlacedLayerType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Unknown | `0` | Det okända placerade lagret type |
-| Vector | `1` | Det vektorplacerade lagret type |
-| Raster | `2` | Det rasterplacerade lagret type |
-| ImageStack | `3` | Bildstapeln placerad lager type |
+| Unknown | `0` | Den okända placerade lagertypen |
+| Vector | `1` | Den vektorplacerade lagertypen |
+| Raster | `2` | Den rasterplacerade lagertypen |
+| ImageStack | `3` | Den bildstackplacerade lagertypen |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för PlLdResource-resursen.
+Följande kod demonstrerar stödet för PlLdResource-resursen.
 
 ```csharp
 [C#]
@@ -207,12 +208,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Var försiktig med vissa parametrar: bilden kan bli oläslig av Adobe® Photoshop®
+                // Var försiktig med vissa parametrar: bilden kan bli oläsbar i Adobe® Photoshop®.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-                // eller ändra det understrykande smarta objektet till vektortypen
+                // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+                // eller ändra det underliggande smarta objektet till vektortypen
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -230,7 +232,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectLayer fast egendom. Hämtar eller ställer in innehållet i lagret för smarta objekt. Innehållet för det inbäddade smarta objektet är den inbäddade råbildsfilenData och dess egenskaper. Det länkade smarta objektets innehåll är råinnehållet i den länkade bildfilen om den är tillgänglig och dess egenskaperLiFeDataSource . Vi stöder inte laddning från Adobe Photoshop  Graphics Library närIsLibraryLink är sant. För vanliga länkfiler använder vi förstRelativePath för att leta efter filen relativ till källbildens sökvägSourceImagePath  om den inte är tillgänglig tittar vi påFullPath  om inte så letar vi efter länkfilen i samma katalog där vår bild ärSourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectLayer‑egenskap. Hämtar eller anger innehållet i smart objekt‑lagret. Det inbäddade smarta objektets innehåll är den inbäddade råa bildfilen Data och dess egenskaper. Det länkade smarta objektets innehåll är den råa innehållet i den länkade bildfilen om den är tillgänglig samt dess egenskaper LiFeDataSource. Vi stödjer inte inläsning från Adobe Photoshop Graphics Library när IsLibraryLink är true. För vanliga länkfiler använder vi först RelativePath för att söka efter filen relativt till källbildens sökväg SourceImagePath; om den inte är tillgänglig tittar vi på FullPath; om inte, letar vi efter länkfilen i samma katalog där vår bild finns SourceImagePath"
 type: docs
-weight: 10
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-Hämtar eller ställer in innehållet i lagret för smarta objekt. Innehållet för det inbäddade smarta objektet är den inbäddade råbildsfilen:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) och dess egenskaper. Det länkade smarta objektets innehåll är råinnehållet i den länkade bildfilen om den är tillgänglig och dess egenskaper:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Vi stöder inte laddning från Adobe� Photoshop� �� Graphics Library när[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) är sant. För vanliga länkfiler använder vi först[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) för att leta efter filen relativ till källbildens sökvägSourceImagePath , om den inte är tillgänglig tittar vi på[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , om inte så letar vi efter länkfilen i samma katalog där vår bild är:SourceImagePath .
+Hämtar eller anger innehållet i smartobjektslagret. Det inbäddade smartobjektets innehåll är den inbäddade råa bildfilen: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) och dess egenskaper. Det länkade smartobjektets innehåll är det råa innehållet i den länkade bildfilen om den är tillgänglig samt dess egenskaper: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Vi stöder inte inläsning från Adobe� Photoshop� �� Graphics Library när [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) är sant. För vanliga länkar använder vi först [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) för att söka efter filen relativt till källbildens sökväg SourceImagePath; om den inte är tillgänglig söker vi på [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), och om inte det letar vi efter länken i samma katalog som vår bild finns: SourceImagePath.
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Denbyte[] smart objektlagerinnehåll.
+Byte[]-smartobjektlagrets innehåll.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| NotSupportedException | Det går inte att hämta innehåll från Adobe� Photoshop��� bibliotek. |
+| NotSupportedException | Kan inte hämta innehåll från Adobe� Photoshop� ��-biblioteket. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för Embedded Smart-objekt.
+Följande kod demonstrerar stöd för inbäddade smarta objekt.
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man ändrar det smarta objektlagret i PSD-filen och exporterar / uppdaterar det ursprungliga inbäddade innehållet för smarta objekt.
+// Detta exempel visar hur man ändrar smarta objektlagret i PSD-filen och exporterar/uppdaterar smarta objektets ursprungliga inbäddade innehåll.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Låt oss exportera den inbäddade smarta objektbilden från PSD-smarta objektlagret
+        // Låt oss exportera den inbäddade smarta objektbilden från PSD:s smarta objektlager
         smartObjectLayer.ExportContents(exportPath);
 
-        // Låt oss kontrollera om originalbilden är korrekt sparad
+        // Låt oss kontrollera om den ursprungliga bilden har sparats korrekt
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -94,7 +95,7 @@ foreach (FileFormat format in formats)
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Låt oss kontrollera om den uppdaterade bilden sparas korrekt
+        // Låt oss kontrollera om den uppdaterade bilden har sparats korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -104,7 +105,7 @@ foreach (FileFormat format in formats)
 ### Se även
 
 * class [SmartObjectLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

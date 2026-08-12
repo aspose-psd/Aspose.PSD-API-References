@@ -1,14 +1,15 @@
 ---
-title: Image.CanSave
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Bestämmer om bilden kan sparas i det angivna filformatet som representeras av de godkända sparalternativen.
+title: "Image.CanSave"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image‑metod. Avgör om bilden kan sparas till det angivna filformatet som representeras av de medföljande sparalternativen"
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.psd/image/cansave/
 ---
+{{< psd/tize >}}
 ## Image.CanSave method
 
-Bestämmer om bilden kan sparas i det angivna filformatet som representeras av de godkända sparalternativen.
+Bestämmer om bilden kan sparas till det angivna filformatet som representeras av de överförda sparalternativen.
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
@@ -16,17 +17,17 @@ public bool CanSave(ImageOptionsBase options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | ImageOptionsBase | Spara alternativen att använda. |
+| alternativ | ImageOptionsBase | Sparalternativen att använda. |
 
 ### Returvärde
 
-`Sann` om bilden kan sparas till det angivna filformatet som representeras av de godkända sparaalternativen; annat,`falsk` .
+`true` om bilden kan sparas till det angivna filformatet som representeras av de medföljande sparalternativen; annars `false`.
 
 ### Se även
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

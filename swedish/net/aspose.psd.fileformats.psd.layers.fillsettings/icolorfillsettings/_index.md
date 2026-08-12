@@ -1,11 +1,12 @@
 ---
-title: Interface IColorFillSettings
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings gränssnitt. Basgränssnitt för fyllningsinställningar
+title: "Gränssnitt IColorFillSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings gränssnitt. Basgränssnitt för fyllningsinställningar"
 type: docs
-weight: 1990
+weight: 2110
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
 Basgränssnitt för fyllningsinställningar
@@ -16,14 +17,14 @@ public interface IColorFillSettings : IFillSettings
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Hämtar eller ställer in färgen. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Hämtar eller anger färgen. |
 
 ### Se även
 
 * interface [IFillSettings](../ifillsettings/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

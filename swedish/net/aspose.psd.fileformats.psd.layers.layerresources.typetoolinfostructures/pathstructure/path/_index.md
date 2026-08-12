@@ -1,26 +1,27 @@
 ---
-title: PathStructure.Path
-second_title: Aspose.PSD för .NET API-referens
-description: PathStructure fast egendom. Hämtar eller ställer in sökvägen.
+title: "PathStructure.Path"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathStructure-egenskap. Hämtar eller anger sökvägen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/
 ---
+{{< psd/tize >}}
 ## PathStructure.Path property
 
-Hämtar eller ställer in sökvägen.
+Hämtar eller anger sökvägen.
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den fullständiga sökvägen.
 
-### Exempel
+## Exempel
 
-Följande kod visar förmågan att ladda fil med PathStructure-struktur.
+Följande kod demonstrerar förmågan att läsa in en fil med PathStructure-struktur.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * class [PathStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

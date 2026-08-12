@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.RemoveAt
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericList metod. Tar bortIList objekt vid angivet index.
+title: "NonGenericList.RemoveAt"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericList-metod. Tar bort IList‑objektet på det angivna indexet"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd/nongenericlist/removeat/
 ---
+{{< psd/tize >}}
 ## NonGenericList.RemoveAt method
 
-Tar bortIList objekt vid angivet index.
+Tar bort IList‑objektet på det angivna indexet.
 
 ```csharp
 public void RemoveAt(int index)
@@ -21,7 +22,7 @@ public void RemoveAt(int index)
 ### Se även
 
 * class [NonGenericList](../)
-* namnutrymme [Aspose.PSD](../../nongenericlist/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

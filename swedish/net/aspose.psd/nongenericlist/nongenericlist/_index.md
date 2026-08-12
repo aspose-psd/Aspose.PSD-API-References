@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericList byggare. Initierar en ny instans avNonGenericList class.
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericList-konstruktorn. Initierar en ny instans av klassen NonGenericList"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-Initierar en ny instans av[`NonGenericList`](../) class.
+Initierar en ny instans av klassen [`NonGenericList`](../).
 
 ```csharp
 public NonGenericList(IList list)
@@ -16,12 +17,12 @@ public NonGenericList(IList list)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| list | IList | Listan - behållare med objekt. |
+| lista | IList | Listan - behållare för objekt. |
 
 ### Se även
 
 * class [NonGenericList](../)
-* namnutrymme [Aspose.PSD](../../nongenericlist/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

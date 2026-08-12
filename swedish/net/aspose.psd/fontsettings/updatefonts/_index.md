@@ -1,14 +1,15 @@
 ---
-title: FontSettings.UpdateFonts
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Uppdaterar typsnittscache för PSDfiler som innehåller textlager. Denna metod garanterar att typsnitt från mappen fontsFolder using metoden FontSettings.SetFontsFolderfontsFolder eller efter återställning av teckensnitt med FontSettings.Reset kommer att beaktas vid bearbetning av PSDfiler. Använd den här metoden varje gång FontSettings.SetFontsFolderfontsFolder eller FontSettings.Reset begärde PSDbilder. Utan att anropa denna metod finns det ingen garanti för att teckensnitt kommer att uppdateras.
+title: "FontSettings.UpdateFonts"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metoden. Uppdaterar teckensnittscache för PSD‑filer som innehåller textlager. Denna metod garanterar att teckensnitt från mappen fontsFolder som används via metoden FontSettings.SetFontsFolderfontsFolder eller efter återställning av teckensnitt med FontSettings.Reset tas i beaktande vid bearbetning av PSD‑filer. Använd denna metod varje gång FontSettings.SetFontsFolderfontsFolder eller FontSettings.Reset anropas för PSD‑bilder. Utan att anropa denna metod finns det ingen garanti för att teckensnitt uppdateras"
 type: docs
-weight: 140
+weight: 160
 url: /sv/net/aspose.psd/fontsettings/updatefonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.UpdateFonts method
 
-Uppdaterar typsnittscache för PSD-filer som innehåller textlager. Denna metod garanterar att typsnitt från mappen fontsFolder using -metoden FontSettings.SetFontsFolder(fontsFolder) eller efter återställning av teckensnitt med FontSettings.Reset() kommer att beaktas vid bearbetning av PSD-filer. Använd den här metoden varje gång FontSettings.SetFontsFolder(fontsFolder) eller FontSettings.Reset() begärde PSD-bilder. Utan att anropa denna metod finns det ingen garanti för att teckensnitt kommer att uppdateras.
+Uppdaterar teckensnittscache för PSD-filer som innehåller textrager. Denna metod garanterar att teckensnitt från katalogen fontsFolder som används med metoden FontSettings.SetFontsFolder(fontsFolder) eller efter återställning av teckensnitt med FontSettings.Reset() tas i beaktande vid bearbetning av PSD-filer. Använd denna metod varje gång FontSettings.SetFontsFolder(fontsFolder) eller FontSettings.Reset() anropas för PSD-bilder. Utan att anropa denna metod finns ingen garanti för att teckensnitt uppdateras.
 
 ```csharp
 public static void UpdateFonts()
@@ -17,7 +18,7 @@ public static void UpdateFonts()
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

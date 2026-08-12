@@ -1,14 +1,15 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Får en proportionell bredd.
+title: "Image.GetProportionalWidth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-metod. Hämtar en proportionell bredd"
 type: docs
-weight: 290
+weight: 300
 url: /sv/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
-Får en proportionell bredd.
+Hämtar en proportionell bredd.
 
 ```csharp
 public static int GetProportionalWidth(int width, int height, int newHeight)
@@ -16,8 +17,8 @@ public static int GetProportionalWidth(int width, int height, int newHeight)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bredden. |
-| height | Int32 | Höjden. |
+| bredd | Int32 | Bredden. |
+| höjd | Int32 | Höjden. |
 | newHeight | Int32 | Den nya höjden. |
 
 ### Returvärde
@@ -27,7 +28,7 @@ Den proportionella bredden.
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

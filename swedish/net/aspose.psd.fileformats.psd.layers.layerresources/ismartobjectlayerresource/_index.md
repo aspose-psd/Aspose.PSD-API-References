@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource gränssnitt. Definierar ISmartObjectLayerResourcegränssnittet som innehåller information om en smart objektlagerresurs i PSDfilen. Is är också ett uppmärkningsgränssnitt som används för att ange både sålda och enda resurser i Adobe Photoshopbilderna.
+title: "Gränssnitt ISmartObjectLayerResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource‑gränssnitt. Definierar ISmartObjectLayerResource‑gränssnittet som innehåller information om en smart objekt‑lagerresurs i PSD‑filen. Det är också ett markup‑gränssnitt som används för att beteckna både Sold‑ och Sole‑resurser i Adobe Photoshop‑bilder."
 type: docs
-weight: 2540
+weight: 2830
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-Definierar ISmartObjectLayerResource-gränssnittet som innehåller information om en smart objektlagerresurs i PSD-filen. Is är också ett uppmärkningsgränssnitt som används för att ange både sålda och enda resurser i Adobe® Photoshop®-bilderna.
+Definierar gränssnittet ISmartObjectLayerResource som innehåller information om en smart objektlagerresurs i PSD-filen. Det är också ett markup‑gränssnitt som används för att beteckna både Sold- och Sole-resurser i Adobe® Photoshop®-bilderna.
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
@@ -16,13 +17,13 @@ public interface ISmartObjectLayerResource : IPlacedLayerResource
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Hämtar eller ställer in den unika identifieraren för denna smarta objektlagerdata i PSD-bilden. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Hämtar eller anger den unika identifieraren för detta smartobjektlagrets data i PSD‑bilden. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för Embedded Smart-objekt.
+Följande kod demonstrerar stöd för inbäddade smarta objekt.
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man ändrar det smarta objektlagret i PSD-filen och exporterar / uppdaterar det ursprungliga inbäddade innehållet för smarta objekt.
+// Detta exempel visar hur man ändrar smarta objektlagret i PSD-filen och exporterar/uppdaterar smarta objektets ursprungliga inbäddade innehåll.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Låt oss exportera den inbäddade smarta objektbilden från PSD-smarta objektlagret
+        // Låt oss exportera den inbäddade smarta objektbilden från PSD:s smarta objektlager
         smartObjectLayer.ExportContents(exportPath);
 
-        // Låt oss kontrollera om originalbilden är korrekt sparad
+        // Låt oss kontrollera om den ursprungliga bilden har sparats korrekt
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -90,7 +91,7 @@ foreach (FileFormat format in formats)
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Låt oss kontrollera om den uppdaterade bilden sparas korrekt
+        // Låt oss kontrollera om den uppdaterade bilden har sparats korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -100,7 +101,7 @@ foreach (FileFormat format in formats)
 ### Se även
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

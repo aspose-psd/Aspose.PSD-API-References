@@ -1,11 +1,12 @@
 ---
-title: Enum FontBaseline
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.FontBaseline uppräkning. Detta är teckensnittets baslinje.
+title: "Enum FontBaseline"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.FontBaseline enum. Detta är teckensnittets baslinje"
 type: docs
-weight: 1630
+weight: 1670
 url: /sv/net/aspose.psd.fileformats.psd/fontbaseline/
 ---
+{{< psd/tize >}}
 ## FontBaseline enumeration
 
 Detta är teckensnittets baslinje.
@@ -14,17 +15,17 @@ Detta är teckensnittets baslinje.
 public enum FontBaseline
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | None | `0` | Inget baslinjevärde |
 | Superscript | `1` | Upphöjd baslinje. |
-| Subscript | `2` | Subscript baseline. |
+| Subscript | `2` | Nedsänkt baslinje. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

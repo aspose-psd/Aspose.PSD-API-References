@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Extensions.RegionExtensions klass. Innehåller tilläggsmetoder förRegion class.
+title: "Klass RegionExtensions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Extensions.RegionExtensions-klass. Innehåller förlängningsmetoder för Region-klassen"
 type: docs
-weight: 1170
+weight: 1180
 url: /sv/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-Innehåller tilläggsmetoder för[`Region`](../../aspose.psd/region/) class.
+Innehåller förlängningsmetoder för [`Region`](../../aspose.psd/region/) klassen.
 
 ```csharp
 public static class RegionExtensions
@@ -16,13 +17,13 @@ public static class RegionExtensions
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Konverterar[`Region`](../../aspose.psd/region/) tillRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Konverterar [`Region`](../../aspose.psd/region/) till Region. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSRationalArray
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader metod. Läser en array av signerade rationella värden från strömmen.
+title: "TiffStreamReader.ReadSRationalArray"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader metod. Läser en array av signerade rationella värden från strömmen"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRationalArray method
 
-Läser en array av signerade rationella värden från strömmen.
+Läser en matris av signerade rationella värden från strömmen.
 
 ```csharp
 public TiffSRational[] ReadSRationalArray(long position, long count)
@@ -17,15 +18,15 @@ public TiffSRational[] ReadSRationalArray(long position, long count)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | position | Int64 | Positionen att läsa från. |
-| count | Int64 | Elementen räknas. |
+| count | Int64 | Antalet element. |
 
 ### Returvärde
 
-Arrayen av signerade rationella värden.
+Arrayen med signerade rationella värden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentOutOfRangeException | count;Förväntade ett positivt tal. |
 
@@ -33,7 +34,7 @@ Arrayen av signerade rationella värden.
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

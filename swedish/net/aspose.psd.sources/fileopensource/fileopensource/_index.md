@@ -1,14 +1,15 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Aspose.PSD för .NET API-referens
-description: FileOpenSource byggare. Initierar en ny instans avFileOpenSource class.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileOpenSource konstruktor. Initierar en ny instans av FileOpenSource-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-Initierar en ny instans av[`FileOpenSource`](../) class.
+Initierar en ny instans av [`FileOpenSource`](../)-klassen.
 
 ```csharp
 public FileOpenSource(string filePath)
@@ -16,12 +17,12 @@ public FileOpenSource(string filePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | String | Filsökvägen som ska öppnas. |
+| filePath | String | Filvägen att öppna. |
 
 ### Se även
 
 * class [FileOpenSource](../)
-* namnutrymme [Aspose.PSD.Sources](../../fileopensource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

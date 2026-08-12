@@ -1,11 +1,12 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions klass. Små rektangulära filteralternativ
+title: "Klass SmallRectangularFilterOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions-klass. Små rektangulära filteralternativ"
 type: docs
-weight: 4750
+weight: 5220
 url: /sv/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
 Små rektangulära filteralternativ
@@ -16,14 +17,14 @@ public class SmallRectangularFilterOptions : FilterOptionsBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Default_Constructor |
+| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Standardkonstruktorn. |
 
 ### Se även
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

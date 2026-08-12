@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: Aspose.PSD för .NET API-referens
-description: ColorRangeHsl fast egendom. Hämtar eller ställer in nyansen.
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorRangeHsl egenskap. Hämtar eller anger nyansen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
-Hämtar eller ställer in nyansen.
+Hämtar eller anger nyansen.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nyansen.
 
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

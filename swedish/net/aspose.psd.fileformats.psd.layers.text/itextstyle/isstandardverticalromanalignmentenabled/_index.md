@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Hämtar eller ställer in standard vertikal romersk justering. Detta baserat på BaselineDirection resursvärde gäller endast när textorienteringen ärVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle egenskap. Hämtar eller anger den standardvertikala romerska justeringen. Detta, baserat på BaselineDirection-resursvärdet, tillämpas endast när textorienteringen är vertikal"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-Hämtar eller ställer in standard vertikal romersk justering. Detta baserat på BaselineDirection resursvärde gäller endast när textorienteringen ärVertical .
+Hämtar eller anger den standardvertikala romerska justeringen. Detta, baserat på BaselineDirection-resursvärdet, gäller endast när textorienteringen är vertikal.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för den nya egenskapen IsStandardVerticalRomanAlignmentEnabled.
+Följande kod demonstrerar stödet för den nya egenskapen IsStandardVerticalRomanAlignmentEnabled.
 
 ```csharp
 [C#]
 
-// Följande kod visar möjligheten att redigera den nya egenskapen IsStandardVerticalRomanAlignmentEnabled.
-// Detta påverkar inte renderingen för tillfället, utan låter dig bara redigera egenskapsvärdet.
+// Följande kod demonstrerar möjligheten att redigera den nya egenskapen IsStandardVerticalRomanAlignmentEnabled.
+// Detta påverkar inte rendering för närvarande, utan tillåter bara att du redigerar egenskapsvärdet.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -64,7 +65,7 @@ using (var image = (PsdImage)Image.Load(output))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

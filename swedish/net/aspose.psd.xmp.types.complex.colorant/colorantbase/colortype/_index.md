@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.ColorType
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantBase fast egendom. Hämtar eller ställer in typ av färg.
+title: "ColorantBase.ColorType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantBase egenskap. Hämtar eller anger färgtypen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 ---
+{{< psd/tize >}}
 ## ColorantBase.ColorType property
 
-Hämtar eller ställer in typ av färg.
+Hämtar eller anger färgens typ.
 
 ```csharp
 public ColorType ColorType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av färg.
+Färgens typ.
 
 ### Se även
 
 * enum [ColorType](../../colortype/)
 * class [ColorantBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

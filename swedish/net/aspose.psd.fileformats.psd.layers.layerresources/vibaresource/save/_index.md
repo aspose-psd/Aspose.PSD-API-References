@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: VibAResource metod. Sparar resursen till den angivna strömbehållaren.
+title: "VibAResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VibAResource metod. Sparar resursen till den angivna strömbehållaren"
 type: docs
-weight: 70
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
 Sparar resursen till den angivna strömbehållaren.
@@ -16,17 +17,17 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Strömbehållaren att spara till. |
+| streamContainer | StreamContainer | Den stream container som ska sparas till. |
 | psdVersion | Int32 | PSD-versionen. |
 
-### Exempel
+## Exempel
 
 Följande kodexempel visar stödet för VibAResource-resursen.
 
 ```csharp
 [C#]
 
-// Exempel på stöd för läs- och skrivvibrationsresurs vid körning.
+// Exempel på stöd för läsning och skrivning av Vibrationsresurs vid körning.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -59,7 +60,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

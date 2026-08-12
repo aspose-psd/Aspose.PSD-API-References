@@ -1,11 +1,12 @@
 ---
-title: Enum FontCaps
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.FontCaps uppräkning. Detta är teckensnittets baslinje.
+title: "Enum FontCaps"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.FontCaps enum. Detta är teckensnittets baslinje"
 type: docs
-weight: 1640
+weight: 1680
 url: /sv/net/aspose.psd.fileformats.psd/fontcaps/
 ---
+{{< psd/tize >}}
 ## FontCaps enumeration
 
 Detta är teckensnittets baslinje.
@@ -14,17 +15,17 @@ Detta är teckensnittets baslinje.
 public enum FontCaps
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Inget teckensnittsvärde. |
-| SmallCaps | `1` | De små bokstäverna. |
-| AllCaps | `2` | All caps. |
+| None | `0` | Inget värde för font caps. |
+| SmallCaps | `1` | De små versalerna. |
+| AllCaps | `2` | Alla versaler. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

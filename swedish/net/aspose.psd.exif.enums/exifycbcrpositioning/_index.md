@@ -1,29 +1,30 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning uppräkning. exif y cb cr positionering enum.
+title: "Enum ExifYCbCrPositioning"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifYCbCrPositioning enum. exif y cb cr positioneringsenum"
 type: docs
-weight: 980
+weight: 990
 url: /sv/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr positionering enum.
+exif y cb cr positionerings‑enum.
 
 ```csharp
 public enum ExifYCbCrPositioning
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Centered | `1` | Centrerad YCbCr |
-| CoSited | `2` | Samplatsposition |
+| CoSited | `2` | Samsidig position |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

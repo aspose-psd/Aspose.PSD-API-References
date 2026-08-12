@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Får ett värde som anger om rådataladdning är tillgänglig.
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-egenskap. Hämtar ett värde som indikerar om rådata-laddning är tillgänglig"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-Får ett värde som anger om rådataladdning är tillgänglig.
+Hämtar ett värde som indikerar om inläsning av rådata är tillgänglig.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna rådataladdning är tillgänglig; annat,`falsk` .
+`true` om denna rådata-laddning är tillgänglig; annars `false`.
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSRational
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter metod. Skriver ett enda tecken för rationellt talvärde till strömmen.
+title: "TiffStreamWriter.WriteSRational"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-metoden. Skriver ett enda signerat rationellt tal till strömmen"
 type: docs
 weight: 150
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSRational method
 
-Skriver ett enda tecken för rationellt talvärde till strömmen.
+Skriver ett enda signerat rationellt tal till strömmen.
 
 ```csharp
 public void WriteSRational(TiffSRational data)
@@ -22,7 +23,7 @@ public void WriteSRational(TiffSRational data)
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Aspose.PSD för .NET API-referens
-description: CurvResource fast egendom. Hämtar eller ställer in ett värde som anger om denna instans är data lagrad diskret.
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvResource-egenskap. Hämtar eller anger ett värde som indikerar om detta objekt lagrar data diskret"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-Hämtar eller ställer in ett värde som anger om denna instans är data lagrad diskret.
+Hämtar eller anger ett värde som indikerar om denna instans lagrar data diskret.
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är data lagrad diskret; annat,`falsk` .
+`true` om detta objekt lagrar data diskret; annars `false`.
 
 ### Se även
 
 * class [CurvResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

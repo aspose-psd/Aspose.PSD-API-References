@@ -1,14 +1,15 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Uppdaterar dettaRegion till föreningen av sig själv och det specificeradeRectangleFstruktur.
+title: "Region.Union"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Uppdaterar denna Region till unionen av sig själv och den angivna RectangleF‑strukturen."
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-Uppdaterar detta[`Region`](../) till föreningen av sig själv och det specificerade[`RectangleF`](../../rectanglef/)struktur.
+Uppdaterar denna [`Region`](../) till unionen av sig själv och den angivna [`RectangleF`](../../rectanglef/) strukturen.
 
 ```csharp
 public void Union(RectangleF rect)
@@ -16,20 +17,20 @@ public void Union(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur för att förena sig med detta[`Region`](../). |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/) strukturen att förena med denna [`Region`](../). |
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-Uppdaterar detta[`Region`](../) till föreningen av sig själv och det specificerade[`Rectangle`](../../rectangle/)struktur.
+Uppdaterar denna [`Region`](../) till unionen av sig själv och den angivna [`Rectangle`](../../rectangle/) strukturen.
 
 ```csharp
 public void Union(Rectangle rect)
@@ -37,20 +38,20 @@ public void Union(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur för att förena sig med detta[`Region`](../). |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/) strukturen att förena med denna [`Region`](../). |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-Uppdaterar detta[`Region`](../) till föreningen av sig själv och det specificerade[`GraphicsPath`](../../graphicspath/) .
+Uppdaterar denna [`Region`](../) till unionen av sig själv och den angivna [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Union(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Union(GraphicsPath path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | GraphicsPath | De[`GraphicsPath`](../../graphicspath/) att förena sig med detta[`Region`](../). |
+| path | GraphicsPath | Den [`GraphicsPath`](../../graphicspath/) att förena med denna [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *path* är inget. |
+| ArgumentNullException | *path* är null. |
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-Uppdaterar detta[`Region`](../) till föreningen av sig själv och det specificerade[`Region`](../) .
+Uppdaterar denna [`Region`](../) till unionen av sig själv och den angivna [`Region`](../).
 
 ```csharp
 public void Union(Region region)
@@ -85,18 +86,18 @@ public void Union(Region region)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| region | Region | De[`Region`](../) att förena sig med detta[`Region`](../). |
+| region | Region | Den [`Region`](../) att förena med denna [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *region* är inget. |
+| ArgumentNullException | *region* är null. |
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

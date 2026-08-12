@@ -1,20 +1,21 @@
 ---
-title: TextShape.TextFormat
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape fast egendom. Hämtar eller ställer in textformatet.
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape-egenskap. Hämtar eller anger textformatet"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
-Hämtar eller ställer in textformatet.
+Hämtar eller anger textformatet.
 
 ```csharp
 public StringFormat TextFormat { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Textformatet.
 
@@ -22,7 +23,7 @@ Textformatet.
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Aspose.PSD för .NET API-referens
-description: BlendingOptions metod. Lägger till skuggeffekten.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlendingOptions-metod. Lägger till droppskuggeffekten"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-Lägger till skuggeffekten.
+Lägger till fallskuggeffekten.
 
 ```csharp
 public DropShadowEffect AddDropShadow()
@@ -16,13 +17,13 @@ public DropShadowEffect AddDropShadow()
 
 ### Returvärde
 
-Skapad[`DropShadowEffect`](../../dropshadoweffect/) objekt
+Skapade [`DropShadowEffect`](../../dropshadoweffect/) objekt
 
 ### Se även
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

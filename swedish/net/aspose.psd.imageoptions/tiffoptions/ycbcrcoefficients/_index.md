@@ -1,26 +1,27 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in YCbCrCoefficients.
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger YCbCrCoefficients"
 type: docs
-weight: 660
+weight: 670
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-Hämtar eller ställer in YCbCrCoefficients.
+Hämtar eller anger YCbCr-koefficienterna.
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-YCbCr-koefficienterna.
+YCbCrCoefficients.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Ogiltigt antal rationella koefficientvärden. Måste vara lika med 3. |
 | ArgumentNullException | värde |
@@ -29,7 +30,7 @@ YCbCr-koefficienterna.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

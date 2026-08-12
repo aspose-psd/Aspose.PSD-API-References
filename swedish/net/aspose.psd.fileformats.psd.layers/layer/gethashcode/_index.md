@@ -1,14 +1,15 @@
 ---
-title: Layer.GetHashCode
-second_title: Aspose.PSD för .NET API-referens
-description: Layer metod. Returnerar en hashkod för denna instans.
+title: "Layer.GetHashCode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-metod. Returnerar en hashkod för detta objekt"
 type: docs
-weight: 350
+weight: 370
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/gethashcode/
 ---
+{{< psd/tize >}}
 ## Layer.GetHashCode method
 
-Returnerar en hash-kod för denna instans.
+Returnerar en hashkod för denna instans.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Returvärde
 
-En hashkod för den här instansen, lämplig för användning i hashalgoritmer och datastrukturer som en hashtabell.
+En hashkod för denna instans, lämplig för användning i hash-algoritmer och datastrukturer som en hash‑tabell.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

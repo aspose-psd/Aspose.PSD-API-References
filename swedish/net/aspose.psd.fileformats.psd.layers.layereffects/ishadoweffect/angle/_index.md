@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: IShadowEffect fast egendom. Hämtar eller ställer in vinkeln i grader.
+title: "IShadowEffect.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IShadowEffect-egenskap. Hämtar eller anger vinkeln i grader"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Angle property
 
-Hämtar eller ställer in vinkeln i grader.
+Hämtar eller anger vinkeln i grader.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
 ### Se även
 
 * interface [IShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

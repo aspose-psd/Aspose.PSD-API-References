@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Anger brådska.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in brådskan"
 type: docs
 weight: 200
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
-Anger brådska.
+Anger brådskan.
 
 ```csharp
 public void SetUrgency(int urgency)
@@ -16,22 +17,22 @@ public void SetUrgency(int urgency)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| urgency | Int32 | Brådskan. |
+| brådska | Int32 | Brådskan. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | brådskande; Giltigt intervall är från 1 till 8 |
+| ArgumentOutOfRangeException | brådska;Giltigt intervall är från 1 till 8 |
 
-### Anmärkningar
+## Anmärkningar
 
-Brådskande bör vara i rasande fart från 1 till 8.
+Brådska bör vara i intervallet från 1 till 8.
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

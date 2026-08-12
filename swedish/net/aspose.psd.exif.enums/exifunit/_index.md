@@ -1,11 +1,12 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifUnit uppräkning. exif enhet enum.
+title: "Enum ExifUnit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifUnit enum. exif enhet enum"
 type: docs
-weight: 960
+weight: 970
 url: /sv/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
 exif enhet enum.
@@ -14,17 +15,17 @@ exif enhet enum.
 public enum ExifUnit
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | None | `1` | Odefinierade enheter |
-| Inch | `2` | Inch units |
-| Cm | `3` | Metriska centimeter enheter |
+| Inch | `2` | Tum enheter |
+| Cm | `3` | Metriska centimeterenheter |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

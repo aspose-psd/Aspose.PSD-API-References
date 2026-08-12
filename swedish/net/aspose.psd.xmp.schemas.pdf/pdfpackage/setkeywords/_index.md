@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD för .NET API-referens
-description: PdfPackage metod. Ställer in sökorden.
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfPackage-metod. Anger nyckelorden."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
-Ställer in sökorden.
+Ställer in nyckelorden.
 
 ```csharp
 public void SetKeywords(string keywords)
@@ -16,12 +17,12 @@ public void SetKeywords(string keywords)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keywords | String | Nyckelorden. |
+| nyckelord | String | Nyckelorden. |
 
 ### Se även
 
 * class [PdfPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

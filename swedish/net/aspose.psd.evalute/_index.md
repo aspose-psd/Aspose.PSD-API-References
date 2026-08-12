@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmets DIBhuvudbearbetning.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet DIB header processing"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd.evalute/
 ---
-Namnutrymmets DIB-huvudbearbetning.
+{{< psd/tize >}}
+Namnområdet DIB‑huvudbehandling.
 
 ## Klasser
 

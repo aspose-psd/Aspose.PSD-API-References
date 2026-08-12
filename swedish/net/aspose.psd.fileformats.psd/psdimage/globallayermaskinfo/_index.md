@@ -1,14 +1,15 @@
 ---
-title: PsdImage.GlobalLayerMaskInfo
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Får information om global lagermask.
+title: "PsdImage.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar den globala lagermaskinformationen"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerMaskInfo property
 
-Får information om global lagermask.
+Hämtar information om den globala lagermasken.
 
 ```csharp
 public GlobalLayerMaskInfo GlobalLayerMaskInfo { get; }
@@ -18,7 +19,7 @@ public GlobalLayerMaskInfo GlobalLayerMaskInfo { get; }
 
 * class [GlobalLayerMaskInfo](../../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

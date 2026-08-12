@@ -1,14 +1,15 @@
 ---
-title: Size.Truncate
-second_title: Aspose.PSD för .NET API-referens
-description: Size metod. Konverterar den angivnaSizeF struktur till enSize struktur genom att trunkera värdena förSizeF struktur till nästa lägre heltalsvärden.
+title: "Size.Truncate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Size-metod. Konverterar den angivna SizeF-strukturen till en Size-struktur genom att trunkera värdena i SizeF-strukturen till nästa lägre heltalsvärde"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-Konverterar den angivna[`SizeF`](../../sizef/) struktur till en[`Size`](../) struktur genom att trunkera värdena för[`SizeF`](../../sizef/) struktur till nästa lägre heltalsvärden.
+Konverterar den angivna [`SizeF`](../../sizef/)-strukturen till en [`Size`](../)-struktur genom att trunkera värdena i [`SizeF`](../../sizef/)-strukturen till nästa lägre heltalsvärde.
 
 ```csharp
 public static Size Truncate(SizeF size)
@@ -16,17 +17,17 @@ public static Size Truncate(SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | SizeF | De[`SizeF`](../../sizef/) struktur att konvertera. |
+| size | SizeF | Den [`SizeF`](../../sizef/) strukturen att konvertera. |
 
 ### Returvärde
 
-De[`Size`](../) struktur som denna metod konverterar till.
+Den [`Size`](../) strukturen som den här metoden konverterar till.
 
 ### Se även
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namnutrymme [Aspose.PSD](../../size/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

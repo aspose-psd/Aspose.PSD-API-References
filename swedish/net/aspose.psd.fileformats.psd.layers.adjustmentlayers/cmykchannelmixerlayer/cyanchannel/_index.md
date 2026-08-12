@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.CyanChannel
-second_title: Aspose.PSD för .NET API-referens
-description: CmykChannelMixerLayer fast egendom. Får den cyan kanalen.
+title: "CmykChannelMixerLayer.CyanChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykChannelMixerLayer property. Hämtar cyan-kanalen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/cyanchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.CyanChannel property
 
-Får den cyan kanalen.
+Hämtar cyan-kanalen.
 
 ```csharp
 public CmykMixerChannel CyanChannel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den cyankanalen.
+Cyan-kanalen.
 
 ### Se även
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

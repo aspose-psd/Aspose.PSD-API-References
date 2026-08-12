@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Rotate
-second_title: Aspose.PSD för .NET API-referens
-description: RasterCachedImage metod. Rotera bilden runt mitten.
+title: "RasterCachedImage.Rotate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterCachedImage-metod. Rotera bilden kring centrum"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/rastercachedimage/rotate/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Rotate method
 
-Rotera bilden runt mitten.
+Rotera bilden kring centrum.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,15 +17,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln i grader. Positiva värden kommer att rotera medurs. |
-| resizeProportionally | Boolean | om inställt på`Sann` du kommer att få din bildstorlek ändrad enligt projicering av roterade rektangel (hörnpunkter) i andra fall som lämnar dimensioner orörda och endast interna bildinnehåll roteras. |
-| backgroundColor | Color | Färg på bakgrunden. |
+| vinkel | Single | Rotationsvinkeln i grader. Positiva värden roterar medurs. |
+| resizeProportionally | Boolean | Om den är satt till `true` kommer bildens storlek att ändras enligt de roterade rektangelns (hörnpunkternas) projektioner; annars lämnas dimensionerna orörda och endast bildens innehåll roteras. |
+| backgroundColor | Färg | Bakgrundens färg. |
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* namnutrymme [Aspose.PSD](../../rastercachedimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

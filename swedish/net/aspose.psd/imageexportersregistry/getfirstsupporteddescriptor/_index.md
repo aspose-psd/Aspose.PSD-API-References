@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD för .NET API-referens
-description: ImageExportersRegistry metod. Får den näve som stöds beskrivaren som är lämplig för de angivna sparalternativen och bilden.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageExportersRegistry-metoden. Hämtar den först hittade stödjande beskrivaren som är lämplig för de angivna sparalternativen och bilden"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-Får den näve som stöds beskrivaren som är lämplig för de angivna sparalternativen och bilden.
+Hämtar den först hittade stödjade descriptor som är lämplig för de angivna sparalternativen och bilden.
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
@@ -17,16 +18,16 @@ public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden som ska exporteras. |
-| options | ImageOptionsBase | Alternativen. |
+| bild | Image | Bilden som ska exporteras. |
+| alternativ | ImageOptionsBase | Alternativen. |
 
 ### Returvärde
 
-Exportörbeskrivningen som stöder den angivna bilden och spara alternativ eller null om ingen sådan beskrivning hittas.
+Exportörbeskrivaren som stödjer den angivna bilden och sparalternativen eller null om ingen sådan beskrivare hittas.
 
-### Anmärkningar
+## Anmärkningar
 
-Den första exportörbeskrivningen kommer faktiskt att vara den senast registrerade.
+Den första exportörbeskrivaren kommer i själva verket att vara den sist registrerade.
 
 ### Se även
 
@@ -34,7 +35,7 @@ Den första exportörbeskrivningen kommer faktiskt att vara den senast registrer
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageexportersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

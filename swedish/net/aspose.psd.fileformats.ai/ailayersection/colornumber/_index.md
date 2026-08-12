@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in färgnumret. 1 är det anpassade färgvärdet från egenskaperna röd grön blå. Anger lagrets färginställning.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection egenskap. Hämtar eller anger färgnumret. 1 är det anpassade färgvärdet från Röd Grön Blå-egenskaperna. Anger lagrets färginställning."
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Hämtar eller ställer in färgnumret. -1 är det anpassade färgvärdet från egenskaperna röd, grön, blå. Anger lagrets färginställning.
+Hämtar eller anger färgnumret. -1 är det anpassade färgvärdet från egenskaperna Röd, Grön, Blå. Anger lagrets färginställning.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgnumret.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

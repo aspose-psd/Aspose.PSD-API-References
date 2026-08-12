@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsNotLinked
-second_title: Aspose.PSD för .NET API-referens
-description: WorkingPathResource fast egendom. Hämtar eller ställer in ett värde som anger om denna instans inte är länkad.
+title: "WorkingPathResource.IsNotLinked"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "WorkingPathResource egenskap. Hämtar eller anger ett värde som indikerar om denna instans inte är länkad"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsNotLinked property
 
-Hämtar eller ställer in ett värde som anger om denna instans inte är länkad.
+Hämtar eller anger ett värde som indikerar om den här instansen inte är länkad.
 
 ```csharp
 public bool IsNotLinked { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans inte är länkad; annat,`falsk` .
+`true` om denna instans inte är länkad; annars `false`.
 
 ### Se även
 
 * class [WorkingPathResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

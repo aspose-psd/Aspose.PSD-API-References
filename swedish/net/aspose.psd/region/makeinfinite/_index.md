@@ -1,14 +1,15 @@
 ---
-title: Region.MakeInfinite
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Initierar dettaRegion invända mot en oändlig interiör.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Initierar detta Region‑objekt till ett oändligt innandöme."
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-Initierar detta[`Region`](../) invända mot en oändlig interiör.
+Initierar detta [`Region`](../) objekt till ett oändligt innandöme.
 
 ```csharp
 public void MakeInfinite()
@@ -17,7 +18,7 @@ public void MakeInfinite()
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

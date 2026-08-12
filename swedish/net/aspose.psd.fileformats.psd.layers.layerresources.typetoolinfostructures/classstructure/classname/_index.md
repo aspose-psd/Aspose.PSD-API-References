@@ -1,27 +1,28 @@
 ---
-title: ClassStructure.ClassName
-second_title: Aspose.PSD för .NET API-referens
-description: ClassStructure fast egendom. Hämtar eller ställer in klassnamnet.
+title: "ClassStructure.ClassName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ClassStructure egenskap. Hämtar eller anger klassnamnet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassName property
 
-Hämtar eller ställer in klassnamnet.
+Hämtar eller anger klassnamnet.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Klassens namn.
+Klassnamnet.
 
 ### Se även
 
 * class [ClassStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

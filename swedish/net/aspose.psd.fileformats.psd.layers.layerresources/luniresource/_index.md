@@ -1,14 +1,15 @@
 ---
-title: Class LuniResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource klass. Lagernamn resurs
+title: "Klass LuniResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource‑klass. Resurs för lagernamn"
 type: docs
-weight: 2800
+weight: 3130
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource class
 
-Lagernamn resurs
+Lagernamnsresurs
 
 ```csharp
 public class LuniResource : LayerResource
@@ -16,37 +17,37 @@ public class LuniResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LuniResource](luniresource/)() | Initierar en ny instans av`LuniResource` class. |
+| [LuniResource](luniresource/)() | Initierar en ny instans av klassen `LuniResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/) { get; set; } | Hämtar eller ställer in namnet. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/psdversion/) { get; } | Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/signature/) { get; } | Hämtar lagerresurssignaturen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/) { get; set; } | Hämtar eller anger namnet. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

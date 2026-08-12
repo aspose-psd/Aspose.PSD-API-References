@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD för .NET API-referens
-description: TextLayer metod. Uppdaterar texten.
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextLayer metod. Uppdaterar texten"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 Uppdaterar texten.
@@ -21,8 +22,8 @@ public void UpdateText(string text)
 ### Se även
 
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -37,13 +38,13 @@ public void UpdateText(string text, float fontSize)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| fontSize | Single | Teckensnittets storlek. |
+| fontSize | Single | Storlek på teckensnittet. |
 
 ### Se även
 
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -58,14 +59,14 @@ public void UpdateText(string text, Color color)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| color | Color | Färgvärdet. |
+| färg | Färg | Färgvärdet. |
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -80,15 +81,15 @@ public void UpdateText(string text, float fontSize, Color color)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| fontSize | Single | Teckensnittets storlek. |
-| color | Color | Färgvärdet. |
+| fontSize | Single | Storlek på teckensnittet. |
+| färg | Färg | Färgvärdet. |
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,15 +104,15 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| leftTopCoordinate | Point | Den vänstra övre koordinaten. |
-| fontSize | Single | Teckensnittets storlek. |
+| leftTopCoordinate | Punkt | Den vänstra övre koordinaten. |
+| fontSize | Single | Storlek på teckensnittet. |
 
 ### Se även
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -126,16 +127,16 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| leftTopCoordinate | Point | Den vänstra övre koordinaten. |
-| color | Color | Färgvärdet. |
+| leftTopCoordinate | Punkt | Den vänstra övre koordinaten. |
+| färg | Färg | Färgvärdet. |
 
 ### Se även
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -150,14 +151,14 @@ public void UpdateText(string text, Point leftTopCoordinate)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| leftTopCoordinate | Point | Den vänstra övre koordinaten. |
+| leftTopCoordinate | Punkt | Den vänstra övre koordinaten. |
 
 ### Se även
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -172,16 +173,16 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Col
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Textvärdet. |
-| leftTopCoordinate | Point | Den vänstra övre koordinaten. |
-| fontSize | Single | Teckensnittets storlek. |
-| color | Color | Färgvärdet. |
+| leftTopCoordinate | Punkt | Den vänstra övre koordinaten. |
+| fontSize | Single | Storlek på teckensnittet. |
+| färg | Färg | Färgvärdet. |
 
 ### Se även
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class JFIFData
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData klass. jfifsegmentet.
+title: "Klass JFIFData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData klass. jfif-segmentet"
 type: docs
-weight: 1470
+weight: 1480
 url: /sv/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
-jfif-segmentet.
+Jfif‑segmentet.
 
 ```csharp
 public sealed class JFIFData
@@ -16,23 +17,23 @@ public sealed class JFIFData
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [JFIFData](jfifdata/)() | Initierar en ny instans av`JFIFData` class. |
+| [JFIFData](jfifdata/)() | Initierar en ny instans av `JFIFData`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Hämtar eller ställer in densitetsenheterna. |
-| [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Hämtar eller ställer in miniatyrbilden. |
-| [Version](../../aspose.psd.fileformats.jpeg/jfifdata/version/) { get; set; } | Hämtar eller ställer in versionen. |
-| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Hämtar eller ställer in x-densiteten. |
-| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Hämtar eller ställer in y-densiteten. |
+| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Hämtar eller anger densitetsenheterna. |
+| [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Hämtar eller anger miniatyren. |
+| [Version](../../aspose.psd.fileformats.jpeg/jfifdata/version/) { get; set; } | Hämtar eller anger versionen. |
+| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Hämtar eller anger x-densiteten. |
+| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Hämtar eller anger y-densiteten. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.TransparencyPoints
-second_title: Aspose.PSD för .NET API-referens
-description: IGradientFillSettings fast egendom. Får transparenspoängen.
+title: "IGradientFillSettings.TransparencyPoints"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IGradientFillSettings egenskap. Hämtar transparenspunkterna"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.TransparencyPoints property
 
-Får transparenspoängen.
+Hämtar transparenspunkterna.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Transparenspunkterna.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för Gradient FillLayer och redigeringsalternativ för IGradientFillSettings.
+Följande exempel demonstrerar stöd för Gradient FillLayer och redigeringsalternativ för IGradientFillSettings..
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -94,7 +96,7 @@ using (im)
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * interface [IGradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Thumbnail.Height
-second_title: Aspose.PSD för .NET API-referens
-description: Thumbnail fast egendom. Hämtar eller ställer in höjden.
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Thumbnail‑egenskap. Hämtar eller anger höjden"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
-Hämtar eller ställer in höjden.
+Hämtar eller anger höjden.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Höjden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | värde;Höjden får inte vara mindre än noll |
+| ArgumentOutOfRangeException | värde;Height får inte vara mindre än noll |
 
 ### Se även
 
 * class [Thumbnail](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

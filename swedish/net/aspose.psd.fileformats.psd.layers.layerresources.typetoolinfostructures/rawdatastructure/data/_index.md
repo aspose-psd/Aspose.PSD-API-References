@@ -1,27 +1,28 @@
 ---
-title: RawDataStructure.Data
-second_title: Aspose.PSD för .NET API-referens
-description: RawDataStructure fast egendom. Hämtar eller ställer in data.
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RawDataStructure egenskap. Hämtar eller anger data"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
-Hämtar eller ställer in data.
+Hämtar eller anger data.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Data.
 
 ### Se även
 
 * class [RawDataStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

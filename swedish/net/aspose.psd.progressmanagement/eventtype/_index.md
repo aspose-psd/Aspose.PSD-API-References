@@ -1,25 +1,26 @@
 ---
-title: Enum EventType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ProgressManagement.EventType uppräkning. Denna uppräkning beskriver möjliga förloppshändelsetyper som kan inträffa under bildbehandlingsoperationer
+title: "Enum EventType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ProgressManagement.EventType enum. Denna enum beskriver möjliga framstegshändelsetyper som kan inträffa under bildbehandlingsoperationer"
 type: docs
-weight: 5290
+weight: 5790
 url: /sv/net/aspose.psd.progressmanagement/eventtype/
 ---
+{{< psd/tize >}}
 ## EventType enumeration
 
-Denna uppräkning beskriver möjliga förloppshändelsetyper som kan inträffa under bildbehandlingsoperationer
+Denna enum beskriver möjliga typer av framstegshändelser som kan inträffa under bildbehandlingsoperationer.
 
 ```csharp
 public enum EventType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| RelativeProgress | `0` | Relativt framsteg för det aktuella skedet av operationen processing |
-| StageChange | `1` | Nästa steg av operationen startade |
+| RelativeProgress | `0` | Relativt framsteg för nuvarande steg i operationens bearbetning |
+| StageChange | `1` | Nästa steg i operationen har startat |
 | Initialization | `2` | Initieringen av operationen |
 | PreProcessing | `3` | Förbehandlingen |
 | Processing | `4` | Bearbetningen |
@@ -27,7 +28,7 @@ public enum EventType
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

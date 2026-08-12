@@ -1,14 +1,15 @@
 ---
-title: Brush.DeepClone
-second_title: Aspose.PSD för .NET API-referens
-description: Brush metod. Skapar en ny djup klon av strömmenBrush .
+title: "Brush.DeepClone"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Brush-metoden. Skapar en ny djupklon av den aktuella Brush"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/brush/deepclone/
 ---
+{{< psd/tize >}}
 ## Brush.DeepClone method
 
-Skapar en ny djup klon av strömmen[`Brush`](../) .
+Skapar en ny djupklon av den aktuella [`Brush`](../).
 
 ```csharp
 public virtual Brush DeepClone()
@@ -16,12 +17,12 @@ public virtual Brush DeepClone()
 
 ### Returvärde
 
-En ny[`Brush`](../) som är den djupa klonen av detta[`Brush`](../) exempel.
+En ny [`Brush`](../) som är djupklonen av detta [`Brush`](../)-instans.
 
 ### Se även
 
 * class [Brush](../)
-* namnutrymme [Aspose.PSD](../../brush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

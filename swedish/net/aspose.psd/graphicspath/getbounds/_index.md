@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.GetBounds
-second_title: Aspose.PSD för .NET API-referens
-description: GraphicsPath metod. Hämtar objektets gränser.
+title: "GraphicsPath.GetBounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GraphicsPath-metod. Hämtar objektets gränser"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/graphicspath/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Hämtar objektets gränser.
@@ -16,7 +17,7 @@ public override RectangleF GetBounds(Matrix matrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | Matrix | Matrisen som ska tillämpas före gränserna kommer att beräknas. |
+| matris | Matris | Matrisen att tillämpa innan gränserna beräknas. |
 
 ### Returvärde
 
@@ -27,8 +28,8 @@ Det uppskattade objektets gränser.
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,8 +43,8 @@ public override RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | Matrix | Matrisen som ska tillämpas före gränserna kommer att beräknas. |
-| pen | Pen | Pennan att använda för objekt. Detta kan påverka objektets gränsstorlek. |
+| matris | Matris | Matrisen att tillämpa innan gränserna beräknas. |
+| penna | Penna | Pennan att använda för objektet. Detta kan påverka objektets gränsstorlek. |
 
 ### Returvärde
 
@@ -55,7 +56,7 @@ Det uppskattade objektets gränser.
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

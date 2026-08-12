@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetIccProfile
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Ställer in iccprofilen.
+title: "PhotoshopPackage.SetIccProfile"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in icc-profilen"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seticcprofile/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetIccProfile method
 
-Ställer in icc-profilen.
+Anger ICC-profilen.
 
 ```csharp
 public void SetIccProfile(string iccProfile)
@@ -21,7 +22,7 @@ public void SetIccProfile(string iccProfile)
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

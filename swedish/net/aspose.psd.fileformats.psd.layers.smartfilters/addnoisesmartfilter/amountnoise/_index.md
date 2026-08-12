@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD för .NET API-referens
-description: AddNoiseSmartFilter fast egendom. Hämtar eller ställer in brusvärdet.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AddNoiseSmartFilter egenskap. Hämtar eller anger mängden för brusvärdet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-Hämtar eller ställer in brusvärdet.
+Hämtar eller anger brusvärdet.
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för gränssnittet för smarta filter.
+Detta exempel demonstrerar stöd för smarta filtergränssnittet.
 
 ```csharp
 [C#]
@@ -59,10 +60,10 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // applicera förändringar
+    // tillämpa ändringar
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Använd filter
+    // Tillämpa filter
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Se även
 
 * class [AddNoiseSmartFilter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

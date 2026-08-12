@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD för .NET API-referens
-description: SizeF metod. Konverterar enSizeF till aSize struktur med trunkerade storleksvärden.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SizeF method. Converts a SizeF to a Size structure with truncated size values"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-Konverterar en[`SizeF`](../) till a[`Size`](../../size/) struktur med trunkerade storleksvärden.
+Konverterar en [`SizeF`](../) till en [`Size`](../../size/) struktur med trunkerade storleksvärden.
 
 ```csharp
 public Size ToSize()
@@ -16,13 +17,13 @@ public Size ToSize()
 
 ### Returvärde
 
-Returnerar a[`Size`](../../size/) strukturera.
+Returnerar en [`Size`](../../size/) struktur.
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* namnutrymme [Aspose.PSD](../../sizef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

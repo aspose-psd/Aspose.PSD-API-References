@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Palette
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in färgpaletten.
+title: "TiffOptions.Palette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger färgpaletten"
 type: docs
-weight: 310
+weight: 320
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/palette/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Palette property
 
-Hämtar eller ställer in färgpaletten.
+Hämtar eller anger färgpaletten.
 
 ```csharp
 public override IColorPalette Palette { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgpaletten.
 
@@ -22,7 +23,7 @@ Färgpaletten.
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

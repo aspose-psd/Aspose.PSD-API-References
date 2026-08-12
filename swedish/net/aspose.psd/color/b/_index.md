@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får det blå komponentvärdet av dettaColorstruktur.
+title: "Color.B"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskapen. Hämtar blåkomponentens värde för denna Color‑struktur."
 type: docs
 weight: 1470
 url: /sv/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-Får det blå komponentvärdet av detta[`Color`](../)struktur.
+Hämtar blåkomponentens värde för denna [`Color`](../) struktur.
 
 ```csharp
 public byte B { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det blå komponentvärdet för detta[`Color`](../).
+Den blåkomponentens värde för denna [`Color`](../).
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

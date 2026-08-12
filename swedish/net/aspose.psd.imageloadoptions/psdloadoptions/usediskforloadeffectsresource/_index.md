@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Aspose.PSD för .NET API-referens
-description: PsdLoadOptions fast egendom. Hämtar eller ställer in ett värde som indikerar om använd disk för laddningseffektresurs används som standard disk för att ladda effektresurs men kan användas minne om det räcker genom att sätta detta värde till false.
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdLoadOptions egenskap. Hämtar eller anger ett värde som indikerar om disk ska användas för att ladda effektresurser; som standard används disk för att ladda effektresurser men minne kan användas om det räcker genom att sätta detta värde till false"
 type: docs
-weight: 70
+weight: 90
 url: /sv/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-Hämtar eller ställer in ett värde som indikerar om [använd disk för laddningseffektresurs] (används som standard disk för att ladda effektresurs, men kan användas minne om det räcker genom att sätta detta värde till false).
+Hämtar eller anger ett värde som indikerar om [use disk for load effects resource] (standard är att använda disk för att ladda effektresursen, men minne kan användas om det är tillräckligt genom att sätta detta värde till false).
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [använd disk för laddningseffektresurs]; annat,`falsk` .
+`true` om [use disk for load effects resource]; annars, `false`.
 
 ### Se även
 
 * class [PsdLoadOptions](../)
-* namnutrymme [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Aspose.PSD för .NET API-referens
-description: BlackWhiteAdjustmentLayer fast egendom. Hämtar eller ställer in ett värde som anger om tint color används.
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlackWhiteAdjustmentLayer egenskap. Hämtar eller anger ett värde som indikerar om tint color används"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-Hämtar eller ställer in ett värde som anger om [tint color] används.
+Hämtar eller anger ett värde som indikerar om [tint color] används.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den används [nyansfärg]; annat,`falsk` .
+`true` om [tint color] används; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan manipulera egenskaperna för justeringslager för svartvitt i Aspose.PSD
+Följande exempel visar hur du kan manipulera egenskaperna för svartvita justeringslagret i Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

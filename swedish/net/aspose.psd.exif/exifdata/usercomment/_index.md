@@ -1,27 +1,28 @@
 ---
-title: ExifData.UserComment
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in användarkommentaren.
+title: "ExifData.UserComment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger användarkommentaren"
 type: docs
 weight: 1060
 url: /sv/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
-Hämtar eller ställer in användarkommentaren.
+Hämtar eller anger användarkommentaren.
 
 ```csharp
 public string UserComment { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Användarkommentaren.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

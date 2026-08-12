@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord klass. Bezier Knot Record Class
+title: "Klass BezierKnotRecord"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord klass. Bezier Knot Record-klass som används för att läsa/skriva Bezier‑knutar data från resurs"
 type: docs
-weight: 1330
+weight: 1340
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Bezier Knot Record Class
+Bezier Knot Record Class, används för att läsa/skriva Bezier-knutdata från resurs.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -16,25 +17,25 @@ public class BezierKnotRecord : VectorPathRecord
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Initierar en ny instans av`BezierKnotRecord` class. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Initierar en ny instans av`BezierKnotRecord` class. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | Initierar en ny instans av klassen `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Initierar en ny instans av klassen `BezierKnotRecord`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är stängd. |
-| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är länkad. |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är öppen. |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Hämtar eller ställer in sökvägspunkterna. |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Får eller sätter poängen. |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Hämtar eller anger ett värde som indikerar om denna instans är sluten. |
+| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Hämtar eller anger ett värde som indikerar om denna instans är länkad. |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Hämtar eller anger ett värde som indikerar om denna instans är öppen. |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Hämtar eller anger banpunkterna. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Hämtar eller anger punkterna. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Hämtar typen. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VmskResource-resursladdning. Hur fungerar redigeringen av banor.
+Följande exempel demonstrerar stöd för inläsning av VmskResource-resursen. Hur redigering av banor fungerar.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ public void TestPsdNet106()
     using (im)
     {
         var resource = GetVmskResource(im);
-        // Läser
+        // Läsning
         if (resource.IsDisabled != false ||
          resource.IsInverted != false ||
          resource.IsNotLinked != false ||
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // Sökvägsfyllningsregeln innehåller ingen ytterligare information
+        // Fyllningsregeln för bana innehåller ingen ytterligare information
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-Följande exempel visar stödet för VsmsResource resursladdning. Hur fungerar redigeringen av banor.
+Följande exempel demonstrerar stöd för inläsning av VsmsResource-resurser. Hur redigering av sökvägar fungerar.
 
 ```csharp
 [C#]
@@ -119,14 +120,14 @@ Följande exempel visar stödet för VsmsResource resursladdning. Hur fungerar r
 [Test]
 public void TestPsdNet140()
 {
-    // VsmsResource Support
+    // VsmsResource-stöd
     string sourceFileName = "EmptyRectangle.psd";
     string exportPath = "EmptyRectangle_changed.psd";
     var im = (PsdImage)Image.Load(sourceFileName);
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // Läser
+        // Läsning
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Sökvägsfyllningsregeln innehåller ingen ytterligare information
+        // Fyllningsregeln för bana innehåller ingen ytterligare information
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -195,7 +196,7 @@ private VsmsResource GetVsmsResource(PsdImage image)
 ### Se även
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

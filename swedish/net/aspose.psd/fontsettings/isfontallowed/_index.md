@@ -1,14 +1,15 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Avgör om är teckensnitt tillåtet det angivna teckensnittsnamnet.
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metoden. Avgör om det angivna teckensnittet är tillåtet."
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-Avgör om [är teckensnitt tillåtet] [det angivna teckensnittsnamnet].
+Bestämmer om [is font allowed] [the specified font name].
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
@@ -16,15 +17,15 @@ public static bool IsFontAllowed(string fontName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | Typsnittets namn. |
+| fontName | String | Teckensnittets namn. |
 
 ### Returvärde
 
-`Sann` om [är teckensnitt tillåtet] [det angivna teckensnittsnamnet]; annat,`falsk` .
+`true` om [is font allowed] [the specified font name]; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande kod demonstrerar förmågan att programmässigt begränsa teckensnitt med hjälp av.
+Följande kod demonstrerar möjligheten att programatiskt begränsa teckensnitt med hjälp av.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

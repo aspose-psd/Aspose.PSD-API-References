@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: LnsrResource metod. Sparar den angivna strömbehållaren.
+title: "LnsrResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LnsrResource-metod. Sparar den angivna strömbehållaren"
 type: docs
-weight: 80
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Save method
 
 Sparar den angivna strömbehållaren.
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LnsrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

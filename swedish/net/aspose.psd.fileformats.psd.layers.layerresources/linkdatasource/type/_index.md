@@ -1,28 +1,29 @@
 ---
-title: LinkDataSource.Type
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar Adobe Photoshop global länkdatakälla som kan vara en av följande eller ingen Den inbäddade länkade filen liFD som motsvarar PSDn Lnk2Resource Den externa länkade filens livslängd som motsvarar PSD Linked Resourcealias The linked
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource-egenskap. Hämtar Adobe Photoshop globala länkdatas källa-typ som kan vara någon av följande eller ingen: Den inbäddade länkade filen liFD som motsvarar PSD Lnk2Resource; Den externa länkade filen liFE som motsvarar PSD LnkeResource; Länkad filalias liFA."
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-Hämtar Adobe® Photoshop® global länkdatakälla som kan vara en av följande eller ingen: Den inbäddade länkade filen liFD som motsvarar PSD:n Lnk2Resource Den externa länkade filens livslängd som motsvarar PSD Linked Resourcealias The linked
+Hämtar Adobe® Photoshop® globala länkdatakälltyp som kan vara någon av följande eller ingen: Den inbäddade länkade filen liFD som motsvarar PSD Lnk2Resource Den externa länkade filen liFE som motsvarar PSD LnkeResource Den länkade filaliasen liFA
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-PSD-länkens datakälla.
+Typen av PSD-länkdatas källan.
 
 ### Se även
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

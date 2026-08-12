@@ -1,28 +1,29 @@
 ---
-title: ExifData.SceneCaptureType
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in sceninspelningstypen.
+title: "ExifData.SceneCaptureType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger sceninfångningstypen"
 type: docs
 weight: 900
 url: /sv/net/aspose.psd.exif/exifdata/scenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneCaptureType property
 
-Hämtar eller ställer in sceninspelningstypen.
+Hämtar eller anger scenupptagningstypen.
 
 ```csharp
 public ExifSceneCaptureType SceneCaptureType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av sceninspelning.
+Typen av sceninfångning.
 
 ### Se även
 
 * enum [ExifSceneCaptureType](../../../aspose.psd.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

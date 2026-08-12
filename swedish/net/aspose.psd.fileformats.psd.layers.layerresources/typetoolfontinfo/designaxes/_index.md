@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolFontInfo fast egendom. Hämtar eller ställer in designaxelvektorn att följa.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolFontInfo egenskap. Hämtar eller anger designaxelvektorn att följa."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
-Hämtar eller ställer in designaxelvektorn att följa.
+Hämtar eller anger designaxel‑vektorn att följa.
 
 ```csharp
 public int DesignAxes { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Vektorn för designaxlarna att följa.
+Designaxelvektorn att följa.
 
 ### Se även
 
 * class [TypeToolFontInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

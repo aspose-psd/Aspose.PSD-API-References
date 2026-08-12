@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Aspose.PSD för .NET API-referens
-description: ResourceRef fast egendom. Hämtar eller ställer in filsökvägen URI.
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResourceRef‑egenskap. Hämtar eller anger fil‑sökvägs‑URI"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-Hämtar eller ställer in filsökvägen URI.
+Hämtar eller anger filens sökvägs-URI.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Filsökvägen URI.
+Fil‑sökvägs‑URI:n.
 
 ### Se även
 
 * class [ResourceRef](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

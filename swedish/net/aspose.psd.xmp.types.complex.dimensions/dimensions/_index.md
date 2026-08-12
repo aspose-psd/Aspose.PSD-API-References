@@ -1,14 +1,15 @@
 ---
-title: Class Dimensions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions klass. Innehåller mått för ett ritat objekt.
+title: "Klassen Dimensions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions-klass. Innehåller dimensioner för ett ritat objekt"
 type: docs
-weight: 6060
+weight: 6560
 url: /sv/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
-Innehåller mått för ett ritat objekt.
+Innehåller dimensioner för ett ritat objekt.
 
 ```csharp
 public sealed class Dimensions : ComplexTypeBase
@@ -16,31 +17,31 @@ public sealed class Dimensions : ComplexTypeBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | Initierar en ny instans av`Dimensions` class. |
-| [Dimensions](dimensions/#constructor_1)(float, float) | Initierar en ny instans av`Dimensions` class. |
+| [Dimensions](dimensions/#constructor)() | Initierar en ny instans av klassen `Dimensions`. |
+| [Dimensions](dimensions/#constructor_1)(float, float) | Initierar en ny instans av klassen `Dimensions`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Hämtar eller ställer in höjden. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Hämtar standardnamnutrymmes-URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Får prefixet. |
-| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Hämtar eller ställer in enheter. |
-| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | Hämtar eller ställer in bredden. |
+| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Hämtar eller anger höjden. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Hämtar standardnamnrymdens URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Hämtar prefixet. |
+| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Hämtar eller anger enheter. |
+| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | Hämtar eller anger bredden. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Hämtar strängen som innehåller värdet i XMP-format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Hämtar det stränginnehållande värdet i XMP-format. |
 
 ### Se även
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

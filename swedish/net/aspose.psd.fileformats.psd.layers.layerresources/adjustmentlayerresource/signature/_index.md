@@ -1,14 +1,15 @@
 ---
-title: AdjustmentLayerResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: AdjustmentLayerResource fast egendom. Får signaturen.
+title: "AdjustmentLayerResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AdjustmentLayerResource egenskap. Hämtar signaturen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Signature property
 
-Får signaturen.
+Hämtar signaturen.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [AdjustmentLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

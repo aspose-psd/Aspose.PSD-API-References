@@ -1,31 +1,32 @@
 ---
-title: Enum LayerSectionType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType uppräkning. Lagersektionen type
+title: "Enum LayerSectionType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType enum. Lagrets sektions typ"
 type: docs
-weight: 2610
+weight: 2920
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
-Lagersektionen type
+Lagrets avsnittstyp
 
 ```csharp
 public enum LayerSectionType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Layer | `0` | Lagret. |
 | OpenFolder | `1` | Den öppna mappen. |
 | ClosedFolder | `2` | Den stängda mappen. |
-| SectionDivider | `3` | Sektionsavdelaren. |
+| SectionDivider | `3` | Avsnittsdelaren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

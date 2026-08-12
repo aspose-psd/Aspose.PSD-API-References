@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till exponeringsjusteringslagret.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Lägger till exponeringsjusteringslagret"
 type: docs
-weight: 340
+weight: 350
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-Lägger till exponeringsjusteringslagret.
+Lägger till exponering-justeringslagret.
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
@@ -17,19 +18,19 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| exposure | Single | Exponeringen. |
-| offset | Single | Offset. |
-| gammaCorrection | Single | Gammakorrigeringen. |
+| exponering | Single | Exponeringen. |
+| offset | Single | Förskjutningen. |
+| gammaCorrection | Single | Gamma-korrektionen. |
 
 ### Returvärde
 
-Skapade Exponeringsjusteringslager
+Skapade exponeringsjusteringslagret
 
 ### Se även
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

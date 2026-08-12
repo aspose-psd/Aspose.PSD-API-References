@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeOriginal
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in bråkdelen av sekunder för DateTimeOriginaltaggen.
+title: "ExifData.SubsecTimeOriginal"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger bråkdelar av sekunder för DateTimeOriginal-taggen"
 type: docs
 weight: 1050
 url: /sv/net/aspose.psd.exif/exifdata/subsectimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeOriginal property
 
-Hämtar eller ställer in bråkdelen av sekunder för DateTimeOriginal-taggen.
+Hämtar eller anger bråkdelen av sekunder för DateTimeOriginal-taggen.
 
 ```csharp
 public string SubsecTimeOriginal { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bråkdelen av sekunder för DateTimeOriginal-taggen.
+Bråkdelar av sekunder för DateTimeOriginal-taggen.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

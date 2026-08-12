@@ -1,27 +1,28 @@
 ---
-title: LevlResource.Version
-second_title: Aspose.PSD för .NET API-referens
-description: LevlResource fast egendom. Hämtar versionen. Standard är 2
+title: "LevlResource.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LevlResource‑egenskap. Hämtar versionen. Standard är 2"
 type: docs
-weight: 50
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/
 ---
+{{< psd/tize >}}
 ## LevlResource.Version property
 
-Hämtar versionen. Standard är 2
+Hämtar versionen. Standard är 2.
 
 ```csharp
 public short Version { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
 ### Se även
 
 * class [LevlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

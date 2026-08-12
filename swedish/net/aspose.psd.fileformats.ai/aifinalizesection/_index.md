@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection klass. Aiformatet Slutför avsnitt
+title: "Klass AiFinalizeSection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection klass. Ai-formatets avslutningssektion"
 type: docs
-weight: 1230
+weight: 1240
 url: /sv/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Ai-formatet Slutför avsnitt
+Ai-formatets avslutningssektion
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiFinalizeSection : AiSection
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Hämtar strängdata. |
 
 ### Se även
 
 * class [AiSection](../aisection/)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

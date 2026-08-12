@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.IsAngleScalable
-second_title: Aspose.PSD för .NET API-referens
-description: LinearGradientBrushBase fast egendom. Hämtar eller ställer in ett värde som anger omAngle ändras vid omvandlingar med dettaLinearGradientBrushBase .
+title: "LinearGradientBrushBase.IsAngleScalable"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinearGradientBrushBase‑egenskap. Hämtar eller anger ett värde som indikerar om vinkeln ändras under transformationer med denna LinearGradientBrushBase"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.brushes/lineargradientbrushbase/isanglescalable/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.IsAngleScalable property
 
-Hämtar eller ställer in ett värde som anger om[`Angle`](../angle/) ändras vid omvandlingar med detta[`LinearGradientBrushBase`](../) .
+Hämtar eller anger ett värde som indikerar om [`Angle`](../angle/) ändras under transformationer med denna [`LinearGradientBrushBase`](../).
 
 ```csharp
 public bool IsAngleScalable { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om[`Angle`](../angle/) ändras vid transformationer med detta[`LinearGradientBrushBase`](../) ; annat,`falsk` .
+`true` om [`Angle`](../angle/) ändras under transformationer med denna [`LinearGradientBrushBase`](../); annars `false`.
 
 ### Se även
 
 * class [LinearGradientBrushBase](../)
-* namnutrymme [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

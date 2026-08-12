@@ -1,27 +1,28 @@
 ---
-title: TiffExifIfd.HasValue
-second_title: Aspose.PSD för .NET API-referens
-description: TiffExifIfd fast egendom. Får ett värde som indikerar om denna instans har ett värde.
+title: "TiffExifIfd.HasValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffExifIfd egenskap. Hämtar ett värde som indikerar om denna instans har ett värde"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.tiff/tiffexififd/hasvalue/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.HasValue property
 
-Får ett värde som indikerar om denna instans har ett värde.
+Hämtar ett värde som indikerar om denna instans har ett värde.
 
 ```csharp
 public bool HasValue { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har värde; annat,`falsk` .
+`true` om denna instans har ett värde; annars `false`.
 
 ### Se även
 
 * class [TiffExifIfd](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

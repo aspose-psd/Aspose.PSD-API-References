@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensMake
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Får eller ställer in tillverkaren av objektivet.
+title: "ExifData.LensMake"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger tillverkaren av linsen"
 type: docs
 weight: 730
 url: /sv/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
-Får eller ställer in tillverkaren av objektivet.
+Hämtar eller anger tillverkaren av linsen.
 
 ```csharp
 public string LensMake { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Linstillverkaren.
+Linsmakaren.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

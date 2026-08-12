@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in motivets avståndsområde.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger avståndsområdet för motivet"
 type: docs
 weight: 1010
 url: /sv/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-Hämtar eller ställer in motivets avståndsområde.
+Hämtar eller anger avståndsområdet för motivet.
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Motivets avståndsområde.
+Avståndsområdet för motivet.
 
 ### Se även
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

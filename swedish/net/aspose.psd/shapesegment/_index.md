@@ -1,11 +1,12 @@
 ---
-title: Class ShapeSegment
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ShapeSegment klass. Representerar ett formsegment. Ett segment är en linje eller kurva som förbinder två punkter.
+title: "Klass ShapeSegment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ShapeSegment-klass. Representerar ett formsegment. Ett segment är en linje eller kurva som förbinder två punkter"
 type: docs
-weight: 5430
+weight: 5930
 url: /sv/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
 Representerar ett formsegment. Ett segment är en linje eller kurva som förbinder två punkter.
@@ -16,14 +17,14 @@ public abstract class ShapeSegment
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Får slutpunkten. |
-| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Får startpunkten. |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Hämtar slutpunkten. |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Hämtar startpunkten. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

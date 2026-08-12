@@ -1,20 +1,21 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: Aspose.PSD för .NET API-referens
-description: MultiPageOptions fast egendom. Hämtar eller ställer in exportområdet.
+title: "MultiPageOptions.ExportArea"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MultiPageOptions egenskap. Hämtar eller anger exportområdet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
-Hämtar eller ställer in exportområdet.
+Hämtar eller anger exportområdet.
 
 ```csharp
 public Rectangle ExportArea { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Exportområdet.
 
@@ -22,7 +23,7 @@ Exportområdet.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

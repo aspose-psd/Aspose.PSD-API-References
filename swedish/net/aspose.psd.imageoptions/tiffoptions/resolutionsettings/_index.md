@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.ResolutionSettings
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in upplösningsinställningarna.
+title: "TiffOptions.ResolutionSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger upplösningsinställningarna"
 type: docs
-weight: 360
+weight: 370
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionSettings property
 
-Hämtar eller ställer in upplösningsinställningarna.
+Hämtar eller anger upplösningsinställningarna.
 
 ```csharp
 public override ResolutionSetting ResolutionSettings { get; set; }
@@ -18,7 +19,7 @@ public override ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

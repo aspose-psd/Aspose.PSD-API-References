@@ -1,11 +1,12 @@
 ---
-title: Class FileCreateSource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Sources.FileCreateSource klass. Representerar en filkälla för skapande.
+title: "Klass FileCreateSource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Sources.FileCreateSource-klass. Representerar en filkälla för skapande"
 type: docs
-weight: 5590
+weight: 6090
 url: /sv/net/aspose.psd.sources/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource class
 
 Representerar en filkälla för skapande.
@@ -16,38 +17,38 @@ public sealed class FileCreateSource : FileSource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FileCreateSource](filecreatesource/#constructor)(string) | Initierar en ny instans av`FileCreateSource` class. |
-| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Initierar en ny instans av`FileCreateSource` class. |
+| [FileCreateSource](filecreatesource/#constructor)(string) | Initierar en ny instans av klassen `FileCreateSource`. |
+| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Initierar en ny instans av klassen `FileCreateSource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/filecreatesource/filepath/) { get; } | Hämtar filsökvägen att skapa. |
-| override [IsTemporal](../../aspose.psd.sources/filecreatesource/istemporal/) { get; } | Får ett värde som indikerar om filen kommer att vara temporär. |
+| [FilePath](../../aspose.psd.sources/filecreatesource/filepath/) { get; } | Hämtar filsökvägen för skapande. |
+| override [IsTemporal](../../aspose.psd.sources/filecreatesource/istemporal/) { get; } | Hämtar ett värde som indikerar om filen blir temporär. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/filecreatesource/getstreamcontainer/)() | Hämtar strömbehållaren. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar användningen av klassen Font och SolidBrush för att rita strängar på bildytan. Exemplet skapar en ny bild och ritar former med hjälp av Figurer och GraphicsPath
+Detta exempel demonstrerar användningen av Font- och SolidBrush-klassen för att rita strängar på Image-ytan. Exemplet skapar en ny Image och ritar former med Figures och GraphicsPath.
 
 ```csharp
 [C#]
 
-//Skapar en instans av bild
+//Skapar en instans av Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Skapar och initierar en instans av klassen Graphics
+    //Skapar och initierar en instans av Graphics-klass
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Rensar grafikytan
+    //Rensar Graphics-ytan
     graphics.Clear(Color.Wheat);
 
     //Skapar en instans av Font
@@ -56,7 +57,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     //Skapa en instans av SolidBrush med röd färg
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    //Rita ett snöre
+    //Rita en sträng
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
     // skapa exportalternativ.
@@ -70,7 +71,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 ### Se även
 
 * class [FileSource](../filesource/)
-* namnutrymme [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

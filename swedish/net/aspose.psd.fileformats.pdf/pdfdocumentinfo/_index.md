@@ -1,14 +1,15 @@
 ---
-title: Class PdfDocumentInfo
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo klass. Den här klassen representerar en uppsättning metadata för dokumentbeskrivning.
+title: "Class PdfDocumentInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo class. Denna klass representerar en uppsättning metadata för dokumentbeskrivning."
 type: docs
-weight: 1570
+weight: 1580
 url: /sv/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo class
 
-Den här klassen representerar en uppsättning metadata för dokumentbeskrivning.
+Denna klass representerar en uppsättning metadata för dokumentbeskrivning.
 
 ```csharp
 public class PdfDocumentInfo
@@ -16,22 +17,22 @@ public class PdfDocumentInfo
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PdfDocumentInfo](pdfdocumentinfo/)() | Default_Constructor |
+| [PdfDocumentInfo](pdfdocumentinfo/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Hämtar eller ställer in författaren till dokumentet. |
-| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Hämtar eller ställer in nyckelord för dokumentet. |
-| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Hämtar eller ställer in ämnet för dokumentet. |
-| [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | Hämtar eller ställer in titeln på dokumentet. |
+| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Hämtar eller anger författare till dokumentet. |
+| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Hämtar eller anger nyckelord för dokumentet. |
+| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Hämtar eller anger ämne för dokumentet. |
+| [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | Hämtar eller anger titel för dokumentet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

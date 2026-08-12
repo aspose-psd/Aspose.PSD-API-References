@@ -1,14 +1,15 @@
 ---
-title: CaptionDigestResource.CaptionDigestResource
-second_title: Aspose.PSD för .NET API-referens
-description: CaptionDigestResource byggare. Default_Constructor
+title: "CaptionDigestResource.CaptionDigestResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CaptionDigestResource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiondigestresource/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public CaptionDigestResource()
@@ -17,7 +18,7 @@ public CaptionDigestResource()
 ### Se även
 
 * class [CaptionDigestResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

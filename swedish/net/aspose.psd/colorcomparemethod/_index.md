@@ -1,11 +1,12 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ColorCompareMethod uppräkning. Färgjämförelsesmetod för att justera till närmaste granne
+title: "Enum ColorCompareMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ColorCompareMethod-enum. Färgjämförelsesmetod för att justera till närmaste granne"
 type: docs
 weight: 330
 url: /sv/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
 Färgjämförelsesmetod för att justera till närmaste granne
@@ -14,15 +15,15 @@ Färgjämförelsesmetod för att justera till närmaste granne
 public enum ColorCompareMethod
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Euclidian | `0` | Den euklidiska metoden |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameCount
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in bildruteantalet för smarta objektlagerdata i PSDfilen.
+title: "SmartObjectResource.FrameCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource‑egenskap. Hämtar eller anger antalet bildrutor för smartobjektlagrets data i PSD‑filen."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameCount property
 
-Hämtar eller ställer in bildruteantalet för smarta objektlagerdata i PSD-filen.
+Hämtar eller anger bildrutesantalet för smartobjektlagrets data i PSD‑filen.
 
 ```csharp
 public int FrameCount { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antalet bildrutor för information om placerade lager.
+Antalet bildrutor för placerad lagerinformation.
 
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

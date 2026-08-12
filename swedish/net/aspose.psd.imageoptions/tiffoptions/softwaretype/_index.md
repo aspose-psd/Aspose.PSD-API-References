@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in mjukvarutypen.
+title: "TiffOptions.SoftwareType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger programvarutypen"
 type: docs
-weight: 450
+weight: 460
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
-Hämtar eller ställer in mjukvarutypen.
+Hämtar eller anger programvarutypen.
 
 ```csharp
 public string SoftwareType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Programvarutypen.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

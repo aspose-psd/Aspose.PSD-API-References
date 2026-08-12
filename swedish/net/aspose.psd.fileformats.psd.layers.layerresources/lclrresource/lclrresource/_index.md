@@ -1,14 +1,15 @@
 ---
-title: LclrResource.LclrResource
-second_title: Aspose.PSD för .NET API-referens
-description: LclrResource byggare. Initierar en ny instans avLclrResource class.
+title: "LclrResource.LclrResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LclrResource konstruktor. Initierar en ny instans av klassen LclrResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-Initierar en ny instans av[`LclrResource`](../) class.
+Initierar en ny instans av klassen [`LclrResource`](../).
 
 ```csharp
 public LclrResource()
@@ -17,14 +18,14 @@ public LclrResource()
 ### Se även
 
 * class [LclrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-Initierar en ny instans av[`LclrResource`](../) class.
+Initierar en ny instans av klassen [`LclrResource`](../).
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
@@ -32,20 +33,20 @@ public LclrResource(SheetColorHighlightEnum color)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| color | SheetColorHighlightEnum | Färgen. |
+| färg | SheetColorHighlightEnum | Färgen. |
 
 ### Se även
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-Initierar en ny instans av[`LclrResource`](../) class.
+Initierar en ny instans av klassen [`LclrResource`](../).
 
 ```csharp
 public LclrResource(byte[] data)
@@ -57,14 +58,14 @@ public LclrResource(byte[] data)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltigt Lclr-resursvärde |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltigt Lclr Resource-värde |
 
 ### Se även
 
 * class [LclrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

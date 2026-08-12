@@ -1,14 +1,15 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Plattar ut alla lager.
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Plattar till alla lager"
 type: docs
-weight: 540
+weight: 600
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-Plattar ut alla lager.
+Plattar till alla lager.
 
 ```csharp
 public void FlattenImage()
@@ -17,7 +18,7 @@ public void FlattenImage()
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

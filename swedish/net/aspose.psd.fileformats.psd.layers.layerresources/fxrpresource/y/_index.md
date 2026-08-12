@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Aspose.PSD för .NET API-referens
-description: FxrpResource fast egendom. Hämtar eller ställer in y för referenspunkt
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FxrpResource egenskap. Hämtar eller anger y för referenspunkt"
 type: docs
-weight: 70
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-Hämtar eller ställer in y för referenspunkt
+Hämtar eller sätter y för referenspunkten
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Y för referenspunkt
 
 ### Se även
 
 * class [FxrpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

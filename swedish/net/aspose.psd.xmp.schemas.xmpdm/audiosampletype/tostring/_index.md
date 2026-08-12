@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.ToString
-second_title: Aspose.PSD för .NET API-referens
-description: AudioSampleType metod. Returnerar enString som representerar denna instans.
+title: "AudioSampleType.ToString"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AudioSampleType metod. Returnerar en String som representerar denna instans"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en String som representerar detta objekt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar denna instans.
 
 ### Se även
 
 * class [AudioSampleType](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

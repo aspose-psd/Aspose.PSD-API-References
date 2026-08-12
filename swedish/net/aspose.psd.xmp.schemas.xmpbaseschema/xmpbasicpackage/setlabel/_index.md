@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBasicPackage metod. Ställer in etiketten.
+title: "XmpBasicPackage.SetLabel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBasicPackage method. Sätter etiketten"
 type: docs
-weight: 60
+weight: 80
 url: /sv/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
 Ställer in etiketten.
@@ -21,7 +22,7 @@ public void SetLabel(string label)
 ### Se även
 
 * class [XmpBasicPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

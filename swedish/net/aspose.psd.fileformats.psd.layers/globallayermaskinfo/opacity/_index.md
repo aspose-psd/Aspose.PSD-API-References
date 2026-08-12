@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.Opacity
-second_title: Aspose.PSD för .NET API-referens
-description: GlobalLayerMaskInfo fast egendom. Får eller ställer in globala lagers opacitet. 0  transparent 100  ogenomskinlig.
+title: "GlobalLayerMaskInfo.Opacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GlobalLayerMaskInfo‑egenskap. Hämtar eller anger opaciteten för globala lager. 0  transparent 100  ogenomskinlig"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Opacity property
 
-Får eller ställer in globala lagers opacitet. 0 = transparent, 100 = ogenomskinlig.
+Hämtar eller anger opaciteten för globala lager. 0 = transparent, 100 = ogenomskinlig.
 
 ```csharp
 public short Opacity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De globala lagrens opacitet.
+Opaciteten för de globala lagren.
 
 ### Se även
 
 * class [GlobalLayerMaskInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

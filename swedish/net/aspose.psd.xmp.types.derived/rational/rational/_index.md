@@ -1,14 +1,15 @@
 ---
-title: Rational.Rational
-second_title: Aspose.PSD för .NET API-referens
-description: Rational byggare. Initierar en ny instans avRational class.
+title: "Rational.Rational"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rational‑konstruktor. Initierar en ny instans av klassen Rational"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-Initierar en ny instans av[`Rational`](../) class.
+Initierar en ny instans av klassen [`Rational`](../).
 
 ```csharp
 public Rational(int numerator, int denominator)
@@ -16,19 +17,19 @@ public Rational(int numerator, int denominator)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| numerator | Int32 | Täljaren. |
-| denominator | Int32 | Nämnaren. |
+| täljare | Int32 | Täljaren. |
+| nämnare | Int32 | Nämnaren. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | täljare;Täljaren ska vara rivjärn noll. eller nämnare;Nämnaren ska vara rivjärn noll. |
+| ArgumentOutOfRangeException | täljare;Täljaren bör vara större än noll. eller nämnare;Nämnaren bör vara större än noll. |
 
 ### Se även
 
 * class [Rational](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

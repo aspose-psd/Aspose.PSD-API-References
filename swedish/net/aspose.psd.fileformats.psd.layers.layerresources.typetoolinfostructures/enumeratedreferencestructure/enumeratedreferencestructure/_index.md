@@ -1,14 +1,15 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedReferenceStructure
-second_title: Aspose.PSD för .NET API-referens
-description: EnumeratedReferenceStructure byggare. Initierar en ny instans avEnumeratedReferenceStructure class.
+title: "EnumeratedReferenceStructure.EnumeratedReferenceStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "EnumeratedReferenceStructure-konstruktor. Initierar en ny instans av EnumeratedReferenceStructure-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure constructor
 
-Initierar en ny instans av[`EnumeratedReferenceStructure`](../) class.
+Initierar en ny instans av klassen [`EnumeratedReferenceStructure`](../).
 
 ```csharp
 public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID typeID, 
@@ -17,16 +18,16 @@ public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID ty
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
-| classID | ClassID | Klass-ID. |
-| typeID | ClassID | Typ-ID. |
-| enumName | ClassID | Uppräkningsnamnet. |
+| keyName | ClassID | Nyckelnamnet. |
+| classID | ClassID | Klass-ID:t. |
+| typeID | ClassID | Typ-ID:n. |
+| enumName | ClassID | Enumnamnet. |
 
 ### Se även
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

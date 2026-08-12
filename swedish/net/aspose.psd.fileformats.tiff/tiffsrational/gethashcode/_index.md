@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.GetHashCode
-second_title: Aspose.PSD för .NET API-referens
-description: TiffSRational metod. Returnerar en hashkod för denna instans.
+title: "TiffSRational.GetHashCode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffSRational metod. Returnerar en hashkod för denna instans"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.tiff/tiffsrational/gethashcode/
 ---
+{{< psd/tize >}}
 ## TiffSRational.GetHashCode method
 
-Returnerar en hash-kod för denna instans.
+Returnerar en hashkod för denna instans.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Returvärde
 
-En hash-kod för denna instans, lämplig för användning i hashalgoritmer och datastrukturer som en hashtabell.
+En hashkod för denna instans, lämplig för användning i hash-algoritmer och datastrukturer som en hash‑tabell.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DocumentSpecificIdsResource.DocumentSpecificIdsResource
-second_title: Aspose.PSD för .NET API-referens
-description: DocumentSpecificIdsResource byggare. Default_Constructor
+title: "DocumentSpecificIdsResource.DocumentSpecificIdsResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DocumentSpecificIdsResource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/documentspecificidsresource/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public DocumentSpecificIdsResource()
@@ -17,7 +18,7 @@ public DocumentSpecificIdsResource()
 ### Se även
 
 * class [DocumentSpecificIdsResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

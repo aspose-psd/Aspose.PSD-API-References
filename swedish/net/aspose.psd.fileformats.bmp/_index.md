@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet hanterar bearbetning av Bmpfilformat.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet hanterar Bmp-filformatbehandling"
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.psd.fileformats.bmp/
 ---
-Namnutrymmet hanterar bearbetning av Bmp-filformat.
+{{< psd/tize >}}
+Namnområdet hanterar Bmp‑filformatbehandling.
 
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [BitmapCompression](./bitmapcompression/) | Anger olika bitmappskomprimeringsmetoder. |
+| [BitmapCompression](./bitmapcompression/) | Specificerar olika bitmap-komprimeringsmetoder. |
 
 

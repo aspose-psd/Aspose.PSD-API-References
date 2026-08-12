@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FontType
-second_title: Aspose.PSD för .NET API-referens
-description: TextFontInfo fast egendom. Hämtar typsnittets typ.
+title: "TextFontInfo.FontType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextFontInfo-egenskap. Hämtar typsnittets typ"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
-Hämtar typsnittets typ.
+Hämtar teckensnittets typ.
 
 ```csharp
 public int FontType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typsnittet.
+Typsnittets typ.
 
 ### Se även
 
 * class [TextFontInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

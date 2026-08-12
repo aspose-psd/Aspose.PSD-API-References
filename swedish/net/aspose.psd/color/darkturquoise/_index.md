@@ -1,27 +1,28 @@
 ---
-title: Color.DarkTurquoise
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får en systemdefinierad färg.
+title: "Color.DarkTurquoise"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskapen. Hämtar en systemdefinierad färg."
 type: docs
 weight: 370
 url: /sv/net/aspose.psd/color/darkturquoise/
 ---
+{{< psd/tize >}}
 ## Color.DarkTurquoise property
 
-Får en systemdefinierad färg.
+Hämtar en systemdefinierad färg.
 
 ```csharp
 public static Color DarkTurquoise { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`Color`](../) representerar en systemdefinierad färg.
+En [`Color`](../) som representerar en systemdefinierad färg.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

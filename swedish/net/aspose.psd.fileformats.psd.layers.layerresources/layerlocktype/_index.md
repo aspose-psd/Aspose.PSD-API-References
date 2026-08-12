@@ -1,33 +1,34 @@
 ---
-title: Enum LayerLockType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType uppräkning. Alternativ för lagerlås
+title: "Enum LayerLockType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType‑enum. Alternativ för lagerlåsning"
 type: docs
-weight: 2580
+weight: 2890
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
+{{< psd/tize >}}
 ## LayerLockType enumeration
 
-Alternativ för lagerlås
+Låsningsalternativ för lager
 
 ```csharp
 [Flags]
 public enum LayerLockType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Inget lagerlås |
-| LockTransparentPixels | `1` | Låsa delvis ett lager - Begränsar redigering till de ogenomskinliga delarna av lagret. Det här alternativet motsvarar alternativet Bevara transparens i tidigare versioner av Photoshop. |
-| LockImagePixels | `2` | Lås delvis ett lager - Förhindrar modifiering av lagrets pixlar med hjälp av målningsverktygen. |
-| LockPosition | `4` | Lås delvis ett lager - Förhindrar att lagrets pixlar flyttas. |
+| None | `0` | Ingen lagerlåsning |
+| LockTransparentPixels | `1` | Delvis lås ett lager - Begränsar redigering till lagerets ogenomskinliga delar. Detta alternativ är motsvarande Preserve Transparency-alternativet i tidigare versioner av Photoshop. |
+| LockImagePixels | `2` | Delvis lås ett lager - Förhindrar ändring av lagrets pixlar med målarverktygen. |
+| LockPosition | `4` | Delvis lås ett lager - Förhindrar att lagrets pixlar flyttas. |
 | LockAll | `7` | Lås alla egenskaper för ett lager |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

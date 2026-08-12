@@ -1,20 +1,21 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Aspose.PSD för .NET API-referens
-description: LayerBlendingRangesData fast egendom. Hämtar eller ställer in de sammansatta blandningsintervallen.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerBlendingRangesData egenskap. Hämtar eller anger de sammansatta blandningsområdena"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-Hämtar eller ställer in de sammansatta blandningsintervallen.
+Hämtar eller anger det sammansatta blandningsintervallet.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De sammansatta blandningsområdena.
 
@@ -22,7 +23,7 @@ De sammansatta blandningsområdena.
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

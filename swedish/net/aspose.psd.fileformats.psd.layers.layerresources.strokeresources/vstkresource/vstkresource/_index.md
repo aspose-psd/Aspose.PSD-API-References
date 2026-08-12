@@ -1,14 +1,15 @@
 ---
-title: VstkResource.VstkResource
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource byggare. Default_Constructor
+title: "VstkResource.VstkResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/vstkresource/
 ---
+{{< psd/tize >}}
 ## VstkResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public VstkResource()
@@ -17,7 +18,7 @@ public VstkResource()
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

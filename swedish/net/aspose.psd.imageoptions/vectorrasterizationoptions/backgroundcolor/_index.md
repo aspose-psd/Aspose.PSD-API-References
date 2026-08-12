@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.BackgroundColor
-second_title: Aspose.PSD för .NET API-referens
-description: VectorRasterizationOptions fast egendom. Hämtar eller ställer in en bakgrundsfärg.
+title: "VectorRasterizationOptions.BackgroundColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorRasterizationOptions-egenskap. Hämtar eller anger en bakgrundsfärg"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BackgroundColor property
 
-Hämtar eller ställer in en bakgrundsfärg.
+Hämtar eller anger en bakgrundsfärg.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -18,7 +19,7 @@ public Color BackgroundColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

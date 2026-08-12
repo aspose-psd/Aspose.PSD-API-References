@@ -1,20 +1,21 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar rubriken.
+title: "AiImage.Header"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar rubriken"
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
-Hämtar rubriken.
+Hämtar huvudet.
 
 ```csharp
 public AiHeader Header { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Rubriken.
 
@@ -22,7 +23,7 @@ Rubriken.
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

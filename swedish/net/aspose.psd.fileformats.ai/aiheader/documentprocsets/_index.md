@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Aspose.PSD för .NET API-referens
-description: AiHeader fast egendom. Hämtar eller ställer in dokumentprocuppsättningarna.
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiHeader egenskap. Hämtar eller anger document proc sets"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-Hämtar eller ställer in dokumentproc-uppsättningarna.
+Hämtar eller anger dokumentets proc-inställningar.
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Dokumentproc set.
+Document proc setsen.
 
 ### Se även
 
 * class [AiHeader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

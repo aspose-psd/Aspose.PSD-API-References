@@ -1,14 +1,15 @@
 ---
-title: LayerHashCalculator.LayerHashCalculator
-second_title: Aspose.PSD för .NET API-referens
-description: LayerHashCalculator byggare. Initierar en ny instans avLayerHashCalculator class.
+title: "LayerHashCalculator.LayerHashCalculator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerHashCalculator konstruktor. Initierar en ny instans av LayerHashCalculator-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator constructor
 
-Initierar en ny instans av[`LayerHashCalculator`](../) class.
+Initierar en ny instans av [`LayerHashCalculator`](../)-klassen.
 
 ```csharp
 public LayerHashCalculator(Layer layer)
@@ -16,21 +17,21 @@ public LayerHashCalculator(Layer layer)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| layer | Layer | Lagret. |
+| lager | Lager | Lagret. |
 
-### Exempel
+## Exempel
 
-Följande kod visar API:et för att få den unika hashen för liknande lager i olika filer.
+Följande kod demonstrerar API:et för att hämta den unika hash‑värdet för liknande lager i olika filer.
 
 ```csharp
 [C#]
 
 /// <summary>
-/// Får namnet på lagret av.
+/// Hämtar lagrets namn av.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Bilden.</param>
-/// <param name="namn">Namnet.</param>
+/// <param name="name">Namnet.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -47,12 +48,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Är det inte lika.
+/// Ares det inte lika.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="expected">Det förväntade.</param>
 /// <param name="actual">Det faktiska.</param>
-/// <exception cref="System.Exception">Argument får inte vara lika</exception>
+/// <exception cref="System.Exception">Argumenten får inte vara lika</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -62,12 +63,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ares lika.
+/// Ares är lika.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="expected">Det förväntade.</param>
 /// <param name="actual">Det faktiska.</param>
-/// <exception cref="System.Exception">Argument måste vara lika</exception>
+/// <exception cref="System.Exception">Argumenten måste vara lika</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -77,9 +78,9 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Regelverkar hashtestet för lagerinnehåll.
+/// Regulars lagrets innehållshash-test.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void RegularLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -99,12 +100,12 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // Dessa lagers hash är lika
+        // Hasharna för dessa lager är lika
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Kontrollera blandningslägets hash 
+        // Kontrollera hashvärdet för blandningsläget
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
@@ -117,9 +118,9 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Fyller hashtestet för lagerinnehåll.
+/// Fyller lagerinnehållets hashtest.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void FillLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -143,7 +144,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Liknande lager finns alltid i ett index
+            // Liknande lager finns alltid i samma index
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -152,9 +153,9 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Smartar objektskiktets innehålls-hashtest.
+/// Smarta objektlagrets innehållshashtest.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -178,23 +179,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Kanaldata är lika för Layer och Createad från dessa smarta objekt.
+        // Kanaldata är lika för lager och Smart Objects som skapats från dem.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Content Hash är annorlunda, eftersom Smart Object använder annan data som innehåll
+        // Innehållshash är olika, eftersom Smart Object använder annan data som innehåll.
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Men att blanda hash är liknande. Båda lagren – smarta och vanliga har Normal Blend-läge och opacitet 255
+        // Men blandningshash är liknande. Båda lager – smarta och vanliga – har normal blandningsläge och opacitet 255.
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Kanaldata är lika för Layer och Createad från dessa smarta objekt.
+        // Kanaldata är lika för lager och Smart Objects som skapats från dem.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Content Hash är annorlunda, eftersom Smart Object använder annan data som innehåll
+        // Innehållshash är olika, eftersom Smart Object använder annan data som innehåll.
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Men att blanda hash är liknande. Båda lagren – smarta och vanliga har Normal Blend-läge och opacitet 255
+        // Men blandningshash är liknande. Båda lager – smarta och vanliga – har normal blandningsläge och opacitet 255.
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -204,9 +205,9 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Justerar lagerinnehållshashtestet.
+/// Justeringar lagerinnehållets hashtest.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -235,7 +236,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(adjustments[i]);
         }
 
-        // Alla hash måste vara olika
+        // Alla hashvärden måste vara olika
         for (int i = 0; i < length; i++)
         {
             for (int j = i + 1; j < length; j++)
@@ -248,9 +249,9 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Textar lagrets innehåll hashtest.
+/// Texter lagerinnehållets hashtest.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void TextLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -292,20 +293,20 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // Transformationsmatris används inte i hashberäkning. Du bör dessutom kontrollera det
+        // Transformationsmatrisen används inte i hashberäkningen. Du bör dessutom kontrollera den.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // I det här fallet har vi en rotation i matris
+        // I detta fall har vi en rotation i matrisen
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // I det här fallet har vi bara översättning (Textlager skiftat nedan)
+        // I detta fall har vi bara en translation (Textlager flyttat nedanför)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Grupperar hashtestet för lagerinnehåll.
+/// Grupper lagerinnehållets hashtest.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void GroupLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -323,16 +324,16 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Group Layer Hash beräknas från lager inuti den
+        // Grupplagerhash beräknas från lagren inuti den.
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Regelar lagerinnehållet från olika filers hashtest.
+/// Vanliga lagerinnehållet från olika filer hashtest.
 /// </summary>
-/// <param name="filnamn">Namn på filen.</param>
+/// <param name="fileName">Filens namn.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
 {
     using (var im = (PsdImage) Image.Load(fileName, new PsdLoadOptions() { ReadOnlyMode = true }))
@@ -354,7 +355,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 // Lager har olika pekare
                 AreNotEqual(layer, layer_copied);
 
-                // Men hash av lager är lika
+                // Men hashvärden för lager är lika.
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -369,7 +370,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 * class [Layer](../../layer/)
 * class [LayerHashCalculator](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

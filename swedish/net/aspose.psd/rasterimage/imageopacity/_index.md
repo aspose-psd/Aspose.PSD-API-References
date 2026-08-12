@@ -1,27 +1,28 @@
 ---
-title: RasterImage.ImageOpacity
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Får opacitet för denna bild.
+title: "RasterImage.ImageOpacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage‑egenskap. Hämtar opaciteten för den här bilden."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/rasterimage/imageopacity/
 ---
+{{< psd/tize >}}
 ## RasterImage.ImageOpacity property
 
-Får opacitet för denna bild.
+Hämtar opaciteten för denna bild.
 
 ```csharp
 public virtual float ImageOpacity { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Opacitetsvärdet mellan 0,0 (helt genomskinligt) och 1,0 (helt ogenomskinligt).
+Opacitetsvärdet mellan 0,0 (helt genomskinlig) och 1,0 (helt ogenomskinlig).
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

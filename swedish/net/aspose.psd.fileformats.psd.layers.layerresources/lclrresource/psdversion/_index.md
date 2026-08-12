@@ -1,11 +1,12 @@
 ---
-title: LclrResource.PsdVersion
-second_title: Aspose.PSD för .NET API-referens
-description: LclrResource fast egendom. Hämtar psdversionen.
+title: "LclrResource.PsdVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LclrResource egenskap. Hämtar psd-versionen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LclrResource.PsdVersion property
 
 Hämtar psd-versionen.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Se även
 
 * class [LclrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

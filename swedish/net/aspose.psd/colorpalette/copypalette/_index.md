@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.CopyPalette
-second_title: Aspose.PSD för .NET API-referens
-description: ColorPalette metod. Kopierar paletten.
+title: "ColorPalette.CopyPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorPalette-metod. Kopierar paletten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/colorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Kopierar paletten.
@@ -21,14 +22,14 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompa
 
 ### Returvärde
 
-Den nyskapade och kopierade paletten eller null om null-paletten passerade.
+Den nyss skapade och kopierade paletten eller null om en null-palette skickas.
 
 ### Se även
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* namnutrymme [Aspose.PSD](../../colorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -46,13 +47,13 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette)
 
 ### Returvärde
 
-Den nyskapade och kopierade paletten eller null om null-paletten passerade.
+Den nyss skapade och kopierade paletten eller null om en null-palette skickas.
 
 ### Se även
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* namnutrymme [Aspose.PSD](../../colorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

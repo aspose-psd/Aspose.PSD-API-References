@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IRasterImagePixelLoader gränssnitt. Rasterbildpixelladdaren.
+title: "Gränssnitt IRasterImagePixelLoader"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IRasterImagePixelLoader-gränssnitt. Rasterbildspixel-laddaren"
 type: docs
-weight: 4570
+weight: 5040
 url: /sv/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
-Rasterbildpixelladdaren.
+Rasterbildens pixel-laddare.
 
 ```csharp
 public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
@@ -16,14 +17,14 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Laddar pixlar delvis (med block). |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Laddar pixlar delvis (i block). |
 
 ### Se även
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

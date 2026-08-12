@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Value
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Hämtar eller ställer in varpvärdet för det placerade lagret i PSDbilden.
+title: "PlacedResource.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar eller anger warp‑värdet för det placerade lagret i PSD‑bilden"
 type: docs
-weight: 200
+weight: 190
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Value property
 
-Hämtar eller ställer in varpvärdet för det placerade lagret i PSD-bilden.
+Hämtar eller anger warp‑värdet för det placerade lagret i PSD‑bilden.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Varpvärdet för det placerade lagret.
+Warp‑värdet för det placerade lagret.
 
 ### Se även
 
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

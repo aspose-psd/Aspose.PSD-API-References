@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Style
-second_title: Aspose.PSD för .NET API-referens
-description: PrintScaleResource fast egendom. Hämtar eller ställer in stilen.
+title: "PrintScaleResource.Style"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PrintScaleResource egenskap. Hämtar eller anger stilen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Style property
 
-Hämtar eller ställer in stilen.
+Hämtar eller anger stilen.
 
 ```csharp
 public short Style { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Stilen.
 
 ### Se även
 
 * class [PrintScaleResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

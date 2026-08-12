@@ -1,14 +1,15 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: Aspose.PSD för .NET API-referens
-description: CmlsResource byggare. Initierar en ny instans avCmlsResource class.
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmlsResource konstruktor. Initierar en ny instans av CmlsResource-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-Initierar en ny instans av[`CmlsResource`](../) class.
+Initierar en ny instans av [`CmlsResource`](../)-klassen.
 
 ```csharp
 public CmlsResource(byte[] data)
@@ -21,7 +22,7 @@ public CmlsResource(byte[] data)
 ### Se även
 
 * class [CmlsResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

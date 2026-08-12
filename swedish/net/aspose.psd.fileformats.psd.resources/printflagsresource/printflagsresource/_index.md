@@ -1,14 +1,15 @@
 ---
-title: PrintFlagsResource.PrintFlagsResource
-second_title: Aspose.PSD för .NET API-referens
-description: PrintFlagsResource byggare. Default_Constructor
+title: "PrintFlagsResource.PrintFlagsResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PrintFlagsResource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/printflagsresource/printflagsresource/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public PrintFlagsResource()
@@ -17,7 +18,7 @@ public PrintFlagsResource()
 ### Se även
 
 * class [PrintFlagsResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

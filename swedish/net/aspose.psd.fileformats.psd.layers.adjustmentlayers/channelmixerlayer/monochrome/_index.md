@@ -1,27 +1,28 @@
 ---
-title: ChannelMixerLayer.Monochrome
-second_title: Aspose.PSD för .NET API-referens
-description: ChannelMixerLayer fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaChannelMixerLayer är monokrom.
+title: "ChannelMixerLayer.Monochrome"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ChannelMixerLayer-egenskap. Hämtar eller anger ett värde som indikerar om denna ChannelMixerLayer är monokrom"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.Monochrome property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`ChannelMixerLayer`](../) är monokrom.
+Hämtar eller anger ett värde som indikerar om denna [`ChannelMixerLayer`](../) är monokrom.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om monokrom; annat,`falsk` .
+`true` om monokrom; annars `false`.
 
 ### Se även
 
 * class [ChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

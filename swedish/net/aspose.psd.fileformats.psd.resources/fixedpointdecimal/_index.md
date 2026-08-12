@@ -1,14 +1,15 @@
 ---
-title: Class FixedPointDecimal
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal klass. Decimal med fast punkt med 16bitars heltal och 16bitars bråk.
+title: "Klass FixedPointDecimal"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal-klass. Fastpunktdecimal med 16‑bit heltal och 16‑bit bråkdel"
 type: docs
-weight: 3700
+weight: 4170
 url: /sv/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-Decimal med fast punkt, med 16-bitars heltal och 16-bitars bråk.
+Fast‑punkt decimal, med 16‑bit heltal och 16‑bit bråkdel.
 
 ```csharp
 public class FixedPointDecimal
@@ -16,28 +17,28 @@ public class FixedPointDecimal
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Initierar en ny instans av`FixedPointDecimal` class. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Initierar en ny instans av`FixedPointDecimal` klass. Dela upp de höga och låga orden i ett 32-bitars heltal i ett nummer med fast punkt. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Initierar en ny instans av`FixedPointDecimal` class. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Initierar en ny instans av klassen `FixedPointDecimal`. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Initierar en ny instans av klassen `FixedPointDecimal`. Delar de högsta och lägsta orden i ett 32-bitars heltal till ett fastpunktstal. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Initierar en ny instans av klassen `FixedPointDecimal`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Hämtar eller ställer in bråket. |
-| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Hämtar eller ställer in heltal. |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Hämtar eller anger bråkdelen. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Hämtar eller anger heltalet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Konverterar nuvarande fixpunktsdecimal till dubbel. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Konverterar aktuell fastpunktdecimal till double. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

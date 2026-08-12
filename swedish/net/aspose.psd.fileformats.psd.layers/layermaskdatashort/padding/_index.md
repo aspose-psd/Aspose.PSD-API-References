@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskDataShort fast egendom. Hämtar eller ställer in lagermaskens utfyllnad.
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskDataShort‑egenskap. Hämtar eller anger lagermaskens utfyllnad."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-Hämtar eller ställer in lagermaskens utfyllnad.
+Hämtar eller anger lagermaskens utfyllnad.
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Utfyllnad av lagermasken.
+Lagermaskens utfyllnad.
 
 ### Se även
 
 * class [LayerMaskDataShort](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.StandardOutputSensitivity
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in standardutgångskänslighet
+title: "ExifData.StandardOutputSensitivity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger standardutgångskänslighet"
 type: docs
 weight: 980
 url: /sv/net/aspose.psd.exif/exifdata/standardoutputsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.StandardOutputSensitivity property
 
-Hämtar eller ställer in standardutgångskänslighet
+Hämtar eller anger standardutgångskänsligheten
 
 ```csharp
 public uint StandardOutputSensitivity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Standardutgångskänsligheten.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

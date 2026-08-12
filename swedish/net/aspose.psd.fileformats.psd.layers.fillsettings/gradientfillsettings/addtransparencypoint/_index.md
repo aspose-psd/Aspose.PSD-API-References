@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: Aspose.PSD för .NET API-referens
-description: GradientFillSettings metod. Lägger till färgpunkten.
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientFillSettings metod. Lägger till färgpunkten"
 type: docs
-weight: 160
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
 Lägger till färgpunkten.
@@ -16,13 +17,13 @@ public GradientTransparencyPoint AddTransparencyPoint()
 
 ### Returvärde
 
-Skapat transparenspunkt
+Skapad transparenspunkt
 
 ### Se även
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

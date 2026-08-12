@@ -1,14 +1,15 @@
 ---
-title: Class XmpException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.XmpException klass. Undantaget som skapas när XMP har ogiltig struktur.
+title: "Klass XmpException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.XmpException-klass. Undantaget som kastas när XMP har ogiltig struktur"
 type: docs
 weight: 690
 url: /sv/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-Undantaget som skapas när XMP har ogiltig struktur.
+Undantaget som kastas när XMP har ogiltig struktur.
 
 ```csharp
 public class XmpException : FrameworkException
@@ -16,16 +17,16 @@ public class XmpException : FrameworkException
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | Initierar en ny instans av`XmpException` class. |
-| [XmpException](xmpexception/#constructor_1)(string) | Initierar en ny instans av`XmpException` class. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | Initierar en ny instans av`XmpException` class. |
+| [XmpException](xmpexception/#constructor)() | Initierar en ny instans av klassen `XmpException`. |
+| [XmpException](xmpexception/#constructor_1)(string) | Initierar en ny instans av klassen `XmpException`. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | Initierar en ny instans av klassen `XmpException`. |
 
 ### Se även
 
 * class [FrameworkException](../frameworkexception/)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

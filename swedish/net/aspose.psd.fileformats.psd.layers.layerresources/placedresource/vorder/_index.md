@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VOrder
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Hämtar eller ställer in Vordningens värde för det placerade lagret i PSDfilen.
+title: "PlacedResource.VOrder"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar eller anger V‑ordningsvärdet för det placerade lagret i PSD‑filen"
 type: docs
-weight: 240
+weight: 230
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VOrder property
 
-Hämtar eller ställer in V-ordningens värde för det placerade lagret i PSD-filen.
+Hämtar eller anger V‑ordningsvärdet för det placerade lagret i PSD‑filen.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-V-ordningens värde för det placerade lagret.
+V‑ordningsvärdet för det placerade lagret.
 
 ### Se även
 
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

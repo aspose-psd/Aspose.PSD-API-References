@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till lagret Kurvorjustering.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Lägger till Curves Adjustment-lagret"
 type: docs
-weight: 330
+weight: 340
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-Lägger till lagret Kurvorjustering.
+Lägger till Kurvor-justeringslagret.
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
@@ -16,13 +17,13 @@ public CurvesLayer AddCurvesAdjustmentLayer()
 
 ### Returvärde
 
-Skapad[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Lager
+Skapade [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) lager
 
 ### Se även
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

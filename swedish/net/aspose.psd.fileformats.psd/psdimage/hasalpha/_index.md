@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in den vertikala upplösningen i pixlar per tum för dettaRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar eller anger den vertikala upplösningen i pixlar per tum för detta RasterImage"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-Hämtar eller ställer in den vertikala upplösningen, i pixlar per tum, för detta[`RasterImage`](../../../aspose.psd/rasterimage/) .
+Hämtar eller anger den vertikala upplösningen, i pixlar per tum, för detta [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har alfa; annat,`falsk` .
+`true` om detta objekt har alfa; annars `false`.
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

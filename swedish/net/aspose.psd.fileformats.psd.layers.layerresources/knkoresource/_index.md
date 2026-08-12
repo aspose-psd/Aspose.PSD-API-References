@@ -1,14 +1,15 @@
 ---
-title: Class KnkoResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource klass. Klass KnkoResource. Denna resurs innehåller information om blandning av klippt element.
+title: "Klass KnkoResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource klass. Klass KnkoResource. Denna resurs innehåller information om blandning av klippta element"
 type: docs
-weight: 2570
+weight: 2880
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource class
 
-Klass KnkoResource. Denna resurs innehåller information om blandning av klippt element.
+Klass KnkoResource. Denna resurs innehåller information om blandning av beskuret element.
 
 ```csharp
 public class KnkoResource : BooleanResource
@@ -16,40 +17,40 @@ public class KnkoResource : BooleanResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [KnkoResource](knkoresource/#constructor)() | Initierar en ny instans av`KnkoResource` class. |
-| [KnkoResource](knkoresource/#constructor_1)(bool) | Initierar en ny instans av`KnkoResource` class. |
-| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Initierar en ny instans av`KnkoResource` class. Med anpassat eller okänt värde |
+| [KnkoResource](knkoresource/#constructor)() | Initierar en ny instans av klassen `KnkoResource`. |
+| [KnkoResource](knkoresource/#constructor_1)(bool) | Initierar en ny instans av klassen `KnkoResource`. |
+| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Initierar en ny instans av klassen `KnkoResource`. Med anpassat eller okänt värde |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Hämtar eller ställer in ett värde som anger om [bland inredningselement]. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Får signaturen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Hämtar eller anger ett värde som indikerar om [blend interior elements]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

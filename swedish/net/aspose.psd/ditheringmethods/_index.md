@@ -1,30 +1,31 @@
 ---
-title: Enum DitheringMethods
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.DitheringMethods uppräkning. Vibreringsmetoderna som används för att kontrollera färgkonvertering.
+title: "Enum DitheringMethods"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.DitheringMethods-enum. Dithermetoderna som används för att styra färgkonvertering"
 type: docs
-weight: 780
+weight: 790
 url: /sv/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
-Vibreringsmetoderna som används för att kontrollera färgkonvertering.
+Dithermetoderna som används för att kontrollera färgkonvertering.
 
 ```csharp
 public enum DitheringMethods
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | PaletteIgnore | `0` | Paletten ignoreras |
-| PaletteConversion | `1` | Paletten ignoreras inte och klok färgkonvertering bör tillämpas. |
-| CustomConverter | `2` | Den anpassade omvandlaren. |
+| PaletteConversion | `1` | Paletten ignoreras inte och en klok färgkonvertering bör tillämpas. |
+| CustomConverter | `2` | Den anpassade konverteraren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

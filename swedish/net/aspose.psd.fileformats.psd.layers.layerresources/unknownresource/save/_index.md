@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: UnknownResource metod. Sparar den angivna strömbehållaren.
+title: "UnknownResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnknownResource metod. Sparar den angivna strömbehållaren"
 type: docs
-weight: 70
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Save method
 
 Sparar den angivna strömbehållaren.
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [UnknownResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

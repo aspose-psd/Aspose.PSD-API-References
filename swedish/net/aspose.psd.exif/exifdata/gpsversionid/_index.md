@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSversionsidentifieraren.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger GPS-versionens identifierare"
 type: docs
 weight: 670
 url: /sv/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
-Hämtar eller ställer in GPS-versionsidentifieraren.
+Hämtar eller anger GPS‑versionsidentifieraren.
 
 ```csharp
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-versionsidentifieraren.
+GPS-versionens identifierare.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

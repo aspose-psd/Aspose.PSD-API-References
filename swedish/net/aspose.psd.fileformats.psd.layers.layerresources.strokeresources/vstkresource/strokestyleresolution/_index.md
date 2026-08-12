@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleResolution
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Får eller ställer in Stroke Styleupplösning.
+title: "VstkResource.StrokeStyleResolution"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar eller anger Stroke-stilupplösning"
 type: docs
-weight: 190
+weight: 170
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleResolution property
 
-Får eller ställer in Stroke Style-upplösning.
+Hämtar eller anger upplösning för stroke‑stilen.
 
 ```csharp
 public double StrokeStyleResolution { get; set; }
@@ -17,7 +18,7 @@ public double StrokeStyleResolution { get; set; }
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

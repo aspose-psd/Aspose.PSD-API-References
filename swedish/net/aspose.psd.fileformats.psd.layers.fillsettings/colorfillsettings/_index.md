@@ -1,11 +1,12 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings klass. Färgfyllningseffektinställningar
+title: "Klass ColorFillSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings-klass. Inställningar för färgfyllningseffekt"
 type: docs
-weight: 1930
+weight: 2040
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
 Färgfyllningseffektinställningar
@@ -14,16 +15,22 @@ Färgfyllningseffektinställningar
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Konstruktörer
+
+| Namn | Beskrivning |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Standardkonstruktorn. |
+
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Hämtar eller ställer in färgen. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Hämtar eller anger färgen. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Fyllningstypen |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för linjeeffektlagret med fyllningstyp - Färg.
+Följande kod demonstrerar stöd för lager med linjeeffekt och fyllningstyp - Color.
 
 ```csharp
 [C#]
@@ -82,7 +89,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

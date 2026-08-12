@@ -1,14 +1,15 @@
 ---
-title: Class DisposableObject
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.DisposableObject klass. Representerar engångsobjekt.
+title: "Klass DisposableObject"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.DisposableObject klass. Representerar ett avyttringbart objekt"
 type: docs
-weight: 750
+weight: 760
 url: /sv/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-Representerar engångsobjekt.
+Representerar ett disponibelt objekt.
 
 ```csharp
 public class DisposableObject : IDisposable
@@ -16,25 +17,25 @@ public class DisposableObject : IDisposable
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DisposableObject](disposableobject/)() | Default_Constructor |
+| [DisposableObject](disposableobject/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Får ett värde som indikerar om denna instans är bortskaffad. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Hämtar ett värde som indikerar om denna instans har frigjorts. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Tar bort den aktuella instansen. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Frigör den aktuella instansen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

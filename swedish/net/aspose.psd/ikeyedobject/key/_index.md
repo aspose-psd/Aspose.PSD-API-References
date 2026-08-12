@@ -1,27 +1,28 @@
 ---
-title: IKeyedObject.Key
-second_title: Aspose.PSD för .NET API-referens
-description: IKeyedObject fast egendom. Hämtar objektnyckeln.
+title: "IKeyedObject.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IKeyedObject-egenskap. Hämtar objektets nyckel"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
-Hämtar objektnyckeln.
+Hämtar objektets nyckel.
 
 ```csharp
 public string Key { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Objektnyckeln.
+Objektets nyckel.
 
 ### Se även
 
 * interface [IKeyedObject](../)
-* namnutrymme [Aspose.PSD](../../ikeyedobject/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

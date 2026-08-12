@@ -1,14 +1,15 @@
 ---
-title: PlacedResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Får den placerade resurssignaturen.
+title: "PlacedResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar den placerade resursens signatur"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Signature property
 
-Får den placerade resurssignaturen.
+Hämtar den placerade resursens signatur.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

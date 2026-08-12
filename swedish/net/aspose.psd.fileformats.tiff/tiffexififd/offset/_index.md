@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD för .NET API-referens
-description: TiffExifIfd fast egendom. Hämtar eller ställer in pekaren till EXIF IFD.
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffExifIfd egenskap. Hämtar eller anger pekaren till EXIF IFD"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-Hämtar eller ställer in pekaren till EXIF IFD.
+Hämtar eller anger pekaren till EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Pekaren till EXIF IFD.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Det finns ingen pekare till EXIF IFD. |
 
 ### Se även
 
 * class [TiffExifIfd](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

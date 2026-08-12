@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Aspose.PSD för .NET API-referens
-description: ProgressEventHandlerInfo fast egendom. Får aktuellt förloppsvärde.
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ProgressEventHandlerInfo egenskap. Hämtar aktuellt förloppsvärde"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
-Får aktuellt förloppsvärde.
+Hämtar aktuellt framstegsvärde.
 
 ```csharp
 public int Value { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Förloppsvärdet.
 
 ### Se även
 
 * class [ProgressEventHandlerInfo](../)
-* namnutrymme [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

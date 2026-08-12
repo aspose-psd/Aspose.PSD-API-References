@@ -1,28 +1,29 @@
 ---
-title: BezierShape.EndPoint
-second_title: Aspose.PSD för .NET API-referens
-description: BezierShape fast egendom. Får slutformpunkten.
+title: "BezierShape.EndPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierShape egenskap. Hämtar den avslutande formpunkten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
-Får slutformpunkten.
+Hämtar den avslutande formpunkten.
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Slutformpunkten.
+Den avslutande formpunkten.
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../beziershape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

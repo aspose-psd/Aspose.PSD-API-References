@@ -1,11 +1,12 @@
 ---
-title: Enum KnownColor
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.KnownColor uppräkning. Anger de kända systemfärgerna.
+title: "Enum KnownColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.KnownColor-enum. Anger de kända systemfärgerna"
 type: docs
-weight: 5040
+weight: 5530
 url: /sv/net/aspose.psd/knowncolor/
 ---
+{{< psd/tize >}}
 ## KnownColor enumeration
 
 Anger de kända systemfärgerna.
@@ -14,9 +15,9 @@ Anger de kända systemfärgerna.
 public enum KnownColor
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Transparent | `27` | En systemdefinierad färg. |
 | AliceBlue | `28` | En systemdefinierad färg. |
@@ -162,7 +163,7 @@ public enum KnownColor
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

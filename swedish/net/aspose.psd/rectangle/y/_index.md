@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Y
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle fast egendom. Hämtar eller ställer in ykoordinaten för det övre vänstra hörnet av dennaRectanglestruktur.
+title: "Rectangle.Y"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle‑egenskap. Hämtar eller anger y‑koordinaten för det övre vänstra hörnet av denna Rectangle‑struktur."
 type: docs
 weight: 210
 url: /sv/net/aspose.psd/rectangle/y/
 ---
+{{< psd/tize >}}
 ## Rectangle.Y property
 
-Hämtar eller ställer in y-koordinaten för det övre vänstra hörnet av denna[`Rectangle`](../)struktur.
+Hämtar eller anger y‑koordinaten för det övre vänstra hörnet av denna [`Rectangle`](../) struktur.
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Y-koordinaten för det övre vänstra hörnet av denna[`Rectangle`](../) strukturera.
+Y‑koordinaten för det övre vänstra hörnet av denna [`Rectangle`](../) struktur.
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

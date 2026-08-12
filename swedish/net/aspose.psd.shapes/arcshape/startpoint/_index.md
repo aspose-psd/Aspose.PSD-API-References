@@ -1,28 +1,29 @@
 ---
-title: ArcShape.StartPoint
-second_title: Aspose.PSD för .NET API-referens
-description: ArcShape fast egendom. Får startpunkten för formen.
+title: "ArcShape.StartPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ArcShape-egenskap. Hämtar startpunkten för formen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.shapes/arcshape/startpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.StartPoint property
 
-Får startpunkten för formen.
+Hämtar den startande formpunkten.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Startpunkten för formen.
+Den startande formpunkten.
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../arcshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

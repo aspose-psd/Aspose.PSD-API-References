@@ -1,14 +1,15 @@
 ---
-title: BezierSegment.BezierSegment
-second_title: Aspose.PSD för .NET API-referens
-description: BezierSegment byggare. Initierar en ny instans avBezierSegment class.
+title: "BezierSegment.BezierSegment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierSegment-konstruktor. Initierar en ny instans av klassen BezierSegment"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.shapesegments/beziersegment/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment constructor
 
-Initierar en ny instans av[`BezierSegment`](../) class.
+Initierar en ny instans av klassen [`BezierSegment`](../).
 
 ```csharp
 public BezierSegment(PointF startPoint, PointF firstControlPoint, PointF secondControlPoint, 
@@ -26,7 +27,7 @@ public BezierSegment(PointF startPoint, PointF firstControlPoint, PointF secondC
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* namnutrymme [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

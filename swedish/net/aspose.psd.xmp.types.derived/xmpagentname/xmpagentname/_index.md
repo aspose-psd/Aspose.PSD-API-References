@@ -1,14 +1,15 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD för .NET API-referens
-description: XmpAgentName byggare. Initierar en ny instans avXmpAgentName class.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpAgentName-konstruktör. Initierar en ny instans av klassen XmpAgentName"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-Initierar en ny instans av[`XmpAgentName`](../) class.
+Initierar en ny instans av klassen [`XmpAgentName`](../).
 
 ```csharp
 public XmpAgentName(string value)
@@ -16,12 +17,12 @@ public XmpAgentName(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | Värdet. |
+| värde | String | Värdet. |
 
 ### Se även
 
 * class [XmpAgentName](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

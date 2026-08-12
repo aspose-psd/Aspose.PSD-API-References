@@ -1,14 +1,15 @@
 ---
-title: WatermarkResource.WatermarkResource
-second_title: Aspose.PSD för .NET API-referens
-description: WatermarkResource byggare. Default_Constructor
+title: "WatermarkResource.WatermarkResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "WatermarkResource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/watermarkresource/watermarkresource/
 ---
+{{< psd/tize >}}
 ## WatermarkResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public WatermarkResource()
@@ -17,7 +18,7 @@ public WatermarkResource()
 ### Se även
 
 * class [WatermarkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

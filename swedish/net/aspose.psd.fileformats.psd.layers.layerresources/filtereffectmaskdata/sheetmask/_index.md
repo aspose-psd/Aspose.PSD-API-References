@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.SheetMask
-second_title: Aspose.PSD för .NET API-referens
-description: FilterEffectMaskData fast egendom. Får arkmasken.
+title: "FilterEffectMaskData.SheetMask"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FilterEffectMaskData egenskap. Hämtar bladmasken"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SheetMask property
 
-Får arkmasken.
+Hämtar bladmasken.
 
 ```csharp
 public ChannelInformation SheetMask { get; }
@@ -18,7 +19,7 @@ public ChannelInformation SheetMask { get; }
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

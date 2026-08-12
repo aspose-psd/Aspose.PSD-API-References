@@ -1,27 +1,28 @@
 ---
-title: BezierKnotRecord.IsLinked
-second_title: Aspose.PSD för .NET API-referens
-description: BezierKnotRecord fast egendom. Hämtar eller ställer in ett värde som anger om denna instans är länkad.
+title: "BezierKnotRecord.IsLinked"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierKnotRecord egenskap. Hämtar eller anger ett värde som indikerar om den här instansen är länkad"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsLinked property
 
-Hämtar eller ställer in ett värde som anger om denna instans är länkad.
+Hämtar eller anger ett värde som indikerar om denna instans är länkad.
 
 ```csharp
 public bool IsLinked { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är länkad; annat,`falsk` .
+`true` om den här instansen är länkad; annars, `false`.
 
 ### Se även
 
 * class [BezierKnotRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

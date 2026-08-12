@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD för .NET API-referens
-description: BlncResource fast egendom. Får eller ställer in Shadows Magenta Green Balance.
+title: "BlncResource.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlncResource egenskap. Hämtar eller anger skuggornas magenta-gröna balans"
 type: docs
-weight: 130
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsMagentaGreenBalance property
 
-Får eller ställer in Shadows Magenta Green Balance.
+Hämtar eller anger Skuggornas Magenta Grön Balans.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-The Shadows Magenta grönbalans.
+Den Shadows Magenta Green Balance.
 
 ### Se även
 
 * class [BlncResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

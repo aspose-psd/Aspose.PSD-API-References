@@ -1,14 +1,15 @@
 ---
-title: IImageCreatorDescriptor.CanCreate
-second_title: Aspose.PSD för .NET API-referens
-description: IImageCreatorDescriptor metod. Bestämmer om bildskaparen kan skapa en ny bild med hjälp avimageOptions .
+title: "IImageCreatorDescriptor.CanCreate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IImageCreatorDescriptor-metod. Avgör om bildskaparen kan skapa en ny bild med hjälp av imageOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/iimagecreatordescriptor/cancreate/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CanCreate method
 
-Bestämmer om bildskaparen kan skapa en ny bild med hjälp av*imageOptions* .
+Bestämmer om bildskaparen kan skapa en ny bild med hjälp av *imageOptions*.
 
 ```csharp
 public bool CanCreate(ImageOptionsBase imageOptions)
@@ -20,13 +21,13 @@ public bool CanCreate(ImageOptionsBase imageOptions)
 
 ### Returvärde
 
-`Sann` om bildskapare skapad av den här beskrivningen kan skapa bilddata med den angivna*imageOptions* ; annat,`falsk` .
+`True` om bildskaparen som skapats av denna beskrivare kan skapa bilddata med de angivna *imageOptions*; annars `false`.
 
 ### Se även
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* namnutrymme [Aspose.PSD](../../iimagecreatordescriptor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

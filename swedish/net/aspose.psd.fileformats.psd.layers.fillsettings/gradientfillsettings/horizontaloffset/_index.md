@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.HorizontalOffset
-second_title: Aspose.PSD för .NET API-referens
-description: GradientFillSettings fast egendom. Hämtar eller ställer in den horisontella offseten i procent.
+title: "GradientFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientFillSettings egenskap. Hämtar eller anger den horisontella förskjutningen i procent."
 type: docs
-weight: 100
+weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.HorizontalOffset property
 
-Hämtar eller ställer in den horisontella offseten i procent.
+Hämtar eller anger den horisontella förskjutningen i procent.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den horisontella offset.
+Den horisontella förskjutningen.
 
 ### Se även
 
 * class [GradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddLevelsAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till nivåjusteringslagret.
+title: "PsdImage.AddLevelsAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Lägger till Levels-justeringslagret"
 type: docs
-weight: 390
+weight: 410
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLevelsAdjustmentLayer method
 
-Lägger till nivåjusteringslagret.
+Lägger till Nivåer-justeringslagret.
 
 ```csharp
 public LevelsLayer AddLevelsAdjustmentLayer()
@@ -16,13 +17,13 @@ public LevelsLayer AddLevelsAdjustmentLayer()
 
 ### Returvärde
 
-Ett nyskapat nivålager
+Ett nyss skapat Levels-lager
 
 ### Se även
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

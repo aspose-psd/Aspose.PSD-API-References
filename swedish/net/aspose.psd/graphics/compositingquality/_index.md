@@ -1,28 +1,29 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Hämtar eller ställer in kompositkvaliteten.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-egenskap. Hämtar eller anger sammansättningskvaliteten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-Hämtar eller ställer in kompositkvaliteten.
+Hämtar eller anger sammansättningskvaliteten.
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kompositkvaliteten.
+Kompositeringskvaliteten.
 
 ### Se även
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

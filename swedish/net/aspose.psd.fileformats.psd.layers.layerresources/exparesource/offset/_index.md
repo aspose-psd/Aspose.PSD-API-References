@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Offset
-second_title: Aspose.PSD för .NET API-referens
-description: ExpaResource fast egendom. Hämtar eller ställer in offset.
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExpaResource egenskap. Hämtar eller anger förskjutningen"
 type: docs
-weight: 60
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
-Hämtar eller ställer in offset.
+Hämtar eller anger förskjutningen.
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Offset.
+Förskjutningen.
 
 ### Se även
 
 * class [ExpaResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.Underline
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Hämtar eller ställer in ett värde som anger om understryka.
+title: "ITextStyle.Underline"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle egenskap. Hämtar eller anger ett värde som indikerar om understrykning"
 type: docs
 weight: 260
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/underline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Underline property
 
-Hämtar eller ställer in ett värde som anger om [understryka].
+Hämtar eller anger ett värde som indikerar om [underline] är aktivt.
 
 ```csharp
 public bool Underline { get; set; }
@@ -17,7 +18,7 @@ public bool Underline { get; set; }
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

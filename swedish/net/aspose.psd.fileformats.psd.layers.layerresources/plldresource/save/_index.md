@@ -1,11 +1,12 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: PlLdResource metod. Sparar PlLDresursen till den angivna strömbehållaren.
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlLdResource metod. Sparar PlLD-resursen till den angivna strömbehållaren"
 type: docs
-weight: 50
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
 Sparar PlLD-resursen till den angivna strömbehållaren.
@@ -16,12 +17,12 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Strömbehållaren att spara till. |
+| streamContainer | StreamContainer | Den stream container som ska sparas till. |
 | psdVersion | Int32 | PSD-versionen. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för PlLdResource-resursen.
+Följande kod demonstrerar stödet för PlLdResource-resursen.
 
 ```csharp
 [C#]
@@ -203,12 +204,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Var försiktig med vissa parametrar: bilden kan bli oläslig av Adobe® Photoshop®
+                // Var försiktig med vissa parametrar: bilden kan bli oläsbar i Adobe® Photoshop®.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-                // eller ändra det understrykande smarta objektet till vektortypen
+                // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+                // eller ändra det underliggande smarta objektet till vektortypen
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -228,7 +230,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

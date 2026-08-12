@@ -1,14 +1,15 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Ändrar storleken på bredden proportionellt.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-metod. Ändrar bredden proportionellt. Standardvärdet NearestNeighbourResample används."
 type: docs
-weight: 210
+weight: 220
 url: /sv/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Ändrar storleken på bredden proportionellt.
+Ändrar bredden proportionellt. Standardvärdet NearestNeighbourResample används.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
@@ -21,14 +22,14 @@ public void ResizeWidthProportionally(int newWidth)
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Ändrar storleken på bredden proportionellt.
+Ändrar bredden proportionellt.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -43,14 +44,14 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Ändrar storleken på bredden proportionellt.
+Ändrar bredden proportionellt.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -59,13 +60,13 @@ public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
-| settings | ImageResizeSettings | Inställningarna för storleksändring av bilden. |
+| inställningar | ImageResizeSettings | Inställningarna för bildens storleksändring. |
 
 ### Se även
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

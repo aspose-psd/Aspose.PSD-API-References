@@ -1,20 +1,21 @@
 ---
-title: TypeToolInfoResource.Styles
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in teckensnittsstilar.
+title: "TypeToolInfoResource.Styles"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger teckensnittsstilarna"
 type: docs
-weight: 210
+weight: 180
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Styles property
 
-Hämtar eller ställer in teckensnittsstilar.
+Hämtar eller anger typsnittsstilarna.
 
 ```csharp
 public TypeToolStyleInfo[] Styles { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Teckensnittsstilarna.
 
@@ -22,7 +23,7 @@ Teckensnittsstilarna.
 
 * class [TypeToolStyleInfo](../../typetoolstyleinfo/)
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

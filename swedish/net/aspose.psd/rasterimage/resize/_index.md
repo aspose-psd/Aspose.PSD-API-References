@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Resize
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Ändrar storlek på bilden.
+title: "RasterImage.Resize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Ändrar storlek på bilden"
 type: docs
-weight: 470
+weight: 480
 url: /sv/net/aspose.psd/rasterimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,20 +19,20 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| resizeType | ResizeType | Ändra storlek. |
+| resizeType | ResizeType | Storleksändringstypen. |
 
 ### Se även
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-Ändrar storleken på bilden med utökade alternativ.
+Ändrar storlek på bilden med utökade alternativ.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
@@ -41,13 +42,13 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| settings | ImageResizeSettings | Ändra storleksinställningar. |
+| inställningar | ImageResizeSettings | Inställningarna för storleksändring. |
 
 ### Se även
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ColorantBase.Mode
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantBase fast egendom. BlirColorMode .
+title: "ColorantBase.Mode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantBase egenskap. Hämtar ColorMode"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantbase/mode/
 ---
+{{< psd/tize >}}
 ## ColorantBase.Mode property
 
-Blir[`ColorMode`](../../colormode/) .
+Hämtar [`ColorMode`](../../colormode/).
 
 ```csharp
 public ColorMode Mode { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgläget.
 
@@ -22,7 +23,7 @@ Färgläget.
 
 * enum [ColorMode](../../colormode/)
 * class [ColorantBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

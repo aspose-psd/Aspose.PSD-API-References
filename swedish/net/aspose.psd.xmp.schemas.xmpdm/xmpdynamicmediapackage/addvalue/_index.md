@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.AddValue
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Lägger till strängegenskap.
+title: "XmpDynamicMediaPackage.AddValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage metod. Lägger till string-egenskap"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.AddValue method
 
 Lägger till strängegenskap.
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Strängrepresentationen av nyckel som identifieras med mervärde. |
-| value | String | Strängvärdet. |
+| nyckel | String | Strängrepresentationen av nyckeln som identifieras med tillagt värde. |
+| värde | String | Strängvärdet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | key;DynamicMedia-egenskapen kunde inte vara null |
+| ArgumentNullException | key;DynamicMedia-egenskapen får inte vara null |
 
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.UseGlobalLight
-second_title: Aspose.PSD för .NET API-referens
-description: IShadowEffect fast egendom. Hämtar eller ställer in ett värde som anger om använd denna vinkel i alla lagereffekter.
+title: "IShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IShadowEffect-egenskap. Hämtar eller anger ett värde som indikerar om denna vinkel ska användas i alla lager-effekter"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.UseGlobalLight property
 
-Hämtar eller ställer in ett värde som anger om [använd denna vinkel i alla lagereffekter].
+Hämtar eller anger ett värde som indikerar om [använd denna vinkel i alla lager-effekter].
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om [använd globalt ljus]; annat,`falsk` .
+`true` om [use global light]; annars, `false`.
 
 ### Se även
 
 * interface [IShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

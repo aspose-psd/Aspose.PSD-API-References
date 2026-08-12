@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Opacity
-second_title: Aspose.PSD för .NET API-referens
-description: InnerShadowEffect fast egendom. Hämtar eller ställer in opaciteten.
+title: "InnerShadowEffect.Opacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InnerShadowEffect egenskap. Hämtar eller anger opaciteten"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Opacity property
 
-Hämtar eller ställer in opaciteten.
+Hämtar eller anger opaciteten.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Opaciteten.
 
 ### Se även
 
 * class [InnerShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

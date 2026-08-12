@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Convert
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Konverterar detta bildformat till det som anges i alternativen.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage‑metod. Konverterar detta bildformat till det som anges i alternativ"
 type: docs
-weight: 500
+weight: 560
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Konverterar detta bildformat till det som anges i alternativen.
+Konverterar detta bildformat till det som anges i alternativ.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
@@ -18,9 +19,9 @@ public void Convert(PsdOptions newOptions)
 | --- | --- | --- |
 | newOptions | PsdOptions | De nya alternativen. |
 
-### Exempel
+## Exempel
 
-Dessa exempel visar konvertering av PSD-bildformatet till andra färglägen/Bitdjup.
+Dessa exempel demonstrerar konvertering av PSD‑bildformatet till andra färglägen/bitdjup.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Dessa exempel visar konvertering av PSD-bildformatet till andra färglägen/Bitd
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Dessa exempel visar konvertering av PSD-bildformatet till andra färglägen/BitDepth.
+// Dessa exempel demonstrerar konvertering av PSD‑bildformatet till andra färglägen/bitdjup.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// Sparar till PSD laddar sedan den sparade filen och sparar till PNG.
+// Sparar till PSD, laddar sedan den sparade filen och sparar till PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -116,7 +117,7 @@ void SaveToPsdThenLoadAndSaveToPng(
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

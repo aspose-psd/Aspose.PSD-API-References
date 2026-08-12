@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.A
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantLab fast egendom. Hämtar eller ställer in Akomponenten.
+title: "ColorantLab.A"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantLab-egenskap. Hämtar eller anger A-komponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
-Hämtar eller ställer in A-komponenten.
+Hämtar eller anger A-komponenten.
 
 ```csharp
 public int A { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 A-komponenten.
 
 ### Se även
 
 * class [ColorantLab](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

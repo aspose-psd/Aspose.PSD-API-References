@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Lägger till strängegenskap.
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Lägger till en strängegenskap"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
 Lägger till strängegenskap.
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Strängrepresentationen av nyckel som identifieras med mervärde. |
-| value | String | Strängvärdet. |
+| nyckel | String | Strängrepresentationen av nyckeln som identifieras med tillagt värde. |
+| värde | String | Strängvärdet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | key;Photoshop-egenskapen kunde inte vara null |
+| ArgumentNullException | key;Photoshop-egenskap får inte vara null |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

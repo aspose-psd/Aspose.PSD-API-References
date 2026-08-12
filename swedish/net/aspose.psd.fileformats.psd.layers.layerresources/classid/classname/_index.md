@@ -1,27 +1,28 @@
 ---
-title: ClassID.ClassName
-second_title: Aspose.PSD för .NET API-referens
-description: ClassID fast egendom. Hämtar klassnamnet som ASCIIkodning.
+title: "ClassID.ClassName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ClassID egenskap. Hämtar klassnamnet som ASCII-kodning"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
+{{< psd/tize >}}
 ## ClassID.ClassName property
 
-Hämtar klassnamnet som ASCII-kodning.
+Hämtar klassnamnet som ASCII‑kodning.
 
 ```csharp
 public string ClassName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Klassens namn.
+Klassnamnet.
 
 ### Se även
 
 * class [ClassID](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

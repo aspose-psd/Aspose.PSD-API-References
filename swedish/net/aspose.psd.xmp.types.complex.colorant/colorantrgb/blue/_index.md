@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Blue
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantRgb fast egendom. Hämtar eller ställer in det blå komponentvärdet.
+title: "ColorantRgb.Blue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantRgb egenskap. Hämtar eller anger värdet för den blå komponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
-Hämtar eller ställer in det blå komponentvärdet.
+Hämtar eller anger blå-komponentvärdet.
 
 ```csharp
 public byte Blue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det blå komponentvärdet.
+Värdet för den blå komponenten.
 
 ### Se även
 
 * class [ColorantRgb](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

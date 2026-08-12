@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Texts
-second_title: Aspose.PSD för .NET API-referens
-description: UrlListResource fast egendom. Hämtar eller ställer in texterna.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UrlListResource-egenskap. Hämtar eller anger texterna"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
-Hämtar eller ställer in texterna.
+Hämtar eller anger texter.
 
 ```csharp
 public string[] Texts { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Texterna.
 
 ### Se även
 
 * class [UrlListResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

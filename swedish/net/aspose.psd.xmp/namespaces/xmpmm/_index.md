@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpMm
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. XMP digital tillgångshantering namnutrymme.
+title: "Namespaces.XmpMm"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnrymdsfält. XMP digital asset management namnrymd"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.xmp/namespaces/xmpmm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpMm field
 
-XMP digital tillgångshantering namnutrymme.
+XMP digital asset management namnrymd.
 
 ```csharp
 public const string XmpMm;
@@ -17,7 +18,7 @@ public const string XmpMm;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

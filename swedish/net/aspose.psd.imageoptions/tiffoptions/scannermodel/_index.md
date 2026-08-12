@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in skannermodellen.
+title: "TiffOptions.ScannerModel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger skannermodellen"
 type: docs
-weight: 420
+weight: 430
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/scannermodel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerModel property
 
-Hämtar eller ställer in skannermodellen.
+Hämtar eller anger skannermodellen.
 
 ```csharp
 public string ScannerModel { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skannermodellen.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

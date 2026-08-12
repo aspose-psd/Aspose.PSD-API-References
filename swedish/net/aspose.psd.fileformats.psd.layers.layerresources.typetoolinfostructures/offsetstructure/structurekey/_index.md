@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.StructureKey
-second_title: Aspose.PSD för .NET API-referens
-description: OffsetStructure fält. Identifierar strukturnyckeln.
+title: "OffsetStructure.StructureKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OffsetStructure fält. Identifierar strukturnyckeln"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.StructureKey field
 
 Identifierar strukturnyckeln.
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Se även
 
 * class [OffsetStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

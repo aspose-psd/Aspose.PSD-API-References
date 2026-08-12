@@ -1,14 +1,15 @@
 ---
-title: LspfResource.LspfResource
-second_title: Aspose.PSD för .NET API-referens
-description: LspfResource byggare. Initierar en ny instans avLspfResource class. Med anpassat eller okänt värde
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LspfResource-konstruktor. Initierar en ny instans av LspfResource-klassen. Med anpassat eller okänt värde"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-Initierar en ny instans av[`LspfResource`](../) class. Med anpassat eller okänt värde
+Initierar en ny instans av [`LspfResource`](../)-klassen. Med anpassat eller okänt värde
 
 ```csharp
 public LspfResource(byte[] data)
@@ -20,21 +21,21 @@ public LspfResource(byte[] data)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltig Lspf-resursdatalängd |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltig Lspf Resource-datalängd |
 
 ### Se även
 
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-Initierar en ny instans av[`LspfResource`](../) class.
+Initierar en ny instans av [`LspfResource`](../)-klassen.
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
@@ -43,21 +44,21 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | om inställt på`Sann` [är insynsskyddad]. |
-| isCompositeProtected | Boolean | om inställt på`Sann` [är sammansatt skyddad]. |
-| isPositionProtected | Boolean | om inställt på`Sann` [är positionsskyddad]. |
+| isTransparencyProtected | Boolean | om satt till `true` [är transparensskyddad]. |
+| isCompositeProtected | Boolean | om satt till `true` [är kompositskyddad]. |
+| isPositionProtected | Boolean | om satt till `true` [är positionsskyddad]. |
 
 ### Se även
 
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-Initierar en ny instans av[`LspfResource`](../) class.
+Initierar en ny instans av [`LspfResource`](../)-klassen.
 
 ```csharp
 public LspfResource()
@@ -66,7 +67,7 @@ public LspfResource()
 ### Se även
 
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD för .NET API-referens
-description: PdfPackage metod. Ställer in fångade.
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfPackage-metod. Anger trapped."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Ställer in fångade.
+Ställer in trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
@@ -16,12 +17,12 @@ public void SetTrapped(bool isTrapped)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| isTrapped | Boolean | om inställt på`Sann` dokumentet har fastnat. |
+| isTrapped | Boolean | om den är satt till `true` har dokumentet blivit trapped. |
 
 ### Se även
 
 * class [PdfPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class OuterGlowEffect
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect klass. Effekt av yttre glödskikt
+title: "Klass OuterGlowEffect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect klass. Outer Glow lager‑effekt"
 type: docs
-weight: 2170
+weight: 2370
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect class
 
-Effekt av yttre glödskikt
+Yttre glödlager-effekt
 
 ```csharp
 public class OuterGlowEffect : ILayerEffect
@@ -16,25 +17,31 @@ public class OuterGlowEffect : ILayerEffect
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Får en typ av effekt type |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | Hämtar eller ställer in färgen. |
-| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | Hämtar eller ställer in vinkeln i grader. |
-| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Får eller ställer in AntiAliasing effect |
-| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | Hämtar eller ställer in ett värde som anger om [slår ut]. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är synlig. |
-| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | Får eller ställer in bruset. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | Får eller ställer in bruset. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | Hämtar eller ställer in opaciteten. |
-| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Får eller ställer in bruset. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; } | Hämtar oskärpa värdet i pixlar. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Hämtar eller ställer in intensiteten som en procent. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Hämtar en typ av effekt. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | Hämtar eller anger färgen. |
+| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | Hämtar eller anger vinkeln i grader. |
+| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Hämtar eller anger aktiverad AntiAliasing‑effekt |
+| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | Hämtar eller anger ett värde som indikerar om [knocks out]. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är synlig. |
+| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | Hämtar eller anger brus. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | Hämtar eller anger brus. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | Hämtar eller anger opaciteten. |
+| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Hämtar eller anger brus. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; set; } | Hämtar oskärpevärdet i pixlar. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Hämtar eller anger intensiteten som procent. |
 
-### Exempel
+## Metoder
 
-Följande kod visar OuterGlowEffect-stödet.
+| Namn | Beskrivning |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/geteffectbounds/)(Rectangle, int) | Beräknar och hämtar gränserna för effektpixlar baserat på indata lagrets pixelgränser. |
+
+## Exempel
+
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -58,7 +65,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Se även
 
 * interface [ILayerEffect](../ilayereffect/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

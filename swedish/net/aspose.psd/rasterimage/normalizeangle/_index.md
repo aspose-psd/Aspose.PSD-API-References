@@ -1,14 +1,15 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den skeva skanningen. Denna metod använderGetSkewAngle ochRotate metoder.
+title: "RasterImage.NormalizeAngle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metoden. Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den snedvridna skanningen. Metoden använder GetSkewAngle- och Rotate-metoderna."
 type: docs
-weight: 420
+weight: 430
 url: /sv/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den skeva skanningen. Denna metod använder[`GetSkewAngle`](../getskewangle/) och[`Rotate`](../rotate/) metoder.
+Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den snedvridna skanningen. Metoden använder [`GetSkewAngle`](../getskewangle/) och [`Rotate`](../rotate/) metoder.
 
 ```csharp
 public void NormalizeAngle()
@@ -17,14 +18,14 @@ public void NormalizeAngle()
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den skeva skanningen. Denna metod använder[`GetSkewAngle`](../getskewangle/) och[`Rotate`](../rotate/) metoder.
+Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den snedvridna skanningen. Metoden använder [`GetSkewAngle`](../getskewangle/) och [`Rotate`](../rotate/) metoder.
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
@@ -32,14 +33,14 @@ public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundCo
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| resizeProportionally | Boolean | om inställt på`Sann` du kommer att få din bildstorlek ändrad enligt projicering av roterade rektangel (hörnpunkter) i andra fall som lämnar dimensioner orörda och endast interna bildinnehåll roteras. |
-| backgroundColor | Color | Färg på bakgrunden. |
+| resizeProportionally | Boolean | Om den är satt till `true` kommer bildens storlek att ändras enligt de roterade rektangelns (hörnpunkternas) projektioner; annars lämnas dimensionerna orörda och endast bildens innehåll roteras. |
+| backgroundColor | Färg | Bakgrundens färg. |
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

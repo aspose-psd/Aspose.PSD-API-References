@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: TiffSRational metod. Bestämmer om den angivnaObject är lika med denna instans.
+title: "TiffSRational.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffSRational metod. Avgör om det angivna Object är lika med den här instansen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.tiff/tiffsrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Equals method
 
-Bestämmer om den angivnaObject är lika med denna instans.
+Bestämmer om det angivna objektet är lika med denna instans.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

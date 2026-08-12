@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Gammakorrigering av en bild.
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Gammakorrigering av en bild"
 type: docs
-weight: 460
+weight: 520
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Gamma-korrigering av en bild.
@@ -16,13 +17,13 @@ public override void AdjustGamma(float gamma)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| gamma | Single | Gamma för röda, gröna och blå kanalkoefficienter |
+| gamma | Single | Gamma-koefficient för röd, grön och blå kanaler |
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| gammaRed | Single | Gamma för röd kanalkoefficient |
-| gammaGreen | Single | Gamma för grön kanalkoefficient |
-| gammaBlue | Single | Gamma för blå kanalkoefficient |
+| gammaRed | Single | Gamma-koefficient för röd kanal |
+| gammaGreen | Single | Gamma-koefficient för grön kanal |
+| gammaBlue | Single | Gamma-koefficient för blå kanal |
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

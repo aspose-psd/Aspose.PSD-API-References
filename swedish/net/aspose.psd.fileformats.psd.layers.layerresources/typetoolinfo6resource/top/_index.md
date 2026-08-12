@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Top
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in den översta platsen.
+title: "TypeToolInfo6Resource.Top"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger den övre platsen"
 type: docs
-weight: 140
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Top property
 
-Hämtar eller ställer in den översta platsen.
+Hämtar eller anger den övre platsen.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den översta platsen.
+Den övre platsen.
 
 ### Se även
 
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

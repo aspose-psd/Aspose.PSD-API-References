@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAlblum
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in albumet.
+title: "XmpDynamicMediaPackage.SetAlblum"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage-metoden. Ställer in alblumet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAlblum method
 
 Ställer in albumet.
@@ -21,7 +22,7 @@ public void SetAlblum(string album)
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

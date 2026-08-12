@@ -1,27 +1,28 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD för .NET API-referens
-description: IopaResource fast egendom. Hämtar eller ställer in fyllningsopaciteten.
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IopaResource-egenskap. Hämtar eller anger fyllningsopaciteten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
-Hämtar eller ställer in fyllningsopaciteten.
+Hämtar eller anger fyllnadens opacitet.
 
 ```csharp
 public byte FillOpacity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Fyllningsopaciteten.
 
 ### Se även
 
 * class [IopaResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

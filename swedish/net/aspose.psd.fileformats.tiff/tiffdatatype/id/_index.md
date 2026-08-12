@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.Id
-second_title: Aspose.PSD för .NET API-referens
-description: TiffDataType fast egendom. Får taggid heltalsrepresentation.
+title: "TiffDataType.Id"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffDataType egenskap. Hämtar tagg id:s heltalsrepresentation"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.tiff/tiffdatatype/id/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Id property
 
-Får tagg-id heltalsrepresentation.
+Hämtar heltalsrepresentationen av tagg‑id.
 
 ```csharp
 public ushort Id { get; }
@@ -17,7 +18,7 @@ public ushort Id { get; }
 ### Se även
 
 * class [TiffDataType](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle fast egendom. Hämtar eller ställer in ykoordinaten som är summan avY ochHeight fastighetsvärden av dettaRectanglestruktur.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle-egenskap. Hämtar eller anger y-koordinaten som är summan av Y- och Height-egenskapsvärdena i denna Rectangle-struktur"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-Hämtar eller ställer in y-koordinaten som är summan av[`Y`](../y/) och[`Height`](../height/) fastighetsvärden av detta[`Rectangle`](../)struktur.
+Hämtar eller anger y-koordinaten som är summan av [`Y`](../y/) och [`Height`](../height/) egenskapsvärdena i denna [`Rectangle`](../) struktur.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Y-koordinaten som är summan av[`Y`](../y/) och[`Height`](../height/) av detta[`Rectangle`](../) .
+Y-koordinaten som är summan av [`Y`](../y/) och [`Height`](../height/) för denna [`Rectangle`](../).
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

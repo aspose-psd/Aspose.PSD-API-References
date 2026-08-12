@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings metod. Genererar LFX2resursnoderna.
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings metod. Genererar LFX2-resursnoderna"
 type: docs
-weight: 140
+weight: 160
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
 Genererar LFX2-resursnoderna.
@@ -17,17 +18,17 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pointType | String | Typ av punkt. |
-| color | Color | Färgen. |
-| patternName | String | Namn på mönstret. |
+| pointType | String | Typ av punkten. |
+| färg | Färg | Färgen. |
+| patternName | String | Namnet på mönstret. |
 | identifier | String | Identifieraren. |
 | scale | Double | Skalan. |
-| linked | Boolean | om inställt på`Sann` [länkad]. |
-| offset | PointF | Offset. |
+| linked | Boolean | om satt till `true` [linked]. |
+| offset | PointF | Förskjutningen. |
 
 ### Returvärde
 
-Lista av[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Lista över [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
 ### Se även
 
@@ -35,7 +36,7 @@ Lista av[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerreso
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

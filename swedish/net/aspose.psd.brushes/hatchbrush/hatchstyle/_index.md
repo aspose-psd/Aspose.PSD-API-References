@@ -1,14 +1,15 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Aspose.PSD för .NET API-referens
-description: HatchBrush fast egendom. Hämtar eller ställer in den här borstens lucka.
+title: "HatchBrush.HatchStyle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "HatchBrush egenskap. Hämtar eller anger hatch‑stilen för denna pensel"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
-Hämtar eller ställer in den här borstens lucka.
+Hämtar eller anger korsningsstilen för denna pensel.
 
 ```csharp
 public HatchStyle HatchStyle { get; set; }
@@ -18,7 +19,7 @@ public HatchStyle HatchStyle { get; set; }
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../hatchbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

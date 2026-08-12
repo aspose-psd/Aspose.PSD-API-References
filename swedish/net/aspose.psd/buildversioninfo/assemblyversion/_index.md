@@ -1,14 +1,15 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PSD för .NET API-referens
-description: BuildVersionInfo fält. Monteringsversionen.
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BuildVersionInfo-fält. Assemblerversionen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/buildversioninfo/assemblyversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.AssemblyVersion field
 
-Monteringsversionen.
+Assemblies versionen.
 
 ```csharp
 public static readonly string AssemblyVersion;
@@ -17,7 +18,7 @@ public static readonly string AssemblyVersion;
 ### Se även
 
 * class [BuildVersionInfo](../)
-* namnutrymme [Aspose.PSD](../../buildversioninfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

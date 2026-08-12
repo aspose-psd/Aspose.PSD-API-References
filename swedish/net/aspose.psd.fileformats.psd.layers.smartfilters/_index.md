@@ -1,26 +1,28 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller PSDfilformatenheter som finns i lager.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller PSD-filformatets enheter som finns i lager"
 type: docs
-weight: 310
+weight: 330
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
-Namnutrymmet innehåller PSD-filformatenheter som finns i lager.
+{{< psd/tize >}}
+Namnutrymmet innehåller PSD-filformatentiteter som finns i lager.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [AddNoiseSmartFilter](./addnoisesmartfilter/) | AddNoise smarta filter. |
-| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | GaussianBlur smart filter. |
-| [SmartFilter](./smartfilter/) | Klassen för att bearbeta en baslogik av smarta filter. |
-| [SmartFilters](./smartfilters/) | De smarta filtren för[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) . |
-| [UnknownSmartFilter](./unknownsmartfilter/) | Klassen som innehåller okända smarta filterdata. |
+| [AddNoiseSmartFilter](./addnoisesmartfilter/) | Det AddNoise smartfilter. |
+| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | Det GaussianBlur smartfilter. |
+| [SharpenSmartFilter](./sharpensmartfilter/) | Det Sharpen smartfilter. |
+| [SmartFilter](./smartfilter/) | Klassen för att bearbeta en grundlogik för smarta filter. |
+| [SmartFilters](./smartfilters/) | De smarta filtren för [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/). |
+| [UnknownSmartFilter](./unknownsmartfilter/) | Klassen för att lagra okända smarta filterdata. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [NoiseDistribution](./noisedistribution/) | Fördelningen av brusfilter. |
+| [NoiseDistribution](./noisedistribution/) | Distributionen av brusfilter. |
 
 

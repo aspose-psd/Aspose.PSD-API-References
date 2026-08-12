@@ -1,11 +1,12 @@
 ---
-title: InitialFillRuleRecord.Type
-second_title: Aspose.PSD för .NET API-referens
-description: InitialFillRuleRecord fast egendom. Hämtar typen.
+title: "InitialFillRuleRecord.Type"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InitialFillRuleRecord egenskap. Hämtar typen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord.Type property
 
 Hämtar typen.
@@ -14,7 +15,7 @@ Hämtar typen.
 public override VectorPathType Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Typen.
 
@@ -22,7 +23,7 @@ Typen.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [InitialFillRuleRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

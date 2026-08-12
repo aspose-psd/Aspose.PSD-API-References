@@ -1,14 +1,15 @@
 ---
-title: Pen.RotateTransform
-second_title: Aspose.PSD för .NET API-referens
-description: Pen metod. Roterar den lokala geometriska transformationen med den angivna vinkeln. Denna metod förutsätter rotationen till transformationen.
+title: "Pen.RotateTransform"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-metod. Rotera den lokala geometriska transformationen med den angivna vinkeln. Denna metod lägger rotationen före transformationen"
 type: docs
 weight: 210
 url: /sv/net/aspose.psd/pen/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Roterar den lokala geometriska transformationen med den angivna vinkeln. Denna metod förutsätter rotationen till transformationen.
+Rotera den lokala geometriska transformationen med den angivna vinkeln. Denna metod lägger rotationen först i transformationen.
 
 ```csharp
 public void RotateTransform(float angle)
@@ -16,19 +17,19 @@ public void RotateTransform(float angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln. |
+| vinkel | Single | Rotationsvinkeln. |
 
 ### Se även
 
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Roterar den lokala geometriska transformationen med den angivna vinkeln i angiven ordning.
+Rotera den lokala geometriska transformationen med den angivna vinkeln i den angivna ordningen.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
@@ -36,14 +37,14 @@ public void RotateTransform(float angle, MatrixOrder order)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) som anger om rotationsmatrisen ska läggas till eller föregå. |
+| vinkel | Single | Rotationsvinkeln. |
+| order | MatrixOrder | En [`MatrixOrder`](../../matrixorder/) som anger om rotationsmatrisen ska läggas till eller föregås. |
 
 ### Se även
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Bottom
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeBoundingBox fast egendom. Får eller sätter botten.
+title: "VectorShapeBoundingBox.Bottom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeBoundingBox egenskap. Hämtar eller anger botten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bottom property
 
-Får eller sätter botten.
+Hämtar eller anger botten.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Botten.
 
 ### Se även
 
 * class [VectorShapeBoundingBox](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

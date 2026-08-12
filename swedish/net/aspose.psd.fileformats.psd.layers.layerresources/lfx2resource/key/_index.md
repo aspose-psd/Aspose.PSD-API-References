@@ -1,14 +1,15 @@
 ---
-title: Lfx2Resource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: Lfx2Resource fast egendom. Hämtar lagerresursnyckeln.
+title: "Lfx2Resource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lfx2Resource egenskap. Hämtar lagerresursens nyckel"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [Lfx2Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Aspose.PSD för .NET API-referens
-description: ColorRangeHsl byggare. Initierar en ny instans avColorRangeHsl class.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorRangeHsl konstruktor. Initierar en ny instans av ColorRangeHsl-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-Initierar en ny instans av[`ColorRangeHsl`](../) class.
+Initierar en ny instans av klassen [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl()
@@ -17,14 +18,14 @@ public ColorRangeHsl()
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Initierar en ny instans av[`ColorRangeHsl`](../) class.
+Initierar en ny instans av klassen [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl(byte[] data)
@@ -32,18 +33,18 @@ public ColorRangeHsl(byte[] data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | Färgintervallsdata. |
+| data | Byte[] | Färgområdesdata. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Förväntad längd på " + this.GetType() + " är 14 |
 
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

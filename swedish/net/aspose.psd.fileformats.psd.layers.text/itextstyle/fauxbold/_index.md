@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FauxBold
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Får eller ställer in fetstilt är aktiverat.
+title: "ITextStyle.FauxBold"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle egenskap. Hämtar eller anger om faux bold är aktiverad"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FauxBold property
 
-Får eller ställer in fetstilt är aktiverat.
+Hämtar eller anger om faux bold är aktiverat.
 
 ```csharp
 public bool FauxBold { get; set; }
@@ -17,7 +18,7 @@ public bool FauxBold { get; set; }
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

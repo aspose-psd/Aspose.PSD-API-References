@@ -1,14 +1,15 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect klass. Mönsterlagereffekt
+title: "Klass PatternOverlayEffect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect klass. Mönsterlagringseffekt"
 type: docs
-weight: 2180
+weight: 2380
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-Mönsterlagereffekt
+Mönsterlager-effekt
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
@@ -16,17 +17,23 @@ public class PatternOverlayEffect : ILayerEffect
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Får en typ av effekt type |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är synlig. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Hämtar eller ställer in opaciteten. |
-| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Hämtar eller ställer in inställningarna. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Hämtar en typ av effekt. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är synlig. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Hämtar eller anger opaciteten. |
+| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Hämtar eller anger inställningarna. |
 
-### Exempel
+## Metoder
 
-Följande kod visar stödet för mönsteröverlagringseffekten.
+| Namn | Beskrivning |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Beräknar och hämtar gränserna för effektpixlar baserat på indata lagrets pixelgränser. |
+
+## Exempel
+
+Följande kod demonstrerar stöd för mönsteröverlappningseffekten.
 
 ```csharp
 [C#]
@@ -152,7 +159,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Se även
 
 * interface [ILayerEffect](../ilayereffect/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

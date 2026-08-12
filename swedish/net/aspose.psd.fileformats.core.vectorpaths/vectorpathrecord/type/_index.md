@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecord.Type
-second_title: Aspose.PSD för .NET API-referens
-description: VectorPathRecord fast egendom. Hämtar typen.
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorPathRecord egenskap. Hämtar typen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
 Hämtar typen.
@@ -14,15 +15,15 @@ Hämtar typen.
 public abstract VectorPathType Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Vector Path Type.
+Vektorvägstypen.
 
 ### Se även
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Aspose.PSD för .NET API-referens
-description: BlendingOptions metod. Lägger till den yttre glödeffekten.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlendingOptions-metod. Lägger till den yttre glödeffekten"
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
-Lägger till den yttre glödeffekten.
+Lägger till yttre glödeffekten.
 
 ```csharp
 public OuterGlowEffect AddOuterGlow()
@@ -16,11 +17,11 @@ public OuterGlowEffect AddOuterGlow()
 
 ### Returvärde
 
-Skapad[`OuterGlowEffect`](../../outergloweffect/) objekt
+Skapade [`OuterGlowEffect`](../../outergloweffect/) objekt
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

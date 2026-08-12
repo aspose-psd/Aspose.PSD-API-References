@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.CompId
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in ID för den för närvarande valda komp för det underordnade dokumentet vilket kommer att vara 1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med hjälp av lagersammansättningar kan du skapa hantera och visa flera versioner av en layout i en enda Adobe Photoshopfil. En lagerkomp är en ögonblicksbild av ett tillstånd på panelen Lager. Layer Comps sparar tre typer av lageralternativ men den här egenskapen får Layer Compurvalsidentifieraren för det smarta objektlagret i PSDfilen. Layer comps i Smart Objects
+title: "SmartObjectResource.CompId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource‑egenskap. Hämtar eller anger ID‑t för den för närvarande valda comp‑en för underdokumentet, som blir 1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med lager‑comps kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe Photoshop‑fil. En lager‑comp är en ögonblicksbild av ett tillstånd i panelen Lager. Lager‑comps sparar tre typer av lageralternativ men den här egenskapen hämtar identifieraren för lager‑comp‑valet för smartobjektlagret i PSD‑filen. Lager‑comps i Smart Objects"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-Hämtar eller ställer in ID för den för närvarande valda komp för det underordnade dokumentet, vilket kommer att vara -1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med hjälp av lagersammansättningar kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe® Photoshop®-fil. En lagerkomp är en ögonblicksbild av ett tillstånd på panelen Lager. Layer Comps sparar tre typer av lageralternativ men den här egenskapen får Layer Comp-urvalsidentifieraren för det smarta objektlagret i PSD-filen. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Hämtar eller anger ID för den för närvarande valda kompositionen för underdokumentet, vilket blir -1 om ingen är vald. Kompositioner är sammansättningar av en sidlayout som designers kan skapa. Med lagerkompositioner kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe Photoshop‑fil. En lagerkomposition är en ögonblicksbild av ett tillstånd i panelen Lager. Lagerkompositioner sparar tre typer av lageralternativ men den här egenskapen hämtar identifieraren för lagerkompositionsvalet för smartobjektlagret i PSD‑filen. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-ID för den för närvarande valda komp för det underordnade dokumentet i PSD-bilden, vilket kommer att vara -1 om ingen är vald.
+ID‑t för den för närvarande valda comp‑en för underdokumentet i PSD‑bilden, som blir -1 om ingen är vald.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för resurserna SoLEResource, SmartObjectResource och PlacedResource.
+Följande kod demonstrerar stöd för resurserna SoLEResource, SmartObjectResource och PlacedResource.
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Dessa värden ändrar vi inte i resurs
+    // Dessa värden ändrar vi inte i resursen
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -115,14 +116,14 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[28] = resource.OriginalCompId;
 
     // Dessa värden bör också ändras i PlLdResource (med det angivna UniqueId).
-    // och några av dem måste vara i överensstämmelse med det understrukna smarta objektet i LinkDataSource
+    // och några av dem måste stämma överens med det underliggande smarta objektet i LinkDataSource.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1,23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Detta unika ID bör ändras i referenser om några
+    // Detta unika ID bör ändras i referenserna om några finns.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,12 +152,13 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Var försiktig med vissa parametrar: den sparade bilden kan bli oläslig av Adobe® Photoshop®
+    // Var försiktig med vissa parametrar: den sparade bilden kan bli oläsbar för Adobe® Photoshop®.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-    // eller ändra det understrykande smarta objektet till vektortypen
+    // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+    // eller ändra det underliggande smarta objektet till vektortypen
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
     // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -323,12 +325,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Följande kod visar stödet för SoLdResource-resursen.
+Följande kod demonstrerar stödet för SoLdResource‑resursen.
 
 ```csharp
 [C#]
 
-// Det här exemplet visar hur man hämtar eller ställer in dataegenskaperna för smarta objektlager för PSD-filen.
+// Detta exempel visar hur man hämtar eller anger egenskaperna för smartobjekt‑lagerdata i PSD‑filen.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -563,7 +565,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 }
 
                 // Dessa värden bör också ändras i PlLdResource (med det angivna UniqueId).
-                // och några av dem måste vara i överensstämmelse med det understrukna smarta objektet i LinkDataSource
+                // och några av dem måste stämma överens med det underliggande smarta objektet i LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,15 +610,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Detta unika ID bör ändras i referenser om några
+                // Detta unika ID bör ändras i referenserna om några finns.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Var försiktig med vissa parametrar: bilden kan bli oläslig av Adobe® Photoshop®
+                // Var försiktig med vissa parametrar: bilden kan bli oläsbar i Adobe® Photoshop®.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-                // eller ändra det understrykande smarta objektet till vektortypen
+                // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+                // eller ändra det underliggande smarta objektet till vektortypen
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -635,7 +638,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

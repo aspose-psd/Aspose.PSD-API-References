@@ -1,33 +1,34 @@
 ---
-title: Dimensions.Height
-second_title: Aspose.PSD för .NET API-referens
-description: Dimensions fast egendom. Hämtar eller ställer in höjden.
+title: "Dimensions.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Dimensions egenskap. Hämtar eller anger höjden"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
-Hämtar eller ställer in höjden.
+Hämtar eller anger höjden.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Höjden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | värde;Höjden får inte vara mindre än noll |
+| ArgumentOutOfRangeException | värde;Height får inte vara mindre än noll |
 
 ### Se även
 
 * class [Dimensions](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

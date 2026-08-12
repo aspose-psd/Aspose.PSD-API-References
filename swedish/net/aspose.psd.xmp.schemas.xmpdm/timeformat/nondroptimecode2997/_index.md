@@ -1,11 +1,12 @@
 ---
-title: TimeFormat.NonDropTimecode2997
-second_title: Aspose.PSD för .NET API-referens
-description: TimeFormat fast egendom. Hämtar non drop timecode2997.
+title: "TimeFormat.NonDropTimecode2997"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TimeFormat egenskap. Hämtar den icke drop timecode2997"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode2997 property
 
 Hämtar non drop timecode2997.
@@ -14,14 +15,14 @@ Hämtar non drop timecode2997.
 public static TimeFormat NonDropTimecode2997 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-The non drop timecode2997.
+Den icke drop timecode2997.
 
 ### Se även
 
 * class [TimeFormat](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

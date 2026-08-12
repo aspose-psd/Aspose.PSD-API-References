@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får eller ställer in remsoffset.
+title: "TiffOptions.StripOffsets"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger strip-offsetsen"
 type: docs
-weight: 470
+weight: 480
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripOffsets property
 
-Får eller ställer in remsoffset.
+Hämtar eller anger remsaförskjutningarna.
 
 ```csharp
 public uint[] StripOffsets { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Remsan förskjuter.
+Strip-offsetsen.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

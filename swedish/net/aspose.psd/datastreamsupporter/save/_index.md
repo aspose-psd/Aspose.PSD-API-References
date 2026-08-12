@@ -1,14 +1,15 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD för .NET API-referens
-description: DataStreamSupporter metod. Sparar objektets data till den aktuellaDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DataStreamSupporter-metoden. Sparar objektets data till den aktuella DataStreamSupporter"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Sparar objektets data till den aktuella[`DataStreamSupporter`](../) .
+Sparar objektets data till den aktuella [`DataStreamSupporter`](../).
 
 ```csharp
 public virtual void Save()
@@ -17,8 +18,8 @@ public virtual void Save()
 ### Se även
 
 * class [DataStreamSupporter](../)
-* namnutrymme [Aspose.PSD](../../datastreamsupporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,13 +33,13 @@ public virtual void Save(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen att spara objektets data till. |
+| ström | Ström | Strömmen att spara objektets data till. |
 
 ### Se även
 
 * class [DataStreamSupporter](../)
-* namnutrymme [Aspose.PSD](../../datastreamsupporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -52,13 +53,13 @@ public void Save(string filePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | String | Filsökvägen att spara objektets data till. |
+| filePath | String | Filsökvägen för att spara objektets data till. |
 
 ### Se även
 
 * class [DataStreamSupporter](../)
-* namnutrymme [Aspose.PSD](../../datastreamsupporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,13 +73,13 @@ public virtual void Save(string filePath, bool overWrite)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | String | Filsökvägen att spara objektets data till. |
-| overWrite | Boolean | om inställt på`Sann` överskriv filens innehåll, annars kommer append att ske. |
+| filePath | String | Filsökvägen för att spara objektets data till. |
+| overWrite | Boolean | om den är satt till `true` skrivs filens innehåll över, annars läggs till. |
 
 ### Se även
 
 * class [DataStreamSupporter](../)
-* namnutrymme [Aspose.PSD](../../datastreamsupporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

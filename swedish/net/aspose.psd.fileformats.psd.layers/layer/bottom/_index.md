@@ -1,27 +1,28 @@
 ---
-title: Layer.Bottom
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in bottenskiktets position.
+title: "Layer.Bottom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer property. Hämtar eller anger den nedre lagerpositionen"
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
+{{< psd/tize >}}
 ## Layer.Bottom property
 
-Hämtar eller ställer in bottenskiktets position.
+Hämtar eller anger positionen för det nedre lagret.
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det undre lagrets position.
+Den nedre lagerpositionen.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

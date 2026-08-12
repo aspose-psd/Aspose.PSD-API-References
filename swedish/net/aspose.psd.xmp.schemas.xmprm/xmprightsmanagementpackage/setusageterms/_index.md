@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Aspose.PSD för .NET API-referens
-description: XmpRightsManagementPackage metod. Ställer in användningsvillkoren.
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpRightsManagementPackage metod. Sätter användningsvillkoren"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
-Ställer in användningsvillkoren.
+Anger användningsvillkoren.
 
 ```csharp
 public void SetUsageTerms(LangAlt usageTerms)
@@ -20,15 +21,15 @@ public void SetUsageTerms(LangAlt usageTerms)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | användningsvillkor |
+| ArgumentNullException | usageTerms |
 
 ### Se även
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

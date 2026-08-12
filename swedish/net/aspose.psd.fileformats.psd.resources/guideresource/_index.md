@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource klass. Guideresursblocket.
+title: "Klass GuideResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource-klass. Guide-resursblocket"
 type: docs
-weight: 3750
+weight: 4220
 url: /sv/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-Guideresursblocket.
+Guide‑resursblocket.
 
 ```csharp
 public sealed class GuideResource
@@ -16,26 +17,26 @@ public sealed class GuideResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GuideResource](guideresource/)() | Default_Constructor |
+| [GuideResource](guideresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Hämtar eller ställer in guidens riktning. |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Hämtar eller ställer in platsen för guiden i dokumentkoordinaterna. |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Hämtar eller anger guidens riktning. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Hämtar eller anger guidens position i dokumentkoordinater. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Guidens resursblockstorlek. |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Guide-resursblockets storlek. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

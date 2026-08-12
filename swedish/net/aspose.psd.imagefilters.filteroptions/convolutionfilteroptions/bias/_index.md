@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: Aspose.PSD för .NET API-referens
-description: ConvolutionFilterOptions fast egendom. Hämtar eller ställer in bias.
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ConvolutionFilterOptions egenskap. Hämtar eller anger bias"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
-Hämtar eller ställer in bias.
+Hämtar eller anger bias.
 
 ```csharp
 public int Bias { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bias.
+Biasen.
 
 ### Se även
 
 * class [ConvolutionFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

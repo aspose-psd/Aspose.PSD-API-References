@@ -1,20 +1,21 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoFilterLayer fast egendom. Hämtar eller ställer in RGBfärgen för filtret.
+title: "PhotoFilterLayer.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoFilterLayer egenskap. Hämtar eller anger RGB-färgen för filtret"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
-Hämtar eller ställer in RGB-färgen för filtret.
+Hämtar eller anger RGB-färgen för filtret.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
@@ -22,7 +23,7 @@ Färgen.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

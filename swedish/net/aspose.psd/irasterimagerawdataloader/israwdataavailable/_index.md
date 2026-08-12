@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Aspose.PSD för .NET API-referens
-description: IRasterImageRawDataLoader fast egendom. Får ett värde som indikerar om laddning av rådata stöds.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IRasterImageRawDataLoader-egenskapen. Hämtar ett värde som indikerar om laddning av rådata stöds"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-Får ett värde som indikerar om laddning av rådata stöds.
+Hämtar ett värde som indikerar om inläsning av rådata stöds.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om laddning av rådata stöds; annat,`falsk` .
+`true` om laddning av rådata stöds; annars `false`.
 
 ### Se även
 
 * interface [IRasterImageRawDataLoader](../)
-* namnutrymme [Aspose.PSD](../../irasterimagerawdataloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

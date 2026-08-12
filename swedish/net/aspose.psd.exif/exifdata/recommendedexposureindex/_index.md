@@ -1,27 +1,28 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in det rekommenderade exponeringsindexet.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData property. Hämtar eller anger det rekommenderade exponeringsindexet"
 type: docs
 weight: 870
 url: /sv/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
-Hämtar eller ställer in det rekommenderade exponeringsindexet.
+Hämtar eller anger det rekommenderade exponeringsindexet.
 
 ```csharp
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rekommenderat exponeringsindex.
+Det rekommenderade exponeringsindexet.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

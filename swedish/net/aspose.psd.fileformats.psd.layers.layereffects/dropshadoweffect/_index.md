@@ -1,14 +1,15 @@
 ---
-title: Class DropShadowEffect
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect klass. Drop Shadow Layer effekt
+title: "Klass DropShadowEffect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect klass. Drop Shadow lager-effekt"
 type: docs
-weight: 2120
+weight: 2310
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-Drop Shadow Layer effekt
+Skuggkastningslager-effekt
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
@@ -16,29 +17,35 @@ public class DropShadowEffect : IShadowEffect
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | Hämtar eller ställer in vinkeln i grader. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Hämtar eller ställer in färgen. |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Hämtar eller ställer in avståndet i pixlar. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Får en typ av effekt |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är synlig. |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Hämtar eller ställer in ett värde som anger om [slår ut]. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Får eller ställer in bruset. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Hämtar eller ställer in opaciteten. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Hämtar eller ställer in oskärpa värdet i pixlar. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Hämtar eller ställer in intensiteten som en procent. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Hämtar eller ställer in ett värde som anger om [använd denna vinkel i alla lagereffekter]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | Hämtar eller anger vinkeln i grader. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Hämtar eller anger färgen. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Hämtar eller anger avståndet i pixlar. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Hämtar en effekttyp |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är synlig. |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Hämtar eller anger ett värde som indikerar om [knocks out]. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Hämtar eller anger brus. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Hämtar eller anger opaciteten. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Hämtar eller anger oskärpevärdet i pixlar. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Hämtar eller anger intensiteten som procent. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Hämtar eller anger ett värde som indikerar om [använd denna vinkel i alla lager-effekter]. |
 
-### Exempel
+## Metoder
 
-Följande kod visar stöd för egenskapen PsdImage.GlobalAngle för att ändra det globala vinkelvärdet.
+| Namn | Beskrivning |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | Beräknar och hämtar gränserna för effektpixlar baserat på indata lagrets pixelgränser. |
+
+## Exempel
+
+Följande kod demonstrerar stöd för PsdImage.GlobalAngle-egenskapen för att ändra det globala vinkelvärdet.
 
 ```csharp
 [C#]
 
-// När egenskapen DropShadowEffect.UseGlobalLight är 'true' använder DropShadowEffect-objektet vinkelvärdet från egenskapen PsdImage.GlobalAngle.
+// När DropShadowEffect.UseGlobalLight-egenskapen är 'true' använder DropShadowEffect-objektet vinkelvärdet från PsdImage.GlobalAngle-egenskapen.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -47,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-Följande kod visar hur Opacity-egenskapen för DropShadowEffect används.
+Följande kod demonstrerar användning av Opacity‑egenskapen för DropShadowEffect.
 
 ```csharp
 [C#]
@@ -64,11 +71,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Exempel med Opacitet = 20
+    // Exempel med Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Exempel med Opacitet = 200
+    // Exempel med Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -77,7 +84,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Se även
 
 * interface [IShadowEffect](../ishadoweffect/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

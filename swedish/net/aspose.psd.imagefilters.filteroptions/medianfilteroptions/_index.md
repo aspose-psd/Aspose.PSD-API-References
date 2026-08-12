@@ -1,11 +1,12 @@
 ---
-title: Class MedianFilterOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions klass. Medianfilter
+title: "Klass MedianFilterOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions-klass. Medianfilter"
 type: docs
-weight: 4720
+weight: 5190
 url: /sv/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
 Medianfilter
@@ -16,20 +17,20 @@ public class MedianFilterOptions : FilterOptionsBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | Initierar en ny instans av`MedianFilterOptions` class. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | Initierar en ny instans av klassen `MedianFilterOptions`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Hämtar eller ställer in storleken. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Hämtar eller anger storleken. |
 
 ### Se även
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

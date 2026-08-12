@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: Aspose.PSD för .NET API-referens
-description: Jpeg2000Options fast egendom. Hämtar eller ställer in matrisen av kompressionsförhållande. Olika kompressionsförhållanden för på varandra följande lager. Hastigheten som anges för varje kvalitetsnivå är den önskade kompressionsfaktorn. Minskande förhållanden krävs.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Jpeg2000Options-egenskap. Hämtar eller anger Array av komprimeringsförhållanden. Olika komprimeringsförhållanden för på varandra följande lager. Den hastighet som anges för varje kvalitetsnivå är den önskade komprimeringsfaktorn. Minskande förhållanden krävs"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-Hämtar eller ställer in matrisen av kompressionsförhållande. Olika kompressionsförhållanden för på varandra följande lager. Hastigheten som anges för varje kvalitetsnivå är den önskade kompressionsfaktorn. Minskande förhållanden krävs.
+Hämtar eller anger Array av komprimeringsförhållanden. Olika komprimeringsförhållanden för på varandra följande lager. Den hastighet som anges för varje kvalitetsnivå är den önskade komprimeringsfaktorn. Minskande förhållanden krävs.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kompressionsförhållandena.
+Komprimeringsförhållandena.
 
 ### Se även
 
 * class [Jpeg2000Options](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

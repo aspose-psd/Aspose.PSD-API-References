@@ -1,14 +1,15 @@
 ---
-title: Class NonGenericList
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.NonGenericList klass. Icke generisk lista över objekt
+title: "Klass NonGenericList"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.NonGenericList-klass. Icke-generisk lista av objekt"
 type: docs
-weight: 5150
+weight: 5640
 url: /sv/net/aspose.psd/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList class
 
-Icke generisk lista över objekt
+Icke‑generisk lista med objekt.
 
 ```csharp
 public class NonGenericList : IList
@@ -16,38 +17,38 @@ public class NonGenericList : IList
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [NonGenericList](nongenericlist/)(IList) | Initierar en ny instans av`NonGenericList` class. |
+| [NonGenericList](nongenericlist/)(IList) | Initierar en ny instans av klassen `NonGenericList`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericlist/count/) { get; } | Får antalet element som finns iICollection . |
-| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | Får ett värde som indikerar omIList har en fast storlek. |
-| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | Får ett värde som indikerar omIList är skrivskyddad. |
-| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | Får ett värde som indikerar om åtkomst tillICollection är synkroniserad (trådsäker). |
-| [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | Hämtar eller ställer in elementet vid angivet index. |
-| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | Får ett objekt som kan användas för att synkronisera åtkomst tillICollection . |
+| [Count](../../aspose.psd/nongenericlist/count/) { get; } | Hämtar antalet element som finns i ICollection. |
+| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | Hämtar ett värde som indikerar om IList har en fast storlek. |
+| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | Hämtar ett värde som indikerar om IList är skrivskyddad. |
+| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | Hämtar ett värde som indikerar om åtkomst till ICollection är synkroniserad (trådsäker). |
+| [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | Hämtar eller anger elementet på det angivna indexet. |
+| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | Hämtar ett objekt som kan användas för att synkronisera åtkomst till ICollection. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericlist/add/)(object) | Lägger till ett objekt iIList . |
-| [Clear](../../aspose.psd/nongenericlist/clear/)() | Tar bort alla objekt frånIList . |
-| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | Bestämmer omIList innehåller ett specifikt värde. |
-| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | Kopierar elementen iICollection till enArray , med början på en vissArray index. |
-| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | Returnerar en uppräkning som itererar genom en samling. |
-| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | Bestämmer indexet för ett specifikt objekt iIList . |
-| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | Infogar ett objekt iIList vid angivet index. |
-| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | Tar bort den första förekomsten av ett specifikt objekt frånIList . |
-| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | Tar bortIList objekt vid angivet index. |
+| [Add](../../aspose.psd/nongenericlist/add/)(object) | Lägger till ett objekt i IList. |
+| [Clear](../../aspose.psd/nongenericlist/clear/)() | Tar bort alla objekt från IList. |
+| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | Bestämmer om IList innehåller ett specifikt värde. |
+| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | Kopierar elementen i ICollection till en Array, med start vid ett specifikt Array-index. |
+| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | Returnerar en enumerator som itererar genom en samling. |
+| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | Bestämmer indexet för ett specifikt objekt i IList. |
+| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | Infogar ett objekt i IList på det angivna indexet. |
+| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | Tar bort den första förekomsten av ett specifikt objekt från IList. |
+| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | Tar bort IList‑objektet på det angivna indexet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

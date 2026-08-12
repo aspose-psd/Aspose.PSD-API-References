@@ -1,27 +1,28 @@
 ---
-title: AiImage.Width
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar bildens bredd.
+title: "AiImage.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar bildens bredd."
 type: docs
-weight: 120
+weight: 140
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
-Hämtar bildens bredd.
+Hämtar bildbredden.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildens bredd.
+Bildbredden.
 
 ### Se även
 
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

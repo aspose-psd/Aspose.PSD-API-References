@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in en kommentar till bilden som används av Windows Explorer.
+title: "TiffOptions.XPComment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger kommentar på bilden som används av Windows Explorer"
 type: docs
-weight: 600
+weight: 610
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-Hämtar eller ställer in en kommentar till bilden, som används av Windows Explorer.
+Hämtar eller anger kommentar på bilden, som används av Windows Explorer.
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kommentera bilden, som används av Windows Explorer.
+Kommentar om bilden, används av Windows Explorer.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

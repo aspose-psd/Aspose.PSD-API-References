@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadUShort
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader metod. Läs osignerat kortvärde från strömmen.
+title: "TiffStreamReader.ReadUShort"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader metod. Läs ett osignerat kortvärde från strömmen"
 type: docs
 weight: 210
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShort method
 
-Läs osignerat kortvärde från strömmen.
+Läs ett osignerat short‑värde från strömmen.
 
 ```csharp
 public ushort ReadUShort(long position)
@@ -20,12 +21,12 @@ public ushort ReadUShort(long position)
 
 ### Returvärde
 
-Ett kort värde utan tecken.
+Ett osignerat kortvärde.
 
 ### Se även
 
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

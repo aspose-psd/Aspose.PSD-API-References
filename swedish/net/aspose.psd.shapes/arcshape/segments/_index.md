@@ -1,20 +1,21 @@
 ---
-title: ArcShape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: ArcShape fast egendom. Hämtar formsegmenten.
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ArcShape egenskap. Hämtar formens segment"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../arcshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

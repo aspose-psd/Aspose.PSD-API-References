@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in ett värde som anger om detta lager är utskrivet. Gör teckningen i lagret utskrivbar om sant.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection-egenskap. Hämtar eller anger ett värde som indikerar om detta lager är utskrivet. Gör konstverket i lagret utskrivbart om true."
 type: docs
-weight: 80
+weight: 100
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Hämtar eller ställer in ett värde som anger om detta lager är utskrivet. Gör teckningen i lagret utskrivbar om sant.
+Hämtar eller anger ett värde som indikerar om detta lager är utskrivet. Gör konstverket i lagret utskrivbart om sant.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta lager är tryckt; annat,`falsk` .
+`true` om detta lager är utskrivet; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

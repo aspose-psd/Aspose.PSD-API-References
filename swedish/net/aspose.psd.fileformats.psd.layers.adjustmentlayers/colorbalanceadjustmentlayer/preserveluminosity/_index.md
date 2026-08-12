@@ -1,26 +1,27 @@
 ---
-title: ColorBalanceAdjustmentLayer.PreserveLuminosity
-second_title: Aspose.PSD för .NET API-referens
-description: ColorBalanceAdjustmentLayer fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaBlncResource bevarar ljusstyrkan.
+title: "ColorBalanceAdjustmentLayer.PreserveLuminosity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorBalanceAdjustmentLayer-egenskap. Hämtar eller anger ett värde som indikerar om denna BlncResource bevarar luminans"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) bevarar ljusstyrkan.
+Hämtar eller anger ett värde som indikerar om denna [`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) bevarar luminans.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om det bevarar ljusstyrkan; annat,`falsk` .
+`true` om den bevarar luminans; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för ColorBalanceAdjustmentLayer.
+Följande kod demonstrerar stöd för ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Se även
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

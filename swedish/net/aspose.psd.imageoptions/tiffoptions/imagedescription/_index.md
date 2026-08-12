@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in bildbeskrivningen.
+title: "TiffOptions.ImageDescription"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger bildbeskrivningen"
 type: docs
-weight: 190
+weight: 200
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
-Hämtar eller ställer in bildbeskrivningen.
+Hämtar eller anger bildbeskrivning.
 
 ```csharp
 public string ImageDescription { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bildbeskrivningen.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

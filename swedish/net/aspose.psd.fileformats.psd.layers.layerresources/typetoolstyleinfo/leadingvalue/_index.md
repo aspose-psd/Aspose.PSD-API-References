@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolStyleInfo fast egendom. Hämtar eller ställer in det inledande värdet.
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolStyleInfo egenskap. Hämtar eller anger radavståndsvärdet"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-Hämtar eller ställer in det inledande värdet.
+Hämtar eller anger leading-värdet.
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det inledande värdet.
+Radavståndsvärdet.
 
 ### Se även
 
 * class [TypeToolStyleInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

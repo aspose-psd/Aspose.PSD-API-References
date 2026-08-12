@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.Compressed
-second_title: Aspose.PSD för .NET API-referens
-description: AudioSampleType fast egendom. Representerar komprimerat ljudexempel.
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AudioSampleType egenskap. Representerar komprimerat ljudprov"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
-Representerar komprimerat ljudexempel.
+Representerar komprimerat ljudprov.
 
 ```csharp
 public static AudioSampleType Compressed { get; }
@@ -17,7 +18,7 @@ public static AudioSampleType Compressed { get; }
 ### Se även
 
 * class [AudioSampleType](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

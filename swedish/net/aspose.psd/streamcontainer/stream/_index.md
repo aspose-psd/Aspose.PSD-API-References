@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Stream
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer fast egendom. Hämtar dataströmmen.
+title: "StreamContainer.Stream"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer egenskap. Hämtar datastreamen."
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
-Hämtar dataströmmen.
+Hämtar datastreamen.
 
 ```csharp
 public virtual Stream Stream { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Dataströmmen.
+Datastreamen.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.GraphicsPath
-second_title: Aspose.PSD för .NET API-referens
-description: PathGradientBrushBase fast egendom. Får den grafiska vägen som denna pensel byggdes på.
+title: "PathGradientBrushBase.GraphicsPath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathGradientBrushBase‑egenskap. Hämtar grafikvägen som denna pensel byggdes på"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.GraphicsPath property
 
-Får den grafiska vägen som denna pensel byggdes på.
+Hämtar grafikbanan som denna pensel byggdes på.
 
 ```csharp
 public GraphicsPath GraphicsPath { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den grafiska vägen.
+Grafikvägen.
 
 ### Se även
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

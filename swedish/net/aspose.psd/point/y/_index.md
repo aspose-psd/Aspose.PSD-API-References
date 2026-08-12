@@ -1,14 +1,15 @@
 ---
-title: Point.Y
-second_title: Aspose.PSD för .NET API-referens
-description: Point fast egendom. Hämtar eller ställer in ykoordinaten för dettaPoint .
+title: "Point.Y"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-egenskap. Hämtar eller anger y-koordinaten för detta Point"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/point/y/
 ---
+{{< psd/tize >}}
 ## Point.Y property
 
-Hämtar eller ställer in y-koordinaten för detta[`Point`](../) .
+Hämtar eller anger y-koordinaten för detta [`Point`](../).
 
 ```csharp
 public int Y { get; set; }
@@ -17,7 +18,7 @@ public int Y { get; set; }
 ### Se även
 
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

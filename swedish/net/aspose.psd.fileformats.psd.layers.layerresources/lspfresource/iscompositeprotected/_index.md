@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Aspose.PSD för .NET API-referens
-description: LspfResource fast egendom. Hämtar eller ställer in ett värde som anger om denna instans är sammansatt skyddad.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LspfResource egenskap. Hämtar eller anger ett värde som indikerar om den här instansen är sammansatt skyddad"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-Hämtar eller ställer in ett värde som anger om denna instans är sammansatt skyddad.
+Hämtar eller anger ett värde som indikerar om denna instans är sammansatt skyddad.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är sammansatt skyddad; annat,`falsk` .
+`true` om den här instansen är sammansatt skyddad; annars `false`.
 
 ### Se även
 
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

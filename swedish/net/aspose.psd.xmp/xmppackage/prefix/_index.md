@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Prefix
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage fast egendom. Får prefixet.
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-egenskap. Hämtar prefixen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
-Får prefixet.
+Hämtar prefixet.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Prefixet.
 
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

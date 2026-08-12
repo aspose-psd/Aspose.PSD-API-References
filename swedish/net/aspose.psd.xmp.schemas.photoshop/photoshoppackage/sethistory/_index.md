@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetHistory
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Ställer in historiken.
+title: "PhotoshopPackage.SetHistory"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in historiken"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHistory method
 
-Ställer in historiken.
+Anger historiken.
 
 ```csharp
 public void SetHistory(string history)
@@ -16,12 +17,12 @@ public void SetHistory(string history)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| history | String | Historien. |
+| historik | String | Historiken. |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

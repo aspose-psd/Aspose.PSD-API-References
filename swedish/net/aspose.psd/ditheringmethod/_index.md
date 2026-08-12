@@ -1,29 +1,30 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.DitheringMethod uppräkning. Rastreringsmetod.
+title: "Enum DitheringMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.DitheringMethod enum. Dithermetod"
 type: docs
-weight: 770
+weight: 780
 url: /sv/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
-Rastreringsmetod.
+Dithermetod.
 
 ```csharp
 public enum DitheringMethod
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Tröskelvibrering. Enklaste och snabbaste vibrerande algoritm. |
-| FloydSteinbergDithering | `1` | Floyd-Steinberg-ditreringen. En mer komplex rastreringsalgoritm som använder intensitetsvärden för närmaste grannar. |
+| ThresholdDithering | `0` | Tröskel-dithering. Den enklaste och snabbaste dithering-algoritmen. |
+| FloydSteinbergDithering | `1` | Floyd‑Steinberg-dithering. En mer komplex dithering-algoritm som använder närmaste grannars intensitetsvärden. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Aspose.PSD för .NET API-referens
-description: XmpMediaManagementPackage metod. Anger instansid.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpMediaManagementPackage metod. Ställer in instans‑ID"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
-Anger instans-id.
+Ställer in instans-ID.
 
 ```csharp
 public void SetInstanceId(Guid guid)
@@ -21,14 +22,14 @@ public void SetInstanceId(Guid guid)
 ### Se även
 
 * class [XmpMediaManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetInstanceId(string) {#setinstanceid_1}
 
-Anger instans-id.
+Ställer in instans-ID.
 
 ```csharp
 public void SetInstanceId(string guid)
@@ -41,7 +42,7 @@ public void SetInstanceId(string guid)
 ### Se även
 
 * class [XmpMediaManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

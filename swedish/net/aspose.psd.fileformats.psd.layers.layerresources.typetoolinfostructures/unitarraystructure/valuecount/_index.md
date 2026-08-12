@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD för .NET API-referens
-description: UnitArrayStructure fast egendom. Får värderäkningen.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnitArrayStructure-egenskap. Hämtar antalet värden"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-Får värderäkningen.
+Hämtar antalet värden.
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Värderäkningen i enhetsmatrisstrukturen.
+Värdeantalet i enhetsarraystrukturen.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för ObAr- och UnFl-signaturerna.
+Följande kod demonstrerar stödet för ObAr- och UnFl‑signaturerna.
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [UnitArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

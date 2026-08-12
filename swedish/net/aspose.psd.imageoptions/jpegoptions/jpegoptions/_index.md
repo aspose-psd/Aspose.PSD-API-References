@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PSD för .NET API-referens
-description: JpegOptions byggare. Initierar en ny instans avJpegOptions class.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegOptions-konstruktor. Initierar en ny instans av JpegOptions-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-Initierar en ny instans av[`JpegOptions`](../) class.
+Initierar en ny instans av [`JpegOptions`](../)-klassen.
 
 ```csharp
 public JpegOptions()
@@ -17,14 +18,14 @@ public JpegOptions()
 ### Se även
 
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-Initierar en ny instans av[`JpegOptions`](../) class.
+Initierar en ny instans av [`JpegOptions`](../)-klassen.
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
@@ -37,7 +38,7 @@ public JpegOptions(JpegOptions jpegOptions)
 ### Se även
 
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: Aspose.PSD för .NET API-referens
-description: PathGradientBrushBase fast egendom. Hämtar eller ställer in fokuspunkten för gradientnedgången.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathGradientBrushBase‑egenskap. Hämtar eller anger fokuspunkten för gradientens avtagande"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-Hämtar eller ställer in fokuspunkten för gradientnedgången.
+Hämtar eller anger fokuspunkten för gradientens avtagande.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`PointF`](../../../aspose.psd/pointf/) som representerar fokuspunkten för gradientnedgången.
+En [`PointF`](../../../aspose.psd/pointf/) som representerar fokuspunkten för gradientens avtagande.
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

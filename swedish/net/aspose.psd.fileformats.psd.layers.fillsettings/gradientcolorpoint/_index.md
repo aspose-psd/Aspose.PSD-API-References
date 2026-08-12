@@ -1,11 +1,12 @@
 ---
-title: Class GradientColorPoint
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint klass. Gradientfärgpunkten.
+title: "Klass GradientColorPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint klass. Gradientfärgpunkten"
 type: docs
-weight: 1950
+weight: 2060
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
 Gradientfärgpunkten.
@@ -16,23 +17,24 @@ public class GradientColorPoint : IGradientColorPoint
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | Initierar en ny instans av`GradientColorPoint` class. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Initierar en ny instans av`GradientColorPoint` class. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | Initierar en ny instans av klassen `GradientColorPoint`. |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Initierar en ny instans av klassen `GradientColorPoint`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Hämtar eller ställer in punktens placering på gradient. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Hämtar eller ställer in mediangradientpunktens placering. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Hämtar eller ställer in färgen på den råa. |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | Läge för färgen att följa |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Hämtar eller anger punktens position på gradienten. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Hämtar eller anger medianposition för gradientpunkten. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Hämtar eller anger färgen på råvärdet. |
 
 ### Se även
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IImageDescriptor
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IImageDescriptor gränssnitt. Bildbeskrivningen. Innehåller basegenskaper och metoder för alla andra bildbeskrivningstyper.
+title: "Gränssnitt IImageDescriptor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IImageDescriptor-gränssnittet. Bildbeskrivaren. Innehåller grundegenskaper och metoder för alla andra bildbeskrivartyper."
 type: docs
-weight: 4420
+weight: 4890
 url: /sv/net/aspose.psd/iimagedescriptor/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor interface
 
-Bildbeskrivningen. Innehåller basegenskaper och metoder för alla andra bildbeskrivningstyper.
+Bilddeskriptorn. Innehåller grundegenskaper och metoder för alla andra bilddeskriptortyper.
 
 ```csharp
 public interface IImageDescriptor
@@ -16,13 +17,13 @@ public interface IImageDescriptor
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Får det format som stöds. |
+| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Hämtar det stödda formatet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

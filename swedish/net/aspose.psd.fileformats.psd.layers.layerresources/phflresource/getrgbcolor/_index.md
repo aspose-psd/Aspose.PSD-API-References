@@ -1,14 +1,15 @@
 ---
-title: PhflResource.GetRgbColor
-second_title: Aspose.PSD för .NET API-referens
-description: PhflResource metod. Får färgen på RGB.
+title: "PhflResource.GetRgbColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhflResource metod. Hämtar färgen på RGB"
 type: docs
-weight: 60
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.GetRgbColor method
 
-Får färgen på RGB.
+Hämtar färgen för RGB.
 
 ```csharp
 public abstract Color GetRgbColor()
@@ -22,7 +23,7 @@ RGB-färgen
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

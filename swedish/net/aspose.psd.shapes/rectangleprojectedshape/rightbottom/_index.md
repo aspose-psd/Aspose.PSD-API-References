@@ -1,20 +1,21 @@
 ---
-title: RectangleProjectedShape.RightBottom
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleProjectedShape fast egendom. Får den högra nedre rektangelpunkten.
+title: "RectangleProjectedShape.RightBottom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleProjectedShape egenskap. Hämtar den högra nedre rektangelpunkten"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.shapes/rectangleprojectedshape/rightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RightBottom property
 
-Får den högra nedre rektangelpunkten.
+Hämtar den högra nedre rektangelpunkten.
 
 ```csharp
 public PointF RightBottom { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den högra nedre rektangelpunkten.
 
@@ -22,7 +23,7 @@ Den högra nedre rektangelpunkten.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

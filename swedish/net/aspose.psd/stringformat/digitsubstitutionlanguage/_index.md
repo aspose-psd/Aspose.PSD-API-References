@@ -1,31 +1,32 @@
 ---
-title: StringFormat.DigitSubstitutionLanguage
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat fast egendom. Hämtar eller ställer in språket som används när lokala siffror ersätts med västerländska siffror.
+title: "StringFormat.DigitSubstitutionLanguage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat‑egenskap. Hämtar eller anger språket som används när lokala siffror ersätts med västerländska siffror"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd/stringformat/digitsubstitutionlanguage/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionLanguage property
 
-Hämtar eller ställer in språket som används när lokala siffror ersätts med västerländska siffror.
+Hämtar eller anger språket som används när lokala siffror ersätts med västerländska siffror.
 
 ```csharp
 public int DigitSubstitutionLanguage { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En språkidentifierare för National Language Support (NLS) som identifierar språket som kommer att användas när lokala siffror ersätts med västerländska siffror. Du kan passeraLCID egendom hos enCultureInfo objekt som NLS-språkidentifieraren. Anta till exempel att du skapar enCultureInfo objekt genom att skicka strängen "ar-EG" till aCultureInfo constructor. Om du klararLCID egendom av detCultureInfo objekt tillsammans med. Traditional tillStringDigitSubstitute) metod, så kommer arabisk-indiska siffror att ersätta västerländska siffror vid visningstidpunkten.
+Ett National Language Support (NLS) språkidentifierare som identifierar språket som ska användas när lokala siffror ersätts med västerländska siffror. Du kan skicka LCID‑egenskapen för ett CultureInfo‑objekt som NLS‑språkidentifierare. Till exempel, anta att du skapar ett CultureInfo‑objekt genom att skicka strängen \"ar-EG\" till en CultureInfo‑konstruktor. Om du skickar LCID‑egenskapen för det CultureInfo‑objektet tillsammans med den traditionella StringDigitSubstitute‑metoden, kommer arabiskt‑indiska siffror att ersättas med västerländska siffror vid visningstid.
 
-### Anmärkningar
+## Anmärkningar
 
-Settaren introduceras för den föråldrade metoden SetDigitSubstitution.
+Sättaren har införts för den föråldrade metoden SetDigitSubstitution.
 
 ### Se även
 
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

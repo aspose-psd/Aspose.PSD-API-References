@@ -1,20 +1,21 @@
 ---
-title: PieShape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: PieShape fast egendom. Hämtar formsegmenten.
+title: "PieShape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PieShape egenskap. Hämtar formens segment"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.shapes/pieshape/segments/
 ---
+{{< psd/tize >}}
 ## PieShape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PieShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../pieshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

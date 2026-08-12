@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpItems
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in förvrängningsobjekten.
+title: "TypeToolInfo6Resource.WarpItems"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger warp-objekten"
 type: docs
-weight: 200
+weight: 170
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpItems property
 
-Hämtar eller ställer in förvrängningsobjekten.
+Hämtar eller anger warp‑objekten.
 
 ```csharp
 public OSTypeStructure[] WarpItems { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Varpartiklarna.
+Warp-objekten.
 
 ### Se även
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

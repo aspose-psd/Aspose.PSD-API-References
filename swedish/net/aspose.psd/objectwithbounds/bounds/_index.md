@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: ObjectWithBounds fast egendom. Hämtar objektets gränser.
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ObjectWithBounds-egenskap. Hämtar objektets gränser"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
 Hämtar objektets gränser.
@@ -14,7 +15,7 @@ Hämtar objektets gränser.
 public abstract RectangleF Bounds { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets gränser.
 
@@ -22,7 +23,7 @@ Objektets gränser.
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* namnutrymme [Aspose.PSD](../../objectwithbounds/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

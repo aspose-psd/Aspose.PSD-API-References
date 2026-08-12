@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in namnet på dokumentet.
+title: "TiffOptions.DocumentName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger namnet på dokumentet"
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/documentname/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DocumentName property
 
-Hämtar eller ställer in namnet på dokumentet.
+Hämtar eller anger dokumentets namn.
 
 ```csharp
 public string DocumentName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på dokumentet.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

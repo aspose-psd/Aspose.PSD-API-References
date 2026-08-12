@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Hämtar eller ställer in teckensnittet.
+title: "Font.FontFace"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskap. Hämtar eller anger teckensnittets stil"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-Hämtar eller ställer in teckensnittet.
+Hämtar eller anger teckensnittets stil.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Teckensnittet.
+Teckensnittets stil.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

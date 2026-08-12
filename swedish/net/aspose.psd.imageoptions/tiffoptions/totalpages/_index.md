@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får det totala antalet sidor.
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar det totala sidantalet"
 type: docs
-weight: 560
+weight: 570
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
-Får det totala antalet sidor.
+Hämtar det totala antalet sidor.
 
 ```csharp
 public ushort TotalPages { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det totala antalet sidor.
+Det totala sidantalet.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

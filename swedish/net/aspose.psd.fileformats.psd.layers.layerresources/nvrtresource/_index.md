@@ -1,14 +1,15 @@
 ---
-title: Class NvrtResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource klass. Klass NvrtResource. Resurs för Invertera justeringslager.
+title: "Klass NvrtResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource klass. Klass NvrtResource. Resurs för Invert‑justeringslager."
 type: docs
-weight: 2840
+weight: 3180
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource class
 
-Klass NvrtResource. Resurs för Invertera justeringslager.
+Klassen NvrtResource. Resurs för justeringslagret Invert.
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
@@ -16,36 +17,36 @@ public class NvrtResource : AdjustmentLayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [NvrtResource](nvrtresource/#constructor)() | Initierar en ny instans av`NvrtResource` class. |
-| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | Initierar en ny instans av`NvrtResource` class. |
+| [NvrtResource](nvrtresource/#constructor)() | Initierar en ny instans av `NvrtResource`‑klassen. |
+| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | Initierar en ny instans av `NvrtResource`‑klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/) { get; } | Hämtar PSD-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Får signaturen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur man skaffar NvrtResource.
+Följande exempel demonstrerar hur man får NvrtResource.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage fast egendom. Hämtar namnutrymmets URI.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-egenskap. Hämtar namnrymdens URI"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-Hämtar namnutrymmets URI.
+Hämtar namnrymdens URI.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnutrymmets URI.
+Namnutrymmes-URI.
 
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

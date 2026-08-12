@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Hämtar bildrektangeln.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection egenskap. Hämtar bildrektangeln"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 Hämtar bildrektangeln.
@@ -14,7 +15,7 @@ Hämtar bildrektangeln.
 public Rectangle ImageRectangle { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bildrektangeln.
 
@@ -22,7 +23,7 @@ Bildrektangeln.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

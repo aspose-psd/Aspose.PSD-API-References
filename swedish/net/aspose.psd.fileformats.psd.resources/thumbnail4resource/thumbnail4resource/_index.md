@@ -1,14 +1,15 @@
 ---
-title: Thumbnail4Resource.Thumbnail4Resource
-second_title: Aspose.PSD för .NET API-referens
-description: Thumbnail4Resource byggare. Default_Constructor
+title: "Thumbnail4Resource.Thumbnail4Resource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Thumbnail4Resource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/thumbnail4resource/
 ---
+{{< psd/tize >}}
 ## Thumbnail4Resource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public Thumbnail4Resource()
@@ -17,7 +18,7 @@ public Thumbnail4Resource()
 ### Se även
 
 * class [Thumbnail4Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnail4resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

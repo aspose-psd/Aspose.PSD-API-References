@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.StructureCount
-second_title: Aspose.PSD för .NET API-referens
-description: ObjectArrayStructure fast egendom. Hämtar objektmatrisens understrukturräkning.
+title: "ObjectArrayStructure.StructureCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ObjectArrayStructure egenskap. Hämtar antalet delstrukturer i objektarrayet"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureCount property
 
-Hämtar objektmatrisens understrukturräkning.
+Hämtar antalet understrukturer i objektarrayen.
 
 ```csharp
 public int StructureCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antalet understrukturer i strukturen i objektmatrisen.
+Antalet delstrukturer i objektarraystrukturen.
 
 ### Se även
 
 * class [ObjectArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

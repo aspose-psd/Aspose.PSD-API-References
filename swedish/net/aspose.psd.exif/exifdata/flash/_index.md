@@ -1,20 +1,21 @@
 ---
-title: ExifData.Flash
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Får eller ställer in blixten.
+title: "ExifData.Flash"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger blixten"
 type: docs
 weight: 250
 url: /sv/net/aspose.psd.exif/exifdata/flash/
 ---
+{{< psd/tize >}}
 ## ExifData.Flash property
 
-Får eller ställer in blixten.
+Hämtar eller anger blixten.
 
 ```csharp
 public ExifFlash Flash { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blixten.
 
@@ -22,7 +23,7 @@ Blixten.
 
 * enum [ExifFlash](../../../aspose.psd.exif.enums/exifflash/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

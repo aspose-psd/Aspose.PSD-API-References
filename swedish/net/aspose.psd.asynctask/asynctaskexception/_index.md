@@ -1,14 +1,15 @@
 ---
-title: Class AsyncTaskException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.AsyncTask.AsyncTaskException klass. Undantaget för den asynkrona uppgiften.
+title: "Klass AsyncTaskException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.AsyncTask.AsyncTaskException-klass. Undantaget för den asynkrona uppgiften"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
-Undantaget för den asynkrona uppgiften.
+Undantaget för den asynkrona uppgiften
 
 ```csharp
 public class AsyncTaskException : Exception
@@ -16,13 +17,13 @@ public class AsyncTaskException : Exception
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | Initierar en ny instans av`AsyncTaskException` class. |
+| [AsyncTaskException](asynctaskexception/)(string) | Initierar en ny instans av klassen `AsyncTaskException`. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

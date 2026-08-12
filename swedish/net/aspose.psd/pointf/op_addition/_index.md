@@ -1,14 +1,15 @@
 ---
-title: PointF.op_Addition
-second_title: Aspose.PSD för .NET API-referens
-description: PointF metod. Översätter enPointF av en givenSize .
+title: "PointF.op_Addition"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PointF‑metod. Översätter ett PointF med en given Size."
 type: docs
 weight: 110
 url: /sv/net/aspose.psd/pointf/op_addition/
 ---
+{{< psd/tize >}}
 ## operator + {#op_addition}
 
-Översätter en[`PointF`](../) av en given[`Size`](../../size/) .
+Översätter en [`PointF`](../) med en given [`Size`](../../size/).
 
 ```csharp
 public static PointF operator +(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF operator +(PointF point, Size size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../) att översätta. |
-| size | Size | A[`Size`](../../size/) som anger det talpar som ska läggas till koordinaterna för*point*. |
+| point | PointF | Det [`PointF`](../) att översätta. |
+| size | Size | En [`Size`](../../size/) som specificerar paret av tal att lägga till koordinaterna för *point*. |
 
 ### Returvärde
 
-Returnerar det översatta[`PointF`](../).
+Returnerar den översatta [`PointF`](../).
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator + {#op_addition_1}
 
-Översätter[`PointF`](../) av den angivna[`SizeF`](../../sizef/) .
+Översätter [`PointF`](../) med den angivna [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF operator +(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF operator +(PointF point, SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../) att översätta. |
-| size | SizeF | De[`SizeF`](../../sizef/) som anger talen som ska adderas till x- och y-koordinaterna för*point*. |
+| point | PointF | Det [`PointF`](../) att översätta. |
+| size | SizeF | Den [`SizeF`](../../sizef/) som specificerar talen att lägga till x- och y-koordinaterna för *point*. |
 
 ### Returvärde
 
-Den översatta[`PointF`](../).
+Det översatta [`PointF`](../).
 
 ### Se även
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

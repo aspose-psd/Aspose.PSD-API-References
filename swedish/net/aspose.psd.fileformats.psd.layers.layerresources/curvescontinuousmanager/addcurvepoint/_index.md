@@ -1,14 +1,15 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: Aspose.PSD för .NET API-referens
-description: CurvesContinuousManager metod. Lägger till kurvpunkten.
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvesContinuousManager metod. Lägger till kurvans punkt"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
-Lägger till kurvpunkten.
+Lägger till en kurvpunkt.
 
 ```csharp
 public void AddCurvePoint(int channelIndex, byte x, byte y)
@@ -16,20 +17,20 @@ public void AddCurvePoint(int channelIndex, byte x, byte y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| channelIndex | Int32 | Index för kanalen. |
-| x | Byte | x-platsen. |
-| y | Byte | Y-platsen. |
+| channelIndex | Int32 | Kanalens index. |
+| x | Byte | x-positionen. |
+| y | Byte | Y‑positionen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Punkten du försöker lägga till finns redan |
 
 ### Se även
 
 * class [CurvesContinuousManager](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.AntiAliasPolicy
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in antialiaspolicyn för det placerade lagret i PSDbilden.
+title: "IPlacedLayerResource.AntiAliasPolicy"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger anti-alias-policy för det placerade lagret i PSD-bilden"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.AntiAliasPolicy property
 
-Hämtar eller ställer in anti-alias-policyn för det placerade lagret i PSD-bilden.
+Hämtar eller anger anti‑alias‑policyn för det placerade lagret i PSD‑bilden.
 
 ```csharp
 public int AntiAliasPolicy { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antialiaspolicyn för det placerade lagret.
+Anti-alias-policyn för det placerade lagret.
 
 ### Se även
 
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

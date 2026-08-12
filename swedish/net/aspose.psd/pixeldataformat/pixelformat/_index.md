@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat fast egendom. Hämtar pixelformatet.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat-egenskap. Hämtar pixelformatet"
 type: docs
 weight: 340
 url: /sv/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 Hämtar pixelformatet.
@@ -14,7 +15,7 @@ Hämtar pixelformatet.
 public PixelFormat PixelFormat { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Pixelformatet.
 
@@ -22,7 +23,7 @@ Pixelformatet.
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

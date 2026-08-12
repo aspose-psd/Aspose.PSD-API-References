@@ -1,11 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType uppräkning. Typ av färg.
+title: "Enum ColorType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType enum. Typ av färg"
 type: docs
-weight: 6000
+weight: 6500
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
 Typ av färg.
@@ -14,16 +15,16 @@ Typ av färg.
 public enum ColorType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Process | `1` | Processfärgstyp. |
-| Spot | `2` | Fläckfärgstyp. |
+| Process | `1` | Processfärgtyp. |
+| Spot | `2` | Spot-färgtyp. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

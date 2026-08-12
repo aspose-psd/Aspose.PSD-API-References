@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in raderna per remsa.
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller sätter rader per remsa"
 type: docs
-weight: 380
+weight: 390
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-Hämtar eller ställer in raderna per remsa.
+Hämtar eller anger rader per remsa.
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Raderna per remsa.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

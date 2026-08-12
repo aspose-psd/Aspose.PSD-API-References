@@ -1,14 +1,15 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: Aspose.PSD för .NET API-referens
-description: BuildVersionInfo fält. Produktens lanseringsdatum.
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BuildVersionInfo‑fält. Produktens releasedatum"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
-Produktens lanseringsdatum.
+Produktens releasedatum.
 
 ```csharp
 public static readonly DateTime ReleaseDate;
@@ -17,7 +18,7 @@ public static readonly DateTime ReleaseDate;
 ### Se även
 
 * class [BuildVersionInfo](../)
-* namnutrymme [Aspose.PSD](../../buildversioninfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

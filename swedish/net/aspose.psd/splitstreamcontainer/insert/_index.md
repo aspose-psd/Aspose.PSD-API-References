@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Aspose.PSD för .NET API-referens
-description: SplitStreamContainer metod. Infogar strömbehållaren i angiven position.
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SplitStreamContainer-metod. Infogar strömkontainern på angiven position"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
-Infogar strömbehållaren i angiven position.
+Infogar stream container på den angivna positionen.
 
 ```csharp
 public void Insert(int position, StreamContainer stream, bool disposeStream)
@@ -16,13 +17,13 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| position | Int32 | Positionen att infoga till. |
-| stream | StreamContainer | Strömbehållaren att infoga. |
-| disposeStream | Boolean | om inställt på`Sann` avyttrar ström. |
+| position | Int32 | Positionen att infoga på. |
+| ström | StreamContainer | Strömbehållaren att infoga. |
+| disposeStream | Boolean | om den är satt till `true` avslutar strömmen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
@@ -30,7 +31,7 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../splitstreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

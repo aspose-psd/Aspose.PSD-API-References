@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingLeft
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskDataFull fast egendom. Hämtar eller ställer in den omslutande vänstra rastermaskpositionen i PSDfillagret.
+title: "LayerMaskDataFull.EnclosingLeft"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskDataFull-egenskap. Hämtar eller anger den vänstra rastermaskens omslutande position i PSD-filens lager"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingLeft property
 
-Hämtar eller ställer in den omslutande vänstra rastermaskpositionen i PSD-fillagret.
+Hämtar eller anger den omgivande vänstra rastermaskens position i PSD‑fillagret.
 
 ```csharp
 public int EnclosingLeft { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Vänster lagermaskposition.
+Den vänstra lagermaskens position.
 
 ### Se även
 
 * class [LayerMaskDataFull](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

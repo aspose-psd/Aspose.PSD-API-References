@@ -1,28 +1,29 @@
 ---
-title: ExifData.Gamma
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in gamma.
+title: "ExifData.Gamma"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger gamma"
 type: docs
 weight: 350
 url: /sv/net/aspose.psd.exif/exifdata/gamma/
 ---
+{{< psd/tize >}}
 ## ExifData.Gamma property
 
-Hämtar eller ställer in gamma.
+Hämtar eller anger gamma.
 
 ```csharp
 public TiffRational Gamma { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Gammavärdet.
+Gamma-värdet.
 
 ### Se även
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

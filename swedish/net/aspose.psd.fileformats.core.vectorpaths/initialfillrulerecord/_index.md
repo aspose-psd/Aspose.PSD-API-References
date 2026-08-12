@@ -1,11 +1,12 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord klass. Initial Fill Rule Record Class
+title: "Klass InitialFillRuleRecord"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord klass. Initial fyllnadsregelpostklass"
 type: docs
-weight: 1360
+weight: 1370
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
 Initial Fill Rule Record Class
@@ -16,23 +17,23 @@ public class InitialFillRuleRecord : VectorPathRecord
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Initierar en ny instans av`InitialFillRuleRecord` class. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Initierar en ny instans av`InitialFillRuleRecord` class. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Initierar en ny instans av`InitialFillRuleRecord` class. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Initierar en ny instans av klassen `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Initierar en ny instans av klassen `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Initierar en ny instans av klassen `InitialFillRuleRecord`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | Hämtar eller ställer in ett värde som anger om fyllningen börjar med alla pixlar. |
+| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | Hämtar eller anger ett värde som indikerar om fyllning startar med alla pixlar. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/) { get; } | Hämtar typen. |
 
 ### Se även
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

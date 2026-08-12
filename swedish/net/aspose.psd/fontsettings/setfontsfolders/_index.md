@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Ställer in mapparna där TrueTypeteckensnitt laddas från och rensar alla inlästa teckensnitt. Det görs inga kontroller av typsnittsmapparna.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metod. Anger mapparna där TrueType-teckensnitt laddas från och rensar alla laddade teckensnitt. Det utförs inga kontroller på teckensnittsmapparna."
 type: docs
-weight: 130
+weight: 150
 url: /sv/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-Ställer in mapparna där TrueType-teckensnitt laddas från och rensar alla inlästa teckensnitt. Det görs inga kontroller av typsnittsmapparna.
+Ställer in katalogerna där TrueType-teckensnitt laddas från och rensar alla laddade teckensnitt. Det utförs inga kontroller på teckensnittskatalogerna.
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
@@ -17,12 +18,12 @@ public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | fontsFolders | String[] | Teckensnittsmapparna. |
-| recursive | Boolean | om inställt på`Sann` [rekursiv]. |
+| recursive | Boolean | om inställt på `true` [rekursivt]. |
 
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

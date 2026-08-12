@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Type
-second_title: Aspose.PSD för .NET API-referens
-description: ClipboardRecord fast egendom. Hämtar typen.
+title: "ClipboardRecord.Type"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ClipboardRecord egenskap. Hämtar typen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Type property
 
 Hämtar typen.
@@ -14,7 +15,7 @@ Hämtar typen.
 public override VectorPathType Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Typen.
 
@@ -22,7 +23,7 @@ Typen.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [ClipboardRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

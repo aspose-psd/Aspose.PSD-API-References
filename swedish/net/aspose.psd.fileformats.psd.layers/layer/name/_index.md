@@ -1,27 +1,28 @@
 ---
-title: Layer.Name
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in lagernamnet.
+title: "Layer.Name"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lagrets egenskap. Hämtar eller anger lagrets namn"
 type: docs
-weight: 260
+weight: 270
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
-Hämtar eller ställer in lagernamnet.
+Hämtar eller anger lagrets namn.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Lagrets namn.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeOriginal
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in datum och tid original.
+title: "ExifData.DateTimeOriginal"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger det ursprungliga datum‑ och tidsvärdet"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.exif/exifdata/datetimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeOriginal property
 
-Hämtar eller ställer in datum och tid original.
+Hämtar eller anger originalets datum/tid.
 
 ```csharp
 public string DateTimeOriginal { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Datum och tid original.
+Det ursprungliga datum‑ och tidsvärdet.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: Aspose.PSD för .NET API-referens
-description: SmartResourceCreator byggare. Initierar en ny instans avSmartResourceCreator class.
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartResourceCreator-konstruktor. Initierar en ny instans av klassen SmartResourceCreator"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-Initierar en ny instans av[`SmartResourceCreator`](../) class.
+Initierar en ny instans av klassen [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator()
@@ -17,14 +18,14 @@ public SmartResourceCreator()
 ### Se även
 
 * class [SmartResourceCreator](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-Initierar en ny instans av[`SmartResourceCreator`](../) class.
+Initierar en ny instans av klassen [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
@@ -32,20 +33,20 @@ public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| isCustom | Boolean | om inställt på`Sann` [är anpassad]. |
-| hasCompInfo | Boolean | om inställt på`Sann` [har kompinformation]. |
+| isCustom | Boolean | om inställt på `true` [är anpassad]. |
+| hasCompInfo | Boolean | om inställt på `true` [har komponentinformation]. |
 
 ### Se även
 
 * class [SmartResourceCreator](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-Initierar en ny instans av[`SmartResourceCreator`](../) class med den givna mallen.
+Initierar en ny instans av klassen [`SmartResourceCreator`](../) med den angivna mallen.
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
@@ -53,13 +54,13 @@ public SmartResourceCreator(PlacedResource template)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| template | PlacedResource | Den smarta objektresursmallen. |
+| mall | PlacedResource | Den smarta objektresursmallen. |
 
 ### Se även
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

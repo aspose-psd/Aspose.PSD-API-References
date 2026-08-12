@@ -1,14 +1,15 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.PSD för .NET API-referens
-description: PdfDocumentInfo fast egendom. Hämtar eller ställer in författaren till dokumentet.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfDocumentInfo egenskap. Hämtar eller anger dokumentets författare."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/author/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Author property
 
-Hämtar eller ställer in författaren till dokumentet.
+Hämtar eller anger författare till dokumentet.
 
 ```csharp
 public string Author { get; set; }
@@ -17,7 +18,7 @@ public string Author { get; set; }
 ### Se även
 
 * class [PdfDocumentInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

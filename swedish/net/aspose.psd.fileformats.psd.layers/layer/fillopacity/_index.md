@@ -1,33 +1,34 @@
 ---
-title: Layer.FillOpacity
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in fyllningsopaciteten.
+title: "Layer.FillOpacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger fyllningsopaciteten"
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
+{{< psd/tize >}}
 ## Layer.FillOpacity property
 
-Hämtar eller ställer in fyllningsopaciteten.
+Hämtar eller anger fyllnadens opacitet.
 
 ```csharp
 public int FillOpacity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Fyllningsopaciteten inom intervallet 0 till 100
+Fyllningsopaciteten i intervallet från 0 till 100
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Fyllningsopaciteten kan bara vara i intervallet från 0 till 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Fyllningsopaciteten kan endast vara i intervallet från 0 till 100 |
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

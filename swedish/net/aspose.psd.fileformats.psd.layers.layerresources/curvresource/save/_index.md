@@ -1,11 +1,12 @@
 ---
-title: CurvResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: CurvResource metod. Sparar resursen till den angivna strömbehållaren.
+title: "CurvResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvResource-metod. Sparar resursen till den angivna strömbehållaren"
 type: docs
-weight: 90
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/save/
 ---
+{{< psd/tize >}}
 ## CurvResource.Save method
 
 Sparar resursen till den angivna strömbehållaren.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Strömbehållaren att spara till. |
+| streamContainer | StreamContainer | Den stream container som ska sparas till. |
 | psdVersion | Int32 | PSD-versionen. |
 
 ### Se även
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [CurvResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

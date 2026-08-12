@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPointUnit
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in måttenheten för de vertikala maskpunkterna.
+title: "IPlacedLayerResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger måttenheten för de vertikala nätpunkterna"
 type: docs
 weight: 220
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPointUnit property
 
-Hämtar eller ställer in måttenheten för de vertikala maskpunkterna.
+Hämtar eller anger måttenheten för de vertikala mesh‑punkterna.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Måttenheten för de vertikala maskpunkterna.
+Måttenheten för de vertikala nätpunkterna.
 
 ### Se även
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

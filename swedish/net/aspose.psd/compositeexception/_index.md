@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CompositeException klass. Det sammansatta undantaget
+title: "Klass CompositeException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CompositeException-klass. Det sammansatta undantaget"
 type: docs
 weight: 410
 url: /sv/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 Det sammansatta undantaget
@@ -16,7 +17,7 @@ public class CompositeException : Exception
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

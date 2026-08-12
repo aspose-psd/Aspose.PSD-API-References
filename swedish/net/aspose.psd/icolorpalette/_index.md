@@ -1,14 +1,15 @@
 ---
-title: Interface IColorPalette
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IColorPalette gränssnitt. Gränssnittet för färgpaletten.
+title: "Gränssnitt IColorPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IColorPalette-gränssnitt. Färgpalettgränssnittet"
 type: docs
-weight: 4390
+weight: 4860
 url: /sv/net/aspose.psd/icolorpalette/
 ---
+{{< psd/tize >}}
 ## IColorPalette interface
 
-Gränssnittet för färgpaletten.
+Färgpalettgränssnittet.
 
 ```csharp
 public interface IColorPalette
@@ -16,25 +17,25 @@ public interface IColorPalette
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries/) { get; } | Får en array med 32-bitars ARGB-strukturer. |
-| [Entries](../../aspose.psd/icolorpalette/entries/) { get; } | Får en array av[`Color`](../color/) strukturer. |
+| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries/) { get; } | Hämtar en array av 32‑bit ARGB‑strukturer. |
+| [Entries](../../aspose.psd/icolorpalette/entries/) { get; } | Hämtar en array av [`Color`](../color/) strukturer. |
 | [EntriesCount](../../aspose.psd/icolorpalette/entriescount/) { get; } | Hämtar antalet poster. |
-| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette/) { get; } | Får ett värde som indikerar om kompakt palett används. |
+| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette/) { get; } | Hämtar ett värde som indikerar om kompakt palett används. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color/)(int) | Får 32-bitars ARGB-palettens färg efter index. |
+| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color/)(int) | Hämtar 32‑bit ARGB‑palettfärgen efter index. |
 | [GetColor](../../aspose.psd/icolorpalette/getcolor/)(int) | Hämtar palettfärgen efter index. |
-| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | Hämtar index för närmaste färg. |
-| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | Hämtar index för närmaste 32-bitars ARGB-färg. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | Hämtar indexet för den närmaste färgen. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | Hämtar indexet för den närmaste 32‑bit ARGB‑färgen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

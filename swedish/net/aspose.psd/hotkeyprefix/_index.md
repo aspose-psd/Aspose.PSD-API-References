@@ -1,30 +1,31 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.HotkeyPrefix uppräkning. Anger typen av visning för snabbtangentsprefix som relaterar till text.
+title: "Enum HotkeyPrefix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.HotkeyPrefix‑enum. Anger typen av visning för snabbtangent‑prefix som relaterar till text."
 type: docs
-weight: 4350
+weight: 4820
 url: /sv/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-Anger typen av visning för snabbtangentsprefix som relaterar till text.
+Anger vilken typ av visning som används för snabbtangents‑prefix som relaterar till text.
 
 ```csharp
 public enum HotkeyPrefix
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Inget snabbtangentprefix. |
-| Show | `1` | Visa snabbtangentsprefixet. |
-| Hide | `2` | Visa inte snabbtangentsprefixet. |
+| None | `0` | Ingen snabbtangent‑prefix. |
+| Show | `1` | Visa snabbtangent‑prefixet. |
+| Hide | `2` | Visa inte snabbtangent‑prefixet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

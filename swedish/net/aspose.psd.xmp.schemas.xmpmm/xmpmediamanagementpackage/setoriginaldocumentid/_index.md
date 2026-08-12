@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.SetOriginalDocumentId
-second_title: Aspose.PSD för .NET API-referens
-description: XmpMediaManagementPackage metod. Ställer in originaldokumentets id.
+title: "XmpMediaManagementPackage.SetOriginalDocumentId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpMediaManagementPackage metod. Ställer in det ursprungliga dokument‑ID:t"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setoriginaldocumentid/
 ---
+{{< psd/tize >}}
 ## SetOriginalDocumentId(Guid) {#setoriginaldocumentid}
 
-Ställer in originaldokumentets id.
+Ställer in det ursprungliga dokument-ID:t.
 
 ```csharp
 public void SetOriginalDocumentId(Guid guid)
@@ -21,14 +22,14 @@ public void SetOriginalDocumentId(Guid guid)
 ### Se även
 
 * class [XmpMediaManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOriginalDocumentId(string) {#setoriginaldocumentid_1}
 
-Ställer in originaldokumentets id.
+Ställer in det ursprungliga dokument-ID:t.
 
 ```csharp
 public void SetOriginalDocumentId(string guid)
@@ -41,7 +42,7 @@ public void SetOriginalDocumentId(string guid)
 ### Se även
 
 * class [XmpMediaManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

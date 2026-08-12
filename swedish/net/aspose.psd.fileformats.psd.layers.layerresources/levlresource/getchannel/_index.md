@@ -1,14 +1,15 @@
 ---
-title: LevlResource.GetChannel
-second_title: Aspose.PSD för .NET API-referens
-description: LevlResource metod. Får kanalen.
+title: "LevlResource.GetChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LevlResource‑metod. Hämtar kanalen"
 type: docs
-weight: 60
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/
 ---
+{{< psd/tize >}}
 ## LevlResource.GetChannel method
 
-Får kanalen.
+Hämtar kanalen.
 
 ```csharp
 public LevelChannel GetChannel(int channelIndex)
@@ -16,7 +17,7 @@ public LevelChannel GetChannel(int channelIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| channelIndex | Int32 | Index för kanalen. |
+| channelIndex | Int32 | Kanalens index. |
 
 ### Returvärde
 
@@ -26,7 +27,7 @@ Nivådata för kanal
 
 * class [LevelChannel](../../levelchannel/)
 * class [LevlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

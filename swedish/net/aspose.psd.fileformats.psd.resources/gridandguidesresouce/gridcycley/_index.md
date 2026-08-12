@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleY
-second_title: Aspose.PSD för .NET API-referens
-description: GridAndGuidesResouce fast egendom. Hämtar eller ställer in den vertikala rutnätscykeln. Standard är 576.
+title: "GridAndGuidesResouce.GridCycleY"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GridAndGuidesResouce egenskap. Hämtar eller anger den vertikala rutcykeln. Standardvärdet är 576"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleY property
 
-Hämtar eller ställer in den vertikala rutnätscykeln. Standard är 576.
+Hämtar eller anger vertikalt rutnätsintervall. Standardvärdet är 576.
 
 ```csharp
 public int GridCycleY { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den vertikala rutnätscykeln.
+Den vertikala rutcykeln.
 
 ### Se även
 
 * class [GridAndGuidesResouce](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

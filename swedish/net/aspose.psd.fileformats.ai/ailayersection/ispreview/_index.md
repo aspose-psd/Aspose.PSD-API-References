@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in ett värde som anger om det här lagret är förhandsgranskning. Visar konstverket som finns i lagret i färg istället för som konturer.
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection property. Hämtar eller anger ett värde som indikerar om detta lager är en förhandsgranskning. Visar grafiken i lagret i färg istället för som konturer"
 type: docs
-weight: 70
+weight: 90
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Hämtar eller ställer in ett värde som anger om det här lagret är förhandsgranskning. Visar konstverket som finns i lagret i färg istället för som konturer.
+Hämtar eller anger ett värde som indikerar om detta lager är förhandsgranskning. Visar konstverket i lagret i färg istället för som konturer.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta lager är förhandsgranska; annat,`falsk` .
+`true` om detta lager är en förhandsgranskning; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

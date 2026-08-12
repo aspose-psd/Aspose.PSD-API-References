@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Name
-second_title: Aspose.PSD för .NET API-referens
-description: ResourceBlock fast egendom. Hämtar eller ställer in resursnamnet. Pascalsträng vadderad för att göra storleken jämn ett nollnamn består av två byte på 0.
+title: "ResourceBlock.Name"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResourceBlock-egenskap. Hämtar eller anger resursnamnet. Pascal string paddad för att göra storleken jämn, ett null name består av två byte med värdet 0."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd/resourceblock/name/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Name property
 
-Hämtar eller ställer in resursnamnet. Pascal-sträng, vadderad för att göra storleken jämn (ett nollnamn består av två byte på 0).
+Hämtar eller anger resursnamnet. Pascal-sträng, utfylld för att göra storleken jämn (ett nullnamn består av två nollbyte).
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Resursens namn.
+Resursnamnet.
 
 ### Se även
 
 * class [ResourceBlock](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

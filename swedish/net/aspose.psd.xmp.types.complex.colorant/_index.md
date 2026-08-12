@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller klasser som representerar strukturerna som innehåller egenskaperna hos en färgämne swatch som används i ett dokument.
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller klasser som representerar strukturerna som innehåller egenskaperna för ett färgämnesprov som används i ett dokument"
 type: docs
-weight: 630
+weight: 670
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/
 ---
-Namnutrymmet innehåller klasser som representerar strukturerna som innehåller egenskaperna hos en färgämne (swatch) som används i ett dokument.
+{{< psd/tize >}}
+Namnområdet innehåller klasser som representerar strukturerna som innehåller egenskaperna för en färgämne (prov) som används i ett dokument.
 
 ## Klasser
 

@@ -1,14 +1,15 @@
 ---
-title: Graphics.EndUpdate
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Avslutar cachelagring av grafikoperationerna som startade efter att BeginUpdate anropades. De föregående grafikoperationerna kommer att tillämpas på en gång när den här metoden anropas.
+title: "Graphics.EndUpdate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics‑metod. Avslutar cachning av grafikoperationerna som startades efter att BeginUpdate anropades. De föregående grafikoperationerna kommer att tillämpas på en gång när denna metod anropas"
 type: docs
-weight: 330
+weight: 340
 url: /sv/net/aspose.psd/graphics/endupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.EndUpdate method
 
-Avslutar cachelagring av grafikoperationerna som startade efter att BeginUpdate anropades. De föregående grafikoperationerna kommer att tillämpas på en gång när den här metoden anropas.
+Avslutar cachning av grafikoperationerna som startades efter att BeginUpdate anropades. De föregående grafikoperationerna kommer att tillämpas på en gång när denna metod anropas.
 
 ```csharp
 public void EndUpdate()
@@ -17,7 +18,7 @@ public void EndUpdate()
 ### Se även
 
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

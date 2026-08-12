@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Inflate
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF metod. Skapar och returnerar en uppblåst kopia av den angivnaRectangleFstrukturera. Kopian är uppblåst med angivet belopp. Den ursprungliga rektangeln förblir oförändrad.
+title: "RectangleF.Inflate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF-metod. Skapar och returnerar en uppblåst kopia av den angivna RectangleF-strukturen. Kopian uppblås med den angivna mängden. Den ursprungliga rektangeln förblir oförändrad."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/rectanglef/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(RectangleF, float, float)
 
-Skapar och returnerar en uppblåst kopia av den angivna[`RectangleF`](../)strukturera. Kopian är uppblåst med angivet belopp. Den ursprungliga rektangeln förblir oförändrad.
+Skapar och returnerar en uppblåst kopia av den angivna [`RectangleF`](../) strukturen. Kopian uppblås med den angivna mängden. Den ursprungliga rektangeln förblir oförändrad.
 
 ```csharp
 public static RectangleF Inflate(RectangleF rect, float x, float y)
@@ -16,25 +17,25 @@ public static RectangleF Inflate(RectangleF rect, float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../) ska kopieras. Denna rektangel är inte modifierad. |
-| x | Single | Mängden för att blåsa upp kopian av rektangeln horisontellt. |
-| y | Single | Mängden för att blåsa upp kopian av rektangeln vertikalt. |
+| rect | RectangleF | Den [`RectangleF`](../) som ska kopieras. Denna rektangel ändras inte. |
+| x | Single | Mängden för att uppblåsa kopian av rektangeln horisontellt. |
+| y | Single | Mängden för att uppblåsa kopian av rektangeln vertikalt. |
 
 ### Returvärde
 
-Den uppblåsta[`RectangleF`](../).
+Den uppblåsta [`RectangleF`](../).
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(float, float) {#inflate_1}
 
-Blåser upp detta[`RectangleF`](../) struktur med angivet belopp.
+Uppblåser denna [`RectangleF`](../) struktur med den angivna mängden.
 
 ```csharp
 public void Inflate(float x, float y)
@@ -42,20 +43,20 @@ public void Inflate(float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Mängden för att blåsa upp detta[`RectangleF`](../) strukturera horisontellt. |
-| y | Single | Mängden för att blåsa upp detta[`RectangleF`](../) struktur vertikalt. |
+| x | Single | Mängden för att uppblåsa denna [`RectangleF`](../) struktur horisontellt. |
+| y | Single | Mängden för att uppblåsa denna [`RectangleF`](../) struktur vertikalt. |
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(SizeF) {#inflate}
 
-Blåser upp detta[`RectangleF`](../)med det angivna beloppet.
+Expanderar denna [`RectangleF`](../) med det angivna beloppet.
 
 ```csharp
 public void Inflate(SizeF size)
@@ -63,13 +64,13 @@ public void Inflate(SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | SizeF | Mängden för att blåsa upp denna rektangel. |
+| storlek | SizeF | Beloppet för att expandera denna rektangel. |
 
 ### Se även
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

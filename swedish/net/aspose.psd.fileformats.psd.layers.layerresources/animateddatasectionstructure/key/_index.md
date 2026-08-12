@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionStructure.Key
-second_title: Aspose.PSD för .NET API-referens
-description: AnimatedDataSectionStructure fast egendom. Hämtar strukturnyckeln.
+title: "AnimatedDataSectionStructure.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AnimatedDataSectionStructure egenskap. Hämtar strukturnyckeln."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Key property
 
 Hämtar strukturnyckeln.
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [AnimatedDataSectionStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

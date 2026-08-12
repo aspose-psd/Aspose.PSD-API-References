@@ -1,27 +1,28 @@
 ---
-title: AiHeader.For
-second_title: Aspose.PSD för .NET API-referens
-description: AiHeader fast egendom. Får eller ställer in för.
+title: "AiHeader.For"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiHeader egenskap. Hämtar eller anger för"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.ai/aiheader/for/
 ---
+{{< psd/tize >}}
 ## AiHeader.For property
 
-Får eller ställer in för.
+Hämtar eller anger för.
 
 ```csharp
 public string For { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 För.
 
 ### Se även
 
 * class [AiHeader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

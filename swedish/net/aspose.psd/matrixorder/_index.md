@@ -1,29 +1,30 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.MatrixOrder uppräkning. Anger ordningen för matristransformeringsoperationer.
+title: "Enum MatrixOrder"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.MatrixOrder-enum. Anger ordningen för matristransformationsoperationer"
 type: docs
-weight: 5100
+weight: 5590
 url: /sv/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
-Anger ordningen för matristransformeringsoperationer.
+Anger ordningen för matrisomvandlingsoperationer.
 
 ```csharp
 public enum MatrixOrder
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Prepend | `0` | Den nya operationen tillämpas före den gamla operationen. |
 | Append | `1` | Den nya operationen tillämpas efter den gamla operationen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

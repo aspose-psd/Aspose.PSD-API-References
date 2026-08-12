@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD för .NET API-referens
-description: FillLayer metod. Uppdaterar data för fylllagerpixlar enligt faktiskaIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FillLayer-metoden. Uppdaterar pixeldata för fyllningslagret baserat på den aktuella IFillSettings"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Uppdaterar data för fylllagerpixlar enligt faktiska[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Uppdaterar pixeldata för fyllningslagret baserat på den aktuella [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
 
 ```csharp
 public void Update()
@@ -16,18 +17,18 @@ public void Update()
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Okänd typ av FillType |
+| ArgumentOutOfRangeException | Kastas när en okänd FillType påträffas. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för fyllningslager: Färgfyllning.
+Följande kod demonstrerar stöd för Fill-lager: Color fill.
 
 ```csharp
 [C#]
 
-// Lägg till stöd för Fyllningslager: Färgfyllning
+// Lägg till stöd för Fill-lager: Color fill
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Följande kod sparar bilder med olika typer av gradient och visar hur man Aspose.PSD ritar gradienten.
+Följande kod sparar bilder med olika typ av gradient och visar hur Aspose.PSD ritar gradienten.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Följande kod sparar bilder med mönsterfyllningsskikt och visar hur Aspose.PSD återger mönstret.
+Följande kod sparar bilder med pattern Fill Layer och demonstrerar hur Aspose.PSD renderar mönstret.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -134,7 +135,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Se även
 
 * class [FillLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

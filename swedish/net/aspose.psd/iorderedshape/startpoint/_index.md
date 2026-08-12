@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.StartPoint
-second_title: Aspose.PSD för .NET API-referens
-description: IOrderedShape fast egendom. Får startpunkten för formen.
+title: "IOrderedShape.StartPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IOrderedShape-egenskap. Hämtar den inledande formpunkten."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/iorderedshape/startpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.StartPoint property
 
-Får startpunkten för formen.
+Hämtar den startande formpunkten.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Startpunkten för formen.
+Den startande formpunkten.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* namnutrymme [Aspose.PSD](../../iorderedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

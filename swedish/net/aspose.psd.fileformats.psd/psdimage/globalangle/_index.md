@@ -1,27 +1,28 @@
 ---
-title: PsdImage.GlobalAngle
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in den globala vinkeln.
+title: "PsdImage.GlobalAngle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar eller anger den globala vinkeln."
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalAngle property
 
-Hämtar eller ställer in den globala vinkeln.
+Hämtar eller anger den globala vinkeln.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för egenskapen PsdImage.GlobalAngle för att ändra det globala vinkelvärdet.
+Följande kod demonstrerar stöd för PsdImage.GlobalAngle-egenskapen för att ändra det globala vinkelvärdet.
 
 ```csharp
 [C#]
 
-// När egenskapen DropShadowEffect.UseGlobalLight är 'true' använder DropShadowEffect-objektet vinkelvärdet från egenskapen PsdImage.GlobalAngle.
+// När DropShadowEffect.UseGlobalLight-egenskapen är 'true' använder DropShadowEffect-objektet vinkelvärdet från PsdImage.GlobalAngle-egenskapen.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -33,7 +34,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

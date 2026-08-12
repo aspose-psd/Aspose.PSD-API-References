@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får en tomColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskap. Hämtar en tom Color"
 type: docs
 weight: 430
 url: /sv/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-Får en tom[`Color`](../) .
+Hämtar en tom [`Color`](../).
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det tomma[`Color`](../).
+Den tomma [`Color`](../).
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

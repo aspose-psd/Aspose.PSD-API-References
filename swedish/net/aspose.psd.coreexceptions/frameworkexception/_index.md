@@ -1,14 +1,15 @@
 ---
-title: Class FrameworkException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.FrameworkException klass. Undantaget för PSDramverket. Den här klassen är en kärnklass för alla Aspose.PSDundantag. Introducerad för att skilja mellan undantagen från Aspose.PSDmotorn och alla andra undantagstyper.
+title: "Class FrameworkException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.FrameworkException class. PSD-ramverksundantaget. Denna klass är en kärnklass för alla Aspose.PSD-undantag. Införd för att särskilja mellan undantagen som kastas av Aspose.PSD-motorn och alla andra undantagstyper."
 type: docs
 weight: 480
 url: /sv/net/aspose.psd.coreexceptions/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException class
 
-Undantaget för PSD-ramverket. Den här klassen är en kärnklass för alla Aspose.PSD-undantag. Introducerad för att skilja mellan undantagen från Aspose.PSD-motorn och alla andra undantagstyper.
+PSD‑ramverk‑undantaget. Denna klass är en kärnklass för alla Aspose.PSD‑undantag. Den introducerades för att särskilja mellan undantagen som kastas av Aspose.PSD‑motorn och alla andra undantagstyper.
 
 ```csharp
 public class FrameworkException : Exception
@@ -16,14 +17,14 @@ public class FrameworkException : Exception
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FrameworkException](frameworkexception/#constructor)(string) | Initierar en ny instans av`FrameworkException` class. |
-| [FrameworkException](frameworkexception/#constructor_1)(string, Exception) | Initierar en ny instans av`FrameworkException` class. |
+| [FrameworkException](frameworkexception/#constructor)(string) | Initierar en ny instans av klassen `FrameworkException`. |
+| [FrameworkException](frameworkexception/#constructor_1)(string, Exception) | Initierar en ny instans av klassen `FrameworkException`. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

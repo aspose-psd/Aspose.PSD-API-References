@@ -1,11 +1,12 @@
 ---
-title: LuniResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: LuniResource metod. Sparar den angivna strömbehållaren.
+title: "LuniResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LuniResource metod. Sparar den angivna strömbehållaren"
 type: docs
-weight: 70
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/
 ---
+{{< psd/tize >}}
 ## LuniResource.Save method
 
 Sparar den angivna strömbehållaren.
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LuniResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsYellowBlueBalance
-second_title: Aspose.PSD för .NET API-referens
-description: BlncResource fast egendom. Får eller ställer in Highlights Yellow Blue Balance.
+title: "BlncResource.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlncResource egenskap. Hämtar eller anger Highlights Yellow Blue Balance"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsYellowBlueBalance property
 
-Får eller ställer in Highlights Yellow Blue Balance.
+Hämtar eller anger Höjdpunkternas Gul Blå Balans.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Höjdpunkterna Gul Blå Balans.
+Den Highlights Yellow Blue Balance.
 
 ### Se även
 
 * class [BlncResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter metod. Skriver en matris med heltalsvärden utan tecken till strömmen.
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-metoden. Skriver en matris av osignerade heltalsvärden till strömmen."
 type: docs
 weight: 210
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-Skriver en matris med heltalsvärden utan tecken till strömmen.
+Skriver en matris av osignerade heltalsvärden till strömmen.
 
 ```csharp
 public void WriteULongArray(uint[] data)
@@ -16,12 +17,12 @@ public void WriteULongArray(uint[] data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | UInt32[] | Arrayen att skriva. |
+| data | UInt32[] | Arrayen som ska skrivas. |
 
 ### Se även
 
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

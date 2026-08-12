@@ -1,14 +1,15 @@
 ---
-title: Matrix.Reset
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Återställer denna matris för att ha elementen i identitetsmatrisen.
+title: "Matrix.Reset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-metod. Återställer denna matris så att den har elementen i identitetsmatrisen."
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/matrix/reset/
 ---
+{{< psd/tize >}}
 ## Matrix.Reset method
 
-Återställer denna matris för att ha elementen i identitetsmatrisen.
+Återställer denna `Matrix` så att den har elementen i identitetsmatrisen.
 
 ```csharp
 public void Reset()
@@ -17,7 +18,7 @@ public void Reset()
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

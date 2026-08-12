@@ -1,26 +1,27 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in delsamplingsfaktorerna för YCbCr fotometrisk.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger undersamplingsfaktorerna för YCbCr-fotometrisk"
 type: docs
-weight: 670
+weight: 680
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-Hämtar eller ställer in delsamplingsfaktorerna för YCbCr fotometrisk.
+Hämtar eller anger subsamplingsfaktorerna för YCbCr-fotometrisk.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Delsamplingsfaktorerna för YCbCr fotometrisk.
+Undersamplingsfaktorerna för YCbCr-fotometrisk.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Ogiltig fältlängd. YCbCrSubsampling-fältet måste innehålla två värden. |
 | ArgumentNullException | värde |
@@ -28,7 +29,7 @@ Delsamplingsfaktorerna för YCbCr fotometrisk.
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

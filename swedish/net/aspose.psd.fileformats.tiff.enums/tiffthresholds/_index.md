@@ -1,30 +1,31 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds uppräkning. Tröskelvärde används på data.
+title: "Enum TiffThresholds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Tröskling som används på data."
 type: docs
-weight: 4180
+weight: 4650
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-Tröskelvärde används på data.
+Tröskling som används på data.
 
 ```csharp
 public enum TiffThresholds : ushort
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | NoDithering | `1` | Ingen dithering utförs. |
-| HalfTone | `2` | Dithered scan. |
+| HalfTone | `2` | Dithrad skanning. |
 | ErrorDiffuse | `3` | Vanligtvis Floyd-Steinberg. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

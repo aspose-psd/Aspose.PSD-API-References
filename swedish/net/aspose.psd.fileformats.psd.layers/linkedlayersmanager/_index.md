@@ -1,14 +1,15 @@
 ---
-title: Class LinkedLayersManager
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager klass. Manager class för länkade lager.
+title: "Klass LinkedLayersManager"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager-klass. Länkade lagerhanterarklass"
 type: docs
-weight: 3400
+weight: 3800
 url: /sv/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager class
 
-Manager class för länkade lager.
+Klass för hantering av länkade lager.
 
 ```csharp
 public sealed class LinkedLayersManager
@@ -16,14 +17,14 @@ public sealed class LinkedLayersManager
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Hämtar lager efter länkgrupp-id. |
-| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Hämtar länkgrupps-ID som är kopplat till lagret. |
-| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Länkar indatalagren och returnerar LingGroupId. |
-| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Tar bort länken till lagret.. |
+| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Hämtar lager efter länkgrupps‑ID. |
+| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Hämtar länkgrupps‑ID som är associerad med lagret. |
+| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Länkar inmatningslagren och returnerar LingGroupId. |
+| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Kopplar bort lagret.. |
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du kan manipulera länkade lager i Aspose.PSD
 
@@ -33,7 +34,7 @@ Följande exempel visar hur du kan manipulera länkade lager i Aspose.PSD
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
@@ -41,23 +42,23 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
     // länka alla lager i en länkad grupp
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // får id för ett lager
+    // hämtar ID för ett lager
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // hämtar alla länkade lager efter länkgrupp-id.
+    // hämtar alla länkade lager efter länkgruppens ID.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // ta bort länken mellan varje lager från gruppen
+    // koppla bort varje lager från gruppen
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // hämtar NULL för ett länkgrupps-ID som inte har några lager i gruppen.
+    // returnerar NULL för ett länkgrupps-ID som inte har några lager i gruppen.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -69,7 +70,7 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

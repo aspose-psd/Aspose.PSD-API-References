@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.Seek
-second_title: Aspose.PSD för .NET API-referens
-description: SplitStreamContainer metod. Ställer in positionen inom den aktuella strömmen.
+title: "SplitStreamContainer.Seek"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "En byteavvikelse relativt till *origin*-parametern. Detta värde representerar avståndet från startpositionen för strömmen som angavs i StreamContainer-konstruktorn."
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/splitstreamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Seek method
 
-Ställer in positionen inom den aktuella strömmen.
+Anger positionen i den aktuella strömmen.
 
 ```csharp
 public override long Seek(long offset, SeekOrigin origin)
@@ -16,18 +17,18 @@ public override long Seek(long offset, SeekOrigin origin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| offset | Int64 | En byteförskjutning i förhållande till*origin* parameter. Detta värde representerar offset från startströmpositionen som skickats i StreamContainer-konstruktorn. |
-| origin | SeekOrigin | Ett värde av typSeekOrigin anger referenspunkten som används för att erhålla den nya positionen. |
+| offset | Int64 | origin |
+| SeekOrigin | Ett värde av typen SeekOrigin som indikerar referenspunkten som används för att erhålla den nya positionen. | Den nya positionen i den aktuella strömmen. |
 
 ### Returvärde
 
-Den nya positionen inom den aktuella strömmen.
+SplitStreamContainer.ToBytes
 
 ### Se även
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [SplitStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../splitstreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

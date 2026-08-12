@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till lagret PhotoFilter.
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Lägger till PhotoFilter-lagret"
 type: docs
-weight: 400
+weight: 420
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
-Lägger till lagret PhotoFilter.
+Lägger till fotofilterlagret.
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
@@ -16,18 +17,18 @@ public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| color | Color | Färgen. |
+| färg | Färg | Färgen. |
 
 ### Returvärde
 
-Skapade PhotoFilter Layer
+Skapat PhotoFilter-lager
 
 ### Se även
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

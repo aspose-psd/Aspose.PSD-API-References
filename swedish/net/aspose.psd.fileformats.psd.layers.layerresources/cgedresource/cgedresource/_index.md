@@ -1,14 +1,15 @@
 ---
-title: CgEdResource.CgEdResource
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource byggare. Default_Constructor
+title: "CgEdResource.CgEdResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource konstruktor. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public CgEdResource()
@@ -17,7 +18,7 @@ public CgEdResource()
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

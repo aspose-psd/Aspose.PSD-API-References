@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance
-second_title: Aspose.PSD för .NET API-referens
-description: ColorBalanceAdjustmentLayer fast egendom. Får eller ställer in mellantonscyanrödbalansen.
+title: "ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorBalanceAdjustmentLayer property. Gets or sets the Midtones Cyan Red Balance"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance property
 
-Får eller ställer in mellantonscyanrödbalansen.
+Hämtar eller anger Mellantonernas Cyan Röda Balans.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Mellantonerna Cyan Red Balance.
+Den Midtones Cyan Red Balance.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Mellantoner Cyanröd Balans måste ligga inom intervallet från -100 till +100. |
+| ArgumentOutOfRangeException | Midtones Cyan Red Balance måste vara i intervallet från -100 till +100. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för ColorBalanceAdjustmentLayer.
+Följande kod demonstrerar stöd för ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Se även
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

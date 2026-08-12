@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: Aspose.PSD för .NET API-referens
-description: ImageExportersRegistry fast egendom. Hämtar de registrerade exportörbeskrivningarna.
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageExportersRegistry-egenskapen. Hämtar de registrerade exportörbeskrivningarna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
-Hämtar de registrerade exportörbeskrivningarna.
+Hämtar de registrerade exportörsbeskrivningarna.
 
 ```csharp
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Beskrivningarna för den registrerade exportören.
+De registrerade exportörbeskrivningarna.
 
 ### Se även
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageexportersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

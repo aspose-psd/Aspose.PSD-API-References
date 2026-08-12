@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: Aspose.PSD för .NET API-referens
-description: RasterCachedImage metod. Roterar vänder eller roterar och vänder bilden.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterCachedImage-metod. Roterar, vänder eller roterar och vänder bilden"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
-Roterar, vänder eller roterar och vänder bilden.
+Rotera, vänd eller rotera och vänd bilden.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
@@ -16,11 +17,11 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Den roterande fliptypen. |
+| rotateFlipType | RotateFlipType | Rotations-vändningstypen. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur du roterar bilden.
+Följande kod visar hur man roterar bilden.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* namnutrymme [Aspose.PSD](../../rastercachedimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

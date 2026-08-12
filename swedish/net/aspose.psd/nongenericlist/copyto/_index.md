@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericList metod. Kopierar elementen iICollection till enArray  med början på en vissArray index.
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericList-metod. Kopierar elementen i ICollection till en Array med start vid ett specifikt Array‑index"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-Kopierar elementen iICollection till enArray , med början på en vissArray index.
+Kopierar elementen i ICollection till en Array, med start vid ett specifikt Array-index.
 
 ```csharp
 public void CopyTo(Array array, int index)
@@ -16,13 +17,13 @@ public void CopyTo(Array array, int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| array | Array | Det endimensionellaArray det är destinationen för elementen som kopierats frånICollection . DeArray måste ha nollbaserad indexering. |
-| index | Int32 | Det nollbaserade indexet i*array* där kopieringen börjar. |
+| array | Array | Den endimensionella Array som är destinationen för elementen som kopierats från ICollection. Array måste ha nollbaserad indexering. |
+| index | Int32 | Det nollbaserade indexet i *array* där kopieringen börjar. |
 
 ### Se även
 
 * class [NonGenericList](../)
-* namnutrymme [Aspose.PSD](../../nongenericlist/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

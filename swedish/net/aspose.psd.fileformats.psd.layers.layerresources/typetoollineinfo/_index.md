@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo klass. Skriv verktygslinjeinfo.
+title: "Klass TypeToolLineInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo klass. Typverktygslinjeinformation"
 type: docs
-weight: 3310
+weight: 3700
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-Skriv verktygslinjeinfo.
+Linjeinformation för typverktyget.
 
 ```csharp
 public class TypeToolLineInfo
@@ -16,25 +17,25 @@ public class TypeToolLineInfo
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TypeToolLineInfo](typetoollineinfo/)() | Default_Constructor |
+| [TypeToolLineInfo](typetoollineinfo/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Hämtar eller ställer in char. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Hämtar eller anger tecknet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Sparar`TypeToolLineInfo` information till den angivna strömbehållaren. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Sparar `TypeToolLineInfo`-informationen till den angivna strömbehållaren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

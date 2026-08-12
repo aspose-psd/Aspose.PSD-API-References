@@ -1,33 +1,34 @@
 ---
-title: GdFlResource.Scale
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Hämtar eller ställer in skalan.
+title: "GdFlResource.Scale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource-egenskap. Hämtar eller anger skalan"
 type: docs
-weight: 150
+weight: 200
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Scale property
 
-Hämtar eller ställer in skalan.
+Hämtar eller anger skalan.
 
 ```csharp
-public int Scale { get; set; }
+public double Scale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skalan.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Skalan måste ligga inom intervallet 1 till 1000. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Skalan måste vara i intervallet från 1 till 1000. |
 
 ### Se även
 
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

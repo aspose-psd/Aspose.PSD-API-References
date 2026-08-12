@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SetPalette
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Ställer in bildpaletten.
+title: "RasterImage.SetPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Anger bildpaletten"
 type: docs
-weight: 550
+weight: 570
 url: /sv/net/aspose.psd/rasterimage/setpalette/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPalette method
 
 Ställer in bildpaletten.
@@ -16,14 +17,14 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| palette | IColorPalette | Paletten att ställa in. |
-| updateColors | Boolean | om inställt på`Sann` färger kommer att uppdateras enligt den nya paletten; annars förblir färgindexen oförändrade. Observera att oförändrade index kan krascha bilden vid laddning om vissa index inte har några motsvarande palettposter. |
+| palett | IColorPalette | Paletten att sätta. |
+| updateColors | Boolean | om den är satt till `true` uppdateras färgerna enligt den nya paletten; annars förblir färgindexen oförändrade. Observera att oförändrade index kan få bilden att krascha vid inläsning om vissa index saknar motsvarande palettposter. |
 
 ### Se även
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: VogkResource.VogkResource
-second_title: Aspose.PSD för .NET API-referens
-description: VogkResource byggare. Initierar en ny instans avVogkResource class.
+title: "VogkResource.VogkResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VogkResource-konstruktor. Initierar en ny instans av VogkResource-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/vogkresource/
 ---
+{{< psd/tize >}}
 ## VogkResource constructor
 
-Initierar en ny instans av[`VogkResource`](../) class.
+Initierar en ny instans av [`VogkResource`](../)-klassen.
 
 ```csharp
 public VogkResource()
@@ -17,7 +18,7 @@ public VogkResource()
 ### Se även
 
 * class [VogkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

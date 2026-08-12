@@ -1,11 +1,12 @@
 ---
-title: Class TransparencySupporter
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.TransparencySupporter klass. Objektet som stöder transparens.
+title: "Klass TransparencySupporter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.TransparencySupporter-klass. Objektet som stödjer transparens"
 type: docs
-weight: 5710
+weight: 6210
 url: /sv/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
 Objektet som stöder transparens.
@@ -16,19 +17,19 @@ public class TransparencySupporter
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TransparencySupporter](transparencysupporter/)() | Default_Constructor |
+| [TransparencySupporter](transparencysupporter/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Hämtar eller ställer in objektets opacitet. Värdet ska vara mellan 0 och 1. Värdet 0 betyder att objektet är helt synligt, värdet 1 betyder att objektet är helt ogenomskinligt. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Hämtar eller anger objektets opacitet. Värdet bör vara mellan 0 och 1. Värde 0 betyder att objektet är helt synligt, värde 1 betyder att objektet är helt ogenomskinligt. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

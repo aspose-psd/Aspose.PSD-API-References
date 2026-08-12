@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpDm
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. XMP Dynamic Media namespace.
+title: "Namespaces.XmpDm"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnrymdsfält. XMP Dynamic Media namnrymd"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp/namespaces/xmpdm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpDm field
 
-XMP Dynamic Media namespace.
+XMP Dynamic Media namnrymd.
 
 ```csharp
 public const string XmpDm;
@@ -17,7 +18,7 @@ public const string XmpDm;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

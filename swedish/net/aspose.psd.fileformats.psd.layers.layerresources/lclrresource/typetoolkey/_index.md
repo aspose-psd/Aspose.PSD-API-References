@@ -1,14 +1,15 @@
 ---
-title: LclrResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: LclrResource fält. Typverktygets infonyckel.
+title: "LclrResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LclrResource fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 80
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LclrResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [LclrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

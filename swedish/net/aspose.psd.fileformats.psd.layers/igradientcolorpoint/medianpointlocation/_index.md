@@ -1,27 +1,28 @@
 ---
-title: IGradientColorPoint.MedianPointLocation
-second_title: Aspose.PSD för .NET API-referens
-description: IGradientColorPoint fast egendom. Hämtar eller ställer in medianpunktsplatsen.
+title: "IGradientColorPoint.MedianPointLocation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IGradientColorPoint-egenskap. Hämtar eller anger medianpunktsplatsen. Värdeintervall 04096"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint.MedianPointLocation property
 
-Hämtar eller ställer in medianpunktsplatsen.
+Hämtar eller anger medianpunktsplatsen. Värdeintervall 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Medianpunktens plats.
+Medianpunktsplatsen.
 
 ### Se även
 
 * interface [IGradientColorPoint](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

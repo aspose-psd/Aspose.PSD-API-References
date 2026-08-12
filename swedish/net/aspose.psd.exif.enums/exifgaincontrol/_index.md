@@ -1,32 +1,33 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifGainControl uppräkning. exif gain control enum.
+title: "Enum ExifGainControl"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. exif-förstärkningskontroll enum"
 type: docs
-weight: 880
+weight: 890
 url: /sv/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-exif gain control enum.
+exif förstärkningskontroll enum.
 
 ```csharp
 public enum ExifGainControl
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | None | `0` | Ingen förstärkningskontroll. |
-| LowGainUp | `1` | Låg förstärkning upp. |
-| HighGainUp | `2` | Hög förstärkning upp. |
-| LowGainDown | `3` | Låg förstärkning ned. |
-| HighGainDown | `4` | Hög förstärkning ner. |
+| LowGainUp | `1` | Låg förstärkningsökning. |
+| HighGainUp | `2` | Hög förstärkningsökning. |
+| LowGainDown | `3` | Låg förstärkningsminskning. |
+| HighGainDown | `4` | Hög förstärkningsminskning. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

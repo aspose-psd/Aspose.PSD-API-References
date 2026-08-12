@@ -1,27 +1,28 @@
 ---
-title: Color.IsNamedColor
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får ett värde som indikerar om dettaColor struktur är en namngiven färg eller en medlem avKnownColor uppräkning.
+title: "Color.IsNamedColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color property. Hämtar ett värde som indikerar om denna Color‑struktur är en namngiven färg eller en medlem av KnownColor‑enumerationen"
 type: docs
 weight: 1510
 url: /sv/net/aspose.psd/color/isnamedcolor/
 ---
+{{< psd/tize >}}
 ## Color.IsNamedColor property
 
-Får ett värde som indikerar om detta[`Color`](../) struktur är en namngiven färg eller en medlem av[`KnownColor`](../../knowncolor/) uppräkning.
+Hämtar ett värde som indikerar om denna [`Color`](../) struktur är en namngiven färg eller en medlem av [`KnownColor`](../../knowncolor/)‑enumerationen.
 
 ```csharp
 public bool IsNamedColor { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sant om detta[`Color`](../) skapades genom att använda antingen[`FromName`](../fromname/) metoden eller[`FromKnownColor`](../fromknowncolor/) metod; annars falskt.
+Sant om denna [`Color`](../) skapades genom att använda antingen [`FromName`](../fromname/)‑metoden eller [`FromKnownColor`](../fromknowncolor/)‑metoden; annars falskt.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

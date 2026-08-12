@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Standardkontextliga ligaturer som används för att koppla samman bokstäver.
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle-egenskap. De standardkontextuella ligaturerna som används för att koppla ihop bokstäver"
 type: docs
 weight: 220
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-Standardkontextliga ligaturer som används för att koppla samman bokstäver.
+De standardkontextuella ligaturerna som används för att koppla ihop bokstäver.
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD för .NET API-referens
-description: ObjectArrayStructure fast egendom. Hämtar eller ställer in en kopia av en array av strukturer.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ObjectArrayStructure egenskap. Hämtar eller anger en kopia av en array av strukturer"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-Hämtar eller ställer in en kopia av en array av strukturer.
+Hämtar eller anger en kopia av en array av strukturer.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Understrukturerna i objektmatrisstrukturen.
+Delstrukturerna i objektarraystrukturen.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för ObAr- och UnFl-signaturerna.
+Följande kod demonstrerar stödet för ObAr- och UnFl‑signaturerna.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

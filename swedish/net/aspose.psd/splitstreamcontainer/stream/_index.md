@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Aspose.PSD för .NET API-referens
-description: SplitStreamContainer fast egendom. Hämtar dataströmmen.
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SplitStreamContainer-egenskap. Hämtar datastreamen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
-Hämtar dataströmmen.
+Hämtar datastreamen.
 
 ```csharp
 public override Stream Stream { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Dataströmmen.
+Datastreamen.
 
 ### Se även
 
 * class [SplitStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../splitstreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

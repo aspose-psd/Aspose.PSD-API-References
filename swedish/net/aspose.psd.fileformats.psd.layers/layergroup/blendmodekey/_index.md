@@ -1,28 +1,29 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD för .NET API-referens
-description: LayerGroup fast egendom. Hämtar eller ställer in blandningslägestangenten.
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerGroup egenskap. Hämtar eller anger blandningslägesnyckeln"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
-Hämtar eller ställer in blandningslägestangenten.
+Hämtar eller anger nyckeln för blandningsläget.
 
 ```csharp
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Blandningslägestangenten.
+Blandningslägesnyckeln.
 
 ### Se även
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

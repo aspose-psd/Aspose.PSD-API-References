@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: XmpMeta metod. Indikerar om det aktuella objektet är lika med ett annat objekt av samma typ.
+title: "XmpMeta.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpMeta-metod. Anger om det aktuella objektet är lika med ett annat objekt av samma typ"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp/xmpmeta/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpMeta) {#equals_1}
 
 Indikerar om det aktuella objektet är lika med ett annat objekt av samma typ.
@@ -20,19 +21,19 @@ public bool Equals(XmpMeta other)
 
 ### Returvärde
 
-true om det aktuella objektet är lika med*other* parameter; annars, false.
+Sant om det aktuella objektet är lika med *other*-parametern; annars falskt.
 
 ### Se även
 
 * class [XmpMeta](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmpmeta/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_2}
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object other)
@@ -40,16 +41,16 @@ public override bool Equals(object other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | Object | DeObject att jämföra med det här exemplet. |
+| other | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Se även
 
 * class [XmpMeta](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmpmeta/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

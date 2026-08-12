@@ -1,14 +1,15 @@
 ---
-title: LinkResource.Item
-second_title: Aspose.PSD för .NET API-referens
-description: LinkResource fast egendom. FårLinkDataSource vid det angivna indexet som är länkdatakällans unika identifierare..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkResource-egenskap. Hämtar LinkDataSource vid det angivna indexet som är den unika identifieraren för länkdatas källan"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-Får[`LinkDataSource`](../../linkdatasource/) vid det angivna indexet som är länkdatakällans unika identifierare..
+Hämtar [`LinkDataSource`](../../linkdatasource/) vid det angivna indexet som är den unika identifieraren för länkdatas källan..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
@@ -16,19 +17,19 @@ public LinkDataSource this[Guid index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Indexet som länkdatakällas unika identifierare. |
+| index | Indexet som den unika identifieraren för länkdatas källan. |
 
 ### Returvärde
 
-Den[`LinkDataSource`](../../linkdatasource/) instans.
+Instansen av [`LinkDataSource`](../../linkdatasource/).
 
-### Fastighetsvärde
+### Property Value
 
-Den[`LinkDataSource`](../../linkdatasource/) .
+Den [`LinkDataSource`](../../linkdatasource/).
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för Embedded Smart-objekt.
+Följande kod demonstrerar stöd för inbäddade smarta objekt.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man ändrar det smarta objektlagret i PSD-filen och exporterar / uppdaterar det ursprungliga inbäddade innehållet för smarta objekt.
+// Detta exempel visar hur man ändrar smarta objektlagret i PSD-filen och exporterar/uppdaterar smarta objektets ursprungliga inbäddade innehåll.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Låt oss exportera den inbäddade smarta objektbilden från PSD-smarta objektlagret
+        // Låt oss exportera den inbäddade smarta objektbilden från PSD:s smarta objektlager
         smartObjectLayer.ExportContents(exportPath);
 
-        // Låt oss kontrollera om originalbilden är korrekt sparad
+        // Låt oss kontrollera om den ursprungliga bilden har sparats korrekt
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -96,7 +97,7 @@ foreach (FileFormat format in formats)
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Låt oss kontrollera om den uppdaterade bilden sparas korrekt
+        // Låt oss kontrollera om den uppdaterade bilden har sparats korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -107,7 +108,7 @@ foreach (FileFormat format in formats)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

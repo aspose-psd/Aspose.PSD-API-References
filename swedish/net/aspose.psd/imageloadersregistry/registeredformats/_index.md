@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Aspose.PSD för .NET API-referens
-description: ImageLoadersRegistry fast egendom. Hämtar de registrerade bildladdningsformaten.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageLoadersRegistry-egenskapen. Hämtar de registrerade bildladdningsformaten."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
 Hämtar de registrerade bildladdningsformaten.
@@ -14,7 +15,7 @@ Hämtar de registrerade bildladdningsformaten.
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De registrerade bildladdningsformaten.
 
@@ -22,7 +23,7 @@ De registrerade bildladdningsformaten.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageloadersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

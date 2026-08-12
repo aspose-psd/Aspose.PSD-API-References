@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in Iccprofilströmmen.
+title: "TiffOptions.IccProfile"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger Icc-profilströmmen"
 type: docs
-weight: 180
+weight: 190
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
-Hämtar eller ställer in Icc-profilströmmen.
+Hämtar eller anger Icc-profilsström.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Icc-profilen.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

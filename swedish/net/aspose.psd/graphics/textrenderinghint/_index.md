@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Hämtar eller ställer in textåtergivningstipset.
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics‑egenskap. Hämtar eller anger textrenderingstipsen."
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-Hämtar eller ställer in textåtergivningstipset.
+Hämtar eller anger textrenderingstips.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Textåtergivningstipset.
+Textrenderingstippet.
 
 ### Se även
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

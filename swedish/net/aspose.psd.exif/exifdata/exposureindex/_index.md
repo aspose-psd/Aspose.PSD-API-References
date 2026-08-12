@@ -1,20 +1,21 @@
 ---
-title: ExifData.ExposureIndex
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in exponeringsindex.
+title: "ExifData.ExposureIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger exponeringsindexet"
 type: docs
 weight: 200
 url: /sv/net/aspose.psd.exif/exifdata/exposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureIndex property
 
-Hämtar eller ställer in exponeringsindex.
+Hämtar eller anger exponeringsindexet.
 
 ```csharp
 public TiffRational ExposureIndex { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Indexet för exponeringen.
 
@@ -22,7 +23,7 @@ Indexet för exponeringen.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

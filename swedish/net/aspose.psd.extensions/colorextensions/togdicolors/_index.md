@@ -1,14 +1,15 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: Aspose.PSD för .NET API-referens
-description: ColorExtensions metod. KonverterarColor array tillColor array.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorExtensions metod. Konverterar Color array till Color array"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-Konverterar[`Color`](../../../aspose.psd/color/) array tillColor array.
+Konverterar [`Color`](../../../aspose.psd/color/)‑arrayen till Color‑arrayen.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
@@ -16,17 +17,17 @@ public static Color[] ToGdiColors(Color[] colors)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| colors | Color[] | De[`Color`](../../../aspose.psd/color/) array att konvertera. |
+| colors | Color[] | Den[`Color`](../../../aspose.psd/color/)‑arrayen att konvertera. |
 
 ### Returvärde
 
-Den konverteradeColor array.
+Den konverterade Color‑arrayen.
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* namnutrymme [Aspose.PSD.Extensions](../../colorextensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IntRange.Range
-second_title: Aspose.PSD för .NET API-referens
-description: IntRange fast egendom. Hämtar eller ställer in intervallet.
+title: "IntRange.Range"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IntRange-egenskapen. Hämtar eller anger intervallet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
-Hämtar eller ställer in intervallet.
+Hämtar eller anger intervallet.
 
 ```csharp
 public int[] Range { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Räckvidden.
+Intervallet.
 
 ### Se även
 
 * class [IntRange](../)
-* namnutrymme [Aspose.PSD](../../intrange/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

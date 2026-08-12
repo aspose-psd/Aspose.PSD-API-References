@@ -1,20 +1,21 @@
 ---
-title: PatternOverlayEffect.BlendMode
-second_title: Aspose.PSD för .NET API-referens
-description: PatternOverlayEffect fast egendom. Hämtar eller ställer in blandningsläget.
+title: "PatternOverlayEffect.BlendMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternOverlayEffect egenskap. Hämtar eller anger blandningsläget"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.BlendMode property
 
-Hämtar eller ställer in blandningsläget.
+Hämtar eller anger blandningsläget.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blandningsläget.
 
@@ -22,7 +23,7 @@ Blandningsläget.
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [PatternOverlayEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

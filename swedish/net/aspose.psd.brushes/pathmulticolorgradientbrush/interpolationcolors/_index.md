@@ -1,28 +1,29 @@
 ---
-title: PathMulticolorGradientBrush.InterpolationColors
-second_title: Aspose.PSD för .NET API-referens
-description: PathMulticolorGradientBrush fast egendom. Hämtar eller sätter enColorBlend som definierar en linjär flerfärgsgradient.
+title: "PathMulticolorGradientBrush.InterpolationColors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathMulticolorGradientBrush‑egenskap. Hämtar eller anger en ColorBlend som definierar en flerfärgad linjär gradient"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.brushes/pathmulticolorgradientbrush/interpolationcolors/
 ---
+{{< psd/tize >}}
 ## PathMulticolorGradientBrush.InterpolationColors property
 
-Hämtar eller sätter en[`ColorBlend`](../../../aspose.psd/colorblend/) som definierar en linjär flerfärgsgradient.
+Hämtar eller anger en [`ColorBlend`](../../../aspose.psd/colorblend/) som definierar en flerfärgad linjär gradient.
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`ColorBlend`](../../../aspose.psd/colorblend/) som definierar en linjär flerfärgsgradient.
+En [`ColorBlend`](../../../aspose.psd/colorblend/) som definierar en flerfärgad linjär gradient.
 
 ### Se även
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [PathMulticolorGradientBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

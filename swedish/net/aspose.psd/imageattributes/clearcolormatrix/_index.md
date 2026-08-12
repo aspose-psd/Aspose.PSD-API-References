@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearColorMatrix
-second_title: Aspose.PSD för .NET API-referens
-description: ImageAttributes metod. Rensar färgjusteringsmatrisen för standardkategorin.
+title: "ImageAttributes.ClearColorMatrix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageAttributes-metod. Rensar färgjusteringsmatrisen för standardkategorin."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/imageattributes/clearcolormatrix/
 ---
+{{< psd/tize >}}
 ## ClearColorMatrix() {#clearcolormatrix}
 
-Rensar färgjusteringsmatrisen för standardkategorin.
+Rensar color-adjustment-matrisen för standardkategorin.
 
 ```csharp
 public void ClearColorMatrix()
@@ -17,14 +18,14 @@ public void ClearColorMatrix()
 ### Se även
 
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorMatrix(ColorAdjustType) {#clearcolormatrix_1}
 
-Rensar färgjusteringsmatrisen för en angiven kategori.
+Rensar color-adjustment-matrisen för en specificerad kategori.
 
 ```csharp
 public void ClearColorMatrix(ColorAdjustType type)
@@ -32,13 +33,13 @@ public void ClearColorMatrix(ColorAdjustType type)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| type | ColorAdjustType | Ett inslag av[`ColorAdjustType`](../../coloradjusttype/) som anger kategorin för vilken färgjusteringsmatrisen rensas. |
+| type | ColorAdjustType | Ett element av [`ColorAdjustType`](../../coloradjusttype/) som specificerar kategorin för vilken färgjusteringsmatrisen rensas. |
 
 ### Se även
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

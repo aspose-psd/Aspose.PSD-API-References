@@ -1,14 +1,15 @@
 ---
-title: Interface IPsdColorPalette
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IPsdColorPalette gränssnitt. Pasd färgpaletten
+title: "Gränssnitt IPsdColorPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IPsdColorPalette-gränssnitt. Den pasd-färgpaletten"
 type: docs
-weight: 4550
+weight: 5020
 url: /sv/net/aspose.psd/ipsdcolorpalette/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette interface
 
-Pasd färgpaletten
+Den pasd-färgpaletten.
 
 ```csharp
 public interface IPsdColorPalette : IColorPalette
@@ -16,18 +17,18 @@ public interface IPsdColorPalette : IColorPalette
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Får ett värde som indikerar om transparent färg finns. |
-| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Hämtar rå färgpalettposter. |
-| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Får antalet obearbetade färgpalettposter. |
-| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Får den genomskinliga färgen. |
+| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Hämtar ett värde som indikerar om transparent färg finns. |
+| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Hämtar de råa färgpalettposternas data. |
+| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Hämtar antalet råa färgpalettposter. |
+| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Hämtar den transparenta färgen. |
 | [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Hämtar indexet för den transparenta färgen. |
 
 ### Se även
 
 * interface [IColorPalette](../icolorpalette/)
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

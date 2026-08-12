@@ -1,14 +1,15 @@
 ---
-title: Rational.GetXmpRepresentation
-second_title: Aspose.PSD för .NET API-referens
-description: Rational metod. Hämtar strängen i XMPformat.
+title: "Rational.GetXmpRepresentation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rational‑metod. Hämtar det stränginnehållande värdet i XMP-format"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp.types.derived/rational/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Rational.GetXmpRepresentation method
 
-Hämtar strängen i XMP-format.
+Hämtar det stränginnehållande värdet i XMP-format.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Returvärde
 
-Returnerar strängen i XMP-format.
+Returnerar det stränginnehållande värdet i XMP-format.
 
 ### Se även
 
 * class [Rational](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

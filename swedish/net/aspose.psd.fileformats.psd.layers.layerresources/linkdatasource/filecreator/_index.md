@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileCreator
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar eller ställer in filskaparen i PSDformatet LnkE / Lnk2 resurs.
+title: "LinkDataSource.FileCreator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource-egenskap. Hämtar eller anger filskaparen i PSD-formatet LnkE / Lnk2-resursen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileCreator property
 
-Hämtar eller ställer in filskaparen i PSD-formatet LnkE / Lnk2 resurs.
+Hämtar eller anger filskaparen i PSD-formatets LnkE / Lnk2‑resurs.
 
 ```csharp
 public string FileCreator { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Filskaparen som PSD LiFE/LiFD-datakällan innehåller.
+Filskaparen som PSD LiFE / LiFD-datakällan innehåller.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt FileCreator-egenskapen. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt egenskapen FileCreator. |
 
 ### Se även
 
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

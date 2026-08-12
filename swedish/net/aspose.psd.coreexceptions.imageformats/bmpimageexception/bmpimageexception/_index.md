@@ -1,14 +1,15 @@
 ---
-title: BmpImageException.BmpImageException
-second_title: Aspose.PSD för .NET API-referens
-description: BmpImageException byggare. Initierar en ny instans avBmpImageException class.
+title: "BmpImageException.BmpImageException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BmpImageException-konstruktör. Initierar en ny instans av klassen BmpImageException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException(string) {#constructor}
 
-Initierar en ny instans av[`BmpImageException`](../) class.
+Initierar en ny instans av klassen [`BmpImageException`](../).
 
 ```csharp
 public BmpImageException(string message)
@@ -21,14 +22,14 @@ public BmpImageException(string message)
 ### Se även
 
 * class [BmpImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BmpImageException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`BmpImageException`](../) class.
+Initierar en ny instans av klassen [`BmpImageException`](../).
 
 ```csharp
 public BmpImageException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public BmpImageException(string message, Exception innerException)
 ### Se även
 
 * class [BmpImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

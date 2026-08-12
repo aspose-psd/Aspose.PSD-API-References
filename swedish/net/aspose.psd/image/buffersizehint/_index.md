@@ -1,27 +1,28 @@
 ---
-title: Image.BufferSizeHint
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Hämtar eller ställer in buffertstorlekstipset som är definierat som högsta tillåtna storlek för alla interna buffertar.
+title: "Image.BufferSizeHint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger bufferstorleksindikationen som definierar maximal tillåten storlek för alla interna buffertar"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/image/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Image.BufferSizeHint property
 
-Hämtar eller ställer in buffertstorlekstipset som är definierat som högsta tillåtna storlek för alla interna buffertar.
+Hämtar eller anger en hint för buffertstorleken som definierar maximal tillåten storlek för alla interna buffertar.
 
 ```csharp
 public int BufferSizeHint { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Tipset om buffertstorlek, i megabyte. Icke-positivt värde betyder ingen minnesbegränsning för interna buffertar
+Bufferstorleksindikationen, i megabyte. Ett icke-positivt värde betyder ingen minnesbegränsning för interna buffertar
 
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

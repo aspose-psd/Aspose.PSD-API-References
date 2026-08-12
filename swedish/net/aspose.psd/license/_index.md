@@ -1,11 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.License klass. Tillhandahåller metoder för att licensiera komponenten.
+title: "Klass License"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.License klass. Tillhandahåller metoder för att licensiera komponenten"
 type: docs
-weight: 5050
+weight: 5540
 url: /sv/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
 Tillhandahåller metoder för att licensiera komponenten.
@@ -16,20 +17,20 @@ public class License
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [License](license/)() | Initierar en ny instans av den här klassen. |
+| [License](license/)() | Initierar en ny instans av denna klass. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Licensierar komponenten. |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Licensierar komponenten. |
 
-### Exempel
+## Exempel
 
-I det här exemplet kommer ett försök att göras att hitta en licensfil med namnet MyLicense.lic i mappen som innehåller komponenten, i mappen som innehåller den anropande assembly, i mappen och sedan entry i mappen de inbäddade resurserna för den anropande församlingen.
+I det här exemplet kommer ett försök att hitta en licensfil med namnet MyLicense.lic i mappen som innehåller komponenten, i mappen som innehåller den anropande sammansättningen, i mappen för startsammanställningen och sedan i de inbäddade resurserna för den anropande sammansättningen.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ License.SetLicense("MyLicense.lic")
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

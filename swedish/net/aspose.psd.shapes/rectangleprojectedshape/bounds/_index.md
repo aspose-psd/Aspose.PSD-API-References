@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleProjectedShape fast egendom. Hämtar objektets gränser.
+title: "RectangleProjectedShape.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleProjectedShape-egenskap. Hämtar objektets gränser"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.shapes/rectangleprojectedshape/bounds/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Bounds property
 
 Hämtar objektets gränser.
@@ -14,7 +15,7 @@ Hämtar objektets gränser.
 public override RectangleF Bounds { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets gränser.
 
@@ -22,7 +23,7 @@ Objektets gränser.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSreferensen som används för att ge bäringen till destinationspunkten.
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger GPS-referensen som används för att ange riktningen till destinationspunkten"
 type: docs
 weight: 410
 url: /sv/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-Hämtar eller ställer in GPS-referensen som används för att ge bäringen till destinationspunkten.
+Hämtar eller anger GPS-referensen som används för att ange riktningen mot destinationspunkten.
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-referensen som används för att ge bäringen till destinationspunkten.
+GPS-referensen som används för att ange riktningen till destinationspunkten.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

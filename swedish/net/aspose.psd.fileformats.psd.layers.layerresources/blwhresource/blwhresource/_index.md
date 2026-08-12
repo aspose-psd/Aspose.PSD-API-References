@@ -1,14 +1,15 @@
 ---
-title: BlwhResource.BlwhResource
-second_title: Aspose.PSD för .NET API-referens
-description: BlwhResource byggare. Default_Constructor
+title: "BlwhResource.BlwhResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlwhResource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blwhresource/
 ---
+{{< psd/tize >}}
 ## BlwhResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public BlwhResource()
@@ -17,7 +18,7 @@ public BlwhResource()
 ### Se även
 
 * class [BlwhResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

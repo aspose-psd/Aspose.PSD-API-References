@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: Aspose.PSD för .NET API-referens
-description: GuideResource fast egendom. Hämtar eller ställer in platsen för guiden i dokumentkoordinaterna.
+title: "GuideResource.Location"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GuideResource egenskap. Hämtar eller anger guidens position i dokumentkoordinater"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-Hämtar eller ställer in platsen för guiden i dokumentkoordinaterna.
+Hämtar eller anger guidens position i dokumentkoordinater.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Guideplatsen.
+Guidens position.
 
 ### Se även
 
 * class [GuideResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Image.Width
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Hämtar bildens bredd.
+title: "Image.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar bildens bredd"
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
-Hämtar bildens bredd.
+Hämtar bildbredden.
 
 ```csharp
 public abstract int Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildens bredd.
+Bildbredden.
 
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

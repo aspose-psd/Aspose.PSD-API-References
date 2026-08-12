@@ -1,14 +1,15 @@
 ---
-title: FillLayer.ReplaceNonTransparentColors
-second_title: Aspose.PSD för .NET API-referens
-description: FillLayer metod. Ersätter alla icketransparenta färger med ny färg och bevarar det ursprungliga alfavärdet för att spara jämna kanter. Obs om du använder det på bilder utan genomskinlighet kommer alla färger att ersättas med en enda.
+title: "FillLayer.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FillLayer-metoden. Ersätter alla icke-transparenta färger med en ny färg och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. Observera att om du använder den på bilder utan transparens kommer alla färger att ersättas med en enda."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## FillLayer.ReplaceNonTransparentColors method
 
-Ersätter alla icke-transparenta färger med ny färg och bevarar det ursprungliga alfavärdet för att spara jämna kanter. Obs: om du använder det på bilder utan genomskinlighet kommer alla färger att ersättas med en enda.
+Ersätter alla icke‑transparenta färger med en ny färg och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. Obs: om du använder den på bilder utan transparens, kommer alla färger att ersättas med en enda.
 
 ```csharp
 public override void ReplaceNonTransparentColors(int newColorArgb)
@@ -16,16 +17,20 @@ public override void ReplaceNonTransparentColors(int newColorArgb)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| newColorArgb | Int32 | Nytt ARGB-värde för färg att ersätta icke-transparenta färger med. |
+| newColorArgb | Int32 | Nytt färg‑ARGB‑värde att ersätta icke‑transparenta färger med. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för CMYK ColorMode 16-bitars och förmågan att rita genom att använda klassen Aspose.PSD.Graphics.
+Följande kod demonstrerar stöd för CMYK ColorMode 16‑bit och möjligheten att rita med hjälp av Aspose.PSD.Graphics‑klassen.
 
 ```csharp
 [C#]
 
-using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
+string srcFile = "cub16bit_cmyk.psd";
+string outputPsd = "output.psd";
+string outputPng = "output.png";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile))
 {
     RasterCachedImage raster = image.Layers[0];
     Aspose.PSD.Graphics graphics = new Graphics(raster);
@@ -33,15 +38,15 @@ using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
     int height = raster.Height;
     Rectangle rect = new Rectangle(width / 3, height / 3, width - (2 * (width / 3)) - 1, height - (2 * (height / 3)) - 1);
     graphics.DrawRectangle(new Aspose.PSD.Pen(Color.DarkGray, 1), rect);
-    image.Save("output.psd");
-    image.Save("output.png", new PngOptions());
+    image.Save(outputPsd);
+    image.Save(outputPng, new PngOptions());
 }
 ```
 
 ### Se även
 
 * class [FillLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AiImage.AddLayer
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage metod. Lägger till AIlagersektionen.
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-metoden. Lägger till AI-lagersektionen"
 type: docs
-weight: 130
+weight: 160
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
-Lägger till AI-lagersektionen.
+Lägger till AI-lageravsnittet.
 
 ```csharp
 public void AddLayer(AiLayerSection layer)
@@ -16,13 +17,13 @@ public void AddLayer(AiLayerSection layer)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| layer | AiLayerSection | AI-lagersektionen. |
+| lager | AiLayerSection | AI-lagersektionen. |
 
 ### Se även
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

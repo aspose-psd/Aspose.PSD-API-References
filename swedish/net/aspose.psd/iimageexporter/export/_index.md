@@ -1,14 +1,15 @@
 ---
-title: IImageExporter.Export
-second_title: Aspose.PSD för .NET API-referens
-description: IImageExporter metod. Exporterar angivna bilddata till specificerat dataformat.
+title: "IImageExporter.Export"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IImageExporter-metoden. Exporterar den angivna bilddatan till angivet dataformat"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
-Exporterar angivna bilddata till specificerat dataformat.
+Exporterar den angivna bilddatan till angivet dataformat.
 
 ```csharp
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
@@ -16,8 +17,8 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilddata som ska exporteras. |
-| stream | Stream | Strömmen att exportera data till. |
+| bild | Image | Bilddatan att exportera. |
+| ström | Ström | Strömmen att exportera data till. |
 | optionsBase | ImageOptionsBase | Alternativ för bildexport |
 
 ### Se även
@@ -25,14 +26,14 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* namnutrymme [Aspose.PSD](../../iimageexporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Export(Image, Stream, ImageOptionsBase, Rectangle) {#export_1}
 
-Exporterar angivna bilddata till specificerat dataformat.
+Exporterar den angivna bilddatan till angivet dataformat.
 
 ```csharp
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase, 
@@ -41,10 +42,10 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilddata som ska exporteras. |
-| stream | Stream | Strömmen att exportera data till. |
+| bild | Image | Bilddatan att exportera. |
+| ström | Ström | Strömmen att exportera data till. |
 | optionsBase | ImageOptionsBase | Alternativ för bildexport |
-| boundsRectangle | Rectangle | Gränsrektangeln. |
+| boundsRectangle | Rectangle | Begränsningsrektangeln. |
 
 ### Se även
 
@@ -52,7 +53,7 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* namnutrymme [Aspose.PSD](../../iimageexporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

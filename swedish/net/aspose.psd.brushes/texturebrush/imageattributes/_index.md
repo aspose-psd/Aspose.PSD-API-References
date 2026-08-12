@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageAttributes
-second_title: Aspose.PSD för .NET API-referens
-description: TextureBrush fast egendom. FårImageAttributes i samband med dettaTextureBrush .
+title: "TextureBrush.ImageAttributes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextureBrush-egenskap. Hämtar ImageAttributes som är associerade med detta TextureBrush"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageAttributes property
 
-Får`ImageAttributes` i samband med detta[`TextureBrush`](../) .
+Hämtar `ImageAttributes` som är associerade med detta [`TextureBrush`](../).
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De`ImageAttributes`.
+Den `ImageAttributes`.
 
 ### Se även
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../texturebrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

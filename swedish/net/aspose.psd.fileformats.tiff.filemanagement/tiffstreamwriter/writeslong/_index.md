@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter metod. Skriver ett enda heltalsvärde till strömmen.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-metoden. Skriver ett enda heltalvärde till strömmen"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
 Skriver ett enda heltalsvärde till strömmen.
@@ -21,7 +22,7 @@ public void WriteSlong(int data)
 ### Se även
 
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilters
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters klass. De smarta filtren förSmartObjectLayer .
+title: "Klass SmartFilters"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters-klass. De smarta filtren för SmartObjectLayer"
 type: docs
-weight: 3470
+weight: 3890
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartFilters class
 
-De smarta filtren för[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
+De smarta filtren för [`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/).
 
 ```csharp
 public class SmartFilters
@@ -16,24 +17,24 @@ public class SmartFilters
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | Hämtar eller ställer in de smarta filtren. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | Får statusen är aktiverad för den smarta filtermasken. |
-| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | Får statusen är mask aktiverad för det smarta filtret. |
-| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | Får masken förlängd med vit status för det smarta filtret. |
-| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | Hämtar statusen är masklänkad för det smarta filtret. |
-| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | Får den är giltig vid positionsstatus för det smarta filtret. |
+| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | Hämtar eller anger de smarta filtren. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | Hämtar om den smarta filtermasken är aktiverad. |
+| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | Hämtar om masken för det smarta filtret är aktiverad. |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | Hämtar om masken för det smarta filtret är utökad med vitt. |
+| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | Hämtar om masken för det smarta filtret är länkad. |
+| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | Hämtar om det smarta filtret är giltigt på positionen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | Uppdaterar smart filterdata till[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) . |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | Uppdaterar de smarta filterdata i [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

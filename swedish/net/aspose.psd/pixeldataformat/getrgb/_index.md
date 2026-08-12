@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetRgb
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat metod. Får RGBfärg med ett specificerat antal bitar per sampel.
+title: "PixelDataFormat.GetRgb"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat metod. Hämtar RGB-färg med ett angivet antal bitar per prov."
 type: docs
 weight: 250
 url: /sv/net/aspose.psd/pixeldataformat/getrgb/
 ---
+{{< psd/tize >}}
 ## GetRgb(int) {#getrgb}
 
-Får RGB-färg med ett specificerat antal bitar per sampel.
+Hämtar RGB-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerSample)
@@ -16,7 +17,7 @@ public static PixelDataFormat GetRgb(int bitsPerSample)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Antalet bitar per sampel. |
+| bitsPerSample | Int32 | Antalet bitar per prov. |
 
 ### Returvärde
 
@@ -25,14 +26,14 @@ RGB-färgen.
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgb(int, int, int) {#getrgb_1}
 
-Får RGB-färg med ett specificerat antal bitar per sampel.
+Hämtar RGB-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerRedChannel, int bitsPerGreenChannel, 
@@ -52,7 +53,7 @@ RGB-färgen.
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

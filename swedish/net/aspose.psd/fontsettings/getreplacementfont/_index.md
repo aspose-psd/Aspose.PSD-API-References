@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Får det mest lämpliga ersättningsteckensnittet. Om alla ersättningar inte är tillåtna kommer det att returneras först tillåtna och tillgängliga teckensnitt. Om det inte finns några tillgängliga teckensnitt returneras typsnitt från argument
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metod. Hämtar det mest lämpliga ersättningsteckensnittet. Om alla ersättningar inte är tillåtna returneras det första tillåtna och tillgängliga teckensnittet. Om det inte finns några tillgängliga teckensnitt returneras teckensnittet från argumentet."
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-Får det mest lämpliga ersättningsteckensnittet. Om alla ersättningar inte är tillåtna kommer det att returneras först tillåtna och tillgängliga teckensnitt. Om det inte finns några tillgängliga teckensnitt returneras typsnitt från argument
+Hämtar det mest lämpliga ersättningsteckensnittet. Om alla ersättningar inte är tillåtna returneras det första tillåtna och tillgängliga teckensnittet. Om det inte finns några tillgängliga teckensnitt returneras teckensnittet från argumentet.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
@@ -16,15 +17,15 @@ public static string GetReplacementFont(string fontName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | Typsnittets namn. |
+| fontName | String | Teckensnittets namn. |
 
 ### Returvärde
 
-Namnet på det ersatta teckensnittet
+Namnet på det ersatta teckensnittet.
 
-### Exempel
+## Exempel
 
-Följande kod demonstrerar förmågan att programmässigt begränsa teckensnitt med hjälp av.
+Följande kod demonstrerar möjligheten att programatiskt begränsa teckensnitt med hjälp av.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Figure.Shapes
-second_title: Aspose.PSD för .NET API-referens
-description: Figure fast egendom. Får figurformerna.
+title: "Figure.Shapes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Figure-egenskap. Hämtar figurens former"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/figure/shapes/
 ---
+{{< psd/tize >}}
 ## Figure.Shapes property
 
-Får figurformerna.
+Hämtar figurens former.
 
 ```csharp
 public Shape[] Shapes { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Figuren formar.
+Figurens former.
 
 ### Se även
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* namnutrymme [Aspose.PSD](../../figure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

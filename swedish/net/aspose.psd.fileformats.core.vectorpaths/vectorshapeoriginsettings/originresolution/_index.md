@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginResolution
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Hämtar eller ställer in ursprungsupplösningen.
+title: "VectorShapeOriginSettings.OriginResolution"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings egenskap. Hämtar eller anger ursprungsupplösning"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginResolution property
 
-Hämtar eller ställer in ursprungsupplösningen.
+Hämtar eller anger ursprungsupplösning.
 
 ```csharp
 public double OriginResolution { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Ursprungsupplösningen.
 
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

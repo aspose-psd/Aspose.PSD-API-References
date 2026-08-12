@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Version
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar eller ställer in versionen.
+title: "CgEdResource.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource-egenskapen. Hämtar eller anger versionen"
 type: docs
-weight: 110
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
-Hämtar eller ställer in versionen.
+Hämtar eller anger versionen.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

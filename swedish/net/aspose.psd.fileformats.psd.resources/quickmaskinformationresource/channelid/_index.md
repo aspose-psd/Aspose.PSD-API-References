@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.ChannelId
-second_title: Aspose.PSD för .NET API-referens
-description: QuickMaskInformationResource fast egendom. Hämtar eller ställer in kanalidentifieraren.
+title: "QuickMaskInformationResource.ChannelId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "QuickMaskInformationResource-egenskap. Hämtar eller anger kanalidentifieraren"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.ChannelId property
 
-Hämtar eller ställer in kanalidentifieraren.
+Hämtar eller anger kanalidentifieraren.
 
 ```csharp
 public short ChannelId { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kanalidentifieraren.
 
 ### Se även
 
 * class [QuickMaskInformationResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

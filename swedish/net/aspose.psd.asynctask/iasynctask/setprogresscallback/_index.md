@@ -1,14 +1,15 @@
 ---
-title: IAsyncTask.SetProgressCallback
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTask metod. Ställer in förloppsåteruppringningsdelegat.
+title: "IAsyncTask.SetProgressCallback"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTask metod. Ställer in framstegsåteruppringningsdelegaten"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.asynctask/iasynctask/setprogresscallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetProgressCallback method
 
-Ställer in förloppsåteruppringningsdelegat.
+Ställer in återanropsdelegaten för framsteg.
 
 ```csharp
 public void SetProgressCallback(ProgressCallback progressCallback)
@@ -16,13 +17,13 @@ public void SetProgressCallback(ProgressCallback progressCallback)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| progressCallback | ProgressCallback | Förloppet återuppringning. |
+| progressCallback | ProgressCallback | Framstegsåteruppringningsfunktionen. |
 
 ### Se även
 
 * delegate [ProgressCallback](../../progresscallback/)
 * interface [IAsyncTask](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctask/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

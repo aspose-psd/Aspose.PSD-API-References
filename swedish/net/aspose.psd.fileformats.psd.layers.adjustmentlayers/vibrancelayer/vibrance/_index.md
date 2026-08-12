@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Aspose.PSD för .NET API-referens
-description: VibranceLayer fast egendom. Får eller ställer in pulsen.
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VibranceLayer-egenskap. Hämtar eller anger vibransen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-Får eller ställer in pulsen.
+Hämtar eller anger vibransen.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vibransen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Vibransen måste ligga inom området -180 till +180 |
+| ArgumentOutOfRangeException | Vibrans måste vara i intervallet från -180 till +180 |
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för lagret VibranceLayer och möjligheten att redigera denna justering.
+Följande kodexempel demonstrerar stöd för VibranceLayer-lagret och möjligheten att redigera denna justering.
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### Se även
 
 * class [VibranceLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

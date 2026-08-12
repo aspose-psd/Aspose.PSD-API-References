@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Aspose.PSD för .NET API-referens
-description: ColorRangeHsl fast egendom. Får eller ställer in ljusheten.
+title: "ColorRangeHsl.Lightness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorRangeHsl egenskap. Hämtar eller anger ljusstyrkan"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
-Får eller ställer in ljusheten.
+Hämtar eller anger ljusstyrkan.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Lättheten.
+Ljusnivån.
 
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBasicPackage metod. Lägger till resurs senast ändrad datum.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBasicPackage method. Lägger till resursens senast ändrade datum"
 type: docs
-weight: 80
+weight: 100
 url: /sv/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
-Lägger till resurs senast ändrad datum.
+Lägger till resursens senast modifierade datum.
 
 ```csharp
 public void SetModifyDate(DateTime modifiedDate)
@@ -16,19 +17,19 @@ public void SetModifyDate(DateTime modifiedDate)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| modifiedDate | DateTime | Senaste ändringsdatum. |
+| modifiedDate | DateTime | Senast ändrade datum. |
 
 ### Se även
 
 * class [XmpBasicPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetModifyDate(string) {#setmodifydate_1}
 
-Lägger till resurs senast ändrad datum.
+Lägger till resursens senast modifierade datum.
 
 ```csharp
 public void SetModifyDate(string modifiedDate)
@@ -36,12 +37,12 @@ public void SetModifyDate(string modifiedDate)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| modifiedDate | String | Senaste ändringsdatum. |
+| modifiedDate | String | Senast ändrade datum. |
 
 ### Se även
 
 * class [XmpBasicPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

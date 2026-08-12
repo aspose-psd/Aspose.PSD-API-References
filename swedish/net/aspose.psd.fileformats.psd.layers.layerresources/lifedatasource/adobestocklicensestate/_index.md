@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: Aspose.PSD för .NET API-referens
-description: LiFeDataSource fast egendom. Hämtar statusen för Adobe Stocklicensen om tillgänglig för Adobe Photoshop CCbibliotek.
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LiFeDataSource-egenskap. Hämtar status för Adobe Stock-licensen om den är tillgänglig för Adobe Photoshop CC-bibliotek."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-Hämtar statusen för Adobe Stock-licensen om tillgänglig, för Adobe® Photoshop® CC-bibliotek.
+Hämtar status för Adobe Stock-licensen om den är tillgänglig, för Adobe® Photoshop® CC libraries.
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Tillståndet för Adobe Stock-licensen eller tom sträng om den inte är tillgänglig.
+Status för Adobe Stock-licensen eller en tom sträng om den inte är tillgänglig.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för LnkeResource-resursen.
+Följande kod demonstrerar stöd för LnkeResource-resursen.
 
 ```csharp
 [C#]
@@ -245,7 +246,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### Se även
 
 * class [LiFeDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

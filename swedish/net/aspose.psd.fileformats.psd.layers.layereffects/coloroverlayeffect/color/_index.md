@@ -1,20 +1,21 @@
 ---
-title: ColorOverlayEffect.Color
-second_title: Aspose.PSD för .NET API-referens
-description: ColorOverlayEffect fast egendom. Hämtar eller ställer in färgen.
+title: "ColorOverlayEffect.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorOverlayEffect-egenskap. Hämtar eller anger färgen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Color property
 
-Hämtar eller ställer in färgen.
+Hämtar eller anger färgen.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
@@ -22,7 +23,7 @@ Färgen.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorOverlayEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

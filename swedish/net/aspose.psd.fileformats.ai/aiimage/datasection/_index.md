@@ -1,11 +1,12 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar datasektionen.
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar datasektionen"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
 Hämtar datasektionen.
@@ -14,7 +15,7 @@ Hämtar datasektionen.
 public AiDataSection DataSection { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Datasektionen.
 
@@ -22,7 +23,7 @@ Datasektionen.
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

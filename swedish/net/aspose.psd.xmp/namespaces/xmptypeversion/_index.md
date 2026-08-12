@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpTypeVersion
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. XMP Version.
+title: "Namespaces.XmpTypeVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namespaces-fält. XMP-version"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.xmp/namespaces/xmptypeversion/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeVersion field
 
-XMP Version.
+XMP-version.
 
 ```csharp
 public const string XmpTypeVersion;
@@ -17,7 +18,7 @@ public const string XmpTypeVersion;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

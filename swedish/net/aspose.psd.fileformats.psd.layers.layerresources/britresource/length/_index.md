@@ -1,14 +1,15 @@
 ---
-title: BritResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: BritResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "BritResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BritResource egenskap. Hämtar lagerresursens längd i byte"
 type: docs
-weight: 60
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/length/
 ---
+{{< psd/tize >}}
 ## BritResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [BritResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

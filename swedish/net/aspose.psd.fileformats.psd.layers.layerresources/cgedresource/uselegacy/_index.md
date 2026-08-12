@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar eller ställer in ett värde som anger om använd äldre.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource-egenskapen. Hämtar eller anger ett värde som indikerar om legacy används"
 type: docs
-weight: 100
+weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-Hämtar eller ställer in ett värde som anger om [använd äldre].
+Hämtar eller anger ett värde som indikerar om [use legacy] ska användas.
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [använd äldre]; annat,`falsk` .
+`true` om [use legacy]; annars `false`.
 
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

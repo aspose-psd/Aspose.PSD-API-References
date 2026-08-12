@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Hämtar arrayen av int färgpixlar.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection egenskap. Hämtar arrayen av int-färgpixlar"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
 Hämtar arrayen av int färgpixlar.
@@ -14,14 +15,14 @@ Hämtar arrayen av int färgpixlar.
 public int[] Pixels { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Arrayen av int färgpixlar.
+Arrayen av int-färgpixlar.
 
 ### Se även
 
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

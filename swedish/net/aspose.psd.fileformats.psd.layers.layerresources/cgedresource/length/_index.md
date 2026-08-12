@@ -1,14 +1,15 @@
 ---
-title: CgEdResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "CgEdResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource-egenskapen. Hämtar lagerresursens längd i byte"
 type: docs
-weight: 70
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Top
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in den övre platsen för det placerade lagret i PSDbilden.
+title: "IPlacedLayerResource.Top"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger den övre positionen för det placerade lagret i PSD-bilden"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Top property
 
-Hämtar eller ställer in den övre platsen för det placerade lagret i PSD-bilden.
+Hämtar eller anger den övre positionen för det placerade lagret i PSD‑bilden.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den översta platsen för det placerade lagret.
+Den övre positionen för det placerade lagret.
 
 ### Se även
 
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

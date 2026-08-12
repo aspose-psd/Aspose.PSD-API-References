@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: Aspose.PSD för .NET API-referens
-description: PsdOptions fast egendom. Hämtar eller ställer in antalet färgkanaler.
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdOptions egenskap. Hämtar eller anger antalet färgkanaler"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
-Hämtar eller ställer in antalet färgkanaler.
+Hämtar eller anger antalet färgkanaler.
 
 ```csharp
 public short ChannelsCount { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Färgkanalerna räknas.
+Antalet färgkanaler.
 
 ### Se även
 
 * class [PsdOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../psdoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

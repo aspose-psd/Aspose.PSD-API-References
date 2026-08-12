@@ -1,14 +1,15 @@
 ---
-title: Point.op_Explicit
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Konverterar den angivnaPoint struktur till enSizestruktur.
+title: "Point.op_Explicit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metoden. Konverterar den angivna Point-strukturen till en Size-struktur"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd/point/op_explicit/
 ---
+{{< psd/tize >}}
 ## Point Explicit operator
 
-Konverterar den angivna[`Point`](../) struktur till en[`Size`](../../size/)struktur.
+Konverterar den angivna [`Point`](../) strukturen till en [`Size`](../../size/) struktur.
 
 ```csharp
 public static explicit operator Size(Point point)
@@ -16,17 +17,17 @@ public static explicit operator Size(Point point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../) som ska konverteras. |
+| point | Point | Det [`Point`](../) som ska konverteras. |
 
 ### Returvärde
 
-De[`Size`](../../size/) som är resultatet av konverteringen.
+Den [`Size`](../../size/) som erhålls av konverteringen.
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

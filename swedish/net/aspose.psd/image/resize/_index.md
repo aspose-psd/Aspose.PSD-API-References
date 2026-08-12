@@ -1,14 +1,15 @@
 ---
-title: Image.Resize
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Ändrar storlek på bilden.
+title: "Image.Resize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-metod. Ändrar storleken på bilden"
 type: docs
-weight: 190
+weight: 200
 url: /sv/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -24,14 +25,14 @@ public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int) {#resize}
 
-Ändrar storleken på bilden. StandardenLeftTopToLeftTopanvänds.
+Ändrar bildens storlek. Standardvärdet NearestNeighbourResample används.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
@@ -42,9 +43,9 @@ public void Resize(int newWidth, int newHeight)
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur man ändrar storlek på PSD-bild och resultat som vi får av Aspose.PSD
+Följande exempel visar hur man ändrar storlek på PSD-bild och resultatet vi får med Aspose.PSD
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -64,14 +65,14 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
@@ -81,13 +82,13 @@ public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| settings | ImageResizeSettings | Ändra storleksinställningar. |
+| inställningar | ImageResizeSettings | Inställningarna för storleksändring. |
 
 ### Se även
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

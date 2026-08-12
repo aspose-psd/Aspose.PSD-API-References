@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.RegisterCreator
-second_title: Aspose.PSD för .NET API-referens
-description: ImageCreatorsRegistry metod. Registrerar skaparen.
+title: "ImageCreatorsRegistry.RegisterCreator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageCreatorsRegistry‑metod. Registrerar skaparen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/imagecreatorsregistry/registercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisterCreator method
 
 Registrerar skaparen.
@@ -16,13 +17,13 @@ public static void RegisterCreator(IImageCreatorDescriptor creatorDescriptor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | Skaparbeskrivningen för att registrera. |
+| creatorDescriptor | IImageCreatorDescriptor | Den skaparbeteckning som ska registreras. |
 
 ### Se även
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* namnutrymme [Aspose.PSD](../../imagecreatorsregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

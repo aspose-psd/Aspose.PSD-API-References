@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.AddPackage
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPacketWrapper metod. Lägger till paketet.
+title: "XmpPacketWrapper.AddPackage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPacketWrapper‑metod. Lägger till paketet"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp/xmppacketwrapper/addpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.AddPackage method
 
 Lägger till paketet.
@@ -16,13 +17,13 @@ public void AddPackage(XmpPackage package)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| package | XmpPackage | Förpackningen. |
+| paket | XmpPackage | Paketet. |
 
 ### Se även
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

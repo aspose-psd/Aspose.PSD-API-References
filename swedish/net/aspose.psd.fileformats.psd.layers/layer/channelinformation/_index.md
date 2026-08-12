@@ -1,20 +1,21 @@
 ---
-title: Layer.ChannelInformation
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in kanalinformationen.
+title: "Layer.ChannelInformation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger kanalinformationen"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelInformation property
 
-Hämtar eller ställer in kanalinformationen.
+Hämtar eller anger kanalinformationen.
 
 ```csharp
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kanalinformationen.
 
@@ -22,7 +23,7 @@ Kanalinformationen.
 
 * class [ChannelInformation](../../channelinformation/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

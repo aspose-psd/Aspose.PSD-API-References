@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsContinuousManagerUsed
-second_title: Aspose.PSD för .NET API-referens
-description: CurvesLayer fast egendom. Hämtar eller ställer in ett värde som indikerar om denna instans är kontinuerlig hanterare som används.
+title: "CurvesLayer.IsContinuousManagerUsed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvesLayer-egenskap. Hämtar eller anger ett värde som indikerar om denna instans använder en kontinuerlig manager"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/iscontinuousmanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsContinuousManagerUsed property
 
-Hämtar eller ställer in ett värde som indikerar om denna instans är kontinuerlig hanterare som används.
+Hämtar eller anger ett värde som indikerar om den här instansen använder en kontinuerlig manager.
 
 ```csharp
 public bool IsContinuousManagerUsed { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans används kontinuerligt hanteraren; annat,`falsk` .
+`true` om denna instans använder en kontinuerlig manager; annars `false`.
 
 ### Se även
 
 * class [CurvesLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.ShapeSegments
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller olika formsegment som kombinerar former.
+title: "Aspose.PSD.ShapeSegments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnområdet innehåller olika formsegment som kombinerar former"
 type: docs
-weight: 500
+weight: 540
 url: /sv/net/aspose.psd.shapesegments/
 ---
-Namnutrymmet innehåller olika formsegment som kombinerar former.
+{{< psd/tize >}}
+Namnområdet innehåller olika formsegment som kombinerar former.
 
 ## Klasser
 

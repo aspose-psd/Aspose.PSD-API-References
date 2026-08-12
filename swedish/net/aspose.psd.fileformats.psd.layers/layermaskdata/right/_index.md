@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Right
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskData fast egendom. Får eller ställer in rätt lagermaskposition.
+title: "LayerMaskData.Right"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskData-egenskap. Hämtar eller anger den högra lagermaskens position"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Right property
 
-Får eller ställer in rätt lagermaskposition.
+Hämtar eller anger den högra lagermaskens position.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Höger lagermaskposition.
+Den högra lagermaskens position.
 
 ### Se även
 
 * class [LayerMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

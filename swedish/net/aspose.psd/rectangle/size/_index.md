@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Size
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle fast egendom. Hämtar eller ställer in storleken på dettaRectangle .
+title: "Rectangle.Size"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle-egenskap. Hämtar eller anger storleken på denna Rectangle"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd/rectangle/size/
 ---
+{{< psd/tize >}}
 ## Rectangle.Size property
 
-Hämtar eller ställer in storleken på detta[`Rectangle`](../) .
+Hämtar eller anger storleken på denna [`Rectangle`](../).
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`Size`](../../size/) som representerar bredden och höjden på detta[`Rectangle`](../) strukturera.
+En [`Size`](../../size/) som representerar bredden och höjden på denna [`Rectangle`](../) struktur.
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: PixelsData.PixelsData
-second_title: Aspose.PSD för .NET API-referens
-description: PixelsData byggare. Initierar en ny instans avPixelsData class.
+title: "PixelsData.PixelsData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelsData constructor. Initierar en ny instans av PixelsData‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/pixelsdata/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData() {#constructor}
 
-Initierar en ny instans av[`PixelsData`](../) class.
+Initierar en ny instans av [`PixelsData`](../)‑klassen.
 
 ```csharp
 public PixelsData()
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar hur du skapar ett anpassat smart filter som har en anpassad renderare.
+Följande kod visar hur du skapar ett anpassat smart‑filter som har en anpassad renderare.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initierar det ostödda smartfiltret 'Crystallize' vid inmatningsmatrisen
+    // Initierar det ej stödda 'Crystallize'-smart‑filtret i inmatningsarrayen
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // "Kristallisera" smarta filter-ID.
+        // det 'Crystallize'-smart‑filter‑ID:t.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -52,14 +53,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Använd filter på SmartObject
+        // Applicera filter på SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Använd filter på lagermasken
+        // Applicera filter på lagermask
         smartFilter.ApplyToMask(maskLayer);
 
-        //Applicera filter på lagret
+        //Applicera filter på lager
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -76,15 +77,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // "Kristallisera" smarta filter-ID.
+        // det 'Crystallize'-smart‑filter‑ID:t.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // få filterstruktur
+        // hämta filterstruktur
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // få värdet av Crystallize Size
+        // hämta värdet för Crystallize‑storlek
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -103,14 +104,14 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 ### Se även
 
 * class [PixelsData](../)
-* namnutrymme [Aspose.PSD](../../pixelsdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PixelsData(int[], Rectangle) {#constructor_1}
 
-Initierar en ny instans av[`PixelsData`](../) class.
+Initierar en ny instans av [`PixelsData`](../)‑klassen.
 
 ```csharp
 public PixelsData(int[] pixels, Rectangle bounds)
@@ -118,22 +119,22 @@ public PixelsData(int[] pixels, Rectangle bounds)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pixels | Int32[] | Pixeldata. |
-| bounds | Rectangle | Pixlarna avgränsar rektangeln. |
+| pixlar | Int32[] | Pixeldata. |
+| gränser | Rectangle | Pixelgränsernas rektangel. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur du skapar ett anpassat smart filter som har en anpassad renderare.
+Följande kod visar hur du skapar ett anpassat smart‑filter som har en anpassad renderare.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initierar det ostödda smartfiltret 'Crystallize' vid inmatningsmatrisen
+    // Initierar det ej stödda 'Crystallize'-smart‑filtret i inmatningsarrayen
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // "Kristallisera" smarta filter-ID.
+        // det 'Crystallize'-smart‑filter‑ID:t.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -159,14 +160,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Använd filter på SmartObject
+        // Applicera filter på SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Använd filter på lagermasken
+        // Applicera filter på lagermask
         smartFilter.ApplyToMask(maskLayer);
 
-        //Applicera filter på lagret
+        //Applicera filter på lager
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -183,15 +184,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // "Kristallisera" smarta filter-ID.
+        // det 'Crystallize'-smart‑filter‑ID:t.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // få filterstruktur
+        // hämta filterstruktur
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // få värdet av Crystallize Size
+        // hämta värdet för Crystallize‑storlek
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -211,7 +212,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 * struct [Rectangle](../../rectangle/)
 * class [PixelsData](../)
-* namnutrymme [Aspose.PSD](../../pixelsdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

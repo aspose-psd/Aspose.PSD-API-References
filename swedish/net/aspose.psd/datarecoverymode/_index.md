@@ -1,30 +1,31 @@
 ---
-title: Enum DataRecoveryMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.DataRecoveryMode uppräkning. Dataåterställningsläget.
+title: "Enum DataRecoveryMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.DataRecoveryMode-enum. Dataåterställningsläget."
 type: docs
-weight: 730
+weight: 740
 url: /sv/net/aspose.psd/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## DataRecoveryMode enumeration
 
-Dataåterställningsläget.
+Datåterställningsläget.
 
 ```csharp
 public enum DataRecoveryMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Ingen dataåterställning antyds. Närhelst filformatet har korrupta data skapas det lämpliga undantaget. |
-| ConsistentRecover | `1` | Det konsekventa återställningsläget försöker återställa all data så länge som korruption inte bryter filformatet och tillåter korrekt vidare bearbetning. |
-| MaximalRecover | `2` | Det maximala återställningsläget återställer all data även om filformatet har korrupt struktur och ytterligare bearbetning kan ge oövervakade effekter. |
+| None | `0` | Ingen dataåterställning antas. När filformatet har korrupt data kastas lämpligt undantag. |
+| ConsistentRecover | `1` | Det konsekventa återställningsläget försöker återställa all data så länge korruptionen inte bryter filformatet och möjliggör korrekt vidare bearbetning. |
+| MaximalRecover | `2` | Det maximala återställningsläget återställer all data även om filformatet har en korrupt struktur och vidare bearbetning kan leda till oönskade effekter. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

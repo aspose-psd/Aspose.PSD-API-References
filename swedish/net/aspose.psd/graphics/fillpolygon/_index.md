@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillPolygon
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Fyller det inre av en polygon som definieras av en matris med punkter som specificeras avPointF strukturer ochAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Fyller polygonens inre som definieras av en array av punkter specificerade av PointF‑strukturer och Alternate."
 type: docs
-weight: 380
+weight: 390
 url: /sv/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`PointF`](../../pointf/) strukturer ochAlternate .
+Fyller polygonens inre som definieras av en array av punkter specificerade av [`PointF`](../../pointf/) strukturer och Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
@@ -16,28 +17,28 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| points | PointF[] | Uppsättning av[`PointF`](../../pointf/) strukturer som representerar toppen av polygonen som ska fyllas. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| points | PointF[] | Array av [`PointF`](../../pointf/) strukturer som representerar polygonens hörn som ska fyllas. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+| ArgumentNullException | *brush* är null. -eller- *points* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`PointF`](../../pointf/) strukturer som använder det angivna fyllningsläget.
+Fyller polygonens inre som definieras av en array av punkter specificerade av [`PointF`](../../pointf/) strukturer med den angivna fyllningsläget.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
@@ -45,15 +46,15 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| points | PointF[] | Uppsättning av[`PointF`](../../pointf/) strukturer som representerar toppen av polygonen som ska fyllas. |
-| fillMode | FillMode | Medlem av[`FillMode`](../../fillmode/) uppräkning som bestämmer stilen på fyllningen. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| points | PointF[] | Array av [`PointF`](../../pointf/) strukturer som representerar polygonens hörn som ska fyllas. |
+| fillMode | FillMode | Medlem av [`FillMode`](../../fillmode/)‑enumerationen som bestämmer fyllningsstilen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+| ArgumentNullException | *brush* är null. -eller- *points* är null. |
 
 ### Se även
 
@@ -61,14 +62,14 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`Point`](../../point/) strukturer ochAlternate .
+Fyller polygonens inre som definieras av en array av punkter specificerade av [`Point`](../../point/) strukturer och Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
@@ -76,28 +77,28 @@ public void FillPolygon(Brush brush, Point[] points)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| points | Point[] | Uppsättning av[`Point`](../../point/) strukturer som representerar toppen av polygonen som ska fyllas. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| points | Point[] | Array av [`Point`](../../point/) strukturer som representerar polygonens hörn som ska fyllas. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+| ArgumentNullException | *brush* är null. -eller- *points* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`Point`](../../point/) strukturer som använder det angivna fyllningsläget.
+Fyller polygonens inre som definieras av en array av punkter specificerade av [`Point`](../../point/) strukturer med det angivna fyllningsläget.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
@@ -105,15 +106,15 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| points | Point[] | Uppsättning av[`Point`](../../point/) strukturer som representerar toppen av polygonen som ska fyllas. |
-| fillMode | FillMode | Medlem av[`FillMode`](../../fillmode/) uppräkning som bestämmer stilen på fyllningen. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| points | Point[] | Array av [`Point`](../../point/) strukturer som representerar polygonens hörn som ska fyllas. |
+| fillMode | FillMode | Medlem av [`FillMode`](../../fillmode/)‑enumerationen som bestämmer fyllningsstilen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+| ArgumentNullException | *brush* är null. -eller- *points* är null. |
 
 ### Se även
 
@@ -121,7 +122,7 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

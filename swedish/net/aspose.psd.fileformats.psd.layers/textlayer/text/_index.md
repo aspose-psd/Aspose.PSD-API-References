@@ -1,11 +1,12 @@
 ---
-title: TextLayer.Text
-second_title: Aspose.PSD för .NET API-referens
-description: TextLayer fast egendom. Hämtar texten.
+title: "TextLayer.Text"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextLayer egenskap. Hämtar texten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers/textlayer/text/
 ---
+{{< psd/tize >}}
 ## TextLayer.Text property
 
 Hämtar texten.
@@ -14,14 +15,14 @@ Hämtar texten.
 public string Text { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Texten.
 
 ### Se även
 
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

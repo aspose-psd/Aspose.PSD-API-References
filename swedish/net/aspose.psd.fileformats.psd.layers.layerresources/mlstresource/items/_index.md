@@ -1,22 +1,23 @@
 ---
-title: MlstResource.Items
-second_title: Aspose.PSD för .NET API-referens
-description: MlstResource fast egendom. Hämtar eller ställer in strukturerna.
+title: "MlstResource.Items"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MlstResource egenskap. Hämtar eller anger strukturerna"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
-Hämtar eller ställer in strukturerna.
+Hämtar eller anger strukturerna.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för MlstResource-resursen som ger en lågnivåmekanism för att manipulera lagertillstånden.
+Följande kod demonstrerar stöd för MlstResource‑resursen som ger en låg‑nivå‑mekanism för att manipulera lagrets tillstånd.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Inaktivera lager 1 på ram 1
+    // Inaktivera lager 1 på bildruta 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

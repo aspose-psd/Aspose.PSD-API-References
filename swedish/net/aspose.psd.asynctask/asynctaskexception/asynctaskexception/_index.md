@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD för .NET API-referens
-description: AsyncTaskException byggare. Initierar en ny instans avAsyncTaskException class.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AsyncTaskException‑konstruktor. Initierar en ny instans av AsyncTaskException‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-Initierar en ny instans av[`AsyncTaskException`](../) class.
+Initierar en ny instans av [`AsyncTaskException`](../)‑klassen.
 
 ```csharp
 public AsyncTaskException(string message)
@@ -21,7 +22,7 @@ public AsyncTaskException(string message)
 ### Se även
 
 * class [AsyncTaskException](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

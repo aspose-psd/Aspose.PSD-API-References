@@ -1,14 +1,15 @@
 ---
-title: Frame.Delay
-second_title: Aspose.PSD för .NET API-referens
-description: Frame fast egendom. Hämtar eller ställer in ramfördröjningsvärdet i centasekunder. Innehåller till exempel på 1 sekund 100 centasekunder.
+title: "Frame.Delay"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Frame-egenskap. Hämtar eller anger fördröjningsvärdet för bildrutan i centisekunder. Till exempel innehåller 1 sekund 100 centisekunder"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/frame/delay/
 ---
+{{< psd/tize >}}
 ## Frame.Delay property
 
-Hämtar eller ställer in ramfördröjningsvärdet i centa-sekunder. Innehåller till exempel på 1 sekund 100 centa-sekunder.
+Hämtar eller anger bildrutefördröjningsvärdet i centisekunder. Till exempel innehåller 1 sekund 100 centisekunder.
 
 ```csharp
 public int Delay { get; set; }
@@ -17,7 +18,7 @@ public int Delay { get; set; }
 ### Se även
 
 * class [Frame](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

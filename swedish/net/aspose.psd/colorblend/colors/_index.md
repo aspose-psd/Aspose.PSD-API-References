@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.Colors
-second_title: Aspose.PSD för .NET API-referens
-description: ColorBlend fast egendom. Hämtar eller ställer in en uppsättning färger som representerar färgerna som ska användas på motsvarande positioner längs en gradient.
+title: "ColorBlend.Colors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorBlend‑egenskap. Hämtar eller anger en matris av färger som representerar färgerna som ska användas vid motsvarande positioner längs en gradient"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/colorblend/colors/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Colors property
 
-Hämtar eller ställer in en uppsättning färger som representerar färgerna som ska användas på motsvarande positioner längs en gradient.
+Hämtar eller anger en array av färger som representerar färgerna att använda på motsvarande positioner längs en gradient.
 
 ```csharp
 public Color[] Colors { get; set; }
@@ -16,13 +17,13 @@ public Color[] Colors { get; set; }
 
 ### Returvärde
 
-En uppställning av[`Color`](../../color/) strukturer som representerar färgerna som ska användas på motsvarande positioner längs en gradient.
+En matris av strukturerna [`Color`](../../color/) som representerar färgerna som ska användas vid motsvarande positioner längs en gradient.
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [ColorBlend](../)
-* namnutrymme [Aspose.PSD](../../colorblend/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

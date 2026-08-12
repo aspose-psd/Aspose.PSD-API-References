@@ -1,27 +1,28 @@
 ---
-title: TextShape.Text
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape fast egendom. Hämtar eller ställer in den ritade texten.
+title: "TextShape.Text"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape-egenskap. Hämtar eller anger den ritade texten"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
-Hämtar eller ställer in den ritade texten.
+Hämtar eller anger den ritade texten.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den ritade texten.
 
 ### Se även
 
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

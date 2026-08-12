@@ -1,20 +1,21 @@
 ---
-title: GradientFillSettings.Color
-second_title: Aspose.PSD för .NET API-referens
-description: GradientFillSettings fast egendom. Hämtar eller ställer in färgen.
+title: "GradientFillSettings.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientFillSettings egenskap. Hämtar eller anger färgen"
 type: docs
-weight: 40
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Color property
 
-Hämtar eller ställer in färgen.
+Hämtar eller anger färgen.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
@@ -22,7 +23,7 @@ Färgen.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

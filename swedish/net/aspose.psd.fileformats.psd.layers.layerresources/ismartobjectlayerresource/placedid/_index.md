@@ -1,26 +1,27 @@
 ---
-title: ISmartObjectLayerResource.PlacedId
-second_title: Aspose.PSD för .NET API-referens
-description: ISmartObjectLayerResource fast egendom. Hämtar eller ställer in den unika identifieraren för denna smarta objektlagerdata i PSDbilden.
+title: "ISmartObjectLayerResource.PlacedId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ISmartObjectLayerResource egenskap. Hämtar eller anger den unika identifieraren för detta smarta objektlagers data i PSD-bilden"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource.PlacedId property
 
-Hämtar eller ställer in den unika identifieraren för denna smarta objektlagerdata i PSD-bilden.
+Hämtar eller anger den unika identifieraren för detta smartobjektlagrets data i PSD‑bilden.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den unika identifieraren för denna smarta objektlagerresurs.
+Det unika identifieraren för detta smarta objektlagersresurs.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för Embedded Smart-objekt.
+Följande kod demonstrerar stöd för inbäddade smarta objekt.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man ändrar det smarta objektlagret i PSD-filen och exporterar / uppdaterar det ursprungliga inbäddade innehållet för smarta objekt.
+// Detta exempel visar hur man ändrar smarta objektlagret i PSD-filen och exporterar/uppdaterar smarta objektets ursprungliga inbäddade innehåll.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Låt oss exportera den inbäddade smarta objektbilden från PSD-smarta objektlagret
+        // Låt oss exportera den inbäddade smarta objektbilden från PSD:s smarta objektlager
         smartObjectLayer.ExportContents(exportPath);
 
-        // Låt oss kontrollera om originalbilden är korrekt sparad
+        // Låt oss kontrollera om den ursprungliga bilden har sparats korrekt
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -88,7 +89,7 @@ foreach (FileFormat format in formats)
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Låt oss kontrollera om den uppdaterade bilden sparas korrekt
+        // Låt oss kontrollera om den uppdaterade bilden har sparats korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -98,7 +99,7 @@ foreach (FileFormat format in formats)
 ### Se även
 
 * interface [ISmartObjectLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

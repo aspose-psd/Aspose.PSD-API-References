@@ -1,14 +1,15 @@
 ---
-title: PdfOptions.PdfCoreOptions
-second_title: Aspose.PSD för .NET API-referens
-description: PdfOptions fast egendom. PDFkärnalternativen
+title: "PdfOptions.PdfCoreOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfOptions-egenskap. PDF-kärnalternativen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfCoreOptions property
 
-PDF-kärnalternativen
+PDF‑kärnalternativen
 
 ```csharp
 public PdfCoreOptions PdfCoreOptions { get; set; }
@@ -18,7 +19,7 @@ public PdfCoreOptions PdfCoreOptions { get; set; }
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

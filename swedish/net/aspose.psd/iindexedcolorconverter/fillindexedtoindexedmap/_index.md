@@ -1,14 +1,15 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: Aspose.PSD för .NET API-referens
-description: IIndexedColorConverter metod. Fyller den indexerade till indexerade bildkonverteringskartan.
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IIndexedColorConverter-metod. Fyller den indexerade till indexerade bildkonverteringskartan."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
-Fyller den indexerade till indexerade bildkonverteringskartan.
+Fyller i konverteringskartan från indexerad till indexerad bild.
 
 ```csharp
 public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat, 
@@ -17,15 +18,15 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| map | Byte[] | Konverteringskartan. |
+| karta | Byte[] | Konverteringskartan. |
 | sourceFormat | PixelDataFormat | Källformatet. |
-| destFormat | PixelDataFormat | Målformatet. |
+| destFormat | PixelDataFormat | Destinationsformatet. |
 
 ### Se även
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* namnutrymme [Aspose.PSD](../../iindexedcolorconverter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

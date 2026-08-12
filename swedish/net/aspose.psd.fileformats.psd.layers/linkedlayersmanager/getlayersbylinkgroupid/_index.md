@@ -1,14 +1,15 @@
 ---
-title: LinkedLayersManager.GetLayersByLinkGroupId
-second_title: Aspose.PSD för .NET API-referens
-description: LinkedLayersManager metod. Hämtar lager efter länkgruppid.
+title: "LinkedLayersManager.GetLayersByLinkGroupId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkedLayersManager metod. Hämtar lager efter länkgroups-id"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.GetLayersByLinkGroupId method
 
-Hämtar lager efter länkgrupp-id.
+Hämtar lager efter länkgrupps‑ID.
 
 ```csharp
 public Layer[] GetLayersByLinkGroupId(short linkGroupId)
@@ -16,13 +17,13 @@ public Layer[] GetLayersByLinkGroupId(short linkGroupId)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| linkGroupId | Int16 | Länkgrupps-id. |
+| linkGroupId | Int16 | Länkgroups-id. |
 
 ### Returvärde
 
-Lageruppsättningen.
+Lagrenas array.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du kan manipulera länkade lager i Aspose.PSD
 
@@ -32,7 +33,7 @@ Följande exempel visar hur du kan manipulera länkade lager i Aspose.PSD
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
@@ -40,23 +41,23 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
     // länka alla lager i en länkad grupp
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // får id för ett lager
+    // hämtar ID för ett lager
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // hämtar alla länkade lager efter länkgrupp-id.
+    // hämtar alla länkade lager efter länkgruppens ID.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // ta bort länken mellan varje lager från gruppen
+    // koppla bort varje lager från gruppen
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // hämtar NULL för ett länkgrupps-ID som inte har några lager i gruppen.
+    // returnerar NULL för ett länkgrupps-ID som inte har några lager i gruppen.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -70,7 +71,7 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

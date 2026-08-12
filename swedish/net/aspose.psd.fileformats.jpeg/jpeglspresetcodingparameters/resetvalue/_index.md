@@ -1,14 +1,15 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: Aspose.PSD för .NET API-referens
-description: JpegLsPresetCodingParameters fast egendom. Hämtar eller ställer in värdet vid vilket räknarna A B och N halveras.
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegLsPresetCodingParameters-egenskap. Hämtar eller anger värdet där räknarna A B och N halveras"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
-Hämtar eller ställer in värdet vid vilket räknarna A, B och N halveras.
+Hämtar eller anger värdet där räknarna A, B och N halveras.
 
 ```csharp
 public int ResetValue { get; set; }
@@ -17,7 +18,7 @@ public int ResetValue { get; set; }
 ### Se även
 
 * class [JpegLsPresetCodingParameters](../)
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

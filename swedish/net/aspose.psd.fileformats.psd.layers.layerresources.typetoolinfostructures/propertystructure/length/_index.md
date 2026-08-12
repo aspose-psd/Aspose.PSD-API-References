@@ -1,14 +1,15 @@
 ---
-title: PropertyStructure.Length
-second_title: Aspose.PSD för .NET API-referens
-description: PropertyStructure fast egendom. FårOSTypeStructure längd i byte.
+title: "PropertyStructure.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PropertyStructure-egenskap. Hämtar OSTypeStructure-längden i byte"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.Length property
 
-Får[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) längd i byte.
+Hämtar [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) längden i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [PropertyStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

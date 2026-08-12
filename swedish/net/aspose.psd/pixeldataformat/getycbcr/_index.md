@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetYCbCr
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat metod. Får YCbCrfärg med ett specificerat antal bitar per sampel.
+title: "PixelDataFormat.GetYCbCr"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat metod. Hämtar YCbCr-färg med ett angivet antal bitar per prov."
 type: docs
 weight: 280
 url: /sv/net/aspose.psd/pixeldataformat/getycbcr/
 ---
+{{< psd/tize >}}
 ## GetYCbCr(int) {#getycbcr}
 
-Får YCbCr-färg med ett specificerat antal bitar per sampel.
+Hämtar YCbCr-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerSample)
@@ -16,23 +17,23 @@ public static PixelDataFormat GetYCbCr(int bitsPerSample)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Antalet bitar per sampel. |
+| bitsPerSample | Int32 | Antalet bitar per prov. |
 
 ### Returvärde
 
-YCbCr-färgen.
+Den YCbCr-färgen.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetYCbCr(int, int, int) {#getycbcr_1}
 
-Får YCbCr-färg med ett specificerat antal bitar per sampel.
+Hämtar YCbCr-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerCr)
@@ -46,12 +47,12 @@ public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerC
 
 ### Returvärde
 
-YCbCr-färgen.
+Den YCbCr-färgen.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

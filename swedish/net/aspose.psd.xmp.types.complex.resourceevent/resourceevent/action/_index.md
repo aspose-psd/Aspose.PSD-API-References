@@ -1,31 +1,32 @@
 ---
-title: ResourceEvent.Action
-second_title: Aspose.PSD för .NET API-referens
-description: ResourceEvent fast egendom. Får eller ställer in åtgärd.
+title: "ResourceEvent.Action"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResourceEvent‑egenskap. Hämtar eller anger åtgärd."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
-Får eller ställer in åtgärd.
+Hämtar eller anger åtgärden.
 
 ```csharp
 public string Action { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Åtgärden.
 
-### Exempel
+## Exempel
 
-Definierade värden är: konverterad, kopierad, skapad, beskuren, redigerad, filtrerad, formaterad, version_updated, tryckt, publicerad, hanterad, producerad, storleksändrad, sparad. Nya värden ska vara verb i preteritum.
+Definierade värden är: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. Nya värden bör vara verb i dåtid.
 
 ### Se även
 
 * class [ResourceEvent](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

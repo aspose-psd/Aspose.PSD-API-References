@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD för .NET API-referens
-description: ObjectArrayStructure fast egendom. Hämtar eller ställer in objektmatrisklassID.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ObjectArrayStructure-egenskap. Hämtar eller anger objektarrayens klass-ID."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Hämtar eller ställer in objektmatrisklass-ID.
+Hämtar eller anger ID för objektarrayklassen.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Objektmatrisklass-ID.
+Objektarrayens klass-ID.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för ObAr- och UnFl-signaturerna.
+Följande kod demonstrerar stödet för ObAr- och UnFl‑signaturerna.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

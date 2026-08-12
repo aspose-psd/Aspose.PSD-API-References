@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils klass. Verktygsklassen tifffilformatsalternativ.
+title: "Klass TiffOptionsUtils"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageOptions.TiffOptionsUtils klass. Tiff‑filformatets alternativverktygsklass"
 type: docs
-weight: 4960
+weight: 5450
 url: /sv/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-Verktygsklassen tiff-filformatsalternativ.
+tiff-filformatalternativens verktygsklass.
 
 ```csharp
 public class TiffOptionsUtils
@@ -16,19 +17,19 @@ public class TiffOptionsUtils
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TiffOptionsUtils](tiffoptionsutils/)() | Default_Constructor |
+| [TiffOptionsUtils](tiffoptionsutils/)() | Standardkonstruktorn. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Får antalet giltiga taggar. |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Hämtar antalet giltiga taggar. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

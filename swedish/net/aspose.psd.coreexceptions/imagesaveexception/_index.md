@@ -1,14 +1,15 @@
 ---
-title: Class ImageSaveException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.ImageSaveException klass. Undantaget för att spara bilder. Uppstår under bildsparande.
+title: "Class ImageSaveException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException class. Bildsparningsundantaget. Uppstår under bildsparning."
 type: docs
 weight: 630
 url: /sv/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
-Undantaget för att spara bilder. Uppstår under bildsparande.
+Bildsparningsundantaget. Förekommer under bildsparning.
 
 ```csharp
 public class ImageSaveException : ImageException
@@ -16,15 +17,15 @@ public class ImageSaveException : ImageException
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | Initierar en ny instans av`ImageSaveException` class. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | Initierar en ny instans av`ImageSaveException` class. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | Initierar en ny instans av klassen `ImageSaveException`. |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | Initierar en ny instans av klassen `ImageSaveException`. |
 
 ### Se även
 
 * class [ImageException](../imageexception/)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

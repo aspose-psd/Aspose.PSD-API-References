@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeOriginSettings
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings klass. Inställningar för ursprung för vektorform.
+title: "Klass VectorShapeOriginSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings klass. Inställningar för vektorformens ursprung"
 type: docs
-weight: 1440
+weight: 1450
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings class
 
-Inställningar för ursprung för vektorform.
+Inställningar för vektorformens ursprung.
 
 ```csharp
 public sealed class VectorShapeOriginSettings
@@ -16,34 +17,35 @@ public sealed class VectorShapeOriginSettings
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Initierar en ny instans av`VectorShapeOriginSettings` class. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Initierar en ny instans av klassen `VectorShapeOriginSettings`. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor_1)(bool, int) | Initierar en ny instans av klassen `VectorShapeOriginSettings`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Får ett värde som anger om denna instans har egenskapen origin box corners. |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Får ett värde som anger om denna instans har ursprungsindexegenskap. |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Får ett värde som indikerar om denna instans har egenskapen ursprungsradier rektangel. |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Får ett värde som indikerar om denna instans har ursprungsupplösningsegenskap. |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Får ett värde som indikerar om denna instans har rektangelegenskapen. |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Får ett värde som indikerar om denna instans har ursprungstypsegenskap. |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Hämtar eller ställer in ett värde som anger om formen är ogiltig. |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Får ett värde som indikerar om denna instans har en form ogiltig egenskapsuppsättning. |
-| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Får ett värde som anger om denna instans har transformegenskapen. |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Hämtar eller ställer in ursprungsboxens hörn. |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Hämtar eller ställer in ursprungsformindex. |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Hämtar eller ställer in origo-radierektangeln. |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Hämtar eller ställer in ursprungsupplösningen. |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Hämtar eller ställer in ursprungsformens begränsningsram. |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Hämtar eller ställer in typen av ursprung. |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Hämtar eller ställer in transformationsmatrisen. |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungsboxens hörn. |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungsindex. |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungsradiernas rektangel. |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungsupplösning. |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har egenskapen för rektangel. |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungstyp. |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Hämtar eller anger ett värde som indikerar om formen är ogiltigförklarad. |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har en egenskap för ogiltigförklarad form satt. |
+| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Hämtar ett värde som indikerar om den här instansen har transform‑egenskapen. |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Hämtar eller anger ursprungsboxens hörn. |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Hämtar eller anger ursprungsformens index. |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Hämtar eller anger ursprungsradiernas rektangel. |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Hämtar eller anger ursprungsupplösning. |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Hämtar eller anger ursprungsformens avgränsningsruta. |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Hämtar eller anger typen av ursprunget. |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Hämtar eller anger transformationsmatrisen. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VogkResource-resursen.
+Följande exempel demonstrerar stöd för VogkResource-resursen.
 
 ```csharp
 [C#]
@@ -78,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Läser
+    // Läsning
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -99,7 +101,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

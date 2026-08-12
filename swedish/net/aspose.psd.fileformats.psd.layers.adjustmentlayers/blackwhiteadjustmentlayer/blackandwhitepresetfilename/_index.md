@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName
-second_title: Aspose.PSD för .NET API-referens
-description: BlackWhiteAdjustmentLayer fast egendom. Hämtar eller ställer in det svartvita förinställda filnamnet.
+title: "BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlackWhiteAdjustmentLayer egenskap. Hämtar eller anger filnamnet för svart‑vit‑förinställning"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName property
 
-Hämtar eller ställer in det svartvita förinställda filnamnet.
+Hämtar eller anger filnamnet för den svartvita förinställningen.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det svartvita förinställda filnamnet.
+Filnamnet för svart‑vit‑förinställning.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan manipulera egenskaperna för justeringslager för svartvitt i Aspose.PSD
+Följande exempel visar hur du kan manipulera egenskaperna för svartvita justeringslagret i Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

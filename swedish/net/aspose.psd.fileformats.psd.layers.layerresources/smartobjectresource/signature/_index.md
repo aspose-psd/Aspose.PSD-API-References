@@ -1,14 +1,15 @@
 ---
-title: SmartObjectResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Får resurssignaturen för smarta objekt.
+title: "SmartObjectResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource-egenskap. Hämtar smartobjektresursens signatur"
 type: docs
 weight: 210
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Signature property
 
-Får resurssignaturen för smarta objekt.
+Hämtar signaturen för smartobjektresursen.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

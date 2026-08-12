@@ -1,14 +1,15 @@
 ---
-title: ILayerResourceLoader.CanLoad
-second_title: Aspose.PSD för .NET API-referens
-description: ILayerResourceLoader metod. Bestämmer om lagerresurs kan laddas från den angivnaStreamContainer .
+title: "ILayerResourceLoader.CanLoad"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ILayerResourceLoader‑metod. Avgör om lagerresursen kan laddas från den angivna StreamContainer"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.CanLoad method
 
-Bestämmer om lagerresurs kan laddas från den angivna[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+Avgör om lagerresursen kan laddas från den angivna [`StreamContainer`](../../../aspose.psd/streamcontainer/).
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
@@ -21,13 +22,13 @@ public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 
 ### Returvärde
 
-`Sann` om lagerresurs kan laddas från den angivna[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; annat,`falsk` .
+`true` om lagerresursen kan laddas från den angivna [`StreamContainer`](../../../aspose.psd/streamcontainer/); annars, `false`.
 
 ### Se även
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle klass. Definierar vektorform radier rektangel class
+title: "Klass VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle klass. Definierar vektorformens radier rektangelklass"
 type: docs
-weight: 1450
+weight: 1460
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Definierar vektorform radier rektangel class
+Definierar vektorformens radier-rektangelklass
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -16,28 +17,28 @@ public sealed class VectorShapeRadiiRectangle
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Default_Constructor |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Får eller sätter botten. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Hämtar eller ställer in längst ned till höger. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Hämtar eller ställer in enhetsvärdet quad version. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Hämtar eller sätter upp till vänster. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Hämtar eller sätter upp till höger. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Hämtar eller anger botten. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Hämtar eller anger nedre högra. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Hämtar eller anger enhetsvärdet quad‑version. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Hämtar eller anger övre vänstra. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Hämtar eller anger övre högra. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar att laddning och lagring av PSD-bilden med formlager och vektorbanor fungerar korrekt.
+Detta exempel demonstrerar att inläsning och sparande av PSD‑bilden med formlager och vektorpågar fungerar korrekt.
 
 ```csharp
 [C#]
 
-// Det här exemplet visar att laddning och lagring av PSD-bilden med formlager och vektorbanor fungerar korrekt.
+// Detta exempel demonstrerar att inläsning och sparande av PSD‑bilden med formlager och vektorpågar fungerar korrekt.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -164,7 +165,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

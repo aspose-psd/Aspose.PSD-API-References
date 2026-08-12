@@ -1,41 +1,42 @@
 ---
-title: Enum ExifFlash
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifFlash uppräkning. Flashläge.
+title: "Enum ExifFlash"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifFlash enum. Blixtläge"
 type: docs
-weight: 860
+weight: 870
 url: /sv/net/aspose.psd.exif.enums/exifflash/
 ---
+{{< psd/tize >}}
 ## ExifFlash enumeration
 
-Flash-läge.
+Blixtläge.
 
 ```csharp
 public enum ExifFlash
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Noflash | `0` | Ingen blixt avfyrad. |
+| Noflash | `0` | Ingen blixt utlöst. |
 | Fired | `1` | Blixt utlöst. |
-| FiredReturnLightNotDetected | `5` | Blixt avfyrad, returljus inte upptäckt. |
-| FiredReturnLightDetected | `7` | Blixt avfyrad, returljus upptäckt. |
-| YesCompulsory | `9` | Blixt avfyrad, obligatoriskt blixtläge. |
-| YesCompulsoryReturnLightNotDetected | `13` | Blixt avfyrad, obligatoriskt läge, returljus inte upptäckt. |
-| YesCompulsoryReturnLightDetected | `15` | Blixt avfyrad, obligatoriskt läge, returljus upptäckt. |
+| FiredReturnLightNotDetected | `5` | Blixt utlöst, återljus ej upptäckt. |
+| FiredReturnLightDetected | `7` | Blixt utlöst, återljus upptäckt. |
+| YesCompulsory | `9` | Blixt utlöst, obligatoriskt blixtläge. |
+| YesCompulsoryReturnLightNotDetected | `13` | Blixt utlöst, obligatoriskt läge, återljus ej upptäckt. |
+| YesCompulsoryReturnLightDetected | `15` | Blixt utlöst, obligatoriskt läge, återljus upptäckt. |
 | NoCompulsory | `16` | Blixten avfyrades inte, obligatoriskt blixtläge. |
-| NoDidNotFireReturnLightNotDetected | `20` | Blixten avfyrades inte, returljuset upptäcktes inte. |
-| NoAuto | `24` | Blixten avfyrades inte, autoläge. |
-| YesAuto | `25` | Blixtavfyrad i autoläge. |
-| YesAutoReturnLightNotDetected | `29` | Blixt avfyrad, autoläge, returljus inte upptäckt. |
-| YesAutoReturnLightDetected | `31` | Blixt avfyrad, autoläge, returljus upptäckt. |
+| NoDidNotFireReturnLightNotDetected | `20` | Blixten avfyrades inte, återljus ej upptäckt. |
+| NoAuto | `24` | Blixten avfyrades inte, automatiskt läge. |
+| YesAuto | `25` | Blixt firedm automatiskt läge. |
+| YesAutoReturnLightNotDetected | `29` | Blixt avfyrad, automatiskt läge, återljus ej upptäckt. |
+| YesAutoReturnLightDetected | `31` | Blixt avfyrad, automatiskt läge, återljus upptäckt. |
 | NoFlashFunction | `32` | Ingen blixtfunktion. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

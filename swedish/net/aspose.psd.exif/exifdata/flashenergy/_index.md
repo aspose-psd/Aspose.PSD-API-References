@@ -1,20 +1,21 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Får eller ställer in blixtenergin.
+title: "ExifData.FlashEnergy"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger blixtenergi"
 type: docs
 weight: 260
 url: /sv/net/aspose.psd.exif/exifdata/flashenergy/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashEnergy property
 
-Får eller ställer in blixtenergin.
+Hämtar eller anger blixtenergi.
 
 ```csharp
 public TiffRational FlashEnergy { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blixtenergin.
 
@@ -22,7 +23,7 @@ Blixtenergin.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

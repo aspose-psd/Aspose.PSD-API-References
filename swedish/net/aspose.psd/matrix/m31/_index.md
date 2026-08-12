@@ -1,14 +1,15 @@
 ---
-title: Matrix.M31
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix fast egendom. Hämtar matriselementet vid tredje radens första kolumn. Representerar översättning längs Xaxeln.
+title: "Matrix.M31"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-egenskap. Hämtar matrisens element på tredje raden första kolumnen. Representerar translation längs X-axeln"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/matrix/m31/
 ---
+{{< psd/tize >}}
 ## Matrix.M31 property
 
-Hämtar matriselementet vid tredje radens första kolumn. Representerar översättning längs X-axeln.
+Hämtar matrisens element i tredje raden första kolumnen. Representerar translation längs X-axeln.
 
 ```csharp
 public float M31 { get; }
@@ -17,7 +18,7 @@ public float M31 { get; }
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

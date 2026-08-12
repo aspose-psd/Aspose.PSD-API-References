@@ -1,14 +1,15 @@
 ---
-title: Region.IsVisible
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Testar om den angivna punkten finns i dennaRegion .
+title: "Region.IsVisible"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region-metoden. Testar om den angivna punkten finns inom detta Region"
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/aspose.psd/region/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_11}
 
-Testar om den angivna punkten finns i denna[`Region`](../) .
+Testar om den angivna punkten finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(float x, float y)
@@ -21,19 +22,19 @@ public bool IsVisible(float x, float y)
 
 ### Returvärde
 
-Sant när den angivna punkten finns i denna[`Region`](../) ; annars, false.
+Sant när den angivna punkten finns inom detta [`Region`](../); annars falskt.
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Testar om den angivna[`PointF`](../../pointf/) strukturen finns i detta[`Region`](../) .
+Testar om den angivna [`PointF`](../../pointf/) strukturen finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(PointF point)
@@ -41,24 +42,24 @@ public bool IsVisible(PointF point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../../pointf/) struktur att testa. |
+| point | PointF | Den [`PointF`](../../pointf/) strukturen att testa. |
 
 ### Returvärde
 
-sant när*point* ingår i detta[`Region`](../) ; annars, false.
+true när *point* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_12}
 
-Testar om den angivna punkten finns i denna[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om den angivna punkten finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics g)
@@ -68,24 +69,24 @@ public bool IsVisible(float x, float y, Graphics g)
 | --- | --- | --- |
 | x | Single | X-koordinaten för punkten som ska testas. |
 | y | Single | Y-koordinaten för punkten som ska testas. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-Sant när den angivna punkten finns i denna[`Region`](../) ; annars, false.
+Sant när den angivna punkten finns inom detta [`Region`](../); annars falskt.
 
 ### Se även
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Testar om den angivna[`PointF`](../../pointf/) strukturen finns i detta[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om den angivna [`PointF`](../../pointf/) strukturen finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(PointF point, Graphics g)
@@ -93,26 +94,26 @@ public bool IsVisible(PointF point, Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../../pointf/) struktur att testa. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| point | PointF | Den [`PointF`](../../pointf/) strukturen att testa. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när*point* ingår i detta[`Region`](../) ; annars, false.
+true när *point* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float) {#isvisible_13}
 
-Testar om någon del av den angivna rektangeln finns i denna[`Region`](../) .
+Testar om någon del av den angivna rektangeln finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height)
@@ -120,26 +121,26 @@ public bool IsVisible(float x, float y, float width, float height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | X-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| y | Single | Y-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| width | Single | Bredden på rektangeln som ska testas. |
-| height | Single | Höjden på rektangeln som ska testas. |
+| x | Single | X-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| y | Single | Y-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| bredd | Single | Bredden på rektangeln som ska testas. |
+| höjd | Single | Höjden på rektangeln som ska testas. |
 
 ### Returvärde
 
-sant när någon del av den angivna rektangeln finns i denna[`Region`](../) objekt; annars, false.
+true när någon del av den angivna rektangeln finns inom detta [`Region`](../)-objekt; annars false.
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF) {#isvisible_6}
 
-Testar om någon del av det angivna[`RectangleF`](../../rectanglef/) strukturen finns i detta[`Region`](../) .
+Testar om någon del av den angivna [`RectangleF`](../../rectanglef/)-strukturen finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(RectangleF rect)
@@ -147,24 +148,24 @@ public bool IsVisible(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur att testa. |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/)-strukturen som ska testas. |
 
 ### Returvärde
 
-sant när någon del av*rect* ingår i detta[`Region`](../) ; annars, false.
+true när någon del av *rect* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float, Graphics) {#isvisible_14}
 
-Testar om någon del av den angivna rektangeln finns i denna[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om någon del av den angivna rektangeln finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height, Graphics g)
@@ -172,28 +173,28 @@ public bool IsVisible(float x, float y, float width, float height, Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | X-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| y | Single | Y-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| width | Single | Bredden på rektangeln som ska testas. |
-| height | Single | Höjden på rektangeln som ska testas. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| x | Single | X-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| y | Single | Y-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| bredd | Single | Bredden på rektangeln som ska testas. |
+| höjd | Single | Höjden på rektangeln som ska testas. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när någon del av den angivna rektangeln finns i denna[`Region`](../) ; annars, false.
+true när någon del av den angivna rektangeln finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF, Graphics) {#isvisible_7}
 
-Testar om någon del av det angivna[`RectangleF`](../../rectanglef/) strukturen finns i detta[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om någon del av den angivna [`RectangleF`](../../rectanglef/)-strukturen finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(RectangleF rect, Graphics g)
@@ -201,26 +202,26 @@ public bool IsVisible(RectangleF rect, Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur att testa. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/)-strukturen som ska testas. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när*rect* ingår i detta[`Region`](../) ; annars, false.
+true när *rect* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_8}
 
-Testar om den angivna punkten finns i denna[`Region`](../) objekt när det ritas med det angivna[`Graphics`](../../graphics/) objekt.
+Testar om den angivna punkten finns inom detta [`Region`](../)-objekt när den ritas med det angivna [`Graphics`](../../graphics/)-objektet.
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics g)
@@ -230,24 +231,24 @@ public bool IsVisible(int x, int y, Graphics g)
 | --- | --- | --- |
 | x | Int32 | X-koordinaten för punkten som ska testas. |
 | y | Int32 | Y-koordinaten för punkten som ska testas. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när den angivna punkten finns i denna[`Region`](../) ; annars, false.
+true när den angivna punkten finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Testar om den angivna[`Point`](../../point/) strukturen finns i detta[`Region`](../) .
+Testar om den angivna [`Point`](../../point/)-strukturen finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(Point point)
@@ -255,24 +256,24 @@ public bool IsVisible(Point point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../../point/) struktur att testa. |
+| point | Point | Den [`Point`](../../point/)-strukturen som ska testas. |
 
 ### Returvärde
 
-sant när*point* ingår i detta[`Region`](../) ; annars, false.
+true när *point* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [Point](../../point/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Testar om den angivna[`Point`](../../point/) strukturen finns i detta[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om den angivna [`Point`](../../point/)-strukturen finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(Point point, Graphics g)
@@ -280,26 +281,26 @@ public bool IsVisible(Point point, Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../../point/) struktur att testa. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| point | Point | Den [`Point`](../../point/)-strukturen som ska testas. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när*point* ingår i detta[`Region`](../) ; annars, false.
+true när *point* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int) {#isvisible_9}
 
-Testar om någon del av den angivna rektangeln finns i denna[`Region`](../) .
+Testar om någon del av den angivna rektangeln finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height)
@@ -307,26 +308,26 @@ public bool IsVisible(int x, int y, int width, int height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Int32 | X-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| y | Int32 | Y-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| width | Int32 | Bredden på rektangeln som ska testas. |
-| height | Int32 | Höjden på rektangeln som ska testas. |
+| x | Int32 | X-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| y | Int32 | Y-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| bredd | Int32 | Bredden på rektangeln som ska testas. |
+| höjd | Int32 | Höjden på rektangeln som ska testas. |
 
 ### Returvärde
 
-sant när någon del av den angivna rektangeln finns i denna[`Region`](../) ; annars, false.
+true när någon del av den angivna rektangeln finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle) {#isvisible_4}
 
-Testar om någon del av det angivna[`Rectangle`](../../rectangle/) strukturen finns i detta[`Region`](../) .
+Testar om någon del av den angivna [`Rectangle`](../../rectangle/)-strukturen finns inom detta [`Region`](../).
 
 ```csharp
 public bool IsVisible(Rectangle rect)
@@ -334,24 +335,24 @@ public bool IsVisible(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur att testa. |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/)-strukturen som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant när någon del av*rect* ingår i detta[`Region`](../) ; annars, false.
+Denna metod returnerar true när någon del av *rect* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int, Graphics) {#isvisible_10}
 
-Testar om någon del av den angivna rektangeln finns i denna[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om någon del av den angivna rektangeln finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height, Graphics g)
@@ -359,28 +360,28 @@ public bool IsVisible(int x, int y, int width, int height, Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Int32 | X-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| y | Int32 | Y-koordinaten för det övre vänstra hörnet av rektangeln som ska testas. |
-| width | Int32 | Bredden på rektangeln som ska testas. |
-| height | Int32 | Höjden på rektangeln som ska testas. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| x | Int32 | X-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| y | Int32 | Y-koordinaten för det övre vänstra hörnet på rektangeln som ska testas. |
+| bredd | Int32 | Bredden på rektangeln som ska testas. |
+| höjd | Int32 | Höjden på rektangeln som ska testas. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när någon del av den angivna rektangeln finns i denna[`Region`](../) ; annars, false.
+true när någon del av den angivna rektangeln finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle, Graphics) {#isvisible_5}
 
-Testar om någon del av det angivna[`Rectangle`](../../rectangle/) strukturen finns i detta[`Region`](../) när den ritas med det angivna[`Graphics`](../../graphics/) .
+Testar om någon del av den angivna [`Rectangle`](../../rectangle/)-strukturen finns inom detta [`Region`](../) när den ritas med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(Rectangle rect, Graphics g)
@@ -388,19 +389,19 @@ public bool IsVisible(Rectangle rect, Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur att testa. |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar ett grafiskt sammanhang. |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/)-strukturen som ska testas. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en grafikkontext. |
 
 ### Returvärde
 
-sant när någon del av*rect* ingår i detta[`Region`](../) ; annars, false.
+true när någon del av *rect* finns inom detta [`Region`](../); annars false.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: UrlListResource.UrlListResource
-second_title: Aspose.PSD för .NET API-referens
-description: UrlListResource byggare. Default_Constructor
+title: "UrlListResource.UrlListResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UrlListResource-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/urllistresource/urllistresource/
 ---
+{{< psd/tize >}}
 ## UrlListResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public UrlListResource()
@@ -17,7 +18,7 @@ public UrlListResource()
 ### Se även
 
 * class [UrlListResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

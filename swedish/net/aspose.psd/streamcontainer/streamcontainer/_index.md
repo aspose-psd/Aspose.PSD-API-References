@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer byggare. Initierar en ny instans avStreamContainer class.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer-konstruktor. Initierar en ny instans av klassen StreamContainer"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-Initierar en ny instans av[`StreamContainer`](../) class.
+Initierar en ny instans av klassen [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream)
@@ -16,19 +17,19 @@ public StreamContainer(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen. |
+| ström | Ström | Strömmen. |
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-Initierar en ny instans av[`StreamContainer`](../) class.
+Initierar en ny instans av klassen [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
@@ -36,13 +37,13 @@ public StreamContainer(Stream stream, bool disposeStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Dataströmmen. |
-| disposeStream | Boolean | om inställt på`Sann` strömmen kommer att kastas när behållaren kasseras. |
+| ström | Ström | Datastreamen. |
+| disposeStream | Boolean | Om den är satt till `true` kommer strömmen att tas bort när containern tas bort. |
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

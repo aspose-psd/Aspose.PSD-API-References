@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PSD för .NET API-referens
-description: ProgressEventHandlerInfo fast egendom. Hämtar den övre gränsen för förloppsvärde.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ProgressEventHandlerInfo egenskap. Hämtar den övre gränsen för förloppsvärdet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
-Hämtar den övre gränsen för förloppsvärde.
+Hämtar det övre gränsvärdet för framsteg.
 
 ```csharp
 public int MaxValue { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den övre gränsen för förloppsvärde.
+Den övre gränsen för förloppsvärdet.
 
 ### Se även
 
 * class [ProgressEventHandlerInfo](../)
-* namnutrymme [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

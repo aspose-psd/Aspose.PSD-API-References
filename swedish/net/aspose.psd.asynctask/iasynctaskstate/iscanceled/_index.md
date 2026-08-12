@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.IsCanceled
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTaskState fast egendom. Får ett värde som indikerar om den asynkrona uppgiften avbryts.
+title: "IAsyncTaskState.IsCanceled"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTaskState egenskap. Hämtar ett värde som indikerar om den asynkrona uppgiften är avbruten"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.IsCanceled property
 
-Får ett värde som indikerar om den asynkrona uppgiften avbryts.
+Hämtar ett värde som indikerar om den asynkrona uppgiften är avbruten.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den asynkrona uppgiften avbryts; annat,`falsk` .
+`true` om den asynkrona uppgiften är avbruten; annars `false`.
 
 ### Se även
 
 * interface [IAsyncTaskState](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

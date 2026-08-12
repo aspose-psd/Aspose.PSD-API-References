@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.ResolutionUnit
-second_title: Aspose.PSD för .NET API-referens
-description: JpegOptions fast egendom. Hämtar eller ställer in upplösningsenheten.
+title: "JpegOptions.ResolutionUnit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegOptions‑egenskap. Hämtar eller anger upplösningsenheten"
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.psd.imageoptions/jpegoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ResolutionUnit property
 
-Hämtar eller ställer in upplösningsenheten.
+Hämtar eller anger upplösningsenheten.
 
 ```csharp
 public ResolutionUnit ResolutionUnit { get; set; }
@@ -18,7 +19,7 @@ public ResolutionUnit ResolutionUnit { get; set; }
 
 * enum [ResolutionUnit](../../../aspose.psd/resolutionunit/)
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

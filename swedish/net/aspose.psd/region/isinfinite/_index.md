@@ -1,14 +1,15 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Testar om dettaRegion har en oändlig interiör på den angivna ritytan.
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Testar om detta Region har ett oändligt inre på den angivna ritytan"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-Testar om detta[`Region`](../) har en oändlig interiör på den angivna ritytan.
+Testar om detta [`Region`](../) har ett oändligt inre på den angivna ritytan.
 
 ```csharp
 public bool IsInfinite(Graphics g)
@@ -16,15 +17,15 @@ public bool IsInfinite(Graphics g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) som representerar en rityta. |
+| g | Graphics | Ett [`Graphics`](../../graphics/) som representerar en rityta. |
 
 ### Returvärde
 
-sant om det inre av detta[`Region`](../) är oändlig när omvandlingen förknippas med*g* tillämpas; annars, false.
+true om inre av detta [`Region`](../) är oändligt när transformationen som är associerad med *g* tillämpas; annars false.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | *g* är null. |
 
@@ -32,7 +33,7 @@ sant om det inre av detta[`Region`](../) är oändlig när omvandlingen förknip
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

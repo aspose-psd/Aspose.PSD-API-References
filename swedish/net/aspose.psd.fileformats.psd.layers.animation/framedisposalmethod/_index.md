@@ -1,30 +1,31 @@
 ---
-title: Enum FrameDisposalMethod
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod uppräkning. Metoden för bortskaffande av ram anger om den aktuella bildrutan ska kasseras innan nästa bildruta visas. Du väljer en kasseringsmetod för animeringar som inkluderar bakgrundsgenomskinlighet för att ange om den aktuella ramen ska vara synlig genom de transparenta områdena i nästa bildruta.
+title: "Enum FrameDisposalMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod enum. Bildrutes borttagningsmetod specificerar om den aktuella bildrutan ska kasseras innan nästa bildruta visas. Du väljer en borttagningsmetod för animationer som inkluderar bakgrundstransparens för att ange om den aktuella bildrutan kommer att vara synlig genom de transparenta områdena i nästa bildruta."
 type: docs
-weight: 1850
+weight: 1950
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/framedisposalmethod/
 ---
+{{< psd/tize >}}
 ## FrameDisposalMethod enumeration
 
-Metoden för bortskaffande av ram anger om den aktuella bildrutan ska kasseras innan nästa bildruta visas. Du väljer en kasseringsmetod för animeringar som inkluderar bakgrundsgenomskinlighet för att ange om den aktuella -ramen ska vara synlig genom de transparenta områdena i nästa bildruta.
+Metoden för bildrutes borttagning specificerar om den aktuella bildrutan ska kasseras innan nästa bildruta visas. Du väljer en borttagningsmetod för animationer som inkluderar bakgrundstransparens för att ange om den aktuella bildrutan kommer att vara synlig genom de transparenta områdena i nästa bildruta.
 
 ```csharp
 public enum FrameDisposalMethod
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Automatic | `0` | Bestämmer automatiskt en bortskaffningsmetod för den aktuella bilden och kasserar den aktuella ramen om nästa bildruta innehåller lagertransparens. För de flesta animeringar ger alternativet Automatisk (standard) de önskade resultaten. |
-| DoNotDispose | `1` | Bevarar den aktuella bildrutan när nästa bildruta läggs till på skärmen. Den aktuella bildrutan (och föregående bildrutor) kan visas genom genomskinliga områden i nästa bildruta. |
-| Dispose | `2` | Förkastar den aktuella bildrutan från displayen innan nästa bildruta visas. Endast en enda bildruta visas när som helst (och den aktuella bildrutan visas inte genom de genomskinliga områdena i nästa bildruta). |
+| Automatic | `0` | Bestämmer en borttagningsmetod för den aktuella ramen automatiskt och kastar bort den aktuella ramen om nästa ram innehåller lagrets transparens. För de flesta animationer ger alternativet Automatisk (standard) önskat resultat. |
+| DoNotDispose | `1` | Bevarar den aktuella ramen när nästa ram läggs till på displayen. Den aktuella ramen (och föregående ramar) kan synas genom transparenta områden i nästa ram. |
+| Dispose | `2` | Kastar bort den aktuella ramen från displayen innan nästa ram visas. Endast en enda ram visas åt gången (och den aktuella ramen visas inte genom de transparenta områdena i nästa ram). |
 
-### Exempel
+## Exempel
 
-Klassen TimeLine ger en hög nivå förmåga att manipulera tidslinjen för PsdImage, som att ändra bildrutefördröjning eller redigera lagertillstånd på en specifik bildruta.
+Timeline‑klassen ger en hög nivå förmåga att manipulera tidslinjen för PsdImage, såsom att ändra bildrutefördröjning eller redigera lagertillstånd på en specifik bildruta.
 
 ```csharp
 [C#]
@@ -34,40 +35,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Ändra avyttringsmetod för ram 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Ändra borttagningsmetod för bildruta 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Ändra fördröjning av bildruta 2
-    timeLine.Frames[1].Delay = 15;
+    // Ändra fördröjning för bildruta 2
+    timeline.Frames[1].Delay = 15;
 
-    // Ändra opaciteten för 'Layer 1' på bildruta 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Ändra opacitet för 'Layer 1' på bildruta 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // flytta 'Layer 1' till det nedre vänstra hörnet på bildruta 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // flytta 'Layer 1' till vänster‑nedre hörnet på bildruta 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Lägger till ny ram
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Lägger till ny bildruta
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Ändra blendMode för 'Layer 1' på bildruta 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Ändra blandningsläge för 'Layer 1' på bildruta 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Tillämpa ändringar tillbaka till PsdImage-instansen
-    timeLine.ApplyTo(psdImage);
+    // Applicera ändringar tillbaka till PsdImage‑instansen
     psdImage.Save(outputPsd);
 }
 ```
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

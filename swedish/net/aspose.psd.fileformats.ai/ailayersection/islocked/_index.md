@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in ett värde som anger om detta lager är låst. Förhindrar ändringar av objektet.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection-egenskap. Hämtar eller anger ett värde som indikerar om detta lager är låst. Förhindrar ändringar av objektet"
 type: docs
-weight: 60
+weight: 80
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-Hämtar eller ställer in ett värde som anger om detta lager är låst. Förhindrar ändringar av objektet.
+Hämtar eller anger ett värde som indikerar om detta lager är låst. Förhindrar ändringar av objektet.
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta lager är låst; annat,`falsk` .
+`true` om detta lager är låst; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

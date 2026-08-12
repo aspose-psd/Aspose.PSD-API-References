@@ -1,14 +1,15 @@
 ---
-title: Class Thumbnail
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail klass. Representerar miniatyrbild för en fil.
+title: "Klass Thumbnail"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail klass. Representerar miniatyrbild för en fil"
 type: docs
-weight: 6100
+weight: 6600
 url: /sv/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail class
 
-Representerar miniatyrbild för en fil.
+Representerar en miniatyrbild för en fil.
 
 ```csharp
 public sealed class Thumbnail : ComplexTypeBase
@@ -16,31 +17,31 @@ public sealed class Thumbnail : ComplexTypeBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Thumbnail](thumbnail/#constructor)() | Initierar en ny instans av`Thumbnail` class. |
-| [Thumbnail](thumbnail/#constructor_1)(int, int) | Initierar en ny instans av`Thumbnail` class. |
+| [Thumbnail](thumbnail/#constructor)() | Initierar en ny instans av klassen `Thumbnail`. |
+| [Thumbnail](thumbnail/#constructor_1)(int, int) | Initierar en ny instans av klassen `Thumbnail`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Hämtar eller ställer in höjden. |
-| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Hämtar eller ställer in bilden i base64-format. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Hämtar standardnamnutrymmes-URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Får prefixet. |
-| [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Hämtar eller ställer in bredden. |
+| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Hämtar eller anger höjden. |
+| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Hämtar eller anger bilden i base64-format. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Hämtar standardnamnrymdens URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Hämtar prefixet. |
+| [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Hämtar eller anger bredden. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Hämtar strängen som innehåller värdet i XMP-format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Hämtar det stränginnehållande värdet i XMP-format. |
 
 ### Se även
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../)
 
 

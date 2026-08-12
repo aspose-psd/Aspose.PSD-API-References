@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD för .NET API-referens
-description: IColorConverter metod. Konverterar överförd data till utdataformatet.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IColorConverter metod. Konverterar den överförda datan till utdataformatet"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-Konverterar överförd data till utdataformatet.
+Konverterar den överförda datan till utdataformatet.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -20,13 +21,13 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | Källformatet. |
 | data | Byte[] | Källdata. |
-| offset | Int32 | Offset i byte där datakopiering ska börja. |
-| bitStart | Int32 | Biten börjar. Observera att detta värde inte är bytejusterat värde istället är detta den faktiska biten där kopieringen ska börja. |
-| samplesCount | Int32 | Proverna räknas. |
-| linesCount | Int32 | Raderna räknas. |
-| destFormat | PixelDataFormat | Målformatet. |
+| offset | Int32 | Förskjutningen i byte där datakopiering ska börja. |
+| bitStart | Int32 | Bitstarten. Observera att detta värde inte är byte‑justerat utan är den faktiska biten där kopieringen ska börja. |
+| samplesCount | Int32 | Antalet prover. |
+| linesCount | Int32 | Antalet rader. |
+| destFormat | PixelDataFormat | Destinationsformatet. |
 | outputData | Byte[] | Utdata. |
-| outputOffset | Int32 | Utgångsoffset där datakopiering ska börja. |
+| outputOffset | Int32 | Utdataförskjutningen där datakopiering ska börja. |
 
 ### Returvärde
 
@@ -36,7 +37,7 @@ Antalet konverterade byte.
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* namnutrymme [Aspose.PSD](../../icolorconverter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

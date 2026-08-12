@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer metod. Utför en explicit konvertering frånStreamContainer tillStream .
+title: "StreamContainer.op_Explicit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer metod. Utför en explicit konvertering från StreamContainer till Stream."
 type: docs
 weight: 210
 url: /sv/net/aspose.psd/streamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## StreamContainer Explicit operator
 
-Utför en explicit konvertering från[`StreamContainer`](../) tillStream .
+Utför en explicit konvertering från [`StreamContainer`](../) till Stream.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
@@ -25,7 +26,7 @@ Resultatet av konverteringen.
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

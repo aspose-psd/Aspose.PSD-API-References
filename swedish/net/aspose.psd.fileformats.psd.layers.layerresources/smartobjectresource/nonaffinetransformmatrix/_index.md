@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.NonAffineTransformMatrix
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in den ickeaffina transformationsmatrisen för data för smarta objektlager i PSDfilen.
+title: "SmartObjectResource.NonAffineTransformMatrix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource-egenskap. Hämtar eller anger den icke-affina transformationsmatrisen för smartobjektlagrets data i PSD-filen"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.NonAffineTransformMatrix property
 
-Hämtar eller ställer in den icke-affina transformationsmatrisen för data för smarta objektlager i PSD-filen.
+Hämtar eller anger den icke‑affina transformationsmatrisen för smartobjektlagrets data i PSD‑filen.
 
 ```csharp
 public double[] NonAffineTransformMatrix { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den icke-affina transformationsmatrisen för det smarta objektlagret.
+Den icke-affina transformationsmatrisen för smartobjektlagret.
 
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

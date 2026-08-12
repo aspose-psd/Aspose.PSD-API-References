@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskProgress.ProgressPercentage
-second_title: Aspose.PSD för .NET API-referens
-description: AsyncTaskProgress fält. Förloppet för den asynkrona uppgiften i procent.
+title: "AsyncTaskProgress.ProgressPercentage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AsyncTaskProgress-fält. Framsteg för den asynkrona uppgiften i procent"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.asynctask/asynctaskprogress/progresspercentage/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.ProgressPercentage field
 
-Förloppet för den asynkrona uppgiften, i procent.
+Framsteg för den asynkrona uppgiften, i procent.
 
 ```csharp
 public readonly int ProgressPercentage;
@@ -17,7 +18,7 @@ public readonly int ProgressPercentage;
 ### Se även
 
 * class [AsyncTaskProgress](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

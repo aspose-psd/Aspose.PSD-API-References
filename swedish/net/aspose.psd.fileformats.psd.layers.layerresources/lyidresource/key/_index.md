@@ -1,14 +1,15 @@
 ---
-title: LyidResource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: LyidResource fast egendom. Hämtar lagerresursnyckeln.
+title: "LyidResource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LyidResource-egenskap. Hämtar lagerresursnyckeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/
 ---
+{{< psd/tize >}}
 ## LyidResource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [LyidResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

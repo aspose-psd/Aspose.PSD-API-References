@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Aspose.PSD för .NET API-referens
-description: SmartResourceCreator metod. Genererar den externa smarta objektresursen.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartResourceCreator‑metod. Genererar den externa smarta objektresursen."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
 Genererar den externa smarta objektresursen.
@@ -16,13 +17,13 @@ public SoLeResource GenerateSmartExternalResource()
 
 ### Returvärde
 
-Den genererade[`SoLeResource`](../../soleresource/) exempel.
+Den genererade [`SoLeResource`](../../soleresource/)‑instansen.
 
 ### Se även
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

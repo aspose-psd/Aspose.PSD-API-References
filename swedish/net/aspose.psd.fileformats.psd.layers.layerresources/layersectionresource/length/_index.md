@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: LayerSectionResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "LayerSectionResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerSectionResource egenskap. Hämtar lagerresursens längd i byte"
 type: docs
-weight: 40
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [LayerSectionResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

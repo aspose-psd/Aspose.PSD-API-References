@@ -1,14 +1,15 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Får värdet filformat
+title: "Image.FileFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar ett värde för filformat"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-Får värdet filformat
+Hämtar ett värde för filformatet
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
@@ -18,7 +19,7 @@ public virtual FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

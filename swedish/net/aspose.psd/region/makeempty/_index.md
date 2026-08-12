@@ -1,14 +1,15 @@
 ---
-title: Region.MakeEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Initierar dettaRegion till en tom interiör.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Initierar denna Region till ett tomt innandöme."
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-Initierar detta[`Region`](../) till en tom interiör.
+Initierar denna [`Region`](../) till ett tomt innandöme.
 
 ```csharp
 public void MakeEmpty()
@@ -17,7 +18,7 @@ public void MakeEmpty()
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

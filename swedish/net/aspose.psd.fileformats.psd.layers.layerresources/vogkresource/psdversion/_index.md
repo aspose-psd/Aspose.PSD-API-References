@@ -1,22 +1,23 @@
 ---
-title: VogkResource.PsdVersion
-second_title: Aspose.PSD för .NET API-referens
-description: VogkResource fast egendom. Får den minimala psdversion som krävs för lagerresurs. 0 indikerar inga begränsningar.
+title: "VogkResource.PsdVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VogkResource egenskap. Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar.
+Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VogkResource-resursen.
+Följande exempel demonstrerar stöd för VogkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Läser
+    // Läsning
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [VogkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

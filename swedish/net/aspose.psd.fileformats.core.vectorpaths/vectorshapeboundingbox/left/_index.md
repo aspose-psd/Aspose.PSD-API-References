@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeBoundingBox fast egendom. Hämtar eller ställer in vänster.
+title: "VectorShapeBoundingBox.Left"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeBoundingBox-egenskap. Hämtar eller anger vänstra"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
-Hämtar eller ställer in vänster.
+Hämtar eller anger vänster.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den vänstra.
+Vänstra.
 
 ### Se även
 
 * class [VectorShapeBoundingBox](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

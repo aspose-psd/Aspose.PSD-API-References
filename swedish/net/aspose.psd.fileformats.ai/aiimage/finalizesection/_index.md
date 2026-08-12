@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar finaliseringssektionen.
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskapen. Hämtar slutförandesektionen"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-Hämtar finaliseringssektionen.
+Hämtar avslutningssektionen.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Avslutningsavsnittet.
+Slutförandesektionen.
 
 ### Se även
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

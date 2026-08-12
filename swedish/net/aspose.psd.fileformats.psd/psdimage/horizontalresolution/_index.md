@@ -1,37 +1,38 @@
 ---
-title: PsdImage.HorizontalResolution
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in den horisontella upplösningen i pixlar per tum för dettaPsdImage .
+title: "PsdImage.HorizontalResolution"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar eller anger den horisontella upplösningen i pixlar per tum för denna PsdImage"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## PsdImage.HorizontalResolution property
 
-Hämtar eller ställer in den horisontella upplösningen, i pixlar per tum, för detta[`PsdImage`](../) .
+Hämtar eller anger den horisontella upplösningen, i pixlar per tum, för detta [`PsdImage`](../).
 
 ```csharp
 public override double HorizontalResolution { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den horisontella upplösningen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | ResolutionInfo-resursen hittades inte och kan inte ställa in korrekt upplösning |
 
-### Anmärkningar
+## Anmärkningar
 
-Standardvärdet för PSD är 72, så om[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) hittades inte, detta värde returneras.
+Standardvärdet för PSD är 72, så om [`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) inte hittades, returneras detta värde.
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

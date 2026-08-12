@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Aspose.PSD för .NET API-referens
-description: PolygonShape fast egendom. Får slutformpunkten.
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PolygonShape-egenskap. Hämtar den avslutande formpunkten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-Får slutformpunkten.
+Hämtar den avslutande formpunkten.
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Slutformpunkten.
+Den avslutande formpunkten.
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../polygonshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

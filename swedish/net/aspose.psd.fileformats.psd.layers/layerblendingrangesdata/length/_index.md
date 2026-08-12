@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD för .NET API-referens
-description: LayerBlendingRangesData fast egendom. Hämtar längden på data för lagerblandningsintervall i byte.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerBlendingRangesData egenskap. Hämtar längden på lagerblandningsområdesdata i byte"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-Hämtar längden på data för lagerblandningsintervall i byte.
+Hämtar längden på lagerblandningsintervallens data i byte.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Längden på data för lagerblandningsintervall.
+Längden på lagerblandningsområdesdata.
 
 ### Se även
 
 * class [LayerBlendingRangesData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

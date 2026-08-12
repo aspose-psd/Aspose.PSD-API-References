@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Ställer in teckensnittsersättningslistan. Om teckensnitt inte tillåts kommer det att hittas som ersättning. Det första teckensnittet i listan kommer att användas först. Om det också begränsas kommer nästa teckensnitt att väljas från listan. Om teckensnittet inte har ersättningar eller alla ersättningar inte är tillåtna kommer det att användas först tillåtna teckensnitt från listan med tillåtna teckensnitt. Om det inte finns några tillåtna och tillgängliga teckensnitt kommer biblioteket att använda försök använda systemets standardteckensnitt även om det inte är tillåtet.
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metoden. Ställer in listan för teckensnittsersättningar. Om ett teckensnitt inte är tillåtet kommer en ersättning att hittas. Det första teckensnittet i listan används först. Om det också är begränsat väljs nästa teckensnitt i listan. Om teckensnittet saknar ersättningar eller alla ersättningar är otillåtna används det första tillåtna teckensnittet från den tillåtna teckensnittlistan. Om det inte finns några tillåtna och tillgängliga teckensnitt kommer biblioteket att försöka använda systemstandardteckensnittet även om det inte är tillåtet."
 type: docs
-weight: 110
+weight: 130
 url: /sv/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-Ställer in teckensnittsersättningslistan. Om teckensnitt inte tillåts kommer det att hittas som ersättning. Det första teckensnittet i listan kommer att användas först. Om det också begränsas, kommer nästa teckensnitt att väljas från listan. Om teckensnittet inte har ersättningar eller alla ersättningar inte är tillåtna kommer det att användas först tillåtna teckensnitt från listan med tillåtna teckensnitt. Om det inte finns några tillåtna och tillgängliga teckensnitt kommer biblioteket att använda försök använda systemets standardteckensnitt även om det inte är tillåtet.
+Ställer in listan för teckensnittsersättning. Om ett teckensnitt inte är tillåtet kommer en ersättning att hittas. Det första teckensnittet i listan används först. Om det också är begränsat, väljs nästa teckensnitt från listan. Om teckensnittet saknar ersättningar eller alla ersättningar inte är tillåtna, används det första tillåtna teckensnittet från den tillåtna teckensnittlistan. Om det inte finns några tillåtna och tillgängliga teckensnitt kommer biblioteket att försöka använda systemets standardteckensnitt även om det inte är tillåtet.
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
@@ -16,18 +17,18 @@ public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontToReplace | String | Teckensnittet som ska ersättas. |
-| fontNames | String[] | Ersättningsteckensnittets namn i likhetsordning. |
+| fontToReplace | String | Teckensnittet att ersätta. |
+| fontNames | String[] | De ersättande teckensnittsnamnen i ordning efter likhet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Längden på Font Array och Font Differences Array måste vara lika |
+| ArgumentException | Längden på Font Array och Font Differences Array måste vara lika. |
 
-### Exempel
+## Exempel
 
-Följande kod demonstrerar förmågan att programmässigt begränsa teckensnitt med hjälp av.
+Följande kod demonstrerar möjligheten att programatiskt begränsa teckensnitt med hjälp av.
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -65,7 +67,7 @@ finally
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

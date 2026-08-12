@@ -1,20 +1,21 @@
 ---
-title: RectangleShape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleShape fast egendom. Hämtar formsegmenten.
+title: "RectangleShape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleShape egenskap. Hämtar formens segment"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.shapes/rectangleshape/segments/
 ---
+{{< psd/tize >}}
 ## RectangleShape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [RectangleShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../rectangleshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

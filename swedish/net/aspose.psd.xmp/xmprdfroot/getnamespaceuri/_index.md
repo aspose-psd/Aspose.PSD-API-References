@@ -1,14 +1,15 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Aspose.PSD för .NET API-referens
-description: XmpRdfRoot metod. Hämtar namnutrymmesURI med ett specifikt prefix. Prefix kan starta utan xmlns.
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpRdfRoot-metod. Hämtar namnrymds-URI med specifikt prefix. Prefix kan börja utan xmlns"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-Hämtar namnutrymmes-URI med ett specifikt prefix. Prefix kan starta utan xmlns.
+Hämtar namnrymdens URI med ett specifikt prefix. Prefixet kan börja utan xmlns.
 
 ```csharp
 public string GetNamespaceUri(string prefix)
@@ -20,12 +21,12 @@ public string GetNamespaceUri(string prefix)
 
 ### Returvärde
 
-Returnerar en paketschema-URI.
+Returnerar ett paket-schema-URI.
 
 ### Se även
 
 * class [XmpRdfRoot](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmprdfroot/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till ett nytt vanligt lager.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Lägger till ett nytt vanligt lager"
 type: docs
-weight: 410
+weight: 440
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 Lägger till ett nytt vanligt lager.
@@ -18,7 +19,7 @@ public Layer AddRegularLayer()
 
 Skapade vanligt lager.
 
-### Exempel
+## Exempel
 
 Följande kod visar hur man lägger till det nygenererade vanliga lagret till PsdImage.
 
@@ -70,7 +71,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

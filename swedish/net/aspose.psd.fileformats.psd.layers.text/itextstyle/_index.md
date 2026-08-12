@@ -1,14 +1,15 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle gränssnitt. Gränssnitt för att arbeta med Text Style
+title: "Gränssnitt ITextStyle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle-gränssnitt. Gränssnitt för att arbeta med textstil"
 type: docs
-weight: 3540
+weight: 3960
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-Gränssnitt för att arbeta med Text Style
+Gränssnitt för att arbeta med textstil
 
 ```csharp
 public interface ITextStyle
@@ -16,44 +17,44 @@ public interface ITextStyle
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Hämtar eller ställer in automatisk kerning. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Hämtar eller ställer in ett värde som anger om [automatisk inledande]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Baslinjeförskjutningen. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | De kontextuella alternativen som används för att koppla samman bokstäver. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | De diskretionära ligaturer som används för att koppla bokstäver, särskilt i skriptteckensnitt. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Får eller ställer in fetstilt är aktiverat. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Får eller ställer in fetstilt är aktiverat. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Hämtar eller ställer in färgen på fyllningen. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Teckensnittets baslinje. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Teckensnittets kapslar. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Hämtar teckensnittsindex. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Hämtar eller ställer in teckensnittsnamnet. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Hämtar eller ställer in storleken på teckensnittet. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Bråksymbolerna kan ersättas med speciella glyph. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Hämtar eller ställer in ett värde som anger om [hindi tal]. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Hämtar eller anger automatisk kerning. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Hämtar eller anger ett värde som indikerar om [automatisk radavstånd]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Baslinjeförskjutning. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | De kontextuella alternativen som används för att koppla ihop bokstäver. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | De valfria ligaturerna som används för att koppla ihop bokstäver, särskilt i skriptfonter. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Hämtar eller anger om faux bold är aktiverat. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Hämtar eller anger om faux bold är aktiverat. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Hämtar eller anger fyllningsfärgen. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Typsnittets baslinje. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Typsnittets versaler. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Hämtar typsnittsindex. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Hämtar eller anger teckensnittets namn. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Hämtar eller anger typsnittets storlek. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Bråksymbolerna kan ersättas med specialtecken. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Hämtar eller anger ett värde som indikerar om [hindi-nummer]. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Den horisontella skalan. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Hämtar eller ställer in standard vertikal romersk justering. Detta baserat på BaselineDirection resursvärde gäller endast när textorienteringen ärVertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Hämtar eller ställer in kerningen. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Hämtar eller anger den standardvertikala romerska justeringen. Detta, baserat på BaselineDirection-resursvärdet, gäller endast när textorienteringen är vertikal. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Hämtar eller anger kerning. |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Hämtar språkindex. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Får eller sätter ledande. |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Gets ot ställer in no break-värdet. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Standardkontextliga ligaturer som används för att koppla samman bokstäver. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Hämtar eller ställer in ett värde som anger om [genomstrykning]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Hämtar eller ställer in färgen på strecket. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Hämtar eller ställer in spårningen. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Hämtar eller ställer in ett värde som anger om [understryka]. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Hämtar eller anger radavståndet. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Hämtar eller anger värdet för ingen radbrytning. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | De standardkontextuella ligaturerna som används för att koppla ihop bokstäver. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Hämtar eller anger ett värde som indikerar om [strikethrough] är aktivt. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Hämtar eller anger färgen på linjen. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Hämtar eller anger spårningen. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Hämtar eller anger ett värde som indikerar om [underline] är aktivt. |
 | [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Den vertikala skalan. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Tillämpar den angivna stilen. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Bestämmer om den angivna stilen är lika. |
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du kan rendera olika stilar i ett textlager i Aspose.PSD
 
@@ -61,7 +62,7 @@ Följande exempel visar hur du kan rendera olika stilar i ett textlager i Aspose
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // redigera textstil "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // redigera textstil "2\r"
-    newPortions[2].Style.FauxBold = true; // redigera textstil "Fet"
-    newPortions[3].Style.FauxItalic = true; // redigera textstil "Kursiv\r"
-    newPortions[3].Style.BaselineShift = -25; // redigera textstil "Kursiv\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // redigera textstil "Små bokstäver"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,7 +102,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man får teckenstorlek för valfri textdel i textlagret.
+Följande kod demonstrerar hur man får teckenstorlek för vilken textdel som helst i textlagret.
 
 ```csharp
 [C#]
@@ -114,13 +115,13 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Gammalt API (med teckensnittet första stycket)
+    // Gammalt API (Använder första styckets teckensnitt)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Kontrollerar bastypsnittsstorleken
+    // Kontrollerar grundteckenstorleken
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
@@ -132,18 +133,18 @@ using (var image = Image.Load(filePath))
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // Nytt API (ett textlager kan innehålla valfri mängd teckenstorlekar)
+    // Nytt API (Ett textlager kan innehålla valfri mängd teckenstorlekar)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Kontrollerar basdelens teckenstorlek
+    // Kontrollerar grunddelens teckenstorlek
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Kontrollerar verklig del teckenstorlek
+    // Kontrollerar verklig delens teckenstorlek
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Följande kodexempel visar redigeringstextdelarna och deras textstil.
+Följande kodexempel demonstrerar redigering av textdelar och deras textstil.
 
 ```csharp
 [C#]
@@ -183,8 +184,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Kontrollera styckedata
-            // Stycken har olika motivering
+            // Kontrollerar styckens data
+            // Stycken har olika justering
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -194,7 +195,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Alla andra egenskaper i första och andra stycket är lika
+            // Alla andra egenskaper för första och andra stycket är lika
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -281,18 +282,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exempel på stycke- och stilredigering för delar
-            // Ställ in rätt motivering
+            // Exempel på redigering av stycke och stil för textdelar
+            // Ställ in högerriktad justering
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Olika färger för varje stil. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika färger för varje stil. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Annat typsnitt. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika typsnitt. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -309,7 +310,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

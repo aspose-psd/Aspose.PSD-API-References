@@ -1,14 +1,15 @@
 ---
-title: ILayerResourceLoader.Load
-second_title: Aspose.PSD för .NET API-referens
-description: ILayerResourceLoader metod. LaddarLayerResource .
+title: "ILayerResourceLoader.Load"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ILayerResourceLoader‑metod. Laddar LayerResource"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.Load method
 
-Laddar[`LayerResource`](../../layerresource/) .
+Laddar [`LayerResource`](../../layerresource/).
 
 ```csharp
 public LayerResource Load(StreamContainer streamContainer, int psdVersion)
@@ -28,7 +29,7 @@ Den inlästa resursen.
 * class [LayerResource](../../layerresource/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

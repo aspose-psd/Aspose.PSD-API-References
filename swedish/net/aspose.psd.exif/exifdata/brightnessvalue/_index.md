@@ -1,28 +1,29 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in ljusstyrka.
+title: "ExifData.BrightnessValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger ljusstyrkevärdet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
-Hämtar eller ställer in ljusstyrka.
+Hämtar eller anger ljusstyrkevärdet.
 
 ```csharp
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Ljusstyrkan.
+Ljusstyrkevärdet.
 
 ### Se även
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

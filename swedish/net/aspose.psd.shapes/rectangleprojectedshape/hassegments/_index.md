@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.HasSegments
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleProjectedShape fast egendom. Får ett värde som indikerar om formen har segment.
+title: "RectangleProjectedShape.HasSegments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleProjectedShape-egenskap. Hämtar ett värde som indikerar om formen har segment"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.shapes/rectangleprojectedshape/hassegments/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.HasSegments property
 
-Får ett värde som indikerar om formen har segment.
+Hämtar ett värde som indikerar om formen har segment.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om formen har segment; annat,`falsk`.
+`True` om formen har segment; annars, `false`.
 
 ### Se även
 
 * class [RectangleProjectedShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Aspose.PSD för .NET API-referens
-description: XmpLocale byggare. Initierar en ny instans avXmpLocale class.
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpLocale‑konstruktor. Initierar en ny instans av klassen XmpLocale"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-Initierar en ny instans av[`XmpLocale`](../) class.
+Initierar en ny instans av klassen [`XmpLocale`](../).
 
 ```csharp
 public XmpLocale(string value)
@@ -16,12 +17,12 @@ public XmpLocale(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | Värdet. |
+| värde | String | Värdet. |
 
 ### Se även
 
 * class [XmpLocale](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

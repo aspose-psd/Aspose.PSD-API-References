@@ -1,24 +1,25 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Aspose.PSD för .NET API-referens
-description: IGradientFillSettings fast egendom. Hämtar eller ställer in skalan.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IGradientFillSettings egenskap. Hämtar eller anger den normaliserade gradientskalan i procent"
 type: docs
-weight: 100
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Hämtar eller ställer in skalan.
+Hämtar eller anger den **normaliserade** gradientskalan (i procent).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skalan.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur man använder Scale-egenskapen för att skala FillLayer med gradient.
 
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // att få ett fyllningslager
+    // hämtar ett fyllningslager
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     // uppdatera skalvärdet
     settings.Scale = 200;
-    fillLayer.Update(); // Uppdaterar pixeldata
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * interface [IGradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

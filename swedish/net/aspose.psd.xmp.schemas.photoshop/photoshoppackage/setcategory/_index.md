@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Ställer in kategorin.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in kategorin"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
-Ställer in kategorin.
+Anger kategorin.
 
 ```csharp
 public void SetCategory(string category)
@@ -20,14 +21,14 @@ public void SetCategory(string category)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | kategori;Kategori är begränsad till 3 tecken |
+| ArgumentOutOfRangeException | category;Kategorin är begränsad till 3 tecken |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

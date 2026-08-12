@@ -1,20 +1,21 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD för .NET API-referens
-description: BorderInformationResource fast egendom. Hämtar eller ställer in kantbredden.
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BorderInformationResource egenskap. Hämtar eller anger kantbredden"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
-Hämtar eller ställer in kantbredden.
+Hämtar eller anger kantbredden.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Exempel
+## Exempel
 
 Följande exempel visar stödet för BorderInformationResource-resursen.
 
@@ -48,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [BorderInformationResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

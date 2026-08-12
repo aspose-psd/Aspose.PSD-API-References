@@ -1,11 +1,12 @@
 ---
-title: Enum ExifContrast
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifContrast uppräkning. exif normal mjuk hård enum.
+title: "Enum ExifContrast"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal mjuk hård enum"
 type: docs
-weight: 810
+weight: 820
 url: /sv/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
 exif normal mjuk hård enum.
@@ -14,9 +15,9 @@ exif normal mjuk hård enum.
 public enum ExifContrast
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Normal | `0` | Normal kontrast. |
 | Low | `1` | Låg kontrast. |
@@ -24,7 +25,7 @@ public enum ExifContrast
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

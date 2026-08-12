@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Color
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Får färgen på RGB.
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource egenskap. Hämtar färgen för RGB"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
-Får färgen på RGB.
+Hämtar färgen för RGB.
 
 ```csharp
 public Color Color { get; set; }
@@ -22,7 +23,7 @@ RGB-färgen
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiSection.GetData
-second_title: Aspose.PSD för .NET API-referens
-description: AiSection metod. Hämtar strängdata.
+title: "AiSection.GetData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiSection-metoden. Hämtar strängdata"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.ai/aisection/getdata/
 ---
+{{< psd/tize >}}
 ## AiSection.GetData method
 
 Hämtar strängdata.
@@ -16,12 +17,12 @@ public string GetData()
 
 ### Returvärde
 
-Strängdata för avsnitt
+Strängdata för sektionen.
 
 ### Se även
 
 * class [AiSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aisection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

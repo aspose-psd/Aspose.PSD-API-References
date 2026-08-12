@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Aspose.PSD för .NET API-referens
-description: ThumbnailResource fast egendom. Hämtar eller ställer in antalet plan.
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ThumbnailResource-egenskap. Hämtar eller anger planantalet"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-Hämtar eller ställer in antalet plan.
+Hämtar eller anger antalet plan.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Miniatyrplanen räknas.
+Antalet miniatyrplan.
 
 ### Se även
 
 * class [ThumbnailResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

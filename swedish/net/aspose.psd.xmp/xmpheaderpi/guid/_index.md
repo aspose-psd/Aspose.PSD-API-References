@@ -1,11 +1,12 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: Aspose.PSD för .NET API-referens
-description: XmpHeaderPi fast egendom. Representerar Header Guid.
+title: "XmpHeaderPi.Guid"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpHeaderPi-egenskap. Representerar Header Guid"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
 Representerar Header Guid.
@@ -14,14 +15,14 @@ Representerar Header Guid.
 public string Guid { get; set; }
 ```
 
-### Anmärkningar
+## Anmärkningar
 
-Texten i rubrikens PI innehåller en GUID, vilket gör att det är osannolikt att det dyker upp av misstag i dataströmmen.
+Texten i header-PI innehåller ett GUID, vilket gör det osannolikt att den av misstag dyker upp i datastreamen.
 
 ### Se även
 
 * class [XmpHeaderPi](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

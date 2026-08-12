@@ -1,22 +1,23 @@
 ---
-title: BezierKnotRecord.BezierKnotRecord
-second_title: Aspose.PSD för .NET API-referens
-description: BezierKnotRecord byggare. Initierar en ny instans avBezierKnotRecord class.
+title: "BezierKnotRecord.BezierKnotRecord"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierKnotRecord konstruktor. Initierar en ny instans av klassen BezierKnotRecord"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord() {#constructor}
 
-Initierar en ny instans av[`BezierKnotRecord`](../) class.
+Initierar en ny instans av klassen [`BezierKnotRecord`](../).
 
 ```csharp
 public BezierKnotRecord()
 ```
 
-### Exempel
+## Exempel
 
-Följande kodexempel tillhandahåller klasser för att manipulera vektorvägsobjekten och visar hur man använder dessa klasser.
+Följande kodexempel tillhandahåller klasser för att manipulera vektorvägsobjekt och demonstrerar hur man använder dessa klasser.
 
 ```csharp
 [C#]
@@ -44,15 +45,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// Klassen som ger arbete mellan <see cref="Layer"/> och <se cref="VectorPath"/>.
+/// Klassen som möjliggör arbete mellan <see cref=\"Layer\"/> och <see cref=\"VectorPath\"/>.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// Skapar <see cref="VectorPath"/> instans baserad på resurser från indatalager.
+    /// Skapar <see cref=\"VectorPath\"/>-instansen baserat på resurser från inmatningslagret.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
+    /// <returns><see cref=\"VectorPath\"/>-instansen baserat på resurser från inmatningslagret.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -71,11 +72,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Uppdaterar indatalagerresurserna från <see cref="VectorPath"/> instans, eller ersätt med ny sökvägsresurs och uppdateringar.
+    /// Uppdaterar inmatningslagrets resurser från <see cref=\"VectorPath\"/>-instansen, eller ersätter med ny sökvägsresurs och uppdaterar.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
-    /// <param name="vectorPath">Vektorsökvägen.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
+    /// <param name=\"vectorPath\">Vektorvägen.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -91,9 +92,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Tar bort vektorsökvägsdata från indatalagret.
+    /// Tar bort vektorvägsdata från inmatningslagret.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -116,13 +117,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Uppdaterar resursdata från <see cref="VectorPath"/> exempel.
+    /// Uppdaterar resursdata från <see cref=\"VectorPath\"/>-instansen.
     /// </summary>
-    /// <param name="pathResource">Sökvägsresursen.</param>
-    /// <param name="vogkResource">Vektoruppkomstdataresursen.</param>
-    /// <param name="socoResource">Enfärgsresursen.</param>
-    /// <param name="vectorPath">Vektorsökvägen.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name=\"pathResource\">Sökvägsresursen.</param>
+    /// <param name=\"vogkResource\">Vektorursprungsdatatresursen.</param>
+    /// <param name=\"socoResource\">Solid färgresursen.</param>
+    /// <param name=\"vectorPath\">Vektorvägen.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -149,12 +150,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Ersätter resurser i lager med uppdaterade eller nya.
+    /// Ersätter resurser i lagret med uppdaterade eller nya.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
-    /// <param name="pathResource">Sökvägsresursen.</param>
-    /// <param name="vogkResource">Vektoruppkomstdataresursen.</param>
-    /// <param name="socoResource">Enfärgsresursen.</param>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
+    /// <param name=\"pathResource\">Sökvägsresursen.</param>
+    /// <param name=\"vogkResource\">Vektorursprungsdatatresursen.</param>
+    /// <param name=\"socoResource\">Solid färgresursen.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -201,11 +202,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Hittar <see cref="VectorPathDataResource"/> resurs i indatalagerresurser.
+    /// Hittar <see cref=\"VectorPathDataResource\"/>-resursen i inmatningslagrets resurser.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
-    /// <param name="createIfNotExist">Om resursen inte finns, då för <se cref="true"/> skapar en ny resurs, annars returnerar <see cref="null"/>.</param>
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
+    /// <param name="createIfNotExist">Om resursen inte finns, skapar den för <see cref="true"/> en ny resurs, annars returneras <see cref="null"/>.</param>
+    /// <returns>Den <see cref="VectorPathDataResource"/>-resursen.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -227,11 +228,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Hittar <see cref="VogkResource"/> resurs i indatalagerresurser.
+    /// Hittar <see cref="VogkResource"/>-resursen i indata lagrets resurser.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
-    /// <param name="createIfNotExist">Om resursen inte finns, då för <se cref="true"/> skapar en ny resurs, annars returnerar <see cref="null"/>.</param>
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
+    /// <param name="createIfNotExist">Om resursen inte finns, skapar den för <see cref="true"/> en ny resurs, annars returneras <see cref="null"/>.</param>
+    /// <returns>Den <see cref="VogkResource"/>-resursen.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -253,11 +254,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Hittar <see cref="SoCoResource"/> resurs i indatalagerresurser.
+    /// Hittar <see cref="SoCoResource"/>-resursen i indata lagrets resurser.
     /// </summary>
-    /// <param name="psdLayer">Psd-lagret.</param>
-    /// <param name="createIfNotExist">Om resursen inte finns, då för <se cref="true"/> skapar en ny resurs, annars returnerar <see cref="null"/>.</param>
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd-lagret.</param>
+    /// <param name="createIfNotExist">Om resursen inte finns, skapar den för <see cref="true"/> en ny resurs, annars returneras <see cref="null"/>.</param>
+    /// <returns>Den <see cref="SoCoResource"/>-resursen.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -279,9 +280,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Validerar lagret som ska fungera med <see cref="VectorDataProvider"/> klass.
+    /// Validerar lagret för att fungera med klassen <see cref="VectorDataProvider"/>.
     /// </summary>
-    /// <param name="lager"></param>
+    /// <param name="layer"></param>
     /// <exception cref="ArgumentNullException"></exception>
     private static void ValidateLayer(Layer layer)
     {
@@ -298,19 +299,19 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// Bezier-kurvknuten, den innehåller en ankarpunkt och två kontrollpunkter.
+/// Bezier-kurvknoten, den innehåller en ankarpunkt och två kontrollpunkter.
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// Bild till vägpunktsförhållande.
+    /// Bild‑till‑sökvägspunktsförhållande.
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// Initierar en ny instans av <see cref="BezierKnot" /> klass.
+    /// Initierar en ny instans av klassen <see cref="BezierKnot" />.
     /// </summary>
-    /// <param name="anchorPoint">Förankringspunkten.</param>
+    /// <param name="anchorPoint">Ankarnpunkten.</param>
     /// <param name="controlPoint1">Den första kontrollpunkten.</param>
     /// <param name="controlPoint2">Den andra kontrollpunkten.</param>
     /// <param name="isLinked">Värdet som anger om denna knut är länkad.</param>
@@ -323,10 +324,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Initierar en ny instans av <see cref="BezierKnot" /> klass baserad på <see cref="BezierKnotRecord"/>.
+    /// Initierar en ny instans av klassen <see cref="BezierKnot" /> baserad på <see cref="BezierKnotRecord"/>.
     /// </summary>
-    /// <param name="bezierKnotRecord"><see cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name="bezierKnotRecord">Den <see cref="BezierKnotRecord"/>.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -336,9 +337,9 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Initierar en ny instans av <see cref="BezierKnot" /> klass.
+    /// Initierar en ny instans av klassen <see cref="BezierKnot" />.
     /// </summary>
-    /// <param name="anchorPoint">Punkten som ska vara ankar- och kontrollpunkter.</param>
+    /// <param name="anchorPoint">Punkten som ska vara ankare och kontrollpunkter.</param>
     /// <param name="isLinked">Värdet som anger om denna knut är länkad.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
@@ -346,31 +347,31 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Hämtar eller ställer in ett värde som anger om denna instans är länkad.
+    /// Hämtar eller anger ett värde som visar om denna instans är länkad.
     /// </summary>
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in den första kontrollpunkten.
+    /// Hämtar eller anger den första kontrollpunkten.
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in ankarpunkten.
+    /// Hämtar eller anger ankarpunkten.
     /// </summary>
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in den andra kontrollpunkten.
+    /// Hämtar eller anger den andra kontrollpunkten.
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// Skapar instansen av <see cref="BezierKnotRecord"/> baserat på detta fall.
+    /// Skapar en instans av <see cref="BezierKnotRecord"/> baserad på denna instans.
     /// </summary>
-    /// <param name="isClosed">Anger om denna knut är i sluten form.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name="isClosed">Anger om denna knut är i en sluten form.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
+    /// <returns>Instansen av <see cref=\"BezierKnotRecord\"/> baserad på denna instans.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -387,10 +388,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Förskjuter denna knutpunkter med ingångsvärden.
+    /// Flyttar dessa knutpunkter med angivna värden.
     /// </summary>
-    /// <param name="xOffset">X-offset.</param>
-    /// <param name="yOffset">y-offset.</param>
+    /// <param name=\"xOffset\">x‑offseten.</param>
+    /// <param name=\"yOffset\">y‑offseten.</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -399,22 +400,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Konverterar poängvärden från resurs till normal.
+    /// Konverterar punktvärden från resurs till normal.
     /// </summary>
-    /// <param name="punkt">Punkten med värden från resurs.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name=\"point\">Punkten med värden från resurs.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
+    /// <returns>Den konverterade punkten i normalformat.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// Konverterar normala poängvärden till resurspunkt.
+    /// Konverterar normala punktvärden till resurspunkt.
     /// </summary>
-    /// <param name="punkt">Punkten.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"point\">Punkten.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
+    /// <returns>Punkten med värden för resurs.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -422,12 +423,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// Figuren från knutarna på Bezier-kurvan.
+/// Figuren från knutarna i Bézier-kurvan.
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// Initierar en ny instans av <see cref="PathShape" /> klass.
+    /// Initierar en ny instans av klassen <see cref=\"PathShape\" />.
     /// </summary>
     public PathShape()
     {
@@ -436,11 +437,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// Initierar en ny instans av <see cref="PathShape" /> klass baserad på <se cref="VectorPathRecord"/>s.
+    /// Initierar en ny instans av klassen <see cref=\"PathShape\" /> baserad på <see cref=\"VectorPathRecord\"/>.
     /// </summary>
-    /// <param name="lengthRecord">Längdposten.</param>
-    /// <param name="bezierKnotRecords">Bezier-knuten registrerar.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name=\"lengthRecord\">Längdposten.</param>
+    /// <param name=\"bezierKnotRecords\">Bézier‑knutposterna.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -451,33 +452,33 @@ public class PathShape
     }
 
     /// <summary>
-    /// Hämtar eller ställer in ett värde som indikerar om denna instans är stängd.
+    /// Hämtar eller anger ett värde som indikerar om denna instans är sluten.
     /// </summary>
-    /// <värde>
-    /// <c>sant</c> om denna instans är stängd; annars, <c>false</c>.
-    /// </värde>
+    /// <value>
+    ///   <c>true</c> om denna instans är sluten; annars <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in sökvägsoperationerna (booleska operationer).
+    /// Hämtar eller anger sökvägsoperationerna (booleska operationer).
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in index för aktuell vägform i lager.
+    /// Hämtar eller anger indexet för den aktuella sökvägsformen i lagret.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// Hämtar punkterna för Bezier-kurvan.
+    /// Hämtar punkterna för Bézier-kurvan.
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// Skapar <see cref="VectorPathRecord"/> poster baserade på denna instans.
+    /// Skapar <see cref=\"VectorPathRecord\"/>-posterna baserat på denna instans.
     /// </summary>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
+    /// <returns>Returnerar en <see cref=\"LengthRecord\"/> och en <see cref=\"BezierKnotRecord\"/> för varje punkt i denna instans.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -498,10 +499,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// Initierar ett värde baserat på indataposter.
+    /// Initierar värden baserat på inmatningsposter.
     /// </summary>
-    /// <param name="bezierKnotRecords">Bezier-knuten registrerar.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name=\"bezierKnotRecords\">Bézier‑knutposterna.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -521,21 +522,21 @@ public class PathShape
 public class VectorPath
 {
     /// <summary>
-    /// Initierar en ny instans av <see cref="VectorPath" /> klass baserad på <see cref="VectorPathDataResource"/>.
+    /// Initierar en ny instans av <see cref="VectorPath" />-klassen baserat på <see cref="VectorPathDataResource"/>.
     /// </summary>
-    /// <param name="vectorPathDataResource">Vektorsökvägsdataresursen.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name="vectorPathDataResource">Resursen för vektorvägsdata.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// Hämtar eller ställer in ett värde som anger om fyllningen börjar med alla pixlar.
+    /// Hämtar eller anger ett värde som indikerar om fyllning startar med alla pixlar.
     /// </summary>
-    /// <värde>
-    /// Fyllningen börjar med alla pixlar.
-    /// </värde>
+    /// <value>
+    /// Fyllning startar med alla pixlar.
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
@@ -544,47 +545,47 @@ public class VectorPath
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// Hämtar eller ställer in vektorns fyllnadsfärg.
+    /// Hämtar eller anger vektorvägens fyllningsfärg.
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in versionen.
+    /// Hämtar eller anger versionen.
     /// </summary>
-    /// <värde>
+    /// <value>
     /// Versionen.
-    /// </värde>
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in ett värde som anger om denna instans är inaktiverad.
+    /// Hämtar eller anger ett värde som indikerar om denna instans är inaktiverad.
     /// </summary>
-    /// <värde>
-    /// <c>sant</c> om denna instans är inaktiverad; annars, <c>false</c>.
-    /// </värde>
+    /// <value>
+    ///   <c>true</c> om denna instans är inaktiverad; annars <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in ett värde som indikerar om denna instans inte är länkad.
+    /// Hämtar eller anger ett värde som indikerar om denna instans inte är länkad.
     /// </summary>
-    /// <värde>
-    /// <c>sant</c> om denna instans inte är länkad; annars, <c>false</c>.
-    /// </värde>
+    /// <value>
+    ///   <c>true</c> om denna instans inte är länkad; annars <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
-    /// Hämtar eller ställer in ett värde som anger om denna instans är inverterad.
+    /// Hämtar eller anger ett värde som indikerar om denna instans är inverterad.
     /// </summary>
-    /// <värde>
-    /// <c>sant</c> om denna instans är inverterad; annars, <c>false</c>.
-    /// </värde>
+    /// <value>
+    ///   <c>true</c> om denna instans är inverterad; annars <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// Initierar ett värde baserat på indata <see cref="VectorPathDataResource"/> resurs.
+    /// Initierar värden baserat på indata <see cref="VectorPathDataResource"/>-resursen.
     /// </summary>
-    /// <param name="resource">Vektorsökvägens dataresurs.</param>
-    /// <param name="imageSize">Bildstorleken för att korrigera konverteringspunktskoordinater.</param>
+    /// <param name="resource">Resursen för vektorvägsdata.</param>
+    /// <param name=\"imageSize\">Bildstorleken för att korrigera konvertering av punktkoordinater.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -638,14 +639,14 @@ public class VectorPath
 ### Se även
 
 * class [BezierKnotRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierKnotRecord(byte[]) {#constructor_1}
 
-Initierar en ny instans av[`BezierKnotRecord`](../) class.
+Initierar en ny instans av klassen [`BezierKnotRecord`](../).
 
 ```csharp
 public BezierKnotRecord(byte[] data)
@@ -653,12 +654,12 @@ public BezierKnotRecord(byte[] data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | Rekorddata. |
+| data | Byte[] | Postens data. |
 
 ### Se även
 
 * class [BezierKnotRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

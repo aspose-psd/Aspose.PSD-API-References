@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.IsOutlineVisible
-second_title: Aspose.PSD för .NET API-referens
-description: GraphicsPath metod. Indikerar om den angivna punkten finns inom under konturen av dennaGraphicsPath när det dras med det angivnaPen .
+title: "GraphicsPath.IsOutlineVisible"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GraphicsPath-metod. Anger om den angivna punkten ligger inom (under) konturen av detta GraphicsPath när den ritas med den angivna Pen"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd/graphicspath/isoutlinevisible/
 ---
+{{< psd/tize >}}
 ## IsOutlineVisible(float, float, Pen) {#isoutlinevisible_6}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen)
@@ -18,24 +19,24 @@ public bool IsOutlineVisible(float x, float y, Pen pen)
 | --- | --- | --- |
 | x | Single | X-koordinaten för punkten som ska testas. |
 | y | Single | Y-koordinaten för punkten som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom konturerna av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten ligger inom konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen) {#isoutlinevisible_2}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(PointF point, Pen pen)
@@ -43,26 +44,26 @@ public bool IsOutlineVisible(PointF point, Pen pen)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../../pointf/) som anger platsen som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
+| point | PointF | En [`PointF`](../../pointf/) som specificerar platsen att testa. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom konturerna av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten ligger inom konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(float, float, Pen, Graphics) {#isoutlinevisible_7}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) och använda den angivna[`Graphics`](../../graphics/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/) och med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
@@ -72,26 +73,26 @@ public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
 | --- | --- | --- |
 | x | Single | X-koordinaten för punkten som ska testas. |
 | y | Single | Y-koordinaten för punkten som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom (under) konturerna av denna[`GraphicsPath`](../) som ritat med angivet[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen, Graphics) {#isoutlinevisible_3}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) och använda den angivna[`Graphics`](../../graphics/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/) och med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
@@ -99,13 +100,13 @@ public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pt | PointF | A[`PointF`](../../pointf/) som anger platsen som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| pt | PointF | En [`PointF`](../../pointf/) som specificerar platsen att testa. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom (under) konturerna av denna[`GraphicsPath`](../) som ritat med angivet[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
@@ -113,14 +114,14 @@ Denna metod returnerar sant om den angivna punkten finns inom (under) konturerna
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen) {#isoutlinevisible_4}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen)
@@ -130,24 +131,24 @@ public bool IsOutlineVisible(int x, int y, Pen pen)
 | --- | --- | --- |
 | x | Int32 | X-koordinaten för punkten som ska testas. |
 | y | Int32 | Y-koordinaten för punkten som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom konturerna av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten ligger inom konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen) {#isoutlinevisible}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(Point point, Pen pen)
@@ -155,26 +156,26 @@ public bool IsOutlineVisible(Point point, Pen pen)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | A[`Point`](../../point/) som anger platsen som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
+| point | Point | En [`Point`](../../point/) som specificerar platsen att testa. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom konturerna av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten ligger inom konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen, Graphics) {#isoutlinevisible_5}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) och använda den angivna[`Graphics`](../../graphics/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/) och med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
@@ -184,26 +185,26 @@ public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
 | --- | --- | --- |
 | x | Int32 | X-koordinaten för punkten som ska testas. |
 | y | Int32 | Y-koordinaten för punkten som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom konturerna av denna[`GraphicsPath`](../) som ritat med angivet[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom konturen av detta [`GraphicsPath`](../) som ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen, Graphics) {#isoutlinevisible_1}
 
-Indikerar om den angivna punkten finns inom (under) konturen av denna[`GraphicsPath`](../) när det dras med det angivna[`Pen`](../../pen/) och använda den angivna[`Graphics`](../../graphics/) .
+Anger om den angivna punkten ligger inom (under) konturen av detta [`GraphicsPath`](../) när den ritas med den angivna [`Pen`](../../pen/) och med den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
@@ -211,13 +212,13 @@ public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pt | Point | A[`Point`](../../point/) som anger platsen som ska testas. |
-| pen | Pen | De[`Pen`](../../pen/) att testa. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| pt | Point | En [`Point`](../../point/) som specificerar platsen att testa. |
+| pen | Pen | Den [`Pen`](../../pen/) som ska testas. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns inom konturerna av denna[`GraphicsPath`](../) som ritat med angivet[`Pen`](../../pen/) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom konturen av detta [`GraphicsPath`](../) som ritas med den angivna [`Pen`](../../pen/); annars false.
 
 ### Se även
 
@@ -225,7 +226,7 @@ Denna metod returnerar sant om den angivna punkten finns inom konturerna av denn
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CurvResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: CurvResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "CurvResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvResource‑egenskap. Hämtar lagrets resurslängd i byte"
 type: docs
-weight: 40
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/length/
 ---
+{{< psd/tize >}}
 ## CurvResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [CurvResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

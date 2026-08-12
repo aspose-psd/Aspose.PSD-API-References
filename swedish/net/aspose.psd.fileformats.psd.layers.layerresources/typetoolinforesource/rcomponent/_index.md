@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.RComponent
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in rkomponenten.
+title: "TypeToolInfoResource.RComponent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger r-komponenten"
 type: docs
-weight: 160
+weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.RComponent property
 
-Hämtar eller ställer in r-komponenten.
+Hämtar eller anger r-komponenten.
 
 ```csharp
 public short RComponent { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 r-komponenten.
 
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

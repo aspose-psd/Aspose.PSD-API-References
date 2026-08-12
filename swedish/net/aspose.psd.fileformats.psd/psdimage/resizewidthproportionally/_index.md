@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Ändrar storleken på bredden proportionellt.
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Ändrar bredden proportionellt"
 type: docs
-weight: 600
+weight: 660
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Ändrar storleken på bredden proportionellt.
+Ändrar bredden proportionellt.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -17,20 +18,20 @@ public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
-| settings | ImageResizeSettings | Inställningarna för storleksändring av bilden. |
+| inställningar | ImageResizeSettings | Inställningarna för bildens storleksändring. |
 
 ### Se även
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Ändrar storleken på bredden proportionellt.
+Ändrar bredden proportionellt.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -45,7 +46,7 @@ public override void ResizeWidthProportionally(int newWidth, ResizeType resizeTy
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

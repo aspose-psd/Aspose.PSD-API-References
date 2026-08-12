@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSteckensträngen som registrerar namnet på metoden som används för att hitta plats.
+title: "ExifData.GPSProcessingMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger GPS-teckensnittssträngen som registrerar namnet på metoden som används för positionsbestämning"
 type: docs
 weight: 580
 url: /sv/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
-Hämtar eller ställer in GPS-teckensträngen som registrerar namnet på metoden som används för att hitta plats.
+Hämtar eller anger GPS-teckensträngen som registrerar namnet på metoden som används för positionsbestämning.
 
 ```csharp
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-teckensträngen som registrerar namnet på metoden som används för att hitta plats.
+GPS-teckensnittssträngen som registrerar namnet på metoden som används för positionsbestämning.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

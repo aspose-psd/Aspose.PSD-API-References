@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Aspose.PSD för .NET API-referens
-description: ChannelInformation fast egendom. Hämtar eller ställer in kanalID.
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ChannelInformation egenskap. Hämtar eller anger kanal‑ID"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
-Hämtar eller ställer in kanal-ID.
+Hämtar eller anger kanal‑ID.
 
 ```csharp
 public short ChannelID { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kanal-ID.
+Kanal‑ID:n.
 
 ### Se även
 
 * class [ChannelInformation](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

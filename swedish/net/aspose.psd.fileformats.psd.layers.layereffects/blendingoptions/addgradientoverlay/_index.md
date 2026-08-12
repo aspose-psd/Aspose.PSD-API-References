@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Aspose.PSD för .NET API-referens
-description: BlendingOptions metod. Lägger till övertoningsöverlägget.
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlendingOptions‑metod. Lägger till gradient‑övertäckning"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
-Lägger till övertoningsöverlägget.
+Lägger till gradientöverlagring.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,13 +17,13 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### Returvärde
 
-Skapad[`GradientOverlayEffect`](../../gradientoverlayeffect/) objekt
+Skapade [`GradientOverlayEffect`](../../gradientoverlayeffect/) objekt
 
 ### Se även
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

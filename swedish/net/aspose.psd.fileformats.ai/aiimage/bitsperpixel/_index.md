@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar bildbitar per pixelantal.
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar antalet bildbitar per pixel."
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-Hämtar bildbitar per pixelantal.
+Hämtar antalet bildbitar per pixel.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildbitarna per pixelantal.
+Bildens bit per pixel-antal.
 
 ### Se även
 
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

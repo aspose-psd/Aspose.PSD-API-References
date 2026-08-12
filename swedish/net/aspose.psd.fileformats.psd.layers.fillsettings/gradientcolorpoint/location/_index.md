@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: Aspose.PSD för .NET API-referens
-description: GradientColorPoint fast egendom. Hämtar eller ställer in punktens placering på gradient.
+title: "GradientColorPoint.Location"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientColorPoint property. Hämtar eller anger punktens position på gradienten"
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-Hämtar eller ställer in punktens placering på gradient.
+Hämtar eller anger punktens position på gradienten.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Platsen.
 
 ### Se även
 
 * class [GradientColorPoint](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

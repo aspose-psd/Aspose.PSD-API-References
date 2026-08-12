@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetC
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColorHelper metod. Hämtar värdet för cyankomponenten.
+title: "CmykColorHelper.GetC"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColorHelper-metoden. Hämtar värdet för cyan-komponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/cmykcolorhelper/getc/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetC method
 
-Hämtar värdet för cyankomponenten.
+Hämtar cyan-komponentens värde.
 
 ```csharp
 public static int GetC(int cmyk)
@@ -20,12 +21,12 @@ public static int GetC(int cmyk)
 
 ### Returvärde
 
-Värdet för cyankomponenten.
+Cyan-komponentens värde.
 
 ### Se även
 
 * class [CmykColorHelper](../)
-* namnutrymme [Aspose.PSD](../../cmykcolorhelper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

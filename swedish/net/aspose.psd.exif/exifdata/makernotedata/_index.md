@@ -1,28 +1,29 @@
 ---
-title: ExifData.MakerNoteData
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar anteckningsdata.
+title: "ExifData.MakerNoteData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar maker note‑data"
 type: docs
 weight: 780
 url: /sv/net/aspose.psd.exif/exifdata/makernotedata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteData property
 
-Hämtar anteckningsdata.
+Hämtar tillverkarens noteringsdata.
 
 ```csharp
 public TiffDataType[] MakerNoteData { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Tillverkarens anteckningsdata.
+Maker note‑data.
 
 ### Se även
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

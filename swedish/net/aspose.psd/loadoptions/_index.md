@@ -1,11 +1,12 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.LoadOptions klass. Representerar laddningsalternativen.
+title: "Klass LoadOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.LoadOptions-klass. Representerar laddningsalternativen"
 type: docs
-weight: 5080
+weight: 5570
 url: /sv/net/aspose.psd/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions class
 
 Representerar laddningsalternativen.
@@ -16,23 +17,23 @@ public class LoadOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LoadOptions](loadoptions/)() | Default_Constructor |
+| [LoadOptions](loadoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Hämtar eller ställer in buffertstorlekstipset som är definierat som högsta tillåtna storlek för alla interna buffertar. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Hämtar eller ställer in[`Image`](../image/) bakgrund[`Color`](../color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Hämtar eller ställer in dataåterställningsläget. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Hämtar eller ställer in förloppshändelsehanteraren. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Hämtar eller ställer in ett värde som anger om ICC-profilkonvertering ska tillämpas. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Hämtar eller anger en hint för buffertstorleken som definierar maximal tillåten storlek för alla interna buffertar. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Hämtar eller anger bakgrundens [`Image`](../image/) [`Color`](../color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Hämtar eller anger dataräddningsläget. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Hämtar eller anger händelsehanteraren för framsteg. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Hämtar eller anger ett värde som indikerar om ICC‑profilkonvertering ska tillämpas. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

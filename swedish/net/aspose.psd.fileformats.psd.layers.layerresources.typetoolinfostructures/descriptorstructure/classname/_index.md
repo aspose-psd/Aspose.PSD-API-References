@@ -1,27 +1,28 @@
 ---
-title: DescriptorStructure.ClassName
-second_title: Aspose.PSD för .NET API-referens
-description: DescriptorStructure fast egendom. Hämtar eller ställer in klassnamnet.
+title: "DescriptorStructure.ClassName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DescriptorStructure egenskap. Hämtar eller anger klassnamnet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.ClassName property
 
-Hämtar eller ställer in klassnamnet.
+Hämtar eller anger klassnamnet.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Klassens namn.
+Klassnamnet.
 
 ### Se även
 
 * class [DescriptorStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

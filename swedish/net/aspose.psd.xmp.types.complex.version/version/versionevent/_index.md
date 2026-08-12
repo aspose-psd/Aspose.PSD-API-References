@@ -1,28 +1,29 @@
 ---
-title: Version.VersionEvent
-second_title: Aspose.PSD för .NET API-referens
-description: Version fast egendom. Hämtar eller ställer inResourceEvent .
+title: "Version.VersionEvent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Version-egenskap. Hämtar eller anger ResourceEvent"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp.types.complex.version/version/versionevent/
 ---
+{{< psd/tize >}}
 ## Version.VersionEvent property
 
-Hämtar eller ställer in[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) .
+Hämtar eller anger [`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/).
 
 ```csharp
 public ResourceEvent VersionEvent { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Versionshändelsen.
+Version-händelsen.
 
 ### Se även
 
 * class [ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/)
 * class [Version](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

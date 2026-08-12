@@ -1,27 +1,28 @@
 ---
-title: Layer.IsVisibleInGroup
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Får ett värde som indikerar om denna instans är synlig i gruppen om lagret inte är i gruppen betyder det rotgrupp.
+title: "Layer.IsVisibleInGroup"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar ett värde som indikerar om denna instans är synlig i grupp. Om lagret inte är i en grupp betyder det att det är rotgrupp."
 type: docs
-weight: 180
+weight: 190
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisibleInGroup property
 
-Får ett värde som indikerar om denna instans är synlig i gruppen (om lagret inte är i gruppen betyder det rotgrupp).
+Hämtar ett värde som indikerar om detta objekt är synligt i grupp(Om lagret inte är i en grupp betyder det rotgrupp).
 
 ```csharp
 public virtual bool IsVisibleInGroup { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är synlig i grupp; annat,`falsk` .
+`true` om denna instans är synlig i grupp; annars, `false`.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

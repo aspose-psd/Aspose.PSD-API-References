@@ -1,14 +1,15 @@
 ---
-title: Timecode.GetHashCode
-second_title: Aspose.PSD för .NET API-referens
-description: Timecode metod. Returnerar en hashkod för denna instans.
+title: "Timecode.GetHashCode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Timecode-metod. Returnerar en hashkod för denna instans."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/timecode/gethashcode/
 ---
+{{< psd/tize >}}
 ## Timecode.GetHashCode method
 
-Returnerar en hash-kod för denna instans.
+Returnerar en hashkod för denna instans.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Returvärde
 
-En hash-kod för denna instans, lämplig för användning i hashalgoritmer och datastrukturer som en hashtabell.
+En hashkod för denna instans, lämplig för användning i hash-algoritmer och datastrukturer som en hash‑tabell.
 
 ### Se även
 
 * class [Timecode](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

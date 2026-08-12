@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.SamplesPerPixel
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in samplen per pixel.
+title: "JpegExifData.SamplesPerPixel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData-egenskap. Hämtar eller anger antalet prover per pixel"
 type: docs
 weight: 180
 url: /sv/net/aspose.psd.exif/jpegexifdata/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SamplesPerPixel property
 
-Hämtar eller ställer in samplen per pixel.
+Hämtar eller anger antalet prover per pixel.
 
 ```csharp
 public ushort SamplesPerPixel { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Samplen per pixel.
+Proverna per pixel.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

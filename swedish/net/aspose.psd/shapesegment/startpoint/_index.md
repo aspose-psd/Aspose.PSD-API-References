@@ -1,20 +1,21 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: Aspose.PSD för .NET API-referens
-description: ShapeSegment fast egendom. Får startpunkten.
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ShapeSegment-egenskap. Hämtar startpunkten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
-Får startpunkten.
+Hämtar startpunkten.
 
 ```csharp
 public abstract PointF StartPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Startpunkten.
 
@@ -22,7 +23,7 @@ Startpunkten.
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* namnutrymme [Aspose.PSD](../../shapesegment/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

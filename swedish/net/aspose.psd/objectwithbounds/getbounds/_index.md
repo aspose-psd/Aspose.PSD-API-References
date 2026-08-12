@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Aspose.PSD för .NET API-referens
-description: ObjectWithBounds metod. Hämtar objektets gränser.
+title: "ObjectWithBounds.GetBounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ObjectWithBounds-metod. Hämtar objektets gränser"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/objectwithbounds/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Hämtar objektets gränser.
@@ -16,7 +17,7 @@ public abstract RectangleF GetBounds(Matrix matrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | Matrix | Matrisen som ska tillämpas före gränserna kommer att beräknas. |
+| matris | Matris | Matrisen att tillämpa innan gränserna beräknas. |
 
 ### Returvärde
 
@@ -27,8 +28,8 @@ Det uppskattade objektets gränser.
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* namnutrymme [Aspose.PSD](../../objectwithbounds/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,8 +43,8 @@ public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | Matrix | Matrisen som ska tillämpas före gränserna kommer att beräknas. |
-| pen | Pen | Pennan att använda för objekt. Detta kan påverka objektets gränsstorlek. |
+| matris | Matris | Matrisen att tillämpa innan gränserna beräknas. |
+| penna | Penna | Pennan att använda för objektet. Detta kan påverka objektets gränsstorlek. |
 
 ### Returvärde
 
@@ -55,7 +56,7 @@ Det uppskattade objektets gränser.
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [ObjectWithBounds](../)
-* namnutrymme [Aspose.PSD](../../objectwithbounds/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

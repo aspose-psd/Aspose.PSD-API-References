@@ -1,20 +1,21 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.PSD för .NET API-referens
-description: RawDataSettings fast egendom. Hämtar eller ställer in färgpaletten
+title: "RawDataSettings.ColorPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RawDataSettings egenskap. Hämtar eller anger färgpaletten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
-Hämtar eller ställer in färgpaletten
+Hämtar eller anger färgpaletten
 
 ```csharp
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgpaletten
 
@@ -22,7 +23,7 @@ Färgpaletten
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* namnutrymme [Aspose.PSD](../../rawdatasettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

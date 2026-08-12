@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Aspose.PSD för .NET API-referens
-description: Cache fast egendom. Hämtar antalet tilldelade diskbytes.
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Cache-egenskap. Hämtar det allokerade diskbyteantalet."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-Hämtar antalet tilldelade diskbytes.
+Hämtar antalet allokerade diskbyte.
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antalet tilldelade diskbyte.
+Det allokerade diskbyteantalet.
 
 ### Se även
 
 * class [Cache](../)
-* namnutrymme [Aspose.PSD](../../cache/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

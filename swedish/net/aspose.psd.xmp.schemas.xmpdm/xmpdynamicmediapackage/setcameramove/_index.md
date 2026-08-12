@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraMove
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in kamerarörelsen.
+title: "XmpDynamicMediaPackage.SetCameraMove"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage method. Ställer in kamerarörelsen"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameramove/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraMove method
 
 Ställer in kamerarörelsen.
@@ -16,12 +17,12 @@ public void SetCameraMove(string cameraMove)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| cameraMove | String | Kameran rör sig. |
+| cameraMove | String | Kamerarörelsen. |
 
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

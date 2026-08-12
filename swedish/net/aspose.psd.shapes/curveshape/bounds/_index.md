@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: CurveShape fast egendom. Hämtar objektets gränser.
+title: "CurveShape.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurveShape-egenskap. Hämtar objektets gränser"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.shapes/curveshape/bounds/
 ---
+{{< psd/tize >}}
 ## CurveShape.Bounds property
 
 Hämtar objektets gränser.
@@ -14,7 +15,7 @@ Hämtar objektets gränser.
 public override RectangleF Bounds { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets gränser.
 
@@ -22,7 +23,7 @@ Objektets gränser.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

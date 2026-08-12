@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeZZZ
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in ISOhastighetslatitud zzzvärdet för en kamera eller indataenhet som definieras i ISO 12232.
+title: "ExifData.ISOSpeedLatitudeZZZ"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger ISO‑hastighetslatitud‑zzz‑värdet för en kamera eller inmatningsenhet som definieras i ISO 12232"
 type: docs
 weight: 720
 url: /sv/net/aspose.psd.exif/exifdata/isospeedlatitudezzz/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeZZZ property
 
-Hämtar eller ställer in ISO-hastighetslatitud zzz-värdet för en kamera eller indataenhet som definieras i ISO 12232.
+Hämtar eller anger ISO‑hastighetslatitud zzz‑värdet för en kamera eller inmatningsenhet som definieras i ISO 12232.
 
 ```csharp
 public uint ISOSpeedLatitudeZZZ { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-ISO-hastighetslatitud zzz-värdet för en kamera eller inmatningsenhet som definieras i ISO 12232.
+ISO‑hastighetslatitud‑zzz‑värdet för en kamera eller inmatningsenhet som definieras i ISO 12232.
 
-### Anmärkningar
+## Anmärkningar
 
-Denna tagg ska inte spelas in utan ISOSpeed och ISOSpeedLatitudeyyy
+Denna tagg får inte registreras utan ISOSpeed och ISOSpeedLatitudeyyy
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

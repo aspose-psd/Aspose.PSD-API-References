@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in valslutet.
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource-egenskap. Hämtar eller anger urvalets slut"
 type: docs
-weight: 180
+weight: 160
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
-Hämtar eller ställer in valslutet.
+Hämtar eller anger slutet på markeringen.
 
 ```csharp
 public int SelectionEnd { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Valet slut.
+Urvalets slut.
 
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

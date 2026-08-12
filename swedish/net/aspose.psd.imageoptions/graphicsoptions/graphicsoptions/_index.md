@@ -1,14 +1,15 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Aspose.PSD för .NET API-referens
-description: GraphicsOptions byggare. Default_Constructor
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GraphicsOptions-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public GraphicsOptions()
@@ -17,7 +18,7 @@ public GraphicsOptions()
 ### Se även
 
 * class [GraphicsOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

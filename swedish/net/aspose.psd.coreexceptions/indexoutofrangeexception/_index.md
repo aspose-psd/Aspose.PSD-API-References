@@ -1,14 +1,15 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException klass. Kompressorundantaget.
+title: "Klass IndexOutOFRangeException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.IndexOutOFRangeException-klass. Komprimeringsundantaget"
 type: docs
 weight: 640
 url: /sv/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
-Kompressorundantaget.
+Komprimeringsundantaget
 
 ```csharp
 public class IndexOutOFRangeException : Exception
@@ -16,14 +17,14 @@ public class IndexOutOFRangeException : Exception
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Initierar en ny instans av[`CompressorException`](../compressorexception/) class. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Initierar en ny instans av[`CompressorException`](../compressorexception/) class. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Initierar en ny instans av klassen [`CompressorException`](../compressorexception/). |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Initierar en ny instans av klassen [`CompressorException`](../compressorexception/). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

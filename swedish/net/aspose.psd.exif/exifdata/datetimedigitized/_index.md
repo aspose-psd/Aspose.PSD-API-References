@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in datum och tid digitaliserat.
+title: "ExifData.DateTimeDigitized"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger datum och tid för digitalisering"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-Hämtar eller ställer in datum och tid digitaliserat.
+Hämtar eller anger datum/tid för digitalisering.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Datum och tid digitaliserad.
+Datum och tid för digitalisering.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

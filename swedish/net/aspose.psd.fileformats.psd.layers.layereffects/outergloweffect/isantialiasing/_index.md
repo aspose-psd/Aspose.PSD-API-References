@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsAntiAliasing
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Får eller ställer in AntiAliasing effect
+title: "OuterGlowEffect.IsAntiAliasing"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger aktiverad anti-aliasing-effekt"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsAntiAliasing property
 
-Får eller ställer in AntiAliasing effect
+Hämtar eller anger aktiverad AntiAliasing‑effekt
 
 ```csharp
 public bool IsAntiAliasing { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Avståndet.
 
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

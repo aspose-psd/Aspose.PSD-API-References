@@ -1,27 +1,28 @@
 ---
-title: Color.IsKnownColor
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får ett värde som indikerar om dettaColor struktur är en fördefinierad färg. Fördefinierade färger representeras av elementen iKnownColor uppräkning.
+title: "Color.IsKnownColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskap. Hämtar ett värde som indikerar om denna Color-struktur är en fördefinierad färg. Fördefinierade färger representeras av elementen i KnownColor‑enumerationen"
 type: docs
 weight: 1500
 url: /sv/net/aspose.psd/color/isknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.IsKnownColor property
 
-Får ett värde som indikerar om detta[`Color`](../) struktur är en fördefinierad färg. Fördefinierade färger representeras av elementen i[`KnownColor`](../../knowncolor/) uppräkning.
+Hämtar ett värde som anger om denna [`Color`](../)-struktur är en fördefinierad färg. Fördefinierade färger representeras av elementen i enumen [`KnownColor`](../../knowncolor/).
 
 ```csharp
 public bool IsKnownColor { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sant om detta[`Color`](../) skapades från en fördefinierad färg genom att använda antingen[`FromName`](../fromname/) metoden eller[`FromKnownColor`](../fromknowncolor/) metod; annars falskt.
+Sant om denna [`Color`](../) skapades från en fördefinierad färg genom att använda antingen metoden [`FromName`](../fromname/) eller metoden [`FromKnownColor`](../fromknowncolor/); annars falskt.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

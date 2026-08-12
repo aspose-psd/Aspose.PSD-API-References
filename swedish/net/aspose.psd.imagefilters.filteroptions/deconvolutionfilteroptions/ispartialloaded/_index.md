@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Aspose.PSD för .NET API-referens
-description: DeconvolutionFilterOptions fast egendom. Får ett värde som indikerar om denna instans är delvis laddad.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DeconvolutionFilterOptions egenskap. Hämtar ett värde som indikerar om den här instansen är delvis inläst"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
-Får ett värde som indikerar om denna instans är delvis laddad.
+Hämtar ett värde som indikerar om denna instans är delvis inläst.
 
 ```csharp
 public bool IsPartialLoaded { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är delvis laddad; annat,`falsk` .
+`true` om den här instansen är delvis inläst; annars `false`.
 
 ### Se även
 
 * class [DeconvolutionFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

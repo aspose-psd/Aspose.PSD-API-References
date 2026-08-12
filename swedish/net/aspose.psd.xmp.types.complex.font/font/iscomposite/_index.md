@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Hämtar eller ställer in ett värde som anger om detta teckensnitt är sammansatt.
+title: "Font.IsComposite"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskap. Hämtar eller anger ett värde som indikerar om detta teckensnitt är sammansatt"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-Hämtar eller ställer in ett värde som anger om detta teckensnitt är sammansatt.
+Hämtar eller anger ett värde som indikerar om detta teckensnitt är sammansatt.
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta teckensnitt är sammansatt; annat,`falsk` .
+`true` om detta teckensnitt är sammansatt; annars `false`.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: Aspose.PSD för .NET API-referens
-description: BlackWhiteAdjustmentLayer fast egendom. Hämtar eller ställer in det dubbla värdet för Red Tint Color.
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlackWhiteAdjustmentLayer egenskap. Hämtar eller anger det dubbla värdet för röd nyansfärg"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
-Hämtar eller ställer in det dubbla värdet för Red Tint Color.
+Hämtar eller anger dubbelvärdet för röd nyansfärg.
 
 ```csharp
 public double TintColorRed { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den röda nyansen Färg dubbelt värde.
+Det dubbla värdet för röd nyansfärg.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan manipulera egenskaperna för justeringslager för svartvitt i Aspose.PSD
+Följande exempel visar hur du kan manipulera egenskaperna för svartvita justeringslagret i Aspose.PSD
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Testa redigering och spara
+                // Testa redigering och sparande
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -154,7 +155,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Se även
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

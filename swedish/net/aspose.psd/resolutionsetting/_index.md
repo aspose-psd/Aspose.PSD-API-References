@@ -1,11 +1,12 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ResolutionSetting klass. Upplösningsinställningen för bildsparalternativ.
+title: "Klass ResolutionSetting"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ResolutionSetting-klass. Upplösningsinställningen för bildsparalternativ"
 type: docs
-weight: 5380
+weight: 5880
 url: /sv/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
 Upplösningsinställningen för bildsparalternativ.
@@ -16,21 +17,21 @@ public class ResolutionSetting
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Initierar en ny instans av`ResolutionSetting` class. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Initierar en ny instans av`ResolutionSetting` class. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | Initierar en ny instans av klassen `ResolutionSetting`. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Initierar en ny instans av klassen `ResolutionSetting`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Hämtar eller ställer in den horisontella upplösningen. |
-| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Hämtar eller ställer in den vertikala upplösningen. |
+| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Hämtar eller anger den horisontella upplösningen. |
+| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Hämtar eller anger den vertikala upplösningen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum StrokePosition
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition uppräkning. Positionsinställningen styr justeringen av ditt streck till lagret som det appliceras på iStrokeEffect .
+title: "Enum StrokePosition"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition-enum. Positionsinställningen styr justeringen av ditt streck mot lagret som den tillämpas på i StrokeEffect."
 type: docs
-weight: 2200
+weight: 2400
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
+{{< psd/tize >}}
 ## StrokePosition enumeration
 
-Positionsinställningen styr justeringen av ditt streck till lagret som det appliceras på i[`StrokeEffect`](../strokeeffect/) .
+Positionsinställningen styr justeringen av ditt streck mot lagret som den tillämpas på i [`StrokeEffect`](../strokeeffect/).
 
 ```csharp
 public enum StrokePosition : short
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Inside | `0` | Stroget skapas från kanten av formen och växer inåt, till mitten av objektet. |
-| Center | `1` | Slaget kommer att skapas från kanten av formen och växa både inåt och utåt. |
-| Outside | `2` | Stroget skapas från kanten av formen och kommer att växa utåt, bort från objektet. |
+| Inside | `0` | Strecket kommer att skapas från formens kant och växa inåt, till objektets centrum. |
+| Center | `1` | Strecket kommer att skapas från formens kant och växa både inåt och utåt. |
+| Outside | `2` | Strecket kommer att skapas från formens kant och växa utåt, bort från objektet. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar möjligheten att lägga till streckeffekten med olika typer av fyllning som färg, övertoning eller mönster.
+Detta exempel demonstrerar möjligheten att lägga till strekeffekten med olika fyllningstyper som Color, Gradient eller Pattern.
 
 ```csharp
 [C#]
@@ -36,28 +37,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Lägger till färgfyllning, vid position Inuti
+    // 1. Lägger till färgfyllning, på position Inuti
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Lägger till färgfyllning, vid position utanför
+    // 2. Lägger till färgfyllning, på position Utsida
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Lägger till färgfyllning, vid position Center
+    // 3. Lägger till färgfyllning, på position Centrum
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Lägger till övertoningsfyllning, vid position Inuti
+    // 4. Lägger till gradientfyllning, på position Inuti
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Lägger till övertoningsfyllning, vid position utanför
+    // 5. Lägger till gradientfyllning, på position Utsida
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Lägger till övertoningsfyllning, vid position Center
+    // 6. Lägger till gradientfyllning, på position Centrum
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -81,21 +82,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Lägger till mönsterfyllning, vid position Inuti
+    // 7. Lägger till mönsterfyllning, på position Inuti
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Lägger till mönsterfyllning, vid position utanför
+    // 8. Lägger till mönsterfyllning, på position Utsida
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Lägger till mönsterfyllning, vid position Center
+    // 9. Lägger till mönsterfyllning, på position Centrum
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -108,7 +109,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

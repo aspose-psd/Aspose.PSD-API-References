@@ -1,36 +1,37 @@
 ---
-title: Enum InterpolationMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.InterpolationMode uppräkning. DenInterpolationMode uppräkning anger algoritmen som används när bilder skalas eller roteras.
+title: "Enum InterpolationMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.InterpolationMode‑enum. InterpolationMode‑enumerationen specificerar den algoritm som används när bilder skalas eller roteras."
 type: docs
-weight: 5030
+weight: 5520
 url: /sv/net/aspose.psd/interpolationmode/
 ---
+{{< psd/tize >}}
 ## InterpolationMode enumeration
 
-Den`InterpolationMode` uppräkning anger algoritmen som används när bilder skalas eller roteras.
+`InterpolationMode`‑enumerationen specificerar den algoritm som används när bilder skalas eller roteras.
 
 ```csharp
 public enum InterpolationMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Invalid | `-1` | Ogiltigt interpolationsläge. |
 | Default | `0` | Anger standardläge. |
-| Low | `1` | Anger interpolation av låg kvalitet. |
-| High | `2` | Anger interpolation av hög kvalitet. |
-| Bilinear | `3` | Anger bilinjär interpolation. Ingen förfiltrering görs. Det här läget är inte lämpligt för att krympa en bild under 50 procent av dess ursprungliga storlek. |
-| Bicubic | `4` | Anger bikubisk interpolation. Ingen förfiltrering görs. Det här läget är inte lämpligt för att krympa en bild under 25 procent av dess ursprungliga storlek. |
-| NearestNeighbor | `5` | Anger närmaste granne-interpolation. |
-| HighQualityBilinear | `6` | Anger bilinjär interpolation av hög kvalitet. Förfiltrering utförs för att säkerställa krympning av hög kvalitet. |
-| HighQualityBicubic | `7` | Anger bikubisk interpolation av hög kvalitet. Förfiltrering utförs för att säkerställa högkvalitativ krympning. Detta läge ger transformerade bilder av högsta kvalitet. |
+| Low | `1` | Anger interpolering med låg kvalitet. |
+| High | `2` | Anger interpolering med hög kvalitet. |
+| Bilinear | `3` | Anger bilinjär interpolering. Ingen förfiltrering utförs. Detta läge är inte lämpligt för att minska en bild till under 50 % av dess originalstorlek. |
+| Bicubic | `4` | Anger bikubisk interpolering. Ingen förfiltrering utförs. Detta läge är inte lämpligt för att minska en bild till under 25 % av dess originalstorlek. |
+| NearestNeighbor | `5` | Anger närmaste-granne interpolering. |
+| HighQualityBilinear | `6` | Anger högkvalitativ, bilinjär interpolering. Förfiltrering utförs för att säkerställa högkvalitativ minskning. |
+| HighQualityBicubic | `7` | Anger högkvalitativ, bikubisk interpolation. Förfiltrering utförs för att säkerställa högkvalitativ krympning. Detta läge producerar de högsta kvaliteten på transformerade bilder. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

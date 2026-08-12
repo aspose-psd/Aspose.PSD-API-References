@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DataSize
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskData fast egendom. Hämtar storleken på data för lagermaskmasken.
+title: "LayerMaskData.DataSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskData-egenskap. Hämtar storleken på lagermaskens data."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DataSize property
 
-Hämtar storleken på data för lagermaskmasken.
+Hämtar storleken på lagermaskens maskdata.
 
 ```csharp
 public int DataSize { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Storleken på lagermaskens data.
 
 ### Se även
 
 * class [LayerMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

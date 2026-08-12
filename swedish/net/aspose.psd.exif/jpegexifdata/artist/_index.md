@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Artist
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in artisten.
+title: "JpegExifData.Artist"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData egenskap. Hämtar eller anger konstnären"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
-Hämtar eller ställer in artisten.
+Hämtar eller anger konstnären.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Konstnären.
+Artisten.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

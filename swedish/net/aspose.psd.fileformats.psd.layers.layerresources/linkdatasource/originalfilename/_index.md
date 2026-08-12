@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.OriginalFileName
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar det ursprungliga filnamnet för datakällan i Adobe Photoshop globala länkresurs.
+title: "LinkDataSource.OriginalFileName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource-egenskap. Hämtar det ursprungliga filnamnet för datakällan i Adobe Photoshop globala länkretsursen."
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalFileName property
 
-Hämtar det ursprungliga filnamnet för datakällan i Adobe® Photoshop® globala länkresurs.
+Hämtar det ursprungliga filnamnet för datakällan i Adobe® Photoshop® global länkretsurs.
 
 ```csharp
 public string OriginalFileName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det ursprungliga filnamnet i PSD-formatet LnkE / Lnk2 resurs.
+Det ursprungliga filnamnet i PSD-formatet LnkE / Lnk2‑resursen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt egenskapen OriginalFileName. |
 
 ### Se även
 
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

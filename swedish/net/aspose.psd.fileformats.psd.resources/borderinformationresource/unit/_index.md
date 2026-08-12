@@ -1,20 +1,21 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Aspose.PSD för .NET API-referens
-description: BorderInformationResource fast egendom. Hämtar eller ställer in gränsenheterna.
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BorderInformationResource egenskap. Hämtar eller anger kantens enheter"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-Hämtar eller ställer in gränsenheterna.
+Hämtar eller anger kantens enheter.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Exempel
+## Exempel
 
 Följande exempel visar stödet för BorderInformationResource-resursen.
 
@@ -49,7 +50,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

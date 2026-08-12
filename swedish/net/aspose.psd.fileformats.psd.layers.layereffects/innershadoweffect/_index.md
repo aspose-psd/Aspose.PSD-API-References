@@ -1,14 +1,15 @@
 ---
-title: Class InnerShadowEffect
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect klass. Effekt av inre skugglager
+title: "Klass InnerShadowEffect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect klass. Inner Shadow lager-effekt"
 type: docs
-weight: 2160
+weight: 2350
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-Effekt av inre skugglager
+Innerskugglager-effekt
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
@@ -16,23 +17,29 @@ public class InnerShadowEffect : IShadowEffect
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | Hämtar eller ställer in vinkeln i grader. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Hämtar eller ställer in färgen. |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Hämtar eller ställer in avståndet i pixlar. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Får en typ av effekt |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är synlig. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Får eller ställer in bruset. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Hämtar eller ställer in opaciteten. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Hämtar eller ställer in oskärpa värdet i pixlar. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Får eller ställer in spridningen (choke) som procent. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Hämtar eller ställer in ett värde som anger om [använd denna vinkel i alla lagereffekter]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | Hämtar eller anger vinkeln i grader. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Hämtar eller anger färgen. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Hämtar eller anger avståndet i pixlar. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Hämtar en effekttyp |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är synlig. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Hämtar eller anger brus. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Hämtar eller anger opaciteten. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Hämtar eller anger oskärpevärdet i pixlar. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Hämtar eller anger spridningen (choke) i procent. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Hämtar eller anger ett värde som indikerar om [använd denna vinkel i alla lager-effekter]. |
 
-### Exempel
+## Metoder
 
-Följande kod visar hur man ändrar inställningarna för den inre skuggskiktseffekten.
+| Namn | Beskrivning |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Beräknar och hämtar gränserna för effektpixlar baserat på indata lagrets pixelgränser. |
+
+## Exempel
+
+Följande kod demonstrerar hur man ändrar inställningarna för Inner Shadow lager-effekt.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ Följande kod visar hur man ändrar inställningarna för den inre skuggskiktsef
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -64,7 +71,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 ### Se även
 
 * interface [IShadowEffect](../ishadoweffect/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

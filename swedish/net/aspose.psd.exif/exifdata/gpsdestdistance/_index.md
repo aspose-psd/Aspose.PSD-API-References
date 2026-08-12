@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSDestDistance
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSavståndet till destinationspunkten.
+title: "ExifData.GPSDestDistance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger GPS-avståndet till destinationspunkten"
 type: docs
 weight: 420
 url: /sv/net/aspose.psd.exif/exifdata/gpsdestdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistance property
 
-Hämtar eller ställer in GPS-avståndet till destinationspunkten.
+Hämtar eller anger GPS-avståndet till destinationspunkten.
 
 ```csharp
 public TiffRational GPSDestDistance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 GPS-avståndet till destinationspunkten.
 
@@ -22,7 +23,7 @@ GPS-avståndet till destinationspunkten.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Distance
-second_title: Aspose.PSD för .NET API-referens
-description: IShadowEffect fast egendom. Hämtar eller ställer in avståndet i pixlar.
+title: "IShadowEffect.Distance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IShadowEffect-egenskap. Hämtar eller anger avståndet i pixlar"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Distance property
 
-Hämtar eller ställer in avståndet i pixlar.
+Hämtar eller anger avståndet i pixlar.
 
 ```csharp
 public int Distance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Avståndet.
 
 ### Se även
 
 * interface [IShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

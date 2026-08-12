@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet hanterar bearbetning av Pngfilformat.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet hanterar bearbetning av Png-filformat"
 type: docs
-weight: 190
+weight: 200
 url: /sv/net/aspose.psd.fileformats.png/
 ---
-Namnutrymmet hanterar bearbetning av Png-filformat.
+{{< psd/tize >}}
+Namnutrymmet hanterar Png-filformatbehandling.
 
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
 | [PngColorType](./pngcolortype/) | Representerar PNG-bildens färgtyp. |
-| [PngFilterType](./pngfiltertype/) | Png-filtertypen. |
+| [PngFilterType](./pngfiltertype/) | PNG-filtertypen. |
 
 

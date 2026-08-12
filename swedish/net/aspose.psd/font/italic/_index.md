@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Får ett värde som indikerar om dettaFontär kursiv.
+title: "Font.Italic"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskapen. Hämtar ett värde som indikerar om detta Font är kursivt"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Får ett värde som indikerar om detta[`Font`](../)är kursiv.
+Hämtar ett värde som indikerar om detta [`Font`](../) är kursivt.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sant om detta[`Font`](../) är kursiv; annars falskt.
+Sant om detta [`Font`](../) är kursivt; annars falskt.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

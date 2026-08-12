@@ -1,14 +1,15 @@
 ---
-title: CompressorException.CompressorException
-second_title: Aspose.PSD för .NET API-referens
-description: CompressorException byggare. Initierar en ny instans avCompressorException class.
+title: "CompressorException.CompressorException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CompressorException konstruktor. Initierar en ny instans av klassen CompressorException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions/compressorexception/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException(string) {#constructor}
 
-Initierar en ny instans av[`CompressorException`](../) class.
+Initierar en ny instans av klassen [`CompressorException`](../).
 
 ```csharp
 public CompressorException(string message)
@@ -21,14 +22,14 @@ public CompressorException(string message)
 ### Se även
 
 * class [CompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CompressorException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`CompressorException`](../) class.
+Initierar en ny instans av klassen [`CompressorException`](../).
 
 ```csharp
 public CompressorException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public CompressorException(string message, Exception innerException)
 ### Se även
 
 * class [CompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlendRange.BlendRange
-second_title: Aspose.PSD för .NET API-referens
-description: BlendRange byggare. Default_Constructor
+title: "BlendRange.BlendRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlendRange konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/blendrange/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public BlendRange()
@@ -17,7 +18,7 @@ public BlendRange()
 ### Se även
 
 * class [BlendRange](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Photometric
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in fotometrisk.
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger den fotometriska"
 type: docs
-weight: 320
+weight: 330
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-Hämtar eller ställer in fotometrisk.
+Hämtar eller anger photometric.
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den fotometriska.
 
@@ -22,7 +23,7 @@ Den fotometriska.
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

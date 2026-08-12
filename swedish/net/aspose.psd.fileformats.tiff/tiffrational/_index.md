@@ -1,14 +1,15 @@
 ---
-title: Class TiffRational
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.TiffRational klass. Den rationella tifftypen.
+title: "Class TiffRational"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.TiffRational class. tiff-rational-typen."
 type: docs
-weight: 4230
+weight: 4700
 url: /sv/net/aspose.psd.fileformats.tiff/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational class
 
-Den rationella tiff-typen.
+Tiff-rationella typen.
 
 ```csharp
 public class TiffRational
@@ -16,42 +17,42 @@ public class TiffRational
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TiffRational](tiffrational/#constructor)() | Initierar en ny instans av`TiffRational` class. |
-| [TiffRational](tiffrational/#constructor_1)(uint) | Initierar en ny instans av`TiffRational` class. |
-| [TiffRational](tiffrational/#constructor_2)(uint, uint) | Initierar en ny instans av`TiffRational` class. |
+| [TiffRational](tiffrational/#constructor)() | Initierar en ny instans av klassen `TiffRational`. |
+| [TiffRational](tiffrational/#constructor_1)(uint) | Initierar en ny instans av klassen `TiffRational`. |
+| [TiffRational](tiffrational/#constructor_2)(uint, uint) | Initierar en ny instans av klassen `TiffRational`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Denominator](../../aspose.psd.fileformats.tiff/tiffrational/denominator/) { get; } | Får nämnaren. |
-| [Nominator](../../aspose.psd.fileformats.tiff/tiffrational/nominator/) { get; } | Får nominatorn. |
-| [Value](../../aspose.psd.fileformats.tiff/tiffrational/value/) { get; } | Får flytvärdet. |
-| [ValueD](../../aspose.psd.fileformats.tiff/tiffrational/valued/) { get; } | Får det dubbla värdet. |
+| [Denominator](../../aspose.psd.fileformats.tiff/tiffrational/denominator/) { get; } | Hämtar nämnaren. |
+| [Nominator](../../aspose.psd.fileformats.tiff/tiffrational/nominator/) { get; } | Hämtar täljaren. |
+| [Value](../../aspose.psd.fileformats.tiff/tiffrational/value/) { get; } | Hämtar flyttalsvärdet. |
+| [ValueD](../../aspose.psd.fileformats.tiff/tiffrational/valued/) { get; } | Hämtar dubbelvärdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction)(double) | Uppskattar det angivna värdet till en bråkdel. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_2)(float) | Uppskattar det angivna värdet till en bråkdel. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_1)(double, double) | Uppskattar det angivna värdet till en bråkdel. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_3)(float, double) | Uppskattar det angivna värdet till en bråkdel. |
-| override [Equals](../../aspose.psd.fileformats.tiff/tiffrational/equals/)(object) | Bestämmer om den angivnaObject är lika med denna instans. |
-| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffrational/gethashcode/)() | Returnerar en hash-kod för denna instans. |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffrational/tostring/)() | Returnerar enString som representerar denna instans. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction)(double) | Approximerar det angivna värdet till ett bråk. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_2)(float) | Approximerar det angivna värdet till ett bråk. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_1)(double, double) | Approximerar det angivna värdet till ett bråk. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_3)(float, double) | Approximerar det angivna värdet till ett bråk. |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffrational/equals/)(object) | Bestämmer om det angivna objektet är lika med denna instans. |
+| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffrational/gethashcode/)() | Returnerar en hashkod för denna instans. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffrational/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffrational/epsilon/) | Epsilonen för bråkberäkning |
+| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffrational/epsilon/) | Epsilon för bråkräkning |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: Layer.LayerMaskData
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in lagermaskdata.
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer egenskap. Hämtar eller anger lagermaskdata"
 type: docs
-weight: 220
+weight: 230
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-Hämtar eller ställer in lagermaskdata.
+Hämtar eller anger lagermaskdata.
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Lagermaskdata.
 
@@ -22,7 +23,7 @@ Lagermaskdata.
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: Enum ResizeType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ResizeType uppräkning. Anger storleksändringstypen.
+title: "Enum ResizeType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ResizeType‑enum. Anger storleksändringstypen"
 type: docs
-weight: 5370
+weight: 5870
 url: /sv/net/aspose.psd/resizetype/
 ---
+{{< psd/tize >}}
 ## ResizeType enumeration
 
-Anger storleksändringstypen.
+Anger typ av storleksändring.
 
 ```csharp
 public enum ResizeType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Pixlarna bevaras inte under storleksändring. |
-| LeftTopToLeftTop | `1` | Vänster övre punkt på den nya bilden kommer att sammanfalla med den vänstra övre punkten på originalbilden. Beskärning sker vid behov. |
-| RightTopToRightTop | `2` | Höger topppunkt på den nya bilden kommer att sammanfalla med den högra övre punkten på originalbilden. Beskärning sker vid behov. |
-| RightBottomToRightBottom | `3` | Höger nedre punkt på den nya bilden kommer att sammanfalla med den högra nedre punkten på originalbilden. Beskärning sker vid behov. |
-| LeftBottomToLeftBottom | `4` | Nedre vänstra punkten på den nya bilden kommer att sammanfalla med den nedre vänstra punkten på originalbilden. Beskärning sker vid behov. |
-| CenterToCenter | `5` | Mitten av den nya bilden kommer att sammanfalla med mitten av originalbilden. Beskärning sker vid behov. |
-| LanczosResample | `6` | Sampla om med lanczos algoritm med a=3. |
-| NearestNeighbourResample | `7` | Sampla om med algoritmen närmaste granne. |
-| AdaptiveResample | `8` | Sampla om med adaptiv algoritm baserad på viktad och blandad rationell funktion och lanczos3 interpolationsalgoritmer. |
-| BilinearResample | `9` | Sampla om med bilinjär interpolation. Bildförfiltrering tillåts för att ta bort bruset före omsampling, vid behov |
-| HighQualityResample | `10` | Resample av hög kvalitet |
-| CatmullRom | `11` | Catmull-Rom kubisk interpolationsmetoden. |
-| CubicConvolution | `12` | Cubic Convolution-interpolationsmetoden |
-| CubicBSpline | `13` | CubicBSpline kubisk interpolationsmetod |
+| None | `0` | Pixlarna bevaras inte under storleksändringsoperationen. |
+| LeftTopToLeftTop | `1` | Det vänstra övre punkten i den nya bilden kommer att sammanfalla med den vänstra övre punkten i originalbilden. Beskärning sker om det behövs. |
+| RightTopToRightTop | `2` | Det högra övre punkten i den nya bilden kommer att sammanfalla med den högra övre punkten i originalbilden. Beskärning sker om det behövs. |
+| RightBottomToRightBottom | `3` | Det högra nedre punkten i den nya bilden kommer att sammanfalla med den högra nedre punkten i originalbilden. Beskärning sker om det behövs. |
+| LeftBottomToLeftBottom | `4` | Det vänstra nedre punkten i den nya bilden kommer att sammanfalla med den vänstra nedre punkten i originalbilden. Beskärning sker om det behövs. |
+| CenterToCenter | `5` | Centrum av den nya bilden kommer att sammanfalla med centrum av originalbilden. Beskärning sker om det behövs. |
+| LanczosResample | `6` | Omsampla med Lanczos-algoritmen med a=3. |
+| NearestNeighbourResample | `7` | Omsampla med närmaste granne-algoritmen. |
+| AdaptiveResample | `8` | Omsampla med adaptiv algoritm baserad på viktad och blandad rationell funktion samt Lanczos3‑interpolationsalgoritmer. |
+| BilinearResample | `9` | Omsampla med bilinjär interpolering. Bildförfiltrering är tillåten för att ta bort brus före omsamplning, vid behov. |
+| HighQualityResample | `10` | Den högkvalitativa omsamplingen |
+| CatmullRom | `11` | Catmull-Rom‑kubisk interpoleringsmetod. |
+| CubicConvolution | `12` | Kubisk konvolutionsinterpoleringsmetod |
+| CubicBSpline | `13` | CubicBSpline‑kubisk interpoleringsmetod |
 | Mitchell | `14` | Mitchells kubiska interpolationsmetod |
-| SinC | `15` | Sinc (Lanczos3) kubisk interpolationsmetod |
-| Bell | `16` | Bell-interpolationsmetoden |
+| SinC | `15` | Sinc (Lanczos3) kubiska interpolationsmetod |
+| Bell | `16` | Bell interpolationsmetod |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur man ändrar storlek på en bild med en ny SinC storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny SinC‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny SinC storleks�
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny Bell‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny storleksändri
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny Mitchell storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny Mitchell‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny Mitchell storl
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny CatmullRom storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny CatmullRom‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny CatmullRom sto
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny storleksändringstyp för CubicBSpline.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny CubicBSpline‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny storleksändri
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny storleksändringstyp CubicConvolution.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny CubicConvolution‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny storleksändri
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -136,7 +137,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

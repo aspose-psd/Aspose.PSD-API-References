@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD för .NET API-referens
-description: Shape fast egendom. Hämtar formens centrum.
+title: "Shape.Center"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Shape-egenskap. Hämtar formens centrum."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 Hämtar formens centrum.
@@ -14,7 +15,7 @@ Hämtar formens centrum.
 public abstract PointF Center { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formens centrum.
 
@@ -22,7 +23,7 @@ Formens centrum.
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* namnutrymme [Aspose.PSD](../../shape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType uppräkning. Linjekopplingstyp.
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Linjeanslutningstyp"
 type: docs
-weight: 3050
+weight: 3410
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-Linjekopplingstyp.
+Linjeanslutningstyp.
 
 ```csharp
 public enum LineJoinType : short
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| BevelJoin | `0` | Fasad sammanfogningstyp. |
-| RoundJoin | `1` | Roundd kopplingstyp. |
-| MiterJoin | `2` | Geringskopplingstyp. |
+| BevelJoin | `0` | Fasanslutningstyp. |
+| RoundJoin | `1` | Rund anslutningstyp. |
+| MiterJoin | `2` | Miter-anslutningstyp. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för VstkResource-resursen.
+Följande kod demonstrerar stödet för VstkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

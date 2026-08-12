@@ -1,33 +1,34 @@
 ---
-title: Enum PngFilterType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Png.PngFilterType uppräkning. Pngfiltertypen.
+title: "Enum PngFilterType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Png.PngFilterType enum. png-filtertypen"
 type: docs
-weight: 1590
+weight: 1600
 url: /sv/net/aspose.psd.fileformats.png/pngfiltertype/
 ---
+{{< psd/tize >}}
 ## PngFilterType enumeration
 
-Png-filtertypen.
+PNG-filtertypen.
 
 ```csharp
 public enum PngFilterType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Nollfiltret betyder ingen filtrering för bilddatarader. |
-| Sub | `1` | Underfiltret betyder att subtraktiv filtrering kommer att tillämpas på bilddata. |
-| Up | `2` | Upp-filtret betyder att subtraktionsfilter rad för rad kommer att tillämpas. |
-| Avg | `3` | Avg-filtret betyder att medelfiltret kommer att tillämpas på bilddata. |
+| None | `0` | Null-filtret betyder ingen filtrering av bilddatarrader. |
+| Sub | `1` | Sub-filtret betyder att subtraktiv filtrering kommer att tillämpas på bilddata. |
+| Up | `2` | Upp-filtret betyder att rad-för-rad subtraktionsfilter kommer att tillämpas. |
+| Avg | `3` | Avg-filtret betyder att medelvärdesfilter kommer att tillämpas på bilddata. |
 | Paeth | `4` | Paeth-prediktorfiltret. |
-| Adaptive | `5` | Adaptiv filtrering, innebär att sparprocessen kommer att välja det lämpligaste filtret för varje datarad. Bästa komprimering, långsammaste körtid. |
+| Adaptive | `5` | Adaptiv filtrering betyder att sparprocessen kommer att välja det mest lämpliga filtret för varje datarad. Bästa komprimering, långsammast exekveringstid. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

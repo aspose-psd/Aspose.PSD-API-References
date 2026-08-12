@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.ThrowExceptions
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader fast egendom. Hämtar eller ställer in ett värde som indikerar om undantag kastas vid felaktig databehandling läsning eller skrivning till stream.
+title: "TiffStreamReader.ThrowExceptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader egenskap. Hämtar eller anger ett värde som indikerar om undantag kastas vid felaktig databehandling, läsning eller skrivning till strömmen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ThrowExceptions property
 
-Hämtar eller ställer in ett värde som indikerar om undantag kastas vid felaktig databehandling (läsning eller skrivning till stream).
+Hämtar eller anger ett värde som indikerar om undantag kastas vid felaktig dataprocessing (läsa eller skriva till strömmen).
 
 ```csharp
 public bool ThrowExceptions { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om undantag görs för felaktig databehandling; annars ignoreras feltillstånden tyst.
+`true` om undantag kastas vid felaktig databehandling; annars ignoreras felvillkoren tyst.
 
 ### Se även
 
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

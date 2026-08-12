@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.TagType
-second_title: Aspose.PSD för .NET API-referens
-description: TiffDataType fast egendom. Hämtar taggtypen.
+title: "TiffDataType.TagType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffDataType egenskap. Hämtar taggtypen"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.tiff/tiffdatatype/tagtype/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagType property
 
 Hämtar taggtypen.
@@ -14,7 +15,7 @@ Hämtar taggtypen.
 public abstract TiffDataTypes TagType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Taggtypen.
 
@@ -22,7 +23,7 @@ Taggtypen.
 
 * enum [TiffDataTypes](../../../aspose.psd.fileformats.tiff.enums/tiffdatatypes/)
 * class [TiffDataType](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

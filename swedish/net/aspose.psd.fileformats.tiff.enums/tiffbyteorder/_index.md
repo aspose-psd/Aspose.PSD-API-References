@@ -1,11 +1,12 @@
 ---
-title: Enum TiffByteOrder
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder uppräkning. Byteordningen för tiffbilden
+title: "Enum TiffByteOrder"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enum. Byteordningen för tiff-bilden."
 type: docs
-weight: 4040
+weight: 4510
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
 Byteordningen för tiff-bilden
@@ -14,16 +15,16 @@ Byteordningen för tiff-bilden
 public enum TiffByteOrder
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| BigEndian | `19789` | The big endian byte order (Motorola). |
-| LittleEndian | `18761` | Den lilla endian-byteordningen (Intel). |
+| BigEndian | `19789` | Den big endian-byteordningen (Motorola). |
+| LittleEndian | `18761` | Den little endian-byteordningen (Intel). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

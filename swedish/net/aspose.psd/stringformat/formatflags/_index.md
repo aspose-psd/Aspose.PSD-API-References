@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat fast egendom. Hämtar eller sätter enStringFormatFlags uppräkning som innehåller formateringsinformation.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat-egenskap. Hämtar eller anger en StringFormatFlags enumeration som innehåller formateringsinformation."
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-Hämtar eller sätter en[`StringFormatFlags`](../../stringformatflags/) uppräkning som innehåller formateringsinformation.
+Hämtar eller anger en [`StringFormatFlags`](../../stringformatflags/) enumeration som innehåller formateringsinformation.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`StringFormatFlags`](../../stringformatflags/) uppräkning som innehåller formateringsinformation.
+En [`StringFormatFlags`](../../stringformatflags/) enumeration som innehåller formateringsinformation.
 
 ### Se även
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

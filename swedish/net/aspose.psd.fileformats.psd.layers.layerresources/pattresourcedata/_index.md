@@ -1,14 +1,15 @@
 ---
-title: Class PattResourceData
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData klass. Klassen att lagra mönsterdata förPattResource resurs.
+title: "Klass PattResourceData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData-klass. Klassen för att lagra mönsterdata för PattResource-resursen."
 type: docs
-weight: 2880
+weight: 3230
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData class
 
-Klassen att lagra mönsterdata för[`PattResource`](../pattresource/) resurs.
+Klassen för att lagra mönsterdata för [`PattResource`](../pattresource/) resursen.
 
 ```csharp
 public sealed class PattResourceData
@@ -16,33 +17,33 @@ public sealed class PattResourceData
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PattResourceData](pattresourcedata/)() | Default_Constructor |
+| [PattResourceData](pattresourcedata/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/) { get; } | Får höjden. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/) { get; } | Hämtar höjden. |
 | [ImageMode](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/) { get; } | Hämtar bildläget. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/) { get; } | Får längden på mönstret. |
-| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/) { get; set; } | Hämtar eller ställer in namnet. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/) { get; } | Hämtar längden på mönstret. |
+| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/) { get; set; } | Hämtar eller anger namnet. |
 | [PatternData](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/) { get; } | Hämtar mönsterdata. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/) { get; set; } | Hämtar eller ställer in mönsteridentifieraren. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/) { get; set; } | Hämtar eller anger mönsteridentifieraren. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version/) { get; } | Hämtar versionen. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/) { get; } | Hämtar bredden. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/)(StreamContainer) | Sparar mönsterdata. |
-| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Ställer in mönstret. |
+| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Ställer in pixelbufferten för mönstret och målstorleken, uppdaterar [`Width`](./width/) / [`Height`](./height/), och lagrar data för sparande med standardkomprimeringsläget (0). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TextLayer.GetFonts
-second_title: Aspose.PSD för .NET API-referens
-description: TextLayer metod. Hämtar teckensnittsuppsättningen för textlagret.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextLayer-metod. Hämtar teckensnittssamlingen för textlagret"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-Hämtar teckensnittsuppsättningen för textlagret.
+Hämtar teckensnittssamlingen för textlagret.
 
 ```csharp
 public TextFontInfo[] GetFonts()
@@ -16,11 +17,11 @@ public TextFontInfo[] GetFonts()
 
 ### Returvärde
 
-Teckensnittsuppsättningen för textlagret.
+Teckensnittssamlingen för textlagret.
 
-### Exempel
+## Exempel
 
-Följande kod visar hur Aspose.PSD får egenskaper för inline-formatering av Text Layer.
+Följande kod visar hur Aspose.PSD hämtar egenskaper för inlineformatering av Text Layer.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // får typsnitt som innehåller i textlager
+        // hämtar teckensnitt som finns i textlager
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

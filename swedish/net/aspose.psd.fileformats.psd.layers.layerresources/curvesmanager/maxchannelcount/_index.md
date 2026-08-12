@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.MaxChannelCount
-second_title: Aspose.PSD för .NET API-referens
-description: CurvesManager fast egendom. Får det maximala antalet kanaler.
+title: "CurvesManager.MaxChannelCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurvesManager-egenskap. Hämtar det maximala kanalantalet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/
 ---
+{{< psd/tize >}}
 ## CurvesManager.MaxChannelCount property
 
-Får det maximala antalet kanaler.
+Hämtar det maximala antalet kanaler.
 
 ```csharp
 public int MaxChannelCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Maximalt kanalantal.
+Det maximala kanalantalet.
 
 ### Se även
 
 * class [CurvesManager](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Aspose.PSD för .NET API-referens
-description: IPatternFillSettings fast egendom. Hämtar eller ställer in mönsterdata.
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPatternFillSettings-egenskap. Hämtar mönsterdata"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-Hämtar eller ställer in mönsterdata.
+Hämtar mönsterdata.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Mönsterdata.
 
 ### Se även
 
 * interface [IPatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

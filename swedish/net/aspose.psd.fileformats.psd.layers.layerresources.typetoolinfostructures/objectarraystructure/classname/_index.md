@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.ClassName
-second_title: Aspose.PSD för .NET API-referens
-description: ObjectArrayStructure fast egendom. Hämtar eller ställer in objektmatrisklassnamnet.
+title: "ObjectArrayStructure.ClassName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ObjectArrayStructure egenskap. Hämtar eller anger klassnamnet för objektarrayen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassName property
 
-Hämtar eller ställer in objektmatrisklassnamnet.
+Hämtar eller anger namn för objektarrayklassen.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Objektmatrisens klassnamn.
+Klassnamnet för objektarrayen.
 
 ### Se även
 
 * class [ObjectArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

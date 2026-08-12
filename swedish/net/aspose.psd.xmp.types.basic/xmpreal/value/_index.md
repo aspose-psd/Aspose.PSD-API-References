@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Aspose.PSD för .NET API-referens
-description: XmpReal fast egendom. Hämtar eller sätter flytande värde.
+title: "XmpReal.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpReal-egenskap. Hämtar eller sätter flyttalsvärdet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-Hämtar eller sätter flytande värde.
+Hämtar eller anger flyttalsvärdet.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det flytande värdet.
+Flyttalsvärdet.
 
 ### Se även
 
 * class [XmpReal](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

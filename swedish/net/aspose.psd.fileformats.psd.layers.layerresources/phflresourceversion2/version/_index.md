@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.Version
-second_title: Aspose.PSD för .NET API-referens
-description: PhflResourceVersion2 fast egendom. Hämtar versionen.
+title: "PhflResourceVersion2.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhflResourceVersion2 egenskap. Hämtar versionen"
 type: docs
-weight: 90
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Version property
 
 Hämtar versionen.
@@ -14,20 +15,20 @@ Hämtar versionen.
 public override short Version { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | NotImplementedException |  |
 
 ### Se även
 
 * class [PhflResourceVersion2](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

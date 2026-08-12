@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.ToArgb
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColorHelper metod. Omvandlingen från CMYKfärger till ARGBfärger.
+title: "CmykColorHelper.ToArgb"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColorHelper metod. Konverteringen från CMYK-färger till ARGB-färger"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/cmykcolorhelper/toargb/
 ---
+{{< psd/tize >}}
 ## ToArgb(int[]) {#toargb_1}
 
-Omvandlingen från CMYK-färger till ARGB-färger.
+Konverteringen från CMYK-färger till ARGB-färger.
 
 ```csharp
 public static Color[] ToArgb(int[] cmykPixels)
@@ -26,14 +27,14 @@ ARGB-färgerna.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namnutrymme [Aspose.PSD](../../cmykcolorhelper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgb(int) {#toargb}
 
-Omvandlingen från CMYK-färg till ARGB-färg.
+Konverteringen från CMYK-färg till ARGB-färg.
 
 ```csharp
 public static Color ToArgb(int cmykPixel)
@@ -51,7 +52,7 @@ ARGB-färgen.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namnutrymme [Aspose.PSD](../../cmykcolorhelper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

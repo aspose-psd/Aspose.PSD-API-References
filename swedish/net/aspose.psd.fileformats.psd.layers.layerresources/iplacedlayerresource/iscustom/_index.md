@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.IsCustom
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in ett värde som indikerar om denna instansförvrängningsstil är anpassad. Om den är sant innehåller den meshpunkter. Om den är inställd på false raderas meshpunkter.
+title: "IPlacedLayerResource.IsCustom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger ett värde som indikerar om detta instansens warp‑stil är anpassad. Om true innehåller den nätpunkter. Om false raderas nätpunkterna"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.IsCustom property
 
-Hämtar eller ställer in ett värde som indikerar om denna instansförvrängningsstil är anpassad. Om den är sant innehåller den mesh-punkter. Om den är inställd på false raderas mesh-punkter.
+Hämtar eller anger ett värde som indikerar om detta instansens warp‑stil är anpassad. Om true innehåller den mesh‑punkter. Om den sätts till false raderas mesh‑punkterna.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den placerade eller smarta objektlagerresursen har anpassad stil; annat,`falsk` .
+`true` om det placerade eller smarta objektlagrets resurs har anpassad stil; annars `false`.
 
 ### Se även
 
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

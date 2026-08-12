@@ -1,20 +1,21 @@
 ---
-title: PsdOptions.ColorMode
-second_title: Aspose.PSD för .NET API-referens
-description: PsdOptions fast egendom. Hämtar eller ställer in psdfärgläget.
+title: "PsdOptions.ColorMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdOptions egenskap. Hämtar eller anger psd-färgläget"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd.imageoptions/psdoptions/colormode/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ColorMode property
 
-Hämtar eller ställer in psd-färgläget.
+Hämtar eller anger PSD-färgläget.
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgläget.
 
@@ -22,7 +23,7 @@ Färgläget.
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PsdOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../psdoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

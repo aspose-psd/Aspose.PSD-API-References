@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till ett inverteringsjusteringslager.
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Lägger till ett inverteringsjusteringslager"
 type: docs
-weight: 360
+weight: 380
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
 Lägger till ett inverteringsjusteringslager.
@@ -16,11 +17,11 @@ public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 
 ### Returvärde
 
-Det skapade inverteringsskiktet
+Det skapade inverteringslagret
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för InvertAdjustmentLayer och hur man lägger till InvertAdjustmentLayer.
+Följande kod demonstrerar stöd för InvertAdjustmentLayer och hur man lägger till InvertAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

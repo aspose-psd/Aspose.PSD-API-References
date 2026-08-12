@@ -1,14 +1,15 @@
 ---
-title: Point.ToString
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Konverterar dettaPoint till en läsbar sträng.
+title: "Point.ToString"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metod. Konverterar detta Point till en mänskligt läsbar sträng"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-Konverterar detta[`Point`](../) till en läsbar sträng.
+Konverterar detta [`Point`](../) till en mänskligt läsbar sträng.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar denna instans.
 
 ### Se även
 
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

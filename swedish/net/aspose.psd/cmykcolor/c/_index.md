@@ -1,27 +1,28 @@
 ---
-title: CmykColor.C
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColor fast egendom. Hämtar cyankomponentvärdet för dettaColorstruktur.
+title: "CmykColor.C"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColor property. Hämtar cyan‑komponentens värde för denna Color‑struktur"
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.psd/cmykcolor/c/
 ---
+{{< psd/tize >}}
 ## CmykColor.C property
 
-Hämtar cyankomponentvärdet för detta[`Color`](../../color/)struktur.
+Hämtar cyan‑komponentens värde för denna [`Color`](../../color/) struktur.
 
 ```csharp
 public byte C { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Cyankomponentens värde för detta[`Color`](../../color/) .
+Cyan‑komponentens värde för denna [`Color`](../../color/).
 
 ### Se även
 
 * struct [CmykColor](../)
-* namnutrymme [Aspose.PSD](../../cmykcolor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in det maximala sampelvärdet.
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger maximalt provvärde"
 type: docs
-weight: 260
+weight: 270
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
-Hämtar eller ställer in det maximala sampelvärdet.
+Hämtar eller anger maximalt provvärde.
 
 ```csharp
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Det maximala provvärdet.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | värde |
-| ArgumentOutOfRangeException | värde;Arraylängden måste motsvara antalet samples per pixel. |
+| ArgumentOutOfRangeException | value;Arraylängden måste motsvara antalet prover per pixel. |
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PngOptions.FilterType
-second_title: Aspose.PSD för .NET API-referens
-description: PngOptions fast egendom. Hämtar eller ställer in filtertypen som används under pngfilsparprocessen.
+title: "PngOptions.FilterType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PngOptions egenskap. Hämtar eller anger filtertypen som används under PNG-filsparningsprocessen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.imageoptions/pngoptions/filtertype/
 ---
+{{< psd/tize >}}
 ## PngOptions.FilterType property
 
-Hämtar eller ställer in filtertypen som används under png-filsparprocessen.
+Hämtar eller anger filtertypen som används under png-filens sparprocess.
 
 ```csharp
 public PngFilterType FilterType { get; set; }
@@ -18,7 +19,7 @@ public PngFilterType FilterType { get; set; }
 
 * enum [PngFilterType](../../../aspose.psd.fileformats.png/pngfiltertype/)
 * class [PngOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../pngoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

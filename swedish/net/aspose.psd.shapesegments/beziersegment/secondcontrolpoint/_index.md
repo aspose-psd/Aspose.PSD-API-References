@@ -1,20 +1,21 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Aspose.PSD för .NET API-referens
-description: BezierSegment fast egendom. Får den andra kontrollpunkten för en bezierspline.
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierSegment-egenskap. Hämtar den andra kontrollpunkten för en bezier-spline"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-Får den andra kontrollpunkten för en bezier-spline.
+Hämtar den andra kontrollpunkten för en bezier-spline.
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den andra kontrollpunkten.
 
@@ -22,7 +23,7 @@ Den andra kontrollpunkten.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* namnutrymme [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

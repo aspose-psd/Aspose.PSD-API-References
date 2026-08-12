@@ -1,11 +1,12 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifExposureProgram uppräkning. exif exponeringsprogram enum.
+title: "Enum ExifExposureProgram"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifExposureProgram enum. exif exponeringsprogram enum"
 type: docs
-weight: 840
+weight: 850
 url: /sv/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifExposureProgram enumeration
 
 exif exponeringsprogram enum.
@@ -14,23 +15,23 @@ exif exponeringsprogram enum.
 public enum ExifExposureProgram
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Notdefined | `0` | Ej definierad. |
-| Manual | `1` | Manuellt program. |
-| Auto | `2` | Autoexponering. |
+| Manual | `1` | Manuell program. |
+| Auto | `2` | Automatisk exponering. |
 | Aperturepriority | `3` | Bländarprioritet. |
 | Shutterpriority | `4` | Slutarprioritet. |
 | Creativeprogram | `5` | Kreativt program. |
-| Actionprogram | `6` | Åtgärdsprogram. |
+| Actionprogram | `6` | Aktionsprogram. |
 | Portraitmode | `7` | Porträttläge. |
-| Landscapemode | `8` | Liggande läge. |
+| Landscapemode | `8` | Landskapsläge. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

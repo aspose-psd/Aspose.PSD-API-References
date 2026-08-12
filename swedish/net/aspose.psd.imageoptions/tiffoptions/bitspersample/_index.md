@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in bitarna per sampel.
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger bitarna per prov"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-Hämtar eller ställer in bitarna per sampel.
+Hämtar eller anger bitar per sample.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bitarna per sampelvärde.
+Värdet för bitarna per prov.
 
-### Anmärkningar
+## Anmärkningar
 
-När du ställer in detta värde, kom ihåg att det också kommer att ställa in SamplesPerPixel-värdet till arraylängd. Dessa 2 fastigheter är mycket tätt kopplade så de kan endast ställas samman.
+När du sätter detta värde, tänk på att det också kommer att sätta SamplesPerPixel-värdet till arrayens längd. Dessa två egenskaper är mycket tätt kopplade så de kan endast sättas tillsammans.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum JfifDensityUnits
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits uppräkning. jfifdensitetsenheterna.
+title: "Enum JfifDensityUnits"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits-enum. Jfif-densitetenheter."
 type: docs
-weight: 1480
+weight: 1490
 url: /sv/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
-jfif-densitetsenheterna.
+Jfif‑densitetsenheterna.
 
 ```csharp
 public enum JfifDensityUnits : byte
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| NoUnits | `0` | Inga enheter. |
-| PixelsPerInch | `1` | Pixel per tum. |
-| PixelsPerCm | `2` | Pixlarna per cm. |
+| NoUnits | `0` | Ingen enhet. |
+| PixelsPerInch | `1` | Pixlar per tum. |
+| PixelsPerCm | `2` | Pixlar per cm. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

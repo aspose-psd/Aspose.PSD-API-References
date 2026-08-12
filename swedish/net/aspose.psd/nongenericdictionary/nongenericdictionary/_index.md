@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericDictionary byggare. Initierar en ny instans avNonGenericDictionary class.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericDictionary konstruktor. Initierar en ny instans av klassen NonGenericDictionary"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-Initierar en ny instans av[`NonGenericDictionary`](../) class.
+Initierar en ny instans av klassen [`NonGenericDictionary`](../).
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
@@ -16,12 +17,12 @@ public NonGenericDictionary(IDictionary dictionary)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dictionary | IDictionary | Ordboken att använda. |
+| ordbok | IDictionary | Den ordbok som ska användas. |
 
 ### Se även
 
 * class [NonGenericDictionary](../)
-* namnutrymme [Aspose.PSD](../../nongenericdictionary/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleExtensions metod. Förenar två rektangel.
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleExtensions metod. Förenar två rektanglar"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
-Förenar två rektangel.
+Förenar två rektanglar.
 
 ```csharp
 public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectangle)
@@ -16,18 +17,18 @@ public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectang
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | RectangleF | Den första rektangeln. |
+| rektangel | RectangleF | Den första rektangeln. |
 | otherRectangle | RectangleF | Den andra rektangeln. |
 
 ### Returvärde
 
-Ny rektangel som resultat av facklig drift
+Ny rektangel som resultat av föreningsoperationen
 
 ### Se även
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* namnutrymme [Aspose.PSD.Extensions](../../rectangleextensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

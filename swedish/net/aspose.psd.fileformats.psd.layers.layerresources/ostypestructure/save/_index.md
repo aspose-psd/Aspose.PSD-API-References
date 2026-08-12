@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.Save
-second_title: Aspose.PSD för .NET API-referens
-description: OSTypeStructure metod. Sparar strukturen i den angivna strömbehållaren.
+title: "OSTypeStructure.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OSTypeStructure metod. Sparar strukturen till den angivna strömbehållaren"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Save method
 
-Sparar strukturen i den angivna strömbehållaren.
+Sparar strukturen till den angivna strömbehållaren.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
@@ -22,7 +23,7 @@ public void Save(StreamContainer streamContainer)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [OSTypeStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

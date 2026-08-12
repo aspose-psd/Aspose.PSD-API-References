@@ -1,14 +1,15 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD för .NET API-referens
-description: Color metod. Testar om två har angettsColor strukturer är olika.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-metoden. Testar om två angivna Color-strukturer är olika"
 type: docs
-weight: 1630
+weight: 1650
 url: /sv/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-Testar om två har angetts[`Color`](../) strukturer är olika.
+Testar om två angivna [`Color`](../) strukturer är olika.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
@@ -16,17 +17,17 @@ public static bool operator !=(Color left, Color right)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Color | De[`Color`](../) det är till vänster om ojämlikhetsoperatören. |
-| right | Color | De[`Color`](../) det är till höger om ojämlikhetsoperatören. |
+| left | Color | Den [`Color`](../) som är till vänster om ojämlikhetsoperatorn. |
+| right | Color | Den [`Color`](../) som är till höger om ojämlikhetsoperatorn. |
 
 ### Returvärde
 
-Sant om de två[`Color`](../) strukturer är olika; annars falskt.
+Sant om de två [`Color`](../) strukturerna är olika; annars falskt.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

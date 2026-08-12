@@ -1,14 +1,15 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Tillämpar den angivna skalvektorn scaleX och scaleY på dettaMatrix med den angivna ordningen.
+title: "Matrix.Scale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-metod. Tillämpa den angivna skalvektorn scaleX och scaleY på denna Matrix med den angivna ordningen"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-Tillämpar den angivna skalvektorn (scaleX och scaleY) på detta[`Matrix`](../) med den angivna ordningen.
+Tillämpa den angivna skalvektorn (scaleX och scaleY) på denna [`Matrix`](../) med den angivna ordningen.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
@@ -24,14 +25,14 @@ public void Scale(float scaleX, float scaleY, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-Tillämpar den angivna skalvektorn (scaleX och scaleY) på denna matris med hjälp av (standard) Prepend order.
+Tillämpar den angivna skalvektorn (scaleX och scaleY) på denna `Matrix` med (standard) Prepend‑ordning.
 
 ```csharp
 public void Scale(float sx, float sy)
@@ -39,13 +40,13 @@ public void Scale(float sx, float sy)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sx | Single | Den sx. Den sx. Den sx. |
-| sy | Single | Den sy. Den sy. Den sy. |
+| sx | Single | sx. sx. sx. |
+| sy | Single | sy. sy. sy. |
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in ett värde som anger om detta lager är nedtonat. Minskar intensiteten för länkade bilder och bitmappsbilder som finns i lagret.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection egenskap. Hämtar eller anger ett värde som indikerar om detta lager är dämpat. Minskar intensiteten hos länkade bilder och bitmapbilder som finns i lagret"
 type: docs
-weight: 50
+weight: 70
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Hämtar eller ställer in ett värde som anger om detta lager är nedtonat. Minskar intensiteten för länkade bilder och bitmappsbilder som finns i lagret.
+Hämtar eller anger ett värde som indikerar om detta lager är dämpat. Minskar intensiteten för länkade bilder och bitmapbilder som finns i lagret.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta lager är nedtonat; annat,`falsk` .
+`true` om detta lager är dämpat; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

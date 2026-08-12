@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackageBaseCollection metod. BlirXmpPackage av dess namnutrymmeURI.
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackageBaseCollection method. Hämtar XmpPackage via dess namespaceURI"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-Blir[`XmpPackage`](../../xmppackage/) av dess namnutrymmeURI.
+Hämtar [`XmpPackage`](../../xmppackage/) via dess namespaceURI.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
@@ -16,17 +17,17 @@ public XmpPackage GetPackage(string namespaceUri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceUri | String | Namnutrymmets URI att hämta paket för. |
+| namespaceUri | String | Namespace URI att hämta paket för. |
 
 ### Returvärde
 
-Returnerar XMP-paket för specificerad namnrymd Uri.
+Returnerar XMP‑paket för angiven namespace‑URI.
 
 ### Se även
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

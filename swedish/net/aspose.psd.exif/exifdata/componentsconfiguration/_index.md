@@ -1,27 +1,28 @@
 ---
-title: ExifData.ComponentsConfiguration
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in komponenters konfiguration.
+title: "ExifData.ComponentsConfiguration"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger komponentkonfigurationen"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.exif/exifdata/componentsconfiguration/
 ---
+{{< psd/tize >}}
 ## ExifData.ComponentsConfiguration property
 
-Hämtar eller ställer in komponenters konfiguration.
+Hämtar eller anger komponenternas konfiguration.
 
 ```csharp
 public byte[] ComponentsConfiguration { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Komponentens konfiguration.
+Komponentkonfigurationen.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

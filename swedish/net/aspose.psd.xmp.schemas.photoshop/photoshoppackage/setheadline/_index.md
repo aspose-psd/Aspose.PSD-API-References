@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Anger rubriken.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in rubriken"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
 Anger rubriken.
@@ -21,7 +22,7 @@ public void SetHeadline(string headline)
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

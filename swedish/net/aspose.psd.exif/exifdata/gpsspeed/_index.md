@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSSpeed
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in hastigheten för GPSmottagarens rörelse.
+title: "ExifData.GPSSpeed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData property. Hämtar eller anger hastigheten för GPS-mottagarens rörelse"
 type: docs
 weight: 600
 url: /sv/net/aspose.psd.exif/exifdata/gpsspeed/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeed property
 
-Hämtar eller ställer in hastigheten för GPS-mottagarens rörelse.
+Hämtar eller anger hastigheten för GPS-mottagarens rörelse.
 
 ```csharp
 public TiffRational GPSSpeed { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Hastigheten för GPS-mottagarens rörelse.
 
@@ -22,7 +23,7 @@ Hastigheten för GPS-mottagarens rörelse.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Denominator
-second_title: Aspose.PSD för .NET API-referens
-description: TiffRational fast egendom. Får nämnaren.
+title: "TiffRational.Denominator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffRational-egenskap. Hämtar nämnaren"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Denominator property
 
-Får nämnaren.
+Hämtar nämnaren.
 
 ```csharp
 public uint Denominator { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nämnaren.
 
 ### Se även
 
 * class [TiffRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

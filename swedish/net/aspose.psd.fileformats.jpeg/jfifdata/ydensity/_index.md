@@ -1,14 +1,15 @@
 ---
-title: JFIFData.YDensity
-second_title: Aspose.PSD för .NET API-referens
-description: JFIFData fast egendom. Hämtar eller ställer in ydensiteten.
+title: "JFIFData.YDensity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JFIFData-egenskap. Hämtar eller anger y‑tätheten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
-Hämtar eller ställer in y-densiteten.
+Hämtar eller anger y-densiteten.
 
 ```csharp
 public short YDensity { get; set; }
@@ -17,7 +18,7 @@ public short YDensity { get; set; }
 ### Se även
 
 * class [JFIFData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

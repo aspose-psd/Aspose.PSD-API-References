@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD för .NET API-referens
-description: XmpMediaManagementPackage metod. Ställer in dokumentidentifieraren.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpMediaManagementPackage-metod. Anger dokumentidentifieraren"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 Ställer in dokumentidentifieraren.
@@ -21,8 +22,8 @@ public void SetDocumentId(Guid guid)
 ### Se även
 
 * class [XmpMediaManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,7 +42,7 @@ public void SetDocumentId(string guid)
 ### Se även
 
 * class [XmpMediaManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

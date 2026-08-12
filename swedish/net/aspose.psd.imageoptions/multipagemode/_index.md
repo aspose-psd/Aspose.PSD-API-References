@@ -1,11 +1,12 @@
 ---
-title: Enum MultiPageMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageOptions.MultiPageMode uppräkning. Representerar flersidigt läge
+title: "Enum MultiPageMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageOptions.MultiPageMode enum. Representerar multipage‑läge"
 type: docs
-weight: 4850
+weight: 5340
 url: /sv/net/aspose.psd.imageoptions/multipagemode/
 ---
+{{< psd/tize >}}
 ## MultiPageMode enumeration
 
 Representerar flersidigt läge
@@ -14,18 +15,18 @@ Representerar flersidigt läge
 public enum MultiPageMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Pages | `0` | Begagnade sidindex |
+| Pages | `0` | Använda sidindex |
 | Titles | `1` | Använda sidtitlar |
-| Range | `2` | Använt intervall av sidor |
-| AllPages | `3` | Används alla sidor |
+| Range | `2` | Använt sidintervall |
+| AllPages | `3` | Använda alla sidor |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

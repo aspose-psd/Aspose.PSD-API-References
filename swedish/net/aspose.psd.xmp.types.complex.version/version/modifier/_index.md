@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD för .NET API-referens
-description: Version fast egendom. Hämtar eller ställer in modifieraren.
+title: "Version.Modifier"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Version-egenskap. Hämtar eller anger modifieraren"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-Hämtar eller ställer in modifieraren.
+Hämtar eller anger modifieraren.
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Modifieraren.
 
 ### Se även
 
 * class [Version](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

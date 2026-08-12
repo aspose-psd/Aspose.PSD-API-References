@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Hämtar eller ställer in gradientintervallet.
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource-egenskap. Hämtar eller anger gradientintervallet"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-Hämtar eller ställer in gradientintervallet.
+Hämtar eller anger gradientintervallet.
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Gradientintervallet.
 
 ### Se även
 
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

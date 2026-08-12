@@ -1,27 +1,28 @@
 ---
-title: LuniResource.Name
-second_title: Aspose.PSD för .NET API-referens
-description: LuniResource fast egendom. Hämtar eller ställer in namnet.
+title: "LuniResource.Name"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LuniResource egenskap. Hämtar eller anger namnet"
 type: docs
-weight: 40
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
+{{< psd/tize >}}
 ## LuniResource.Name property
 
-Hämtar eller ställer in namnet.
+Hämtar eller anger namnet.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet.
 
 ### Se även
 
 * class [LuniResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.PSD för .NET API-referens
-description: TiffSRational fast egendom. Får flytvärdet.
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffSRational-egenskap. Hämtar flyttalsvärdet"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
-Får flytvärdet.
+Hämtar flyttalsvärdet.
 
 ```csharp
 public float Value { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det flytande värdet.
+Flyttalsvärdet.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

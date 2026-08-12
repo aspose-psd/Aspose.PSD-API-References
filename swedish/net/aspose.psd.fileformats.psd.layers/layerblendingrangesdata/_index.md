@@ -1,11 +1,12 @@
 ---
-title: Class LayerBlendingRangesData
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData klass. Data för lagerblandningsintervall.
+title: "Klass LayerBlendingRangesData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData klass. Lagerblandningsintervallens data"
 type: docs
-weight: 2090
+weight: 2280
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData class
 
 Data för lagerblandningsintervall.
@@ -16,21 +17,21 @@ public sealed class LayerBlendingRangesData
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LayerBlendingRangesData](layerblendingrangesdata/)() | Default_Constructor |
+| [LayerBlendingRangesData](layerblendingrangesdata/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Hämtar eller ställer in kanalblandningsintervallen. |
-| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Hämtar eller ställer in de sammansatta blandningsintervallen. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Hämtar längden på data för lagerblandningsintervall i byte. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Hämtar eller anger kanalens blandningsintervall. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Hämtar eller anger det sammansatta blandningsintervallet. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Hämtar längden på lagerblandningsintervallens data i byte. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

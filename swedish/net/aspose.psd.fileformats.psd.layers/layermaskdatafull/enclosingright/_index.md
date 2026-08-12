@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingRight
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskDataFull fast egendom. Hämtar eller ställer in den omslutande högra rastermaskpositionen i PSDfillagret.
+title: "LayerMaskDataFull.EnclosingRight"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskDataFull-egenskap. Hämtar eller anger den högra rastermaskens omslutande position i PSD-filens lager"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingRight property
 
-Hämtar eller ställer in den omslutande högra rastermaskpositionen i PSD-fillagret.
+Hämtar eller anger den omgivande högra rastermaskens position i PSD‑fillagret.
 
 ```csharp
 public int EnclosingRight { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Höger lagermaskposition.
+Den högra lagermaskens position.
 
 ### Se även
 
 * class [LayerMaskDataFull](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD för .NET API-referens
-description: ImageCreatorsRegistry metod. Får näven hittas stödd deskriptor lämplig för den specificerade.
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageCreatorsRegistry‑metod. Hämtar den första funna stödjade beskrivningen som är lämplig för den angivna"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
-Får näven hittas stödd deskriptor lämplig för den specificerade.
+Hämtar den först hittade stödjade beskrivaren som är lämplig för den angivna.
 
 ```csharp
 public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBase imageOptions)
@@ -20,18 +21,18 @@ public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBa
 
 ### Returvärde
 
-Skaparbeskrivningen som stöder den angivna eller null om ingen sådan deskriptor hittas.
+Skaparbeteckningen som stöder den angivna eller null om ingen sådan beskrivning hittas.
 
-### Anmärkningar
+## Anmärkningar
 
-Den första skaparbeskrivningen kommer faktiskt att vara den senast registrerade.
+Den första skaparbeteckningen kommer faktiskt att vara den sist registrerade.
 
 ### Se även
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* namnutrymme [Aspose.PSD](../../imagecreatorsregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

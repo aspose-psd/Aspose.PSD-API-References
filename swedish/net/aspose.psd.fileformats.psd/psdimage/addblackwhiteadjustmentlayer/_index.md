@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till det svartvita justeringslagret.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Lägger till svartvitjusteringslagret"
 type: docs
-weight: 290
+weight: 300
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-Lägger till det svartvita justeringslagret.
+Lägger till svartvita justeringslagret.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
@@ -16,11 +17,11 @@ public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 
 ### Returvärde
 
-Det skapade svartvita justeringslagret.
+Det skapade svartvitjusteringslagret.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan lägga till det svartvita justeringslagret vid körning i Aspose.PSD
+Följande exempel visar hur du kan lägga till svartvitt‑justeringslagret vid körning i Aspose.PSD
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

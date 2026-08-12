@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSStatus
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSmottagarens status när bilden spelas in.
+title: "ExifData.GPSStatus"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger statusen för GPS-mottagaren när bilden registreras"
 type: docs
 weight: 620
 url: /sv/net/aspose.psd.exif/exifdata/gpsstatus/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSStatus property
 
-Hämtar eller ställer in GPS-mottagarens status när bilden spelas in.
+Hämtar eller anger statusen för GPS-mottagaren när bilden spelas in.
 
 ```csharp
 public string GPSStatus { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-mottagarens status när bilden spelas in.
+Statusen för GPS-mottagaren när bilden registreras.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

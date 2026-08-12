@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.Caption
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat fast egendom. Hämtar bildtexten för pixeldataformat.
+title: "PixelDataFormat.Caption"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat egenskap. Hämtar rubriken för pixeldataformatet"
 type: docs
 weight: 310
 url: /sv/net/aspose.psd/pixeldataformat/caption/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Caption property
 
-Hämtar bildtexten för pixeldataformat.
+Hämtar pixeldataformatets rubrik.
 
 ```csharp
 public string Caption { get; }
@@ -17,7 +18,7 @@ public string Caption { get; }
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleLineDashOffset
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Hämtar eller ställer in streckförskjutningen för linjestilen.
+title: "VstkResource.StrokeStyleLineDashOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar eller anger dash-offset för Stroke-stillinjen"
 type: docs
-weight: 130
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashOffset property
 
-Hämtar eller ställer in streckförskjutningen för linjestilen.
+Hämtar eller anger offset för streckstilens linjedash.
 
 ```csharp
 public int StrokeStyleLineDashOffset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Linjelinjens streckförskjutning.
+Stroke-stillinjens dash-offset.
 
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

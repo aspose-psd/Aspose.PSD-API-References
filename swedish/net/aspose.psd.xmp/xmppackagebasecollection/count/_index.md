@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackageBaseCollection fast egendom. Hämtar antalet element i samlingen.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackageBaseCollection-egenskap. Hämtar antalet element i samlingen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
 Hämtar antalet element i samlingen.
@@ -14,14 +15,14 @@ Hämtar antalet element i samlingen.
 public int Count { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Antalet element i samlingen.
 
 ### Se även
 
 * class [XmpPackageBaseCollection](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

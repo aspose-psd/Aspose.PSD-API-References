@@ -1,27 +1,28 @@
 ---
-title: ExifData.FlashpixVersion
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in flash pixversionen.
+title: "ExifData.FlashpixVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData property. Hämtar eller anger flash pix-versionen"
 type: docs
 weight: 270
 url: /sv/net/aspose.psd.exif/exifdata/flashpixversion/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashpixVersion property
 
-Hämtar eller ställer in flash pix-versionen.
+Hämtar eller anger blixt‑pix‑version.
 
 ```csharp
 public byte[] FlashpixVersion { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Flash pix-versionen.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

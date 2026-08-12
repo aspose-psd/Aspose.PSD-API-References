@@ -1,20 +1,21 @@
 ---
-title: RgbChannelMixerLayer.GreenChannel
-second_title: Aspose.PSD för .NET API-referens
-description: RgbChannelMixerLayer fast egendom. Får den gröna kanalen.
+title: "RgbChannelMixerLayer.GreenChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RgbChannelMixerLayer egenskap. Hämtar den gröna kanalen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/greenchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GreenChannel property
 
-Får den gröna kanalen.
+Hämtar den gröna kanalen.
 
 ```csharp
 public RgbMixerChannel GreenChannel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den gröna kanalen.
 
@@ -22,7 +23,7 @@ Den gröna kanalen.
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Uppdaterar dettaRegion att innehålla den del av det angivnaRectangleF struktur som inte korsar dettaRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Uppdaterar denna Region så att den innehåller den del av den angivna RectangleF‑strukturen som inte skär denna Region."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-Uppdaterar detta[`Region`](../) att innehålla den del av det angivna[`RectangleF`](../../rectanglef/) struktur som inte korsar detta[`Region`](../) .
+Uppdaterar denna [`Region`](../) så att den innehåller den del av den angivna [`RectangleF`](../../rectanglef/) strukturen som inte skär denna [`Region`](../).
 
 ```csharp
 public void Complement(RectangleF rect)
@@ -16,20 +17,20 @@ public void Complement(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur för att komplettera detta[`Region`](../). |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/) strukturen att komplementera denna [`Region`](../). |
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-Uppdaterar detta[`Region`](../) att innehålla den del av det angivna[`Rectangle`](../../rectangle/) struktur som inte korsar detta[`Region`](../) .
+Uppdaterar denna [`Region`](../) så att den innehåller den del av den angivna [`Rectangle`](../../rectangle/) strukturen som inte skär denna [`Region`](../).
 
 ```csharp
 public void Complement(Rectangle rect)
@@ -37,20 +38,20 @@ public void Complement(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur för att komplettera detta[`Region`](../). |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/) strukturen att komplementera denna [`Region`](../). |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-Uppdaterar detta[`Region`](../) att innehålla den del av det angivna[`GraphicsPath`](../../graphicspath/) som inte korsar detta[`Region`](../) .
+Uppdaterar denna [`Region`](../) så att den innehåller den del av den angivna [`GraphicsPath`](../../graphicspath/) som inte skär denna [`Region`](../).
 
 ```csharp
 public void Complement(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Complement(GraphicsPath path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | GraphicsPath | De[`GraphicsPath`](../../graphicspath/) för att komplettera detta[`Region`](../). |
+| path | GraphicsPath | Den [`GraphicsPath`](../../graphicspath/) för att komplettera detta [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path* är null. |
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-Uppdaterar detta[`Region`](../) att innehålla den del av det angivna[`Region`](../) som inte korsar detta[`Region`](../) .
+Uppdaterar detta [`Region`](../) så att det innehåller den del av det angivna [`Region`](../) som inte skär detta [`Region`](../).
 
 ```csharp
 public void Complement(Region region)
@@ -85,18 +86,18 @@ public void Complement(Region region)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| region | Region | De[`Region`](../) objekt för att komplettera detta[`Region`](../) objekt. |
+| region | Region | Det [`Region`](../)-objektet för att komplettera detta [`Region`](../)-objekt. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* är null. |
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

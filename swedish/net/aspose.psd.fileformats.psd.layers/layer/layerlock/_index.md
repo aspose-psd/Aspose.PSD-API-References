@@ -1,20 +1,21 @@
 ---
-title: Layer.LayerLock
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in lagerlåset. Observera att om flaggan LayerFlags.TransparencyProtected är inställd kommer den att skrivas över av lagerlåsflaggan. För att returnera LayerFlags.TransparencyProtectedflaggan måste ansöka om lageralternativet layer.Flags  Layer0Flags_TransparencyProtected_TransparencyProtected.TransparencyProtected.
+title: "Layer.LayerLock"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer property. Hämtar eller anger lagerlåset. Observera att om flaggan LayerFlags.TransparencyProtected är satt kommer den att skrivas över av lagerlåsets flagga. För att returnera flaggan LayerFlags.TransparencyProtected måste den tillämpas för lageralternativet layer.Flags  LayerFlags.TransparencyProtected"
 type: docs
-weight: 210
+weight: 220
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/layerlock/
 ---
+{{< psd/tize >}}
 ## Layer.LayerLock property
 
-Hämtar eller ställer in lagerlåset. Observera att om flaggan LayerFlags.TransparencyProtected är inställd kommer den att skrivas över av lagerlåsflaggan. För att returnera LayerFlags.TransparencyProtected-flaggan måste ansöka om lageralternativet layer.Flags &#x7C;= Layer0Flags_TransparencyProtected_TransparencyProtected.TransparencyProtected.
+Hämtar eller anger lagerlåsningen. Observera att om flaggan LayerFlags.TransparencyProtected är satt så kommer den att skrivas över av lagerlåsflagg. För att återge flaggan LayerFlags.TransparencyProtected måste du tillämpa lageralternativet layer.Flags &#x7C;= LayerFlags.TransparencyProtected
 
 ```csharp
 public LayerLockType LayerLock { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Lagerlåset.
 
@@ -22,7 +23,7 @@ Lagerlåset.
 
 * enum [LayerLockType](../../../aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

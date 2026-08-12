@@ -1,20 +1,21 @@
 ---
-title: ExifData.Contrast
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in kontrasten.
+title: "ExifData.Contrast"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger kontrasten"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.exif/exifdata/contrast/
 ---
+{{< psd/tize >}}
 ## ExifData.Contrast property
 
-Hämtar eller ställer in kontrasten.
+Hämtar eller anger kontrasten.
 
 ```csharp
 public ExifContrast Contrast { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kontrasten.
 
@@ -22,7 +23,7 @@ Kontrasten.
 
 * enum [ExifContrast](../../../aspose.psd.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

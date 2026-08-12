@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: PtFlResource metod. Sparar resursen till den angivna strömbehållaren.
+title: "PtFlResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PtFlResource metod. Sparar resursen till den angivna strömbehållaren"
 type: docs
-weight: 120
+weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Save method
 
 Sparar resursen till den angivna strömbehållaren.
@@ -16,20 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Strömbehållaren att spara till. |
+| streamContainer | StreamContainer | Den stream container som ska sparas till. |
 | psdVersion | Int32 | PSD-versionen. |
-
-### Undantag
-
-| undantag | skick |
-| --- | --- |
-| NotImplementedException |  |
 
 ### Se även
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PtFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

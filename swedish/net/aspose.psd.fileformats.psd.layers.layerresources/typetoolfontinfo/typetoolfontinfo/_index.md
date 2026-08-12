@@ -1,14 +1,15 @@
 ---
-title: TypeToolFontInfo.TypeToolFontInfo
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolFontInfo byggare. Default_Constructor
+title: "TypeToolFontInfo.TypeToolFontInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolFontInfo konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/typetoolfontinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public TypeToolFontInfo()
@@ -17,7 +18,7 @@ public TypeToolFontInfo()
 ### Se även
 
 * class [TypeToolFontInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

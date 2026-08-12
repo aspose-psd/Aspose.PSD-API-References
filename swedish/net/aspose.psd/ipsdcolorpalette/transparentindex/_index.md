@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: Aspose.PSD för .NET API-referens
-description: IPsdColorPalette fast egendom. Hämtar indexet för den transparenta färgen.
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPsdColorPalette egenskap. Hämtar index för den transparenta färgen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
 Hämtar indexet för den transparenta färgen.
@@ -14,14 +15,14 @@ Hämtar indexet för den transparenta färgen.
 public short TransparentIndex { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Indexet för den genomskinliga färgen.
+Index för den transparenta färgen.
 
 ### Se även
 
 * interface [IPsdColorPalette](../)
-* namnutrymme [Aspose.PSD](../../ipsdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

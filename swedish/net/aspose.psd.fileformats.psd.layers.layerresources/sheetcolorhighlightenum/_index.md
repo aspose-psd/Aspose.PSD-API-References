@@ -1,35 +1,36 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum uppräkning. Möjliga färger för arkets färginställning. Det är gränssnittets dekorativa färg på lager i lagers lista i PS
+title: "Enum SheetColorHighlightEnum"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum enum. Möjliga färger för Sheet-färginställning. Dess UI-dekorativa färg för lager i lagerlistan i PS"
 type: docs
-weight: 2970
+weight: 3320
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Möjliga färger för arkets färginställning. Det är gränssnittets dekorativa färg på lager i lagers lista i PS
+Möjliga färger för Sheet‑färginställningen. Det är ett UI‑dekorativt färg för lager i lagerlistan i PS.
 
 ```csharp
 public enum SheetColorHighlightEnum : short
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| NoColor | `0` | Färg är inte specificerad. |
+| NoColor | `0` | Färgen är inte specificerad. |
 | Red | `1` | Den röda färgen. |
-| Orange | `2` | Den orange färgen. |
+| Orange | `2` | Den orangea färgen. |
 | Yellow | `3` | Den gula färgen. |
 | Green | `4` | Den gröna färgen. |
 | Blue | `5` | Den blå färgen. |
 | Violet | `6` | Den violetta färgen. |
 | Gray | `7` | Den grå färgen. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan ändra arkfärgsmarkering i Aspose.PSD (arkfärgsinställning)
+Följande exempel visar hur du kan ändra bladfärgsmarkering i Aspose.PSD (inställning för bladfärg)
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ Följande exempel visar hur du kan ändra arkfärgsmarkering i Aspose.PSD (arkf�
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// I filen är färgerna på lagers markering i denna ordning
+// I filen är färgerna för lagrens markering i följande ordning
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color används för att visuellt markera lager. 
-// Du kan till exempel uppdatera några lager i PSD och sedan markera efter färg det lager som du vill väcka uppmärksamhet.
+// Lagrets bladfärg används för att visuellt markera lager.
+// Till exempel kan du uppdatera vissa lager i PSD och sedan markera med färg det lager du vill uppmärksamma.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -59,7 +60,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // Färgerna ska vara omvända
+    // Färgerna bör vändas
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Lcrl-resursen presenteras alltid i resurslistan för psd-filer.
+            // lcrl-resursen finns alltid i PSD-filens resurslista.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Baksidan av stilmallsfärgerna. Konfigurera lagerfärgmarkering.
+                // Omvändning av stilarksfärger. Inställning av lagerfärgsmarkering.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -93,7 +94,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

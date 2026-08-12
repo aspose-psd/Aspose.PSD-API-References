@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.Key
-second_title: Aspose.PSD för .NET API-referens
-description: OSTypeStructure fast egendom. Hämtar strukturnyckeln.
+title: "OSTypeStructure.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OSTypeStructure egenskap. Hämtar strukturnyckeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Key property
 
 Hämtar strukturnyckeln.
@@ -17,7 +18,7 @@ public abstract int Key { get; }
 ### Se även
 
 * class [OSTypeStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

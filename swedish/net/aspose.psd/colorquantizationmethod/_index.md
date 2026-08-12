@@ -1,11 +1,12 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ColorQuantizationMethod uppräkning. Färgkvantiseringsmetoder
+title: "Enum ColorQuantizationMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ColorQuantizationMethod‑enum. Metoder för färgkvantisering"
 type: docs
 weight: 390
 url: /sv/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
 Färgkvantiseringsmetoder
@@ -14,16 +15,16 @@ Färgkvantiseringsmetoder
 public enum ColorQuantizationMethod
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | None | `0` | Ingen färgkvantiseringsmetod används |
 | Popularity | `1` | Popularitetsmetoden |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

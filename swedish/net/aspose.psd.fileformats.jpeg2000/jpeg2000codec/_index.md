@@ -1,30 +1,31 @@
 ---
-title: Enum Jpeg2000Codec
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec uppräkning. Representerar JPEG2000 bildtyp
+title: "Enum Jpeg2000Codec"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec enum. Representerar JPEG2000-bildtyp"
 type: docs
-weight: 1540
+weight: 1550
 url: /sv/net/aspose.psd.fileformats.jpeg2000/jpeg2000codec/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Codec enumeration
 
-Representerar JPEG2000 bildtyp
+Representerar JPEG2000-bildtyp
 
 ```csharp
 public enum Jpeg2000Codec
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| J2K | `0` | J2k codec format |
-| Jp2 | `1` | JP2 codec format |
-| Jpt | `2` | JPT-codec-formatet (stöds ej) |
+| J2K | `0` | j2k-kodformatet |
+| Jp2 | `1` | JP2-kodformatet |
+| Jpt | `2` | JPT-kodformatet (stöds inte) |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
+* assembly [Aspose.PSD](../../)
 
 

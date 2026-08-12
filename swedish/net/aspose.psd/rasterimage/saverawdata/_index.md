@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Sparar rådata.
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Sparar rådata"
 type: docs
-weight: 530
+weight: 550
 url: /sv/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 Sparar rådata.
@@ -17,17 +18,17 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | Rådata. |
-| dataOffset | Int32 | Offset för rådata från start. |
-| rectangle | Rectangle | Rådatarektangeln. |
-| rawDataSettings | RawDataSettings | De rådatainställningar som data finns i. |
+| data | Byte[] | Den råa datan. |
+| dataOffset | Int32 | Startoffset för rådata. |
+| rektangel | Rectangle | Rådatarektangeln. |
+| rawDataSettings | RawDataSettings | Rådatainställningarna där data finns. |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

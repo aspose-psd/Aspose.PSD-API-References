@@ -1,14 +1,15 @@
 ---
-title: Class VstkResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource klass. Resursklass VstkResource. Innehåller information om Vector Stroke Data. Resursen bör initieras antingen med AssginItemsmetoden från resourcedata antingen genom att tilldela värden till egenskaperna för klassen.
+title: "Klass VstkResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource-klass. Resursklass VstkResource. Innehåller information om vektorstrecksdata. Resursen bör initieras antingen via AssignItems‑metoden från ResourceLoader eller genom att tilldela värden till klassens egenskaper."
 type: docs
-weight: 3060
+weight: 3440
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
+{{< psd/tize >}}
 ## VstkResource class
 
-Resursklass VstkResource. Innehåller information om Vector Stroke Data. Resursen bör initieras antingen med AssginItems-metoden från resourcedata, antingen genom att tilldela värden till egenskaperna för klassen.
+Resursklass VstkResource. Innehåller information om vektorstrecksdata. Resursen bör initieras antingen via AssignItems‑metoden från ResourceLoader, eller genom att tilldela värden till klassens egenskaper.
 
 ```csharp
 public class VstkResource : LayerResource
@@ -16,52 +17,53 @@ public class VstkResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [VstkResource](vstkresource/)() | Default_Constructor |
+| [VstkResource](vstkresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FillEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om Strokefill är aktiverat. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/) { get; } | Får signaturen. |
-| [StrokeEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/) { get; set; } | Hämtar eller ställer in ett värde som anger om slageffekten är aktiverad. |
-| [StrokeStyleBlendMode](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/) { get; set; } | Hämtar eller ställer in Stroke Blend-läge. |
-| [StrokeStyleContent](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylecontent/) { get; set; } | Hämtar eller ställer in Stroke-entitet. Egenskapen bestämmer fyllningsinställningarna för strecket. |
-| [StrokeStyleLineAlignment](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/) { get; set; } | Hämtar eller ställer in linjejustering av linjestil. |
-| [StrokeStyleLineCapType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/) { get; set; } | Hämtar eller ställer in typen av linjekapsel för linjestil. |
-| [StrokeStyleLineCapWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/) { get; set; } | Hämtar eller ställer in Stroke line cap width. |
-| [StrokeStyleLineDashOffset](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/) { get; set; } | Hämtar eller ställer in streckförskjutningen för linjestilen. |
-| [StrokeStyleLineDashSet](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/) { get; set; } | Hämtar eller ställer in en rad streck. |
-| [StrokeStyleLineJoinType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/) { get; set; } | Hämtar eller ställer in linjekopplingstyp. |
-| [StrokeStyleLineWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/) { get; set; } | Hämtar eller ställer in linjebredden. |
-| [StrokeStyleMiterLimit](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/) { get; set; } | Hämtar eller ställer in slagstilens geringsgräns. |
-| [StrokeStyleOpacity](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/) { get; set; } | Hämtar eller ställer in Stroke stryle opacitet (0-100%). |
-| [StrokeStyleResolution](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/) { get; set; } | Får eller ställer in Stroke Style-upplösning. |
-| [StrokeStyleScaleLock](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/) { get; set; } | Hämtar eller ställer in Stroke Style skala lås. |
-| [StrokeStyleStrokeAdjust](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/) { get; set; } | Får eller ställer in Stroke adjust. |
-| [StrokeStyleVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/) { get; set; } | Hämtar eller ställer in slagstilsversionen. |
+| [FillEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/) { get; set; } | Hämtar eller anger ett värde som indikerar om Stroke-fyllning är aktiverad. |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillsettings/) { get; set; } | Hämtar eller anger fyllningsinställningar för Stroke. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [StrokeEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/) { get; set; } | Hämtar eller anger ett värde som indikerar om stroke‑effekt är aktiverad. |
+| [StrokeStyleBlendMode](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/) { get; set; } | Hämtar eller anger Stroke‑blandningsläge. |
+| [StrokeStyleContent](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylecontent/) { get; set; } | Hämtar eller anger Stroke‑entitet. Egenskapen bestämmer fyllningsinställningarna för strecket. |
+| [StrokeStyleLineAlignment](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/) { get; set; } | Hämtar eller anger Stroke-stilens linjejustering. |
+| [StrokeStyleLineCapType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/) { get; set; } | Hämtar eller anger typen av linjeändning för stroke‑stilen. |
+| [StrokeStyleLineCapWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/) { get; set; } | Hämtar eller anger bredden på stroke‑linjeändning. |
+| [StrokeStyleLineDashOffset](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/) { get; set; } | Hämtar eller anger offset för streckstilens linjedash. |
+| [StrokeStyleLineDashSet](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/) { get; set; } | Hämtar eller anger en array av linjedashar. |
+| [StrokeStyleLineJoinType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/) { get; set; } | Hämtar eller anger typ av linjesammanfogning för stroke‑stilen. |
+| [StrokeStyleLineWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/) { get; set; } | Hämtar eller anger stroke‑linjebredd. |
+| [StrokeStyleMiterLimit](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/) { get; set; } | Hämtar eller anger mitergräns för stroke‑stilen. |
+| [StrokeStyleOpacity](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/) { get; set; } | Hämtar eller anger opacitet för stroke‑stilen (0‑100 %). |
+| [StrokeStyleResolution](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/) { get; set; } | Hämtar eller anger upplösning för stroke‑stilen. |
+| [StrokeStyleScaleLock](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/) { get; set; } | Hämtar eller anger skalningslås för stroke‑stilen. |
+| [StrokeStyleStrokeAdjust](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/) { get; set; } | Hämtar eller anger Stroke‑justering. |
+| [StrokeStyleVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/) { get; set; } | Hämtar eller anger versionen för streckstil. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för VstkResource-resursen.
+Följande kod demonstrerar stödet för VstkResource-resursen.
 
 ```csharp
 [C#]
@@ -89,7 +91,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

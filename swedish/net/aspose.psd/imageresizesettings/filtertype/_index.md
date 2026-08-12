@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: Aspose.PSD för .NET API-referens
-description: ImageResizeSettings fast egendom. Hämtar eller ställer in typen av filter.
+title: "ImageResizeSettings.FilterType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageResizeSettings egenskap. Hämtar eller anger filtertypen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
-Hämtar eller ställer in typen av filter.
+Hämtar eller anger filtretypen.
 
 ```csharp
 public ImageFilterType FilterType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av filter.
+Filtertypen.
 
 ### Se även
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* namnutrymme [Aspose.PSD](../../imageresizesettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

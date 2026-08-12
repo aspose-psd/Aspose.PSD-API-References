@@ -1,27 +1,28 @@
 ---
-title: Layer.Width
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar bildens bredd.
+title: "Layer.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar bildens bredd"
 type: docs
-weight: 320
+weight: 330
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
-Hämtar bildens bredd.
+Hämtar bildbredden.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildens bredd.
+Bildbredden.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

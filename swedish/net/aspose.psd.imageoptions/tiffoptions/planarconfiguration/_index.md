@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in den plana konfigurationen.
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger planarkonfigurationen"
 type: docs
-weight: 330
+weight: 340
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
-Hämtar eller ställer in den plana konfigurationen.
+Hämtar eller anger planar konfiguration.
 
 ```csharp
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den plana konfigurationen.
+Planarkonfigurationen.
 
 ### Se även
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

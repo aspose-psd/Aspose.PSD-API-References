@@ -1,14 +1,15 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Uppdaterar dettaRegion till facket minus skärningspunkten för sig själv med det angivnaRectangleFstruktur.
+title: "Region.Xor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region‑metod. Uppdaterar detta Region till unionen minus skärningspunkten med den angivna RectangleF‑strukturen"
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-Uppdaterar detta[`Region`](../) till facket minus skärningspunkten för sig själv med det angivna[`RectangleF`](../../rectanglef/)struktur.
+Uppdaterar detta [`Region`](../) till unionen minus skärningspunkten med den angivna [`RectangleF`](../../rectanglef/) strukturen.
 
 ```csharp
 public void Xor(RectangleF rect)
@@ -16,20 +17,20 @@ public void Xor(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur för att xor med detta[`Region`](../). |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/) struktur som ska xor:as med detta [`Region`](../). |
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-Uppdaterar detta[`Region`](../) till facket minus skärningspunkten för sig själv med det angivna[`Rectangle`](../../rectangle/)struktur.
+Uppdaterar detta [`Region`](../) till unionen minus skärningspunkten med den angivna [`Rectangle`](../../rectangle/) strukturen.
 
 ```csharp
 public void Xor(Rectangle rect)
@@ -37,20 +38,20 @@ public void Xor(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur för att xor med detta[`Region`](../). |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/) struktur som ska xor:as med detta [`Region`](../). |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-Uppdaterar detta[`Region`](../) till facket minus skärningspunkten för sig själv med det angivna[`GraphicsPath`](../../graphicspath/) .
+Uppdaterar detta [`Region`](../) till unionen minus skärningspunkten med den angivna [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Xor(GraphicsPath path)
@@ -58,11 +59,11 @@ public void Xor(GraphicsPath path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | GraphicsPath | De[`GraphicsPath`](../../graphicspath/) att xor med detta[`Region`](../). |
+| path | GraphicsPath | Den [`GraphicsPath`](../../graphicspath/) som ska xor:as med detta [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | *path* är null. |
 
@@ -70,14 +71,14 @@ public void Xor(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-Uppdaterar detta[`Region`](../) till facket minus skärningspunkten för sig själv med det angivna[`Region`](../) .
+Uppdaterar detta [`Region`](../) till unionen minus skärningspunkten med det angivna [`Region`](../).
 
 ```csharp
 public void Xor(Region region)
@@ -85,18 +86,18 @@ public void Xor(Region region)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| region | Region | De[`Region`](../) att xor med detta[`Region`](../). |
+| region | Region | Den [`Region`](../) att xor:a med denna [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | *region* är null. |
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

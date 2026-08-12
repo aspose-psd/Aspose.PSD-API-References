@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox klass. Definierar vektorforms begränsningsboxklass.
+title: "Klass VectorShapeBoundingBox"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox klass. Definierar vektorformens omslutningsruta-klass"
 type: docs
-weight: 1430
+weight: 1440
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-Definierar vektorforms begränsningsboxklass.
+Definierar vektorformens bounding box-klass.
 
 ```csharp
 public sealed class VectorShapeBoundingBox
@@ -16,29 +17,30 @@ public sealed class VectorShapeBoundingBox
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Default_Constructor |
+| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Får eller sätter botten. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Hämtar eller ställer in gränserna för formbegränsningsrutan. |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Hämtar eller ställer in vänster. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Hämtar eller ställer in enhetsvärdet quad version. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Får eller ställer in rätt. |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Får eller sätter toppen. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Hämtar eller anger botten. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Hämtar eller anger gränserna för formens omslutningsruta. |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Hämtar eller anger vänster. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | Hämtar eller anger enhetstyp för de punkter som bestämmer hörnen på rutan. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Hämtar eller anger enhetsvärdet quad‑version. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Hämtar eller anger höger. |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Hämtar eller anger toppen. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar att laddning och lagring av PSD-bilden med formlager och vektorbanor fungerar korrekt.
+Detta exempel demonstrerar att inläsning och sparande av PSD‑bilden med formlager och vektorpågar fungerar korrekt.
 
 ```csharp
 [C#]
 
-// Det här exemplet visar att laddning och lagring av PSD-bilden med formlager och vektorbanor fungerar korrekt.
+// Detta exempel demonstrerar att inläsning och sparande av PSD‑bilden med formlager och vektorpågar fungerar korrekt.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -165,7 +167,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Aspose.PSD för .NET API-referens
-description: LengthRecord fast egendom. Hämtar eller ställer in index för aktuell vägform i lager.
+title: "LengthRecord.ShapeIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LengthRecord egenskap. Hämtar eller anger indexet för den aktuella sökvägsformen i lagret"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-Hämtar eller ställer in index för aktuell vägform i lager.
+Hämtar eller anger indexet för den aktuella sökvägsformen i lagret.
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för nya LengthRecord-egenskaper, PathOperations (booleska operationer), ShapeIndex och BezierKnotRecordsCount.
+Följande kodexempel demonstrerar stödet för nya LengthRecord‑egenskaper, PathOperations (boolska operationer), ShapeIndex och BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [LengthRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

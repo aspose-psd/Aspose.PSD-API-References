@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. XMPteckensnittstyp.
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnrymdsfält. XMP Font-typ"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-XMP-teckensnittstyp.
+XMP Font-typ.
 
 ```csharp
 public const string XmpTypeFont;
@@ -17,7 +18,7 @@ public const string XmpTypeFont;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. De kontextuella alternativen som används för att koppla samman bokstäver.
+title: "ITextStyle.ContextualAlternates"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle egenskap. De kontextuella alternativen som används för att koppla ihop bokstäver"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
-De kontextuella alternativen som används för att koppla samman bokstäver.
+De kontextuella alternativen som används för att koppla ihop bokstäver.
 
 ```csharp
 public bool ContextualAlternates { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

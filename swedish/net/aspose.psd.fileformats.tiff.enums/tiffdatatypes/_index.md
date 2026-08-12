@@ -1,40 +1,41 @@
 ---
-title: Enum TiffDataTypes
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes uppräkning. tiffdatatypen enum.
+title: "Enum TiffDataTypes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes enum. Den TIFF-datatypenumret"
 type: docs
-weight: 4060
+weight: 4530
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffdatatypes/
 ---
+{{< psd/tize >}}
 ## TiffDataTypes enumeration
 
-tiff-datatypen enum.
+Tiff-datatypenumet.
 
 ```csharp
 public enum TiffDataTypes : ushort
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Byte | `1` | 8-bitars osignerat heltal. |
-| Ascii | `2` | 8-bitars byte med sista byte`null` . |
-| Short | `3` | 16-bitars osignerat heltal. |
-| Long | `4` | 32-bitars osignerat heltal. |
-| Rational | `5` | 64-bitars osignerad fraktion. |
-| Sbyte | `6` | 8-bitars signerat heltal. |
-| Undefined | `7` | 8-bitars otypade data. |
-| Sshort | `8` | 16-bitars signerat heltal. |
-| Slong | `9` | 32-bitars signerat heltal. |
-| Srational | `10` | 64-bitars signerad bråkdel. |
-| Float | `11` | 32-bitars IEEE flyttal. |
-| Double | `12` | 64-bitars IEEE flyttal. |
-| Ifd | `13` | Pekare till Exif-bildfilkatalog (IFD). |
+| Byte | `1` | 8-bit osignerat heltal. |
+| Ascii | `2` | 8-bit byte med sista byte `null`. |
+| Short | `3` | 16-bit osignerat heltal. |
+| Long | `4` | 32-bit osignerat heltal. |
+| Rational | `5` | 64-bit osignerad bråkdel. |
+| Sbyte | `6` | 8-bit signerat heltal. |
+| Undefined | `7` | 8-bit otypad data. |
+| Sshort | `8` | 16-bit signerat heltal. |
+| Slong | `9` | 32-bit signerat heltal. |
+| Srational | `10` | 64-bit signerad bråkdel. |
+| Float | `11` | 32-bit IEEE flyttal. |
+| Double | `12` | 64-bit IEEE flyttal. |
+| Ifd | `13` | Pekare till Exif bildfilskatalog (IFD). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

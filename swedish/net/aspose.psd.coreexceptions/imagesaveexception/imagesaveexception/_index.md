@@ -1,14 +1,15 @@
 ---
-title: ImageSaveException.ImageSaveException
-second_title: Aspose.PSD för .NET API-referens
-description: ImageSaveException byggare. Initierar en ny instans avImageSaveException class.
+title: "ImageSaveException.ImageSaveException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageSaveException konstruktor. Initierar en ny instans av klassen ImageSaveException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions/imagesaveexception/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException(string) {#constructor}
 
-Initierar en ny instans av[`ImageSaveException`](../) class.
+Initierar en ny instans av klassen [`ImageSaveException`](../).
 
 ```csharp
 public ImageSaveException(string message)
@@ -21,14 +22,14 @@ public ImageSaveException(string message)
 ### Se även
 
 * class [ImageSaveException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageSaveException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`ImageSaveException`](../) class.
+Initierar en ny instans av klassen [`ImageSaveException`](../).
 
 ```csharp
 public ImageSaveException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public ImageSaveException(string message, Exception innerException)
 ### Se även
 
 * class [ImageSaveException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

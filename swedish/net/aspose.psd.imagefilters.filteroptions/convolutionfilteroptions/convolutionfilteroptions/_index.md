@@ -1,14 +1,15 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Aspose.PSD för .NET API-referens
-description: ConvolutionFilterOptions byggare. Initierar en ny instans avConvolutionFilterOptions class.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ConvolutionFilterOptions konstruktor. Initierar en ny instans av klassen ConvolutionFilterOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-Initierar en ny instans av[`ConvolutionFilterOptions`](../) class.
+Initierar en ny instans av klassen [`ConvolutionFilterOptions`](../).
 
 ```csharp
 public ConvolutionFilterOptions()
@@ -17,7 +18,7 @@ public ConvolutionFilterOptions()
 ### Se även
 
 * class [ConvolutionFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

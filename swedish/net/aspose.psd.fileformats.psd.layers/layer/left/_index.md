@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in vänster lagerposition.
+title: "Layer.Left"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger den vänstra lagrets position"
 type: docs
-weight: 240
+weight: 250
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-Hämtar eller ställer in vänster lagerposition.
+Hämtar eller anger lagrets vänstra position.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det vänstra lagrets position.
+Den vänstra lagrets position.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

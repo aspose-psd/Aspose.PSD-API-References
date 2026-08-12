@@ -1,20 +1,21 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Aspose.PSD för .NET API-referens
-description: VectorRasterizationOptions fast egendom. Hämtar eller ställer in utjämningsläget.
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorRasterizationOptions-egenskap. Hämtar eller anger utjämningsläget"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
-Hämtar eller ställer in utjämningsläget.
+Hämtar eller anger utjämningsläget.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Utjämningsläget.
 
@@ -22,7 +23,7 @@ Utjämningsläget.
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

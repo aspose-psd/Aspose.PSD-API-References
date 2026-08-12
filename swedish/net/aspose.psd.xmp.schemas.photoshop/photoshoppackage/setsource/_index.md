@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Ställer in källan.
+title: "PhotoshopPackage.SetSource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in källan"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
-Ställer in källan.
+Anger källan.
 
 ```csharp
 public void SetSource(string source)
@@ -21,7 +22,7 @@ public void SetSource(string source)
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

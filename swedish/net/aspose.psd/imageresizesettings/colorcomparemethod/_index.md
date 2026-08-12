@@ -1,20 +1,21 @@
 ---
-title: ImageResizeSettings.ColorCompareMethod
-second_title: Aspose.PSD för .NET API-referens
-description: ImageResizeSettings fast egendom. Hämtar eller ställer in färgjämförelsemetoden.
+title: "ImageResizeSettings.ColorCompareMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageResizeSettings egenskap. Hämtar eller anger färgjämförelsemetoden"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/imageresizesettings/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorCompareMethod property
 
-Hämtar eller ställer in färgjämförelsemetoden.
+Hämtar eller anger färgjämförelsemetoden.
 
 ```csharp
 public ColorCompareMethod ColorCompareMethod { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgjämförelsemetoden.
 
@@ -22,7 +23,7 @@ Färgjämförelsemetoden.
 
 * enum [ColorCompareMethod](../../colorcomparemethod/)
 * class [ImageResizeSettings](../)
-* namnutrymme [Aspose.PSD](../../imageresizesettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

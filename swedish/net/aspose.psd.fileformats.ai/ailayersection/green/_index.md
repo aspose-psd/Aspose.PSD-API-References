@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in den gröna färgkomponenten.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection-egenskap. Hämtar eller anger den gröna färgkomponenten"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-Hämtar eller ställer in den gröna färgkomponenten.
+Hämtar eller anger den gröna färgkomponenten.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den gröna färgkomponenten.
 
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

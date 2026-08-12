@@ -1,28 +1,29 @@
 ---
-title: ProgressEventHandlerInfo.EventType
-second_title: Aspose.PSD för .NET API-referens
-description: ProgressEventHandlerInfo fast egendom. Hämtar typen av händelse.
+title: "ProgressEventHandlerInfo.EventType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ProgressEventHandlerInfo egenskap. Hämtar typen av händelsen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.EventType property
 
-Hämtar typen av händelse.
+Hämtar typen av händelsen.
 
 ```csharp
 public EventType EventType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typ av händelse.
+Typen av händelsen.
 
 ### Se även
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* namnutrymme [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetIntroTime
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in introduktionstiden.
+title: "XmpDynamicMediaPackage.SetIntroTime"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage-metoden. Ställer in introtiden"
 type: docs
 weight: 250
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetIntroTime method
 
-Ställer in introduktionstiden.
+Ställer in introtiden.
 
 ```csharp
 public void SetIntroTime(Time introTime)
@@ -22,7 +23,7 @@ public void SetIntroTime(Time introTime)
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

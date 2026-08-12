@@ -1,20 +1,21 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in bländarvärdet.
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger bländarvärdet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
-Hämtar eller ställer in bländarvärdet.
+Hämtar eller anger bländarvärdet.
 
 ```csharp
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bländarvärdet.
 
@@ -22,7 +23,7 @@ Bländarvärdet.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

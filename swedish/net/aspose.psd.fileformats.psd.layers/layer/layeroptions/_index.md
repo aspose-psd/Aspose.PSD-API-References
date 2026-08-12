@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar lageralternativen.
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar lageralternativen"
 type: docs
-weight: 230
+weight: 240
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
 Hämtar lageralternativen.
@@ -14,7 +15,7 @@ Hämtar lageralternativen.
 public PsdOptions LayerOptions { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Lageralternativen.
 
@@ -22,7 +23,7 @@ Lageralternativen.
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

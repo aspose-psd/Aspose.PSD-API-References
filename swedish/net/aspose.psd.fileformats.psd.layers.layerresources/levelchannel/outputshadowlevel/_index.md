@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputShadowLevel
-second_title: Aspose.PSD för .NET API-referens
-description: LevelChannel fast egendom. Hämtar eller ställer in utmatningsskuggnivån.
+title: "LevelChannel.OutputShadowLevel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LevelChannel‑egenskap. Hämtar eller anger output‑shadow‑nivån"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputShadowLevel property
 
-Hämtar eller ställer in utmatningsskuggnivån.
+Hämtar eller sätter utgångens skuggnivå.
 
 ```csharp
 public short OutputShadowLevel { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Utdataskuggnivån.
+Output‑shadow‑nivån.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Output Shadow Level kan endast ställas in inom området från 0 till " + (this.OutputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Output‑shadow‑nivå kan endast sättas i intervallet från 0 till " + (this.OutputHighlightLevel - 2) |
 
 ### Se även
 
 * class [LevelChannel](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

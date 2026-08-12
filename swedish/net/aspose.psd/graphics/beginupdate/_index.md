@@ -1,27 +1,28 @@
 ---
-title: Graphics.BeginUpdate
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Startar cachelagring av följande grafikoperationer. De grafiska effekterna som appliceras efteråt kommer inte att tillämpas omedelbart istället kommer EndUpdate att orsaka att alla effekter appliceras på en gång.
+title: "Graphics.BeginUpdate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Startar cachning av följande grafikoperationer. Grafikeffekterna som tillämpas därefter kommer inte att tillämpas omedelbart; istället kommer EndUpdate att orsaka att alla effekter tillämpas på en gång"
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.psd/graphics/beginupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.BeginUpdate method
 
-Startar cachelagring av följande grafikoperationer. De grafiska effekterna som appliceras efteråt kommer inte att tillämpas omedelbart, istället kommer EndUpdate att orsaka att alla effekter appliceras på en gång.
+Startar cachning av följande grafikoperationer. Grafikeffekterna som tillämpas därefter kommer inte att tillämpas omedelbart, utan EndUpdate kommer att orsaka att alla effekter appliceras på en gång.
 
 ```csharp
 public void BeginUpdate()
 ```
 
-### Anmärkningar
+## Anmärkningar
 
-Observera att effekterna efter att BeginUpdate anropas inte kommer att tillämpas om EndUpdate inte anropas.
+Observera att effekterna efter att BeginUpdate har anropats inte kommer att tillämpas om EndUpdate inte anropas.
 
 ### Se även
 
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

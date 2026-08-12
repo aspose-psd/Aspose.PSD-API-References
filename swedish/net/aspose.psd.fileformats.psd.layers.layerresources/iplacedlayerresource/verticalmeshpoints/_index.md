@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPoints
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in de horisontella meshpunkterna för det placerade lagret i PSDfilen.
+title: "IPlacedLayerResource.VerticalMeshPoints"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger de horisontella mesh-punkterna för det placerade lagret i PSD-filen"
 type: docs
 weight: 210
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPoints property
 
-Hämtar eller ställer in de horisontella mesh-punkterna för det placerade lagret i PSD-filen.
+Hämtar eller anger de horisontella maskpunkterna för det placerade lagret i PSD‑filen.
 
 ```csharp
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De horisontella nätpunkterna för det placerade lagret.
 
 ### Se även
 
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

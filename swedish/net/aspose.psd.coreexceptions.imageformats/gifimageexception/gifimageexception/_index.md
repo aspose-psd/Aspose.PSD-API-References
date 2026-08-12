@@ -1,14 +1,15 @@
 ---
-title: GifImageException.GifImageException
-second_title: Aspose.PSD för .NET API-referens
-description: GifImageException byggare. Initierar en ny instans avGifImageException class.
+title: "GifImageException.GifImageException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GifImageException-konstruktör. Initierar en ny instans av klassen GifImageException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.imageformats/gifimageexception/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException(string) {#constructor}
 
-Initierar en ny instans av[`GifImageException`](../) class.
+Initierar en ny instans av klassen [`GifImageException`](../).
 
 ```csharp
 public GifImageException(string message)
@@ -21,14 +22,14 @@ public GifImageException(string message)
 ### Se även
 
 * class [GifImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifImageException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`GifImageException`](../) class.
+Initierar en ny instans av klassen [`GifImageException`](../).
 
 ```csharp
 public GifImageException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public GifImageException(string message, Exception innerException)
 ### Se även
 
 * class [GifImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

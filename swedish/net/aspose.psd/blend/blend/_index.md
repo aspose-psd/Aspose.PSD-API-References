@@ -1,14 +1,15 @@
 ---
-title: Blend.Blend
-second_title: Aspose.PSD för .NET API-referens
-description: Blend byggare. Initierar en ny instans avBlend klass. Antalet element i faktor och blandningsmatriserna kommer att vara lika med 1.
+title: "Blend.Blend"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Blend-konstruktor. Initierar en ny instans av Blend-klassen. Antalet element i faktor- och blandningsarrayerna kommer att vara 1."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-Initierar en ny instans av[`Blend`](../) klass. Antalet element i faktor- och blandningsmatriserna kommer att vara lika med 1.
+Initierar en ny instans av klassen [`Blend`](../). Antalet element i faktor- och blandningsarrayerna kommer att vara 1.
 
 ```csharp
 public Blend()
@@ -17,14 +18,14 @@ public Blend()
 ### Se även
 
 * class [Blend](../)
-* namnutrymme [Aspose.PSD](../../blend/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-Initierar en ny instans av[`Blend`](../) klass med det angivna antalet faktorer och positioner.
+Initierar en ny instans av klassen [`Blend`](../) med det angivna antalet faktorer och positioner.
 
 ```csharp
 public Blend(int count)
@@ -32,12 +33,12 @@ public Blend(int count)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| count | Int32 | Antalet element i faktor- och positionsmatriserna. |
+| count | Int32 | Antalet element i faktor- och positionsarrayerna. |
 
 ### Se även
 
 * class [Blend](../)
-* namnutrymme [Aspose.PSD](../../blend/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

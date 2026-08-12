@@ -1,14 +1,15 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Bestämmer om den angivnaObject är lika med denna instans.
+title: "Matrix.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix‑metod. Avgör om det angivna Object är lika med den här instansen."
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/matrix/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object)
 
-Bestämmer om den angivnaObject är lika med denna instans.
+Bestämmer om det angivna objektet är lika med denna instans.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +17,23 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| NullReferenceException | Den*obj* parametern är null. |
+| NullReferenceException | Parametern *obj* är null. |
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -46,17 +47,17 @@ public static bool Equals(Matrix a, Matrix b)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| a | Matrix | Den första matrisen att jämföra. |
-| b | Matrix | Den andra matrisen att jämföra. |
+| a | Matris | Den första matrisen att jämföra. |
+| b | Matris | Den andra matrisen att jämföra. |
 
 ### Returvärde
 
-Sant om matriser är lika.
+Sant om matriserna är lika.
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSShort
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter metod. Skriver ett enda kort värde till strömmen.
+title: "TiffStreamWriter.WriteSShort"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-metoden. Skriver ett enda kortvärde till strömmen"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShort method
 
-Skriver ett enda kort värde till strömmen.
+Skriver ett enda short‑värde till strömmen.
 
 ```csharp
 public void WriteSShort(short data)
@@ -21,7 +22,7 @@ public void WriteSShort(short data)
 ### Se även
 
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

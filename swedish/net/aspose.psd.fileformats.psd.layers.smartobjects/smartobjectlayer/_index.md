@@ -1,189 +1,204 @@
 ---
-title: Class SmartObjectLayer
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectLayer klass. Definierar SmartObjectLayerklassen som innehåller inbäddade i PSDfilen eller länkade smarta objekt i den externa filen. Med Smart Objects kan du Utföra oförstörande transformationer. Du kan skala rotera snedställa förvränga perspektivomvandla eller förvränga ett lager utan att förlora originalbilddata eller kvalitet eftersom omvandlingarna inte påverkar originaldata. Arbeta med vektordata som vektorgrafik från Illustrator som annars skulle rasteriseras. Utför oförstörande filtrering. Du kan redigera filter som tillämpas på smarta objekt när som helst. Redigera ett smart objekt och uppdatera alla dess länkade instanser automatiskt. Använd en lagermask som antingen är länkad eller olänkad till smarta objektlagret. Prova olika designs med låg platshållarbilder med upplösning som du senare ersätter med slutgiltiga versioner. I Adobe Photoshop kan du bädda in innehållet i en bild i ett PSDdokument. Mer information finns härhttps//helpx.adobe.com/photoshop/using/createsmartobjects.html Ett lager med ett inbäddat smart objekt innehåller placerade PlLd och SoLdresurser med smarta objektegenskaper. PlLdresursen kan vara ensam för PSDversioner äldre än 10. Dessa resurser innehåller UniqueId för LiFdDataSource i den globala Lnkbed2Resourcen med embedded. filnamn och andra parametrar inklusive det inbäddade filinnehållet i originalformatet som en bytearray.
+title: "Klass SmartObjectLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectLayer class. Definierar SmartObjectLayer-klassen som innehåller inbäddade eller länkade smarta objekt i PSD-filen eller i den externa filen. Med Smart Objects kan du utföra icke-förstörande transformationer. Du kan skala, rotera, skeva, förvränga, perspektivtransformera eller vrida ett lager utan att förlora originalbilddata eller kvalitet eftersom transformationerna inte påverkar originaldata. Arbeta med vektordata såsom vektorillustrationer från Illustrator som annars skulle rasteriseras. Utför icke-förstörande filtrering. Du kan när som helst redigera filter som applicerats på Smart Objects. Redigera ett Smart Object och uppdatera automatiskt alla dess länkade instanser. Applicera en lagermask som antingen är länkad eller olänkad till Smart Object-lagret. Prova olika designer med lågupplösta platshållarbilder som du senare ersätter med slutversioner. I Adobe Photoshop kan du bädda in innehållet i en bild i ett PSD-dokument. Mer information finns här https//helpx.adobe.com/photoshop/using/createsmartobjects.html Ett lager med ett inbäddat smart objekt innehåller placerade PlLd- och SoLd-resurser med egenskaper för smarta objekt. PlLd-resursen kan stå ensam för PSD-versioner äldre än 10. Dessa resurser innehåller UniqueId för LiFdDataSource i den globala Lnk2Resource med det inbäddade filnamnet och andra parametrar, inklusive det inbäddade filinnehållet i originalformat som en byte-array"
 type: docs
-weight: 3490
+weight: 3910
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer class
 
-Definierar SmartObjectLayer-klassen som innehåller inbäddade i PSD-filen eller länkade smarta objekt i den externa filen. Med Smart Objects kan du: Utföra oförstörande transformationer. Du kan skala, rotera, snedställa, förvränga, perspektivomvandla eller förvränga ett lager utan att förlora originalbilddata eller kvalitet eftersom omvandlingarna inte påverkar originaldata. Arbeta med vektordata, som vektorgrafik från Illustrator, som annars skulle rasteriseras. Utför oförstörande filtrering. Du kan redigera filter som tillämpas på smarta objekt när som helst. Redigera ett smart objekt och uppdatera alla dess länkade instanser automatiskt. Använd en lagermask som antingen är länkad eller olänkad till smarta objektlagret. Prova olika designs med låg- platshållarbilder med upplösning som du senare ersätter med slutgiltiga versioner. I Adobe� Photoshop� kan du bädda in innehållet i en bild i ett PSD-dokument. Mer information finns här:[https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Ett lager med ett inbäddat smart objekt innehåller placerade (PlLd) och SoLd-resurser med smarta objektegenskaper. PlLd-resursen kan vara ensam för PSD-versioner äldre än 10. Dessa resurser innehåller UniqueId för LiFdDataSource i den globala Lnkbed2Resourcen med embedded. filnamn och andra parametrar, inklusive det inbäddade filinnehållet i originalformatet som en byte-array.
+Definierar klassen SmartObjectLayer som innehåller inbäddade i PSD-filen eller länkade smarta objekt i den externa filen. Med Smart Objects kan du: Utföra icke-destruktiva transformationer. Du kan skala, rotera, skeva, förvränga, perspektivtransformera eller vrida ett lager utan att förlora originalbilddata eller kvalitet eftersom transformationerna inte påverkar originaldata. Arbeta med vektordata, såsom vektorillustrationer från Illustrator, som annars skulle rasteriseras. Utföra icke-destruktiv filtrering. Du kan redigera filter som tillämpas på Smart Objects när som helst. Redigera ett Smart Object och automatiskt uppdatera alla dess länkade instanser. Applicera en lagermask som är antingen länkad eller olänkad till Smart Object-lagret. Prova olika designer med lågupplösta platshållarbilder som du senare ersätter med slutversioner. I Adobe Photoshop kan du bädda in innehållet i en bild i ett PSD-dokument. Mer information finns här: [https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Ett lager med ett inbäddat smart objekt innehåller placerade (PlLd) och SoLd-resurser med smarta objekt‑egenskaper. PlLd-resursen kan stå ensam för PSD-versioner äldre än 10. Dessa resurser innehåller UniqueId för LiFdDataSource i den globala Lnk2Resource med det inbäddade filnamnet och andra parametrar, inklusive det inbäddade filinnehållet i originalformat som en byte‑array.
 
 ```csharp
 public class SmartObjectLayer : Layer
 ```
 
+## Konstruktörer
+
+| Namn | Beskrivning |
+| --- | --- |
+| [SmartObjectLayer](smartobjectlayer/)(Stream) | Initierar en ny instans av `SmartObjectLayer`-klassen. |
+
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | Hämtar eller ställer in ett värde som anger om paletten för automatisk justering. |
-| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | Hämtar eller ställer in ett värde för bakgrundsfärgen. |
-| override [BitsPerPixel](../../aspose.psd.fileformats.psd.layers/layer/bitsperpixel/) { get; } | Hämtar bildbitar per pixelantal. |
-| [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | Får blandningsalternativen. |
-| virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | Hämtar eller ställer in blandningslägestangenten. |
-| [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | Får blandningslägessignaturen. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Hämtar eller ställer in bottenskiktets position. |
-| [Bounds](../../aspose.psd/image/bounds/) { get; } | Får bildens gränser. |
-| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Hämtar eller ställer in buffertstorlekstipset som är definierat som högsta tillåtna storlek för alla interna buffertar. |
-| [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | Hämtar eller ställer in kanalinformationen. |
-| [ChannelsCount](../../aspose.psd.fileformats.psd.layers/layer/channelscount/) { get; } | Hämtar lagrets kanaler. |
-| [Clipping](../../aspose.psd.fileformats.psd.layers/layer/clipping/) { get; set; } | Hämtar eller ställer in lagerklippningen. 0 = bas, 1 = icke-bas. |
-| [Container](../../aspose.psd/image/container/) { get; } | Får[`Image`](../../aspose.psd/image/) container. |
-| [Contents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/) { get; set; } | Hämtar eller ställer in innehållet i lagret för smarta objekt. Innehållet för det inbäddade smarta objektet är den inbäddade råbildsfilen:[`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) och dess egenskaper. Det länkade smarta objektets innehåll är råinnehållet i den länkade bildfilen om den är tillgänglig och dess egenskaper:[`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Vi stöder inte laddning från Adobe� Photoshop� �� Graphics Library när[`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) är sant. För vanliga länkfiler använder vi först[`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) för att leta efter filen relativ till källbildens sökvägSourceImagePath , om den inte är tillgänglig tittar vi på[`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , om inte så letar vi efter länkfilen i samma katalog där vår bild är:SourceImagePath . |
-| [ContentsBounds](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/) { get; set; } | Hämtar eller ställer in gränserna för innehållet i smarta objekt. |
-| [ContentsSource](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentssource/) { get; set; } | Hämtar eller ställer in det smarta objektets innehålls källa. |
-| [ContentType](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/) { get; } | Hämtar typen av innehåll i lagret för smarta objekt. Innehållet i det inbäddade smarta objektet är den inbäddade råbildsfilen:[`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) . Det länkade smarta objektets innehåll är råinnehållet i den länkade bildfilen om den är tillgänglig:[`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Vi stöder inte laddning från Adobe� Photoshop� �� Graphics Library när[`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) är sant. För vanliga länkfiler använder vi först[`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) för att leta efter filen relativ till källbildens sökvägSourceImagePath , om den inte är tillgänglig tittar vi på[`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , om inte så letar vi efter länkfilen i samma katalog där vår bild är:SourceImagePath . |
-| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Hämtar objektets dataström. |
-| [DisplayName](../../aspose.psd.fileformats.psd.layers/layer/displayname/) { get; set; } | Hämtar eller ställer in visningsnamnet för lagret. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Får ett värde som indikerar om denna instans är bortskaffad. |
-| [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | Får lagret extra informationslängd i byte. |
-| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Får värdet filformat |
-| [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Hämtar eller ställer in lagerfyllmedlet. |
-| [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Hämtar eller ställer in fyllningsopaciteten. |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Hämtar eller ställer in lagerflaggorna. bit 0 = transparensskyddad; bit 1 = synlig; bit 2 = föråldrad; bit 3 = 1 för Photoshop 5.0 och senare, talar om om bit 4_x00 har användbar information; pixeldata irrelevant för dokumentets utseende. |
-| override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | Får ett värde som indikerar om denna instans har alpha. |
-| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Hämtar eller ställer in ett värde som anger om bilden har bakgrundsfärg. |
-| virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | Får ett värde som indikerar om bilden har transparent färg. |
-| override [Height](../../aspose.psd.fileformats.psd.layers/layer/height/) { get; } | Hämtar bildhöjden. |
-| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | Hämtar eller ställer in den horisontella upplösningen, i pixlar per tum, för detta[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | Får opacitet för denna bild. |
-| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Hämtar eller ställer in avbrottsmonitorn. |
-| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | Får ett värde som indikerar om bilddata är cachad för närvarande. |
-| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | Får ett värde som anger om rådataladdning är tillgänglig. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers/layer/isvisible/) { get; set; } | Hämtar eller ställer in ett värde som anger om lagret är synligt |
-| virtual [IsVisibleInGroup](../../aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/) { get; } | Får ett värde som indikerar om denna instans är synlig i gruppen (om lagret inte är i gruppen betyder det rotgrupp). |
-| [LayerBlendingRangesData](../../aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/) { get; set; } | Hämtar eller ställer in data för lagerblandningsintervall. |
-| [LayerCreationDateTime](../../aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/) { get; set; } | Hämtar eller ställer in datum för skapande av lagret. |
-| [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | Hämtar eller ställer in lagerlåset. Observera att om flaggan LayerFlags.TransparencyProtected är inställd kommer den att skrivas över av lagerlåsflaggan. För att returnera LayerFlags.TransparencyProtected-flaggan måste ansöka om lageralternativet layer.Flags &#x7C;= Layer0Flags_TransparencyProtected_TransparencyProtected.TransparencyProtected. |
-| [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | Hämtar eller ställer in lagermaskdata. |
+| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | Hämtar eller anger ett värde som indikerar om paletten justeras automatiskt. |
+| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | Hämtar eller anger ett värde för bakgrundsfärgen. |
+| override [BitsPerPixel](../../aspose.psd.fileformats.psd.layers/layer/bitsperpixel/) { get; } | Hämtar antalet bildbitar per pixel. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers/layer/blendclippedelements/) { get; set; } | Hämtar eller anger blandningen av det beskurna elementet. |
+| [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | Hämtar blandningsalternativen. |
+| virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | Hämtar eller anger nyckeln för blandningsläget. |
+| [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | Hämtar blandningslägets signatur. |
+| virtual [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Hämtar eller anger positionen för det nedre lagret. |
+| [Bounds](../../aspose.psd/image/bounds/) { get; } | Hämtar bildens gränser. |
+| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Hämtar eller anger en hint för buffertstorleken som definierar maximal tillåten storlek för alla interna buffertar. |
+| [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | Hämtar eller anger kanalinformationen. |
+| [ChannelsCount](../../aspose.psd.fileformats.psd.layers/layer/channelscount/) { get; } | Hämtar lagrets kanalantal. |
+| [Clipping](../../aspose.psd.fileformats.psd.layers/layer/clipping/) { get; set; } | Hämtar eller anger lagrets beskärning. 0 = bas, 1 = icke-bas. |
+| [Container](../../aspose.psd/image/container/) { get; } | Hämtar [`Image`](../../aspose.psd/image/) behållaren. |
+| [Contents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/) { get; set; } | Hämtar eller anger innehållet i smartobjektlagret. Det inbäddade smartobjektets innehåll är den inbäddade råa bildfilen: [`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) och dess egenskaper. Det länkade smartobjektets innehåll är det råa innehållet i den länkade bildfilen om den är tillgänglig samt dess egenskaper: [`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Vi stöder inte inläsning från Adobe™ Photoshop™ ™ Graphics Library när [`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) är sant. För vanliga länkar använder vi först [`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) för att söka efter filen relativt till källbildens sökväg SourceImagePath; om den inte finns söker vi på [`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), annars letar vi efter länken i samma katalog där vår bild finns: SourceImagePath. |
+| [ContentsBounds](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/) { get; set; } | Hämtar eller anger gränserna för smartobjektets innehåll. |
+| [ContentsSource](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentssource/) { get; set; } | Hämtar eller anger källan för smartobjektets innehåll. |
+| [ContentType](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/) { get; } | Hämtar typen av smartobjektlagrets innehåll. Det inbäddade smartobjektets innehåll är den inbäddade råa bildfilen: [`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/). Det länkade smartobjektets innehåll är det råa innehållet i den länkade bildfilen om den är tillgänglig: [`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Vi stöder inte inläsning från Adobe™ Photoshop™ ™ Graphics Library när [`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) är sant. För vanliga länkar använder vi först [`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) för att söka efter filen relativt till källbildens sökväg SourceImagePath; om den inte finns söker vi på [`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), annars letar vi efter länken i samma katalog där vår bild finns: SourceImagePath. |
+| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Hämtar objektets datastream. |
+| [DisplayName](../../aspose.psd.fileformats.psd.layers/layer/displayname/) { get; set; } | Hämtar eller anger lagrets visningsnamn. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Hämtar ett värde som indikerar om denna instans har frigjorts. |
+| [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | Hämtar lagrets extra informationslängd i byte. |
+| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Hämtar ett värde för filformatet |
+| [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Hämtar eller anger lagrets fyllning. |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Hämtar eller anger fyllnadens opacitet. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Hämtar eller anger lagerflaggorna. bit 0 = transparensskyddad; bit 1 = synlig; bit 2 = föråldrad; bit 3 = 1 för Photoshop 5.0 och senare, anger om bit 4 har användbar information; bit 4 = pixeldatan är irrelevant för dokumentets utseende. |
+| override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | Hämtar ett värde som indikerar om detta objekt har alfa. |
+| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Hämtar eller anger ett värde som indikerar om bilden har bakgrundsfärg. |
+| virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | Hämtar ett värde som indikerar om bilden har transparent färg. |
+| override [Height](../../aspose.psd.fileformats.psd.layers/layer/height/) { get; } | Hämtar bildens höjd. |
+| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | Hämtar eller anger den horisontella upplösningen, i pixlar per tum, för denna [`RasterImage`](../../aspose.psd/rasterimage/). |
+| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | Hämtar opaciteten för denna bild. |
+| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Hämtar eller anger avbrottsmotorn. |
+| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | Hämtar ett värde som indikerar om bilddata för närvarande är cachad. |
+| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | Hämtar ett värde som indikerar om inläsning av rådata är tillgänglig. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers/layer/isvisible/) { get; set; } | Hämtar eller anger ett värde som indikerar om lagret är synligt |
+| virtual [IsVisibleInGroup](../../aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/) { get; } | Hämtar ett värde som indikerar om detta objekt är synligt i grupp(Om lagret inte är i en grupp betyder det rotgrupp). |
+| [LayerBlendingRangesData](../../aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/) { get; set; } | Hämtar eller anger data för lagerblandningsintervall. |
+| [LayerCreationDateTime](../../aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/) { get; set; } | Hämtar eller anger lagrets skapelsedatum och tid. |
+| [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | Hämtar eller anger lagerlåsningen. Observera att om flaggan LayerFlags.TransparencyProtected är satt så kommer den att skrivas över av lagerlåsflagg. För att återge flaggan LayerFlags.TransparencyProtected måste du tillämpa lageralternativet layer.Flags &#x7C;= LayerFlags.TransparencyProtected |
+| [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | Hämtar eller anger lagermaskdata. |
 | [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | Hämtar lageralternativen. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Hämtar eller ställer in vänster lagerposition. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | Får den totala lagerlängden i byte. |
-| [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | Hämtar eller ställer in lagernamnet. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | Hämtar eller ställer in lagrets opacitet. 0 = transparent, 255 = ogenomskinlig. |
-| [Palette](../../aspose.psd/image/palette/) { get; set; } | Hämtar eller ställer in färgpaletten. Färgpaletten används inte när pixlar representeras direkt. |
-| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | Hämtar eller ställer in ett värde som anger om bildkomponenterna måste förmultipliceras. |
-| [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | Hämtar eller ställer in den anpassade färgomvandlaren |
+| virtual [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Hämtar eller anger lagrets vänstra position. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | Hämtar lagrets totala längd i byte. |
+| [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | Hämtar eller anger lagrets namn. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | Hämtar eller anger lagrets opacitet. 0 = transparent, 255 = ogenomskinlig. |
+| [Palette](../../aspose.psd/image/palette/) { get; set; } | Hämtar eller anger färgpaletten. Färgpaletten används inte när pixlar representeras direkt. |
+| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | Hämtar eller anger ett värde som indikerar om bildkomponenterna måste vara förmultiplicerade. |
+| [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | Hämtar eller anger den anpassade färgkonverteraren |
 | virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | Hämtar rådataformatet. |
-| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | Hämtar aktuella rådatainställningar. Observera att när du använder dessa inställningar laddas data utan konvertering. |
-| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | Hämtar eller ställer in reservindex som ska användas när palettindex är utanför gränserna |
-| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | Hämtar eller ställer in den indexerade färgomvandlaren |
-| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | Hämtar den rå radstorleken i byte. |
-| [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | Hämtar eller ställer in lagerresurserna. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Får eller ställer in rätt lagerposition. |
-| [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Hämtar eller ställer in den dekorativa arkets färgmarkering i lagerlistan |
+| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | Hämtar de aktuella rådatainställningarna. Observera att när dessa inställningar används laddas data utan konvertering. |
+| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | Hämtar eller anger reservindexet som ska användas när palettindexet är utanför gränserna |
+| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | Hämtar eller anger den indexerade färgkonverteraren |
+| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | Hämtar den råa radstorleken i byte. |
+| [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | Hämtar eller anger lagerresurserna. |
+| virtual [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Hämtar eller anger den högra lagerpositionen. |
+| [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Hämtar eller anger dekorativt bladfärgsmarkering i lagrens lista |
 | [Size](../../aspose.psd/image/size/) { get; } | Hämtar bildstorleken. |
-| [SmartFilters](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/) { get; } | Får de smarta filtren. |
-| [SmartObjectProvider](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/) { get; } | Får leverantören av smarta objekt. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Hämtar eller ställer in det översta lagrets position. |
-| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Får bilden genomskinlig färg. |
-| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Hämtar eller ställer in ett värde som anger om XMP-metadata ska uppdateras. |
-| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | Hämtar eller ställer in ett värde som anger om rådataladdning ska användas när rådataladdningen är tillgänglig. |
-| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | Hämtar eller ställer in den vertikala upplösningen, i pixlar per tum, för detta[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| override [Width](../../aspose.psd.fileformats.psd.layers/layer/width/) { get; } | Hämtar bildens bredd. |
-| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | Hämtar eller ställer in XMP-metadata. |
+| [SmartFilters](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/) { get; } | Hämtar de smarta filtren. |
+| [SmartObjectProvider](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/) { get; } | Hämtar den smarta objektleverantören. |
+| virtual [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Hämtar eller anger den övre lagerpositionen. |
+| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Hämtar bildens transparenta färg. |
+| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Hämtar eller anger ett värde som indikerar om XMP-metadata ska uppdateras. |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Hämtar ett värde som indikerar om bildpaletten används. |
+| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | Hämtar eller anger ett värde som indikerar om rådatainläsning ska användas när rådatainläsning är tillgänglig. |
+| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | Hämtar eller anger den vertikala upplösningen, i pixlar per tum, för denna [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [WarpSettings](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/warpsettings/) { get; set; } | Den hämtar eller anger Warp-parametrar som sattes eller hämtades från resurs (standard) |
+| override [Width](../../aspose.psd.fileformats.psd.layers/layer/width/) { get; } | Hämtar bildbredden. |
+| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | Hämtar eller anger XMP-metadata. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AddLayerMask](../../aspose.psd.fileformats.psd.layers/layer/addlayermask/)(LayerMaskData) | Lägger till masken i nuvarande lager. |
-| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | Justera en ljusstyrka för bilden. |
-| override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | Bild kontrasterande |
+| [AddLayerMask](../../aspose.psd.fileformats.psd.layers/layer/addlayermask/)(LayerMaskData) | Lägger till masken till det aktuella lagret. |
+| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | Justering av bildens ljusstyrka. |
+| override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | Bildkontrast |
 | override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float) | Gamma-korrigering av en bild. |
 | override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float, float, float) | Gamma-korrigering av en bild. |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double) | Binarisering av en bild med Bradleys adaptiva tröskelalgoritm med integralbildströskelvärde |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double, int) | Binarisering av en bild med Bradleys adaptiva tröskelalgoritm med integralbildströskelvärde |
+| [ApplyLayerMask](../../aspose.psd.fileformats.psd.layers/layer/applylayermask/)() | Applicerar lagermasken på lagret, och tar sedan bort masken. |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double) | Binarisering av en bild med Bradleys adaptiva tröskelalgoritm med hjälp av integralbildströskling |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double, int) | Binarisering av en bild med Bradleys adaptiva tröskelalgoritm med hjälp av integralbildströskling |
 | override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | Binarisering av en bild med fördefinierad tröskel |
-| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | Binarisering av en bild med Otsu thresholding |
-| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | Cachelagrar data och säkerställer att ingen ytterligare dataladdning kommer att utföras från det underliggande[`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer/) . |
-| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | Bestämmer om bilden kan sparas i det angivna filformatet som representeras av de godkända sparalternativen. |
+| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | Binarisering av en bild med Otsu-tröskelvärde |
+| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | Cachar data och säkerställer att ingen ytterligare dataladdning kommer att utföras från den underliggande [`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer/). |
+| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | Bestämmer om bilden kan sparas till det angivna filformatet som representeras av de överförda sparalternativen. |
 | [ConvertToLinked](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/)(string) | Konverterar detta inbäddade smarta objekt till ett länkat smart objekt. |
 | override [Crop](../../aspose.psd/rastercachedimage/crop/)(Rectangle) | Beskär bilden. |
-| virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | Beskär bilden med skiftningar. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Tar bort den aktuella instansen. |
+| virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | Beskär bild med förskjutningar. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Frigör den aktuella instansen. |
 | [Dither](../../aspose.psd/rasterimage/dither/)(DitheringMethod, int) | Utför dithering på den aktuella bilden. |
 | override [Dither](../../aspose.psd/rastercachedimage/dither/)(DitheringMethod, int, IColorPalette) | Utför dithering på den aktuella bilden. |
-| [DrawImage](../../aspose.psd.fileformats.psd.layers/layer/drawimage/)(Point, RasterImage) | Ritar bilden på lager. |
-| [DuplicateLayer](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/)() | Skapar ett nytt smart objektlager genom att kopiera detta. Observera att för inbäddade smarta objekt delas den inbäddade bilden. Om du vill kopiera den inbäddade bilden använd[`NewSmartObjectViaCopy`](./newsmartobjectviacopy/) metod. |
+| [DrawImage](../../aspose.psd.fileformats.psd.layers/layer/drawimage/)(Point, RasterImage) | Ritar bilden på lagret. |
+| [DuplicateLayer](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/)() | Skapar ett nytt smart objekt-lager genom att kopiera detta. Observera att för inbäddade smarta objekt delas den inbäddade bilden. Om du vill kopiera den inbäddade bilden, använd metoden [`NewSmartObjectViaCopy`](./newsmartobjectviacopy/). |
 | [EmbedLinked](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/embedlinked/)() | Bäddar in det länkade smarta objektet i detta lager. |
 | [ExportContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/exportcontents/)(string) | Exporterar det inbäddade eller länkade innehållet till en fil. |
 | virtual [Filter](../../aspose.psd/rasterimage/filter/)(Rectangle, FilterOptionsBase) | Filtrerar den angivna rektangeln. |
-| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | Får en bild 32-bitars ARGB-pixel. |
-| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | Hämtar standard 32-bitars ARGB-pixelmatrisen. |
+| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | Hämtar en bildpixel i 32-bitars ARGB. |
+| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | Hämtar standardarrayen för 32-bitars ARGB-pixlar. |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions/)(object[]) | Hämtar standardalternativen. |
-| [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | Hämtar standardpixelmatrisen med partial pixel loader. |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | Hämtar standardinställningen för rådata. |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | Hämtar den förinställda rådatamatrisen med hjälp av partial pixel loader. |
-| override [GetHashCode](../../aspose.psd.fileformats.psd.layers/layer/gethashcode/)() | Returnerar en hash-kod för denna instans. |
+| [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | Hämtar standardpixelarrayen med hjälp av partiell pixel‑laddare. |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | Hämtar standardarrayen för rådata. |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | Hämtar standardarrayen för rådata med hjälp av partiell pixel‑laddare. |
+| override [GetHashCode](../../aspose.psd.fileformats.psd.layers/layer/gethashcode/)() | Returnerar en hashkod för denna instans. |
 | virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | Hämtar datum och tid då resursbilden senast ändrades. |
-| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Hämtar alternativen baserat på de ursprungliga filinställningarna. Detta kan vara till hjälp för att behålla bitdjupet och andra parametrar i originalbilden oförändrade. Om vi till exempel laddar en svartvit PNG-bild med 1 bit per pixel och sedan spara den med hjälp av [`Save`](../../aspose.psd/datastreamsupporter/save/) metod, kommer den utgående PNG-bilden med 8-bitar per pixel att produceras. För att undvika det och spara PNG-bild med 1-bit per pixel, använd den här metoden för att få motsvarande sparalternativ och skicka dem till[`Save`](../../aspose.psd/image/save/)metod som den andra parametern. |
-| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | Får en bildpixel. |
-| [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | Hämtar skevningsvinkeln. Denna metod är tillämplig på skannade textdokument, för att bestämma snedställningsvinkeln vid skanning. |
+| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Hämtar alternativen baserat på de ursprungliga filinställningarna. Detta kan vara användbart för att behålla bitdjup och andra parametrar för den ursprungliga bilden oförändrade. Till exempel, om vi laddar en svart‑vit PNG‑bild med 1 bit per pixel och sedan sparar den med metoden [`Save`](../../aspose.psd/datastreamsupporter/save/), kommer en PNG‑utdata med 8 bitar per pixel att skapas. För att undvika detta och spara PNG‑bilden med 1 bit per pixel, använd denna metod för att få motsvarande sparalternativ och skicka dem till metoden [`Save`](../../aspose.psd/image/save/) som den andra parametern. |
+| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | Hämtar en bildpixel. Prestandavarning: Undvik att använda denna metod för att iterera över alla bildpixlar eftersom det kan leda till betydande prestandaproblem. För mer effektiv pixelmanipulation, använd metoden `LoadArgb32Pixels` för att hämta hela pixelarrayen samtidigt. |
+| [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | Hämtar snedvinkeln. Denna metod är tillämplig på skannade textdokument för att bestämma snedvinkeln vid skanning. |
 | override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | Transformation av en bild till dess gråskalerepresentation |
-| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | Laddar 32-bitars ARGB-pixlar. |
-| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | Laddar 64-bitars ARGB-pixlar. |
+| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | Laddar 32-bitars ARGB‑pixlar. |
+| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | Laddar 64-bitars ARGB‑pixlar. |
 | [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | Laddar pixlar i CMYK-format. |
-| [LoadContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/)(LoadOptions) | Hämtar det inbäddade eller länkade bildinnehållet i det smarta objektlagret. |
-| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Laddar 32-bitars ARGB-pixlar delvis i paket. |
+| [LoadCmykPixels](../../aspose.psd/rasterimage/loadcmykpixels/)(Rectangle) | Laddar pixlar i CMYK-format. Denna metod är föråldrad. Använd den mer effektiva metoden [`LoadCmyk32Pixels`](../../aspose.psd/rasterimage/loadcmyk32pixels/). |
+| [LoadContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/)(LoadOptions) | Hämtar det inbäddade eller länkade bildinnehållet i smartobjektlagret. |
+| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Laddar 32-bitars ARGB‑pixlar delvis i paket. |
 | [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Laddar pixlar delvis i paket. |
 | [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | Laddar pixlar. |
 | [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Laddar rådata. |
 | [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, Rectangle, RawDataSettings, IPartialRawDataLoader) | Laddar rådata. |
-| virtual [MergeLayerTo](../../aspose.psd.fileformats.psd.layers/layer/mergelayerto/)(Layer) | Slår ihop lagret till specificerat lager |
-| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/)() | Skapar ett nytt smart objektlager genom att kopiera detta. Återskapar funktionen `Layer -&gt; Smart Objects -&gt; New Smart Object via Copy` i Adobe� Photoshop�. Observera att det endast är aktiverat för inbäddade smarta objekt eftersom den inbäddade bilden kopieras också. Om du vill dela den inbäddade bilden använd[`DuplicateLayer`](./duplicatelayer/) metod. |
-| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den skeva skanningen. Denna metod använder[`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) och[`Rotate`](../../aspose.psd/rasterimage/rotate/) metoder. |
-| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med den skeva skanningen. Denna metod använder[`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) och[`Rotate`](../../aspose.psd/rasterimage/rotate/) metoder. |
+| virtual [MergeLayerTo](../../aspose.psd.fileformats.psd.layers/layer/mergelayerto/)(Layer) | Slår samman lagret med angivet lager. |
+| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/)() | Skapar ett nytt smartobjektlager genom att kopiera detta. Reproducerar `Layer -> Smart Objects -> New Smart Object via Copy`‑funktionaliteten i Adobe Photoshop. Observera att den endast är aktiverad för inbäddade smarta objekt eftersom den inbäddade bilden också kopieras. Om du vill dela den inbäddade bilden, använd metoden [`DuplicateLayer`](./duplicatelayer/). |
+| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med snedvriden skanning. Metoden använder [`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) och [`Rotate`](../../aspose.psd/rasterimage/rotate/)‑metoderna. |
+| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | Normaliserar vinkeln. Denna metod är tillämplig på skannade textdokument för att bli av med snedvriden skanning. Metoden använder [`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) och [`Rotate`](../../aspose.psd/rasterimage/rotate/)‑metoderna. |
 | [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | Läser hela skanningslinjen med det angivna skanningslinjeindexet. |
 | [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | Läser hela skanningslinjen med det angivna skanningslinjeindexet. |
-| [RelinkToFile](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/)(string) | Återlänkar det länkade smarta objektet till en ny fil. Det finns ingen anledning att anropa UpdateModifiedContent-metoden efteråt. |
-| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | Ersätter en färg mot en annan med tillåten skillnad och bevarar det ursprungliga alfavärdet för att spara jämna kanter. |
-| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | Ersätter en färg mot en annan med tillåten skillnad och bevarar det ursprungliga alfavärdet för att spara jämna kanter. |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents)(Image) | Ersätter det smarta objektinnehållet som är inbäddat i det smarta objektlagret. |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_2)(string) | Ersätter innehållet med en fil. Det finns ingen anledning att anropa metoden UpdateModifiedContent efteråt. |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_1)(Image, ResolutionSetting) | Ersätter det smarta objektinnehållet som är inbäddat i det smarta objektlagret. |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_3)(string, ResolutionSetting) | Ersätter innehållet med en fil. Det finns ingen anledning att anropa metoden UpdateModifiedContent efteråt. |
-| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | Ersätter alla icke-transparenta färger med ny färg och bevarar det ursprungliga alfavärdet för att spara jämna kanter. Obs: om du använder det på bilder utan genomskinlighet kommer alla färger att ersättas med en enda. |
-| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | Ersätter alla icke-transparenta färger med ny färg och bevarar det ursprungliga alfavärdet för att spara jämna kanter. Obs: om du använder det på bilder utan genomskinlighet kommer alla färger att ersättas med en enda. |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | Ändrar storleken på bilden. StandardenLeftTopToLeftTopanvänds. |
-| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ImageResizeSettings) | Ändrar storlek på bilden. |
-| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ResizeType) | Ändrar storlek på bilden. |
-| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | Ändrar storleken på höjden proportionellt. |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | Ändrar storleken på höjden proportionellt. |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | Ändrar storleken på höjden proportionellt. |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Ändrar storleken på bredden proportionellt. |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | Ändrar storleken på bredden proportionellt. |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | Ändrar storleken på bredden proportionellt. |
-| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | Rotera bilden runt mitten. |
-| override [Rotate](../../aspose.psd/rastercachedimage/rotate/)(float, bool, Color) | Rotera bilden runt mitten. |
-| override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | Roterar, vänder eller roterar och vänder bilden. |
+| [RelinkToFile](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/)(string) | Återlänkar det länkade smarta objektet till en ny fil. Det behövs inte att anropa metoden UpdateModifiedContent efteråt. |
+| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | Ersätter en färg med en annan med tillåten skillnad och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. |
+| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | Ersätter en färg med en annan med tillåten skillnad och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents)(Image) | Ersätter innehållet i det smarta objektet som är inbäddat i smartobjektlagret. |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_2)(string) | Ersätter innehållet med en fil. Det behövs inte att anropa metoden UpdateModifiedContent efteråt. |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_1)(Image, ResolutionSetting) | Ersätter innehållet i det smarta objektet som är inbäddat i smartobjektlagret. |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_5)(string, bool) | Ersätter innehållet med en fil. Det behövs inte att anropa metoden UpdateModifiedContent efteråt. |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_3)(string, ResolutionSetting) | Ersätter innehållet med en fil. Det behövs inte att anropa metoden UpdateModifiedContent efteråt. |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_4)(string, ResolutionSetting, bool) | Ersätter innehållet med en fil. Det behövs inte att anropa metoden UpdateModifiedContent efteråt. |
+| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | Ersätter alla icke‑transparenta färger med en ny färg och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. Obs: om du använder den på bilder utan transparens, kommer alla färger att ersättas med en enda. |
+| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | Ersätter alla icke‑transparenta färger med en ny färg och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. Obs: om du använder den på bilder utan transparens, kommer alla färger att ersättas med en enda. |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | Ändrar bildens storlek. Standardvärdet NearestNeighbourResample används. |
+| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ImageResizeSettings) | Ändrar bildens storlek. |
+| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ResizeType) | Ändrar bildens storlek. |
+| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | Ändrar höjden proportionellt. |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | Ändrar höjden proportionellt. |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | Ändrar höjden proportionellt. |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Ändrar bredden proportionellt. Standardvärdet NearestNeighbourResample används. |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | Ändrar bredden proportionellt. |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | Ändrar bredden proportionellt. |
+| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | Rotera bilden kring centrum. |
+| override [Rotate](../../aspose.psd/rastercachedimage/rotate/)(float, bool, Color) | Rotera bilden kring centrum. |
+| override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | Rotera, vänd eller rotera och vänd bilden. |
 | [Save](../../aspose.psd/image/save/)() | Sparar bilddata till den underliggande strömmen. |
 | override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream) | Sparar objektets data till den angivna strömmen. |
 | [Save](../../aspose.psd/datastreamsupporter/save/)(string) | Sparar objektets data till den angivna filplatsen. |
-| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | Sparar bildens data till den angivna strömmen i det angivna filformatet enligt sparalternativ. |
+| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | Sparar bildens data till den angivna strömmen i det angivna filformatet enligt sparalternativen. |
 | override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, bool) | Sparar objektets data till den angivna filplatsen. |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase) | Sparar objektets data till den angivna filplatsen i det angivna filformatet enligt sparalternativ. |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream, ImageOptionsBase, Rectangle) | Sparar bildens data till den angivna strömmen i det angivna filformatet enligt sparalternativ. |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase, Rectangle) | Sparar objektets data till den angivna filplatsen i det angivna filformatet enligt sparalternativ. |
-| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | Sparar 32-bitars ARGB-pixlar. |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase) | Sparar objektets data till den angivna filplatsen i det angivna filformatet enligt sparalternativen. |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream, ImageOptionsBase, Rectangle) | Sparar bildens data till den angivna strömmen i det angivna filformatet enligt sparalternativen. |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase, Rectangle) | Sparar objektets data till den angivna filplatsen i det angivna filformatet enligt sparalternativen. |
+| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | Sparar de 32-bitars ARGB-pixlarna. |
 | [SaveCmyk32Pixels](../../aspose.psd/rasterimage/savecmyk32pixels/)(Rectangle, int[]) | Sparar pixlarna. |
+| [SaveCmykPixels](../../aspose.psd/rasterimage/savecmykpixels/)(Rectangle, CmykColor[]) | Sparar pixlarna. Den här metoden är föråldrad. Använd den mer effektiva [`SaveCmyk32Pixels`](../../aspose.psd/rasterimage/savecmyk32pixels/) metoden. |
 | [SavePixels](../../aspose.psd/rasterimage/savepixels/)(Rectangle, Color[]) | Sparar pixlarna. |
 | [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | Sparar rådata. |
-| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | Ställer in en 32-bitars ARGB-pixel för den angivna positionen. |
+| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | Ställer in en 32-bitars ARGB-pixel för bilden på den angivna positionen. |
 | override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | Ställer in bildpaletten. |
 | [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | Ställer in en bildpixel för den angivna positionen. |
-| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | Ställer in upplösningen för detta[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | Skapar en ytlig kopia av det aktuella lagret. Vänligen[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) för förklaring. |
-| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | Konverterar rasterbilden till bitmappen. |
-| [UpdateModifiedContent](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/)() | Uppdaterar bildcachen för smarta objektlager med det ändrade innehållet. |
+| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | Ställer in upplösningen för denna [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | Skapar en ytlig kopia av det aktuella lagret. Se [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) för förklaring. |
+| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | Konverterar rasterbild till bitmap. |
+| [UpdateModifiedContent](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/)() | Uppdaterar smarta objektlagrets bildcache med det modifierade innehållet. |
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Skriver hela skanningslinjen till det angivna skanningslinjeindexet. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Skriver hela skanningslinjen till det angivna skanningslinjeindexet. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för Embedded Smart-objekt.
+Följande kod demonstrerar stöd för inbäddade smarta objekt.
 
 ```csharp
 [C#]
@@ -196,7 +211,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man ändrar det smarta objektlagret i PSD-filen och exporterar / uppdaterar det ursprungliga inbäddade innehållet för smarta objekt.
+// Detta exempel visar hur man ändrar smarta objektlagret i PSD-filen och exporterar/uppdaterar smarta objektets ursprungliga inbäddade innehåll.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -225,10 +240,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Låt oss exportera den inbäddade smarta objektbilden från PSD-smarta objektlagret
+        // Låt oss exportera den inbäddade smarta objektbilden från PSD:s smarta objektlager
         smartObjectLayer.ExportContents(exportPath);
 
-        // Låt oss kontrollera om originalbilden är korrekt sparad
+        // Låt oss kontrollera om den ursprungliga bilden har sparats korrekt
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -251,7 +266,7 @@ foreach (FileFormat format in formats)
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Låt oss kontrollera om den uppdaterade bilden sparas korrekt
+        // Låt oss kontrollera om den uppdaterade bilden har sparats korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -263,7 +278,7 @@ foreach (FileFormat format in formats)
 * class [Layer](../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../../aspose.psd.fileformats.psd/smartobjectprovider/)
 * class [LinkDataSource](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../aspose.psd.fileformats.psd.layers.smartobjects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../)
 
 

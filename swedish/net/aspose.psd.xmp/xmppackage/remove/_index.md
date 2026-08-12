@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Remove
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage metod. Ta bort värdet med den angivna nyckeln.
+title: "XmpPackage.Remove"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-metoden. Ta bort värdet med den angivna nyckeln"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
 Ta bort värdet med den angivna nyckeln.
@@ -16,16 +17,16 @@ public virtual bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Strängrepresentationen av nyckel som identifieras med borttaget värde. |
+| nyckel | String | Strängrepresentationen av nyckeln som identifieras med det borttagna värdet. |
 
 ### Returvärde
 
-Returnerar sant om värdet med den angivna nyckeln togs bort.
+Returnerar true om värdet med den angivna nyckeln togs bort.
 
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

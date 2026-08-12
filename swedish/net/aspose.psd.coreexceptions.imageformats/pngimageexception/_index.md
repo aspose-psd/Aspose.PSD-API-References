@@ -1,14 +1,15 @@
 ---
-title: Class PngImageException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.ImageFormats.PngImageException klass. Undantaget för pngbilden.
+title: "Klass PngImageException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PngImageException klass. PNG-bildundantaget"
 type: docs
 weight: 570
 url: /sv/net/aspose.psd.coreexceptions.imageformats/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException class
 
-Undantaget för png-bilden.
+Png-bildundantaget.
 
 ```csharp
 public class PngImageException : Exception
@@ -16,14 +17,14 @@ public class PngImageException : Exception
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PngImageException](pngimageexception/#constructor)(string) | Initierar en ny instans av`PngImageException` class. |
-| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | Initierar en ny instans av`PngImageException` class. |
+| [PngImageException](pngimageexception/#constructor)(string) | Initierar en ny instans av `PngImageException`-klassen. |
+| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | Initierar en ny instans av `PngImageException`-klassen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

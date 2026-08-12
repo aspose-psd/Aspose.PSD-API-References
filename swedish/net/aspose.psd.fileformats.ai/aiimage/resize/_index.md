@@ -1,14 +1,15 @@
 ---
-title: AiImage.Resize
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage metod. Ändrar storlek på bilden.
+title: "AiImage.Resize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-metod. Ändrar storlek på bilden"
 type: docs
-weight: 150
+weight: 180
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,26 +19,26 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| resizeType | ResizeType | Ändra storlek. |
+| resizeType | ResizeType | Storleksändringstypen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| NotImplementedException | &gt;Inte implementerad |
+| NotImplementedException | &gt;Ej implementerad |
 
 ### Se även
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
@@ -47,19 +48,19 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| settings | ImageResizeSettings | Ändra storleksinställningar. |
+| inställningar | ImageResizeSettings | Inställningarna för storleksändring. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| NotImplementedException | &gt;Inte implementerad |
+| NotImplementedException | &gt;Ej implementerad |
 
 ### Se även
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

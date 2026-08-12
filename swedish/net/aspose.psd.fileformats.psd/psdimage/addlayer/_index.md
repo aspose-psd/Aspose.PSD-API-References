@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till lagret.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Lägger till lagret"
 type: docs
-weight: 370
+weight: 390
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Lägger till lagret.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| layer | Layer | Lagret. |
+| lager | Lager | Lagret. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan rita på ett nyskapat lager om den enkla konstruktorversionen används i Aspose.PSD
+Följande exempel visar hur du kan rita på ett nyss skapat lager om den enkla konstruktörsversionen används i Aspose.PSD
 
 ```csharp
 [C#]
@@ -39,10 +40,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // rita en rektangel med pennverktyget
+    // rita en rektangel med Pen-verktyg
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // rita ytterligare en rektangel med Solid Brush i blå färg
+    // rita en annan rektangel med Solid Brush i blå färg
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -53,7 +54,7 @@ using (var image = new PsdImage(width, height))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

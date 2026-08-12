@@ -1,14 +1,15 @@
 ---
-title: EnumeratedDescriptorStructure.EnumeratedDescriptorStructure
-second_title: Aspose.PSD för .NET API-referens
-description: EnumeratedDescriptorStructure byggare. Initierar en ny instans avEnumeratedDescriptorStructure class.
+title: "EnumeratedDescriptorStructure.EnumeratedDescriptorStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "EnumeratedDescriptorStructure konstruktor. Initierar en ny instans av klassen EnumeratedDescriptorStructure"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumerateddescriptorstructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure constructor
 
-Initierar en ny instans av[`EnumeratedDescriptorStructure`](../) class.
+Initierar en ny instans av klassen [`EnumeratedDescriptorStructure`](../).
 
 ```csharp
 public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID enumName)
@@ -16,15 +17,15 @@ public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID en
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
-| typeID | ClassID | Typ-ID. |
-| enumName | ClassID | Uppräkningsnamnet. |
+| keyName | ClassID | Nyckelnamnet. |
+| typeID | ClassID | Typ-ID:n. |
+| enumName | ClassID | Enumnamnet. |
 
 ### Se även
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

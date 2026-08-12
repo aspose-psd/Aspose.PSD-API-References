@@ -1,14 +1,15 @@
 ---
-title: ImageLoadException.ImageLoadException
-second_title: Aspose.PSD för .NET API-referens
-description: ImageLoadException byggare. Initierar en ny instans avImageLoadException class.
+title: "ImageLoadException.ImageLoadException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageLoadException konstruktor. Initierar en ny instans av klassen ImageLoadException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions/imageloadexception/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException(string) {#constructor}
 
-Initierar en ny instans av[`ImageLoadException`](../) class.
+Initierar en ny instans av klassen [`ImageLoadException`](../).
 
 ```csharp
 public ImageLoadException(string message)
@@ -21,14 +22,14 @@ public ImageLoadException(string message)
 ### Se även
 
 * class [ImageLoadException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageLoadException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`ImageLoadException`](../) class.
+Initierar en ny instans av klassen [`ImageLoadException`](../).
 
 ```csharp
 public ImageLoadException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public ImageLoadException(string message, Exception innerException)
 ### Se även
 
 * class [ImageLoadException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

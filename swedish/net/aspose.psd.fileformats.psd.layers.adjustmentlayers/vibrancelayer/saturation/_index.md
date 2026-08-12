@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Saturation
-second_title: Aspose.PSD för .NET API-referens
-description: VibranceLayer fast egendom. Hämtar eller ställer in mättnaden.
+title: "VibranceLayer.Saturation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VibranceLayer egenskap. Hämtar eller anger saturationen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
-Hämtar eller ställer in mättnaden.
+Hämtar eller anger mättnaden.
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Mättnaden.
+Saturationen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Mättnaden måste ligga inom området -100 till +100 |
+| ArgumentOutOfRangeException | Mättnad måste vara i intervallet från -100 till +100 |
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för lagret VibranceLayer och möjligheten att redigera denna justering.
+Följande kodexempel demonstrerar stöd för VibranceLayer-lagret och möjligheten att redigera denna justering.
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### Se även
 
 * class [VibranceLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

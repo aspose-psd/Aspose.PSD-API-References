@@ -1,14 +1,15 @@
 ---
-title: IopaResource.IopaResource
-second_title: Aspose.PSD för .NET API-referens
-description: IopaResource byggare. Initierar en ny instans avIopaResource class.
+title: "IopaResource.IopaResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IopaResource-konstruktor. Initierar en ny instans av IopaResource-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/ioparesource/
 ---
+{{< psd/tize >}}
 ## IopaResource() {#constructor}
 
-Initierar en ny instans av[`IopaResource`](../) class.
+Initierar en ny instans av [`IopaResource`](../)-klassen.
 
 ```csharp
 public IopaResource()
@@ -17,14 +18,14 @@ public IopaResource()
 ### Se även
 
 * class [IopaResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IopaResource(byte[]) {#constructor_1}
 
-Initierar en ny instans av[`IopaResource`](../) class.
+Initierar en ny instans av [`IopaResource`](../)-klassen.
 
 ```csharp
 public IopaResource(byte[] data)
@@ -32,18 +33,18 @@ public IopaResource(byte[] data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | Den råa bytedatan. |
+| data | Byte[] | Den råa byte-datan. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltig iOpa-resursdata. Förväntad längd på iOpaResource är 4 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltig iOpa Resource-data. Förväntad längd för iOpaResource är 4 |
 
 ### Se även
 
 * class [IopaResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

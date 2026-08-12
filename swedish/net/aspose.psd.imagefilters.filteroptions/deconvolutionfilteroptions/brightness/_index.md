@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Brightness
-second_title: Aspose.PSD för .NET API-referens
-description: DeconvolutionFilterOptions fast egendom. Hämtar eller ställer in ljusstyrkan. rekommenderat område 1  15 standardvärde  115
+title: "DeconvolutionFilterOptions.Brightness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DeconvolutionFilterOptions egenskap. Hämtar eller anger ljusstyrkan. rekommenderat intervall 1  1.5 standardvärde  1.15"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Brightness property
 
-Hämtar eller ställer in ljusstyrkan. rekommenderat område 1 - 1,5 standardvärde = 1,15
+Hämtar eller anger ljusstyrkan. rekommenderat intervall 1 - 1,5 standardvärde = 1,15
 
 ```csharp
 public double Brightness { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Ljusstyrkan.
 
 ### Se även
 
 * class [DeconvolutionFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PointF.Subtract
-second_title: Aspose.PSD för .NET API-referens
-description: PointF metod. Översätter enPointF med negativ av en angiven storlek.
+title: "PointF.Subtract"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PointF-metod. Översätter en PointF med den negativa av en specificerad size"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/pointf/subtract/
 ---
+{{< psd/tize >}}
 ## Subtract(PointF, Size) {#subtract}
 
-Översätter en[`PointF`](../) med negativ av en angiven storlek.
+Översätter en [`PointF`](../) med den negativa av en specificerad size.
 
 ```csharp
 public static PointF Subtract(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF Subtract(PointF point, Size size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../) att översätta. |
-| size | Size | De[`Size`](../../size/) som anger talen som ska subtraheras från koordinaterna för*point*. |
+| point | PointF | Det [`PointF`](../) att översätta. |
+| size | Size | Den [`Size`](../../size/) som specificerar siffrorna att subtrahera från koordinaterna för *point*. |
 
 ### Returvärde
 
-Den översatta[`PointF`](../).
+Det översatta [`PointF`](../).
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Subtract(PointF, SizeF) {#subtract_1}
 
-Översätter en[`PointF`](../) med negativ av en angiven storlek.
+Översätter en [`PointF`](../) med den negativa av en specificerad size.
 
 ```csharp
 public static PointF Subtract(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF Subtract(PointF point, SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../) att översätta. |
-| size | SizeF | De[`SizeF`](../../sizef/) som anger talen som ska subtraheras från koordinaterna för*point*. |
+| point | PointF | Det [`PointF`](../) att översätta. |
+| size | SizeF | Den [`SizeF`](../../sizef/) som specificerar siffrorna att subtrahera från koordinaterna för *point*. |
 
 ### Returvärde
 
-Den översatta[`PointF`](../).
+Det översatta [`PointF`](../).
 
 ### Se även
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate AsyncTaskAction
-second_title: Aspose.PSD för .NET API-referens
-description: Den långa operationsdelegaten för den asynkrona uppgiften utan något resultat.
+title: "Delegat AsyncTaskAction"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Den långa operationsdelegaten för den asynkrona uppgiften utan något resultat"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.asynctask/asynctaskaction/
 ---
+{{< psd/tize >}}
 ## AsyncTaskAction delegate
 
-Den långa operationsdelegaten för den asynkrona uppgiften utan något resultat.
+Den långa operationens delegat för den asynkrona uppgiften utan resultat
 
 ```csharp
 public delegate void AsyncTaskAction(IAsyncTaskState taskState);
@@ -21,7 +22,7 @@ public delegate void AsyncTaskAction(IAsyncTaskState taskState);
 ### Se även
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* namnutrymme [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

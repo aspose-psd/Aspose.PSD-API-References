@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Hämtar eller ställer in en rad anpassade bindestreck och blanksteg.
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger en array av anpassade streck och mellanslag."
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-Hämtar eller ställer in en rad anpassade bindestreck och blanksteg.
+Hämtar eller anger en array av anpassade streck och mellanrum.
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En matris med reella tal som anger längden på omväxlande streck och mellanslag med streckade linjer.
+En array av reella tal som specificerar längderna på alternerande streck och mellanslag i streckade linjer.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`DashPattern` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | `DashPattern`-egenskapen sätts på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

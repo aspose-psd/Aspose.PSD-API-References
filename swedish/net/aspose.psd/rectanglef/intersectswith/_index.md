@@ -1,14 +1,15 @@
 ---
-title: RectangleF.IntersectsWith
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF metod. Bestämmer om denna rektangel skär medrect .
+title: "RectangleF.IntersectsWith"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF-metod. Avgör om denna rektangel skär med rect"
 type: docs
 weight: 220
 url: /sv/net/aspose.psd/rectanglef/intersectswith/
 ---
+{{< psd/tize >}}
 ## RectangleF.IntersectsWith method
 
-Bestämmer om denna rektangel skär med*rect* .
+Bestämmer om denna rektangel skär med *rect*.
 
 ```csharp
 public bool IntersectsWith(RectangleF rect)
@@ -20,12 +21,12 @@ public bool IntersectsWith(RectangleF rect)
 
 ### Returvärde
 
-Denna metod returnerar sant om det finns någon korsning.
+Denna metod returnerar true om det finns någon skärning.
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Compression
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar komprimeringsmetoden.
+title: "PsdImage.Compression"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar komprimeringsmetoden"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/compression/
 ---
+{{< psd/tize >}}
 ## PsdImage.Compression property
 
 Hämtar komprimeringsmetoden.
@@ -14,15 +15,15 @@ Hämtar komprimeringsmetoden.
 public CompressionMethod Compression { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kompressionen.
+Komprimeringen.
 
 ### Se även
 
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

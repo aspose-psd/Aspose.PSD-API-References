@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Hämtar språkindex.
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle property. Hämtar språkindexet"
 type: docs
 weight: 190
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
 Hämtar språkindex.
@@ -14,9 +15,9 @@ Hämtar språkindex.
 public int LanguageIndex { get; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

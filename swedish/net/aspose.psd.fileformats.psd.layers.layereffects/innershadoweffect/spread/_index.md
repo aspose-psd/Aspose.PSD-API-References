@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Spread
-second_title: Aspose.PSD för .NET API-referens
-description: InnerShadowEffect fast egendom. Får eller ställer in spridningen choke som procent.
+title: "InnerShadowEffect.Spread"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InnerShadowEffect-egenskap. Hämtar eller anger spridningsavstängning som procentandel"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Spread property
 
-Får eller ställer in spridningen (choke) som procent.
+Hämtar eller anger spridningen (choke) i procent.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Uppslaget.
+Spridningen.
 
 ### Se även
 
 * class [InnerShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

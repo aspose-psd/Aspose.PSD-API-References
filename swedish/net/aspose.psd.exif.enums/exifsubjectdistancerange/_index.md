@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange uppräkning. exif ämnesavståndsområde enum.
+title: "Enum ExifSubjectDistanceRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange enum. exif avståndsintervall för motiv enum"
 type: docs
-weight: 950
+weight: 960
 url: /sv/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-exif ämnesavståndsområde enum.
+exif ämnesavståndsintervall enum.
 
 ```csharp
 public enum ExifSubjectDistanceRange
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Unknown | `0` | Okänt ämnesavståndsområde |
+| Unknown | `0` | Okänt avståndsintervall för motiv |
 | Macro | `1` | Makrointervall |
-| CloseView | `2` | Stäng vy. |
-| DistantView | `3` | Vy på avstånd. |
+| CloseView | `2` | Närbild. |
+| DistantView | `3` | Fjärrvy. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

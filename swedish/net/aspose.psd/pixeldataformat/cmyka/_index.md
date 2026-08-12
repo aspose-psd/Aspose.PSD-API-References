@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyka
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat fast egendom. Får acmyken.
+title: "PixelDataFormat.Cmyka"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat egenskap. Hämtar acmyk"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/pixeldataformat/cmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyka property
 
-Får acmyken.
+Hämtar acmyk.
 
 ```csharp
 public static PixelDataFormat Cmyka { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den[`PixelDataFormat`](../) definieras för 40 bitar per pixel med 8 bitar för var och en av alfa, cyan, magenta, gul och svart.
+Den [`PixelDataFormat`](../) som definieras för 40 bitar per pixel med 8 bitar för varje av alfa, cyan, magenta, gul och svart.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

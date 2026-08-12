@@ -1,28 +1,29 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD för .NET API-referens
-description: TiffImageException fast egendom. Får felet tiffalternativ.
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffImageException egenskap. Hämtar tiff-alternativfelet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
-Får felet tiff-alternativ.
+Hämtar TIFF-alternativfelet.
 
 ```csharp
 public TiffOptionsError OptionsError { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Felet med tiff-alternativ.
+Tiff-alternativfelet.
 
 ### Se även
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

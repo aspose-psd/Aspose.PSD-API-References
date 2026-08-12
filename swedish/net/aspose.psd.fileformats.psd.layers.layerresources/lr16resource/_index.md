@@ -1,52 +1,53 @@
 ---
-title: Class Lr16Resource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource klass. lr32resursen.
+title: "Klass Lr16Resource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource‑klass. lr16‑resursen"
 type: docs
-weight: 2770
+weight: 3080
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/
 ---
+{{< psd/tize >}}
 ## Lr16Resource class
 
-lr32-resursen.
+lr16‑resursen.
 
 ```csharp
-public class Lr16Resource : LayerResource
+public class Lr16Resource : LrXxResource
 ```
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Lr16Resource](lr16resource/)() | Default_Constructor |
+| [Lr16Resource](lr16resource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers/) { get; set; } | Hämtar eller ställer in lagren. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/length/) { get; } | Hämtar resurslängden för PSD-huvudversionen av bilden. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/signature/) { get; } | Får signaturen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Hämtar eller anger lagren. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Hämtar resurslängden för PSD-huvudversionen av bilden. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/save/)(StreamContainer, int) | Sparar lagerposten. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Sparar lagerposten. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* class [LrXxResource](../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 
