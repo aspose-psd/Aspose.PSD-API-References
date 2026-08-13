@@ -1,34 +1,35 @@
 ---
-title: Enum PixelFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.PixelFormat Sıralama. Piksel veri biçimi gerçek anlamı.
+title: "Enum PixelFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.PixelFormat enum. Piksel veri formatının gerçek anlamı"
 type: docs
-weight: 5240
+weight: 5760
 url: /tr/net/aspose.psd/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelFormat enumeration
 
-Piksel veri biçimi gerçek anlamı.
+Piksel veri formatının gerçek anlamı.
 
 ```csharp
 public enum PixelFormat
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Grayscale | `0` | Gri tonlamalı renk alanı |
-| Bgr | `1` | BGR renk alanı. |
-| Rgb | `2` | RGB renk alanı. |
-| YCbCr | `3` | YCbCr renk alanı. |
-| Cmyk | `4` | CMYK renk alanı. |
-| Ycck | `5` | YCCK renk alanı. |
-| CieLab | `6` | CIE laboratuvarı renk alanı. |
+| Grayscale | `0` | Gri ton renk uzayı |
+| Bgr | `1` | BGR renk uzayı. |
+| Rgb | `2` | RGB renk uzayı. |
+| YCbCr | `3` | YCbCr renk uzayı. |
+| Cmyk | `4` | CMYK renk uzayı. |
+| Ycck | `5` | YCCK renk uzayı. |
+| CieLab | `6` | CIE lab renk uzayı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

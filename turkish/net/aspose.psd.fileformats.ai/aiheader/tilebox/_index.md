@@ -1,11 +1,12 @@
 ---
-title: AiHeader.TileBox
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Döşeme kutusunu alır veya ayarlar.
+title: "AiHeader.TileBox"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Döşeme kutusunu alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/tilebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TileBox property
 
 Döşeme kutusunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Döşeme kutusunu alır veya ayarlar.
 public RectangleF TileBox { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Döşeme kutusu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

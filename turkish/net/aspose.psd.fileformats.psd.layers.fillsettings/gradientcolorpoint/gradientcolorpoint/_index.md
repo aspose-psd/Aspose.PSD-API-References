@@ -1,44 +1,45 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientColorPoint inşaatçı. Yeni bir örneğini başlatır.GradientColorPoint sınıf.
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientColorPoint yapıcı. GradientColorPoint sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-Yeni bir örneğini başlatır.[`GradientColorPoint`](../) sınıf.
+Yeni bir [`GradientColorPoint`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public GradientColorPoint()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientColorPoint](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`GradientColorPoint`](../) sınıf.
+Yeni bir [`GradientColorPoint`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | Gradyan üzerinde renk noktası. |
-| location | Int32 | Renk noktasının gradyan üzerindeki konumu. |
-| medianPointLocation | Int32 | Medyan gradyan noktası konumu. |
+| renk | Renk | Gradyanda renk noktası. |
+| konum | Int32 | Gradyandaki renk noktasının konumu. |
+| medianPointLocation | Int32 | Orta gradyan noktasının konumu. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, GradientOverlayEffect efekt nesnesinin katmanda nasıl oluşturulacağını/düzenleneceğini gösterir.
+Aşağıdaki örnek, bir katmanda GradientOverlayEffect efekt nesnesini nasıl oluşturup/düzenleyeceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ Aşağıdaki örnek, GradientOverlayEffect efekt nesnesinin katmanda nasıl olu�
 string sourceFilePath = "psdnet256.psd";
 string outputFilePath = "psdnet256.psd_output.psd";
 
-// Bir katmanda degrade kaplama efektini oluşturur/alır ve düzenler.
+// Bir katmanda gradyan kaplama efektini oluşturur/alır ve düzenler.
 using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() { LoadEffectsResource = true }))
 {
     BlendingOptions layerBlendOptions = psdImage.Layers[1].BlendingOptions;
     GradientOverlayEffect gradientOverlayEffect = null;
 
-    // GradientOverlayEffect'i bir katmanda arayın.
+    // Bir katmanda GradientOverlayEffect ara.
     foreach (ILayerEffect effect in layerBlendOptions.Effects)
     {
         gradientOverlayEffect = effect as GradientOverlayEffect;
@@ -64,48 +65,49 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
     if (gradientOverlayEffect == null)
     {
-        // Mevcut değilse yeni bir GradientOverlayEffect oluşturabilirsiniz.
+        // GradientOverlayEffect mevcut değilse yeni bir tane oluşturabilirsiniz.
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
     // Efekte biraz şeffaflık ekleyin.
     gradientOverlayEffect.Opacity = 200;
 
-    // Degrade efektinin karışım modunu değiştirin.
+    // Gradyan efektinin karışım modunu değiştirin.
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
-    // Degrade bindirme ayarlarını yapılandırmak için GradientFillSettings nesnesini alır.
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    // Gradyan kaplama ayarlarını yapılandırmak için GradientFillSettings nesnesini alır.
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
-    // İki renkle yeni bir gradyan ayarlıyoruz.
-    settings.ColorPoints = new IGradientColorPoint[]
+    // İki renkli yeni bir gradyan ayarlama.
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // Degradenin eğimini 80 derecelik bir açıyla ayarlar.
+    // Gradyanın eğimini 80 derece açıyla ayarlar.
     settings.Angle = 80;
 
-    // Degrade efektini %150'ye kadar ölçeklendirin.
+    // Gradyan efektini %150'ye kadar ölçeklendirin.
     settings.Scale = 150;
 
-    // Gradyan türünü ayarlar.
+    // Gradyan tipini ayarlar.
     settings.GradientType = GradientType.Linear;
 
-    // Her şeffaflık noktasında opaklığı %100 olarak ayarlayarak degradeyi opak yapın.
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // Her şeffaflık noktasında opaklığı %100 olarak ayarlayarak gradyanı opak yapın.
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

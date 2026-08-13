@@ -1,26 +1,27 @@
 ---
-title: PathStructure.PathStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: PathStructure inşaatçı. Yeni bir örneğini başlatır.PathStructure sınıf.
+title: "PathStructure.PathStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathStructure yapıcı. PathStructure sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
-## PathStructure constructor
+{{< psd/tize >}}
+## PathStructure(ClassID) {#constructor}
 
-Yeni bir örneğini başlatır.[`PathStructure`](../) sınıf.
+[`PathStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, PathStructure yapısına sahip dosya yükleme yeteneğini gösterir.
+Aşağıdaki kod, PathStructure yapısıyla dosya yükleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -34,11 +35,33 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## PathStructure(ClassID, string) {#constructor_1}
+
+Bir yol ile [`PathStructure`](../) sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public PathStructure(ClassID keyName, string path)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| keyName | ClassID | Anahtar adı. |
+| yol | String | Yol dizesi. |
+
+### Ayrıca Bakınız
+
+* class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
+* class [PathStructure](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,56 +1,45 @@
 ---
-title: Class GradientFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings sınıf. Degrade dolgu efekti ayarları.
+title: "Sınıf GradientFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings sınıfı. Temel gradyan tanım sınıfı. Hem Katı hem de Gürültü gradyan türleri için ortak özellikleri içerir."
 type: docs
-weight: 1960
+weight: 2070
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings class
 
-Degrade dolgu efekti ayarları.
+Temel gradyan tanım sınıfı. Hem Katı hem de Gürültü gradyan türleri için ortak özellikleri içerir.
 
 ```csharp
 public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GradientFillSettings](gradientfillsettings/)() | Yeni bir örneğini başlatır.`GradientFillSettings` sınıf. |
+| [GradientFillSettings](gradientfillsettings/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | [katmanla hizalayın]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | [align with layer] olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | Açıyı alır veya ayarlar. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | Rengi alır veya ayarlar. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | Renk noktalarını alır veya ayarlar. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`GradientFillSettings` titreme. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | Dolgu türü |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | Degradenin adını alır veya ayarlar. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Degradenin türünü alır veya ayarlar. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Yatay ofseti yüzde olarak alır veya ayarlar. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`GradientFillSettings` ters. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Ölçeği alır veya ayarlar. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | Şeffaflık noktalarını alır veya ayarlar. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Dikey ofseti yüzde olarak alır veya ayarlar. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Bu `GradientFillSettings`'in titreme (dither) olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | Doldurma türü. |
+| [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradient/) { get; set; } | Belirli degrade tanımı örneğini (Katı/Gürültü) alır veya ayarlar. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Degrade tipini alır veya ayarlar. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Yüzde olarak yatay ofseti alır veya ayarlar. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/interpolationmethod/) { get; set; } | Degrade için ara değerleme yöntemini alır veya ayarlar. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Bu `GradientFillSettings`'in ters (reverse) olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Yüzde olarak **normalized** gradyan ölçeğini alır veya ayarlar. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Yüzde olarak dikey ofseti alır veya ayarlar. |
 
-## yöntemler
+## Örnekler
 
-| İsim | Tanım |
-| --- | --- |
-| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/)() | Renk noktasını ekler. |
-| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/)() | Renk noktasını ekler. |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/)(IGradientColorPoint) | Renk noktasını kaldırır. |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/)(IGradientTransparencyPoint) | Saydamlık noktasını kaldırır. |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/)() | LFX2 kaynak düğümlerini oluşturur. |
-
-### Örnekler
-
-Aşağıdaki kod, dolgu türü - Degrade ile kontur efekti katmanının desteğini gösterir.
+Aşağıdaki kod, dolgu tipi - Gradyan ile çizgi efekti katmanının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -87,7 +76,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -98,19 +86,20 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, fillSettings.Reverse);
 
     // Renk Noktaları
-    var colorPoints = fillSettings.ColorPoints;
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
-    AssertAreEqual(Color.Black, colorPoints[0].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Black), colorPoints[0].RawColor);
     AssertAreEqual(0, colorPoints[0].Location);
     AssertAreEqual(50, colorPoints[0].MedianPointLocation);
 
-    AssertAreEqual(Color.White, colorPoints[1].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.White), colorPoints[1].RawColor);
     AssertAreEqual(4096, colorPoints[1].Location);
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
     // Şeffaflık noktaları
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -121,9 +110,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Test düzenleme
-    fillSettings.Color = Color.Green;
-
+    // Düzenlemeyi test et
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -136,27 +123,27 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.Reverse = true;
 
     // Yeni renk noktası ekle
-    var colorPoint = fillSettings.AddColorPoint();
-    colorPoint.Color = Color.Green;
+    var colorPoint = solidGradient.AddColorPoint();
+    colorPoint.RawColor = RawColorHelper.CreateArgb8BitColor(Color.Green);
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // Önceki noktanın konumunu değiştir
-    fillSettings.ColorPoints[1].Location = 1899;
+    solidGradient.ColorPoints[1].Location = 1899;
 
     // Yeni şeffaflık noktası ekle
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Önceki saydamlık noktasının konumunu değiştir
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    // Önceki şeffaflık noktasının konumunu değiştir
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
 
-// Düzenlemeden sonra dosyayı test edin
+// Düzenlemeden sonra test dosyası
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientStroke = (StrokeEffect)im.Layers[2].BlendingOptions.Effects[0];
@@ -166,52 +153,52 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // Renk noktalarını kontrol et
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.Black, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Black), point.RawColor);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.White, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.White), point.RawColor);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
-    AssertAreEqual(Color.Green, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Green), point.RawColor);
     AssertAreEqual(4096, point.Location);
 
-    // Saydam noktaları kontrol et
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // Şeffaf noktaları kontrol et
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IGradientFillSettings](../igradientfillsettings/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

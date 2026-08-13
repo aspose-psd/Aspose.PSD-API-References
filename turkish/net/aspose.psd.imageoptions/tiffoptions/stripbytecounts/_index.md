@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Şerit bayt sayılarını alır veya ayarlar.
+title: "TiffOptions.StripByteCounts"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Şerit bayt sayısını alır veya ayarlar"
 type: docs
-weight: 460
+weight: 470
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
 Şerit bayt sayılarını alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 public uint[] StripByteCounts { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Şerit baytı sayılır.
+Şerit bayt sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

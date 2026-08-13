@@ -1,29 +1,30 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType Sıralama. Yerleştirilen katman PlLd kaynağı için PlacedLayerType numaralandırmasını tanımlar.
+title: "Enum PlacedLayerType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType enum. PlacedLayerType sayımını yerleştirilmiş katman PlLd kaynağı için tanımlar."
 type: docs
-weight: 2930
+weight: 3280
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Yerleştirilen katman PlLd kaynağı için PlacedLayerType numaralandırmasını tanımlar.
+Yerleştirilmiş katman PlLd kaynağı için PlacedLayerType sayımını tanımlar.
 
 ```csharp
 public enum PlacedLayerType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Unknown | `0` | Bilinmeyen yerleştirilmiş katman type |
-| Vector | `1` | Vektör yerleştirilmiş katman type |
-| Raster | `2` | Raster yerleştirilmiş katman type |
-| ImageStack | `3` | Görüntü yığını yerleştirilen katman type |
+| Unknown | `0` | Bilinmeyen yerleştirilmiş katman türü |
+| Vector | `1` | Vektör yerleştirilmiş katman türü |
+| Raster | `2` | Raster yerleştirilmiş katman türü |
+| ImageStack | `3` | Görüntü yığını yerleştirilmiş katman türü |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, PlLdResource kaynağının desteğini gösterir.
 
@@ -207,15 +208,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,9 +229,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

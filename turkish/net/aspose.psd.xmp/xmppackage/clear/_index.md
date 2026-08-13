@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Clear
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. Bu örneği temizler.
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. Bu örneği temizler"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
 Bu örneği temizler.
@@ -14,10 +15,10 @@ Bu örneği temizler.
 public virtual void Clear()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Class LzwCompressorException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException sınıf. lzw kompresör istisnası.
+title: "Sınıf LzwCompressorException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException sınıfı. lzw sıkıştırıcı istisnası"
 type: docs
 weight: 450
 url: /tr/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
-lzw kompresör istisnası.
+LZW sıkıştırıcı istisnası.
 
 ```csharp
 public class LzwCompressorException : CompressorException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Yeni bir örneğini başlatır.`LzwCompressorException` sınıf. |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`LzwCompressorException` sınıf. |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Yeni bir `LzwCompressorException` sınıfı örneği başlatır. |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Yeni bir `LzwCompressorException` sınıfı örneği başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepNumerator
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Çerçeve adımı payını alır veya ayarlar.
+title: "SmartObjectResource.FrameStepNumerator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Çerçeve adım payını alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepNumerator property
 
-Çerçeve adımı payını alır veya ayarlar.
+Alır veya ayarlar çerçeve adımının payını.
 
 ```csharp
 public int FrameStepNumerator { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Çerçeve adım payı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

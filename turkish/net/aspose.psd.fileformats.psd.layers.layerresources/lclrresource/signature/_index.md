@@ -1,11 +1,12 @@
 ---
-title: LclrResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: LclrResource mülk. İmzayı alır.
+title: "LclrResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LclrResource özelliği. İmzayı alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/
 ---
+{{< psd/tize >}}
 ## LclrResource.Signature property
 
 İmzayı alır.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signa
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LclrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

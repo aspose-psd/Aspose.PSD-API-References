@@ -1,46 +1,53 @@
 ---
-title: Class PixelsData
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.PixelsData sınıf. Görüntü piksel verilerini ve sınırlarını depolayacak sınıf.
+title: "PixelsData Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.PixelsData sınıfı. Görüntü piksel verilerini ve sınırlarını depolamak için sınıf."
 type: docs
-weight: 5250
+weight: 5770
 url: /tr/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-Görüntü piksel verilerini ve sınırlarını depolayacak sınıf.
+Görüntü piksel verilerini ve sınırlarını depolayan sınıf.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | Yeni bir örneğini başlatır.`PixelsData` sınıf. |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Yeni bir örneğini başlatır.`PixelsData` sınıf. |
+| [PixelsData](pixelsdata/#constructor)() | Yeni bir `PixelsData` sınıfı örneğini başlatır. |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Yeni bir `PixelsData` sınıfı örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Piksel verilerinin sınırlarını alır veya ayarlar. |
 | [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Piksel verilerini alır veya ayarlar. |
 
-### Örnekler
+## Yöntemler
 
-Aşağıdaki kod, özel oluşturucuya sahip özel bir akıllı filtrenin nasıl oluşturulacağını gösterir.
+| Ad | Açıklama |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | Örneğin tam bir kopyasını oluşturur. |
+
+## Örnekler
+
+Aşağıdaki kod, özel bir işleyiciye sahip özel bir akıllı filtre nasıl oluşturulacağını gösterir.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Giriş dizisinde desteklenmeyen 'Kristalleştir' akıllı filtresini başlatır
+    // Desteklenmeyen 'Crystallize' akıllı filtresini giriş dizisinde başlatır
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'Kristalleştir' akıllı filtre kimliği.
+        // 'Crystallize' akıllı filtre kimliği.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -66,14 +73,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // SmartObject'e filtre uygula
+        // Filtreyi SmartObject'e uygula
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Katman maskesine filtre uygula
+        // Filtreyi katman maskesine uygula
         smartFilter.ApplyToMask(maskLayer);
 
-        //katmana filtre uygula
+        //Filtreyi layer'a uygula
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -90,7 +97,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'Kristalleştir' akıllı filtre kimliği.
+        // 'Crystallize' akıllı filtre kimliği.
         get { return 1131574132; }
     }
 
@@ -98,7 +105,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // filtre yapısını al
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Kristalize Boyutun değerini al
+        // Crystallize Size değerini al
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -114,9 +121,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

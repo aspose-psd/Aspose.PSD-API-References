@@ -1,57 +1,58 @@
 ---
-title: Class TiffRational
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.TiffRational sınıf. Tiff rasyonel türü.
+title: "Class TiffRational"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.TiffRational class. TIFF rasyonel türü."
 type: docs
-weight: 4230
+weight: 4730
 url: /tr/net/aspose.psd.fileformats.tiff/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational class
 
-Tiff rasyonel türü.
+tiff rasyonel tipi.
 
 ```csharp
 public class TiffRational
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TiffRational](tiffrational/#constructor)() | Yeni bir örneğini başlatır.`TiffRational` sınıf. |
-| [TiffRational](tiffrational/#constructor_1)(uint) | Yeni bir örneğini başlatır.`TiffRational` sınıf. |
-| [TiffRational](tiffrational/#constructor_2)(uint, uint) | Yeni bir örneğini başlatır.`TiffRational` sınıf. |
+| [TiffRational](tiffrational/#constructor)() | Yeni bir `TiffRational` sınıfı örneği başlatır. |
+| [TiffRational](tiffrational/#constructor_1)(uint) | Yeni bir `TiffRational` sınıfı örneği başlatır. |
+| [TiffRational](tiffrational/#constructor_2)(uint, uint) | Yeni bir `TiffRational` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Denominator](../../aspose.psd.fileformats.tiff/tiffrational/denominator/) { get; } | Paydayı alır. |
-| [Nominator](../../aspose.psd.fileformats.tiff/tiffrational/nominator/) { get; } | Adayı alır. |
+| [Denominator](../../aspose.psd.fileformats.tiff/tiffrational/denominator/) { get; } | Payda değerini alır. |
+| [Nominator](../../aspose.psd.fileformats.tiff/tiffrational/nominator/) { get; } | Pay değerini alır. |
 | [Value](../../aspose.psd.fileformats.tiff/tiffrational/value/) { get; } | Float değerini alır. |
-| [ValueD](../../aspose.psd.fileformats.tiff/tiffrational/valued/) { get; } | Çift değeri alır. |
+| [ValueD](../../aspose.psd.fileformats.tiff/tiffrational/valued/) { get; } | Double değerini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction)(double) | Sağlanan değeri bir kesre yaklaştırır. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_2)(float) | Sağlanan değeri bir kesre yaklaştırır. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_1)(double, double) | Sağlanan değeri bir kesre yaklaştırır. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_3)(float, double) | Sağlanan değeri bir kesre yaklaştırır. |
-| override [Equals](../../aspose.psd.fileformats.tiff/tiffrational/equals/)(object) | Belirtilenin olup olmadığını belirler.Object bu örneğe eşittir. |
-| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffrational/gethashcode/)() | Bu örnek için bir karma kod döndürür. |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffrational/tostring/)() | a döndürürString bu örneği temsil eder. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction)(double) | Verilen değeri bir kesire yaklaştırır. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_2)(float) | Verilen değeri bir kesire yaklaştırır. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_1)(double, double) | Verilen değeri bir kesire yaklaştırır. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction/#approximatefraction_3)(float, double) | Verilen değeri bir kesire yaklaştırır. |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffrational/equals/)(object) | Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler. |
+| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffrational/gethashcode/)() | Bu örnek için bir hash kodu döndürür. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffrational/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffrational/epsilon/) | Kesir hesaplaması için epsilon |
+| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffrational/epsilon/) | Kesir hesabı için epsilon |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

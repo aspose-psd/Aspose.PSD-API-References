@@ -1,30 +1,31 @@
 ---
-title: Enum FontCaps
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.FontCaps Sıralama. Bu yazı tipi temelidir.
+title: "Enum FontCaps"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.FontCaps enum. Bu, yazı tipi temel hattıdır."
 type: docs
-weight: 1640
+weight: 1680
 url: /tr/net/aspose.psd.fileformats.psd/fontcaps/
 ---
+{{< psd/tize >}}
 ## FontCaps enumeration
 
-Bu, yazı tipi temelidir.
+Bu, yazı tipi taban çizgisidir.
 
 ```csharp
 public enum FontCaps
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| None | `0` | Yazı tipi büyük harf değeri yok. |
+| None | `0` | Yazı tipi caps değeri yok. |
 | SmallCaps | `1` | Küçük büyük harfler. |
-| AllCaps | `2` | Tamamı büyük harf. |
+| AllCaps | `2` | Tamamen büyük harfler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: UnitStructure.UnitType
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitStructure mülk. Birim türünü alır veya ayarlar.
+title: "UnitStructure.UnitType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitStructure özelliği. Birim tipini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitStructure.UnitType property
 
-Birim türünü alır veya ayarlar.
+Birim tipini alır veya ayarlar.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Birim türü.
+Birim tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

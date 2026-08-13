@@ -1,11 +1,12 @@
 ---
-title: PieShape.StartAngle
-second_title: Aspose.PSD for .NET API Referansı
-description: PieShape mülk. Başlangıç açısını alır veya ayarlar.
+title: "PieShape.StartAngle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PieShape özelliği. Başlangıç açısını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
 Başlangıç açısını alır veya ayarlar.
@@ -14,14 +15,14 @@ Başlangıç açısını alır veya ayarlar.
 public float StartAngle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Başlangıç açısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PieShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../pieshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

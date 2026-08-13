@@ -1,27 +1,28 @@
 ---
-title: Color.R
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Bunun kırmızı bileşen değerini alırColoryapı.
+title: "Color.R"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Bu Color yapısının kırmızı bileşen değerini alır."
 type: docs
 weight: 1530
 url: /tr/net/aspose.psd/color/r/
 ---
+{{< psd/tize >}}
 ## Color.R property
 
-Bunun kırmızı bileşen değerini alır[`Color`](../)yapı.
+Bu [`Color`](../) yapısının kırmızı bileşen değerini alır.
 
 ```csharp
 public byte R { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun kırmızı bileşen değeri[`Color`](../).
+Bu [`Color`](../) yapısının kırmızı bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: PsdImage.Dither
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Geçerli görüntüde renk taklidi gerçekleştirir.
+title: "PsdImage.Dither"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Geçerli görüntü üzerinde dithering gerçekleştirir"
 type: docs
-weight: 520
+weight: 580
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/dither/
 ---
+{{< psd/tize >}}
 ## PsdImage.Dither method
 
-Geçerli görüntüde renk taklidi gerçekleştirir.
+Mevcut görüntüde dithering uygular.
 
 ```csharp
 public override void Dither(DitheringMethod ditheringMethod, int bitsCount, 
     IColorPalette customPalette)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Titreşim yöntemi. |
-| bitsCount | Int32 | Son bitler titreme için sayılır. |
-| customPalette | IColorPalette | Renk taklidi için özel palet. |
+| ditheringMethod | DitheringMethod | Dithering yöntemi. |
+| bitsCount | Int32 | Dithering için son bit sayısı. |
+| customPalette | IColorPalette | Dithering için özel palet. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

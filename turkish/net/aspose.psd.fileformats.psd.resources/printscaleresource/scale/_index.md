@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintScaleResource mülk. Ölçeği alır veya ayarlar.
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintScaleResource özelliği. Ölçeği alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
 Ölçeği alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 public float Scale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ölçek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintScaleResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

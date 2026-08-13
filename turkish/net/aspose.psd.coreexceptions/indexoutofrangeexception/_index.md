@@ -1,11 +1,12 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException sınıf. Sıkıştırıcı istisnası.
+title: "Sınıf IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.IndexOutOFRangeException sınıfı. Sıkıştırıcı istisnası"
 type: docs
 weight: 640
 url: /tr/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
 Sıkıştırıcı istisnası.
@@ -14,16 +15,16 @@ Sıkıştırıcı istisnası.
 public class IndexOutOFRangeException : Exception
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Yeni bir örneğini başlatır.[`CompressorException`](../compressorexception/) sınıf. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.[`CompressorException`](../compressorexception/) sınıf. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | [`CompressorException`](../compressorexception/) sınıfının yeni bir örneğini başlatır. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | [`CompressorException`](../compressorexception/) sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

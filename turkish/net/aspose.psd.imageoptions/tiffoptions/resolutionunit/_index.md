@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ResolutionUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Çözünürlük birimini alır veya ayarlar.
+title: "TiffOptions.ResolutionUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Çözünürlük birimini alır veya ayarlar"
 type: docs
-weight: 370
+weight: 380
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionUnit property
 
 Çözünürlük birimini alır veya ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 public TiffResolutionUnits ResolutionUnit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Çözünürlük birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffResolutionUnits](../../../aspose.psd.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

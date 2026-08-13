@@ -1,11 +1,12 @@
 ---
-title: TextLayer.Font
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer mülk. Yazı tipini alır.
+title: "TextLayer.Font"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer özelliği. Yazı tipini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
 Yazı tipini alır.
@@ -14,15 +15,15 @@ Yazı tipini alır.
 public Font Font { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

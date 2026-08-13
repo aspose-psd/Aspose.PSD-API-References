@@ -1,27 +1,28 @@
 ---
-title: RawDataStructure.Data
-second_title: Aspose.PSD for .NET API Referansı
-description: RawDataStructure mülk. Verileri alır veya ayarlar.
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RawDataStructure özelliği. Veriyi alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
-Verileri alır veya ayarlar.
+Veriyi alır veya ayarlar.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Veriler.
+Veri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RawDataStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

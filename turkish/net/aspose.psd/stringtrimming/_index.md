@@ -1,33 +1,34 @@
 ---
-title: Enum StringTrimming
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.StringTrimming Sıralama. Bir düzen şekline tam olarak uymayan bir dizeden karakterlerin nasıl kırpılacağını belirtir.
+title: "Enum StringTrimming"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.StringTrimming enum. Bir dizeyi, yerleşim şekline tamamen sığmayan karakterlerden nasıl kırpılacağını belirtir."
 type: docs
-weight: 5690
+weight: 6220
 url: /tr/net/aspose.psd/stringtrimming/
 ---
+{{< psd/tize >}}
 ## StringTrimming enumeration
 
-Bir düzen şekline tam olarak uymayan bir dizeden karakterlerin nasıl kırpılacağını belirtir.
+Bir yerleşim şekline tamamen sığmayan bir dizeden karakterlerin nasıl kırpılacağını belirtir.
 
 ```csharp
 public enum StringTrimming
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| None | `0` | Kırpma olmadığını belirtir. |
-| Character | `1` | Metnin en yakın karaktere kırpıldığını belirtir. |
-| Word | `2` | Metnin en yakın kelimeye kırpıldığını belirtir. |
-| EllipsisCharacter | `3` | Metnin en yakın karaktere kırpıldığını ve kırpılan satırın sonuna bir üç nokta eklendiğini belirtir. |
-| EllipsisWord | `4` | Metnin en yakın kelimeye kırpıldığını ve kırpılan satırın sonuna bir üç nokta eklendiğini belirtir. |
-| EllipsisPath | `5` | Merkez, kırpılmış çizgilerden çıkarılır ve bir üç nokta ile değiştirilir. Algoritma, satırın son eğik çizgiyle ayrılmış bölümünün mümkün olduğunca çoğunu tutar. |
+| None | `0` | Kırpma yapılmadığını belirtir. |
+| Character | `1` | Metnin en yakın karaktere kadar kırpıldığını belirtir. |
+| Word | `2` | Metnin en yakın kelimeye kadar kırpıldığını belirtir. |
+| EllipsisCharacter | `3` | Metnin en yakın karaktere kadar kırpıldığını ve kırpılmış bir satırın sonuna üç nokta eklendiğini belirtir. |
+| EllipsisWord | `4` | Metnin en yakın kelimeye kadar kırpıldığını ve kırpılmış bir satırın sonuna üç nokta eklendiğini belirtir. |
+| EllipsisPath | `5` | Kırpılmış satırlardan orta kısım çıkarılır ve üç nokta ile değiştirilir. Algoritma, satırın son eğik çizgiyle ayrılmış bölümünden mümkün olduğunca fazlasını korur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

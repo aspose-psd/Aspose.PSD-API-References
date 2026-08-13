@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeGeneralRotation
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix alan. Bu bayrak biti bu object tarafından tanımlanan dönüşümün diğer bayrak bitleri tarafından belirtilen dönüşümlerine ek olarak isteğe bağlı bir açıyla döndürme gerçekleştirdiğini gösterir. Bir döndürme vektörlerin açılarını vektörün orijinal yönünden bağımsız olarak aynı miktarda değiştirir ve vektörün uzunluğunu değiştirmeden . Bu bayrak biti the ile birbirini dışlar
+title: "Matrix.TypeGeneralRotation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix alanı. Bu bayrak biti, bu nesne tarafından tanımlanan dönüşümün, diğer bayrak bitleri tarafından belirtilen dönüşümlere ek olarak keyfi bir açıyla bir döndürme gerçekleştirdiğini gösterir. Bir döndürme, vektörün orijinal yönünden bağımsız olarak vektörlerin açılarını aynı miktarda değiştirir ve vektörün uzunluğunu değiştirmez. Bu bayrak biti, şunlarla karşılıklı olarak dışlayıcıdır."
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/matrix/typegeneralrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralRotation field
 
-Bu bayrak biti, bu object tarafından tanımlanan dönüşümün, diğer bayrak bitleri tarafından belirtilen dönüşümlerine ek olarak isteğe bağlı bir açıyla döndürme gerçekleştirdiğini gösterir. Bir döndürme, vektörlerin açılarını, vektörün orijinal yönünden bağımsız olarak aynı miktarda değiştirir ve vektörün uzunluğunu değiştirmeden . Bu bayrak biti, the ile birbirini dışlar
+Bu bayrak biti, bu nesne tarafından tanımlanan dönüşümün, diğer bayrak bitleriyle belirtilen dönüşümlere ek olarak, keyfi bir açıyla döndürme yaptığını gösterir. Bir döndürme, vektörün orijinal yönünden bağımsız olarak vektörlerin açılarını aynı miktarda değiştirir ve vektörün uzunluğunu değiştirmez. Bu bayrak biti, şununla karşılıklı olarak dışlayıcıdır:
 
 ```csharp
 public const int TypeGeneralRotation;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Class PsdImageArgumentException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException sınıf. psd görüntü bağımsız değişkeni istisnası.
+title: "Sınıf PsdImageArgumentException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException sınıf. psd görüntü argüman istisnası"
 type: docs
 weight: 580
 url: /tr/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException class
 
-psd görüntü bağımsız değişkeni istisnası.
+Psd görüntü argüman istisnası.
 
 ```csharp
 public class PsdImageArgumentException : PsdImageException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | Yeni bir örneğini başlatır.`PsdImageArgumentException` sınıf. |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`PsdImageArgumentException` sınıf. |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | Yeni bir `PsdImageArgumentException` sınıfı örneği başlatır. |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | Yeni bir `PsdImageArgumentException` sınıfı örneği başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImageException](../psdimageexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

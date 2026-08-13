@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.StructureKey
-second_title: Aspose.PSD for .NET API Referansı
-description: PropertyStructure alan. Yapı anahtarını tanımlar.
+title: "PropertyStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PropertyStructure alanı. Yapı anahtarını tanımlar."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.StructureKey field
 
 Yapı anahtarını tanımlar.
@@ -14,10 +15,10 @@ Yapı anahtarını tanımlar.
 public const int StructureKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PropertyStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

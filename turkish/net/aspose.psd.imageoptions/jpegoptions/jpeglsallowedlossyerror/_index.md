@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.JpegLsAllowedLossyError
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Neredeyse kayıpsız kodlama için JPEGLS fark sınırını alır veya ayarlar JPEGLS spesifikasyonundan NEAR parametresi.
+title: "JpegOptions.JpegLsAllowedLossyError"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. JPEGLS spesifikasyonundan NEAR parametresi için yakını kayıpsız kodlamada JPEGLS fark sınırını alır veya ayarlar"
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsAllowedLossyError property
 
-Neredeyse kayıpsız kodlama için JPEG-LS fark sınırını alır veya ayarlar (JPEG-LS spesifikasyonundan NEAR parametresi).
+JPEG-LS yakın kayıpsız kodlama için fark sınırını (JPEG-LS spesifikasyonundaki NEAR parametresi) alır veya ayarlar.
 
 ```csharp
 public int JpegLsAllowedLossyError { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

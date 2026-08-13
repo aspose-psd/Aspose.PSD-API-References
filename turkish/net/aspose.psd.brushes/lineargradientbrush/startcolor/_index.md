@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearGradientBrush mülk. Başlangıç degrade rengini alır veya ayarlar.
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearGradientBrush özelliği. Başlangıç degrade rengini alır veya ayarlar"
 type: docs
-weight: 40
+weight: 60
 url: /tr/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-Başlangıç degrade rengini alır veya ayarlar.
+Başlangıç gradyan rengini alır veya ayarlar.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Başlangıç degrade rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

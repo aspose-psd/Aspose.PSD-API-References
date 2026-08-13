@@ -1,11 +1,12 @@
 ---
-title: Enum FillMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FillMode Sıralama. Kapalı bir yolun içinin nasıl doldurulacağını belirtir.
+title: "Enum FillMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FillMode enum. Kapalı bir yolun içinin nasıl doldurulacağını belirtir."
 type: docs
-weight: 4260
+weight: 4760
 url: /tr/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
 Kapalı bir yolun içinin nasıl doldurulacağını belirtir.
@@ -14,16 +15,16 @@ Kapalı bir yolun içinin nasıl doldurulacağını belirtir.
 public enum FillMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Alternate | `0` | Alternatif doldurma modunu belirtir. |
-| Winding | `1` | Sarma dolgu modunu belirtir. |
+| Winding | `1` | Sarmal doldurma modunu belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

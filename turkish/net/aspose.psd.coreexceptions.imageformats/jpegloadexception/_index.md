@@ -1,38 +1,39 @@
 ---
-title: Class JpegLoadException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException sınıf. JPEG resim yükleme istisnasını temsil eder.
+title: "Sınıf JpegLoadException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException sınıfı. JPEG görüntü yükleme istisnasını temsil eder"
 type: docs
 weight: 550
 url: /tr/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException class
 
-JPEG resim yükleme istisnasını temsil eder.
+JPEG görüntü yükleme istisnasını temsil eder.
 
 ```csharp
 public class JpegLoadException : JpegException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [JpegLoadException](jpegloadexception/#constructor)(string) | Yeni bir örneğini başlatır.`JpegLoadException` sınıf. |
-| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | Yeni bir örneğini başlatır.`JpegLoadException` sınıf. |
-| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | Yeni bir örneğini başlatır.`JpegLoadException` sınıf. |
-| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | Yeni bir örneğini başlatır.`JpegLoadException` sınıf. |
+| [JpegLoadException](jpegloadexception/#constructor)(string) | `JpegLoadException` sınıfının yeni bir örneğini başlatır. |
+| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | `JpegLoadException` sınıfının yeni bir örneğini başlatır. |
+| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | `JpegLoadException` sınıfının yeni bir örneğini başlatır. |
+| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | `JpegLoadException` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/) { get; set; } | Hatanın nedenini alır veya ayarlar. |
+| [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/) { get; set; } | Hata nedenini alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegException](../jpegexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

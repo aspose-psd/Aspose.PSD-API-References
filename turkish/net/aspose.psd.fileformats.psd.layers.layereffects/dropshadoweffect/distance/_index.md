@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Distance
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Mesafeyi piksel cinsinden alır veya ayarlar.
+title: "DropShadowEffect.Distance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Mesafeyi piksel cinsinden alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Distance property
 
 Mesafeyi piksel cinsinden alır veya ayarlar.
@@ -14,14 +15,14 @@ Mesafeyi piksel cinsinden alır veya ayarlar.
 public int Distance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mesafe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

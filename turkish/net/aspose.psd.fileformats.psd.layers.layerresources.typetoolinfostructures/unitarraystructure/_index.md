@@ -1,51 +1,52 @@
 ---
-title: Class UnitArrayStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure sınıf. Tutan UnitArrayStructure sınıfını tanımlarDouble değerler dizisi ve ölçü birimi. PSD dosya kaynaklarında genellikle tarafından kullanılır.ObjectArrayStructure .
+title: "Sınıf UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure sınıfı. Double değerler dizisini ve ölçü birimlerini tutan UnitArrayStructure sınıfını tanımlar. Genellikle ObjectArrayStructure tarafından PSD dosyası kaynaklarında kullanılır."
 type: docs
-weight: 3270
+weight: 3660
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-Tutan UnitArrayStructure sınıfını tanımlarDouble değerler dizisi ve ölçü birimi. PSD dosya kaynaklarında, genellikle tarafından kullanılır.[`ObjectArrayStructure`](../objectarraystructure/) .
+Double değerler dizisini ve ölçü birimlerini tutan UnitArrayStructure sınıfını tanımlar. Genellikle PSD dosyası kaynaklarında, [`ObjectArrayStructure`](../objectarraystructure/) tarafından kullanılır.
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Yeni bir örneğini başlatır.`UnitArrayStructure` sınıf. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Yeni bir `UnitArrayStructure` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Bu birim dizi yapı anahtarını alır. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Bu birim dizi yapısı anahtarını alır. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Anahtar adını alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Şunu alır:[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Ölçü birimi türünü alır veya ayarlar.`UnitArrayStructure` değerler. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | `UnitArrayStructure` değerlerinin ölçü birimi tipini alır veya ayarlar. |
 | [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Değer sayısını alır. |
 | [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Birim dizi yapısı değerlerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Başlık uzunluğunu alır. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 'UnFl'yi tanımlar`UnitArrayStructure` anahtar. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 'UnFl' `UnitArrayStructure` anahtarını tanımlar. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -99,10 +100,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

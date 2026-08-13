@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Count
-second_title: Aspose.PSD for .NET API Referansı
-description: UrlListResource mülk. Sayıyı alır veya ayarlar.
+title: "UrlListResource.Count"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UrlListResource özelliği. Sayıyı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
-Sayıyı alır veya ayarlar.
+Sayacı alır veya ayarlar.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UrlListResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

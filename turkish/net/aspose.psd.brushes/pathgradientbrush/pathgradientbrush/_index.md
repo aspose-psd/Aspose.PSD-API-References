@@ -1,116 +1,117 @@
 ---
-title: PathGradientBrush.PathGradientBrush
-second_title: Aspose.PSD for .NET API Referansı
-description: PathGradientBrush inşaatçı. Yeni bir örneğini başlatır.PathGradientBrush belirtilen noktalara sahip sınıf.
+title: "PathGradientBrush.PathGradientBrush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathGradientBrush yapıcı. Belirtilen noktalarla PathGradientBrush sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.brushes/pathgradientbrush/pathgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush(PointF[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PathGradientBrush`](../) belirtilen noktalara sahip sınıf.
+Belirtilen noktalarla [`PathGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathGradientBrush(PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | bir dizi[`PointF`](../../../aspose.psd/pointf/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
+| points | PointF[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`PointF`](../../../aspose.psd/pointf/) yapıların bir dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`PathGradientBrush`](../) belirtilen noktalar ve sarma modu ile sınıf.
+Belirtilen noktalar ve sarma modu ile [`PathGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | bir dizi[`PointF`](../../../aspose.psd/pointf/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) dolguların bununla nasıl çizildiğini belirtir[`PathGradientBrush`](../) döşenir. |
+| points | PointF[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`PointF`](../../../aspose.psd/pointf/) yapıların bir dizisi. |
+| wrapMode | WrapMode | Bu [`PathGradientBrush`](../) ile çizilen doldurmaların nasıl döşeneceğini belirten bir [`WrapMode`](../../../aspose.psd/wrapmode/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[]) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`PathGradientBrush`](../) belirtilen noktalara sahip sınıf.
+Belirtilen noktalarla [`PathGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathGradientBrush(Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | Point[] | bir dizi[`Point`](../../../aspose.psd/point/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
+| points | Point[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`Point`](../../../aspose.psd/point/) yapıların bir dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[], WrapMode) {#constructor_4}
 
-Yeni bir örneğini başlatır.[`PathGradientBrush`](../) belirtilen noktalar ve sarma modu ile sınıf.
+Belirtilen noktalar ve sarma modu ile [`PathGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathGradientBrush(Point[] points, WrapMode wrapMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | Point[] | bir dizi[`Point`](../../../aspose.psd/point/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) dolguların bununla nasıl çizildiğini belirtir[`PathGradientBrush`](../) döşenir. |
+| points | Point[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`Point`](../../../aspose.psd/point/) yapıların bir dizisi. |
+| wrapMode | WrapMode | Bu [`PathGradientBrush`](../) ile çizilen doldurmaların nasıl döşeneceğini belirten bir [`WrapMode`](../../../aspose.psd/wrapmode/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(GraphicsPath) {#constructor}
 
-Yeni bir örneğini başlatır.[`PathGradientBrush`](../) belirtilen yola sahip sınıf.
+Belirtilen yol ile [`PathGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathGradientBrush(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../../aspose.psd/graphicspath/) bu tarafından doldurulan alanı tanımlayan[`PathGradientBrush`](../). |
+| path | GraphicsPath | Bu [`PathGradientBrush`](../) tarafından doldurulan alanı tanımlayan [`GraphicsPath`](../../../aspose.psd/graphicspath/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

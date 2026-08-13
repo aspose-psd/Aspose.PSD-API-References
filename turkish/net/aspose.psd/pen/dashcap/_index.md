@@ -1,34 +1,35 @@
 ---
-title: Pen.DashCap
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen kesikli çizgileri oluşturan tirelerin sonunda kullanılan başlık stilini alır veya ayarlar.Pen .
+title: "Pen.DashCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen kesikli çizgileri oluşturan tirelerin sonunda kullanılan kapak stilini alır veya ayarlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/pen/dashcap/
 ---
+{{< psd/tize >}}
 ## Pen.DashCap property
 
-Bununla çizilen kesikli çizgileri oluşturan tirelerin sonunda kullanılan başlık stilini alır veya ayarlar.[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen kesikli çizgileri oluşturan tirelerin sonunda kullanılan kapak stilini alır veya ayarlar.
 
 ```csharp
 public DashCap DashCap { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Biri`DashCap` bununla çizilen kesikli çizgileri oluşturan tirelerin başında ve sonunda kullanılan büyük harf stilini temsil eden değerlerdir.[`Pen`](../).
+`DashCap` değerlerinden biri, bu [`Pen`](../) ile çizilen kesikli çizgileri oluşturan tirelerin başlangıç ve sonunda kullanılan kapak stilini temsil eder.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`DashCap` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `DashCap` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

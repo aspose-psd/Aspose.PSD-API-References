@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.MasterChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevelsLayer mülk. Ana kanalı alır.
+title: "LevelsLayer.MasterChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevelsLayer özelliği. Ana kanalı alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/masterchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.MasterChannel property
 
 Ana kanalı alır.
@@ -14,15 +15,15 @@ Ana kanalı alır.
 public LevelChannel MasterChannel { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ana kanal.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

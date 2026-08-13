@@ -1,48 +1,49 @@
 ---
-title: RasterImage.BinarizeBradley
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Entegre görüntü eşikleme kullanılarak Bradleynin uyarlamalı eşikleme algoritması kullanılarak bir görüntünün ikili hale getirilmesi
+title: "RasterImage.BinarizeBradley"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Görüntünün, integral görüntü eşikleme kullanarak Bradley'in uyarlamalı eşikleme algoritmasıyla ikilileştirilmesi"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/rasterimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-Entegre görüntü eşikleme kullanılarak Bradley'nin uyarlamalı eşikleme algoritması kullanılarak bir görüntünün ikili hale getirilmesi
+Bradley'nin bütünsel görüntü eşikleme yöntemiyle adaptif eşikleme algoritmasını kullanarak bir görüntünün ikilileştirilmesi.
 
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brightnessDifference | Double | Piksel ile bu pikselin etrafında ortalanmış bir sxs piksel penceresinin ortalaması arasındaki parlaklık farkı. |
-| windowSize | Int32 | Bu pikselin etrafında ortalanmış piksellerin sxs penceresinin boyutu |
+| brightnessDifference | Double | Bu pikselin etrafında merkezlenmiş s x s piksellik pencerenin ortalaması ile piksel arasındaki parlaklık farkı. |
+| windowSize | Int32 | Bu pikselin etrafında merkezlenmiş s x s piksellik pencerenin boyutu |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-Entegre görüntü eşikleme kullanılarak Bradley'nin uyarlamalı eşikleme algoritması kullanılarak bir görüntünün ikili hale getirilmesi
+Bradley'nin bütünsel görüntü eşikleme yöntemiyle adaptif eşikleme algoritmasını kullanarak bir görüntünün ikilileştirilmesi.
 
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brightnessDifference | Double | Piksel ile bu pikselin etrafında ortalanmış bir sxs piksel penceresinin ortalaması arasındaki parlaklık farkı. |
+| brightnessDifference | Double | Bu pikselin etrafında merkezlenmiş s x s piksellik pencerenin ortalaması ile piksel arasındaki parlaklık farkı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

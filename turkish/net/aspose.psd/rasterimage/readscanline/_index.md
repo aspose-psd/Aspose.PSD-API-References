@@ -1,32 +1,33 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Belirtilen tarama satırı indeksine göre tüm tarama satırını okur.
+title: "RasterImage.ReadScanLine"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Belirtilen tarama satırı indeksine göre tüm tarama satırını okur"
 type: docs
-weight: 440
+weight: 450
 url: /tr/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
-Belirtilen tarama satırı indeksine göre tüm tarama satırını okur.
+Belirtilen tarama satırı indeksi ile tüm tarama satırını okur.
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Tarama satırının sıfır tabanlı dizini. |
+| scanLineIndex | Int32 | Tarama satırının sıfır tabanlı indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tarama çizgisi piksel renk değerleri dizisi.
+Tarama satırı piksel renk değerleri dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

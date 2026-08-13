@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: PropertyStructure mülk. Yapı anahtarını alır.
+title: "PropertyStructure.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PropertyStructure özelliği. Yapı anahtarını alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/key/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.Key property
 
 Yapı anahtarını alır.
@@ -14,10 +15,10 @@ Yapı anahtarını alır.
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PropertyStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

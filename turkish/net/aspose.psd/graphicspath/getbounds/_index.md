@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.GetBounds
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Nesnenin sınırlarını alır.
+title: "GraphicsPath.GetBounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Nesnenin sınırlarını alır."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/graphicspath/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Nesnenin sınırlarını alır.
@@ -14,21 +15,21 @@ Nesnenin sınırlarını alır.
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | Sınırlardan önce uygulanacak matris hesaplanacaktır. |
+| matris | Matrix | Sınırlar hesaplanmadan önce uygulanacak matris. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tahmini nesnenin sınırları.
+Tahmin edilen nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,22 +41,22 @@ Nesnenin sınırlarını alır.
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | Sınırlardan önce uygulanacak matris hesaplanacaktır. |
-| pen | Pen | Nesne için kullanılacak kalem. Bu, nesnenin sınır boyutunu etkileyebilir. |
+| matris | Matrix | Sınırlar hesaplanmadan önce uygulanacak matris. |
+| kalem | Kalem | Nesne için kullanılacak kalem. Bu, nesnenin sınır boyutunu etkileyebilir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tahmini nesnenin sınırları.
+Tahmin edilen nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

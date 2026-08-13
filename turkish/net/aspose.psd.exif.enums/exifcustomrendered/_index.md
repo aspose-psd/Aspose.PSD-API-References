@@ -1,29 +1,30 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered Sıralama. exif özel oluşturulmuş enum.
+title: "Enum ExifCustomRendered"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered enum. exif özel işlenmiş enum"
 type: docs
-weight: 820
+weight: 830
 url: /tr/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
-exif özel oluşturulmuş enum.
+exif özel işlenmiş sayımı.
 
 ```csharp
 public enum ExifCustomRendered
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| NormalProcess | `0` | Normal oluşturma işlemi. |
-| CustomProcess | `1` | Özel oluşturma işlemi. |
+| NormalProcess | `0` | Normal render işlemi. |
+| CustomProcess | `1` | Özel render işlemi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

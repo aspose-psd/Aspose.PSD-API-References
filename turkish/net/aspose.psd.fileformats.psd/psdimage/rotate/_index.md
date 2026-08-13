@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Görüntüyü merkez etrafında döndürün.
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Görüntüyü merkezin etrafında döndürür"
 type: docs
-weight: 610
+weight: 670
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Görüntüyü merkez etrafında döndürün.
+Görüntüyü merkezin etrafında döndür.
 
 ```csharp
 public override void Rotate(float angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Derece cinsinden döndürme açısı. Pozitif değerler saat yönünde dönecektir. |
+| açı | Single | Döndürme açısı derece cinsindendir. Pozitif değerler saat yönünde döndürür. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, görüntüyü belirli açı değerine göre döndürme yeteneğini gösterir.
+Aşağıdaki kod, görüntüyü belirli bir açı değeriyle döndürme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Aşağıdaki kod, görüntüyü belirli açı değerine göre döndürme yetene�
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// Tüm görüntü döndürülüyor
+// Tüm görüntünün döndürülmesi
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// Katman döndürme
+// Katmanın döndürülmesi
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -57,33 +58,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Görüntüyü merkez etrafında döndürün.
+Görüntüyü merkezin etrafında döndür.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Derece cinsinden döndürme açısı. Pozitif değerler saat yönünde dönecektir. |
-| resizeProportionally | Boolean | olarak ayarlanmışsa`doğru` boyutlara dokunulmadığı ve yalnızca dahili görüntü içeriğinin döndürüldüğü diğer durumda, görüntü boyutunuzu döndürülmüş dikdörtgen (köşe noktaları) projeksiyonlarına göre değiştirmiş olacaksınız. |
-| backgroundColor | Color | Arka plan rengi. |
+| açı | Single | Döndürme açısı derece cinsindendir. Pozitif değerler saat yönünde döndürür. |
+| resizeProportionally | Boolean | eğer `true` olarak ayarlanırsa, görüntü boyutunuz döndürülmüş dikdörtgenin (köşe noktaları) izdüşümlerine göre değişir; diğer durumda boyutlar dokunulmaz kalır ve yalnızca iç görüntü içeriği döndürülür. |
+| backgroundColor | Renk | Arka planın rengi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

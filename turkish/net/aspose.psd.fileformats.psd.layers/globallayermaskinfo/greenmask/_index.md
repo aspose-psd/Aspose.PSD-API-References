@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.GreenMask
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalLayerMaskInfo mülk. Yeşil maskeyi alır veya ayarlar.
+title: "GlobalLayerMaskInfo.GreenMask"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalLayerMaskInfo özelliği. Yeşil maskeyi alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.GreenMask property
 
 Yeşil maskeyi alır veya ayarlar.
@@ -14,14 +15,14 @@ Yeşil maskeyi alır veya ayarlar.
 public short GreenMask { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yeşil maske.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalLayerMaskInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

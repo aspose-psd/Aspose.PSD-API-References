@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAltTimeCode
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Alternatif zaman kodunu ayarlar.
+title: "XmpDynamicMediaPackage.SetAltTimeCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Alternatif zaman kodunu ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttimecode/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAltTimeCode method
 
 Alternatif zaman kodunu ayarlar.
@@ -14,15 +15,15 @@ Alternatif zaman kodunu ayarlar.
 public void SetAltTimeCode(Timecode timecode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| timecode | Timecode | Zaman kodu. |
+| zaman kodu | Zaman Kodu | Zaman kodu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Timecode](../../timecode/)
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

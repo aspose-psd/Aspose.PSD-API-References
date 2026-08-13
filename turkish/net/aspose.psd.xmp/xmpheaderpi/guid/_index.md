@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpHeaderPi mülk. Başlık Kılavuzunu Temsil Eder.
+title: "XmpHeaderPi.Guid"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpHeaderPi özelliği. Başlık Guid'ini temsil eder."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
-Başlık Kılavuzunu Temsil Eder.
+Başlık Guid'ini temsil eder.
 
 ```csharp
 public string Guid { get; set; }
 ```
 
-### Notlar
+## Açıklamalar
 
-Başlık PI'sinin metni bir GUID içerir, bu da veri akışında kazara görünme olasılığını azaltır.
+Başlık PI metni bir GUID içerir, bu da veri akışında tesadüfen ortaya çıkma olasılığını azaltır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpHeaderPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

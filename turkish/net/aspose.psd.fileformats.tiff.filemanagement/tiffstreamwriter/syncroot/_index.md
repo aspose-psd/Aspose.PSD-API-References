@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.SyncRoot
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter mülk. Eşitlenen kaynağa erişimi eşitlemek için kullanılabilecek bir nesne alır.
+title: "TiffStreamWriter.SyncRoot"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter özelliği. Senkronize edilmiş kaynağa erişimi senkronize etmek için kullanılabilecek bir nesneyi alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.SyncRoot property
 
-Eşitlenen kaynağa erişimi eşitlemek için kullanılabilecek bir nesne alır.
+Senkronize edilmiş kaynağa erişimi senkronize etmek için kullanılabilecek bir nesne alır.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Eşitlenen kaynağa erişimi eşitlemek için kullanılabilecek nesne.
+Eşzamanlı kaynağa erişimi senkronize etmek için kullanılabilecek nesne.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

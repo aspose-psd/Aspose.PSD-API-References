@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevelsLayer yöntem. Kanalı alır.
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevelsLayer yöntemi. Kanalı alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
 Kanalı alır.
@@ -14,19 +15,19 @@ Kanalı alır.
 public LevelChannel GetChannel(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | İçerik. |
+| index | Int32 | İndeks. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) indekse göre
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

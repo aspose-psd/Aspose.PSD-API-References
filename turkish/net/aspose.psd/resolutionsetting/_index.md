@@ -1,11 +1,12 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ResolutionSetting sınıf. Görüntü kaydetme seçenekleri için çözünürlük ayarı.
+title: "ResolutionSetting sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ResolutionSetting sınıfı. Görüntü kaydetme seçenekleri için çözünürlük ayarı"
 type: docs
-weight: 5380
+weight: 5910
 url: /tr/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
 Görüntü kaydetme seçenekleri için çözünürlük ayarı.
@@ -14,23 +15,23 @@ Görüntü kaydetme seçenekleri için çözünürlük ayarı.
 public class ResolutionSetting
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Yeni bir örneğini başlatır.`ResolutionSetting` sınıf. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Yeni bir örneğini başlatır.`ResolutionSetting` sınıf. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | `ResolutionSetting` sınıfının yeni bir örneğini başlatır. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | `ResolutionSetting` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Yatay çözünürlüğü alır veya ayarlar. |
 | [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Dikey çözünürlüğü alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Rational.Rational
-second_title: Aspose.PSD for .NET API Referansı
-description: Rational inşaatçı. Yeni bir örneğini başlatır.Rational sınıf.
+title: "Rational.Rational"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rational yapıcı. Rational sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-Yeni bir örneğini başlatır.[`Rational`](../) sınıf.
+[`Rational`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Rational(int numerator, int denominator)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| numerator | Int32 | pay. |
-| denominator | Int32 | Payda. |
+| pay | Int32 | Pay. |
+| payda | Int32 | Payda. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | pay;Pay sıfırdan büyük olmalıdır. veya payda;Payda sıfırdan büyük olmalıdır. |
+| ArgumentOutOfRangeException | numerator;Pay sıfırdan büyük olmalıdır. veya denominator;Denominator sıfırdan büyük olmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Rational](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

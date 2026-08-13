@@ -1,79 +1,80 @@
 ---
-title: CustomLineCap.CustomLineCap
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap inşaatçı. Yeni bir örneğini başlatır.CustomLineCap belirtilen anahat ve fill. ile sınıf
+title: "CustomLineCap.CustomLineCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap yapıcı. Belirtilen dış hat ve dolgu ile yeni bir CustomLineCap sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/customlinecap/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap(GraphicsPath, GraphicsPath) {#constructor}
 
-Yeni bir örneğini başlatır.[`CustomLineCap`](../) belirtilen anahat ve fill. ile sınıf
+Belirtilen dış hat ve dolgu ile yeni bir [`CustomLineCap`](../) sınıfı örneği başlatır.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) özel sınır için dolguyu tanımlayan nesne. |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) özel başlığın dış hatlarını tanımlayan nesne. |
+| fillPath | GraphicsPath | Özel kapak için dolguyu tanımlayan bir [`GraphicsPath`](../../graphicspath/) nesnesi. |
+| strokePath | GraphicsPath | Özel kapak için dış hattı tanımlayan bir [`GraphicsPath`](../../graphicspath/) nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`CustomLineCap`](../) belirtilen mevcut sınıftan[`LineCap`](../../linecap/) belirtilen anahat ve fill. ile numaralandırma
+Belirtilen mevcut [`LineCap`](../../linecap/) enumerasyonundan, belirtilen dış hat ve dolgu ile yeni bir [`CustomLineCap`](../) sınıfı örneği başlatır.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) özel sınır için dolguyu tanımlayan nesne. |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) özel başlığın dış hatlarını tanımlayan nesne. |
-| baseCap | LineCap | Özel sınırın oluşturulacağı satır sınırı. |
+| fillPath | GraphicsPath | Özel kapak için dolguyu tanımlayan bir [`GraphicsPath`](../../graphicspath/) nesnesi. |
+| strokePath | GraphicsPath | Özel kapak için dış hattı tanımlayan bir [`GraphicsPath`](../../graphicspath/) nesnesi. |
+| baseCap | LineCap | Özel kapağı oluşturmak için kullanılacak satır kapağı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap, float) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`CustomLineCap`](../) belirtilen mevcut sınıftan[`LineCap`](../../linecap/)belirtilen anahat, dolgu ve ek ile numaralandırma.
+Belirtilen mevcut [`LineCap`](../../linecap/) enumerasyonundan, belirtilen dış hat, dolgu ve inset ile yeni bir [`CustomLineCap`](../) sınıfı örneği başlatır.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap, 
     float baseInset)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) özel sınır için dolguyu tanımlayan nesne. |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) özel başlığın dış hatlarını tanımlayan nesne. |
-| baseCap | LineCap | Özel sınırın oluşturulacağı satır sınırı. |
-| baseInset | Single | Kapak ve çizgi arasındaki mesafe. |
+| fillPath | GraphicsPath | Özel kapak için dolguyu tanımlayan bir [`GraphicsPath`](../../graphicspath/) nesnesi. |
+| strokePath | GraphicsPath | Özel kapak için dış hattı tanımlayan bir [`GraphicsPath`](../../graphicspath/) nesnesi. |
+| baseCap | LineCap | Özel kapağı oluşturmak için kullanılacak satır kapağı. |
+| baseInset | Single | Kapak ile satır arasındaki mesafe. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Class GraphicsPathExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.GraphicsPathExtensions sınıf. Şunları içerirGraphicsPath uzantı yöntemleri.
+title: "Sınıf GraphicsPathExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.GraphicsPathExtensions sınıfı. GraphicsPath uzantı yöntemlerini içerir."
 type: docs
-weight: 1100
+weight: 1110
 url: /tr/net/aspose.psd.extensions/graphicspathextensions/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions class
 
-Şunları içerir:[`GraphicsPath`](../../aspose.psd/graphicspath/) uzantı yöntemleri.
+İçerir [`GraphicsPath`](../../aspose.psd/graphicspath/) uzantı yöntemlerini.
 
 ```csharp
 public static class GraphicsPathExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | dönüştürür[`GraphicsPath`](../../aspose.psd/graphicspath/) içinGraphicsPath . |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | [`GraphicsPath`](../../aspose.psd/graphicspath/) öğesini GraphicsPath'e dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

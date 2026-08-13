@@ -1,81 +1,82 @@
 ---
-title: Rectangle.Contains
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Belirtilen noktanın bunun içinde olup olmadığını belirler.Rectangleyapı.
+title: "Rectangle.Contains"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen noktanın bu Rectangle yapısı içinde bulunup bulunmadığını belirler"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd/rectangle/contains/
 ---
+{{< psd/tize >}}
 ## Contains(int, int) {#contains_2}
 
-Belirtilen noktanın bunun içinde olup olmadığını belirler.[`Rectangle`](../)yapı.
+Belirtilen noktanın bu [`Rectangle`](../) yapısı içinde bulunup bulunmadığını belirler.
 
 ```csharp
 public bool Contains(int x, int y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | x | Int32 | Test edilecek noktanın x koordinatı. |
 | y | Int32 | Test edilecek noktanın y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-tarafından tanımlanan nokta ise bu yöntem true değerini döndürür.*x* Ve*y* bunun içinde yer alır[`Rectangle`](../) yapı; Aksi takdirde yanlış.
+Bu yöntem, *x* ve *y* ile tanımlanan nokta bu [`Rectangle`](../) yapısı içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Point) {#contains}
 
-Belirtilen noktanın bunun içinde olup olmadığını belirler.[`Rectangle`](../)yapı.
+Belirtilen noktanın bu [`Rectangle`](../) yapısı içinde bulunup bulunmadığını belirler.
 
 ```csharp
 public bool Contains(Point point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../../point/) test etmek |
+| point | Point | Test edilecek [`Point`](../../point/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu yöntem, nokta ile temsil edilirse true değerini döndürür.*point* bunun içinde yer alır[`Rectangle`](../) yapı; Aksi takdirde yanlış.
+Bu yöntem, *point* ile temsil edilen nokta bu [`Rectangle`](../) yapısı içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Rectangle) {#contains_1}
 
-ile temsil edilen dikdörtgen bölgenin olup olmadığını belirler.*rect* tamamen bunun içinde yer alır[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısı içinde *rect* ile temsil edilen dikdörtgen bölgenin tamamen bulunup bulunmadığını belirler.
 
 ```csharp
 public bool Contains(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../) test etmek |
+| rect | Rectangle | Test edilecek [`Rectangle`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu yöntem, dikdörtgen bölge ile temsil edilirse true değerini döndürür.*rect* tamamen bunun içinde yer alır[`Rectangle`](../) yapı; Aksi takdirde yanlış.
+Bu yöntem, *rect* ile temsil edilen dikdörtgen bölge bu [`Rectangle`](../) yapısı içinde tamamen bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

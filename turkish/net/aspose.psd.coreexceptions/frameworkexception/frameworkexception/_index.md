@@ -1,48 +1,49 @@
 ---
-title: FrameworkException.FrameworkException
-second_title: Aspose.PSD for .NET API Referansı
-description: FrameworkException inşaatçı. Yeni bir örneğini başlatır.FrameworkException sınıf.
+title: "FrameworkException.FrameworkException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FrameworkException yapıcı. FrameworkException sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/frameworkexception/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`FrameworkException`](../) sınıf.
+[`FrameworkException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FrameworkException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | Mesaj. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FrameworkException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FrameworkException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`FrameworkException`](../) sınıf.
+[`FrameworkException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FrameworkException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | Mesaj. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FrameworkException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

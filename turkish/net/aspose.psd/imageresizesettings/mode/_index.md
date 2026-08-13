@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageResizeSettings mülk. Enterpolasyon modunu alır veya ayarlar.
+title: "ImageResizeSettings.Mode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageResizeSettings özelliği. Ara değerleme modunu alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
 Enterpolasyon modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Enterpolasyon modunu alır veya ayarlar.
 public ResizeType Mode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mod.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* ad alanı [Aspose.PSD](../../imageresizesettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

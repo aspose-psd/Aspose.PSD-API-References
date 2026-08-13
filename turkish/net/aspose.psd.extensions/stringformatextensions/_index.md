@@ -1,28 +1,29 @@
 ---
-title: Class StringFormatExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.StringFormatExtensions sınıf. için uzantı yöntemlerini içerir.StringFormat sınıf.
+title: "Sınıf StringFormatExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.StringFormatExtensions sınıfı. StringFormat sınıfı için uzantı yöntemlerini içerir."
 type: docs
-weight: 1190
+weight: 1200
 url: /tr/net/aspose.psd.extensions/stringformatextensions/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions class
 
-için uzantı yöntemlerini içerir.[`StringFormat`](../../aspose.psd/stringformat/) sınıf.
+[`StringFormat`](../../aspose.psd/stringformat/) sınıfı için uzantı yöntemlerini içerir.
 
 ```csharp
 public static class StringFormatExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | dönüştürür[`StringFormat`](../../aspose.psd/stringformat/) içinStringFormat . |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | [`StringFormat`](../../aspose.psd/stringformat/) öğesini StringFormat'a dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

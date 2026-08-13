@@ -1,36 +1,37 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Akış kabını belirtilen konuma ekler.
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Akış konteynerini belirtilen konuma ekler."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
-Akış kabını belirtilen konuma ekler.
+Akış konteynerini belirtilen konuma ekler.
 
 ```csharp
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int32 | Eklenecek konum. |
-| stream | StreamContainer | Eklenecek akış kabı. |
-| disposeStream | Boolean | olarak ayarlanmışsa`doğru` akışı bertaraf eder. |
+| konum | Int32 | Eklenecek konum. |
+| stream | StreamContainer | Eklenecek akış konteyneri. |
+| disposeStream | Boolean | eğer `true` olarak ayarlanırsa akışı kapatır. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

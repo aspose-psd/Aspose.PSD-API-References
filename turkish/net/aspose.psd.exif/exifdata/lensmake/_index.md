@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensMake
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Lens üreticisini alır veya ayarlar.
+title: "ExifData.LensMake"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Lens üreticisini alır veya ayarlar"
 type: docs
 weight: 730
 url: /tr/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
-Lens üreticisini alır veya ayarlar.
+Lensin üreticisini alır veya ayarlar.
 
 ```csharp
 public string LensMake { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Lens üreticisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

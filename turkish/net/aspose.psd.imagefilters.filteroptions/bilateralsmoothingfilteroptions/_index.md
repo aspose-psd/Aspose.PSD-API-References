@@ -1,29 +1,30 @@
 ---
-title: Class BilateralSmoothingFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions sınıf. İki Taraflı Yumuşatma Filtresi Seçenekleri.
+title: "Sınıf BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions sınıfı. Bilateral Düzleştirme Filtresi Seçenekleri"
 type: docs
-weight: 4660
+weight: 5160
 url: /tr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions class
 
-İki Taraflı Yumuşatma Filtresi Seçenekleri.
+İkili Düzleştirme Filtre Seçenekleri.
 
 ```csharp
 public class BilateralSmoothingFilterOptions : FilterOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | Yeni bir örneğini başlatır.`BilateralSmoothingFilterOptions` sınıf. |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | Yeni bir örneğini başlatır.`BilateralSmoothingFilterOptions` sınıf. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | `BilateralSmoothingFilterOptions` sınıfının yeni bir örneğini başlatır. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | `BilateralSmoothingFilterOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | Renk faktörünü alır veya ayarlar. |
 | [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | Renk gücünü alır veya ayarlar. |
@@ -31,10 +32,10 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 | [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | Uzamsal faktörü alır veya ayarlar. |
 | [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/) { get; set; } | Uzamsal gücü alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

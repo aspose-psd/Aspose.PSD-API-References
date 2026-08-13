@@ -1,29 +1,30 @@
 ---
-title: Txt2Resource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: Txt2Resource yöntem. Belirtilen akış kapsayıcısını kaydeder.
+title: "Txt2Resource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Txt2Resource yöntemi. Belirtilen akış konteynerini kaydeder."
 type: docs
-weight: 90
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Save method
 
-Belirtilen akış kapsayıcısını kaydeder.
+Belirtilen akış konteynerini kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Txt2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

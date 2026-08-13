@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bu yazı tipinin bileşik olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "Font.IsComposite"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu fontun bileşik olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-Bu yazı tipinin bileşik olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu yazı tipinin birleşik olup olmadığını gösteren değeri alır veya ayarlar.
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu yazı tipi bileşik ise; aksi takdirde,`YANLIŞ` .
+`true` eğer bu font bileşik ise; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

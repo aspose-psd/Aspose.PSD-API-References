@@ -1,27 +1,28 @@
 ---
-title: XmpMimeType.XmpMimeType
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMimeType inşaatçı. Yeni bir örneğini başlatır.XmpMimeType sınıf.
+title: "XmpMimeType.XmpMimeType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMimeType yapıcı. Yeni bir XmpMimeType sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType constructor
 
-Yeni bir örneğini başlatır.[`XmpMimeType`](../) sınıf.
+Yeni bir [`XmpMimeType`](../) sınıfı örneğini başlatır.
 
 ```csharp
 public XmpMimeType(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMimeType](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

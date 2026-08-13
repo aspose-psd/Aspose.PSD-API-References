@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrackRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS alıcı hareketinin yönünü vermek için referansı alır veya ayarlar.
+title: "ExifData.GPSTrackRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS alıcısının hareket yönünü vermek için referansı alır veya ayarlar"
 type: docs
 weight: 660
 url: /tr/net/aspose.psd.exif/exifdata/gpstrackref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrackRef property
 
-GPS alıcı hareketinin yönünü vermek için referansı alır veya ayarlar.
+GPS alıcı hareket yönünü vermek için referansı alır veya ayarlar.
 
 ```csharp
 public string GPSTrackRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GPS alıcı hareketinin yönünü vermek için referans.
+GPS alıcısının hareket yönünü vermek için referans.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

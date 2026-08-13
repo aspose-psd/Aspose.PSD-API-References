@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.Scale
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Ölçeği alır veya ayarlar.
+title: "IPatternFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Ölçeği alır veya ayarlar"
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Scale property
 
 Ölçeği alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public double Scale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ölçek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.BaseInset
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap mülk. Sınır ile çizgi arasındaki mesafeyi alır veya ayarlar.
+title: "CustomLineCap.BaseInset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap özelliği. Kapak ile satır arasındaki mesafeyi alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/customlinecap/baseinset/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseInset property
 
-Sınır ile çizgi arasındaki mesafeyi alır veya ayarlar.
+Kap ile çizgi arasındaki mesafeyi alır veya ayarlar.
 
 ```csharp
 public float BaseInset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Başlığın başlangıcı ile çizginin sonu arasındaki mesafe.
+Kapak başlangıcı ile satır sonu arasındaki mesafe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

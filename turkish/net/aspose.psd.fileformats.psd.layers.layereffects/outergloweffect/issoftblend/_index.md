@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Görmez. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Kapatma durumunu gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-[Görmez]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Kapatma [knocks out] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru`eğer [nakavt] ise; aksi takdirde,`YANLIŞ` .
+`true` ise [knocks out]; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

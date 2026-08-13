@@ -1,28 +1,29 @@
 ---
-title: BezierShape.EndPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierShape mülk. Bitiş şekil noktasını alır.
+title: "BezierShape.EndPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierShape özelliği. Şeklin bitiş noktasını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
-Bitiş şekil noktasını alır.
+Şeklin son noktasını alır.
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bitiş şekli noktası.
+Şeklin bitiş noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../beziershape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

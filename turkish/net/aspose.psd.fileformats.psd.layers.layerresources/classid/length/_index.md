@@ -1,11 +1,12 @@
 ---
-title: ClassID.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: ClassID mülk. Sınıf kimliği uzunluğunu bayt cinsinden alır.
+title: "ClassID.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClassID özelliği. Sınıf kimliğinin uzunluğunu bayt olarak alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/length/
 ---
+{{< psd/tize >}}
 ## ClassID.Length property
 
 Sınıf kimliği uzunluğunu bayt cinsinden alır.
@@ -14,10 +15,10 @@ Sınıf kimliği uzunluğunu bayt cinsinden alır.
 public int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

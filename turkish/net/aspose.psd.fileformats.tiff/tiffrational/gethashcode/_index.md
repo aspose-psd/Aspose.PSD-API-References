@@ -1,27 +1,28 @@
 ---
-title: TiffRational.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffRational yöntem. Bu örnek için bir karma kod döndürür.
+title: "TiffRational.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffRational yöntemi. Bu örnek için bir karma kodu döndürür"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.tiff/tiffrational/gethashcode/
 ---
+{{< psd/tize >}}
 ## TiffRational.GetHashCode method
 
-Bu örnek için bir karma kod döndürür.
+Bu örnek için bir hash kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örnek için karma algoritmalarda ve karma tablo gibi veri yapılarında kullanıma uygun bir karma kodu.
+Bu örnek için bir karma kodu, karma algoritmaları ve karma tablo gibi veri yapılarında kullanılmaya uygundur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

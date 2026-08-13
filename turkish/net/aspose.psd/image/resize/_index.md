@@ -1,11 +1,12 @@
 ---
-title: Image.Resize
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Görüntüyü yeniden boyutlandırır.
+title: "Image.Resize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Görüntüyü yeniden boyutlandırır"
 type: docs
-weight: 190
+weight: 200
 url: /tr/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Görüntüyü yeniden boyutlandırır.
@@ -14,37 +15,37 @@ Görüntüyü yeniden boyutlandırır.
 public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 | newHeight | Int32 | Yeni yükseklik. |
 | resizeType | ResizeType | Yeniden boyutlandırma türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int) {#resize}
 
-Görüntüyü yeniden boyutlandırır. VarsayılanLeftTopToLeftTopkullanılır.
+Görüntüyü yeniden boyutlandırır. Varsayılan NearestNeighbourResample kullanılır.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 | newHeight | Int32 | Yeni yükseklik. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, PSD görüntüsünün nasıl yeniden boyutlandırılacağını ve Aspose.PSD ile elde ettiğimiz sonucu göstermektedir.
+Aşağıdaki örnek, PSD görüntüsünü nasıl yeniden boyutlandıracağımızı ve Aspose.PSD ile elde ettiğimiz sonucu gösterir
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -61,11 +62,11 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,17 +78,17 @@ Görüntüyü yeniden boyutlandırır.
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 | newHeight | Int32 | Yeni yükseklik. |
-| settings | ImageResizeSettings | Yeniden boyutlandırma ayarları. |
+| ayarlar | ImageResizeSettings | Yeniden boyutlandırma ayarları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

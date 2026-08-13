@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetUniformColorPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. Tek tip 256 renk paleti elde edin.
+title: "ColorPaletteHelper.GetUniformColorPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper yöntemi. Tekdüzen 256 renk paletini al"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/colorpalettehelper/getuniformcolorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetUniformColorPalette method
 
-Tek tip 256 renk paleti elde edin.
+Tekdüzen 256 renkli paleti al.
 
 ```csharp
 public static ColorPalette GetUniformColorPalette(RasterImage image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | RasterImage | Resim. |
+| görüntü | RasterImage | Görüntü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-[`ColorPalette`](../../colorpalette/) .
+Bu [`ColorPalette`](../../colorpalette/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

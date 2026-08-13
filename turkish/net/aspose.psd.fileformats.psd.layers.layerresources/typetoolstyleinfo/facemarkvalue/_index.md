@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.FaceMarkValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. Yüz işareti değerini alır veya ayarlar.
+title: "TypeToolStyleInfo.FaceMarkValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. Yüz işareti değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.FaceMarkValue property
 
 Yüz işareti değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Yüz işareti değerini alır veya ayarlar.
 public short FaceMarkValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yüz işareti değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

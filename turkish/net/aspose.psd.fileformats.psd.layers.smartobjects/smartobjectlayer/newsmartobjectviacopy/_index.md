@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.NewSmartObjectViaCopy
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectLayer yöntem. Bunu kopyalayarak yeni bir akıllı nesne katmanı oluşturur. Adobe Photoshop. Katman  Akıllı Nesneler  Kopyalama Yoluyla Yeni Akıllı Nesne işlevini yeniden üretir. ayrıca kopyalanır. Katıştırılmış görüntüyü paylaşmak istiyorsanız kullanınDuplicateLayer yöntem.
+title: "SmartObjectLayer.NewSmartObjectViaCopy"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectLayer yöntemi. Bu katmanı kopyalayarak yeni bir akıllı nesne katmanı oluşturur. Adobe Photoshop'un Katman → Akıllı Nesneler → Kopya ile Yeni Akıllı Nesne işlevini yeniden üretir. Yalnızca gömülü akıllı nesneler için etkin olduğunu, çünkü gömülü görüntünün de kopyalandığını unutmayın. Gömülü görüntüyü paylaşmak istiyorsanız DuplicateLayer yöntemini kullanın"
 type: docs
-weight: 120
+weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.NewSmartObjectViaCopy method
 
-Bunu kopyalayarak yeni bir akıllı nesne katmanı oluşturur. Adobe Photoshop�. 'Katman -&gt; Akıllı Nesneler -&gt; Kopyalama Yoluyla Yeni Akıllı Nesne' işlevini yeniden üretir. ayrıca kopyalanır. Katıştırılmış görüntüyü paylaşmak istiyorsanız kullanın[`DuplicateLayer`](../duplicatelayer/) yöntem.
+Bu katmanı kopyalayarak yeni bir akıllı nesne katmanı oluşturur. Adobe Photoshop'un `Layer -&gt; Smart Objects -&gt; New Smart Object via Copy` işlevini yeniden üretir. Yalnızca gömülü akıllı nesneler için etkin olduğunu, çünkü gömülü görüntünün de kopyalandığını unutmayın. Gömülü görüntüyü paylaşmak istiyorsanız [`DuplicateLayer`](../duplicatelayer/) yöntemini kullanın.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-klonlanmış[`SmartObjectLayer`](../) misal.
+Klonlanmış [`SmartObjectLayer`](../) örneği.
 
-### Örnekler
+## Örnekler
 
-Bu örnekler, akıllı nesne katmanlarının bir PSD görüntüsünde nasıl kopyalanacağını gösterir.
+Bu örnekler, bir PSD görüntüsünde akıllı nesne katmanlarını nasıl kopyalayacağınızı gösterir.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Bu örnekler, akıllı nesne katmanlarının bir PSD görüntüsünde nasıl kop
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Bu örnekler, akıllı nesne katmanlarının bir PSD görüntüsüne nasıl kopyalanacağını gösterir.
+// Bu örnekler, bir PSD görüntüsünde akıllı nesne katmanlarını nasıl kopyalayacağınızı gösterir.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Kopyalanacak katman numarası
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,17 +58,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Gömülü akıllı nesne görüntüsünü ters çevirelim (iç PSD görüntüsü için yalnızca ilk katmanını ters çeviriyoruz)
+            // Gömülü akıllı nesne görüntüsünü tersine çevirelim (iç içe bir PSD görüntüsü için yalnızca ilk katmanını tersine çeviririz)
             InvertImage(innerImage);
 
-            // Gömülü akıllı nesne görüntüsünü PSD katmanında değiştirelim
+            // PSD katmanındaki gömülü akıllı nesne görüntüsünü değiştirelim
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Çoğaltılan katman, gömülü görüntüsünü orijinal akıllı nesneyle paylaşır
-        // ve açıkça güncellenmesi gerekir, aksi takdirde işleme önbelleği değişmeden kalır.
-        // NewSmartObjectViaCopy tarafından oluşturulan yeni katmanın güncellendiğinden emin olmak için her akıllı nesneyi güncelliyoruz.
-        // gömülü görüntüyü başkalarıyla paylaşmaz.
+        // Kopyalanan katman, gömülü görüntüyü orijinal akıllı nesneyle paylaşır
+        // ve aksi takdirde render önbelleği değişmeden kalacağı için açıkça güncellenmelidir.
+        // Yeni katmanın NewSmartObjectViaCopy tarafından oluşturulduğundan emin olmak için her akıllı nesneyi güncelliyoruz
+        // gömülü görüntüyü diğerleriyle paylaşmaz.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -75,7 +76,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// PSD görüntüsü de dahil olmak üzere raster görüntüyü ters çevirir.
+// PSD görüntüsü dahil raster görüntüyü tersine çevirir.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -89,7 +90,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Raster görüntüyü ters çevirir.
+// Raster görüntüyü tersine çevirir.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -112,10 +113,10 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

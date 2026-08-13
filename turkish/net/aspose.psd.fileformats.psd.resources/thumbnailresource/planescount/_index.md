@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Uçak sayısını alır veya ayarlar.
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Düzlem sayısını alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-Uçak sayısını alır veya ayarlar.
+Düzlem sayısını alır veya ayarlar.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Küçük resim düzlemleri sayılır.
+Küçük resim düzlem sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

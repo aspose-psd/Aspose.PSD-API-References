@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleX
-second_title: Aspose.PSD for .NET API Referansı
-description: GridAndGuidesResouce mülk. Yatay ızgara döngüsünü alır veya ayarlar. Varsayılan 576. dir.
+title: "GridAndGuidesResouce.GridCycleX"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GridAndGuidesResouce özelliği. Yatay ızgara döngüsünü alır veya ayarlar. Varsayılan değer 576'dır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleX property
 
-Yatay ızgara döngüsünü alır veya ayarlar. Varsayılan 576. 'dir.
+Yatay ızgara döngüsünü alır veya ayarlar. Varsayılan değer 576'dir.
 
 ```csharp
 public int GridCycleX { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yatay ızgara döngüsü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GridAndGuidesResouce](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

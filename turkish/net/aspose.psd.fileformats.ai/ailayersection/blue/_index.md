@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Mavi renk bileşenini alır veya ayarlar.
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Mavi renk bileşenini alır veya ayarlar."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
 Mavi renk bileşenini alır veya ayarlar.
@@ -14,14 +15,14 @@ Mavi renk bileşenini alır veya ayarlar.
 public int Blue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mavi renk bileşeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

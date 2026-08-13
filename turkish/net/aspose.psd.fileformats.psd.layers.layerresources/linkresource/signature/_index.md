@@ -1,23 +1,24 @@
 ---
-title: LinkResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkResource mülk. PSD genel bağlantı kaynağı imzasını alır.
+title: "LinkResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkResource özelliği. PSD küresel bağlantı kaynağı imzasını alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/
 ---
+{{< psd/tize >}}
 ## LinkResource.Signature property
 
-PSD genel bağlantı kaynağı imzasını alır.
+PSD küresel bağlantı kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

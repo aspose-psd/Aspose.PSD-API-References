@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: SoCoResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "SoCoResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SoCoResource özelliği. Katman kaynağı uzunluğunu bayt olarak alır"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoCoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

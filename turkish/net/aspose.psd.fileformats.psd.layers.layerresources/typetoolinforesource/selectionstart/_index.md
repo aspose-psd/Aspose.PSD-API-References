@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionStart
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Başlangıç seçimini alır veya ayarlar.
+title: "TypeToolInfoResource.SelectionStart"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. seçim başlangıcını alır veya ayarlar."
 type: docs
-weight: 190
+weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionStart property
 
-Başlangıç seçimini alır veya ayarlar.
+seçim başlangıcını alır veya ayarlar.
 
 ```csharp
 public int SelectionStart { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Seçim başlangıcı.
+seçim başlangıcı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

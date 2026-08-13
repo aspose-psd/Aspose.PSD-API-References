@@ -1,28 +1,29 @@
 ---
-title: RawDataStructure.RawDataStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: RawDataStructure inşaatçı. Yeni bir örneğini başlatır.RawDataStructure sınıf.
+title: "RawDataStructure.RawDataStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RawDataStructure yapıcı. RawDataStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure constructor
 
-Yeni bir örneğini başlatır.[`RawDataStructure`](../) sınıf.
+[`RawDataStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public RawDataStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [RawDataStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

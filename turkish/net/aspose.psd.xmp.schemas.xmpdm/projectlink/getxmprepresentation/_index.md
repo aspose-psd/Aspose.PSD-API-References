@@ -1,33 +1,34 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: ProjectLink yöntem. XMP biçiminde dizge içerdiği değeri döndürür.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ProjectLink yöntemi. XMP formatında içerilen değeri string olarak döndürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-XMP biçiminde dizge içerdiği değeri döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-XMP biçiminde dizge içerdiği değeri döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | NotImplementedException |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ProjectLink](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

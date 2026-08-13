@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.OriginalFileName
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. Adobe Photoshop global bağlantı kaynağındaki veri kaynağının orijinal dosya adını alır.
+title: "LinkDataSource.OriginalFileName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. Adobe Photoshop global bağlantı kaynağındaki veri kaynağının orijinal dosya adını alır."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalFileName property
 
 Adobe® Photoshop® global bağlantı kaynağındaki veri kaynağının orijinal dosya adını alır.
@@ -14,20 +15,20 @@ Adobe® Photoshop® global bağlantı kaynağındaki veri kaynağının orijinal
 public string OriginalFileName { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-PSD formatında LnkE / Lnk2 kaynağındaki orijinal dosya adı.
+PSD formatı LnkE / Lnk2 kaynağındaki orijinal dosya adı.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | OriginalFileName özelliğine erişemezsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

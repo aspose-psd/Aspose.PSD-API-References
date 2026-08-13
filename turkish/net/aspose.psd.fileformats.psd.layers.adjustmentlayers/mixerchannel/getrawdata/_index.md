@@ -1,27 +1,28 @@
 ---
-title: MixerChannel.GetRawData
-second_title: Aspose.PSD for .NET API Referansı
-description: MixerChannel yöntem. Ham verileri alır.
+title: "MixerChannel.GetRawData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MixerChannel yöntemi. Ham veriyi alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/
 ---
+{{< psd/tize >}}
 ## MixerChannel.GetRawData method
 
-Ham verileri alır.
+Ham veriyi alır.
 
 ```csharp
 public byte[] GetRawData()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Ham bayt verileri
+Ham bayt verisi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixerChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

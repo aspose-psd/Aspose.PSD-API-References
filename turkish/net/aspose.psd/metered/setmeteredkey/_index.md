@@ -1,28 +1,29 @@
 ---
-title: Metered.SetMeteredKey
-second_title: Aspose.PSD for .NET API Referansı
-description: Metered yöntem. Tarifeli genel ve özel anahtarı ayarlar
+title: "Metered.SetMeteredKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Metered yöntemi. Ölçümlü genel ve özel anahtarı ayarlar. Uygulamayı başlattığınızda ölçümlü lisans satın alırsanız bu API normal olarak çağrılmalıdır, bu yeterlidir. Ancak tüketim verilerini yükleme sürekli başarısız olur ve 24 saati aşarsa lisans değerlendirme durumuna ayarlanır; böyle bir durumu önlemek için lisans durumunu düzenli olarak kontrol etmeli ve eğer değerlendirme durumundaysa bu API'yi tekrar çağırmalısınız"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd/metered/setmeteredkey/
 ---
+{{< psd/tize >}}
 ## Metered.SetMeteredKey method
 
-Tarifeli genel ve özel anahtarı ayarlar
+Ölçümlü genel ve özel anahtarı ayarlar. Ölçümlü lisans satın alırsanız, uygulamayı başlattığınızda bu API çağrılmalıdır, genellikle bu yeterlidir. Ancak, tüketim verileri yüklenemediği ve 24 saati aştığı sürece lisans değerlendirme durumuna ayarlanır; böyle bir durumu önlemek için lisans durumunu düzenli olarak kontrol etmelisiniz, eğer değerlendirme durumundaysa bu API'yi tekrar çağırın.
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| publicKey | String | Genel anahtar |
-| privateKey | String | Özel anahtar |
+| publicKey | String | genel anahtar |
+| privateKey | String | özel anahtar |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Metered](../)
-* ad alanı [Aspose.PSD](../../metered/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

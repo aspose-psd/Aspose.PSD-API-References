@@ -1,38 +1,39 @@
 ---
-title: IColorPalette.GetColor
-second_title: Aspose.PSD for .NET API Referansı
-description: IColorPalette yöntem. Palet rengini indekse göre alır.
+title: "IColorPalette.GetColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IColorPalette metodu. Palet rengini indeksle alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/icolorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## IColorPalette.GetColor method
 
-Palet rengini indekse göre alır.
+İndeks ile palet rengini alır.
 
 ```csharp
 public Color GetColor(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | Palet renk dizini. |
+| index | Int32 | Palet renk indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-tarafından belirtilen renk paleti girişi*index*.
+*index* tarafından belirtilen renk paleti girişi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | eğer renk paleti*index* belirtilen, palet girişleri aralığının dışında. |
+| ArgumentOutOfRangeException | eğer belirtilen renk paleti *index* palet girişleri aralığının dışındaysa. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* ad alanı [Aspose.PSD](../../icolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

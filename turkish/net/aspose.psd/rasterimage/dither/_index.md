@@ -1,54 +1,55 @@
 ---
-title: RasterImage.Dither
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Geçerli görüntüde renk taklidi gerçekleştirir.
+title: "RasterImage.Dither"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Geçerli görüntüde dithering uygular."
 type: docs
 weight: 250
 url: /tr/net/aspose.psd/rasterimage/dither/
 ---
+{{< psd/tize >}}
 ## Dither(DitheringMethod, int, IColorPalette) {#dither_1}
 
-Geçerli görüntüde renk taklidi gerçekleştirir.
+Mevcut görüntüde dithering uygular.
 
 ```csharp
 public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount, 
     IColorPalette customPalette)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Titreşim yöntemi. |
-| bitsCount | Int32 | Son bitler titreme için sayılır. |
-| customPalette | IColorPalette | Renk taklidi için özel palet. |
+| ditheringMethod | DitheringMethod | Dithering yöntemi. |
+| bitsCount | Int32 | Dithering için son bit sayısı. |
+| customPalette | IColorPalette | Dithering için özel palet. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dither(DitheringMethod, int) {#dither}
 
-Geçerli görüntüde renk taklidi gerçekleştirir.
+Mevcut görüntüde dithering uygular.
 
 ```csharp
 public void Dither(DitheringMethod ditheringMethod, int bitsCount)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Titreşim yöntemi. |
-| bitsCount | Int32 | Son bitler titreme için sayılır. |
+| ditheringMethod | DitheringMethod | Dithering yöntemi. |
+| bitsCount | Int32 | Dithering için son bit sayısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

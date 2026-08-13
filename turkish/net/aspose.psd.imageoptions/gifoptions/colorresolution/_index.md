@@ -1,11 +1,12 @@
 ---
-title: GifOptions.ColorResolution
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. GIF renk çözünürlüğünü alır veya ayarlar.
+title: "GifOptions.ColorResolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. GIF renk çözünürlüğünü alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/gifoptions/colorresolution/
 ---
+{{< psd/tize >}}
 ## GifOptions.ColorResolution property
 
 GIF renk çözünürlüğünü alır veya ayarlar.
@@ -14,18 +15,18 @@ GIF renk çözünürlüğünü alır veya ayarlar.
 public byte ColorResolution { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk çözünürlüğü.
 
-### Notlar
+## Açıklamalar
 
-Renk Çözünürlüğü - Orijinal görüntüde kullanılabilen birincil renk başına bit sayısı , eksi 1. Bu değer, grafikte gerçekte kullanılan renklerin sayısını değil, grafikteki renklerin seçildiği tüm paletin boyutunu temsil eder. Örneğin, bu alandaki değer 3 ise, orijinal görüntünün paletinde, görüntüyü oluşturmak için kullanılabilen birincil renk başına 4 bit bulunur. Bu değer, bütün paletindeki her renk kaynak makinede mevcut olmasa bile orijinal paletin zenginliğini gösterecek şekilde ayarlanmalıdır.
+Color Resolution - Orijinal görüntüde mevcut olan birincil renk başına bit sayısı, 1 eksik. Bu değer, grafikteki renklerin seçildiği tüm paletin boyutunu temsil eder, grafikte kullanılan gerçek renk sayısını değil. Örneğin, bu alandaki değer 3 ise, orijinal görüntünün paleti görüntüyü oluşturmak için birincil renk başına 4 bit içeriyordu. Bu değer, kaynak makinede tüm paletin her rengi mevcut olmasa bile, orijinal paletin zenginliğini göstermek için ayarlanmalıdır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

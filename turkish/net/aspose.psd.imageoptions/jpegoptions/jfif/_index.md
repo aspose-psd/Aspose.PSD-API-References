@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.Jfif
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. jfif. değerini alır veya ayarlar
+title: "JpegOptions.Jfif"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. jfif'i alır veya ayarlar"
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/jfif/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Jfif property
 
-jfif. değerini alır veya ayarlar
+JFIF'i alır veya ayarlar.
 
 ```csharp
 public JFIFData Jfif { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JFIFData](../../../aspose.psd.fileformats.jpeg/jfifdata/)
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

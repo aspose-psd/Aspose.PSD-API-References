@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfDocumentInfo mülk. Belgenin başlığını alır veya ayarlar.
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfDocumentInfo özelliği. Belgenin başlığını alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Title property
 
 Belgenin başlığını alır veya ayarlar.
@@ -14,10 +15,10 @@ Belgenin başlığını alır veya ayarlar.
 public string Title { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfDocumentInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

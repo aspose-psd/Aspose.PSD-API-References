@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTask yöntem. Tam geri arama temsilcisini ayarlar.
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTask yöntemi. Tamamlayıcı geri çağırma temsilcisini ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
-Tam geri arama temsilcisini ayarlar.
+Tamamlayıcı geri çağırma temsilcisini ayarlar.
 
 ```csharp
 public void SetCompleteCallback(CompleteCallback completeCallback)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| completeCallback | CompleteCallback | Tam geri arama. |
+| completeCallback | CompleteCallback | Tamamlayıcı geri çağırma. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

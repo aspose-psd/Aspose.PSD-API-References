@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsTransparencyProtected
-second_title: Aspose.PSD for .NET API Referansı
-description: LspfResource mülk. Bu örneğin şeffaflık korumalı olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "LspfResource.IsTransparencyProtected"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LspfResource özelliği. Bu örneğin şeffaflık korumalı olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsTransparencyProtected property
 
-Bu örneğin şeffaflık korumalı olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin şeffaflık korumalı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsTransparencyProtected { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek şeffaflık korumalı ise; aksi takdirde,`YANLIŞ` .
+`true` bu örnek şeffaflık korumalıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LspfResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

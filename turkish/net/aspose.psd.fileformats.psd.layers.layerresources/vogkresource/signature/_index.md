@@ -1,23 +1,24 @@
 ---
-title: VogkResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: VogkResource mülk. Katman kaynak imzasını alır.
+title: "VogkResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VogkResource özelliği. Katman kaynağı imzasını alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/signature/
 ---
+{{< psd/tize >}}
 ## VogkResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VogkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

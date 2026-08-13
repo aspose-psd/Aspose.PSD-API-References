@@ -1,29 +1,30 @@
 ---
-title: VstkResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource yöntem. Kaynağı belirtilen akış kapsayıcısına kaydeder.
+title: "VstkResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource yöntemi. Kaynağı belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 230
+weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/save/
 ---
+{{< psd/tize >}}
 ## VstkResource.Save method
 
-Kaynağı belirtilen akış kapsayıcısına kaydeder.
+Kaynağı belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

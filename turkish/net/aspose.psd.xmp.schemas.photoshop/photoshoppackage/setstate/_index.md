@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetState
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Durumu ayarlar.
+title: "PhotoshopPackage.SetState"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Durumu ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetState method
 
 Durumu ayarlar.
@@ -14,14 +15,14 @@ Durumu ayarlar.
 public void SetState(string state)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| state | String | Eyalet. |
+| durum | String | Durum. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

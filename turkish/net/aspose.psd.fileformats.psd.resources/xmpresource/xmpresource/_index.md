@@ -1,23 +1,24 @@
 ---
-title: XmpResource.XmpResource
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpResource inşaatçı. Default_Constructor
+title: "XmpResource.XmpResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpresource/
 ---
+{{< psd/tize >}}
 ## XmpResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public XmpResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

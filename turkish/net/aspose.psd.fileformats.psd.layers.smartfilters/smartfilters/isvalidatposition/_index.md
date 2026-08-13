@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsValidAtPosition
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilters mülk. Akıllı filtrenin konum durumunda geçerli olduğunu alır.
+title: "SmartFilters.IsValidAtPosition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilters özelliği. Akıllı filtrenin konumda geçerli durumunu alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsValidAtPosition property
 
-Akıllı filtrenin konum durumunda geçerli olduğunu alır.
+Akıllı filtrenin konumda geçerli olup olmadığını alır.
 
 ```csharp
 public bool IsValidAtPosition { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilters](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

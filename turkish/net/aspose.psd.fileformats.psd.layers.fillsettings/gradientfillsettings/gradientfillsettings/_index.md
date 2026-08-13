@@ -1,23 +1,24 @@
 ---
-title: GradientFillSettings.GradientFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings inşaatçı. Yeni bir örneğini başlatır.GradientFillSettings sınıf.
+title: "GradientFillSettings.GradientFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings constructor
 
-Yeni bir örneğini başlatır.[`GradientFillSettings`](../) sınıf.
+Varsayılan yapıcı.
 
 ```csharp
 public GradientFillSettings()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

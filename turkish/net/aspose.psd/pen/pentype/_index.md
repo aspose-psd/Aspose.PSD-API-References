@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen çizgilerin stilini alırPen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen çizgilerin stilini alır."
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-Bununla çizilen çizgilerin stilini alır[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen çizgilerin stilini alır.
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A`PenType` bununla çizilen çizgilerin stilini belirten numaralandırma[`Pen`](../).
+`PenType` adlandırması, bu [`Pen`](../) ile çizilen çizgilerin stilini belirtir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

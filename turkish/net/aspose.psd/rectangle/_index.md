@@ -1,74 +1,75 @@
 ---
-title: Struct Rectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Rectangle yapı. Bir dikdörtgenin konumunu ve boyutunu temsil eden dört tam sayıdan oluşan bir kümeyi depolar.
+title: "Yapı Rectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Rectangle yapısı. Bir dikdörtgenin konumunu ve boyutunu temsil eden dört tam sayı seti saklar."
 type: docs
-weight: 5340
+weight: 5870
 url: /tr/net/aspose.psd/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle structure
 
-Bir dikdörtgenin konumunu ve boyutunu temsil eden dört tam sayıdan oluşan bir kümeyi depolar.
+Bir dikdörtgenin konumunu ve boyutunu temsil eden dört tamsayı setini depolar.
 
 ```csharp
 public struct Rectangle
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Rectangle](rectangle/#constructor)(Point, Size) | Yeni bir örneğini başlatır.`Rectangle` belirtilen konum ve boyuta sahip yapı. |
-| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | Yeni bir örneğini başlatır.`Rectangle` belirtilen konum ve boyuta sahip yapı. |
+| [Rectangle](rectangle/#constructor)(Point, Size) | Belirtilen konum ve boyutla `Rectangle` yapısının yeni bir örneğini başlatır. |
+| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | Belirtilen konum ve boyutla `Rectangle` yapısının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | Yeni bir örneğini alır`Rectangle` sahip olan yapı[`X`](./x/) ,[`Y`](./y/) ,[`Width`](./width/) Ve[`Height`](./height/) değerler sıfıra ayarlandı. |
-| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | Toplamı olan y koordinatını alır veya ayarlar.[`Y`](./y/) Ve[`Height`](./height/) bunun özellik değerleri`Rectangle`yapı. |
-| [Height](../../aspose.psd/rectangle/height/) { get; set; } | Bunun yüksekliğini alır veya ayarlar`Rectangle`yapı. |
-| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | Bunun tüm sayısal özelliklerinin olup olmadığını gösteren bir değer alır.`Rectangle` sıfır. değerlerine sahip |
-| [Left](../../aspose.psd/rectangle/left/) { get; set; } | Bunun sol kenarının x koordinatını alır veya ayarlar`Rectangle`yapı. |
-| [Location](../../aspose.psd/rectangle/location/) { get; set; } | Bunun sol üst köşesinin koordinatlarını alır veya ayarlar.`Rectangle`yapı. |
-| [Right](../../aspose.psd/rectangle/right/) { get; set; } | Toplamı olan x koordinatını alır veya ayarlar.[`X`](./x/) Ve[`Width`](./width/) bunun özellik değerleri`Rectangle`yapı. |
-| [Size](../../aspose.psd/rectangle/size/) { get; set; } | Bunun boyutunu alır veya ayarlar`Rectangle` . |
-| [Top](../../aspose.psd/rectangle/top/) { get; set; } | Bunun üst kenarının y koordinatını alır veya ayarlar`Rectangle`yapı. |
-| [Width](../../aspose.psd/rectangle/width/) { get; set; } | Bunun genişliğini alır veya ayarlar`Rectangle`yapı. |
-| [X](../../aspose.psd/rectangle/x/) { get; set; } | Bunun sol üst köşesinin x koordinatını alır veya ayarlar`Rectangle`yapı. |
-| [Y](../../aspose.psd/rectangle/y/) { get; set; } | Bunun sol üst köşesinin y koordinatını alır veya ayarlar`Rectangle`yapı. |
+| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | Sıfır olarak ayarlanmış [`X`](./x/), [`Y`](./y/), [`Width`](./width/) ve [`Height`](./height/) değerlerine sahip `Rectangle` yapısının yeni bir örneğini alır. |
+| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | Bu `Rectangle` yapısının [`Y`](./y/) ve [`Height`](./height/) özellik değerlerinin toplamı olan y koordinatını alır veya ayarlar. |
+| [Height](../../aspose.psd/rectangle/height/) { get; set; } | Bu `Rectangle` yapısının yüksekliğini alır veya ayarlar. |
+| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | Bu `Rectangle` nesnesinin tüm sayısal özelliklerinin sıfır değerine sahip olup olmadığını gösteren bir değeri alır. |
+| [Left](../../aspose.psd/rectangle/left/) { get; set; } | Bu `Rectangle` yapısının sol kenarının x koordinatını alır veya ayarlar. |
+| [Location](../../aspose.psd/rectangle/location/) { get; set; } | Bu `Rectangle` yapısının sol üst köşesinin koordinatlarını alır veya ayarlar. |
+| [Right](../../aspose.psd/rectangle/right/) { get; set; } | Bu `Rectangle` yapısının [`X`](./x/) ve [`Width`](./width/) özellik değerlerinin toplamı olan x koordinatını alır veya ayarlar. |
+| [Size](../../aspose.psd/rectangle/size/) { get; set; } | Bu `Rectangle` nesnesinin boyutunu alır veya ayarlar. |
+| [Top](../../aspose.psd/rectangle/top/) { get; set; } | Bu `Rectangle` yapısının üst kenarının y koordinatını alır veya ayarlar. |
+| [Width](../../aspose.psd/rectangle/width/) { get; set; } | Bu `Rectangle` yapısının genişliğini alır veya ayarlar. |
+| [X](../../aspose.psd/rectangle/x/) { get; set; } | Bu `Rectangle` yapısının sol üst köşesinin x koordinatını alır veya ayarlar. |
+| [Y](../../aspose.psd/rectangle/y/) { get; set; } | Bu `Rectangle` yapısının sol üst köşesinin y koordinatını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | Belirtileni dönüştürür[`RectangleF`](../rectanglef/) bir yapı`Rectangle` yuvarlayarak yapı[`RectangleF`](../rectanglef/) değerleri sonraki daha yüksek tamsayı değerlerine. |
-| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | oluşturur`Rectangle` belirtilen kenar konumlarına sahip yapı. |
-| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | Yeni bir tane oluşturur`Rectangle` belirtilen iki noktadan Oluşturulan iki dikey`Rectangle` geçene eşit olacak*point1* Ve*point2* . Bunlar tipik olarak zıt köşeler olacaktır. |
-| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | Belirtilenin şişirilmiş bir kopyasını oluşturur ve döndürür`Rectangle`yapı. Kopya belirtilen miktarda şişirilir. Orijinal`Rectangle` yapı değiştirilmeden kalır. |
-| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | Üçte birini döndürür`Rectangle` diğer iki kesişimi temsil eden yapı`Rectangle` yapılar. Kavşak yoksa boş`Rectangle` döndürülür. |
-| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | Belirtileni dönüştürür[`RectangleF`](../rectanglef/) bir`Rectangle` yuvarlayarak[`RectangleF`](../rectanglef/) değerleri en yakın tam sayı değerlerine. |
-| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | Belirtileni dönüştürür[`RectangleF`](../rectanglef/) bir`Rectangle` keserek[`RectangleF`](../rectanglef/) değerler. |
-| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | Bir alır`Rectangle` ikisinin birleşimini içeren yapı`Rectangle` yapılar. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | Belirtilen noktanın bunun içinde olup olmadığını belirler.`Rectangle`yapı. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | ile temsil edilen dikdörtgen bölgenin olup olmadığını belirler.*rect* tamamen bunun içinde yer alır`Rectangle`yapı. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | Belirtilen noktanın bunun içinde olup olmadığını belirler.`Rectangle`yapı. |
-| override [Equals](../../aspose.psd/rectangle/equals/)(object) | olup olmadığını test eder*obj* bir`Rectangle`bununla aynı konum ve büyüklükteki yapı`Rectangle`yapı. |
-| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | Bunun için hash kodunu döndürür`Rectangle`yapı. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | Bunu şişirir`Rectangle`belirtilen miktarda. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | Bunu şişirir`Rectangle`belirtilen miktarda. |
-| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | Bunu değiştirir`Rectangle` kendisinin ve belirtilenin kesişimi ile`Rectangle` . |
-| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | Bu dikdörtgenin şununla kesişip kesişmediğini belirler:*rect* . |
-| [Normalize](../../aspose.psd/rectangle/normalize/)() | Dikdörtgenin genişliğini ve yüksekliğini pozitif, sol sağdan az ve üst kısım alttan küçük yaparak normalleştirir. |
+| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | Belirtilen [`RectangleF`](../rectanglef/) yapısını, [`RectangleF`](../rectanglef/) değerlerini bir sonraki üst tam sayıya yuvarlayarak bir `Rectangle` yapısına dönüştürür. |
+| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | Belirtilen kenar konumlarıyla bir `Rectangle` yapısı oluşturur. |
+| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | Belirtilen iki noktadan yeni bir `Rectangle` oluşturur. Oluşturulan `Rectangle`'ın iki kenarı, verilen *point1* ve *point2* değerlerine eşit olur. Bunlar genellikle karşıt köşeler olur. |
+| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | Belirtilen `Rectangle` yapısının şişirilmiş bir kopyasını oluşturur ve döndürür. Kopya, belirtilen miktarda şişirilir. Orijinal `Rectangle` yapısı değişmeden kalır. |
+| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | İki diğer `Rectangle` yapısının kesişimini temsil eden üçüncü bir `Rectangle` yapısı döndürür. Kesişme yoksa, boş bir `Rectangle` döndürülür. |
+| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | Belirtilen [`RectangleF`](../rectanglef/) değerlerini en yakın tam sayıya yuvarlayarak bir `Rectangle`'a dönüştürür. |
+| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | Belirtilen [`RectangleF`](../rectanglef/) değerlerini kırparak bir `Rectangle`'a dönüştürür. |
+| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | İki `Rectangle` yapısının birleşimini içeren bir `Rectangle` yapısı alır. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | Belirtilen noktanın bu `Rectangle` yapısı içinde olup olmadığını belirler. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | *rect* tarafından temsil edilen dikdörtgen bölgenin tamamen bu `Rectangle` yapısı içinde olup olmadığını belirler. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | Belirtilen noktanın bu `Rectangle` yapısı içinde olup olmadığını belirler. |
+| override [Equals](../../aspose.psd/rectangle/equals/)(object) | *obj*'nin bu `Rectangle` yapısı ile aynı konuma ve boyuta sahip bir `Rectangle` yapısı olup olmadığını test eder. |
+| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | Bu `Rectangle` yapısının hash kodunu döndürür. |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | Bu `Rectangle`'ı belirtilen miktarda şişirir. |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | Bu `Rectangle`'ı belirtilen miktarda şişirir. |
+| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | Bu `Rectangle`'ı, kendisi ile belirtilen `Rectangle`'ın kesişimiyle değiştirir. |
+| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | Bu dikdörtgenin *rect* ile kesişip kesişmediğini belirler. |
+| [Normalize](../../aspose.psd/rectangle/normalize/)() | Dikdörtgeni genişliğini ve yüksekliğini pozitif yaparak, solun sağdan, üstün alttan küçük olmasını sağlayarak normalleştirir. |
 | [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | Bu dikdörtgenin konumunu belirtilen miktarda ayarlar. |
 | [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | Bu dikdörtgenin konumunu belirtilen miktarda ayarlar. |
-| override [ToString](../../aspose.psd/rectangle/tostring/)() | Bunun özniteliklerini dönüştürür`Rectangle` okunabilir bir dizeye. |
-| [operator ==](../../aspose.psd/rectangle/op_equality/) | İki olup olmadığını test eder`Rectangle` yapılar eşit konum ve boyuta sahiptir. |
-| [operator !=](../../aspose.psd/rectangle/op_inequality/) | İki olup olmadığını test eder`Rectangle` yapılar konum veya boyut bakımından farklılık gösterir. |
+| override [ToString](../../aspose.psd/rectangle/tostring/)() | Bu `Rectangle`'ın özelliklerini insan tarafından okunabilir bir dizeye dönüştürür. |
+| [operator ==](../../aspose.psd/rectangle/op_equality/) | İki `Rectangle` yapısının aynı konuma ve boyuta sahip olup olmadığını test eder. |
+| [operator !=](../../aspose.psd/rectangle/op_inequality/) | İki `Rectangle` yapısının konum veya boyut açısından farklı olup olmadığını test eder. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

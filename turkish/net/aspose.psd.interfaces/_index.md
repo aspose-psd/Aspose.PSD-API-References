@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Tiff dosya formatı işlemeyi yönetir.
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, Tiff dosya formatı işleme işlemlerini yönetir"
 type: docs
-weight: 440
+weight: 480
 url: /tr/net/aspose.psd.interfaces/
 ---
-Ad alanı, Tiff dosya formatı işlemeyi yönetir.
+{{< psd/tize >}}
+Bu ad alanı, TIFF dosya formatı işleme işlemlerini yönetir.
 
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | Gerçek sayılarla (inç cinsinden) ifade edilen Boyutlu nesneyi temsil eder. |
+| [IObjectWithSizeF](./iobjectwithsizef/) | Gerçek sayılar (inç) cinsinden ifade edilen Size özelliğine sahip nesneyi temsil eder. |
 
 

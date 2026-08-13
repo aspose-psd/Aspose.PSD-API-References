@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Oluşturulan akış EXIF verilerinin büyük endian olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Akıştan oluşturulan EXIF verisinin büyük endian olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 690
 url: /tr/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-Oluşturulan akış EXIF verilerinin büyük endian olup olmadığını gösteren bir değer alır veya ayarlar.
+Akıştan oluşturulan EXIF verisinin büyük endian olup olmadığını gösteren değeri alır veya ayarlar.
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` oluşturulan akış EXIF verileri büyük endian ise; aksi takdirde,`YANLIŞ` .
+`true` eğer akıştan oluşturulan EXIF verisi büyük endian ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

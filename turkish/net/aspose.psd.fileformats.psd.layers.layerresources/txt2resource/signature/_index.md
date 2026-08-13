@@ -1,23 +1,24 @@
 ---
-title: Txt2Resource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: Txt2Resource mülk. Katman kaynak imzasını alır.
+title: "Txt2Resource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Txt2Resource özelliği. Katman kaynağı imzasını alır."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Txt2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

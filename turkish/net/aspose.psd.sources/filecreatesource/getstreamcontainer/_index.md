@@ -1,11 +1,12 @@
 ---
-title: FileCreateSource.GetStreamContainer
-second_title: Aspose.PSD for .NET API Referansı
-description: FileCreateSource yöntem. Akış kapsayıcısını alır.
+title: "FileCreateSource.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileCreateSource yöntemi. Akış konteynerini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.sources/filecreatesource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.GetStreamContainer method
 
 Akış kapsayıcısını alır.
@@ -14,19 +15,19 @@ Akış kapsayıcısını alır.
 public override StreamContainer GetStreamContainer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-akış kabı.
+akış kapsayıcısı.
 
-### Notlar
+## Açıklamalar
 
-Dikkatle kullanın. Aldıktan sonra akış kapsayıcısını atmanız gerekecektir.
+Dikkatli kullanın. Alımdan sonra akış kapsayıcısını atmanız gerekecek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileCreateSource](../)
-* ad alanı [Aspose.PSD.Sources](../../filecreatesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Write
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Belirtilen tüm baytları akışa yazar.
+title: "SplitStreamContainer.Write"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Belirtilen tüm baytları akışa yazar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/splitstreamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
 Belirtilen tüm baytları akışa yazar.
@@ -14,36 +15,36 @@ Belirtilen tüm baytları akışa yazar.
 public override void Write(byte[] bytes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| bytes | Byte[] | Yazılacak bayt sayısı. |
+| bytes | Byte[] | Yazılacak baytlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[], int, int) {#write_1}
 
-Geçerli akışa bir bayt dizisi yazar ve bu akış içindeki geçerli konumu yazılan bayt sayısı kadar ilerletir.
+Bir bayt dizisini geçerli akışa yazar ve bu akış içindeki mevcut konumu yazılan bayt sayısı kadar ilerletir.
 
 ```csharp
 public override void Write(byte[] buffer, int offset, int count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| buffer | Byte[] | Bir bayt dizisi. Bu yöntem kopyalar*count* gelen bayt*buffer* mevcut akışa. |
-| offset | Int32 | Sıfır tabanlı bayt ofseti*buffer*geçerli akışa bayt kopyalamaya başlamak için. |
-| count | Int32 | Geçerli akışa yazılacak bayt sayısı. |
+| arabellek | Byte[] | Bayt dizisi. Bu yöntem *count* baytı *buffer*'dan geçerli akışa kopyalar. |
+| offset | Int32 | Sıfır tabanlı bayt ofseti *buffer* içinde, baytları geçerli akışa kopyalamaya başlanacak yer. |
+| sayı | Int32 | Geçerli akışa yazılacak bayt sayısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

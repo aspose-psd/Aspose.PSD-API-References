@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Kategoriyi ayarlar.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Kategoriyi ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 Kategoriyi ayarlar.
@@ -14,20 +15,20 @@ Kategoriyi ayarlar.
 public void SetCategory(string category)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| category | String | Kategori. |
+| kategori | String | Kategori. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | kategori;Kategori 3 karakterle sınırlıdır |
+| ArgumentOutOfRangeException | category;Kategori 3 karakterle sınırlıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

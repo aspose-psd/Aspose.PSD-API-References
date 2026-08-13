@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yposition
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. y konumunu alır veya ayarlar.
+title: "TiffOptions.Yposition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. y konumunu alır veya ayarlar"
 type: docs
-weight: 680
+weight: 690
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/yposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yposition property
 
 y konumunu alır veya ayarlar.
@@ -14,15 +15,15 @@ y konumunu alır veya ayarlar.
 public TiffRational Yposition { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 y konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

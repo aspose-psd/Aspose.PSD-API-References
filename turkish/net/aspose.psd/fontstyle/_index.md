@@ -1,11 +1,12 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FontStyle Sıralama. Metne uygulanan stil bilgilerini belirtir.
+title: "Enum FontStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FontStyle enum. Metne uygulanan stil bilgilerini belirtir"
 type: docs
-weight: 4300
+weight: 4800
 url: /tr/net/aspose.psd/fontstyle/
 ---
+{{< psd/tize >}}
 ## FontStyle enumeration
 
 Metne uygulanan stil bilgilerini belirtir.
@@ -15,19 +16,19 @@ Metne uygulanan stil bilgilerini belirtir.
 public enum FontStyle
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Regular | `0` | Normal metin. |
 | Bold | `1` | Kalın metin. |
 | Italic | `2` | İtalik metin. |
 | Underline | `4` | Altı çizili metin. |
-| Strikeout | `8` | Ortası çizgili metin. |
+| Strikeout | `8` | Ortasından çizgi geçen metin. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

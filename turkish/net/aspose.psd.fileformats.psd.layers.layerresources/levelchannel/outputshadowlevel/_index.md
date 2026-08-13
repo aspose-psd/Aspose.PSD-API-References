@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputShadowLevel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevelChannel mülk. Çıktı gölge seviyesini alır veya ayarlar.
+title: "LevelChannel.OutputShadowLevel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevelChannel özelliği. Çıkış gölge seviyesini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputShadowLevel property
 
-Çıktı gölge seviyesini alır veya ayarlar.
+Çıkış gölge seviyesini alır veya ayarlar.
 
 ```csharp
 public short OutputShadowLevel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çıktı gölge düzeyi.
+Çıktı gölge seviyesi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Çıkış Gölge Seviyesi yalnızca 0 ila " + aralığında ayarlanabilir (this.OutputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Output Shadow Level sadece 0 ile " + (this.OutputHighlightLevel - 2) arasında ayarlanabilir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

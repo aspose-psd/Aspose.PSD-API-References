@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftBottom
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape mülk. Sol alttaki dikdörtgen noktasını alır.
+title: "RectangleProjectedShape.LeftBottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape özelliği. Sol alt dikdörtgen noktasını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/leftbottom/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftBottom property
 
-Sol alttaki dikdörtgen noktasını alır.
+Sol alt dikdörtgen noktasını alır.
 
 ```csharp
 public PointF LeftBottom { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sol alttaki dikdörtgen noktası.
+Sol alt dikdörtgen noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

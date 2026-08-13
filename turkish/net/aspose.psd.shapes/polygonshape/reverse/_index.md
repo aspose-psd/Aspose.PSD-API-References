@@ -1,23 +1,24 @@
 ---
-title: PolygonShape.Reverse
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape yöntem. Bu şekil için noktaların sırasını tersine çevirir.
+title: "PolygonShape.Reverse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape yöntemi. Bu şeklin nokta sırasını tersine çevirir"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.shapes/polygonshape/reverse/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Reverse method
 
-Bu şekil için noktaların sırasını tersine çevirir.
+Bu şekil için nokta sırasını tersine çevirir.
 
 ```csharp
 public void Reverse()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

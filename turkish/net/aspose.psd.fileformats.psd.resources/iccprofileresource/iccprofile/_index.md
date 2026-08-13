@@ -1,11 +1,12 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Aspose.PSD for .NET API Referansı
-description: IccProfileResource mülk. ICC profilini alır veya ayarlar.
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IccProfileResource özelliği. ICC profilini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
 ICC profilini alır veya ayarlar.
@@ -14,14 +15,14 @@ ICC profilini alır veya ayarlar.
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 ICC profili.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IccProfileResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

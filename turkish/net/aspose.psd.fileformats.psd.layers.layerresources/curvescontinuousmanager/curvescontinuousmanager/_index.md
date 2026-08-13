@@ -1,27 +1,28 @@
 ---
-title: CurvesContinuousManager.CurvesContinuousManager
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesContinuousManager inşaatçı. Yeni bir örneğini başlatır.CurvesContinuousManager sınıf.
+title: "CurvesContinuousManager.CurvesContinuousManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesContinuousManager yapıcı. CurvesContinuousManager sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager constructor
 
-Yeni bir örneğini başlatır.[`CurvesContinuousManager`](../) sınıf.
+[`CurvesContinuousManager`](../) sınıfının yeni bir örneğini başlatır
 
 ```csharp
 public CurvesContinuousManager(int maxChannelCount)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | maxChannelCount | Int32 | Maksimum kanal sayısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesContinuousManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

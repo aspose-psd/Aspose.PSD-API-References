@@ -1,36 +1,37 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.TiffOptionsError Sıralama. Tiff seçenekleri hata kodları.
+title: "Enum TiffOptionsError"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.TiffOptionsError enum. tiff seçenekleri hata kodları"
 type: docs
-weight: 4950
+weight: 5470
 url: /tr/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
-Tiff seçenekleri hata kodları.
+tiff seçenekleri hata kodları.
 
 ```csharp
 public enum TiffOptionsError
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | NoError | `0` | Hata kodu yok. |
-| NoColorMap | `1` | Renk haritası tanımlı değil. |
-| ColorMapLengthInvalid | `2` | Renkli harita uzunluğu geçersiz. |
-| CompressionSppMismatch | `3` | Sıkıştırma, piksel sayısı başına örnek sayısıyla eşleşmiyor. |
+| NoColorMap | `1` | Renk haritası tanımlanmamış. |
+| ColorMapLengthInvalid | `2` | Renk haritası uzunluğu geçersiz. |
+| CompressionSppMismatch | `3` | Sıkıştırma, piksel başına örnek sayısı ile eşleşmiyor. |
 | PhotometricCompressionMismatch | `4` | Sıkıştırma, fotometrik ayarlarla eşleşmiyor. |
-| PhotometricSppMismatch | `5` | Fotometrik, piksel sayısı başına örneklerle eşleşmiyor. |
+| PhotometricSppMismatch | `5` | Fotometrik, piksel başına örnek sayısı ile eşleşmiyor. |
 | NotSupportedAlphaStorage | `6` | Alfa depolama desteklenmiyor. |
-| PhotometricBitsPerSampleMismatch | `7` | Numune başına fotometrik bitler geçersiz |
-| Baseline6OptionsMismatch | `8` | Belirtilen TIFF seçenekleri parametreleri, TIFF Baseline 6.0 standardına uygun değil |
+| PhotometricBitsPerSampleMismatch | `7` | Fotometrik örnek başına bit sayısı geçersiz. |
+| Baseline6OptionsMismatch | `8` | Belirtilen TIFF seçenekleri parametreleri TIFF Baseline 6.0 standardına uymuyor. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

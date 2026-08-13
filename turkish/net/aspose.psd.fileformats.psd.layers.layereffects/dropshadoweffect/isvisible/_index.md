@@ -1,24 +1,25 @@
 ---
-title: DropShadowEffect.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+title: "DropShadowEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Bu örneğin görünür olup olmadığını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.IsVisible property
 
-Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek görünüyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek görünürse; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, DropShadowEffect'in Opacity özelliğinin kullanımını gösterir.
 
@@ -37,20 +38,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Opaklık = 20 ile Örnek
+    // Opacity = 20 ile örnek
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Opaklık = 20 ile Örnek0
+    // Opacity = 200 ile örnek
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

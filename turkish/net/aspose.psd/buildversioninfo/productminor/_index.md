@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ProductMinor
-second_title: Aspose.PSD for .NET API Referansı
-description: BuildVersionInfo alan. Küçük ürün sürümü.
+title: "BuildVersionInfo.ProductMinor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BuildVersionInfo alanı. Ürünün alt sürümü"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/buildversioninfo/productminor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMinor field
 
-Küçük ürün sürümü.
+Alt ürün sürümü.
 
 ```csharp
 public static readonly int ProductMinor;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BuildVersionInfo](../)
-* ad alanı [Aspose.PSD](../../buildversioninfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

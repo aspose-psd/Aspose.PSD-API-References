@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineCapWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur çizgisi uç genişliğini alır veya ayarlar.
+title: "VstkResource.StrokeStyleLineCapWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Çizgi uç genişliğini alır veya ayarlar"
 type: docs
-weight: 120
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapWidth property
 
-Kontur çizgisi uç genişliğini alır veya ayarlar.
+Stroke satır ucu genişliğini alır veya ayarlar.
 
 ```csharp
 public double StrokeStyleLineCapWidth { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

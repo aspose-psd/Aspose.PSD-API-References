@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage yöntem. Tanımlayıcıyı ayarlar.
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yöntemi. Tanımlayıcıyı ayarlar"
 type: docs
-weight: 50
+weight: 70
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
 Tanımlayıcıyı ayarlar.
@@ -14,14 +15,14 @@ Tanımlayıcıyı ayarlar.
 public void SetIdentifier(string[] idenfifier)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| idenfifier | String[] | tanımlayıcı. |
+| tanımlayıcı | String[] | Tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

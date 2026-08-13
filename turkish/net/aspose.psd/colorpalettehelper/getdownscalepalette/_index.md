@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetDownscalePalette
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. İlk görüntü renk değerlerinin üst bitlerinden oluşan 256 renk paleti elde edin.
+title: "ColorPaletteHelper.GetDownscalePalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper yöntemi. İlk görüntü renk değerlerinin üst bitlerinden oluşan 256 renk paletini al"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/colorpalettehelper/getdownscalepalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetDownscalePalette method
 
-İlk görüntü renk değerlerinin üst bitlerinden oluşan 256 renk paleti elde edin.
+İlk görüntü renk değerlerinin üst bitlerinden oluşan 256 renkli paleti al.
 
 ```csharp
 public static ColorPalette GetDownscalePalette(RasterImage image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | RasterImage | Resim. |
+| görüntü | RasterImage | Görüntü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-[`ColorPalette`](../../colorpalette/) .
+Bu [`ColorPalette`](../../colorpalette/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

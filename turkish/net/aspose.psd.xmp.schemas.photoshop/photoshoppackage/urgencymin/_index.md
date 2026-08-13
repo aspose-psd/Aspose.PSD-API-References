@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage alan. Aciliyet min değeri.
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage alanı. Aciliyet minimum değeri"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
-Aciliyet min değeri.
+Aciliyet minimum değeri.
 
 ```csharp
 public const int UrgencyMin;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

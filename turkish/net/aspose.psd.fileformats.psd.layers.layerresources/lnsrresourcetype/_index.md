@@ -1,32 +1,33 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType Sıralama. Olası Lnsr Kaynak Türleri Bulundu
+title: "Enum LnsrResourceType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType enum. Olası Lnsr Kaynak Türleri keşfedildi."
 type: docs
-weight: 2760
+weight: 3070
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-Olası Lnsr Kaynak Türleri Bulundu
+Olası Lnsr Kaynak Türleri Keşfedildi
 
 ```csharp
 public enum LnsrResourceType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Rend | `0` | text için parçalama |
-| Cont | `1` | Örnek için dolgu katmanının devamı |
-| Bgnd | `2` | Arka Plan için Arka Plan Layer |
-| Layr | `3` | Normal görüntü için katman layer |
-| Unknown | `4` | Bilinmeyen, enum 'yi tanımlamadığımız durumlar içindir. |
+| Rend | `0` | Metin için rend |
+| Cont | `1` | Örneğin doldurma katmanı için cont |
+| Bgnd | `2` | Arka plan katmanı için Bgnd |
+| Layr | `3` | Normal görüntü katmanı için layr |
+| Unknown | `4` | Bilinmeyen, enum açıklamadığımız durumlar içindir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

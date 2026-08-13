@@ -1,51 +1,52 @@
 ---
-title: Class SoCoResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource sınıf. Class SoCoResource. Bu kaynak Renk Dolgu Katmanları hakkında bilgi içerir.
+title: "Sınıf SoCoResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource sınıfı. Sınıf SoCoResource. Bu kaynak Renk Doldurma Katmanları hakkında bilgi içerir"
 type: docs
-weight: 3010
+weight: 3360
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Class SoCoResource. Bu kaynak, Renk Dolgu Katmanları hakkında bilgi içerir.
+SoCoResource sınıfı. Bu kaynak Renk Doldurma Katmanları hakkında bilgi içerir.
 
 ```csharp
 public class SoCoResource : FillLayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SoCoResource](socoresource/)() | Yeni bir örneğini başlatır.`SoCoResource` sınıf. |
+| [SoCoResource](socoresource/)() | `SoCoResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | RGB rengini alır . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Katman kaynak imzasını alır. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | RGB rengini alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, SoCoResource'u (Renk Dolgu Katmanı için Katman Kaynağı) nasıl düzenlediğinizi göstermektedir.
+Aşağıdaki örnek, SoCoResource'ı (Renk Doldurma Katmanı için Katman Kaynağı) nasıl düzenleyeceğinizi gösterir
 
 ```csharp
 [C#]
@@ -53,20 +54,20 @@ Aşağıdaki örnek, SoCoResource'u (Renk Dolgu Katmanı için Katman Kaynağı)
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // FillLayer'ın Bulunması
+        // FillLayer bulunması
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Katman Kaynak Listesinde SoCoResource'un Bulunması
+                // Katman Kaynak Listesinde SoCoResource bulunması
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // SoCoResource Color özelliğinin ayarlanması
+                    // SoCoResource Renk özelliğini ayarlama
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -92,11 +93,11 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

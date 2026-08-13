@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. Bunun inç başına piksel cinsinden dikey çözünürlüğünü alır veya ayarlarRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Bu RasterImage'ın inç başına piksel cinsinden dikey çözünürlüğünü alır veya ayarlar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-Bunun inç başına piksel cinsinden dikey çözünürlüğünü alır veya ayarlar[`RasterImage`](../../../aspose.psd/rasterimage/) .
+Bu [`RasterImage`](../../../aspose.psd/rasterimage/) için inç başına piksel cinsinden dikey çözünürlüğü alır veya ayarlar.
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnekte alfa varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek alfa içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

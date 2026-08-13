@@ -1,36 +1,37 @@
 ---
-title: LayerHashCalculator.LayerHashCalculator
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerHashCalculator inşaatçı. Yeni bir örneğini başlatır.LayerHashCalculator sınıf.
+title: "LayerHashCalculator.LayerHashCalculator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerHashCalculator yapıcı. LayerHashCalculator sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator constructor
 
-Yeni bir örneğini başlatır.[`LayerHashCalculator`](../) sınıf.
+[`LayerHashCalculator`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LayerHashCalculator(Layer layer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| layer | Layer | Katman. |
+| katman | Katman | Katman. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, farklı dosyalardaki benzer katmanlar için benzersiz karmayı elde etmek için API'yi gösterir.
+Aşağıdaki kod, farklı dosyalardaki benzer katmanlar için benzersiz karmayı almayı sağlayan API'yi gösterir.
 
 ```csharp
 [C#]
 
 /// <summary>
-///Katmanın adını by alır.
+/// Katmanın adını alır.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Görüntü.</param>
-/// <param name="ad">Ad.</param>
+/// <param name="name">İsim.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -47,11 +48,11 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Ares eşit değil.
+/// Eşit değildir.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="beklenen">Beklenen.</param>
-/// <param name="gerçek">Gerçek.</param>
+/// <param name="expected">Beklenen.</param>
+/// <param name="actual">Gerçek.</param>
 /// <exception cref="System.Exception">Argümanlar eşit olmamalıdır</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
@@ -62,11 +63,11 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ares eşittir.
+/// Eşittir.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="beklenen">Beklenen.</param>
-/// <param name="gerçek">Gerçek.</param>
+/// <param name="expected">Beklenen.</param>
+/// <param name="actual">Gerçek.</param>
 /// <exception cref="System.Exception">Argümanlar eşit olmalıdır</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
@@ -77,7 +78,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Katman içeriği karma testini düzenli hale getirir.
+/// Katman içerik karması testini düzenler.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -104,12 +105,12 @@ public static void RegularLayerContentHashTest(string fileName)
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Karıştırma modu karmasını kontrol edin 
+        // Karışım modunun karmasını kontrol et
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // Ama işaretçiler farklı
+        // Ancak işaretçiler farklı
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -117,7 +118,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Katman içeriği karma testini doldurur.
+/// Katman içerik karması testini doldurur.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -143,7 +144,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Benzer katmanlar her zaman bir dizinde bulunur
+            // Benzer katmanlar her zaman aynı indeks içinde bulunur
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -152,7 +153,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Nesne katmanı içerik karma testini akıllılar.
+/// Nesne katman içerik karması testini akıllılaştırır.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -178,23 +179,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Kanal verileri Katman için eşittir ve Akıllı Nesneleri bunlardan oluşturun.
+        // Katman ve onlardan oluşturulan Akıllı Nesneler için kanal verileri eşittir.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // İçerik Karması farklıdır, çünkü Akıllı Nesne içerik olarak diğer verileri kullanır
+        // İçerik karması farklıdır, çünkü Akıllı Nesne içeriği olarak başka verileri kullanır.
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Ancak karıştırma hash benzerdir. Her iki katman da - akıllı ve normal, Normal Karışım moduna ve 255 opaklığa sahiptir
+        // Ancak karıştırma karması benzer. Akıllı ve normal katmanların her ikisi de Normal Karıştırma moduna ve 255 opaklığa sahiptir.
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Kanal verileri Katman için eşittir ve Akıllı Nesneleri bunlardan oluşturun.
+        // Katman ve onlardan oluşturulan Akıllı Nesneler için kanal verileri eşittir.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // İçerik Karması farklıdır, çünkü Akıllı Nesne içerik olarak diğer verileri kullanır
+        // İçerik karması farklıdır, çünkü Akıllı Nesne içeriği olarak başka verileri kullanır.
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Ancak karıştırma hash benzerdir. Her iki katman da - akıllı ve normal, Normal Karışım moduna ve 255 opaklığa sahiptir
+        // Ancak karıştırma karması benzer. Akıllı ve normal katmanların her ikisi de Normal Karıştırma moduna ve 255 opaklığa sahiptir.
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -204,7 +205,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Katman içerik karma testini ayarlar.
+/// Ayarlamalar katmanların içerik karması testi.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -248,7 +249,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Katman içerik karma testini metinler.
+/// Metinler katmanların içerik karması testi.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -292,18 +293,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // Hash hesaplamasında dönüşüm matrisi kullanılmaz. ek olarak kontrol etmelisiniz
+        // Dönüşüm matrisi karma hesaplamasında kullanılmaz. Bunu ayrıca kontrol etmelisiniz
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // Bu durumda matriste bir rotasyonumuz var
+        // Bu durumda matris içinde bir döndürme vardır
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // Bu durumda elimizde sadece çeviri var (Metin Katmanı Aşağıda Kaydırıldı)
+        // Bu durumda yalnızca bir çeviri vardır (Metin Katmanı aşağıda kaydırıldı)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Katman içeriği karma testini gruplandırır.
+/// Gruplar katman içerik karması testi.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -323,14 +324,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Grup Katmanı Karması, içindeki katmanlardan hesaplanır
+        // Grup Katman Karması, içindeki katmanlardan hesaplanır
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Farklı dosyalardan gelen katman içeriğini düzenler karma testi.
+/// Normal katmanlar farklı dosyalardan içerik karması testi.
 /// </summary>
 /// <param name="fileName">Dosyanın adı.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -354,7 +355,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 // Katmanların farklı işaretçileri vardır
                 AreNotEqual(layer, layer_copied);
 
-                // Ancak katmanların hash'i eşittir
+                // Ancak katmanların karması eşittir
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -365,11 +366,11 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../layer/)
 * class [LayerHashCalculator](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

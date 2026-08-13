@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. a döndürürRectangleF iki dikdörtgenin kesişimini temsil eden yapı. Kavşak yoksa ve boşsaRectangleF döndürülür.
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. İki dikdörtgenin kesişimini temsil eden bir RectangleF yapısı döndürür. Eğer kesişim yoksa boş bir RectangleF döndürülür."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-a döndürür[`RectangleF`](../) iki dikdörtgenin kesişimini temsil eden yapı. Kavşak yoksa ve boşsa[`RectangleF`](../) döndürülür.
+İki dikdörtgenin kesişimini temsil eden bir [`RectangleF`](../) yapısı döndürür. Eğer kesişim yoksa, boş bir [`RectangleF`](../) döndürülür.
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| a | RectangleF | Kesişecek ilk dikdörtgen. |
-| b | RectangleF | Kesişecek ikinci bir dikdörtgen. |
+| a | RectangleF | Kesişmek için birinci dikdörtgen. |
+| b | RectangleF | Kesişmek için ikinci dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bir üçüncü[`RectangleF`](../) boyutu belirtilen iki dikdörtgenin üst üste binen alanını temsil eden yapı.
+Belirtilen iki dikdörtgenin üst üste binen alanını temsil eden boyuta sahip üçüncü bir [`RectangleF`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-Bunu değiştirir[`RectangleF`](../)kendisinin ve belirtilenin kesişim noktası olan yapı[`RectangleF`](../)yapı.
+Bu [`RectangleF`](../) yapısını, kendisi ile belirtilen [`RectangleF`](../) yapısının kesişimiyle değiştirir.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | Kesişecek dikdörtgen. |
+| rect | RectangleF | Kesişmek için dikdörtgen. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetRating
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage yöntem. Derecelendirmeyi ayarlar.
+title: "XmpBasicPackage.SetRating"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yöntemi. Derecelendirmeyi ayarlar"
 type: docs
-weight: 90
+weight: 110
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetRating method
 
 Derecelendirmeyi ayarlar.
@@ -14,14 +15,14 @@ Derecelendirmeyi ayarlar.
 public void SetRating(int choise)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| choise | Int32 | -1'den 5'e |
+| seçim | Int32 | -1'den 5'e kadar |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

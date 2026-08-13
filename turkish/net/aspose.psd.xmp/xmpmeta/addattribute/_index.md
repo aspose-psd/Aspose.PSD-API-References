@@ -1,28 +1,29 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMeta yöntem. Özniteliği ekler.
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMeta yöntemi. Özniteliği ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
-Özniteliği ekler.
+Özelliği ekler.
 
 ```csharp
 public override void AddAttribute(string attribute, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | attribute | String | Öznitelik. |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMeta](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpmeta/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

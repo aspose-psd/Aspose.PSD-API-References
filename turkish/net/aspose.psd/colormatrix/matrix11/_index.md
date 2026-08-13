@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix11
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMatrix mülk. Bunun ilk satırındaki ve ilk sütunundaki öğeyi alır veya ayarlarColorMatrix .
+title: "ColorMatrix.Matrix11"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMatrix özelliği. Bu ColorMatrix'in birinci satır ve birinci sütundaki öğeyi alır veya ayarlar."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/colormatrix/matrix11/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix11 property
 
-Bunun ilk satırındaki ve ilk sütunundaki öğeyi alır veya ayarlar[`ColorMatrix`](../) .
+Bu [`ColorMatrix`](../) içindeki birinci satır ve birinci sütundaki öğeyi alır veya ayarlar.
 
 ```csharp
 public float Matrix11 { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun ilk satırındaki ve ilk sütunundaki eleman[`ColorMatrix`](../).
+Bu [`ColorMatrix`](../) içindeki birinci satır ve birinci sütundaki öğe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../)
-* ad alanı [Aspose.PSD](../../colormatrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Bunun üst kenarının y koordinatını alır veya ayarlarRectangleyapı.
+title: "Rectangle.Top"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. Bu Rectangle yapısının üst kenarının y koordinatını alır veya ayarlar."
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-Bunun üst kenarının y koordinatını alır veya ayarlar[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının üst kenarının y koordinatını alır veya ayarlar.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun üst kenarının y koordinatı[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının üst kenarının y koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

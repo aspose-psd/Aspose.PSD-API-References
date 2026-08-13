@@ -1,69 +1,70 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Aspose.PSD for .NET API Referansı
-description: KnkoResource inşaatçı. Yeni bir örneğini başlatır.KnkoResource sınıf.
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "KnkoResource yapıcı. KnkoResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`KnkoResource`](../) sınıf.
+[`KnkoResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public KnkoResource(bool knockout)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| knockout | Boolean | olarak ayarlanmışsa`doğru` [iç elemanları karıştırın]. |
+| knockout | Boolean | eğer `true` olarak ayarlanırsa [blend interior elements]. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [KnkoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`KnkoResource`](../) sınıf.
+[`KnkoResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public KnkoResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [KnkoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`KnkoResource`](../) class. Özel veya bilinmeyen değerle
+[`KnkoResource`](../) sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen bir değerle
 
 ```csharp
 public KnkoResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynak verileri. |
+| veri | Byte[] | Kaynak veri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentException | Geçersiz Knko Kaynak değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [KnkoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

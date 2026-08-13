@@ -1,29 +1,30 @@
 ---
-title: CurvesDiscreteManager.SetValueInPosition
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesDiscreteManager yöntem. Konumdaki değeri ayarlar.
+title: "CurvesDiscreteManager.SetValueInPosition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesDiscreteManager yöntemi. Pozisyondaki değeri ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueInPosition method
 
-Konumdaki değeri ayarlar.
+Pozisyondaki değeri ayarlar.
 
 ```csharp
 public void SetValueInPosition(int channelIndex, byte position, byte value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
-| position | Byte | Pozisyon. |
-| value | Byte | Değer. |
+| channelIndex | Int32 | Kanalın indeksi. |
+| konum | Byte | Pozisyon. |
+| değer | Byte | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesDiscreteManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

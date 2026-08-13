@@ -1,11 +1,12 @@
 ---
-title: LyidResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: LyidResource alan. Tip aracı bilgi anahtarı.
+title: "LyidResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LyidResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 80
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LyidResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LyidResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

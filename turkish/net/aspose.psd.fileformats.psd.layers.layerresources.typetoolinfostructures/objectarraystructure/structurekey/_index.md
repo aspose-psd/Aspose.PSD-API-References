@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.StructureKey
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectArrayStructure alan. ObAr yapı anahtarını tanımlar.
+title: "ObjectArrayStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectArrayStructure alanı. ObAr yapı anahtarını tanımlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureKey field
 
 'ObAr' yapı anahtarını tanımlar.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ObjectArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

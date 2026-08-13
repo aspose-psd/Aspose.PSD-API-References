@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.VerticalResolution
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionSetting mülk. Dikey çözünürlüğü alır veya ayarlar.
+title: "ResolutionSetting.VerticalResolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionSetting özelliği. Dikey çözünürlüğü alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/resolutionsetting/verticalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.VerticalResolution property
 
 Dikey çözünürlüğü alır veya ayarlar.
@@ -14,10 +15,10 @@ Dikey çözünürlüğü alır veya ayarlar.
 public double VerticalResolution { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResolutionSetting](../)
-* ad alanı [Aspose.PSD](../../resolutionsetting/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

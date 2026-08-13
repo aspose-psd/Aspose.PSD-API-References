@@ -1,28 +1,29 @@
 ---
-title: ListStructure.ListStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: ListStructure inşaatçı. Yeni bir örneğini başlatır.ListStructure sınıf.
+title: "ListStructure.ListStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ListStructure yapıcı. ListStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure constructor
 
-Yeni bir örneğini başlatır.[`ListStructure`](../) sınıf.
+[`ListStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ListStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ListStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

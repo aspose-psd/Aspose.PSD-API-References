@@ -1,35 +1,36 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesContinuousManager yöntem. Eğrinin noktasını ekler.
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesContinuousManager metodu. Eğrinin noktasını ekler"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
-Eğrinin noktasını ekler.
+Eğri noktasını ekler.
 
 ```csharp
 public void AddCurvePoint(int channelIndex, byte x, byte y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
 | x | Byte | x konumu. |
-| y | Byte | y konumu. |
+| y | Byte | Y konumu. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Eklemeye çalıştığınız nokta zaten var |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Eklemeye çalıştığınız nokta zaten mevcut |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesContinuousManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

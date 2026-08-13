@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings mülk. Model verilerini alır veya ayarlar.
+title: "PatternFillSettings.PatternData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings özelliği. Desen verisini alır veya ayarlar"
 type: docs
-weight: 60
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
-Model verilerini alır veya ayarlar.
+Desen verisini alır veya ayarlar.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Model verileri.
+Desen verisi.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Dolgu Katmanı Kalıbı düzenleme desteğini gösterir.
+Aşağıdaki kod, Doldurma Katmanı Desen düzenlemesinin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // düzenleme 
+            // Düzenleme 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

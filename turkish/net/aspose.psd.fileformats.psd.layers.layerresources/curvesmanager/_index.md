@@ -1,34 +1,35 @@
 ---
-title: Class CurvesManager
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager sınıf. CurvResource yi yönetmek için Temel Sınıf
+title: "Sınıf CurvesManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager sınıfı. CurvResource'ı yönetmek için temel sınıf"
 type: docs
-weight: 2430
+weight: 2690
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
-CurvResource 'yi yönetmek için Temel Sınıf
+CurvResource'ı yönetmek için temel sınıf
 
 ```csharp
 public abstract class CurvesManager
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | Yeni bir örneğini başlatır.`CurvesManager` sınıf. |
+| [CurvesManager](curvesmanager/)(int) | `CurvesManager` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Maksimum kanal sayısını alır. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Azami kanal sayısını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

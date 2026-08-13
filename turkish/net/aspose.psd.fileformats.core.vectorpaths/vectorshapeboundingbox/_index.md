@@ -1,44 +1,46 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox sınıf. Vektör şekli sınırlayıcı kutu sınıfını tanımlar.
+title: "Sınıf VectorShapeBoundingBox"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox sınıfı. Vektör şekil sınırlama kutusu sınıfını tanımlar"
 type: docs
-weight: 1430
+weight: 1440
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-Vektör şekli sınırlayıcı kutu sınıfını tanımlar.
+Vektör şeklinin sınırlayıcı kutu sınıfını tanımlar.
 
 ```csharp
 public sealed class VectorShapeBoundingBox
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Default_Constructor |
+| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Tabanı alır veya ayarlar. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Altı alır veya ayarlar. |
 | [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Şekil sınırlama kutusunun sınırlarını alır veya ayarlar. |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Solu alır veya ayarlar. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Dörtlü sürüm birim değerini alır veya ayarlar. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Hakkı alır veya ayarlar. |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Solunu alır veya ayarlar. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | Kutunun köşelerini belirleyen noktaların birim tipini alır veya ayarlar. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Birim değer dörtgen sürümünü alır veya ayarlar. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Sağını alır veya ayarlar. |
 | [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Üstü alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, PSD görüntüsünü şekil katmanları ve vektör yollarıyla yüklemenin ve kaydetmenin doğru çalıştığını gösterir.
+Bu örnek, şekil katmanları ve vektör yolları içeren PSD görüntüsünün yüklenmesi ve kaydedilmesinin doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
 
-// Bu örnek, PSD görüntüsünü şekil katmanları ve vektör yollarıyla yüklemenin ve kaydetmenin doğru çalıştığını gösterir.
+// Bu örnek, şekil katmanları ve vektör yolları içeren PSD görüntüsünün yüklenmesi ve kaydedilmesinin doğru çalıştığını gösterir.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -163,9 +165,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

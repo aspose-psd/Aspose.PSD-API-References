@@ -1,38 +1,39 @@
 ---
-title: Class ImageResizeSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageResizeSettings sınıf. Görüntü yeniden boyutlandırma ayarları class
+title: "Sınıf ImageResizeSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageResizeSettings sınıfı. Görüntü yeniden boyutlandırma ayarları sınıfı"
 type: docs
-weight: 5000
+weight: 5520
 url: /tr/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-Görüntü yeniden boyutlandırma ayarları class
+Görüntü yeniden boyutlandırma ayarları sınıfı
 
 ```csharp
 public class ImageResizeSettings
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ImageResizeSettings](imageresizesettings/)() | Default_Constructor |
+| [ImageResizeSettings](imageresizesettings/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Renk karşılaştırma yöntemini alır veya ayarlar. |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Renk niceleme yöntemini alır veya ayarlar. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Count girişlerini alır veya ayarlar |
-| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Filtrenin türünü alır veya ayarlar. |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Renk kantizasyon yöntemini alır veya ayarlar. |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Giriş sayısını alır veya ayarlar |
+| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Filtre tipini alır veya ayarlar. |
 | [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Enterpolasyon modunu alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

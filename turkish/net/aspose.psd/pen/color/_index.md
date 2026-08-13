@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bunun rengini alır veya ayarlarPen .
+title: "Pen.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen'in rengini alır veya ayarlar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-Bunun rengini alır veya ayarlar[`Pen`](../) .
+Bu [`Pen`](../) 'in rengini alır veya ayarlar.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A`Color` bunun rengini temsil eden yapı[`Pen`](../).
+Bu [`Pen`](../) 'in rengini temsil eden bir `Color` yapısı.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`Color` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `Color` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

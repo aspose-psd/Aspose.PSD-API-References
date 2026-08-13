@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Eğri Ayarlama katmanını ekler.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Eğriler Ayar katmanını ekler"
 type: docs
-weight: 330
+weight: 340
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-Eğri Ayarlama katmanını ekler.
+Eğriler Ayar katmanını ekler.
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-oluşturuldu[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Katman
+Oluşturulan [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Katmanı
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

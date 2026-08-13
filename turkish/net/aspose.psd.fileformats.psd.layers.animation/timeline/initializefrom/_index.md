@@ -1,30 +1,31 @@
 ---
-title: TimeLine.InitializeFrom
-second_title: Aspose.PSD for .NET API Referansı
-description: TimeLine yöntem. Yeni örneğini oluştururTimeLine  girişten başlatıldıPsdImage .
+title: "TimeLine.InitializeFrom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TimeLine yöntemi. Giriş PsdImage'den başlatılan yeni TimeLine örneğini oluşturur"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/
 ---
+{{< psd/tize >}}
 ## TimeLine.InitializeFrom method
 
-Yeni örneğini oluşturur[`TimeLine`](../) , girişten başlatıldı[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/) .
+Yeni [`TimeLine`](../) örneğini oluşturur, giriş [`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/)den başlatılır.
 
 ```csharp
 public static TimeLine InitializeFrom(PsdImage psdImage)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | psdImage | PsdImage | psd görüntüsü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeni örneği[`TimeLine`](../) , girişten başlatıldı[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/).
+Yeni [`TimeLine`](../) örneği, giriş [`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/)den başlatılır.
 
-### Örnekler
+## Örnekler
 
-TimeLine sınıfı, kare gecikmesini değiştirmek veya belirli bir karede katman durumunu düzenlemek gibi, PsdImage'ın zaman çizelgesini işlemek için üst düzey bir yetenek sağlar.
+TimeLine sınıfı, PsdImage'in zaman çizelgesini, çerçeve gecikmesini değiştirme veya belirli bir çerçevede katman durumunu düzenleme gibi yüksek seviyeli bir yetenek sağlar.
 
 ```csharp
 [C#]
@@ -36,40 +37,40 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
     TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
 
-    // Çerçeve 1'in elden çıkarma yöntemini değiştir
+    // Çerçeve 1'in dispose yöntemini değiştir.
     timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Çerçeve 2'nin gecikmesini değiştir
+    // Çerçeve 2'nin gecikmesini değiştir.
     timeLine.Frames[1].Delay = 15;
 
-    // 2. karedeki 'Katman 1'in opaklığını değiştir
+    // Çerçeve 2'de 'Layer 1' opaklığını değiştir.
     LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
     layerState11.Opacity = 50;
 
-    // 'Katman 1'i 3. karede sol alt köşeye taşı
+    // 'Layer 1'i çerçeve 3'te sol-alt köşeye taşı.
     LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Yeni çerçeve ekler
+    // Yeni çerçeve ekler.
     List<Frame> frames = new List<Frame>(timeLine.Frames);
     frames.Add(new Frame(timeLine));
     timeLine.Frames = frames.ToArray();
 
-    // 4. karede "Katman 1"in blendMode'unu değiştir
+    // Çerçeve 4'te 'Layer 1' katmanının blendMode'unu değiştir
     LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Değişiklikleri tekrar PsdImage örneğine uygula
+    // Değişiklikleri PsdImage örneğine geri uygula
     timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [TimeLine](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

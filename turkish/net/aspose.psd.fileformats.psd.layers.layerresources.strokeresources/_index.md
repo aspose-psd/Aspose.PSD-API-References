@@ -1,23 +1,31 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı PSD dosya biçimi türü araç kaynak varlıklarını içerir.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, PSD dosya formatı türü araç kaynağı varlıklarını içerir"
 type: docs
-weight: 290
+weight: 310
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/
 ---
-Ad alanı, PSD dosya biçimi türü araç kaynak varlıklarını içerir.
+{{< psd/tize >}}
+Bu ad alanı, PSD dosya formatı tip araç kaynak varlıklarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [VstkResource](./vstkresource/) | Kaynak sınıfı VstkResource. Vector Stroke Data hakkında bilgi içerir. Kaynak, AssginItems yöntemiyle sourcedata'dan, veya sınıfın özelliklerine değerler atayarak başlatılmalıdır. |
-## numaralandırma
+| [StrokeSettings](./strokesettings/) | Şekillerin çizgi ayarları. |
+| [VscgResource](./vscgresource/) | Vektör Çizgi İçerik Verisi kaynağı. |
+| [VstkResource](./vstkresource/) | VstkResource kaynak sınıfı. Vector Stroke verisi hakkında bilgi içerir. Kaynak, ResourceLoader'dan AssignItems yöntemiyle ya da sınıfın özelliklerine değer atayarak başlatılmalıdır. |
+## Arayüzler
 
-| numaralandırma | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [LineCapType](./linecaptype/) | Satır Sonu tipi. |
-| [LineJoinType](./linejointype/) | Satır Birleştirme türü. |
+| [IStrokeSettings](./istrokesettings/) | Şekillerin çizgi ayarları. |
+## Sıralama
+
+| Sıralama | Açıklama |
+| --- | --- |
+| [LineCapType](./linecaptype/) | Çizgi ucu türü. |
+| [LineJoinType](./linejointype/) | Çizgi birleşim türü. |
 
 

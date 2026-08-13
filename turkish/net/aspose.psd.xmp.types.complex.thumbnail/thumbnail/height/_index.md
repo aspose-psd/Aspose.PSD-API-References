@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: Thumbnail mülk. Yüksekliği alır veya ayarlar.
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Thumbnail özelliği. Yüksekliği alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
 Yüksekliği alır veya ayarlar.
@@ -14,20 +15,20 @@ Yüksekliği alır veya ayarlar.
 public int Height { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yükseklik.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | değer;Yükseklik sıfırdan az olamaz |
+| ArgumentOutOfRangeException | value;Yükseklik sıfırdan küçük olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Thumbnail](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

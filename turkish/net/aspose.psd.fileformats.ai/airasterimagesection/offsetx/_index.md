@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Ofset Xi alır.
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. X ofsetini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
-Ofset X'i alır.
+X ofsetini alır.
 
 ```csharp
 public double OffsetX { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ofset X.
+X ofseti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

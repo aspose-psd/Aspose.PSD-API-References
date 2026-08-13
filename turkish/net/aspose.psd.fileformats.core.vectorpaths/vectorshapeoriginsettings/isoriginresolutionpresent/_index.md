@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginResolutionPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Bu örneğin kaynak çözümleme özelliğine sahip olup olmadığını gösteren bir değer alır.
+title: "VectorShapeOriginSettings.IsOriginResolutionPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Bu örneğin kaynak çözünürlük özelliği olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginResolutionPresent property
 
-Bu örneğin kaynak çözümleme özelliğine sahip olup olmadığını gösteren bir değer alır.
+Bu örneğin origin resolution özelliğine sahip olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsOriginResolutionPresent { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru`bu örneğin kaynak çözümleme özelliği varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek kaynak çözünürlük özelliğine sahipse; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

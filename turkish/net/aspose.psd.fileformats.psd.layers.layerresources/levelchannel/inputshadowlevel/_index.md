@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.InputShadowLevel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevelChannel mülk. Giriş gölge seviyesini alır veya ayarlar.
+title: "LevelChannel.InputShadowLevel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevelChannel özelliği. Giriş gölge seviyesini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputShadowLevel property
 
 Giriş gölge seviyesini alır veya ayarlar.
@@ -14,20 +15,20 @@ Giriş gölge seviyesini alır veya ayarlar.
 public short InputShadowLevel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Giriş gölge düzeyi.
+Giriş gölge seviyesi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Giriş Gölge Düzeyi yalnızca 0 ila " + aralığında ayarlanabilir (this.InputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Input Shadow Level sadece 0 ile " + (this.InputHighlightLevel - 2) arasında ayarlanabilir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

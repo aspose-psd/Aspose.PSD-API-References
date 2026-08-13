@@ -1,43 +1,44 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD for .NET API Referansı
-description: Font inşaatçı. Yeni bir örneğini başlatır.Font sınıf.
+title: "Font.Font"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font yapıcı. Font sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-Yeni bir örneğini başlatır.[`Font`](../) sınıf.
+[`Font`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Font()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`Font`](../) sınıf.
+[`Font`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontFamily | String | Font ailesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

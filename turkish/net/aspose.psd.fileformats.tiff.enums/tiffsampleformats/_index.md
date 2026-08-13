@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats Sıralama. Örnek format enum
+title: "Enum TiffSampleFormats"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Örnek format enumu"
 type: docs
-weight: 4160
+weight: 4660
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Örnek format enum
+Örnek formatı enum'ı
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Uint | `1` | İşaretsiz tamsayı verisi |
-| Int | `2` | İşaretli tamsayı verileri |
-| IeeeFp | `3` | IEEE kayan noktalı veri |
-| Void | `4` | Türlenmemiş veri |
-| ComplexInt | `5` | Karmaşık imzalı int |
-| ComplexIeeeFp | `6` | Karmaşık ieee yüzen |
+| Int | `2` | İşaretli tamsayı verisi |
+| IeeeFp | `3` | IEEE kayan nokta verisi |
+| Void | `4` | Türsüz veri |
+| ComplexInt | `5` | Karmaşık işaretli tamsayı |
+| ComplexIeeeFp | `6` | Karmaşık ieee kayan nokta |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

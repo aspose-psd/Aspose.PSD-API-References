@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.FileFormats.Psd
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Psd dosya formatı işlemeyi yönetir.
+title: "Aspose.PSD.FileFormats.Psd"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, Psd dosya formatı işleme işlemlerini yönetir."
 type: docs
-weight: 200
+weight: 210
 url: /tr/net/aspose.psd.fileformats.psd/
 ---
-Ad alanı, Psd dosya formatı işlemeyi yönetir.
+{{< psd/tize >}}
+Bu ad alanı, PSD dosya formatı işleme işlemlerini yönetir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [PsdColorPalette](./psdcolorpalette/) | PSD renk paleti. |
-| [PsdImage](./psdimage/) | PSD dosyalarını yükleme, düzenleme, kaydetme ve ayrıca özellikleri güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme veya bir dosya formatını diğerine dönüştürme yeteneği sağlayan PsdImage sınıfını tanımlar. Aspose.PSD, bir katman olarak içe aktarmayı ve şu biçimler: Png, Jpeg, Jpeg2000, Gif, Bmp, Tiff, Psd, Psb ve seçilebilir metinle Pdf'ye dışa aktarma |
+| [PsdImage](./psdimage/) | PsdImage sınıfını tanımlar; bu sınıf PSD dosyalarını yükleme, düzenleme, kaydetme, özellikleri güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme veya bir dosya formatını başka birine dönüştürme yeteneği sağlar. Aspose.PSD, katman olarak içe aktarmayı ve aşağıdaki formatlara dışa aktarmayı destekler: Png, Jpeg, Jpeg2000, Gif, Bmp, Tiff, Psd, Psb ve seçilebilir metin içeren Pdf dışa aktarımı. |
 | [ResourceBlock](./resourceblock/) | Kaynak bloğu. |
-| [SmartObjectProvider](./smartobjectprovider/) | PSD dosyasının genel bağlantı kaynaklarından ve içeriklerinden veri kaynaklarının alınmasını / ayarlanmasını sağlayan akıllı nesne sağlayıcısını tanımlar. |
-## numaralandırma
+| [SmartObjectProvider](./smartobjectprovider/) | PSD dosyasının küresel bağlantı kaynaklarından veri kaynaklarını alma/ayarlama ve içeriklerini sağlayan akıllı nesne sağlayıcısını tanımlar. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [AutoKerning](./autokerning/) | Photoshop otomatik karakter aralığı modu (semboller arasındaki mesafe). |
+| [AutoKerning](./autokerning/) | Photoshop otomatik kerning modu (semboller arasındaki mesafe). |
 | [ColorModes](./colormodes/) | psd dosya formatı renk modlarını temsil eder. |
 | [CompressionMethod](./compressionmethod/) | Görüntü verileri için kullanılan sıkıştırma yöntemini tanımlar. |
-| [FontBaseline](./fontbaseline/) | Bu, yazı tipi temelidir. |
-| [FontCaps](./fontcaps/) | Bu, yazı tipi temelidir. |
+| [FontBaseline](./fontbaseline/) | Bu, yazı tipi taban çizgisidir. |
+| [FontCaps](./fontcaps/) | Bu, yazı tipi taban çizgisidir. |
 | [JustificationMode](./justificationmode/) | Metin hizalama modu. |
-| [LeadingType](./leadingtype/) | Photoshop öncü tipi (çizgiler arasındaki mesafe tipi). |
-| [PsdVersion](./psdversion/) | Dosya biçimi sürüm |
-| [TextOrientation](./textorientation/) | Metin yönü modu için numaralandırma. |
+| [LeadingType](./leadingtype/) | Photoshop satır aralığı tipi (satırlar arasındaki mesafe türü). |
+| [PsdVersion](./psdversion/) | Dosya formatı sürümü |
+| [TextOrientation](./textorientation/) | Metin yönlendirme modu için enum. |
 
 

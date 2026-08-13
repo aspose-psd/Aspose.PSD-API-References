@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.QuadVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeRadiiRectangle mülk. Dörtlü sürüm birim değerini alır veya ayarlar.
+title: "VectorShapeRadiiRectangle.QuadVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeRadiiRectangle özelliği. Birim değer dörtgen sürümünü alır veya ayarlar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.QuadVersion property
 
-Dörtlü sürüm birim değerini alır veya ayarlar.
+Birim değer dörtgen sürümünü alır veya ayarlar.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dörtlü versiyon.
+Dörtgen sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeRadiiRectangle](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

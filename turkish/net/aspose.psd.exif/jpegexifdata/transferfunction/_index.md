@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.TransferFunction
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Aktarım işlevini alır veya ayarlar.
+title: "JpegExifData.TransferFunction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Transfer fonksiyonunu alır veya ayarlar"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd.exif/jpegexifdata/transferfunction/
 ---
+{{< psd/tize >}}
 ## JpegExifData.TransferFunction property
 
-Aktarım işlevini alır veya ayarlar.
+Transfer fonksiyonunu alır veya ayarlar.
 
 ```csharp
 public ushort[] TransferFunction { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Aktarım işlevi.
+Transfer fonksiyonu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

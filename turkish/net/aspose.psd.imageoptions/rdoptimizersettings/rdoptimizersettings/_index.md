@@ -1,23 +1,24 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings inşaatçı. Default_Constructor
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings constructor. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public RdOptimizerSettings()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

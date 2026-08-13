@@ -1,32 +1,33 @@
 ---
-title: RegionExtensions.ToGdiRegion
-second_title: Aspose.PSD for .NET API Referansı
-description: RegionExtensions yöntem. dönüştürürRegion içinRegion .
+title: "RegionExtensions.ToGdiRegion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RegionExtensions yöntemi. Region'u Region'a dönüştürür."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/regionextensions/togdiregion/
 ---
+{{< psd/tize >}}
 ## RegionExtensions.ToGdiRegion method
 
-dönüştürür[`Region`](../../../aspose.psd/region/) içinRegion .
+[`Region`](../../../aspose.psd/region/) öğesini Region'a dönüştürür.
 
 ```csharp
 public static Region ToGdiRegion(Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../../../aspose.psd/region/) dönüştürmek. |
+| region | Region | Dönüştürülecek [`Region`](../../../aspose.psd/region/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşRegion.
+Dönüştürülmüş Region.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../../../aspose.psd/region/)
 * class [RegionExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../regionextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

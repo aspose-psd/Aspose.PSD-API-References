@@ -1,32 +1,33 @@
 ---
-title: BrushExtensions.ToGdiBrush
-second_title: Aspose.PSD for .NET API Referansı
-description: BrushExtensions yöntem. dönüştürürBrush içinBrush .
+title: "BrushExtensions.ToGdiBrush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BrushExtensions yöntemi. Brush'ı Brush'a dönüştürür."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
+{{< psd/tize >}}
 ## BrushExtensions.ToGdiBrush method
 
-dönüştürür[`Brush`](../../../aspose.psd/brush/) içinBrush .
+[`Brush`](../../../aspose.psd/brush/) öğesini Brush'a dönüştürür.
 
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | bu[`Brush`](../../../aspose.psd/brush/) dönüştürmek. |
+| brush | Brush | Dönüştürülecek [`Brush`](../../../aspose.psd/brush/) öğesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşBrush.
+Dönüştürülmüş Brush.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../../aspose.psd/brush/)
 * class [BrushExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../brushextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

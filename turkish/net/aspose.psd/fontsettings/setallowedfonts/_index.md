@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Yazı tipi kullanımını yazı tipi listesine göre kısıtlar. Lütfenstrictrions öğesini kaldırmak içinstrict İzin Verilen yazı tipi listesini Null olarak ayarlamadan önce gerçek yazı tipi adlarını kontrol edin.
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Yazı tiplerini bir yazı tipi listesiyle kısıtlar. Kısıtlama öncesinde gerçek yazı tipi adlarını kontrol edin. Kısıtlamaları kaldırmak için İzin Verilen yazı tipi listesini Null olarak ayarlayın."
 type: docs
-weight: 100
+weight: 120
 url: /tr/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-Yazı tipi kullanımını yazı tipi listesine göre kısıtlar. Lütfen,strictrions öğesini kaldırmak için,strict İzin Verilen yazı tipi listesini Null olarak ayarlamadan önce gerçek yazı tipi adlarını kontrol edin.
+Yazı tiplerini bir yazı tipi listesiyle kısıtlar. Kısıtlama öncesinde gerçek yazı tipi adlarını kontrol edin. Kısıtlamaları kaldırmak için İzinli yazı tipi listesini Null olarak ayarlayın.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontList | String[] | Yazı tipi listesi. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, kullanarak yazı tiplerini programlı olarak sınırlama yeteneğini gösterir.
+Aşağıdaki kod, programlı olarak yazı tiplerini sınırlama yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Hedef yazıcıyı alır veya ayarlar.
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Hedef yazıcıyı alır veya ayarlar"
 type: docs
-weight: 500
+weight: 510
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
 Hedef yazıcıyı alır veya ayarlar.
@@ -14,14 +15,14 @@ Hedef yazıcıyı alır veya ayarlar.
 public string TargetPrinter { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Hedef yazıcı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

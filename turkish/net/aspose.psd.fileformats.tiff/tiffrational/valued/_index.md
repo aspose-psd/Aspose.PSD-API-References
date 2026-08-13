@@ -1,27 +1,28 @@
 ---
-title: TiffRational.ValueD
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffRational mülk. Çift değeri alır.
+title: "TiffRational.ValueD"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffRational özelliği. Double değerini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.tiff/tiffrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffRational.ValueD property
 
-Çift değeri alır.
+Double değerini alır.
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çift değer.
+Double değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

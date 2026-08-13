@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Yazı tipi değiştirme dizisini yazı tipi adına göre alır
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Yazı tipi adına göre yazı tipi değiştiricileri dizisini alır."
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Yazı tipi değiştirme dizisini yazı tipi adına göre alır
+Yazı tipi adına göre yazı tipi değişiklikleri dizisini alır
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontName | String | Yazı tipinin adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Sağlanan yazı tipleri için değiştirme adları dizisi
+Sağlanan yazı tipleri için yedek adların dizisi.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, kullanarak yazı tiplerini programlı olarak sınırlama yeteneğini gösterir.
+Aşağıdaki kod, programlı olarak yazı tiplerini sınırlama yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

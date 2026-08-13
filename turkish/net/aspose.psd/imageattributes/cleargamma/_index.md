@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearGamma
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için gama düzeltmesini devre dışı bırakır.
+title: "ImageAttributes.ClearGamma"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için gama düzeltmesini devre dışı bırakır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/imageattributes/cleargamma/
 ---
+{{< psd/tize >}}
 ## ClearGamma() {#cleargamma}
 
-Varsayılan kategori için gama düzeltmesini devre dışı bırakır.
+Varsayılan kategori için gama düzeltmeyi devre dışı bırakır.
 
 ```csharp
 public void ClearGamma()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearGamma(ColorAdjustType) {#cleargamma_1}
 
-Belirli bir kategori için gama düzeltmesini devre dışı bırakır.
+Belirtilen kategori için gama düzeltmeyi devre dışı bırakır.
 
 ```csharp
 public void ClearGamma(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) gama düzeltmesinin devre dışı bırakıldığı kategoriyi belirtir. |
+| type | ColorAdjustType | Gama düzeltmesinin devre dışı bırakıldığı kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

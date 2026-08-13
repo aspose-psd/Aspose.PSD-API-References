@@ -1,32 +1,33 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifGainControl Sıralama. exif kazanç kontrolü enum.
+title: "Enum ExifGainControl"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. exif kazanç kontrolü enum"
 type: docs
-weight: 880
+weight: 890
 url: /tr/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-exif kazanç kontrolü enum.
+exif kazanç kontrolü sayımı.
 
 ```csharp
 public enum ExifGainControl
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | None | `0` | Kazanç kontrolü yok. |
-| LowGainUp | `1` | Düşük kazanç yukarı. |
-| HighGainUp | `2` | Yüksek kazanç artışı. |
-| LowGainDown | `3` | Düşük kazanç aşağı. |
-| HighGainDown | `4` | Yüksek kazanç aşağı. |
+| LowGainUp | `1` | Düşük kazanç artır. |
+| HighGainUp | `2` | Yüksek kazanç artır. |
+| LowGainDown | `3` | Düşük kazanç azalt. |
+| HighGainDown | `4` | Yüksek kazanç azalt. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

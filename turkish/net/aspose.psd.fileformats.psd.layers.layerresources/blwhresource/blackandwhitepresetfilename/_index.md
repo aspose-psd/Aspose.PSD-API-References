@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.BlackAndWhitePresetFileName
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource mülk. Siyah beyaz ön ayarlı dosya adını alır veya ayarlar.
+title: "BlwhResource.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource özelliği. Siyah ve beyaz ön ayar dosya adını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BlackAndWhitePresetFileName property
 
-Siyah beyaz ön ayarlı dosya adını alır veya ayarlar.
+Siyah ve Beyaz ön ayar dosya adını alır veya ayarlar.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Siyah beyaz ön ayarlı dosya adı.
+Siyah ve beyaz ön ayar dosya adı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir BlwhResource'u nasıl düzenlediğinizi gösterir.
+Aşağıdaki örnek, bir BlwhResource'ı nasıl düzenleyeceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Test düzenleme ve kaydetme
+                // Düzenleme ve kaydetme testi
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

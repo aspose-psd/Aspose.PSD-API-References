@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Filter
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Belirtilen dikdörtgeni filtreler.
+title: "RasterImage.Filter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Belirtilen dikdörtgeni filtreler"
 type: docs
 weight: 260
 url: /tr/net/aspose.psd/rasterimage/filter/
 ---
+{{< psd/tize >}}
 ## RasterImage.Filter method
 
 Belirtilen dikdörtgeni filtreler.
@@ -14,17 +15,17 @@ Belirtilen dikdörtgeni filtreler.
 public virtual void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | dikdörtgen. |
-| options | FilterOptionsBase | Seçenekler. |
+| dikdörtgen | Rectangle | Dikdörtgen. |
+| seçenekler | FilterOptionsBase | Seçenekler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

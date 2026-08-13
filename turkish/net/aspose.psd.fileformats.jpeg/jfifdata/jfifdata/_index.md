@@ -1,23 +1,24 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD for .NET API Referansı
-description: JFIFData inşaatçı. Yeni bir örneğini başlatır.JFIFData sınıf.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JFIFData yapıcı. JFIFData sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-Yeni bir örneğini başlatır.[`JFIFData`](../) sınıf.
+[`JFIFData`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JFIFData()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JFIFData](../)
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

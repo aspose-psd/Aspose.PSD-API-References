@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Katmanı ekler.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Katmanı ekler"
 type: docs
-weight: 370
+weight: 390
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Katmanı ekler.
@@ -14,13 +15,13 @@ Katmanı ekler.
 public void AddLayer(Layer layer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| layer | Layer | Katman. |
+| katman | Katman | Katman. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de basit kurucu sürümü kullanılıyorsa yeni oluşturulmuş bir katman üzerinde nasıl çizim yapabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde basit yapıcı sürümü kullanılırsa yeni oluşturulan bir katmanda nasıl çizebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -39,21 +40,21 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // Kalem aracıyla bir dikdörtgen çizin
+    // Pen aracıyla bir dikdörtgen çizin
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // Düz Fırça ile Mavi renkte başka bir dikdörtgen çizin
+    // Mavi renkte Solid Brush ile başka bir dikdörtgen çizin
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

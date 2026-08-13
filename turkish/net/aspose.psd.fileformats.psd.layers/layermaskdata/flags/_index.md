@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.Flags
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskData mülk. Katman maskesi bayraklarını alır veya ayarlar.
+title: "LayerMaskData.Flags"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskData özelliği. Katman maskesi bayraklarını alır veya ayarlar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
 Katman maskesi bayraklarını alır veya ayarlar.
@@ -14,15 +15,15 @@ Katman maskesi bayraklarını alır veya ayarlar.
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katman maskesi işaretleri.
+Katman maskesi bayrakları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

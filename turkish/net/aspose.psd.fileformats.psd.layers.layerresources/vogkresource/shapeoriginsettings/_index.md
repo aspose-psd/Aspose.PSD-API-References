@@ -1,22 +1,23 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: VogkResource mülk. Şekil başlangıç ayarlarını alır veya ayarlar.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VogkResource özelliği. Şekil başlangıç ayarlarını alır veya ayarlar"
 type: docs
-weight: 50
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
-Şekil başlangıç ayarlarını alır veya ayarlar.
+Şekil köken ayarlarını alır veya ayarlar.
 
 ```csharp
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VogkResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, VogkResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // düzenleme
+    // Düzenleme
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,11 +71,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,41 +1,42 @@
 ---
-title: Class XmpText
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Basic.XmpText sınıf. XMP Metni temel türünü temsil eder.
+title: "Sınıf XmpText"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpText sınıfı. XMP Metin temel tipini temsil eder"
 type: docs
-weight: 5980
+weight: 6510
 url: /tr/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
-XMP Metni temel türünü temsil eder.
+XMP Text temel tipini temsil eder.
 
 ```csharp
 public class XmpText : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Yeni bir örneğini başlatır.`XmpText` sınıf. |
+| [XmpText](xmptext/)(string) | Yeni bir `XmpText` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Metin değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

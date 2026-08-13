@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.Xmp
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı XMP ile ilgili yardımcı sınıfları ve yöntemleri içerir.
+title: "Aspose.PSD.Xmp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, XMP ile ilgili yardımcı sınıfları ve yöntemleri içerir."
 type: docs
-weight: 520
+weight: 560
 url: /tr/net/aspose.psd.xmp/
 ---
-Ad alanı, XMP ile ilgili yardımcı sınıfları ve yöntemleri içerir.
+{{< psd/tize >}}
+Namespace, XMP ile ilgili yardımcı sınıfları ve yöntemleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [LangAlt](./langalt/) | XMP Dil Alternatifini Temsil Eder. |
-| [Namespaces](./namespaces/) | RDF belgesinde kullanılan ad alanlarını içerir. |
-| [XmpArray](./xmparray/) | Xmp Dizisini Temsil Eder[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . YAPILACAKLAR: Dizi karmaşık veriler içerebilir. |
-| [XmpArrayHelper](./xmparrayhelper/) | RDF mantık işlemek için yardımcı sınıf |
-| [XmpElementBase](./xmpelementbase/) | Öznitelikleri içeren temel xmp öğesini temsil eder. |
+| [LangAlt](./langalt/) | XMP Dil Alternatifini temsil eder. |
+| [Namespaces](./namespaces/) | RDF belgesinde kullanılan namespace'leri içerir. |
+| [XmpArray](./xmparray/) | [`XmpPackage`](../aspose.psd.xmp/xmppackage/) içinde Xmp Dizisini temsil eder. TODO: Dizi karmaşık veri içerebilir. |
+| [XmpArrayHelper](./xmparrayhelper/) | RDF mantığını işlemek için yardımcı sınıf. |
+| [XmpElementBase](./xmpelementbase/) | Özellikleri içeren temel xmp öğesini temsil eder. |
 | [XmpHeaderPi](./xmpheaderpi/) | XMP başlık işleme talimatını temsil eder. |
-| [XmpMeta](./xmpmeta/) | xmpmeta'yı temsil eder. İsteğe Bağlı. Bu öğenin amacı, RDF'nin XMP dışı diğer kullanımlarını içerebilecek genel XML metni içindeki XMP meta verilerini tanımlamaktır. |
-| [XmpPackage](./xmppackage/) | XMP paketi için temel soyutlamayı temsil eden XmpPackage sınıfını tanımlar. |
-| [XmpPackageBaseCollection](./xmppackagebasecollection/) | koleksiyonunu temsil eder[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . |
-| [XmpPacketWrapper](./xmppacketwrapper/) | Başlık ve fragman dahil olmak üzere seri hale getirilmiş xmp paketini içerir. |
-| [XmpRdfRoot](./xmprdfroot/) | rdf:RDF öğesini temsil eder. Tek bir XMP paketi, tek bir rdf:RDF XML öğesi kullanılarak seri hale getirilmelidir. rdf:RDF öğe içeriği yalnızca sıfır veya daha fazla rdf:Description öğesinden oluşmalıdır. |
-| [XmpTrailerPi](./xmptrailerpi/) | XMP fragman işleme talimatını temsil eder. |
+| [XmpMeta](./xmpmeta/) | xmpmeta'yi temsil eder. İsteğe bağlı. Bu öğenin amacı, genel XML metni içinde XMP meta verilerini tanımlamaktır; bu metin RDF'nin diğer XMP dışı kullanımını içerebilir. |
+| [XmpPackage](./xmppackage/) | XMP paketinin temel soyutlamasını temsil eden XmpPackage sınıfını tanımlar. |
+| [XmpPackageBaseCollection](./xmppackagebasecollection/) | [`XmpPackage`](../aspose.psd.xmp/xmppackage/) koleksiyonunu temsil eder. |
+| [XmpPacketWrapper](./xmppacketwrapper/) | Başlık ve kuyruk dahil olmak üzere serileştirilmiş xmp paketini içerir. |
+| [XmpRdfRoot](./xmprdfroot/) | rdf:RDF öğesini temsil eder. Tek bir XMP paketi, tek bir rdf:RDF XML öğesi kullanılarak serileştirilecektir. rdf:RDF öğe içeriği yalnızca sıfır veya daha fazla rdf:Description öğesinden oluşacaktır. |
+| [XmpTrailerPi](./xmptrailerpi/) | XMP kuyruk işleme talimatını temsil eder. |
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [IXmlValue](./ixmlvalue/) | xmp değerlerini XML dize gösterimine dönüştürür. |
-## numaralandırma
+| [IXmlValue](./ixmlvalue/) | xmp değerlerini XML dize temsiline dönüştürür. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [XmpArrayType](./xmparraytype/) | içindeki dizi tipini temsil eder[`XmpArray`](../aspose.psd.xmp/xmparray/) . |
+| [XmpArrayType](./xmparraytype/) | [`XmpArray`](../aspose.psd.xmp/xmparray/) içinde dizi tipini temsil eder. |
 
 

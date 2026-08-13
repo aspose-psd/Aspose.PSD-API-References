@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Artist
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Sanatçıyı alır veya ayarlar.
+title: "TiffOptions.Artist"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Sanatçıyı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
 Sanatçıyı alır veya ayarlar.
@@ -14,14 +15,14 @@ Sanatçıyı alır veya ayarlar.
 public string Artist { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sanatçı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

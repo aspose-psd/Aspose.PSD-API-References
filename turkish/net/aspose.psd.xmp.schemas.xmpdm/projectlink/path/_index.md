@@ -1,27 +1,28 @@
 ---
-title: ProjectLink.Path
-second_title: Aspose.PSD for .NET API Referansı
-description: ProjectLink mülk. Projeye giden tam yolu alır veya ayarlar.
+title: "ProjectLink.Path"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ProjectLink özelliği. Projenin tam yolunu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
-Projeye giden tam yolu alır veya ayarlar.
+Projenin tam yolunu alır veya ayarlar.
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Projenin tam yolu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ProjectLink](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

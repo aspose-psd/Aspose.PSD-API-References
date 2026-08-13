@@ -1,27 +1,28 @@
 ---
-title: DocumentSpecificIdsResource.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: DocumentSpecificIdsResource mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "DocumentSpecificIdsResource.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DocumentSpecificIdsResource özelliği. Kaynak veri boyutunu bayt olarak alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DocumentSpecificIdsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

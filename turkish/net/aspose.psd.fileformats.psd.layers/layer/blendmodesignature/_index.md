@@ -1,27 +1,28 @@
 ---
-title: Layer.BlendModeSignature
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Karışım modu imzasını alır.
+title: "Layer.BlendModeSignature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Karışım modu imzasını alır"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeSignature property
 
-Karışım modu imzasını alır.
+Karıştırma modu imzasını alır.
 
 ```csharp
 public int BlendModeSignature { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Karışım modu imzası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Graphics.Image
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Görüntüyü alır.
+title: "Graphics.Image"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Görüntüyü alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
 Görüntüyü alır.
@@ -14,15 +15,15 @@ Görüntüyü alır.
 public Image Image { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Grafik görüntüsü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

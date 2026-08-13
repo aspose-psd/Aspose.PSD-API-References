@@ -1,27 +1,28 @@
 ---
-title: ColorOverlayEffect.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorOverlayEffect mülk. Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+title: "ColorOverlayEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorOverlayEffect özelliği. Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.IsVisible property
 
-Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek görünüyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek görünürse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorOverlayEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

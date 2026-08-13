@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Ham veri formatını alır.
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Ham veri formatını alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
-Ham veri formatını alır.
+Ham veri biçimini alır.
 
 ```csharp
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ham veri formatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

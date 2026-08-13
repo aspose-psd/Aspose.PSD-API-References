@@ -1,56 +1,57 @@
 ---
-title: Class MultiPageOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.MultiPageOptions sınıf. Desteklenen birden çok sayfa için temel sınıf formatlar
+title: "Sınıf MultiPageOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.MultiPageOptions sınıfı. Çok sayfalı desteklenen formatlar için temel sınıf"
 type: docs
-weight: 4860
+weight: 5380
 url: /tr/net/aspose.psd.imageoptions/multipageoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions class
 
-Desteklenen birden çok sayfa için temel sınıf formatlar
+Birden fazla sayfa destekleyen formatlar için temel sınıf
 
 ```csharp
 public class MultiPageOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [MultiPageOptions](multipageoptions/#constructor)() | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_5)(int) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_1)(IntRange) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_3)(IntRange[]) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_7)(int[]) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_9)(string[]) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_6)(int, Rectangle) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_2)(IntRange, Rectangle) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_4)(IntRange[], Rectangle) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_8)(int[], Rectangle) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
-| [MultiPageOptions](multipageoptions/#constructor_10)(string[], Rectangle) | Yeni bir örneğini başlatır.`MultiPageOptions` sınıf. |
+| [MultiPageOptions](multipageoptions/#constructor)() | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_5)(int) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_1)(IntRange) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_3)(IntRange[]) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_7)(int[]) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_9)(string[]) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_6)(int, Rectangle) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_2)(IntRange, Rectangle) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_4)(IntRange[], Rectangle) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_8)(int[], Rectangle) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
+| [MultiPageOptions](multipageoptions/#constructor_10)(string[], Rectangle) | `MultiPageOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ExportArea](../../aspose.psd.imageoptions/multipageoptions/exportarea/) { get; set; } | Dışa aktarma alanını alır veya ayarlar. |
-| [MergeLayers](../../aspose.psd.imageoptions/multipageoptions/mergelayers/) { get; set; } | [birleşik katmanlar]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [MergeLayers](../../aspose.psd.imageoptions/multipageoptions/mergelayers/) { get; set; } | Bir değer alır veya ayarlar; bu değer [merege layers] olup olmadığını gösterir. |
 | [Mode](../../aspose.psd.imageoptions/multipageoptions/mode/) { get; set; } | Modu alır veya ayarlar. |
-| [OutputLayersNames](../../aspose.psd.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | Çıktı katmanlarının adlarını alır veya ayarlar (Dışa aktarma biçimi, örneğin Psd için katman adlandırmasını destekliyorsa çalışır) |
-| [PageRasterizationOptions](../../aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | Sayfa tarama seçeneklerini alır veya ayarlar. |
+| [OutputLayersNames](../../aspose.psd.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | Çıktı katman adlarını alır veya ayarlar (Dışa aktarma formatı katman adlandırmayı destekliyorsa çalışır, örneğin Psd için). |
+| [PageRasterizationOptions](../../aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | Sayfa rasterleştirme seçeneklerini alır veya ayarlar. |
 | [Pages](../../aspose.psd.imageoptions/multipageoptions/pages/) { get; set; } | Sayfaları alır veya ayarlar. |
 | [PageTitles](../../aspose.psd.imageoptions/multipageoptions/pagetitles/) { get; set; } | Sayfa başlıklarını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [InitPages](../../aspose.psd.imageoptions/multipageoptions/initpages/)(IntRange[]) | Dizi aralıklarından sayfaları başlatır |
+| [InitPages](../../aspose.psd.imageoptions/multipageoptions/initpages/)(IntRange[]) | Sayfaları aralıklar dizisinden başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

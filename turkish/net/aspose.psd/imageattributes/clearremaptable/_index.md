@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearRemapTable
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk yeniden eşleme tablosunu temizler.
+title: "ImageAttributes.ClearRemapTable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için renk yeniden eşleme tablosunu temizler"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/imageattributes/clearremaptable/
 ---
+{{< psd/tize >}}
 ## ClearRemapTable() {#clearremaptable}
 
 Varsayılan kategori için renk yeniden eşleme tablosunu temizler.
@@ -14,31 +15,31 @@ Varsayılan kategori için renk yeniden eşleme tablosunu temizler.
 public void ClearRemapTable()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearRemapTable(ColorAdjustType) {#clearremaptable_1}
 
-Belirli bir kategori için renk yeniden eşleme tablosunu temizler.
+Belirtilen kategori için renk yeniden eşleme tablosunu temizler.
 
 ```csharp
 public void ClearRemapTable(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) bu, yeniden eşleme tablosunun temizlendiği kategoriyi belirtir. |
+| type | ColorAdjustType | Yeniden eşleme tablosunun temizlendiği kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

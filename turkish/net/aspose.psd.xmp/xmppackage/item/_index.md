@@ -1,35 +1,36 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage mülk. Şunu alır veya ayarlarObject belirtilen anahtarla.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage özelliği. Belirtilen anahtara sahip Object'ı alır veya ayarlar."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-Şunu alır veya ayarlar:Object belirtilen anahtarla.
+Belirtilen anahtara sahip Nesneyi alır veya ayarlar.
 
 ```csharp
 public virtual object this[string key] { get; set; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| key | Değeri tanımlayan anahtar. |
+| anahtar | Değeri tanımlayan anahtar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-döndürürObject belirtilen anahtar ile
+Belirtilen anahtara sahip Object'i döndürür.
 
-### Mülk değeri
+### Property Value
 
-Object .
+Object.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

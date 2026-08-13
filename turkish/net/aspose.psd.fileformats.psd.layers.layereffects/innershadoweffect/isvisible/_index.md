@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: InnerShadowEffect mülk. Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+title: "InnerShadowEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InnerShadowEffect özelliği. Bu örneğin görünür olup olmadığını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.IsVisible property
 
-Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek görünüyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek görünürse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InnerShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

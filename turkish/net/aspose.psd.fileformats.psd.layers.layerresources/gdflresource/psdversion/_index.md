@@ -1,23 +1,24 @@
 ---
-title: GdFlResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir.
+title: "GdFlResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource property. Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir"
 type: docs
-weight: 130
+weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## GdFlResource.PsdVersion property
 
-Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir.
+Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Toplam sayfaları alır.
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Toplam sayfaları alır"
 type: docs
-weight: 560
+weight: 570
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
 Toplam sayfaları alır.
@@ -14,14 +15,14 @@ Toplam sayfaları alır.
 public ushort TotalPages { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Toplam sayfa sayısı.
+Toplam sayfalar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

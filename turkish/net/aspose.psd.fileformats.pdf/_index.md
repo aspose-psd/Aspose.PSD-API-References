@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Pdf
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı PDF dosya formatı entegrasyonu için sınıflar içerir.
+title: "Aspose.PSD.FileFormats.Pdf"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, PDF dosya formatı entegrasyonu için sınıflar içerir."
 type: docs
-weight: 180
+weight: 190
 url: /tr/net/aspose.psd.fileformats.pdf/
 ---
-Ad alanı, PDF dosya formatı entegrasyonu için sınıflar içerir.
+{{< psd/tize >}}
+Bu ad alanı, PDF dosya formatı entegrasyonu için sınıflar içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [PdfCoreOptions](./pdfcoreoptions/) | PDF'ye dönüştürme için yaygın seçenekler |
-| [PdfDocumentInfo](./pdfdocumentinfo/) | Bu sınıf, belge açıklaması için meta veri kümesini temsil eder. |
+| [PdfCoreOptions](./pdfcoreoptions/) | PDF'ye dönüştürme için ortak seçenekler. |
+| [PdfDocumentInfo](./pdfdocumentinfo/) | Bu sınıf, belge açıklaması için bir meta veri kümesini temsil eder. |
 
 

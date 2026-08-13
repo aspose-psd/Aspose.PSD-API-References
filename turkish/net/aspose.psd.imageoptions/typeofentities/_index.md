@@ -1,29 +1,30 @@
 ---
-title: Enum TypeOfEntities
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.TypeOfEntities Sıralama. render için varlık türlerini temsil eder
+title: "Enum TypeOfEntities"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities enum. Renderlenecek varlık tiplerini temsil eder"
 type: docs
-weight: 4970
+weight: 5490
 url: /tr/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
-render için varlık türlerini temsil eder
+Renderlenecek varlık türlerini temsil eder
 
 ```csharp
 public enum TypeOfEntities
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Entities2D | `0` | 2B varlıkları oluştur |
-| Entities3D | `1` | 3B varlıkları oluştur |
+| Entities2D | `0` | 2D varlıkları renderle |
+| Entities3D | `1` | 3D varlıkları renderle |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

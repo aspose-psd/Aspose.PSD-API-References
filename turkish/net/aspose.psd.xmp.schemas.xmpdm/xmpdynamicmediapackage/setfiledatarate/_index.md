@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetFileDataRate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Dosya veri hızını ayarlar.
+title: "XmpDynamicMediaPackage.SetFileDataRate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Dosya veri hızını ayarlar"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setfiledatarate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetFileDataRate method
 
 Dosya veri hızını ayarlar.
@@ -14,15 +15,15 @@ Dosya veri hızını ayarlar.
 public void SetFileDataRate(Rational rate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rate | Rational | Saniyede megabayt cinsinden dosya veri hızı. |
+| oran | Rational | Dosya veri hızı megabayt/saniye cinsinden. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

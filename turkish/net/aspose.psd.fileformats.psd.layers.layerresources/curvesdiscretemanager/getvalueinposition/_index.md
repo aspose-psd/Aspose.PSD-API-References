@@ -1,32 +1,33 @@
 ---
-title: CurvesDiscreteManager.GetValueInPosition
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesDiscreteManager yöntem. Konumdaki değeri alır.
+title: "CurvesDiscreteManager.GetValueInPosition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesDiscreteManager yöntemi. Pozisyondaki değeri alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.GetValueInPosition method
 
-Konumdaki değeri alır.
+Pozisyondaki değeri alır.
 
 ```csharp
 public byte GetValueInPosition(int channelIndex, byte position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
-| position | Byte | Pozisyon. |
+| channelIndex | Int32 | Kanalın indeksi. |
+| konum | Byte | Pozisyon. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Konumuna göre eğrinin değeri
+Eğrinin konumuna göre değeri
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesDiscreteManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

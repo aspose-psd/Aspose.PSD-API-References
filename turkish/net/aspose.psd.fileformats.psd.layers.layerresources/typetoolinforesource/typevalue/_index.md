@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TypeValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Tür değerini alır veya ayarlar.
+title: "TypeToolInfoResource.TypeValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Tip değerini alır veya ayarlar"
 type: docs
-weight: 240
+weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TypeValue property
 
-Tür değerini alır veya ayarlar.
+tip değerini alır veya ayarlar.
 
 ```csharp
 public short TypeValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tür değeri.
+Tip değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

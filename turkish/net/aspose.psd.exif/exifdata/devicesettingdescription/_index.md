@@ -1,27 +1,28 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Cihaz ayarlarını alır veya ayarlar açıklama
+title: "ExifData.DeviceSettingDescription"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Cihaz ayarları açıklamasını alır veya ayarlar"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd.exif/exifdata/devicesettingdescription/
 ---
+{{< psd/tize >}}
 ## ExifData.DeviceSettingDescription property
 
-Cihaz ayarlarını alır veya ayarlar açıklama
+Cihaz ayarları açıklamasını alır veya ayarlar
 
 ```csharp
 public byte[] DeviceSettingDescription { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Cihaz ayarı açıklaması.
+Cihaz ayarları açıklaması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

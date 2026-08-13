@@ -1,11 +1,12 @@
 ---
-title: ILayerEffect.BlendMode
-second_title: Aspose.PSD for .NET API Referansı
-description: ILayerEffect mülk. Karışım modunu alır veya ayarlar.
+title: "ILayerEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ILayerEffect property. Karışım modunu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.BlendMode property
 
 Karışım modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Karışım modunu alır veya ayarlar.
 public BlendMode BlendMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Karışım modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * interface [ILayerEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

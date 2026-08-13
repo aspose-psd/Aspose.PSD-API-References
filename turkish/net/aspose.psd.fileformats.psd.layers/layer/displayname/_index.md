@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katmanın görünen adını alır veya ayarlar.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katmanın görüntüleme adını alır veya ayarlar"
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-Katmanın görünen adını alır veya ayarlar.
+Katmanın görüntülenen adını alır veya ayarlar.
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katmanın görünen adı.
+Katmanın görüntüleme adı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, katman adının doğru görüntülenmesinde DisplayName değerini ayarlama becerisini gösterir.
+Aşağıdaki örnek, DisplayName değerini ayarlama yeteneğini gösterir, böylece katman adı doğru görüntülenir.
 
 ```csharp
 [C#]
 
-// katman adlarında değişiklikler yapın ve kaydedin
+// katman adlarında değişiklik yapın ve kaydedin
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

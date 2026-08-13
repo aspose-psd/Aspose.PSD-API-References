@@ -1,52 +1,53 @@
 ---
-title: Class Lfx2Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource sınıf. Lfx2 kaynağı efekt kaynağı
+title: "Sınıf Lfx2Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource sınıfı. Lfx2 kaynağı düzenli efekt kaynağı"
 type: docs
-weight: 2650
+weight: 2960
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource class
 
-Lfx2 kaynağı (efekt kaynağı)
+Lfx2 kaynağı (normal efekt kaynağı)
 
 ```csharp
-public sealed class Lfx2Resource : LayerResource
+public sealed class Lfx2Resource : BaseFxResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Lfx2Resource](lfx2resource/)() | Default_Constructor |
+| [Lfx2Resource](lfx2resource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/) { get; } | Tanımlayıcı sürümünü alır. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signature/) { get; } | Katman kaynak imzasını alır. |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/descriptorversion/) { get; } | Tanımlayıcı sürümünü alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* class [BaseFxResource](../basefxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

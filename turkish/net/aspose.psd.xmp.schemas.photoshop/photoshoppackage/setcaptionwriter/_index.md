@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Altyazı yazarını ayarlar.
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Başlık yazarını ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
 Altyazı yazarını ayarlar.
@@ -14,14 +15,14 @@ Altyazı yazarını ayarlar.
 public void SetCaptionWriter(string captionWriter)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| captionWriter | String | Altyazı yazarı. |
+| captionWriter | String | Başlık yazarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

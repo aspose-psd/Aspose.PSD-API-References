@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageCreateException inşaatçı. Yeni bir örneğini başlatır.ImageCreateException sınıf.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageCreateException yapıcı. ImageCreateException sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`ImageCreateException`](../) sınıf.
+Yeni bir [`ImageCreateException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageCreateException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ImageCreateException`](../) sınıf.
+Yeni bir [`ImageCreateException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageCreateException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

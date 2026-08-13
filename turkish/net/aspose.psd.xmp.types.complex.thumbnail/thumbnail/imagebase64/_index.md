@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.ImageBase64
-second_title: Aspose.PSD for .NET API Referansı
-description: Thumbnail mülk. Görüntüyü base64 biçiminde alır veya ayarlar.
+title: "Thumbnail.ImageBase64"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Thumbnail özelliği. Görüntüyü base64 formatında alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 ---
+{{< psd/tize >}}
 ## Thumbnail.ImageBase64 property
 
-Görüntüyü base64 biçiminde alır veya ayarlar.
+Base64 formatındaki görüntüyü alır veya ayarlar.
 
 ```csharp
 public string ImageBase64 { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Base64 formatındaki resim.
+Base64 formatındaki görüntü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Thumbnail](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

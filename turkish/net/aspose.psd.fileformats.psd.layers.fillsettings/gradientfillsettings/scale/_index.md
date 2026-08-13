@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Ölçeği alır veya ayarlar.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Normalleştirilmiş gradient ölçeğini yüzde olarak alır veya ayarlar."
 type: docs
-weight: 120
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-Ölçeği alır veya ayarlar.
+Yüzde olarak **normalized** gradyan ölçeğini alır veya ayarlar.
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ölçek.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ölçek 1 ile 1000 arasında olmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

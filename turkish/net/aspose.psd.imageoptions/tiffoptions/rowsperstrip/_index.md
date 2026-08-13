@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Şerit başına satırları alır veya ayarlar.
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Şerit başına satır sayısını alır veya ayarlar"
 type: docs
-weight: 380
+weight: 390
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-Şerit başına satırları alır veya ayarlar.
+Şerit başına satır sayısını alır veya ayarlar.
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şerit başına satır sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

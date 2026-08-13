@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. Katman kaynak anahtarını alır.
+title: "CgEdResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Katman kaynak anahtarını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

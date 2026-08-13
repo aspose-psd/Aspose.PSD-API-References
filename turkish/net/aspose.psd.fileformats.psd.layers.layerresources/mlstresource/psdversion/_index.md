@@ -1,23 +1,24 @@
 ---
-title: MlstResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: MlstResource mülk. psd sürümünü alır.
+title: "MlstResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MlstResource özelliği. PSD sürümünü alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/
 ---
+{{< psd/tize >}}
 ## MlstResource.PsdVersion property
 
-psd sürümünü alır.
+PSD sürümünü alır.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MlstResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

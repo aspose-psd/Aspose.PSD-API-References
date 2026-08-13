@@ -1,28 +1,29 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: Aspose.PSD for .NET API Referansı
-description: DublinCorePackage yöntem. Dublin Core başlığını ekler.
+title: "DublinCorePackage.SetTitle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DublinCorePackage yöntemi. Dublin Core başlığını ekler"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
-Dublin Core başlığını ekler.
+Dublin Core başlığı ekler.
 
 ```csharp
 public void SetTitle(string title)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | title | String | Başlık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Farklı diller için Dublin Core başlığı ekler.
 public void SetTitle(LangAlt title)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| title | LangAlt | Örneği[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | Örneği [`LangAlt`](../../../aspose.psd.xmp/langalt/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Font.Style
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bunun için stil bilgisi alırFont .
+title: "Font.Style"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font için stil bilgilerini alır."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/font/style/
 ---
+{{< psd/tize >}}
 ## Font.Style property
 
-Bunun için stil bilgisi alır[`Font`](../) .
+Bu [`Font`](../) öğesi için stil bilgilerini alır.
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`FontStyle`](../../fontstyle/) bunun için stil bilgisi içeren numaralandırma[`Font`](../).
+Bu [`Font`](../) öğesi için stil bilgilerini içeren bir [`FontStyle`](../../fontstyle/) numaralandırması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

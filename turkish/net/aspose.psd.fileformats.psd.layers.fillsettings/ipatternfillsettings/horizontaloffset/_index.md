@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Yatay ofseti alır veya ayarlar.
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Yatay ofseti alır veya ayarlar"
 type: docs
-weight: 10
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
 Yatay ofseti alır veya ayarlar.
@@ -14,14 +15,14 @@ Yatay ofseti alır veya ayarlar.
 public int HorizontalOffset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yatay uzaklık.
+Yatay ofset.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

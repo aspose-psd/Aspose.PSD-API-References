@@ -1,111 +1,112 @@
 ---
-title: CmykColorHelper.ToArgbIcc
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColorHelper yöntem. Varsayılan profillerle Icc dönüştürme kullanılarak CMYK renklerinden ARGB renklerine dönüştürme.
+title: "CmykColorHelper.ToArgbIcc"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColorHelper yöntemi. CMYK renklerden ARGB renklere, varsayılan profillerle Icc dönüşümü kullanarak dönüşüm"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/cmykcolorhelper/toargbicc/
 ---
+{{< psd/tize >}}
 ## ToArgbIcc(int[]) {#toargbicc_2}
 
-Varsayılan profillerle Icc dönüştürme kullanılarak CMYK renklerinden ARGB renklerine dönüştürme.
+CMYK renklerinden ARGB renklerine, varsayılan profillerle Icc dönüşümü kullanılarak dönüşüm.
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK pikselleri, 32 bitlik tamsayı değerleri olarak sunuldu. |
+| cmykPixels | Int32[] | CMYK pikseller 32-bit tam sayı değerleri olarak sunulur. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 ARGB renkleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int[], Stream, Stream) {#toargbicc_3}
 
-Özel profillerle Icc dönüştürme kullanılarak CMYK renklerinden ARGB renklerine dönüştürme.
+CMYK renklerinden ARGB renklerine, özel profillerle Icc dönüşümü kullanılarak dönüşüm.
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream rgbIccStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK renkleri, 32 bitlik tamsayı değerleri olarak sunuldu. |
+| cmykPixels | Int32[] | CMYK renkleri 32-bit tam sayı değerleri olarak sunulur. |
 | cmykIccStream | Stream | CMYK Icc profilini içeren akış. |
 | rgbIccStream | Stream | RGB Icc profilini içeren akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 ARGB renkleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int) {#toargbicc}
 
-Varsayılan profillerle Icc dönüştürme kullanılarak CMYK renginden ARGB rengine dönüştürme.
+CMYK renginden ARGB Rengine, varsayılan profillerle Icc dönüşümü kullanılarak dönüşüm.
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cmykPixel | Int32 | 32 bit tamsayı değeri olarak sunulan CMYK rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 ARGB rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int, Stream, Stream) {#toargbicc_1}
 
-Özel profille Icc dönüştürme kullanılarak CMYK renginden ARGB rengine dönüştürme.
+CMYK renginden ARGB rengine, özel profil ile Icc dönüşümü kullanılarak dönüşüm.
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIccStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cmykPixel | Int32 | 32 bit tamsayı değeri olarak sunulan CMYK rengi. |
 | cmykIccStream | Stream | CMYK Icc profilini içeren akış. |
 | rgbIccStream | Stream | RGB Icc profilini içeren akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 ARGB rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

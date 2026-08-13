@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetRgbIndexed
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile BGRA dizinlenmiş rengi alır.
+title: "PixelDataFormat.GetRgbIndexed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Belirtilen örnek başına bit sayısı ile BGRA indeksli rengi alır."
 type: docs
 weight: 270
 url: /tr/net/aspose.psd/pixeldataformat/getrgbindexed/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetRgbIndexed method
 
-Örnek başına belirtilen sayıda bit ile BGRA dizinlenmiş rengi alır.
+Örnek başına belirtilen bit sayısıyla BGRA indeksli rengi alır.
 
 ```csharp
 public static PixelDataFormat GetRgbIndexed(int bitsPerSample)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 BGRA rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: KnkoResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: KnkoResource alan. Tip aracı bilgi anahtarı.
+title: "KnkoResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "KnkoResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## KnkoResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [KnkoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

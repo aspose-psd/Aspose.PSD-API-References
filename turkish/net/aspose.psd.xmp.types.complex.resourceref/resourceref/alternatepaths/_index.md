@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceRef mülk. Alternatif yol dizisini alır veya ayarlar.
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceRef özelliği. Alternatif yol dizisini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
 Alternatif yol dizisini alır veya ayarlar.
@@ -14,14 +15,14 @@ Alternatif yol dizisini alır veya ayarlar.
 public string[] AlternatePaths { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Alternatif yol dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceRef](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

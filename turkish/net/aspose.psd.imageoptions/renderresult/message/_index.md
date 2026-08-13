@@ -1,23 +1,24 @@
 ---
-title: RenderResult.Message
-second_title: Aspose.PSD for .NET API Referansı
-description: RenderResult mülk. Mesaj dizisini alır veya ayarlar
+title: "RenderResult.Message"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RenderResult özelliği. Dize mesajını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/renderresult/message/
 ---
+{{< psd/tize >}}
 ## RenderResult.Message property
 
-Mesaj dizisini alır veya ayarlar
+Dize mesajını alır veya ayarlar
 
 ```csharp
 public string Message { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RenderResult](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../renderresult/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

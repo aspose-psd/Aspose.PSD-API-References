@@ -1,27 +1,28 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpLocale inşaatçı. Yeni bir örneğini başlatır.XmpLocale sınıf.
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpLocale yapıcı. XmpLocale sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-Yeni bir örneğini başlatır.[`XmpLocale`](../) sınıf.
+Yeni bir [`XmpLocale`](../) sınıfı örneğini başlatır.
 
 ```csharp
 public XmpLocale(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpLocale](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

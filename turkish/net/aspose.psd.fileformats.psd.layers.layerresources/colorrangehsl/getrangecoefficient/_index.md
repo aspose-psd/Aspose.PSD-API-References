@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl yöntem. Aralık Katsayısını alır.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl yöntemi. Aralık katsayısını alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
-Aralık Katsayısını alır.
+Aralık katsayısını alır.
 
 ```csharp
 public double GetRangeCoefficient(double hue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| hue | Double | Ton değeri. |
+| renk tonu | Double | Renk tonu değeri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doygunluk aralığı katsayısı.
+Doygunluk aralık katsayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

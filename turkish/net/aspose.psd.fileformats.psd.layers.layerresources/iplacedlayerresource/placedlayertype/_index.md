@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.PlacedLayerType
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD dosyasına yerleştirilen katmanın türünü alır veya ayarlar.
+title: "IPlacedLayerResource.PlacedLayerType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. Yerleştirilen katmanın PSD dosyasındaki tipini alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PlacedLayerType property
 
-PSD dosyasına yerleştirilen katmanın türünü alır veya ayarlar.
+PSD dosyasındaki yerleştirilmiş katmanın tipini alır veya ayarlar.
 
 ```csharp
 public PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

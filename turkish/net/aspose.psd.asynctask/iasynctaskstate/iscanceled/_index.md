@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.IsCanceled
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTaskState mülk. Eşzamansız görevin iptal edilip edilmediğini gösteren bir değer alır.
+title: "IAsyncTaskState.IsCanceled"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTaskState özelliği. Asenkron görevin iptal edilip edilmediğini gösteren bir değeri alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.IsCanceled property
 
-Eşzamansız görevin iptal edilip edilmediğini gösteren bir değer alır.
+Asenkron görevin iptal edilip edilmediğini gösteren bir değer alır.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` eşzamansız görev iptal edilirse; aksi takdirde,`YANLIŞ` .
+`true` eğer asenkron görev iptal edilmişse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTaskState](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileByteCounts
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Döşeme bayt sayılarını alır veya ayarlar.
+title: "TiffOptions.TileByteCounts"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Döşeme bayt sayısını alır veya ayarlar"
 type: docs
-weight: 520
+weight: 530
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileByteCounts property
 
-Döşeme bayt sayılarını alır veya ayarlar.
+Karoların bayt sayılarını alır veya ayarlar.
 
 ```csharp
 public uint[] TileByteCounts { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

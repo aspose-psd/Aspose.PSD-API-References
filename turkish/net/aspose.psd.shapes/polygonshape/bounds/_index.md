@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape mülk. Nesnenin sınırlarını alır.
+title: "PolygonShape.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape özelliği. Nesnenin sınırlarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.shapes/polygonshape/bounds/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Bounds property
 
 Nesnenin sınırlarını alır.
@@ -14,15 +15,15 @@ Nesnenin sınırlarını alır.
 public override RectangleF Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

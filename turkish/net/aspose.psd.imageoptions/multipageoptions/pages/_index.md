@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.PSD for .NET API Referansı
-description: MultiPageOptions mülk. Sayfaları alır veya ayarlar.
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MultiPageOptions özelliği. Sayfaları alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
 Sayfaları alır veya ayarlar.
@@ -14,14 +15,14 @@ Sayfaları alır veya ayarlar.
 public int[] Pages { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayfalar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MultiPageOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

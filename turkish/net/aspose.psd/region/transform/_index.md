@@ -1,34 +1,35 @@
 ---
-title: Region.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu dönüştürürRegion belirtilen tarafındanMatrix .
+title: "Region.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı belirtilen Matrix ile dönüştürür."
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/aspose.psd/region/transform/
 ---
+{{< psd/tize >}}
 ## Region.Transform method
 
-Bunu dönüştürür[`Region`](../) belirtilen tarafından[`Matrix`](../../matrix/) .
+Bu [`Region`](../) öğesini belirtilen [`Matrix`](../../matrix/) ile dönüştürür.
 
 ```csharp
 public void Transform(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../matrix/) bunu dönüştürmek için[`Region`](../). |
+| matrix | Matrix | Bu [`Region`](../) öğesini dönüştürmek için kullanılacak [`Matrix`](../../matrix/) |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *matrix* boş. |
+| ArgumentNullException | *matrix* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

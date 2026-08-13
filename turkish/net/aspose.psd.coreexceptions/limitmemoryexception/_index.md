@@ -1,37 +1,38 @@
 ---
-title: Class LimitMemoryException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.LimitMemoryException sınıf. Limit bellek istisnası. Bellek kullanımının azaltılması gerektiğinde gerçekleşir.
+title: "LimitMemoryException sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.LimitMemoryException sınıfı. Bellek sınırı istisnası. Bellek kullanımı azaltılmalı olduğunda oluşur"
 type: docs
 weight: 650
 url: /tr/net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException class
 
-Limit bellek istisnası. Bellek kullanımının azaltılması gerektiğinde gerçekleşir.
+Bellek sınırı istisnası. Bellek kullanımı azaltılması gerektiğinde ortaya çıkar.
 
 ```csharp
 public class LimitMemoryException : OutOfMemoryException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LimitMemoryException](limitmemoryexception/#constructor)(string) | Yeni bir örneğini başlatır.`LimitMemoryException` sınıf. |
-| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | Yeni bir örneğini başlatır.`LimitMemoryException` sınıf. |
-| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | Yeni bir örneğini başlatır.`LimitMemoryException` sınıf. |
-| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | Yeni bir örneğini başlatır.`LimitMemoryException` sınıf. |
+| [LimitMemoryException](limitmemoryexception/#constructor)(string) | `LimitMemoryException` sınıfının yeni bir örneğini başlatır. |
+| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | `LimitMemoryException` sınıfının yeni bir örneğini başlatır. |
+| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | `LimitMemoryException` sınıfının yeni bir örneğini başlatır. |
+| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | `LimitMemoryException` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | Bellek azaltma faktörünü alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

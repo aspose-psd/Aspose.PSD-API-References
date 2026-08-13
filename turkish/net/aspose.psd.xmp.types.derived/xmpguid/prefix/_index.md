@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Prefix
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpGuid mülk. uuid. gibi öneki alır veya ayarlar
+title: "XmpGuid.Prefix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpGuid özelliği. uuid gibi önek'i alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Prefix property
 
-uuid. gibi öneki alır veya ayarlar
+uuid gibi önek alır veya ayarlar.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-uuid. gibi önek
+Uuid gibi önek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpGuid](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

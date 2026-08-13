@@ -1,11 +1,12 @@
 ---
-title: Layer.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman adını alır veya ayarlar.
+title: "Layer.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katman adını alır veya ayarlar"
 type: docs
-weight: 260
+weight: 270
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
 Katman adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Katman adını alır veya ayarlar.
 public string Name { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

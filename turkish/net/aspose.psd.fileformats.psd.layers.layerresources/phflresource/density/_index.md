@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResource mülk. Yoğunluğu alır veya ayarlar.
+title: "PhflResource.Density"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResource özelliği. Yoğunluğu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 Yoğunluğu alır veya ayarlar.
@@ -14,14 +15,14 @@ Yoğunluğu alır veya ayarlar.
 public int Density { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yoğunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

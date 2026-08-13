@@ -1,49 +1,50 @@
 ---
-title: Region.Translate
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunun koordinatlarını kaydırırRegionbelirtilen miktarda.
+title: "Region.Translate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ın koordinatlarını belirtilen miktarda kaydırır"
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.psd/region/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float) {#translate_1}
 
-Bunun koordinatlarını kaydırır[`Region`](../)belirtilen miktarda.
+Bu [`Region`](../) koordinatlarını belirtilen miktarda kaydırır.
 
 ```csharp
 public void Translate(float dx, float dy)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dx | Single | Bunu telafi edecek miktar[`Region`](../) yatay olarak. |
-| dy | Single | Bunu telafi edecek miktar[`Region`](../) dikey olarak. |
+| dx | Single | Bu [`Region`](../) yatay olarak kaydırmak için miktar. |
+| dy | Single | Bu [`Region`](../) dikey olarak kaydırmak için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(int, int) {#translate}
 
-Bunun koordinatlarını kaydırır[`Region`](../)belirtilen miktarda.
+Bu [`Region`](../) koordinatlarını belirtilen miktarda kaydırır.
 
 ```csharp
 public void Translate(int dx, int dy)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dx | Int32 | Bunu telafi edecek miktar[`Region`](../) yatay olarak. |
-| dy | Int32 | Bunu telafi edecek miktar[`Region`](../) dikey olarak. |
+| dx | Int32 | Bu [`Region`](../) yatay olarak kaydırmak için miktar. |
+| dy | Int32 | Bu [`Region`](../) dikey olarak kaydırmak için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,50 +1,51 @@
 ---
-title: XmpArray.XmpArray
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpArray inşaatçı. Yeni bir örneğini başlatır.XmpArray sınıf.
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpArray yapıcı. XmpArray sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpArray`](../) sınıf.
+Yeni bir örnek başlatır [`XmpArray`](../) sınıfının.
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | XmpArrayType | dizinin türü. |
-| items | String[] | Öğeler listesi. |
+| tür | XmpArrayType | Dizinin türü. |
+| öğeler | String[] | Öğeler listesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmparray/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpArray`](../) sınıf.
+Yeni bir örnek başlatır [`XmpArray`](../) sınıfının.
 
 ```csharp
 public XmpArray(XmpArrayType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | XmpArrayType | dizinin türü. |
+| tür | XmpArrayType | Dizinin türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmparray/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

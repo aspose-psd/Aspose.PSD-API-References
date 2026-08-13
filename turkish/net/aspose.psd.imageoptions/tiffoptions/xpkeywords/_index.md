@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPKeywords
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Windows Gezgini tarafından kullanılan özne görüntüsünü alır veya ayarlar.
+title: "TiffOptions.XPKeywords"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Windows Explorer tarafından kullanılan konu görüntüsünü alır veya ayarlar"
 type: docs
-weight: 610
+weight: 620
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/xpkeywords/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPKeywords property
 
-Windows Gezgini tarafından kullanılan özne görüntüsünü alır veya ayarlar.
+Görüntü konusunu alır veya ayarlar, Windows Explorer tarafından kullanılır.
 
 ```csharp
 public string XPKeywords { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Windows Gezgini tarafından kullanılan konu resmi.
+Konu görüntüsü, Windows Explorer tarafından kullanılır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VstkResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. İmzayı alır.
+title: "VstkResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. İmzayı alır"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/
 ---
+{{< psd/tize >}}
 ## VstkResource.Signature property
 
 İmzayı alır.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

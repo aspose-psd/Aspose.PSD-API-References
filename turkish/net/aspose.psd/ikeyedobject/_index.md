@@ -1,28 +1,29 @@
 ---
-title: Interface IKeyedObject
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IKeyedObject arayüz. Anahtarlı nesneler için arabirimi temsil eder.
+title: "Arayüz IKeyedObject"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IKeyedObject arayüzü. Anahtarları olan nesneler için arayüzü temsil eder"
 type: docs
-weight: 4480
+weight: 4980
 url: /tr/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
-Anahtarlı nesneler için arabirimi temsil eder.
+Anahtarları olan nesneler için arayüzü temsil eder.
 
 ```csharp
 public interface IKeyedObject
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Nesne anahtarını alır. |
+| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Nesnenin anahtarını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

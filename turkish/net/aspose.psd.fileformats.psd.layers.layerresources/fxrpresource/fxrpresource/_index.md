@@ -1,70 +1,71 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD for .NET API Referansı
-description: FxrpResource inşaatçı. Yeni bir örneğini başlatır.FxrpResource sınıf.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FxrpResource yapıcı. FxrpResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`FxrpResource`](../) sınıf.
+[`FxrpResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| x | Double | referans noktasının x koordinatı |
-| y | Double | referans noktasının y koordinatı |
+| x | Double | Referans noktasının x koordinatı |
+| y | Double | Referans noktasının y koordinatı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`FxrpResource`](../) sınıf.
+[`FxrpResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FxrpResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`FxrpResource`](../) class. Özel veya bilinmeyen değerle
+[`FxrpResource`](../) sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen değerle
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynak verileri. |
+| veri | Byte[] | Kaynak veri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Fxrp Kaynak değeri |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Fxrp Resource değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

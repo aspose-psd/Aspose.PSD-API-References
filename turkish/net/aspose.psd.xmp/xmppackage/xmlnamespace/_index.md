@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage mülk. XML ad alanını alır.
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage özelliği. XML ad alanını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
 XML ad alanını alır.
@@ -14,14 +15,14 @@ XML ad alanını alır.
 public string XmlNamespace { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 XML ad alanı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

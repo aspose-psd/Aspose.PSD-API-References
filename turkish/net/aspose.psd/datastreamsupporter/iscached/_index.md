@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: Aspose.PSD for .NET API Referansı
-description: DataStreamSupporter mülk. Nesnenin verilerinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekip gerekmediğini gösteren bir değer alır.
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DataStreamSupporter özelliği. Nesnenin verisinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekmediğini gösteren bir değer döndürür."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-Nesnenin verilerinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekip gerekmediğini gösteren bir değer alır.
+Nesnenin verisinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekmediğini gösteren bir değeri alır.
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` nesnenin verileri önbelleğe alınmışsa; aksi takdirde,`YANLIŞ` .
+`true` eğer nesnenin verileri önbelleğe alınmışsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DataStreamSupporter](../)
-* ad alanı [Aspose.PSD](../../datastreamsupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

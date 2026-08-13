@@ -1,32 +1,33 @@
 ---
-title: Point.Truncate
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Belirtileni dönüştürürPointF birPoint değerlerini keserekPoint .
+title: "Point.Truncate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Belirtilen PointF'yi, Point değerlerini kırparak bir Point'e dönüştürür."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-Belirtileni dönüştürür[`PointF`](../../pointf/) bir[`Point`](../) değerlerini keserek[`Point`](../) .
+Belirtilen [`PointF`](../../pointf/) değerlerini, [`Point`](../) değerlerini kırparak bir [`Point`](../)'e dönüştürür.
 
 ```csharp
 public static Point Truncate(PointF point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../../pointf/) dönüştürmek. |
+| point | PointF | Dönüştürülecek [`PointF`](../../pointf/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Point`](../) bu yönteme dönüşür.
+Bu yöntemin dönüştürdüğü [`Point`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

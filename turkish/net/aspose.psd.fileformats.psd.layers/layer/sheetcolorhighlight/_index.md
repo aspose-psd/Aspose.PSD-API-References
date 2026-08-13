@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katmanlar listesindeki dekoratif sayfa rengi vurgusunu alır veya ayarlar
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katmanlar listesinde dekoratif sayfa renk vurgusunu alır veya ayarlar"
 type: docs
-weight: 300
+weight: 310
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-Katmanlar listesindeki dekoratif sayfa rengi vurgusunu alır veya ayarlar
+Katmanlar listesindeki dekoratif sayfa renk vurgusunu alır veya ayarlar
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sayfa rengi vurgusu.
+Sayfa renk vurgusu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

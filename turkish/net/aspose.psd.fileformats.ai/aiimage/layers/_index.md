@@ -1,11 +1,12 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Katman bölümlerini alır.
+title: "AiImage.Layers"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Katman bölümlerini alır"
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
 Katman bölümlerini alır.
@@ -14,15 +15,15 @@ Katman bölümlerini alır.
 public AiLayerSection[] Layers { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman bölümleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

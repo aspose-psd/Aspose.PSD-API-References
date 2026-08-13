@@ -1,30 +1,31 @@
 ---
-title: Enum ExifContrast
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifContrast Sıralama. exif normal yumuşak sabit numaralandırma.
+title: "Enum ExifContrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal yumuşak sert enum"
 type: docs
-weight: 810
+weight: 820
 url: /tr/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-exif normal yumuşak sabit numaralandırma.
+exif normal yumuşak sert sayımı.
 
 ```csharp
 public enum ExifContrast
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Normal | `0` | Normal kontrast. |
 | Low | `1` | Düşük kontrast. |
 | High | `2` | Yüksek kontrast. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

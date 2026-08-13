@@ -1,11 +1,12 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Aspose.PSD for .NET API Referansı
-description: ChannelInformation mülk. Kanal kimliğini alır veya ayarlar.
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ChannelInformation özelliği. Kanal kimliğini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
 Kanal kimliğini alır veya ayarlar.
@@ -14,14 +15,14 @@ Kanal kimliğini alır veya ayarlar.
 public short ChannelID { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kanal kimliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ChannelInformation](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

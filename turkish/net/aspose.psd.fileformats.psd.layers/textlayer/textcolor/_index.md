@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TextColor
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer mülk. Metnin rengini alır.
+title: "TextLayer.TextColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer özelliği. Metnin rengini alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
 Metnin rengini alır.
@@ -14,21 +15,21 @@ Metnin rengini alır.
 public Color TextColor { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Metnin rengi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Renk bileşeni verileri ayrıştırılırken hata oluştu |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Renk bileşeni verisi ayrıştırılırken hata oluştu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

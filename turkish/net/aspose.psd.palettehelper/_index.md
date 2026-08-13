@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.PaletteHelper
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı renk paletinin görüntü renklerine ayarlanması ve tersi için sınıflar içerir.
+title: "Aspose.PSD.PaletteHelper"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, renk paletinin görüntü renklerine ve tersine ayarlanması için sınıflar içerir."
 type: docs
-weight: 470
+weight: 510
 url: /tr/net/aspose.psd.palettehelper/
 ---
-Ad alanı, renk paletinin görüntü renklerine ayarlanması ve tersi için sınıflar içerir.
+{{< psd/tize >}}
+Bu ad alanı, renk paletinin görüntü renklerine ve tersine ayarlanması için sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [AdjustPalette](./adjustpalette/) | Renk paleti ayarı class |
+| [AdjustPalette](./adjustpalette/) | Renk paleti ayarlama sınıfı |
 
 

@@ -1,32 +1,33 @@
 ---
-title: PixelDataFormat.op_Equality
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. İki için eşitlik sonucunu verirPixelDataFormat sınıflar.
+title: "PixelDataFormat.op_Equality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. İki PixelDataFormat sınıfı için eşitlik sonucunu döndürür."
 type: docs
 weight: 380
 url: /tr/net/aspose.psd/pixeldataformat/op_equality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Equality operator
 
-İki için eşitlik sonucunu verir[`PixelDataFormat`](../) sınıflar.
+İki [`PixelDataFormat`](../) sınıfı için eşitlik sonucunu döndürür.
 
 ```csharp
 public static bool operator ==(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | İlk[`PixelDataFormat`](../) karşılaştırmak. |
-| pixelFormat2 | PixelDataFormat | İkinci[`PixelDataFormat`](../) karşılaştırmak. |
+| pixelFormat1 | PixelDataFormat | Karşılaştırılacak ilk [`PixelDataFormat`](../). |
+| pixelFormat2 | PixelDataFormat | Karşılaştırmak için ikinci [`PixelDataFormat`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İkisi de doğruysa*pixelFormat1* Ve*pixelFormat2* eşit veri içerir veya her iki parametre de boştur.
+*pixelFormat1* ve *pixelFormat2* eşit veri içeriyorsa veya her iki parametre de null ise True.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

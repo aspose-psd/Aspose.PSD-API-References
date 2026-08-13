@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu güncellerRegion belirtilen kısmı içermek içinRectangleF bununla kesişmeyen yapıRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı, belirtilen RectangleF yapısının bu Region ile kesişmeyen kısmını içerecek şekilde günceller."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-Bunu günceller[`Region`](../) belirtilen kısmı içermek için[`RectangleF`](../../rectanglef/) bununla kesişmeyen yapı[`Region`](../) .
+Bu [`Region`](../) nesnesini, belirtilen [`RectangleF`](../../rectanglef/) yapısının bu [`Region`](../) ile kesişmeyen kısmını içerecek şekilde günceller.
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | bu[`RectangleF`](../../rectanglef/) Bunu tamamlayacak yapı[`Region`](../). |
+| rect | RectangleF | Bu [`Region`](../) ile tamamlayacak [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-Bunu günceller[`Region`](../) belirtilen kısmı içermek için[`Rectangle`](../../rectangle/) bununla kesişmeyen yapı[`Region`](../) .
+Bu [`Region`](../) nesnesini, belirtilen [`Rectangle`](../../rectangle/) yapısının bu [`Region`](../) ile kesişmeyen kısmını içerecek şekilde günceller.
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) Bunu tamamlayacak yapı[`Region`](../). |
+| rect | Rectangle | Bu [`Region`](../) ile tamamlayacak [`Rectangle`](../../rectangle/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-Bunu günceller[`Region`](../) belirtilen kısmı içermek için[`GraphicsPath`](../../graphicspath/) bununla kesişmeyen[`Region`](../) .
+Bu [`Region`](../) nesnesini, belirtilen [`GraphicsPath`](../../graphicspath/) öğesinin bu [`Region`](../) ile kesişmeyen kısmını içerecek şekilde günceller.
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../graphicspath/) bunu tamamlamak için[`Region`](../). |
+| path | GraphicsPath | Bu [`Region`](../) ile tamamlayacak [`GraphicsPath`](../../graphicspath/) öğesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *path*boş. |
+| ArgumentNullException | *path* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-Bunu günceller[`Region`](../) belirtilen kısmı içermek için[`Region`](../) bununla kesişmeyen[`Region`](../) .
+Bu [`Region`](../) nesnesini, belirtilen [`Region`](../) öğesinin bu [`Region`](../) ile kesişmeyen kısmını içerecek şekilde günceller.
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../) bunu tamamlamak için itiraz[`Region`](../) nesne. |
+| region | Region | Bu [`Region`](../) nesnesini tamamlayacak [`Region`](../) nesnesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *region*boş. |
+| ArgumentNullException | *region* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

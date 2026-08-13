@@ -1,23 +1,24 @@
 ---
-title: XmpArray.Values
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpArray mülk. İçindeki değer dizisini alırXmpArray .
+title: "XmpArray.Values"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpArray özelliği. XmpArray içinde değerler dizisini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-İçindeki değer dizisini alır[`XmpArray`](../) .
+[`XmpArray`](../) içinde değerler dizisini alır.
 
 ```csharp
 public string[] Values { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpArray](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmparray/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

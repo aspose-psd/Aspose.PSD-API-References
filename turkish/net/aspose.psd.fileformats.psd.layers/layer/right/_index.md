@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Doğru katman konumunu alır veya ayarlar.
+title: "Layer.Right"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Sağ katman konumunu alır veya ayarlar"
 type: docs
-weight: 290
+weight: 300
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-Doğru katman konumunu alır veya ayarlar.
+Sağ katman konumunu alır veya ayarlar.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru katman konumu.
+Sağ katman konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

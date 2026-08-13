@@ -1,11 +1,12 @@
 ---
-title: License.License
-second_title: Aspose.PSD for .NET API Referansı
-description: License inşaatçı. Bu sınıfın yeni bir örneğini başlatır.
+title: "License.License"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "License yapıcı. Bu sınıfın yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
 Bu sınıfın yeni bir örneğini başlatır.
@@ -14,9 +15,9 @@ Bu sınıfın yeni bir örneğini başlatır.
 public License()
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnekte, bileşenini içeren klasörde, çağıran derlemeyi içeren klasörde, giriş derlemesinin klasöründe ve ardından çağıran derlemenin katıştırılmış kaynakları.
+Bu örnekte, bileşeni içeren klasörde, çağıran derlemeyi içeren klasörde, giriş derlemesinin klasöründe ve ardından çağıran derlemenin gömülü kaynaklarında MyLicense.lic adlı bir lisans dosyası bulunmaya çalışılacaktır.
 
 ```csharp
 [C#]
@@ -31,10 +32,10 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [License](../)
-* ad alanı [Aspose.PSD](../../license/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

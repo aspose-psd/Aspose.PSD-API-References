@@ -1,27 +1,28 @@
 ---
-title: RasterImage.BinarizeFixed
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Önceden tanımlanmış eşikle bir görüntünün ikili hale getirilmesi
+title: "RasterImage.BinarizeFixed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Önceden tanımlı eşik ile bir görüntünün ikilileştirilmesi"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd/rasterimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## RasterImage.BinarizeFixed method
 
-Önceden tanımlanmış eşikle bir görüntünün ikili hale getirilmesi
+Önceden tanımlı eşik ile bir görüntünün ikilileştirilmesi
 
 ```csharp
 public virtual void BinarizeFixed(byte threshold)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| threshold | Byte | Eşik değeri. Bir pikselin karşılık gelen gri değeri eşikten büyükse, ona 255, aksi takdirde 0 değeri atanır. |
+| eşik | Byte | Eşik değeri. Bir pikselin ilgili gri değeri eşiğin üzerindeyse, ona 255 değeri atanır, aksi takdirde 0. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

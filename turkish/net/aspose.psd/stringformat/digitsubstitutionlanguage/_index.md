@@ -1,31 +1,32 @@
 ---
-title: StringFormat.DigitSubstitutionLanguage
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Batı rakamları yerine yerel rakamlar kullanıldığında kullanılan dili alır veya ayarlar.
+title: "StringFormat.DigitSubstitutionLanguage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Yerel rakamların batı rakamlarıyla değiştirildiği durumda kullanılan dili alır veya ayarlar"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd/stringformat/digitsubstitutionlanguage/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionLanguage property
 
-Batı rakamları yerine yerel rakamlar kullanıldığında kullanılan dili alır veya ayarlar.
+Yerel rakamlar batı rakamlarıyla değiştirildiğinde kullanılan dili alır veya ayarlar.
 
 ```csharp
 public int DigitSubstitutionLanguage { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Batı rakamları yerine yerel rakamlar kullanıldığında kullanılacak dili tanımlayan bir Ulusal Dil Desteği (NLS) dil tanımlayıcısı. LCID bir mülkCultureInfo NLS dil tanımlayıcısı olarak nesne. Örneğin, birCultureInfo "ar-EG" dizesini bir nesneye geçirerek nesneCultureInfo yapıcı. LCID bunun özelliğiCultureInfo ile birlikte nesneTraditional içinStringDigitSubstitute) yöntemi, , ardından Arapça-Hint rakamları görüntüleme zamanında batı rakamlarının yerine geçecektir.
+Yerel rakamların batı rakamlarıyla değiştirildiği durumda kullanılacak dili tanımlayan bir Ulusal Dil Desteği (NLS) dil tanımlayıcısıdır. NLS dil tanımlayıcısı olarak bir CultureInfo nesnesinin LCID özelliğini geçirebilirsiniz. Örneğin, bir CultureInfo nesnesini "ar-EG" dizesini CultureInfo yapıcısına geçirerek oluşturduğunuzu varsayalım. Bu CultureInfo nesnesinin LCID özelliğini, StringDigitSubstitute) yöntemine geleneksel olarak birlikte geçirirseniz, Arapça-Hint rakamları görüntüleme sırasında batı rakamlarıyla değiştirilecektir.
 
-### Notlar
+## Açıklamalar
 
-Ayarlayıcı, kullanılmayan SetDigitSubstitution yöntemi için tanıtıldı.
+SetDigitSubstitution adlı eski yöntem için ayarlayıcı (setter) tanıtıldı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

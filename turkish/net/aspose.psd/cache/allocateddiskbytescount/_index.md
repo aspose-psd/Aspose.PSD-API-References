@@ -1,11 +1,12 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: Cache mülk. Ayrılan disk bayt sayısını alır.
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Cache özelliği. Ayrılan disk bayt sayısını alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
 Ayrılan disk bayt sayısını alır.
@@ -14,14 +15,14 @@ Ayrılan disk bayt sayısını alır.
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tahsis edilen disk bayt sayısı.
+Ayrılan disk bayt sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Cache](../)
-* ad alanı [Aspose.PSD](../../cache/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

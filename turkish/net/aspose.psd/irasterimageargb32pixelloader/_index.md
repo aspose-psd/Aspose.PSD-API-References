@@ -1,29 +1,30 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IRasterImageArgb32PixelLoader arayüz. Raster görüntü 32 bit ARGB piksel yükleyici.
+title: "Arayüz IRasterImageArgb32PixelLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IRasterImageArgb32PixelLoader arayüzü. 32 bit ARGB piksel yükleyicisi raster görüntüsü."
 type: docs
-weight: 4560
+weight: 5060
 url: /tr/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
-Raster görüntü 32 bit ARGB piksel yükleyici.
+Raster görüntü 32-bit ARGB piksel yükleyicisi.
 
 ```csharp
 public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | 32-bit ARGB piksellerini kısmen yükler (bloklarla). |
+| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | 32 bit ARGB piksellerini kısmen (bloklar halinde) yükler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

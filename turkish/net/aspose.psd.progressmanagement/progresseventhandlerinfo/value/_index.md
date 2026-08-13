@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: ProgressEventHandlerInfo mülk. Mevcut ilerleme değerini alır.
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ProgressEventHandlerInfo özelliği. Mevcut ilerleme değerini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
 Mevcut ilerleme değerini alır.
@@ -14,14 +15,14 @@ Mevcut ilerleme değerini alır.
 public int Value { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 İlerleme değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ProgressEventHandlerInfo](../)
-* ad alanı [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

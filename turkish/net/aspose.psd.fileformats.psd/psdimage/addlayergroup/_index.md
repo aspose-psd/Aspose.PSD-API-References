@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Katman grubunu ekler.
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Katman grubunu ekler"
 type: docs
-weight: 380
+weight: 400
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
 Katman grubunu ekler.
@@ -14,27 +15,27 @@ Katman grubunu ekler.
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | groupName | String | Grubun adı. |
-| index | Int32 | Sonrasına eklenecek katmanın dizini. |
-| startBehaviour | Boolean | olarak ayarlanmışsa`doğru` [başlangıç davranışı], grup başlangıçta açık durumda, aksi takdirde küçültülmüş durumda olacaktır. |
+| index | Int32 | Sonra eklenecek katmanın indeksi. |
+| startBehaviour | Boolean | `true` olarak ayarlanırsa [start behaviour] grup başlangıçta açık durumda olur, aksi takdirde küçültülmüş durumda. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Layer grubu açılıyor
+Grup katmanını açma
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Dizin, Katman sayısı sınırları içinde olmalıdır |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Dizin, Katmanlar sayısının sınırları içinde olmalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

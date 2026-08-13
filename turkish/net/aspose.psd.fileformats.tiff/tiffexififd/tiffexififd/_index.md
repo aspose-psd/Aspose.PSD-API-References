@@ -1,47 +1,48 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffExifIfd inşaatçı. Yeni bir örneğini başlatır.TiffExifIfd sınıf.
+title: "TiffExifIfd.TiffExifIfd"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffExifIfd yapıcı. TiffExifIfd sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.tiff/tiffexififd/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd() {#constructor}
 
-Yeni bir örneğini başlatır.[`TiffExifIfd`](../) sınıf.
+[`TiffExifIfd`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffExifIfd()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffExifIfd](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`TiffExifIfd`](../) sınıf.
+[`TiffExifIfd`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | ifdOffset | UInt32 | Exif IFD'ye bir işaretçi. |
 
-### Notlar
+## Açıklamalar
 
-Birlikte Çalışabilirlik, Exif IFD, TIFF'de belirtilen IFD ile aynı yapıya sahiptir. normalde , ancak TIFF. durumunda olduğu gibi görüntü verilerini içermez
+Uyumluluk, Exif IFD, TIFF'te belirtilen IFD'nin aynı yapısına sahiptir. Ancak, genellikle TIFF durumunda olduğu gibi görüntü verisi içermez.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffExifIfd](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,62 +1,65 @@
 ---
-title: Class PsdOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.PsdOptions sınıf. psd dosya biçimi oluşturma seçenekleri.
+title: "PsdOptions sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.PsdOptions sınıfı. psd dosya formatı oluşturma seçenekleri"
 type: docs
-weight: 4900
+weight: 5420
 url: /tr/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
-psd dosya biçimi oluşturma seçenekleri.
+The psd dosya formatı oluşturma seçenekleri.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | Yeni bir örneğini başlatır.`PsdOptions` sınıf. |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Yeni bir örneğini başlatır.`PsdOptions` sınıf. |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Yeni bir örneğini başlatır.`PsdOptions` sınıf. |
+| [PsdOptions](psdoptions/#constructor)() | `PsdOptions` sınıfının yeni bir örneğini başlatır. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | `PsdOptions` sınıfının yeni bir örneğini başlatır. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | `PsdOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Renk kanalı başına bit sayısını alır veya ayarlar. |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | Arka plan rengini alır veya ayarlar. Şeffaf nesnelerin altında görülebilir. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Renk kanal başına bit sayısını alır veya ayarlar. |
 | [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Renk kanalı sayısını alır veya ayarlar. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | psd renk modunu alır veya ayarlar. |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | psd sıkıştırma yöntemini alır veya ayarlar. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Varsayılan yedek yazı tipini alır veya ayarlar (PSD dosyasındaki mevcut katman yazı tipi sistemde sunulmuyorsa, taramaya dışa aktarırken metin çizmek için kullanılacak yazı tipi). Varsayılan yazı tipinin uygun adını almak için bir sonraki kod parçacığı kullanılabilir : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] familys = col.Families; string defaultFontName = familys[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | [tam çerçeve]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | PSD renk modunu alır veya ayarlar. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | PSD sıkıştırma yöntemini alır veya ayarlar. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Varsayılan yedekleme yazı tipini alır veya ayarlar (rastera dışa aktarırken metin çizerken kullanılacak yazı tipi, eğer PSD dosyasındaki mevcut katman yazı tipi sistemde bulunmuyorsa). Varsayılan yazı tipinin doğru adını almak için aşağıdaki kod parçacığı kullanılabilir: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Tam çerçeve olup olduğunu gösteren bir değeri alır veya ayarlar. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Çok sayfalı seçenekler |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Renk paletini alır veya ayarlar. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | İlerleme olay işleyicisini alır veya ayarlar. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Dosya biçimi sürümünü alır veya ayarlar. PSD veya PSB. olabilir |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Başka bir PSD resim görüntüleyiciyle uyumluluğu en üst düzeye çıkarmak için kullanılan [resim önizleme verilerini yenile] seçeneğinin kullanılıp kullanılmadığını belirten bir değer alır veya ayarlar. Lütfen unutmayın, son düzene çizilen metin katmanları Compact Framework platformu için desteklenmez |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Şunu belirten bir değer alır veya ayarlar: - Genel metin motoru kaynağını kaldır - Bazı metin katmanlı psd dosyaları için kullanılır, yalnızca işlendikten sonra Adobe Photoshop'ta açılamadıkları durumlarda (çoğunlukla ilgili metin katmanları olmayan yazı tipleri için). Bu seçeneği kullandıktan sonra, kullanıcının Photoshop dosyasında açılan sonraki öğeyi yapması gerekir: Menü "Metin" -&gt; "Olmayan yazı tiplerini işle". Bu işlemden sonra tüm metin yeniden görünecektir. Bu işlemin bazı son düzen değişikliklerine neden olabileceğini lütfen unutmayın. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Dosya formatı sürümünü alır veya ayarlar. PSD veya PSB olabilir. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Görüntü önizleme verilerini [refresh image preview data] yenileme seçeneğini gösteren bir değeri alır veya ayarlar - bu seçenek başka PSD görüntüleyicileriyle uyumluluğu en üst düzeye çıkarmak için kullanılır. Lütfen, metin katmanlarının son düzene çizilmesinin Compact Framework platformu için desteklenmediğini unutmayın. |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Kaldırma işlemini gösteren bir değeri alır veya ayarlar - Global metin motoru kaynağını kaldır - Bazı metin katmanlı PSD dosyaları için kullanılır; yalnızca işleme sonrasında Adobe Photoshop'ta açılamadığında (çoğunlukla eksik fontlarla ilgili metin katmanları). Bu seçeneği kullandıktan sonra, kullanıcı Photoshop'ta açılan dosyada şu adımları izlemelidir: Menü \"Text\" -> \"Process absent fonts\". Bu işlemden sonra tüm metin tekrar görünecektir. Lütfen, bu işlemin bazı son düzen değişikliklerine neden olabileceğini unutmayın. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Çözünürlük ayarlarını alır veya ayarlar. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | psd kaynaklarını alır veya ayarlar. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | . içinde görüntü oluşturmak için kaynağı alır veya ayarlar |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Vektör tarama seçeneklerini alır veya ayarlar. |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | psd dosya sürümünü alır veya ayarlar. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | XMP veri kapsayıcısını alın veya ayarlayın |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | PSD kaynaklarını alır veya ayarlar. Değer: NULL - orijinal ImageResources kaydedilir (varsayılan davranış) Boş değil - bu özelliğe geçirilen kaynaklar + [required resources] kaydedilir. Boş - yalnızca [required resources] kaydedilir. Gerekli kaynaklar: ResolutionInfoResource, XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Görüntünün oluşturulacağı kaynağı alır veya ayarlar. |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | Metadataları [update metadata] güncelleme seçeneğini gösteren bir değeri alır veya ayarlar. Değer true ise, görüntü kaydedilirken metadata güncellenir. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Vektör rasterleştirme seçeneklerini alır veya ayarlar. |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | PSD dosya sürümünü alır veya ayarlar. |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | XMP veri kapsayıcısını al veya ayarla |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Bu örneği klonlar. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI dosyasını Aspose.PSD'de PSD ve PNG formatına nasıl aktarabileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde AI dosyasını PSD ve PNG formatına nasıl dışa aktarabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Bu örnek, PsdOptions örneğinin Source özelliği tarafından belirtildiği gibi bazı disk konumlarında yeni bir Görüntü dosyası oluşturur. Gerçek görüntüyü oluşturmadan önce PsdOptions örneği için çeşitli özellikler ayarlanır. Özellikle bu durumda gerçek disk konumuna atıfta bulunan Source özelliği.
+Bu örnek, PsdOptions örneğinin Source özelliğiyle belirtilen bir disk konumunda yeni bir Image dosyası oluşturur. Gerçek görüntüyü oluşturmadan önce PsdOptions örneği için birkaç özellik ayarlanır. Özellikle bu durumda gerçek disk konumunu belirten Source özelliği.
 
 ```csharp
 [C#]
 
-//PsdOptions'ın bir örneğini oluşturun ve çeşitli özelliklerini ayarlayın
+//PsdOptions bir örneği oluşturun ve çeşitli özelliklerini ayarlayın.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Bir FileCreateSource örneği oluşturun ve bunu PsdOptions örneği için Kaynak olarak atayın
-//İkinci Boolean parametresi oluşturulacak dosyanın IsTemporal olup olmadığını belirler.
+//FileCreateSource bir örneği oluşturun ve bunu PsdOptions örneği için Source olarak atayın.
+//İkinci Boolean parametre, oluşturulacak dosyanın geçici (IsTemporal) olup olmadığını belirler.
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Bir Image örneği oluşturun ve Create yöntemini çağırarak onu PsdOptions örneğiyle başlatın
+//Image bir örneği oluşturun ve Create metodunu çağırarak PsdOptions örneğiyle başlatın.
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // biraz görüntü işleme yapalım
+    //biraz görüntü işleme yap
 
     // tüm değişiklikleri kaydet
     image.Save();
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını okumanın ve kanal başına 16 bit RGB'ye kaydetmenin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarını kanal başına 16 bit RGB'ye okumanın ve kaydetmenin doğru çalıştığını ve istisna oluşmadığını gösterir.
 
 ```csharp
 [C#]
@@ -120,12 +123,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Burada bir istisna olmamalıdır.
+    // Burada istisna olmamalıdır.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını kanal başına 8 bit olarak okumanın ve kaydetmenin düzgün ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarını kanal başına 8 bit Grayscale'e okumanın ve kaydetmenin doğru çalıştığını ve istisna oluşmadığını gösterir.
 
 ```csharp
 [C#]
@@ -153,12 +156,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Burada bir istisna olmamalıdır.
+    // Burada istisna olmamalıdır.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Aşağıdaki örnek, Aspose.PSD'de PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -199,7 +202,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -243,52 +246,52 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Bu örnek, Piksel bilgilerinin bir Renk Türü Dizisinde nasıl Yükleneceğini, diziyi nasıl değiştireceğini ve tekrar görüntüye nasıl ayarlayacağını gösterir. Bu işlemleri gerçekleştirmek için bu örnek, MemoryStream nesnesini kullanarak yeni bir Görüntü dosyası (PSD formatında) oluşturur.
+Bu örnek, Pixel bilgilerini Color tipinde bir diziye nasıl yükleneceğini, diziyi nasıl manipüle edeceğini ve tekrar görüntüye nasıl ayarlayacağını gösterir. Bu işlemleri gerçekleştirmek için örnek, MemoryStream nesnesi kullanarak yeni bir Image dosyası (PSD formatında) oluşturur.
 
 ```csharp
 [C#]
 
-// Bir MemoryStream örneği oluştur
+//MemoryStream bir örneği oluşturun.
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Bir PsdOptions örneği oluşturun ve Source özelliği dahil olmak üzere çeşitli özelliklerini ayarlayın
+    //PsdOptions bir örneği oluşturun ve Source özelliği dahil olmak üzere çeşitli özelliklerini ayarlayın.
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Görüntünün bir örneğini oluştur
+    //Image bir örneği oluşturun.
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Görüntü sınırı olarak alanı belirleyerek görüntünün piksellerini alın
+        //Görüntünün piksellerini, alanı görüntü sınırı olarak belirterek alın
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //Dizi üzerinde döngü yapın ve alternatif dizinlenmiş pikselin rengini ayarlar
+        //Diziyi döngüye al ve alternatif indeksli pikselin rengini ayarlar
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Dizinlenen piksel rengini sarı olarak ayarla
+                //İndeksli pikselin rengini sarıya ayarla
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Dizinlenmiş piksel rengini mavi olarak ayarla
+                //İndeksli pikselin rengini maviye ayarla
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // Piksel değişikliklerini görüntüye uygula
+        //Piksel değişikliklerini görüntüye uygula
         image.SavePixels(image.Bounds, pixels);
 
         // tüm değişiklikleri kaydet.
         image.Save();
     }
 
-    //MemoryStream'i Dosyaya Yaz
+    //MemoryStream'i dosyaya yaz
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını okumanın ve kaydetmenin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarının okunup kaydedilmesinin doğru bir şekilde ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -334,7 +337,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Burada bir istisna olmamalıdır.
+        // Burada istisna olmamalıdır.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -350,10 +353,10 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

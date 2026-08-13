@@ -1,11 +1,12 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure mülk. Tüm şekil segmentlerini alır.
+title: "Figure.Segments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure özelliği. Tüm şekil segmentlerini alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
 Tüm şekil segmentlerini alır.
@@ -14,15 +15,15 @@ Tüm şekil segmentlerini alır.
 public ShapeSegment[] Segments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şekil segmentleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

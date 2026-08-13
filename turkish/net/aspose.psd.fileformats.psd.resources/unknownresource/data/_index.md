@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownResource mülk. Kaynak verilerini alır.
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownResource özelliği. Kaynak veriyi alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
 Kaynak verilerini alır.
@@ -14,14 +15,14 @@ Kaynak verilerini alır.
 public byte[] Data { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kaynak verileri.
+Kaynak veri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnknownResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Copyright
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Telif hakkını alır veya ayarlar.
+title: "TiffOptions.Copyright"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Telif hakkını alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
 Telif hakkını alır veya ayarlar.
@@ -14,14 +15,14 @@ Telif hakkını alır veya ayarlar.
 public string Copyright { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Telif hakkı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

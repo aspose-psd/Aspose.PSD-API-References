@@ -1,23 +1,24 @@
 ---
-title: VectorRasterizationOptions.CenterDrawing
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorRasterizationOptions mülk. Merkez çizimi olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "VectorRasterizationOptions.CenterDrawing"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorRasterizationOptions özelliği. Ortada çizim yapılıp yapılmayacağını gösteren değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/vectorrasterizationoptions/centerdrawing/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CenterDrawing property
 
-Merkez çizimi olup olmadığını gösteren bir değer alır veya ayarlar.
+Alır veya ayarlar merkez çizim olup olmadığını gösteren bir değeri.
 
 ```csharp
 public bool CenterDrawing { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorRasterizationOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

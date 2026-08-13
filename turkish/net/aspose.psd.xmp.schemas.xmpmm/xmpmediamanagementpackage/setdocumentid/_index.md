@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMediaManagementPackage yöntem. Belge tanımlayıcısını ayarlar.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMediaManagementPackage yöntemi. Belge tanımlayıcısını ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 Belge tanımlayıcısını ayarlar.
@@ -14,15 +15,15 @@ Belge tanımlayıcısını ayarlar.
 public void SetDocumentId(Guid guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | Guid | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Belge tanımlayıcısını ayarlar.
 public void SetDocumentId(string guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | String | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

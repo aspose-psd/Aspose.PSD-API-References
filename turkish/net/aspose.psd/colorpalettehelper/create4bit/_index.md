@@ -1,28 +1,29 @@
 ---
-title: ColorPaletteHelper.Create4Bit
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. 4 bitlik renk paletini oluşturur.
+title: "ColorPaletteHelper.Create4Bit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper yöntemi. 4 bit renk paletini oluşturur"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/colorpalettehelper/create4bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create4Bit method
 
-4 bitlik renk paletini oluşturur.
+4 bit renk paletini oluşturur.
 
 ```csharp
 public static IColorPalette Create4Bit()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-4 bitlik renk paleti.
+4 bit renk paleti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageResizeSettings mülk. Filtrenin türünü alır veya ayarlar.
+title: "ImageResizeSettings.FilterType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageResizeSettings özelliği. Filtre tipini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
-Filtrenin türünü alır veya ayarlar.
+Filtre tipini alır veya ayarlar.
 
 ```csharp
 public ImageFilterType FilterType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Filtrenin türü.
+Filtre tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* ad alanı [Aspose.PSD](../../imageresizesettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

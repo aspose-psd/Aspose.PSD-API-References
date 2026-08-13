@@ -1,63 +1,65 @@
 ---
-title: Class VectorImage
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.VectorImage sınıf. Vektör görüntüsü tüm vektör görüntü türleri için temel sınıftır.
+title: "Sınıf VectorImage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.VectorImage sınıfı. Vektör görüntüsü, tüm vektör görüntüsü türleri için temel sınıftır."
 type: docs
-weight: 5720
+weight: 6250
 url: /tr/net/aspose.psd/vectorimage/
 ---
+{{< psd/tize >}}
 ## VectorImage class
 
-Vektör görüntüsü, tüm vektör görüntü türleri için temel sınıftır.
+Vektör görüntüsü, tüm vektör görüntü tipleri için temel sınıftır.
 
 ```csharp
 public abstract class VectorImage : Image, IObjectWithSizeF
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | Paletin otomatik olarak ayarlanıp ayarlanmadığını gösteren bir değer alır veya ayarlar. |
-| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | Arka plan rengi için bir değer alır veya ayarlar. |
-| abstract [BitsPerPixel](../../aspose.psd/image/bitsperpixel/) { get; } | Piksel sayısı başına görüntü bitlerini alır. |
-| [Bounds](../../aspose.psd/image/bounds/) { get; } | Görüntü sınırlarını alır. |
-| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar. |
-| [Container](../../aspose.psd/image/container/) { get; } | Şunu alır:[`Image`](../image/) konteyner. |
+| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | Otomatik palet ayarlamasını gösteren bir değeri alır veya ayarlar. |
+| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | Arka plan renginin değerini alır veya ayarlar. |
+| abstract [BitsPerPixel](../../aspose.psd/image/bitsperpixel/) { get; } | Görüntünün piksel başına bit sayısını alır. |
+| [Bounds](../../aspose.psd/image/bounds/) { get; } | Görüntünün sınırlarını alır. |
+| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar. |
+| [Container](../../aspose.psd/image/container/) { get; } | [`Image`](../image/) konteynerini alır. |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Nesnenin veri akışını alır. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
-| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | dosya formatı değerini alır |
-| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Görüntünün arka plan rengine sahip olup olmadığını gösteren bir değer alır veya ayarlar. |
-| override [Height](../../aspose.psd/vectorimage/height/) { get; } | Görüntü yüksekliğini alır. |
-| virtual [HeightF](../../aspose.psd/vectorimage/heightf/) { get; } | Nesne yüksekliğini inç olarak alır. |
-| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Kesme monitörünü alır veya ayarlar. |
-| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | Nesnenin verilerinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekip gerekmediğini gösteren bir değer alır. |
-| [Palette](../../aspose.psd/image/palette/) { get; set; } | Renk paletini alır veya ayarlar. Pikseller doğrudan temsil edildiğinde renk paleti kullanılmaz. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
+| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Dosya formatının değerini alır |
+| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Resmin arka plan rengine sahip olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| override [Height](../../aspose.psd/vectorimage/height/) { get; } | Resmin yüksekliğini alır. |
+| virtual [HeightF](../../aspose.psd/vectorimage/heightf/) { get; } | Nesnenin yüksekliğini inç cinsinden alır. |
+| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Kesinti izleyicisini alır veya ayarlar. |
+| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | Nesnenin verisinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekmediğini gösteren bir değeri alır. |
+| [Palette](../../aspose.psd/image/palette/) { get; set; } | Renk paletini alır veya ayarlar. Renk paleti, pikseller doğrudan temsil edildiğinde kullanılmaz. |
 | [Size](../../aspose.psd/image/size/) { get; } | Görüntü boyutunu alır. |
-| [SizeF](../../aspose.psd/vectorimage/sizef/) { get; } | Nesne boyutunu inç cinsinden alır. |
+| [SizeF](../../aspose.psd/vectorimage/sizef/) { get; } | Nesnenin boyutunu inç cinsinden alır. |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Görüntü paletinin kullanılıp kullanılmadığını gösteren bir değeri alır. |
 | override [Width](../../aspose.psd/vectorimage/width/) { get; } | Görüntü genişliğini alır. |
-| virtual [WidthF](../../aspose.psd/vectorimage/widthf/) { get; } | Nesne genişliğini inç cinsinden alır. |
+| virtual [WidthF](../../aspose.psd/vectorimage/widthf/) { get; } | Nesnenin genişliğini inç cinsinden alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | Verileri önbelleğe alır ve temelden ek veri yüklemesi yapılmamasını sağlar[`DataStreamContainer`](../datastreamsupporter/datastreamcontainer/) . |
-| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | Görüntünün, geçirilen kaydetme seçenekleri tarafından temsil edilen belirtilen dosya biçiminde kaydedilip kaydedilemeyeceğini belirler. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
+| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | Verileri önbelleğe alır ve temel [`DataStreamContainer`](../datastreamsupporter/datastreamcontainer/) üzerinden ek veri yüklemesinin yapılmayacağından emin olur. |
+| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | Görüntünün, verilen kaydetme seçenekleriyle temsil edilen belirtilen dosya biçimine kaydedilip kaydedilemeyeceğini belirler. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions/)(object[]) | Varsayılan seçenekleri alır. |
-| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Orijinal dosya ayarlarına göre seçenekleri alır. Bu, orijinal görüntünün bit derinliğini ve diğer parametrelerini değiştirmeden tutmak için yardımcı olabilir. Örneğin, piksel başına 1 bit olacak şekilde siyah-beyaz bir PNG görüntüsü yüklersek ve ardından the kullanarak kaydedin[`Save`](../datastreamsupporter/save/) yöntemiyle, piksel başına 8 bitlik çıktı PNG görüntüsü üretilir. Bundan kaçınmak ve PNG görüntüsünü piksel başına 1 bit ile kaydetmek için, karşılık gelen kaydetme seçeneklerini almak için bu yöntemi kullanın ve onları öğesini[`Save`](../image/save/)ikinci parametre olarak yöntem. |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | Görüntüyü yeniden boyutlandırır. VarsayılanLeftTopToLeftTopkullanılır. |
+| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Orijinal dosya ayarlarına dayalı seçenekleri alır. Bu, orijinal görüntünün bit derinliği ve diğer parametrelerinin değişmeden kalmasını sağlamak için faydalı olabilir. Örneğin, 1 bit/piksel bir siyah-beyaz PNG görüntüsü yükleyip ardından [`Save`](../datastreamsupporter/save/) yöntemiyle kaydederseniz, çıktı PNG görüntüsü 8 bit/piksel olarak üretilir. Bunu önlemek ve PNG görüntüsünü 1 bit/piksel olarak kaydetmek için, bu yöntemi kullanarak ilgili kaydetme seçeneklerini alın ve ikinci parametre olarak [`Save`](../image/save/) yöntemine geçirin. |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | Görüntüyü yeniden boyutlandırır. Varsayılan NearestNeighbourResample kullanılır. |
 | abstract [Resize](../../aspose.psd/image/resize/)(int, int, ImageResizeSettings) | Görüntüyü yeniden boyutlandırır. |
 | abstract [Resize](../../aspose.psd/image/resize/)(int, int, ResizeType) | Görüntüyü yeniden boyutlandırır. |
 | [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | Yüksekliği orantılı olarak yeniden boyutlandırır. |
 | virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | Yüksekliği orantılı olarak yeniden boyutlandırır. |
 | virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | Yüksekliği orantılı olarak yeniden boyutlandırır. |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Genişliği orantılı olarak yeniden boyutlandırır. |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Genişliği orantılı olarak yeniden boyutlandırır. Varsayılan NearestNeighbourResample kullanılır. |
 | virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | Genişliği orantılı olarak yeniden boyutlandırır. |
 | virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | Genişliği orantılı olarak yeniden boyutlandırır. |
-| abstract [RotateFlip](../../aspose.psd/image/rotateflip/)(RotateFlipType) | Görüntüyü döndürür, çevirir veya döndürür ve çevirir. |
-| [Save](../../aspose.psd/image/save/)() | Görüntü verilerini alttaki akışa kaydeder. |
+| abstract [RotateFlip](../../aspose.psd/image/rotateflip/)(RotateFlipType) | Görüntüyü döndürür, çevirir veya döndürüp çevirir. |
+| [Save](../../aspose.psd/image/save/)() | Görüntü verilerini temel akışa kaydeder. |
 | virtual [Save](../../aspose.psd/datastreamsupporter/save/)(Stream) | Nesnenin verilerini belirtilen akışa kaydeder. |
 | [Save](../../aspose.psd/datastreamsupporter/save/)(string) | Nesnenin verilerini belirtilen dosya konumuna kaydeder. |
 | [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | Görüntünün verilerini, kaydetme seçeneklerine göre belirtilen dosya biçiminde belirtilen akışa kaydeder. |
@@ -67,11 +69,11 @@ public abstract class VectorImage : Image, IObjectWithSizeF
 | virtual [Save](../../aspose.psd/image/save/)(string, ImageOptionsBase, Rectangle) | Nesnenin verilerini, kaydetme seçeneklerine göre belirtilen dosya biçiminde belirtilen dosya konumuna kaydeder. |
 | abstract [SetPalette](../../aspose.psd/image/setpalette/)(IColorPalette, bool) | Görüntü paletini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../image/)
 * interface [IObjectWithSizeF](../../aspose.psd.interfaces/iobjectwithsizef/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

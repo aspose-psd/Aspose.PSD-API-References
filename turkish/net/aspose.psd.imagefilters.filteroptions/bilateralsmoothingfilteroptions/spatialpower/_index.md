@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: Aspose.PSD for .NET API Referansı
-description: BilateralSmoothingFilterOptions mülk. Uzamsal gücü alır veya ayarlar.
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BilateralSmoothingFilterOptions özelliği. Uzamsal gücü alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
 Uzamsal gücü alır veya ayarlar.
@@ -14,14 +15,14 @@ Uzamsal gücü alır veya ayarlar.
 public double SpatialPower { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Uzaysal güç.
+Uzamsal güç.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BilateralSmoothingFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

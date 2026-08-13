@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.GetEnumerator
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. Koleksiyon boyunca yinelenen bir numaralandırıcı döndürür.
+title: "XmpPackage.GetEnumerator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. Koleksiyon içinde yineleme yapan bir enumeratör döndürür."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.xmp/xmppackage/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackage.GetEnumerator method
 
-Koleksiyon boyunca yinelenen bir numaralandırıcı döndürür.
+Koleksiyon içinde yineleme yapan bir enumerator döndürür.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birIEnumerator koleksiyonda yineleme yapmak için kullanılabilir.
+Koleksiyon içinde yineleme yapmak için kullanılabilecek bir IEnumerator.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

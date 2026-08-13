@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. Görüntü genişliğini alır.
+title: "PsdImage.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Görüntünün genişliğini alır"
 type: docs
-weight: 270
+weight: 280
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/width/
 ---
+{{< psd/tize >}}
 ## PsdImage.Width property
 
 Görüntü genişliğini alır.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır.
 public override int Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntü genişliği.
+görüntü genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

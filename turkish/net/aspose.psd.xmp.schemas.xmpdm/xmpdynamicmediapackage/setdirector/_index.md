@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Yönlendiriciyi ayarlar.
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Yönetmeni ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
-Yönlendiriciyi ayarlar.
+Yönetmeni ayarlar.
 
 ```csharp
 public void SetDirector(string director)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| director | String | Yönetmen. |
+| yönetmen | String | Yönetmen. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

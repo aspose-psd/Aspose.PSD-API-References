@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Küçük resmin yüksekliğini piksel cinsinden alır veya ayarlar.
+title: "ThumbnailResource.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Küçük resmin yüksekliğini piksel cinsinden alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/height/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Height property
 
 Küçük resmin yüksekliğini piksel cinsinden alır veya ayarlar.
@@ -14,14 +15,14 @@ Küçük resmin yüksekliğini piksel cinsinden alır veya ayarlar.
 public int Height { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Küçük resim yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

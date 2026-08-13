@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsDiscreteManagerUsed
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesLayer mülk. Bu örneğin kullanılan ayrı yönetici olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "CurvesLayer.IsDiscreteManagerUsed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesLayer özelliği. Bu örneğin ayrık yönetici kullanıp kullanmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/isdiscretemanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsDiscreteManagerUsed property
 
-Bu örneğin kullanılan ayrı yönetici olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin ayrık yönetici kullanılıp kullanılmadığını belirten bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsDiscreteManagerUsed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek ayrık yönetici kullanılıyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek ayrık yönetici kullanıyorsa; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

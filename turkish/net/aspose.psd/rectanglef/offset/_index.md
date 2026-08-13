@@ -1,11 +1,12 @@
 ---
-title: RectangleF.Offset
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
+title: "RectangleF.Offset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Bu dikdörtgenin konumunu belirtilen miktarda ayarlar."
 type: docs
 weight: 240
 url: /tr/net/aspose.psd/rectanglef/offset/
 ---
+{{< psd/tize >}}
 ## Offset(PointF) {#offset}
 
 Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
@@ -14,16 +15,16 @@ Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
 public void Offset(PointF pos)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pos | PointF | Konumu mahsup edecek tutar. |
+| pos | PointF | Konumu kaydırmak için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,15 +36,15 @@ Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
 public void Offset(float x, float y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| x | Single | Konumu yatay olarak kaydıracak miktar. |
-| y | Single | Konumu dikey olarak kaydıracak miktar. |
+| x | Single | Konumu yatay olarak kaydırmak için miktar. |
+| y | Single | Konumu dikey olarak kaydırmak için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

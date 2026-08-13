@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı desteklenen dosya biçimlerinden biri tarafından oluşturulan istisnalar içeriyor.
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, desteklenen dosya formatlarından biri tarafından atılan istisnaları içerir"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.coreexceptions.imageformats/
 ---
-Ad alanı, desteklenen dosya biçimlerinden biri tarafından oluşturulan istisnalar içeriyor.
+{{< psd/tize >}}
+Ad alanı, desteklenen dosya formatlarından biri tarafından atılan istisnaları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [BmpImageException](./bmpimageexception/) | bmp resim istisnası. |
-| [GifImageException](./gifimageexception/) | Gif resim istisnası. |
+| [BmpImageException](./bmpimageexception/) | Bmp görüntü istisnası. |
+| [GifImageException](./gifimageexception/) | Gif görüntü istisnası. |
 | [Jpeg2000Exception](./jpeg2000exception/) | Jpeg dosyaları için istisnalar |
 | [JpegException](./jpegexception/) | Jpeg dosyaları için istisnalar |
-| [JpegLoadException](./jpegloadexception/) | JPEG resim yükleme istisnasını temsil eder. |
-| [PngImageException](./pngimageexception/) | png resim istisnası. |
-| [PsdImageArgumentException](./psdimageargumentexception/) | psd görüntü bağımsız değişkeni istisnası. |
-| [PsdImageException](./psdimageexception/) | psd resim istisnası. |
-| [PsdImageResourceException](./psdimageresourceexception/) | psd resim kaynağı istisnası. |
-| [TiffImageException](./tiffimageexception/) | Tiff resim istisnası |
+| [JpegLoadException](./jpegloadexception/) | JPEG görüntü yükleme istisnasını temsil eder. |
+| [PngImageException](./pngimageexception/) | Png görüntü istisnası. |
+| [PsdImageArgumentException](./psdimageargumentexception/) | Psd görüntü argüman istisnası. |
+| [PsdImageException](./psdimageexception/) | Psd görüntü istisnası. |
+| [PsdImageResourceException](./psdimageresourceexception/) | Psd görüntü kaynağı istisnası |
+| [TiffImageException](./tiffimageexception/) | Tiff görüntü istisnası |
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.TextOrientation Sıralama. Metin yönü modu için numaralandırma.
+title: "Enum TextOrientation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.TextOrientation enum. Metin yönlendirme modu için enum"
 type: docs
-weight: 4010
+weight: 4510
 url: /tr/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-Metin yönü modu için numaralandırma.
+Metin yönlendirme modu için enum.
 
 ```csharp
 public enum TextOrientation
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Horizontal | `0` | Yatay metin yönü. |
-| Vertical | `2` | Dikey metin yönü. |
+| Horizontal | `0` | Yatay metin yönlendirmesi. |
+| Vertical | `2` | Dikey metin yönlendirmesi. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, yeni TextOrientation özelliğini düzenleme yeteneğini gösterir. Bu, şu anda işlemeyi etkilemez, ancak yalnızca özellik değerini düzenlemenize izin verir.
+Aşağıdaki kod, yeni TextOrientation özelliğini düzenleme yeteneğini gösterir. Bu şu anda renderlamayı etkilemez, ancak yalnızca özellik değerini düzenlemenize izin verir.
 
 ```csharp
 [C#]
@@ -63,9 +64,9 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

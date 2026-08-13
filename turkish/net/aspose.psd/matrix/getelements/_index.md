@@ -1,27 +1,28 @@
 ---
-title: Matrix.GetElements
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. Matris elemanlarının kopyasını alır.
+title: "Matrix.GetElements"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix yöntemi. Matris elemanlarının bir kopyasını alır."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/matrix/getelements/
 ---
+{{< psd/tize >}}
 ## Matrix.GetElements method
 
-Matris elemanlarının kopyasını alır.
+Matris öğelerinin bir kopyasını alır.
 
 ```csharp
 public float[] GetElements()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A matris öğeleri kopyalanır.
+Bir matris elemanları kopyası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

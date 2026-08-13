@@ -1,24 +1,25 @@
 ---
-title: PdfOptions.PdfDocumentInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfOptions mülk. Document. için meta verileri alır veya ayarlar
+title: "PdfOptions.PdfDocumentInfo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfOptions özelliği. Belge için meta verileri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfDocumentInfo property
 
-Document. için meta verileri alır veya ayarlar
+Belge için üst verileri alır veya ayarlar.
 
 ```csharp
 public PdfDocumentInfo PdfDocumentInfo { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfDocumentInfo](../../../aspose.psd.fileformats.pdf/pdfdocumentinfo/)
 * class [PdfOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

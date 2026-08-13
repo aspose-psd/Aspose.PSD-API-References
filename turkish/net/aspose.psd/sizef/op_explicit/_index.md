@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Explicit
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. Belirtileni dönüştürürSizeF birPointF .
+title: "SizeF.op_Explicit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Belirtilen SizeF'i bir PointF'e dönüştürür."
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/sizef/op_explicit/
 ---
+{{< psd/tize >}}
 ## SizeF Explicit operator
 
-Belirtileni dönüştürür[`SizeF`](../) bir[`PointF`](../../pointf/) .
+Belirtilen [`SizeF`](../) öğesini bir [`PointF`](../../pointf/) öğesine dönüştürür.
 
 ```csharp
 public static explicit operator PointF(SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | SizeF | bu[`SizeF`](../) dönüştürülecek yapı |
+| size | SizeF | Dönüştürülecek [`SizeF`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`PointF`](../../pointf/) bu operatörün dönüştürdüğü yapı.
+Bu operatörün dönüştürdüğü [`PointF`](../../pointf/) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

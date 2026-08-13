@@ -1,39 +1,40 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions sınıf. Keskinleştirme filtresi options
+title: "Sınıf SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions sınıfı. Keskinleştirme filtresi seçenekleri"
 type: docs
-weight: 4740
+weight: 5240
 url: /tr/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-Keskinleştirme filtresi options
+Keskinleştirme filtresi seçenekleri
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Yeni bir örneğini başlatır.`SharpenFilterOptions` class. Varsayılan ayarlarla. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Yeni bir örneğini başlatır.`SharpenFilterOptions` sınıf. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | `SharpenFilterOptions` sınıfının yeni bir örneğini başlatır. Varsayılan ayarlarla. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | `SharpenFilterOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Sapmayı alır veya ayarlar. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Faktörü alır veya ayarlar. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Sigmayı alır veya ayarlar. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Sigma değerini alır veya ayarlar. |
 | [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | Boyutu alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

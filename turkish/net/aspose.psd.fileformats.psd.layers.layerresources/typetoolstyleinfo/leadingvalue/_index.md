@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. Baştaki değeri alır veya ayarlar.
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. Leading değerini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-Baştaki değeri alır veya ayarlar.
+Satır aralığı değerini alır veya ayarlar.
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Baştaki değer.
+Leading değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

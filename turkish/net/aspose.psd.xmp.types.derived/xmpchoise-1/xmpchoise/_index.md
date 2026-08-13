@@ -1,23 +1,24 @@
 ---
-title: XmpChoise1.XmpChoise
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpChoise inşaatçı. Default_Constructor
+title: "XmpChoise1.XmpChoise"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpChoise yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public XmpChoise()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpChoise&lt;T&gt;](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

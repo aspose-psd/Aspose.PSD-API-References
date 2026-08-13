@@ -1,29 +1,30 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection sınıf. Ai formatı Sonlandırma Bölümü
+title: "Sınıf AiFinalizeSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection sınıfı. Ai formatı Finalize Section"
 type: docs
-weight: 1230
+weight: 1240
 url: /tr/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Ai formatı Sonlandırma Bölümü
+Ai formatı Tamamlama Bölümü
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Dizi verilerini alır. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Dize verisini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiSection](../aisection/)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

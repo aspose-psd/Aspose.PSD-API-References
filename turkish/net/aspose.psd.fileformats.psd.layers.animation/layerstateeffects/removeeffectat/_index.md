@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.RemoveEffectAt
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerStateEffects yöntem. Belirli bir dizindeki katman efektini kaldırır.
+title: "LayerStateEffects.RemoveEffectAt"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerStateEffects yöntemi. Belirli indeksteki katman etkisini kaldırır"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/removeeffectat/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.RemoveEffectAt method
 
-Belirli bir dizindeki katman efektini kaldırır.
+Belirli indeksteki katman efektini kaldırır.
 
 ```csharp
 public void RemoveEffectAt(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | Katman efekti indeksi. |
+| index | Int32 | Katman etkisinin indeksi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerStateEffects](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

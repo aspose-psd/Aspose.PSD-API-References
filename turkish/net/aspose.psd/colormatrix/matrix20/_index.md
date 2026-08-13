@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix20
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMatrix mülk. Bunun ikinci satırındaki ve 0 sıfır sütunundaki elemanı alır veya ayarlar.ColorMatrix .
+title: "ColorMatrix.Matrix20"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMatrix özelliği. Bu ColorMatrix'in ikinci satır ve 0 (sıfır) sütundaki öğeyi alır veya ayarlar."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/colormatrix/matrix20/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix20 property
 
-Bunun ikinci satırındaki ve 0 (sıfır) sütunundaki elemanı alır veya ayarlar.[`ColorMatrix`](../) .
+Bu [`ColorMatrix`](../) içinde ikinci satır ve 0 (sıfır) sütundaki öğeyi alır veya ayarlar.
 
 ```csharp
 public float Matrix20 { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İkinci satırdaki eleman ve bunun 0 sütunu[`ColorMatrix`](../).
+Bu [`ColorMatrix`](../) içinde ikinci satır ve 0 sütundaki öğe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../)
-* ad alanı [Aspose.PSD](../../colormatrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: RasterImage.TransparentColor
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Görüntünün şeffaf rengini alır.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Görüntünün şeffaf rengini alır"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
-Görüntünün şeffaf rengini alır.
+Görüntünün saydam rengini alır.
 
 ```csharp
 public virtual Color TransparentColor { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

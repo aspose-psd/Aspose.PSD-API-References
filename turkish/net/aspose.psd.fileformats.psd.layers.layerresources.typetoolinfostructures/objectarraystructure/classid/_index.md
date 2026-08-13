@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectArrayStructure mülk. Nesne dizisi sınıfı ID. yi alır veya ayarlar
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectArrayStructure özelliği. Nesne dizisi sınıf kimliğini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Nesne dizisi sınıfı ID. 'yi alır veya ayarlar
+Object array sınıf kimliğini alır veya ayarlar.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Nesne dizisi sınıfı ID.
+Nesne dizisi sınıf kimliği.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,65 +1,66 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartResourceCreator inşaatçı. Yeni bir örneğini başlatır.SmartResourceCreator sınıf.
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartResourceCreator yapıcı. SmartResourceCreator sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-Yeni bir örneğini başlatır.[`SmartResourceCreator`](../) sınıf.
+[`SmartResourceCreator`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public SmartResourceCreator()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartResourceCreator](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`SmartResourceCreator`](../) sınıf.
+[`SmartResourceCreator`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| isCustom | Boolean | olarak ayarlanmışsa`doğru` [özel]. |
-| hasCompInfo | Boolean | olarak ayarlanmışsa`doğru` [bilgisayar bilgisine sahiptir]. |
+| isCustom | Boolean | `true` olarak ayarlanırsa [özel]. |
+| hasCompInfo | Boolean | `true` olarak ayarlanırsa [bileşen bilgisi var]. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartResourceCreator](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`SmartResourceCreator`](../) verilen şablonla class .
+Verilen şablonla [`SmartResourceCreator`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| template | PlacedResource | Akıllı nesne kaynak şablonu. |
+| template | PlacedResource | Akıllı nesne kaynağı şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

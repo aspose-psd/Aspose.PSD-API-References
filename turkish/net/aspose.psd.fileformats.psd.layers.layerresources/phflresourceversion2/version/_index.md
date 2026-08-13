@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion2 mülk. Sürümü alır.
+title: "PhflResourceVersion2.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion2 özelliği. Sürümü alır"
 type: docs
-weight: 90
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Version property
 
 Sürümü alır.
@@ -14,20 +15,20 @@ Sürümü alır.
 public override short Version { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | NotImplementedException |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion2](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

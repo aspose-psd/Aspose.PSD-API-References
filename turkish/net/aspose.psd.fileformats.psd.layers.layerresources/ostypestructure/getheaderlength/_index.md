@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: Aspose.PSD for .NET API Referansı
-description: OSTypeStructure yöntem. Başlık uzunluğunu alır.
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OSTypeStructure yöntemi. Başlık uzunluğunu alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
 Başlık uzunluğunu alır.
@@ -14,14 +15,14 @@ Başlık uzunluğunu alır.
 public virtual int GetHeaderLength()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-başlık uzunluğu
+Başlık uzunluğu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Bunun için hash kodunu döndürürRectangleyapı.
+title: "Rectangle.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Bu Rectangle yapısının hash kodunu döndürür."
 type: docs
 weight: 240
 url: /tr/net/aspose.psd/rectangle/gethashcode/
 ---
+{{< psd/tize >}}
 ## Rectangle.GetHashCode method
 
-Bunun için hash kodunu döndürür[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının hash kodunu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu dikdörtgen için karma kodu temsil eden bir tamsayı.
+Bu dikdörtgenin hash kodunu temsil eden bir tamsayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

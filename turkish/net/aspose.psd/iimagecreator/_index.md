@@ -1,28 +1,29 @@
 ---
-title: Interface IImageCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IImageCreator arayüz. Görüntü yaratıcısı.
+title: "Arayüz IImageCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IImageCreator arayüzü. Görüntü oluşturucu"
 type: docs
-weight: 4400
+weight: 4900
 url: /tr/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
-Görüntü yaratıcısı.
+Görüntü oluşturucu.
 
 ```csharp
 public interface IImageCreator
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | İle yeni bir görüntü örneği oluşturur*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | *imageOptions* ile yeni bir görüntü örneği oluşturur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

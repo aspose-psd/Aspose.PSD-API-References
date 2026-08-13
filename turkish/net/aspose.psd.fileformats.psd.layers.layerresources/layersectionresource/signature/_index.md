@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSectionResource mülk. Katman kaynak imzasını alır.
+title: "LayerSectionResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSectionResource özelliği. Katman kaynağı imzasını alır."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerSectionResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Cache.ExactReallocateOnly
-second_title: Aspose.PSD for .NET API Referansı
-description: Cache mülk. Yeniden tahsisin kesin olup olmayacağını belirten bir değer alır veya ayarlar. Yeniden tahsis kesin değilse performans daha yüksek olmalıdır.
+title: "Cache.ExactReallocateOnly"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Cache özelliği. Yeniden tahsislemenin tam olup olmadığını gösteren bir değeri alır veya ayarlar. Yeniden tahsisleme tam değilse performans daha yüksek olmalıdır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/cache/exactreallocateonly/
 ---
+{{< psd/tize >}}
 ## Cache.ExactReallocateOnly property
 
-Yeniden tahsisin kesin olup olmayacağını belirten bir değer alır veya ayarlar. Yeniden tahsis kesin değilse performans daha yüksek olmalıdır.
+Yeniden tahsislemenin tam olup olmadığını belirten bir değeri alır veya ayarlar. Yeniden tahsisleme tam değilse performans daha yüksek olmalıdır.
 
 ```csharp
 public static bool ExactReallocateOnly { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` yeniden tahsis kesin ise; aksi takdirde,`YANLIŞ` .
+`true` eğer yeniden tahsisleme tam ise; aksi takdirde, `false`.
 
-### Notlar
+## Açıklamalar
 
-Kesin yeniden tahsis, yalnızca belirtilen üst sınıra kadar ek belleğin yeniden tahsisini gerçekleştirecektir. Yeniden tahsis sırasında bellek içi için üst sınır aşılırken, önbelleğe alınan veriler mümkünse diske kopyalanacaktır. Yeniden tahsis sırasında disk belleği için üst sınır geçildiğinde, uygun istisna atılır. Mümkünse ek kopyalama yapılmayacağından bu seçenek kapatılırsa performans daha yüksek olmalıdır, ancak bu, bellek veya disk için belirtilen üst limitlerin de aşılmasına neden olabilir.
+Tam yeniden tahsisleme, ek belleğin yeniden tahsislemesini yalnızca belirtilen üst sınıra kadar gerçekleştirir. Yeniden tahsisleme sırasında bellek içi için üst sınır verildiğinde, önbelleğe alınan veri mümkünse diske kopyalanır. Yeniden tahsisleme sırasında disk belleği için üst sınır verildiğinde uygun istisna fırlatılır. Bu seçenek kapatıldığında, mümkün olduğunda ek kopyalama yapılmayacağı için performans daha yüksek olmalıdır; ancak bu, bellek veya disk için belirtilen üst sınırların aşılmasına da yol açabilir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Cache](../)
-* ad alanı [Aspose.PSD](../../cache/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Point.op_Subtraction
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. a çevirirPoint verilen bir negatif tarafındanSize .
+title: "Point.op_Subtraction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Bir Point'i verilen bir Size'ın negatifine göre kaydırır."
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/point/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Point Subtraction operator
 
-a çevirir[`Point`](../) verilen bir negatif tarafından[`Size`](../../size/) .
+Bir [`Point`](../) nesnesini verilen bir [`Size`](../../size/) nesnesinin negatifine göre kaydırır.
 
 ```csharp
 public static Point operator -(Point point, Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../) tercüme etmek. |
-| size | Size | A[`Size`](../../size/) koordinatlarından çıkarılacak sayı çiftini belirtir.*point*. |
+| point | Point | Kaydırılacak [`Point`](../). |
+| size | Size | *point* koordinatlarından çıkarılacak sayı çiftini belirten bir [`Size`](../../size/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`Point`](../) belirli bir negatif tarafından çevrilen yapı[`Size`](../../size/) yapı.
+Verilen bir [`Size`](../../size/) yapısının negatifine göre kaydırılan bir [`Point`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

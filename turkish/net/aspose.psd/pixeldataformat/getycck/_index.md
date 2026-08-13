@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetYcck
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile YCCK rengini alır.
+title: "PixelDataFormat.GetYcck"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Belirtilen örnek başına bit sayısıyla YCCK rengini alır."
 type: docs
 weight: 290
 url: /tr/net/aspose.psd/pixeldataformat/getycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetYcck method
 
-Örnek başına belirtilen sayıda bit ile YCCK rengini alır.
+Örnek başına belirtilen bit sayısıyla YCCK rengini alır.
 
 ```csharp
 public static PixelDataFormat GetYcck(int bitsPerSample)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 YCCK rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

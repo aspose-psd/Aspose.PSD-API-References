@@ -1,27 +1,28 @@
 ---
-title: LoadOptions.BufferSizeHint
-second_title: Aspose.PSD for .NET API Referansı
-description: LoadOptions mülk. Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar.
+title: "LoadOptions.BufferSizeHint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LoadOptions özelliği. Tüm iç tamponlar için tanımlanan maksimum izin verilen boyut olan tampon boyutu ipucunu alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/loadoptions/buffersizehint/
 ---
+{{< psd/tize >}}
 ## LoadOptions.BufferSizeHint property
 
-Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar.
+Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar.
 
 ```csharp
 public int BufferSizeHint { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Megabayt cinsinden arabellek boyutu ipucu. Pozitif olmayan değer, dahili arabellekler için bellek sınırlaması olmadığı anlamına gelir
+Tampon boyutu ipucu, megabayt cinsindendir. Pozitif olmayan değer, iç tamponlar için bellek sınırlaması olmadığı anlamına gelir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LoadOptions](../)
-* ad alanı [Aspose.PSD](../../loadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

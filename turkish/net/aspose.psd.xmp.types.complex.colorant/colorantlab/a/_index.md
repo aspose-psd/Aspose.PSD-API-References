@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.A
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantLab mülk. A bileşenini alır veya ayarlar.
+title: "ColorantLab.A"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantLab özelliği. A bileşenini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
 A bileşenini alır veya ayarlar.
@@ -14,14 +15,14 @@ A bileşenini alır veya ayarlar.
 public int A { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 A bileşeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantLab](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

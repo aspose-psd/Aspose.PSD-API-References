@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Karışım modu tuşunu alır veya ayarlar.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Karışım modu anahtarını alır veya ayarlar"
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Karışım modu tuşunu alır veya ayarlar.
+Karıştırma modu anahtarını alır veya ayarlar.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Karışım modu tuşu.
+Karışım modu anahtarı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

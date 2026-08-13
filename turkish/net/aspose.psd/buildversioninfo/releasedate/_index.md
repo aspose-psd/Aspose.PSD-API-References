@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: Aspose.PSD for .NET API Referansı
-description: BuildVersionInfo alan. Ürün çıkış tarihi.
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BuildVersionInfo alanı. Ürün yayın tarihi"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
-Ürün çıkış tarihi.
+Ürün yayın tarihi.
 
 ```csharp
 public static readonly DateTime ReleaseDate;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BuildVersionInfo](../)
-* ad alanı [Aspose.PSD](../../buildversioninfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

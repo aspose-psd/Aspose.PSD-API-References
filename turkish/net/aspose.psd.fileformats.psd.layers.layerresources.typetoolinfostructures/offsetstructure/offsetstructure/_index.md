@@ -1,29 +1,30 @@
 ---
-title: OffsetStructure.OffsetStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: OffsetStructure inşaatçı. Yeni bir örneğini başlatır.OffsetStructure sınıf.
+title: "OffsetStructure.OffsetStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OffsetStructure yapıcı. OffsetStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure constructor
 
-Yeni bir örneğini başlatır.[`OffsetStructure`](../) sınıf.
+[`OffsetStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 | classID | ClassID | Sınıf kimliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

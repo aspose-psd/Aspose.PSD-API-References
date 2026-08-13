@@ -1,39 +1,40 @@
 ---
-title: Class AdjustmentLayerResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AdjustmentLayerResource sınıf. Ayarlama katmanı için Temel Sınıf kaynakları
+title: "Sınıf AdjustmentLayerResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AdjustmentLayerResource sınıfı. Ayar katmanı kaynakları için temel sınıf"
 type: docs
-weight: 2290
+weight: 2500
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource class
 
-Ayarlama katmanı için Temel Sınıf kaynakları
+Ayarlama katmanı kaynakları için temel sınıf
 
 ```csharp
 public abstract class AdjustmentLayerResource : LayerResource
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

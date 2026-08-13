@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetActiveManager
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource yöntem. Etkin yöneticiyi alır.
+title: "CurvResource.GetActiveManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource yöntemi. Aktif yöneticiyi alır"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetActiveManager method
 
 Etkin yöneticiyi alır.
@@ -14,15 +15,15 @@ Etkin yöneticiyi alır.
 public CurvesManager GetActiveManager()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Aktif yönetici
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

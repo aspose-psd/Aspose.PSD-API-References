@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLatitudeRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS enleminin kuzey veya güney enlem olduğunu alır veya ayarlar.
+title: "ExifData.GPSLatitudeRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS enleminin kuzey mi yoksa güney mi olduğunu alır veya ayarlar"
 type: docs
 weight: 530
 url: /tr/net/aspose.psd.exif/exifdata/gpslatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitudeRef property
 
-GPS enleminin kuzey veya güney enlem olduğunu alır veya ayarlar.
+GPS enleminin kuzey mi yoksa güney mi olduğunu alır veya ayarlar.
 
 ```csharp
 public string GPSLatitudeRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GPS enlemi kuzey veya güney enlemi.
+GPS enlemi kuzey mi yoksa güney mi olduğunu gösterir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.FirstControlPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierSegment mülk. Bezier splineın ilk kontrol noktasını alır.
+title: "BezierSegment.FirstControlPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierSegment özelliği. Bezier eğrisinin ilk kontrol noktasını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.FirstControlPoint property
 
-Bezier spline'ın ilk kontrol noktasını alır.
+Bir bezier spline'ının ilk kontrol noktasını alır.
 
 ```csharp
 public PointF FirstControlPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 İlk kontrol noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* ad alanı [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

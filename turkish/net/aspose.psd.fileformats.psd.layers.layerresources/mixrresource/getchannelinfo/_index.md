@@ -1,37 +1,38 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: MixrResource yöntem. Kanal bilgisi ham verilerini alır
+title: "MixrResource.GetChannelInfo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MixrResource yöntemi. Kanal bilgisi ham verisini alır"
 type: docs
-weight: 70
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
-Kanal bilgisi ham verilerini alır
+Kanal bilgisi ham verisini alır.
 
 ```csharp
 public byte[] GetChannelInfo(int channelIndex)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Kanal bilgisinin ham bayt dizisi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | Mixr kaynağında en fazla 4 kanal bulunur. İlk kanalın indeksi 0 |
+| ArgumentException | Mixr kaynağı en fazla 4 kanala sahiptir. İlk kanalın indeksi 0'dır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

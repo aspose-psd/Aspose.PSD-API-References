@@ -1,31 +1,32 @@
 ---
-title: RectangleF.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. olup olmadığını test ederobj birRectangleF bununla aynı konum ve boyuttaRectangleF .
+title: "RectangleF.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. objenin bu RectangleF ile aynı konuma ve boyuta sahip bir RectangleF olup olmadığını test eder"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/rectanglef/equals/
 ---
+{{< psd/tize >}}
 ## RectangleF.Equals method
 
-olup olmadığını test eder*obj* bir[`RectangleF`](../) bununla aynı konum ve boyutta[`RectangleF`](../) .
+*obj*'in bu [`RectangleF`](../) ile aynı konuma ve boyuta sahip bir [`RectangleF`](../) olup olmadığını test eder.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject test etmek |
+| obj | Nesne | Test edilecek Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu yöntem şu durumlarda true değerini döndürür:*obj* bir[`RectangleF`](../) ve X, Y, Genişlik ve Yükseklik özellikleri, bunun karşılık gelen özelliklerine eşittir.[`RectangleF`](../); Aksi takdirde, yanlış.
+Bu yöntem, *obj* bir [`RectangleF`](../) ise ve X, Y, Width ve Height özellikleri bu [`RectangleF`](../) nesnesinin ilgili özelliklerine eşitse true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

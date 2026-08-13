@@ -1,27 +1,28 @@
 ---
-title: ExifData.StandardOutputSensitivity
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Standart çıkış hassasiyetini alır veya ayarlar
+title: "ExifData.StandardOutputSensitivity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Standart çıkış hassasiyetini alır veya ayarlar"
 type: docs
 weight: 980
 url: /tr/net/aspose.psd.exif/exifdata/standardoutputsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.StandardOutputSensitivity property
 
-Standart çıkış hassasiyetini alır veya ayarlar
+Standart çıkış duyarlılığını alır veya ayarlar
 
 ```csharp
 public uint StandardOutputSensitivity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Standart çıkış hassasiyeti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

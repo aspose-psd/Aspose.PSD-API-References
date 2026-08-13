@@ -1,59 +1,60 @@
 ---
-title: Class Hue2Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Hue2Resource sınıf. Sınıf Hue2Resource. Pozlama Ayarı Layer Kaynağı
+title: "Sınıf Hue2Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Hue2Resource sınıfı. Hue2Resource sınıfı. Pozlama Ayar Katmanı kaynağı."
 type: docs
-weight: 2510
+weight: 2780
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource class
 
-Sınıf Hue2Resource. Pozlama Ayarı Layer Kaynağı
+Sınıf Hue2Resource. Pozlama Ayarlama Katmanı Kaynağı
 
 ```csharp
 public class Hue2Resource : AdjustmentLayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Hue2Resource](hue2resource/#constructor)() | Yeni bir örneğini başlatır.`Hue2Resource` sınıf. |
-| [Hue2Resource](hue2resource/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`Hue2Resource` sınıf. |
+| [Hue2Resource](hue2resource/#constructor)() | Yeni bir `Hue2Resource` sınıfı örneği başlatır. |
+| [Hue2Resource](hue2resource/#constructor_1)(byte[]) | Yeni bir `Hue2Resource` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`Hue2Resource` colorize. |
+| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/) { get; set; } | Bu `Hue2Resource`'un renklendirilip renklendirilmediğini gösteren bir değeri alır veya ayarlar. |
 | [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/) { get; set; } | Ana tonu alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/) { get; } | Bayt cinsinden katman kaynak uzunluğunu alır. |
-| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/) { get; set; } | Ana açıklığı alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/psdversion/) { get; } | psd sürümünü alır. |
-| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/) { get; } | Ton/Doygunluk Ayar Katmanı aralıklarını alır. PS'deki aralıklar, aralık değiştirilirse adları değiştirebilir, bu nedenle index ile çalışmalıyız |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/) { get; set; } | Ana ışıklılığı alır veya ayarlar. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/) { get; } | Hue/Saturation Ayar Katmanı aralıklarını alır. PS'de aralık değiştirildiğinde adları değişebilir, bu yüzden indeksle çalışmalıyız. |
 | [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/) { get; set; } | Ana doygunluğu alır veya ayarlar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | İmzayı alır. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/) { get; } | Sürümü alır. Varsayılan 2 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/) { get; } | Sürümü alır. Varsayılan 2'dir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

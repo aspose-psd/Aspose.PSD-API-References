@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: Aspose.PSD for .NET API Referansı
-description: MultiPageOptions mülk. Sayfa başlıklarını alır veya ayarlar.
+title: "MultiPageOptions.PageTitles"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MultiPageOptions özelliği. Sayfa başlıklarını alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
 Sayfa başlıklarını alır veya ayarlar.
@@ -14,14 +15,14 @@ Sayfa başlıklarını alır veya ayarlar.
 public string[] PageTitles { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayfa başlıkları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MultiPageOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Önerilen pozlama indeksini alır veya ayarlar.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Önerilen pozlama indeksini alır veya ayarlar"
 type: docs
 weight: 870
 url: /tr/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
 Önerilen pozlama indeksini alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Önerilen maruz kalma indeksi.
+Önerilen pozlama indeksi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

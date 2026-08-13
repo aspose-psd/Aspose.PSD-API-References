@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileType
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. Adobe Photoshop Lnk2 / LnkE kaynağının içerdiği veya bağladığı gömülü veya harici dosyanın türünü alır veya ayarlar.
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. Adobe Photoshop Lnk2 / LnkE kaynağının içerdiği veya bağladığı gömülü veya harici dosyanın türünü alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
-Adobe® Photoshop® Lnk2 / LnkE kaynağının içerdiği veya bağladığı gömülü veya harici dosyanın türünü alır veya ayarlar.
+Adobe® Photoshop® Lnk2 / LnkE kaynağının içerdiği veya bağlandığı gömülü veya harici dosyanın türünü alır veya ayarlar.
 
 ```csharp
 public string FileType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Gömülü veya harici bağlantılı dosyanın türü.
+Gömülü veya harici bağlanmış dosyanın türü.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | FileType özelliğine erişemezsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

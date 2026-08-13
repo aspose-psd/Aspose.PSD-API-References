@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Aspose.PSD for .NET API Referansı
-description: BilateralSmoothingFilterOptions mülk. Renk faktörünü alır veya ayarlar.
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BilateralSmoothingFilterOptions özelliği. Renk faktörünü alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
 Renk faktörünü alır veya ayarlar.
@@ -14,14 +15,14 @@ Renk faktörünü alır veya ayarlar.
 public double ColorFactor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk faktörü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BilateralSmoothingFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

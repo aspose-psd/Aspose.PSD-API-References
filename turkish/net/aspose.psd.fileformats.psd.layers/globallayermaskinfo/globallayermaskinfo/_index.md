@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.GlobalLayerMaskInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalLayerMaskInfo inşaatçı. Default_Constructor
+title: "GlobalLayerMaskInfo.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalLayerMaskInfo yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public GlobalLayerMaskInfo()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalLayerMaskInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

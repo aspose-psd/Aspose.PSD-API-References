@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings mülk. Modelin yüksekliğini alır veya ayarlar.
+title: "PatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings özelliği. Desenin yüksekliğini alır veya ayarlar"
 type: docs
-weight: 70
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
-Modelin yüksekliğini alır veya ayarlar.
+Desenin yüksekliğini alır veya ayarlar.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Modelin yüksekliği.
+Desenin yüksekliği.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Dolgu Katmanı Kalıbı düzenleme desteğini gösterir.
+Aşağıdaki kod, Doldurma Katmanı Desen düzenlemesinin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // düzenleme 
+            // Düzenleme 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

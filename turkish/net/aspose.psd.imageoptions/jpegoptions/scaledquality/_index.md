@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ScaledQuality
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Ölçeklenmiş kalite.
+title: "JpegOptions.ScaledQuality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. Ölçeklendirilmiş kalite"
 type: docs
-weight: 190
+weight: 200
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ScaledQuality property
 
 Ölçeklenmiş kalite.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 public int ScaledQuality { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

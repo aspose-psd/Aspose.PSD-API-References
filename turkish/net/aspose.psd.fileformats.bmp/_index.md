@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Bmp dosya formatı işlemeyi yönetir.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace BMP dosya formatı işleme işlemini yönetir"
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.psd.fileformats.bmp/
 ---
-Ad alanı, Bmp dosya formatı işlemeyi yönetir.
+{{< psd/tize >}}
+Ad alanı, Bmp dosya formatı işleme işlemlerini yönetir.
 
-## numaralandırma
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
 | [BitmapCompression](./bitmapcompression/) | Farklı bitmap sıkıştırma yöntemlerini belirtir. |
 

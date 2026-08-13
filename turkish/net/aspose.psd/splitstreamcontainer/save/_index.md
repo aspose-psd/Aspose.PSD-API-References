@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Akışın verilerini belirtilen akışa kaydeder kopyalar.
+title: "SplitStreamContainer.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Akış verilerini belirtilen akışa kaydeder."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/splitstreamcontainer/save/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Save method
 
 Akışın verilerini belirtilen akışa kaydeder (kopyalar).
@@ -14,16 +15,16 @@ Akışın verilerini belirtilen akışa kaydeder (kopyalar).
 public override void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | destinationStream | Stream | Verilerin kaydedileceği akış. |
-| bufferSize | Int32 | Tampon boyutu. Varsayılan olarak!:ReadWriteBytesCount değer kullanılır. |
-| length | Int64 | Kopyalanacak akış veri uzunluğu. Varsayılan olarak uzunluk şu şekilde ayarlanmıştır:[`Length`](../length/) değer. |
+| bufferSize | Int32 | Tampon boyutu. Varsayılan olarak !:ReadWriteBytesCount değeri kullanılır. |
+| length | Int64 | Kopyalanacak akış veri uzunluğu. Varsayılan olarak uzunluk [`Length`](../length/) değerine ayarlanır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

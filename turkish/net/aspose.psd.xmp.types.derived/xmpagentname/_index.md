@@ -1,41 +1,42 @@
 ---
-title: Class XmpAgentName
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName sınıf. Temsilci adını Yazılım organizasyonunu vb. temsil eder.
+title: "Sınıf XmpAgentName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpAgentName sınıfı. Agent adı, yazılım organizasyonu vb. temsil eder."
 type: docs
-weight: 6140
+weight: 6670
 url: /tr/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
-Temsilci adını, Yazılım organizasyonunu vb. temsil eder.
+Temsilci adı, Yazılım organizasyonu vb. temsil eder.
 
 ```csharp
 public sealed class XmpAgentName : XmpText
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | Yeni bir örneğini başlatır.`XmpAgentName` sınıf. |
+| [XmpAgentName](xmpagentname/)(string) | Yeni bir `XmpAgentName` sınıf örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Metin değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

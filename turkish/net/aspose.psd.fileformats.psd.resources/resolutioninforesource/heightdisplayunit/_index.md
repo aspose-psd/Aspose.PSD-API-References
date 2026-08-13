@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HeightDisplayUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionInfoResource mülk. Boy görüntüleme birimini alır veya ayarlar.
+title: "ResolutionInfoResource.HeightDisplayUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionInfoResource özelliği. Yükseklik görüntü birimini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/heightdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HeightDisplayUnit property
 
-Boy görüntüleme birimini alır veya ayarlar.
+Yükseklik görüntü birimini alır veya ayarlar.
 
 ```csharp
 public PhysicalUnit HeightDisplayUnit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yükseklik görüntüleme birimi.
+Yükseklik görüntü birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

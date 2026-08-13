@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen inşaatçı. Yeni bir örneğini başlatır.Pen belirtilen color. ile sınıf
+title: "Pen.Pen"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen yapıcı. Belirtilen renk ile Pen sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`Pen`](../) belirtilen color. ile sınıf
+Belirtilen renk ile [`Pen`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Pen(Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) bunun rengini gösteren yapı[`Pen`](../). |
+| color | Color | Bu [`Pen`](../) kaleminin rengini gösteren bir [`Color`](../color/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`Pen`](../) belirtilen sınıf[`Color`](../color/) Ve[`Width`](../width/) özellikler.
+Belirtilen [`Color`](../color/) ve [`Width`](../width/) özellikleriyle [`Pen`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) bunun rengini gösteren yapı[`Pen`](../). |
-| width | Single | Bunun genişliğini gösteren bir değer[`Pen`](../). |
+| color | Color | Bu [`Pen`](../) kaleminin rengini gösteren bir [`Color`](../color/) yapısı. |
+| width | Single | Bu [`Pen`](../) kaleminin genişliğini gösteren bir değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-Yeni bir örneğini başlatır.[`Pen`](../) belirtilen sınıf[`Brush`](../brush/) .
+Belirtilen [`Brush`](../brush/) ile [`Pen`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) bunun dolgu özelliklerini belirleyen[`Pen`](../). |
+| brush | Brush | Bu [`Pen`](../) kaleminin doldurma özelliklerini belirleyen bir [`Brush`](../brush/). |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* boş. |
+| ArgumentNullException | *brush* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`Pen`](../) belirtilen sınıf[`Brush`](../brush/) Ve[`Width`](../width/) .
+Belirtilen [`Brush`](../brush/) ve [`Width`](../width/) ile [`Pen`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) bu özellikleri belirleyen[`Pen`](../). |
-| width | Single | yeni genişliği[`Pen`](../). |
+| brush | Brush | Bu [`Pen`](../) kaleminin özelliklerini belirleyen bir [`Brush`](../brush/). |
+| width | Single | Yeni [`Pen`](../) kaleminin genişliği. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* boş. |
+| ArgumentNullException | *brush* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

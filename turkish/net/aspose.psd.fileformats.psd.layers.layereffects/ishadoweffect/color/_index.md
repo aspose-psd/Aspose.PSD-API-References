@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: IShadowEffect mülk. Rengi alır veya ayarlar.
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IShadowEffect özelliği. Rengi alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
 Rengi alır veya ayarlar.
@@ -14,15 +15,15 @@ Rengi alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

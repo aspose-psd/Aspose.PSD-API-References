@@ -1,52 +1,53 @@
 ---
-title: Class Lr32Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource sınıf. lr32 kaynağı.
+title: "Sınıf Lr32Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource sınıfı. lr32 kaynağı"
 type: docs
-weight: 2780
+weight: 3090
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource class
 
 lr32 kaynağı.
 
 ```csharp
-public class Lr32Resource : LayerResource
+public class Lr32Resource : LrXxResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Lr32Resource](lr32resource/)(int) | Yeni bir örneğini başlatır.`Lr32Resource` sınıf. |
+| [Lr32Resource](lr32resource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/) { get; } | Katman kaynak anahtarını alır. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/) { get; set; } | Katmanları alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length/) { get; } | Uzunluğu alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Alır veya ayarlar katmanları. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Alır görüntünün PSD başlık sürümü için kaynak uzunluğunu. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/)(StreamContainer, int) | Katman kaydını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Kaydeder katman kaydını. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* class [LrXxResource](../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

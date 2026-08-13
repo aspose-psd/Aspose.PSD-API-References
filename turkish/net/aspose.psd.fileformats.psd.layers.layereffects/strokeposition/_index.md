@@ -1,30 +1,31 @@
 ---
-title: Enum StrokePosition
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition Sıralama. Konum ayarı darbenizin uygulandığı katmana hizalamasını kontrol eder.StrokeEffect .
+title: "Enum StrokePosition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition enum. Konum ayarı, StrokeEffect içinde uygulandığı katmana göre çizginizin hizalanmasını kontrol eder."
 type: docs
-weight: 2200
+weight: 2400
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
+{{< psd/tize >}}
 ## StrokePosition enumeration
 
-Konum ayarı, darbenizin uygulandığı katmana hizalamasını kontrol eder.[`StrokeEffect`](../strokeeffect/) .
+Konum ayarı, çizginizin uygulandığı katmana göre hizalanmasını [`StrokeEffect`](../strokeeffect/) içinde kontrol eder.
 
 ```csharp
 public enum StrokePosition : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Inside | `0` | Kontur, şeklin kenarından oluşturulacak ve içe doğru, nesnenin merkezine doğru büyüyecektir. |
-| Center | `1` | Kontur, şeklin kenarından oluşturulacak ve hem içe hem de dışa doğru büyüyecektir. |
-| Outside | `2` | Kontur, şeklin kenarından oluşturulacak ve nesneden uzağa doğru büyüyecektir. |
+| Inside | `0` | Çizgi, şeklin kenarından oluşturulacak ve nesnenin merkezine doğru içe doğru büyüyecek. |
+| Center | `1` | Çizgi, şeklin kenarından oluşturulacak ve hem içe hem de dışa doğru büyüyecek. |
+| Outside | `2` | Çizgi, şeklin kenarından oluşturulacak ve nesneden uzaklaşarak dışa doğru büyüyecek. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Renk, Degrade veya Desen gibi farklı dolgu türleri ile kontur efekti ekleme yeteneğini gösterir.
+Bu örnek, Çizgi etkisini Renk, Gradyan veya Desen gibi farklı dolgu türleriyle ekleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -36,28 +37,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. İçerideki konuma Renk dolgusu ekler
+    // 1. İç konumda Renk dolgu ekler
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Dış konumunda Renk dolgusu ekler
+    // 2. Dış konumda Renk dolgu ekler
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Merkez konumunda Renk dolgusu ekler
+    // 3. Merkez konumda Renk dolgu ekler
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. İçeri konumunda Gradyan dolgusu ekler
+    // 4. İç konumda Gradyan dolgu ekler
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Dış konumunda Gradyan dolgusu ekler
+    // 5. Dış konumda Gradyan dolgu ekler
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Merkez konumunda Gradyan dolgusu ekler
+    // 6. Merkez konumda Gradyan dolgu ekler
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -81,21 +82,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. İç konuma Desen dolgusu ekler
+    // 7. İç konumda Desen dolgu ekler
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Dış konumunda Desen dolgusu ekler
+    // 8. Dış konumda Desen dolgu ekler
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Merkez konumunda Desen dolgusu ekler
+    // 9. Merkez konumda Desen dolgu ekler
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -106,9 +107,9 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

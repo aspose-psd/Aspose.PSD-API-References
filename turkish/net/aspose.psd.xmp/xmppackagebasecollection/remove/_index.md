@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Remove
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackageBaseCollection yöntem. Belirtilen XMP paketini kaldırır.
+title: "XmpPackageBaseCollection.Remove"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackageBaseCollection yöntemi. Belirtilen XMP paketini kaldırır."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Remove method
 
 Belirtilen XMP paketini kaldırır.
@@ -14,15 +15,15 @@ Belirtilen XMP paketini kaldırır.
 public void Remove(XmpPackage package)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| package | XmpPackage | Kaldırılacak XMP paketi. |
+| paket | XmpPackage | Kaldırılacak XMP paketi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

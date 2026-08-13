@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSImgDirection
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Yakalandığında görüntünün GPS yönünü alır veya ayarlar.
+title: "ExifData.GPSImgDirection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Görüntünün yakalandığı zamandaki GPS yönünü alır veya ayarlar"
 type: docs
 weight: 500
 url: /tr/net/aspose.psd.exif/exifdata/gpsimgdirection/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirection property
 
-Yakalandığında görüntünün GPS yönünü alır veya ayarlar.
+Görüntünün yakalandığı zamandaki GPS yönünü alır veya ayarlar.
 
 ```csharp
 public TiffRational GPSImgDirection { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yakalandığında görüntünün GPS yönü.
+Görüntünün yakalandığı zamandaki GPS yönü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage yöntem. Görüntüyü döndürür çevirir veya döndürür ve çevirir.
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage yöntemi. Görüntüyü döndürür, çevirir veya döndürüp çevirir"
 type: docs
-weight: 160
+weight: 190
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
-Görüntüyü döndürür, çevirir veya döndürür ve çevirir.
+Görüntüyü döndürür, çevirir veya döndürüp çevirir.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | rotateFlipType | RotateFlipType | Döndürme çevirme türü. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| NotImplementedException | Uygulanmadı |
+| NotImplementedException | Henüz uygulanmadı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

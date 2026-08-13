@@ -1,23 +1,24 @@
 ---
-title: Matrix.M21
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix mülk. İkinci satır birinci sütundaki matris elemanını alır. X ekseni boyunca kaymayı temsil eder.
+title: "Matrix.M21"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix özelliği. Matrisin ikinci satır birinci sütunundaki elemanı alır. X ekseni boyunca kayma işlemini temsil eder."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/matrix/m21/
 ---
+{{< psd/tize >}}
 ## Matrix.M21 property
 
-İkinci satır birinci sütundaki matris elemanını alır. X ekseni boyunca kaymayı temsil eder.
+İkinci satırın ilk sütunundaki matris öğesini alır. X ekseni boyunca kaymayı temsil eder.
 
 ```csharp
 public float M21 { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

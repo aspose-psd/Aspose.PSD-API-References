@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfo6Resource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "TypeToolInfo6Resource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfo6Resource özelliği. Katman kaynağı uzunluğunu bayt olarak alır"
 type: docs
-weight: 90
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfo6Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

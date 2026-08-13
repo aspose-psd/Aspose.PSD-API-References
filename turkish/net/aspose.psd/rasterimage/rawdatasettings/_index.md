@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Geçerli ham veri ayarlarını alır. Bu ayarları kullanırken verilerin dönüştürme olmadan yüklendiğini unutmayın.
+title: "RasterImage.RawDataSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Mevcut ham veri ayarlarını alır. Bu ayarları kullanırken verinin dönüşüm olmadan yüklendiğine dikkat edin."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/rasterimage/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataSettings property
 
-Geçerli ham veri ayarlarını alır. Bu ayarları kullanırken, verilerin dönüştürme olmadan yüklendiğini unutmayın.
+Mevcut ham veri ayarlarını alır. Bu ayarları kullanırken verinin dönüşüm olmadan yüklendiğini unutmayın.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Geçerli ham veri ayarları.
+Mevcut ham veri ayarları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ImageException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageException sınıf. Görüntü istisnası.
+title: "Sınıf ImageException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageException sınıfı. Görüntü istisnası"
 type: docs
 weight: 500
 url: /tr/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
 Görüntü istisnası.
@@ -14,16 +15,16 @@ Görüntü istisnası.
 public class ImageException : Exception
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | Yeni bir örneğini başlatır.`ImageException` sınıf. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`ImageException` sınıf. |
+| [ImageException](imageexception/#constructor)(string) | `ImageException` sınıfının yeni bir örneğini başlatır. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | `ImageException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

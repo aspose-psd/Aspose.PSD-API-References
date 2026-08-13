@@ -1,23 +1,24 @@
 ---
-title: SplitStreamContainer.Flush
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Bu akış için tüm arabellekleri temizler ve arabelleğe alınan tüm verilerin alttaki aygıta yazılmasına neden olur.
+title: "SplitStreamContainer.Flush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Bu akış için tüm tamponları temizler ve tamponlanmış verilerin temel cihaza yazılmasını sağlar."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/splitstreamcontainer/flush/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Flush method
 
-Bu akış için tüm arabellekleri temizler ve arabelleğe alınan tüm verilerin alttaki aygıta yazılmasına neden olur.
+Bu akış için tüm tamponları temizler ve tamponlanmış verilerin temel cihaza yazılmasını sağlar.
 
 ```csharp
 public override void Flush()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

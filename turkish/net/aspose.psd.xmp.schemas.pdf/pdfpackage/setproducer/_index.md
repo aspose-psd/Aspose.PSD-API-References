@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetProducer
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfPackage yöntem. Pdf. yi oluşturan aracın adını ayarlar.
+title: "PdfPackage.SetProducer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfPackage yöntemi. Pdf'i oluşturan aracın adını ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetProducer method
 
-Pdf. 'yi oluşturan aracın adını ayarlar.
+Pdf'i oluşturan aracın adını ayarlar.
 
 ```csharp
 public void SetProducer(string producer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| producer | String | Yapımcı adı. |
+| producer | String | Üretici adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

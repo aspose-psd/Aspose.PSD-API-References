@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.Quality
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Görüntü kalitesini alır veya ayarlar.
+title: "JpegOptions.Quality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. görüntü kalitesini alır veya ayarlar"
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/quality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Quality property
 
-Görüntü kalitesini alır veya ayarlar.
+Resim kalitesini alır veya ayarlar.
 
 ```csharp
 public int Quality { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

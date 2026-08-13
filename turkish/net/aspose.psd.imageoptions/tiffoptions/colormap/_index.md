@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ColorMap
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Renk haritasını alır veya ayarlar.
+title: "TiffOptions.ColorMap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Renk haritasını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/colormap/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ColorMap property
 
 Renk haritasını alır veya ayarlar.
@@ -14,22 +15,22 @@ Renk haritasını alır veya ayarlar.
 public ushort[] ColorMap { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk haritası.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Renk haritası yalnızca 1'e eşit piksel başına örnekler için tanımlanabilir. veya Örnek başına bit tanımlanmamıştır. |
-| ArgumentOutOfRangeException | value;Dizi uzunluğu aşağıdaki formüle karşılık gelmelidir: 3 * (2**BitsPerSample). |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Renk haritası yalnızca piksel başına örnek sayısı 1 olduğunda tanımlanabilir. veya örnek başına bit değeri tanımlı değildir. |
+| ArgumentOutOfRangeException | değer;Dizi uzunluğu aşağıdaki formüle uygun olmalıdır: 3 * (2**BitsPerSample). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

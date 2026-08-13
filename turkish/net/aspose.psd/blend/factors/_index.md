@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: Aspose.PSD for .NET API Referansı
-description: Blend mülk. Degrade için karışım faktörleri dizisini alır veya ayarlar.
+title: "Blend.Factors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Blend özelliği. Gradyan için karışım faktörleri dizisini alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-Degrade için karışım faktörleri dizisini alır veya ayarlar.
+Gradyan için blend faktörleri dizisini alır veya ayarlar.
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Karşılık gelen konumda kullanılacak başlangıç renginin ve bitiş renginin yüzdelerini belirten karışım faktörleri dizisi.
+İlgili konumda kullanılacak başlangıç rengi ve bitiş rengi yüzdelerini belirten karışım faktörleri dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Blend](../)
-* ad alanı [Aspose.PSD](../../blend/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

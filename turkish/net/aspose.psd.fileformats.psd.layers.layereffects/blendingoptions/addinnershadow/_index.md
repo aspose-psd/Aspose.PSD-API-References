@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddInnerShadow
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendingOptions yöntem. İç gölge efekti ekler.
+title: "BlendingOptions.AddInnerShadow"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendingOptions yöntemi. İç gölge efektini ekler"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddInnerShadow method
 
-İç gölge efekti ekler.
+İç gölge efektini ekler.
 
 ```csharp
 public InnerShadowEffect AddInnerShadow()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturuldu[`InnerShadowEffect`](../../innershadoweffect/) nesne
+Oluşturulan [`InnerShadowEffect`](../../innershadoweffect/) nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InnerShadowEffect](../../innershadoweffect/)
 * class [BlendingOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

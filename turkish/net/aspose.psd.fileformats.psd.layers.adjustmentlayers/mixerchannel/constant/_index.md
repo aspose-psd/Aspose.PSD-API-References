@@ -1,27 +1,28 @@
 ---
-title: MixerChannel.Constant
-second_title: Aspose.PSD for .NET API Referansı
-description: MixerChannel mülk. Channel. sabitini alır veya ayarlar.
+title: "MixerChannel.Constant"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MixerChannel özelliği. Kanalın sabitini alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
-Channel. sabitini alır veya ayarlar.
+Kanalın sabitini alır veya ayarlar.
 
 ```csharp
 public short Constant { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sabit.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixerChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

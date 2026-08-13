@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBalanceAdjustmentLayer mülk. Orta Tonlar Sarı Mavi Dengesini alır veya ayarlar.
+title: "ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBalanceAdjustmentLayer özelliği. Midtones Yellow Blue Balance değerini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance property
 
-Orta Tonlar Sarı Mavi Dengesini alır veya ayarlar.
+Orta tonların Sarı Mavi Dengesini alır veya ayarlar.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Orta Tonlar Sarı Mavi Dengesi.
+Midtones Yellow Blue Balance.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Orta Tonlar Sarı Mavi Dengesi -100 ila +100 aralığında olmalıdır. |
+| ArgumentOutOfRangeException | Midtones Yellow Blue Balance -100 ile +100 arasında olmalıdır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, ColorBalanceAdjustmentLayer için desteği gösterir.
+Aşağıdaki kod, ColorBalanceAdjustmentLayer desteğini gösterir.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

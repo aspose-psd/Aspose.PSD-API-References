@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadersRegistry yöntem. Belirtilen için uygun bulunan ilk desteklenen tanımlayıcıyı alırstream ve isteğe bağlı olarakloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadersRegistry yöntemi. Belirtilen akış için uygun ve isteğe bağlı olarak loadOptions içeren ilk bulunan desteklenen tanımlayıcıyı alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-Belirtilen için uygun bulunan ilk desteklenen tanımlayıcıyı alır*stream* ve isteğe bağlı olarak*loadOptions* .
+Belirtilen *stream* için uygun olan ve isteğe bağlı olarak *loadOptions*'ı da dikkate alan ilk bulunan desteklenen tanımlayıcıyı alır.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Akış. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtileni destekleyen yükleyici tanımlayıcısı*stream* Ve*loadOptions* veya böyle bir tanımlayıcı bulunmazsa null.
+Belirtilen *stream* ve *loadOptions* destekleyen yükleyici tanımlayıcısı veya böyle bir tanımlayıcı bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
-İlk yükleyici tanımlayıcısı aslında en son kaydedilen tanımlayıcı olacaktır.
+İlk yükleyici tanımlayıcı gerçekte son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageloadersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

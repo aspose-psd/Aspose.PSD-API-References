@@ -1,11 +1,12 @@
 ---
-title: CmlsResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: CmlsResource alan. Tip aracı bilgi anahtarı.
+title: "CmlsResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmlsResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 70
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CmlsResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmlsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

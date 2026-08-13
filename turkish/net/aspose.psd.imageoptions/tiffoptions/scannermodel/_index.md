@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Tarayıcı modelini alır veya ayarlar.
+title: "TiffOptions.ScannerModel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Tarayıcı modelini alır veya ayarlar"
 type: docs
-weight: 420
+weight: 430
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/scannermodel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerModel property
 
 Tarayıcı modelini alır veya ayarlar.
@@ -14,14 +15,14 @@ Tarayıcı modelini alır veya ayarlar.
 public string ScannerModel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tarayıcı modeli.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

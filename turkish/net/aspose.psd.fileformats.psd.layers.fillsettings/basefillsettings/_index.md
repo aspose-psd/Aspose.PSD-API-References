@@ -1,29 +1,30 @@
 ---
-title: Class BaseFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings sınıf. Taban dolgu efekti ayarları
+title: "Sınıf BaseFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings sınıf. Temel doldurma efekti ayarları"
 type: docs
-weight: 1920
+weight: 2030
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-Taban dolgu efekti ayarları
+Temel doldurma efekti ayarları
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Dolgu türünü alır. |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Doldurmanın türünü alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IFillSettings](../ifillsettings/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

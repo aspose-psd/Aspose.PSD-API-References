@@ -1,23 +1,24 @@
 ---
-title: Hue2Resource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource mülk. Katman kaynak anahtarını alır.
+title: "Hue2Resource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource özelliği. Katman kaynak anahtarını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/key/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

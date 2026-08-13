@@ -1,11 +1,12 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeBoundingBox mülk. Şekil sınırlama kutusunun sınırlarını alır veya ayarlar.
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeBoundingBox özelliği. Şekil sınırlama kutusunun sınırlarını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
 Şekil sınırlama kutusunun sınırlarını alır veya ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/boun
 public Rectangle Bounds { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Şekil sınırlama kutusu sınırları.
+Şekil sınırlama kutusunun sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

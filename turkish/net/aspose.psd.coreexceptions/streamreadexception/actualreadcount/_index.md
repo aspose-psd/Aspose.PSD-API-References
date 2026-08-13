@@ -1,11 +1,12 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamReadException mülk. Gerçek okunan bayt sayısını alır.
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamReadException özelliği. Gerçek okunan bayt sayısını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
 Gerçek okunan bayt sayısını alır.
@@ -14,14 +15,14 @@ Gerçek okunan bayt sayısını alır.
 public int ActualReadCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Gerçek okunan bayt sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamReadException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

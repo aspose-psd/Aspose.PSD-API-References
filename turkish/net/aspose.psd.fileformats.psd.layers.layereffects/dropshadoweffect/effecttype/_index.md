@@ -1,20 +1,21 @@
 ---
-title: DropShadowEffect.EffectType
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Bir tür effect alır
+title: "DropShadowEffect.EffectType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Bir etki türünü alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.EffectType property
 
-Bir tür effect alır
+Bir efekt türünü alır.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, DropShadowEffect'in Opacity özelliğinin kullanımını gösterir.
 
@@ -33,11 +34,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Opaklık = 20 ile Örnek
+    // Opacity = 20 ile örnek
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Opaklık = 20 ile Örnek0
+    // Opacity = 200 ile örnek
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -74,11 +75,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

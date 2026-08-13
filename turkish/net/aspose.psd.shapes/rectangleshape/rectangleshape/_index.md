@@ -1,44 +1,45 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleShape inşaatçı. Yeni bir örneğini başlatır.RectangleShape sınıf.
+title: "RectangleShape.RectangleShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleShape yapıcı. Yeni bir RectangleShape sınıfının bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-Yeni bir örneğini başlatır.[`RectangleShape`](../) sınıf.
+Yeni bir [`RectangleShape`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public RectangleShape()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RectangleShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`RectangleShape`](../) sınıf.
+Yeni bir [`RectangleShape`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | dikdörtgen. |
+| dikdörtgen | RectangleF | Dikdörtgen. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

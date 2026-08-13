@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetEngineer
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Mühendisi ayarlar.
+title: "XmpDynamicMediaPackage.SetEngineer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Mühendis'i ayarlar"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setengineer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetEngineer method
 
 Mühendisi ayarlar.
@@ -14,14 +15,14 @@ Mühendisi ayarlar.
 public void SetEngineer(string engineer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| engineer | String | Mühendis. |
+| mühendis | String | Mühendis. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

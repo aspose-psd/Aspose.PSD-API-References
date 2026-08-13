@@ -1,43 +1,44 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions inşaatçı. Yeni bir örneğini başlatır.JpegOptions sınıf.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions yapıcı. JpegOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-Yeni bir örneğini başlatır.[`JpegOptions`](../) sınıf.
+[`JpegOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`JpegOptions`](../) sınıf.
+[`JpegOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | jpegOptions | JpegOptions | JPEG seçenekleri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

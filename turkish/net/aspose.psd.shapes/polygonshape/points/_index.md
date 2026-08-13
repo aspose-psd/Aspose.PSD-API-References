@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Points
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape mülk. Eğri noktalarını alır veya ayarlar.
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape özelliği. Eğri noktalarını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
 Eğri noktalarını alır veya ayarlar.
@@ -14,15 +15,15 @@ Eğri noktalarını alır veya ayarlar.
 public PointF[] Points { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Eğri noktaları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

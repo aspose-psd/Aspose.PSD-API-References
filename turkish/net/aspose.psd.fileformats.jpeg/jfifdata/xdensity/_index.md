@@ -1,11 +1,12 @@
 ---
-title: JFIFData.XDensity
-second_title: Aspose.PSD for .NET API Referansı
-description: JFIFData mülk. x yoğunluğunu alır veya ayarlar.
+title: "JFIFData.XDensity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JFIFData özelliği. x yoğunluğunu alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.jpeg/jfifdata/xdensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.XDensity property
 
 x yoğunluğunu alır veya ayarlar.
@@ -14,10 +15,10 @@ x yoğunluğunu alır veya ayarlar.
 public short XDensity { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JFIFData](../)
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

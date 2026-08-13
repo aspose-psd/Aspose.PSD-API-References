@@ -1,63 +1,64 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Geçerli görüntüye uyan dikdörtgeni alır.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Mevcut görüntüyü sığdıran dikdörtgeni alır."
 type: docs
-weight: 270
+weight: 280
 url: /tr/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-Geçerli görüntüye uyan dikdörtgeni alır.
+Geçerli görüntüyü sığdıran dikdörtgeni alır.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Dikdörtgenin sığdırılacağı dikdörtgen. |
-| width | Int32 | Nesne genişliği. |
-| height | Int32 | Nesne yüksekliği. |
+| dikdörtgen | Rectangle | Sığdırma dikdörtgeni alınacak dikdörtgen. |
+| width | Int32 | Nesnenin genişliği. |
+| height | Int32 | Nesnenin yüksekliği. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Uygun dikdörtgen veya uygun dikdörtgen bulunamazsa istisna.
+Sığdırma dikdörtgeni veya bulunamazsa bir istisna.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-Geçerli görüntüye uyan dikdörtgeni alır.
+Geçerli görüntüyü sığdıran dikdörtgeni alır.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
     int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Dikdörtgenin sığdırılacağı dikdörtgen. |
-| pixels | Int32[] | 32 bit ARGB pikselleri. |
-| width | Int32 | Nesne genişliği. |
-| height | Int32 | Nesne yüksekliği. |
+| dikdörtgen | Rectangle | Sığdırma dikdörtgeni alınacak dikdörtgen. |
+| pikseller | Int32[] | 32-bit ARGB pikselleri. |
+| width | Int32 | Nesnenin genişliği. |
+| height | Int32 | Nesnenin yüksekliği. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Uygun dikdörtgen veya uygun dikdörtgen bulunamazsa istisna.
+Sığdırma dikdörtgeni veya bulunamazsa bir istisna.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

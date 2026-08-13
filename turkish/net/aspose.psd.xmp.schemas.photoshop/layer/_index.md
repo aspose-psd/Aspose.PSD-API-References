@@ -1,11 +1,12 @@
 ---
-title: Class Layer
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.Photoshop.Layer sınıf. Photoshop metin katmanını temsil eder.
+title: "Sınıf Layer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.Layer sınıfı. Photoshop metin katmanını temsil eder"
 type: docs
-weight: 5810
+weight: 6340
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/layer/
 ---
+{{< psd/tize >}}
 ## Layer class
 
 Photoshop metin katmanını temsil eder.
@@ -14,33 +15,33 @@ Photoshop metin katmanını temsil eder.
 public class Layer : XmpTypeBase, IEquatable<Layer>
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Layer](layer/#constructor)() | Yeni bir örneğini başlatır.`Layer` sınıf. |
-| [Layer](layer/#constructor_1)(string, string) | Yeni bir örneğini başlatır.`Layer` sınıf. |
+| [Layer](layer/#constructor)() | `Layer` sınıfının yeni bir örneğini başlatır. |
+| [Layer](layer/#constructor_1)(string, string) | `Layer` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Name](../../aspose.psd.xmp.schemas.photoshop/layer/name/) { get; set; } | Metin katmanının adını alır veya ayarlar. |
 | [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | Katmanın metin içeriğini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir. |
-| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir. |
-| override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | Bu örnek için bir karma kod döndürür. |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | XMP biçiminde dizge içerdiği değeri döndürür. |
+| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir. |
+| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler. |
+| override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | Bu örnek için bir hash kodu döndürür. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | XMP formatında içerilen dize değerini döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

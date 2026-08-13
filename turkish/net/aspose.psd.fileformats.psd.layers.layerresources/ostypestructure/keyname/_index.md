@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Aspose.PSD for .NET API Referansı
-description: OSTypeStructure mülk. Anahtar adını alır veya ayarlar.
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OSTypeStructure özelliği. Anahtar adını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
 Anahtar adını alır veya ayarlar.
@@ -14,15 +15,15 @@ Anahtar adını alır veya ayarlar.
 public ClassID KeyName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Anahtar adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

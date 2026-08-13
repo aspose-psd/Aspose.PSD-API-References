@@ -1,38 +1,39 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord sınıf. İlk Doldurma Kuralı Kaydı Class
+title: "Sınıf InitialFillRuleRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord sınıfı. Initial Fill Rule Record Sınıfı"
 type: docs
-weight: 1360
+weight: 1370
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
-İlk Doldurma Kuralı Kaydı Class
+İlk Doldurma Kuralı Kayıt Sınıfı
 
 ```csharp
 public class InitialFillRuleRecord : VectorPathRecord
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Yeni bir örneğini başlatır.`InitialFillRuleRecord` sınıf. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Yeni bir örneğini başlatır.`InitialFillRuleRecord` sınıf. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Yeni bir örneğini başlatır.`InitialFillRuleRecord` sınıf. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Yeni bir `InitialFillRuleRecord` sınıfı örneği başlatır. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Yeni bir `InitialFillRuleRecord` sınıfı örneği başlatır. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Yeni bir `InitialFillRuleRecord` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | Dolgunun tüm piksellerle başlayıp başlamadığını gösteren bir değer alır veya ayarlar. |
+| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | Dolgunun tüm piksellerle başlayıp başlamadığını gösteren bir değeri alır veya ayarlar. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/) { get; } | Türü alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

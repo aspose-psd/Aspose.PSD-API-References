@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Bottom
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeBoundingBox mülk. Tabanı alır veya ayarlar.
+title: "VectorShapeBoundingBox.Bottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeBoundingBox özelliği. Alt kısmı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bottom property
 
-Tabanı alır veya ayarlar.
+Altı alır veya ayarlar.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Alt.
+Alt kısım.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeBoundingBox](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

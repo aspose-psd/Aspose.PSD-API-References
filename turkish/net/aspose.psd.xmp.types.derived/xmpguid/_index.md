@@ -1,43 +1,44 @@
 ---
-title: Class XmpGuid
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Derived.XmpGuid sınıf. XMP global benzersiz tanımlayıcısını temsil eder.
+title: "Sınıf XmpGuid"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpGuid sınıfı. XMP küresel benzersiz tanımlayıcısını temsil eder"
 type: docs
-weight: 6160
+weight: 6690
 url: /tr/net/aspose.psd.xmp.types.derived/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid class
 
-XMP global benzersiz tanımlayıcısını temsil eder.
+XMP küresel benzersiz tanımlayıcısını temsil eder.
 
 ```csharp
 public sealed class XmpGuid : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpGuid](xmpguid/#constructor)(Guid) | Yeni bir örneğini başlatır.`XmpGuid` sınıf. |
-| [XmpGuid](xmpguid/#constructor_1)(string) | Yeni bir örneğini başlatır.`XmpGuid` sınıf. |
+| [XmpGuid](xmpguid/#constructor)(Guid) | `XmpGuid` sınıfının yeni bir örneğini başlatır. |
+| [XmpGuid](xmpguid/#constructor_1)(string) | `XmpGuid` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | uuid. gibi öneki alır veya ayarlar |
+| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | uuid gibi önek alır veya ayarlar. |
 | [Value](../../aspose.psd.xmp.types.derived/xmpguid/value/) { get; set; } | Değeri alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

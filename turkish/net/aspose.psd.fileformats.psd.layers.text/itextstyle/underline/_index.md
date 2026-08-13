@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Underline
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. altı çizili. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "ITextStyle.Underline"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Alt çizgi olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 260
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/underline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Underline property
 
-[altı çizili]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Alır veya ayarlar, [underline] olup olmadığını gösteren bir değer.
 
 ```csharp
 public bool Underline { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

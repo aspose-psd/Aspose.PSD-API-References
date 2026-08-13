@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Offset
-second_title: Aspose.PSD for .NET API Referansı
-description: ExpaResource mülk. Ofseti alır veya ayarlar.
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExpaResource özelliği. Ofseti alır veya ayarlar"
 type: docs
-weight: 60
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
 Ofseti alır veya ayarlar.
@@ -14,14 +15,14 @@ Ofseti alır veya ayarlar.
 public float Offset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ofset.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

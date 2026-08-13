@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Genişliği orantılı olarak yeniden boyutlandırır.
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Genişliği orantılı olarak yeniden boyutlandırır"
 type: docs
-weight: 600
+weight: 660
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
 Genişliği orantılı olarak yeniden boyutlandırır.
@@ -14,17 +15,17 @@ Genişliği orantılı olarak yeniden boyutlandırır.
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
-| settings | ImageResizeSettings | Görüntü yeniden boyutlandırma ayarları. |
+| ayarlar | ImageResizeSettings | Görüntü yeniden boyutlandırma ayarları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,16 +37,16 @@ Genişliği orantılı olarak yeniden boyutlandırır.
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
-| resizeType | ResizeType | Yeniden boyutlandırma türü. |
+| resizeType | ResizeType | Yeniden boyutlandırmanın türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

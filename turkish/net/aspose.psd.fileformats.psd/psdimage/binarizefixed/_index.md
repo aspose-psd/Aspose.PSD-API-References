@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Önceden tanımlanmış eşikle bir görüntünün ikili hale getirilmesi
+title: "PsdImage.BinarizeFixed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Önceden tanımlı eşik ile bir görüntünün ikilileştirilmesi"
 type: docs
-weight: 480
+weight: 540
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-Önceden tanımlanmış eşikle bir görüntünün ikili hale getirilmesi
+Önceden tanımlı eşik ile bir görüntünün ikilileştirilmesi
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| threshold | Byte | Eşik değeri. Bir pikselin karşılık gelen gri değeri eşikten büyükse, ona 255, aksi takdirde 0 değeri atanır. |
+| eşik | Byte | Eşik değeri. Bir pikselin ilgili gri değeri eşiğin üzerindeyse, ona 255 değeri atanır, aksi takdirde 0. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

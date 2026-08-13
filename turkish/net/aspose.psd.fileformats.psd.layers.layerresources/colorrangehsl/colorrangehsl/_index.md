@@ -1,49 +1,50 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl inşaatçı. Yeni bir örneğini başlatır.ColorRangeHsl sınıf.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl yapıcı. ColorRangeHsl sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-Yeni bir örneğini başlatır.[`ColorRangeHsl`](../) sınıf.
+Yeni bir [`ColorRangeHsl`](../) sınıf örneği başlatır.
 
 ```csharp
 public ColorRangeHsl()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ColorRangeHsl`](../) sınıf.
+Yeni bir [`ColorRangeHsl`](../) sınıf örneği başlatır.
 
 ```csharp
 public ColorRangeHsl(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Renk aralığı verileri. |
+| veri | Byte[] | Renk aralığı verileri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | " + this.GetType() + " için beklenen uzunluk 14'tür |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Beklenen uzunluk " + this.GetType() + " 14'tür |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape mülk. Bitiş şekil noktasını alır.
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape özelliği. Şeklin bitiş noktasını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-Bitiş şekil noktasını alır.
+Şeklin son noktasını alır.
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bitiş şekli noktası.
+Şeklin bitiş noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

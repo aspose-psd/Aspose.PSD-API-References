@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings mülk. Rengi alır veya ayarlar.
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings özelliği. Rengi alır veya ayarlar"
 type: docs
-weight: 20
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
 Rengi alır veya ayarlar.
@@ -14,15 +15,15 @@ Rengi alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

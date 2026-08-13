@@ -1,11 +1,12 @@
 ---
-title: Class FileCreateSource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Sources.FileCreateSource sınıf. Oluşturma için bir dosya kaynağını temsil eder.
+title: "Sınıf FileCreateSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Sources.FileCreateSource sınıfı. Oluşturma için bir dosya kaynağını temsil eder"
 type: docs
-weight: 5590
+weight: 6120
 url: /tr/net/aspose.psd.sources/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource class
 
 Oluşturma için bir dosya kaynağını temsil eder.
@@ -14,52 +15,52 @@ Oluşturma için bir dosya kaynağını temsil eder.
 public sealed class FileCreateSource : FileSource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FileCreateSource](filecreatesource/#constructor)(string) | Yeni bir örneğini başlatır.`FileCreateSource` sınıf. |
-| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Yeni bir örneğini başlatır.`FileCreateSource` sınıf. |
+| [FileCreateSource](filecreatesource/#constructor)(string) | `FileCreateSource` sınıfının yeni bir örneğini başlatır. |
+| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | `FileCreateSource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/filecreatesource/filepath/) { get; } | Oluşturulacak dosya yolunu alır. |
-| override [IsTemporal](../../aspose.psd.sources/filecreatesource/istemporal/) { get; } | Dosyanın geçici olup olmayacağını gösteren bir değer alır. |
+| [FilePath](../../aspose.psd.sources/filecreatesource/filepath/) { get; } | Oluşturmak için dosya yolunu alır. |
+| override [IsTemporal](../../aspose.psd.sources/filecreatesource/istemporal/) { get; } | Dosyanın geçici olup olmayacağını gösteren bir değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/filecreatesource/getstreamcontainer/)() | Akış kapsayıcısını alır. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Image yüzeyinde dizeler çizmek için Font ve SolidBrush sınıfının kullanımını gösterir. Örnek, yeni bir Görüntü oluşturur ve Figures ve GraphicsPath kullanarak şekiller çizer.
+Bu örnek, Font ve SolidBrush sınıfının Image yüzeyine metin çizmek için kullanımını gösterir. Örnek yeni bir Image oluşturur ve Figures ve GraphicsPath kullanarak şekiller çizer.
 
 ```csharp
 [C#]
 
-//Görüntünün bir örneğini oluşturur
+//Image sınıfının bir örneğini oluşturur
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // Graphics sınıfının bir örneğini oluşturur ve başlatır
+    //Graphics sınıfının bir örneğini oluşturur ve başlatır
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Grafik yüzeyini temizler
+    //Graphics yüzeyini temizler
     graphics.Clear(Color.Wheat);
 
-    // Font örneğini oluşturur
+    //Font sınıfının bir örneğini oluşturur
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    //Kırmızı Rengi olan bir SolidBrush örneği oluştur
+    //Kırmızı renkli bir SolidBrush örneği oluşturur
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    //Bir Dizi Çiz
+    //Bir dize çizer
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // dışa aktarma seçeneklerini oluşturun.
+    // dışa aktarma seçeneklerini oluştur.
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
     // tüm değişiklikleri kaydet
@@ -67,10 +68,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileSource](../filesource/)
-* ad alanı [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,56 +1,57 @@
 ---
-title: Class TextShape
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Shapes.TextShape sınıf. Bir metin şeklini temsil eder.
+title: "Sınıf TextShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Shapes.TextShape sınıfı. Metin şeklini temsil eder"
 type: docs
-weight: 5540
+weight: 6070
 url: /tr/net/aspose.psd.shapes/textshape/
 ---
+{{< psd/tize >}}
 ## TextShape class
 
-Bir metin şeklini temsil eder.
+Bir metin şekli temsil eder.
 
 ```csharp
 public sealed class TextShape : RectangleProjectedShape
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TextShape](textshape/#constructor)() | Yeni bir örneğini başlatır.`TextShape` sınıf. |
-| [TextShape](textshape/#constructor_1)(string, RectangleF, Font, StringFormat) | Yeni bir örneğini başlatır.`TextShape` sınıf. |
+| [TextShape](textshape/#constructor)() | `TextShape` sınıfının yeni bir örneğini başlatır. |
+| [TextShape](textshape/#constructor_1)(string, RectangleF, Font, StringFormat) | `TextShape` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/textshape/bounds/) { get; } | Nesnenin sınırlarını alır. |
 | override [Center](../../aspose.psd.shapes/textshape/center/) { get; } | Şeklin merkezini alır. |
-| [Font](../../aspose.psd.shapes/textshape/font/) { get; set; } | Metni çizmek için kullanılan yazı tipini alır veya ayarlar. |
-| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments/) { get; } | Şeklin segmentleri olup olmadığını gösteren bir değer alır. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Sol alttaki dikdörtgen noktasını alır. |
+| [Font](../../aspose.psd.shapes/textshape/font/) { get; set; } | Metni çizmeye kullanılan yazı tipini alır veya ayarlar. |
+| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments/) { get; } | Şeklin segmentlere sahip olup olmadığını gösteren bir değeri alır. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Sol alt dikdörtgen noktasını alır. |
 | [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Sol üst dikdörtgen noktasını alır. |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Dikdörtgen yüksekliğini alır. |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Dikdörtgen genişliğini alır. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Sağ alttaki dikdörtgen noktasını alır. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Sağ alt dikdörtgen noktasını alır. |
 | [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Sağ üst dikdörtgen noktasını alır. |
 | override [Segments](../../aspose.psd.shapes/textshape/segments/) { get; } | Şekil segmentlerini alır. |
 | [Text](../../aspose.psd.shapes/textshape/text/) { get; set; } | Çizilen metni alır veya ayarlar. |
 | [TextFormat](../../aspose.psd.shapes/textshape/textformat/) { get; set; } | Metin biçimini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [GetBounds](../../aspose.psd.shapes/textshape/getbounds/#getbounds)(Matrix) | Nesnenin sınırlarını alır. |
 | override [GetBounds](../../aspose.psd.shapes/textshape/getbounds/#getbounds_1)(Matrix, Pen) | Nesnenin sınırlarını alır. |
 | override [Transform](../../aspose.psd.shapes/textshape/transform/)(Matrix) | Belirtilen dönüşümü şekle uygular. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RectangleProjectedShape](../rectangleprojectedshape/)
-* ad alanı [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

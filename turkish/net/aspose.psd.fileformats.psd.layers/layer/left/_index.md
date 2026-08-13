@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Sol katman konumunu alır veya ayarlar.
+title: "Layer.Left"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Sol katman konumunu alır veya ayarlar"
 type: docs
-weight: 240
+weight: 250
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
 Sol katman konumunu alır veya ayarlar.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sol katman konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan imzalı kısa değeri okuyun.
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıttan işaretli kısa değer okur"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-Akıştan imzalı kısa değeri okuyun.
+Akıştan imzalı kısa değer okur.
 
 ```csharp
 public short ReadSShort(long position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
+| konum | Int64 | Okunacak konum. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşaretli bir kısa değer.
+İmzalı kısa bir değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

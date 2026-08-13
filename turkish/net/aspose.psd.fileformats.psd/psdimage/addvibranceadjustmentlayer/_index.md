@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Titreşim ayarlama katmanını ekler.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Vibrance ayar katmanını ekler"
 type: docs
-weight: 430
+weight: 490
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-Titreşim ayarlama katmanını ekler.
+Canlılık ayar katmanını ekler.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni oluşturulmuş bir Titreşim katmanı.
+Yeni oluşturulmuş bir Vibrance katmanı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, VibranceLayer katmanının desteğini ve bu ayarı düzenleme yeteneğini gösterir.
+Aşağıdaki kod örneği, VibranceLayer katmanının desteğini ve bu ayarın düzenlenebilme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

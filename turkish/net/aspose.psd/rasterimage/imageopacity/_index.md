@@ -1,27 +1,28 @@
 ---
-title: RasterImage.ImageOpacity
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Bu görüntünün opaklığını alır.
+title: "RasterImage.ImageOpacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Bu görüntünün opaklığını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/rasterimage/imageopacity/
 ---
+{{< psd/tize >}}
 ## RasterImage.ImageOpacity property
 
-Bu görüntünün opaklığını alır.
+Bu resmin opaklığını alır.
 
 ```csharp
 public virtual float ImageOpacity { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-0,0 (tamamen şeffaf) ile 1,0 (tamamen opak) arasındaki opaklık değeri.
+0.0 (tamamen şeffaf) ile 1.0 (tamamen opak) arasındaki opaklık değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD for .NET API Referansı
-description: LnkeResource inşaatçı. Yeni bir örneğini başlatır.LnkeResource sınıf.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LnkeResource yapıcı. LnkeResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`LnkeResource`](../) sınıf.
+[`LnkeResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LnkeResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LnkeResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LnkeResource`](../) sınıf.
+[`LnkeResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | dataSources | LinkDataSource[] | Veri kaynakları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

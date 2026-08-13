@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType Sıralama. exif sahne yakalama türü enum.
+title: "Enum ExifSceneCaptureType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType enum. exif sahne yakalama türü enum"
 type: docs
-weight: 930
+weight: 940
 url: /tr/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-exif sahne yakalama türü enum.
+exif sahne yakalama türü sayımı.
 
 ```csharp
 public enum ExifSceneCaptureType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Standard | `0` | Standart sahne. |
 | Landscape | `1` | Manzara sahnesi. |
 | Portrait | `2` | Portre sahnesi. |
-| NightScene | `3` | Gece çekimi. |
+| NightScene | `3` | Gece sahnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

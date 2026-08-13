@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Akıllı nesne kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir.
+title: "SmartObjectResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Akıllı nesne kaynağı için gerekli minimum PSD sürümünü alır. 0, sınırlama olmadığını gösterir"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PsdVersion property
 
-Akıllı nesne kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir.
+Akıllı nesne kaynağı için gerekli minimum PSD sürümünü alır. 0, sınırlama olmadığını gösterir.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

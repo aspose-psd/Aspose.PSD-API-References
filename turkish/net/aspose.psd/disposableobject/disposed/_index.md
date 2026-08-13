@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: Aspose.PSD for .NET API Referansı
-description: DisposableObject mülk. Bu örneğin atılıp atılmadığını gösteren bir değer alır.
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DisposableObject özelliği. Bu örneğin yokedilmiş olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-Bu örneğin atılıp atılmadığını gösteren bir değer alır.
+Bu örneğin atılmış olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` imha edilirse; aksi takdirde,`YANLIŞ`.
+`true` eğer yokedilmişse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DisposableObject](../)
-* ad alanı [Aspose.PSD](../../disposableobject/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

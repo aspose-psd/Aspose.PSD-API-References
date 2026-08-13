@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.NoBreak
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Kesintisiz değeri ayarlar.
+title: "ITextStyle.NoBreak"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Kesintisiz değerini alır veya ayarlar"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/
 ---
+{{< psd/tize >}}
 ## ITextStyle.NoBreak property
 
-Kesintisiz değeri ayarlar.
+Kesintisiz değerini alır veya ayarlar.
 
 ```csharp
 public bool NoBreak { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

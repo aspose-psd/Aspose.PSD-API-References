@@ -1,11 +1,12 @@
 ---
-title: XmpArray.AddItem
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpArray yöntem. Yeni öğe ekler.
+title: "XmpArray.AddItem"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpArray yöntemi. Yeni öğe ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp/xmparray/additem/
 ---
+{{< psd/tize >}}
 ## XmpArray.AddItem method
 
 Yeni öğe ekler.
@@ -14,14 +15,14 @@ Yeni öğe ekler.
 public void AddItem(string item)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| item | String | Öğe listesine eklenecek öğe. |
+| öğe | String | Listeye eklenecek öğe. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpArray](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmparray/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.BlueMask
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalLayerMaskInfo mülk. Mavi maskeyi alır veya ayarlar.
+title: "GlobalLayerMaskInfo.BlueMask"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalLayerMaskInfo özelliği. Mavi maskeyi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.BlueMask property
 
 Mavi maskeyi alır veya ayarlar.
@@ -14,14 +15,14 @@ Mavi maskeyi alır veya ayarlar.
 public short BlueMask { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mavi maske.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalLayerMaskInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

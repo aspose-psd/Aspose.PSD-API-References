@@ -1,29 +1,30 @@
 ---
-title: Time.Time
-second_title: Aspose.PSD for .NET API Referansı
-description: Time inşaatçı. Yeni bir örneğini başlatır.Time sınıf.
+title: "Time.Time"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Time yapıcı. Time sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-Yeni bir örneğini başlatır.[`Time`](../) sınıf.
+Yeni bir [`Time`](../) sınıf örneği başlatır.
 
 ```csharp
 public Time(Rational scale, int value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| scale | Rational | Ölcek. |
-| value | Int32 | Değer. |
+| scale | Rational | Ölçek. |
+| değer | Int32 | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

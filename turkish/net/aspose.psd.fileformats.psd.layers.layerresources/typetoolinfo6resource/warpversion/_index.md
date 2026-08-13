@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfo6Resource mülk. Çözgü sürümünü alır veya ayarlar.
+title: "TypeToolInfo6Resource.WarpVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfo6Resource özelliği. Çarpıtma sürümünü alır veya ayarlar"
 type: docs
-weight: 210
+weight: 180
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpVersion property
 
-Çözgü sürümünü alır veya ayarlar.
+Warp sürümünü alır veya ayarlar.
 
 ```csharp
 public short WarpVersion { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çözgü versiyonu.
+Çarpıtma sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfo6Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

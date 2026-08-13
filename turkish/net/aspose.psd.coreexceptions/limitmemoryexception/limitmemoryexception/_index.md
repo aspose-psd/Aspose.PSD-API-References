@@ -1,91 +1,92 @@
 ---
-title: LimitMemoryException.LimitMemoryException
-second_title: Aspose.PSD for .NET API Referansı
-description: LimitMemoryException inşaatçı. Yeni bir örneğini başlatır.LimitMemoryException sınıf.
+title: "LimitMemoryException.LimitMemoryException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LimitMemoryException yapıcı. LimitMemoryException sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/limitmemoryexception/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`LimitMemoryException`](../) sınıf.
+[`LimitMemoryException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LimitMemoryException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LimitMemoryException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`LimitMemoryException`](../) sınıf.
+[`LimitMemoryException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LimitMemoryException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, long) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LimitMemoryException`](../) sınıf.
+[`LimitMemoryException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LimitMemoryException(string message, long reduceMemoryFactor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | reduceMemoryFactor | Int64 | Azaltılmış bellek faktörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LimitMemoryException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception, int) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`LimitMemoryException`](../) sınıf.
+[`LimitMemoryException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException, int reduceMemoryFactor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 | reduceMemoryFactor | Int32 | Azaltılmış bellek faktörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LimitMemoryException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Aspose.PSD for .NET API Referansı
-description: Frame inşaatçı. Yeni bir örneğini başlatır.Frame sınıf.
+title: "Frame.Frame"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Frame yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-Yeni bir örneğini başlatır.[`Frame`](../) sınıf.
+Varsayılan yapıcı.
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
 
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| timeLine | TimeLine | Zaman çizelgesi nesnesi. |
+### Ayrıca Bakınız
 
-### Ayrıca bakınız
-
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDerivedFrom
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMediaManagementPackage yöntem. Türetileni ayarlar.
+title: "XmpMediaManagementPackage.SetDerivedFrom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMediaManagementPackage yöntemi. Türetilen kaynağı ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setderivedfrom/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.SetDerivedFrom method
 
 Türetileni ayarlar.
@@ -14,15 +15,15 @@ Türetileni ayarlar.
 public void SetDerivedFrom(ResourceRef resourceRef)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | resourceRef | ResourceRef | Kaynak referansı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/resourceref/)
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

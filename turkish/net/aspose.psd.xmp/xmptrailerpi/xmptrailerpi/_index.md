@@ -1,43 +1,44 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpTrailerPi inşaatçı. Yeni bir örneğini başlatır.XmpTrailerPi sınıf.
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpTrailerPi yapıcı. XmpTrailerPi sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpTrailerPi`](../) sınıf.
+[`XmpTrailerPi`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| isWritable | Boolean | Fragmanın yazılabilir olup olmadığını gösterir. |
+| isWritable | Boolean | Trailer'ın yazılabilir olup olmadığını gösterir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpTrailerPi`](../) sınıf.
+[`XmpTrailerPi`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpTrailerPi()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

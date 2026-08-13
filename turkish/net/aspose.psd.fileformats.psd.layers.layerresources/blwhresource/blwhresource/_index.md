@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.BlwhResource
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource inşaatçı. Default_Constructor
+title: "BlwhResource.BlwhResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blwhresource/
 ---
+{{< psd/tize >}}
 ## BlwhResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public BlwhResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

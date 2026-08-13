@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcessColors
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Belge işlem renklerini alır veya ayarlar.
+title: "AiHeader.DocumentProcessColors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Belge işleme renklerini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/documentprocesscolors/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcessColors property
 
-Belge işlem renklerini alır veya ayarlar.
+Belge işleme renklerini alır veya ayarlar.
 
 ```csharp
 public string DocumentProcessColors { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Belge işlem renkleri.
+Belge işleme renkleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

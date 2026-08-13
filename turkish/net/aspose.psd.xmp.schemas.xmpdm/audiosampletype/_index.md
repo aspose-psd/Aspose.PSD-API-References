@@ -1,22 +1,23 @@
 ---
-title: Class AudioSampleType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType sınıf. Ses örnek tipini temsil eder.XmpDynamicMediaPackage .
+title: "Sınıf AudioSampleType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType sınıfı. XmpDynamicMediaPackage içinde Audio örnek tipini temsil eder"
 type: docs
-weight: 5850
+weight: 6380
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-Ses örnek tipini temsil eder.[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+`[XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) içinde Audio örnek tipini temsil eder.
 
 ```csharp
 public sealed class AudioSampleType
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | Sıkıştırılmış ses örneğini temsil eder. |
 | static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | Paketlenmiş ses örneğini temsil eder. |
@@ -26,15 +27,15 @@ public sealed class AudioSampleType
 | static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 32Int ses örneğini temsil eder. |
 | static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 8Int ses örneğini temsil eder. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

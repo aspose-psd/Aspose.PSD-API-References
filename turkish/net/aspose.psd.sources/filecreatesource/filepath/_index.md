@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD for .NET API Referansı
-description: FileCreateSource mülk. Oluşturulacak dosya yolunu alır.
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileCreateSource özelliği. Oluşturulacak dosya yolunu alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
-Oluşturulacak dosya yolunu alır.
+Oluşturmak için dosya yolunu alır.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Oluşturulacak dosya yolu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileCreateSource](../)
-* ad alanı [Aspose.PSD.Sources](../../filecreatesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

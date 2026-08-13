@@ -1,52 +1,53 @@
 ---
-title: Class RawDataStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.RawDataStructure sınıf. Ham veri yapısı.
+title: "Sınıf RawDataStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.RawDataStructure sınıf. Ham veri yapısı"
 type: docs
-weight: 3240
+weight: 3630
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure class
 
-Ham veri yapısı.
+Raw veri yapısı.
 
 ```csharp
 public sealed class RawDataStructure : OSTypeStructure
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RawDataStructure](rawdatastructure/)(ClassID) | Yeni bir örneğini başlatır.`RawDataStructure` sınıf. |
+| [RawDataStructure](rawdatastructure/)(ClassID) | Yeni bir `RawDataStructure` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/) { get; set; } | Verileri alır veya ayarlar. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/) { get; set; } | Veriyi alır veya ayarlar. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key/) { get; } | Anahtarı alır. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Anahtar adını alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length/) { get; } | Şunu alır:[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Başlık uzunluğunu alır. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/structurekey/) | Yapı anahtarını tanımlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

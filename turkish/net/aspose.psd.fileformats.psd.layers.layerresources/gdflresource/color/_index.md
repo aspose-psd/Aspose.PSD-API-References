@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. RGBnin rengini alır.
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource özelliği. RGB'nin rengini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
 RGB'nin rengini alır.
@@ -14,15 +15,15 @@ RGB'nin rengini alır.
 public Color Color { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 RGB Rengi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

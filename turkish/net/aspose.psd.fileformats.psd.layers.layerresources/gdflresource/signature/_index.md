@@ -1,23 +1,24 @@
 ---
-title: GdFlResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Katman kaynak imzasını alır.
+title: "GdFlResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource özelliği. Katman kaynağı imzasını alır"
 type: docs
-weight: 160
+weight: 230
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

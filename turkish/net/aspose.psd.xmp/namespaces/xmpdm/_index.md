@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpDm
-second_title: Aspose.PSD for .NET API Referansı
-description: Namespaces alan. XMP Dinamik Medya ad alanı.
+title: "Namespaces.XmpDm"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespaces alanı. XMP Dinamik Medya ad alanı"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp/namespaces/xmpdm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpDm field
 
-XMP Dinamik Medya ad alanı.
+XMP Dynamic Media ad alanı.
 
 ```csharp
 public const string XmpDm;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Namespaces](../)
-* ad alanı [Aspose.PSD.Xmp](../../namespaces/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputHighlightLevel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevelChannel mülk. Çıkış vurgu seviyesini alır veya ayarlar.
+title: "LevelChannel.OutputHighlightLevel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevelChannel özelliği. Çıktı vurgulama seviyesini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputHighlightLevel property
 
-Çıkış vurgu seviyesini alır veya ayarlar.
+Çıkış vurgulama seviyesini alır veya ayarlar.
 
 ```csharp
 public short OutputHighlightLevel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çıktı vurgu düzeyi.
+Çıktı vurgulama seviyesi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Çıktı Vurgu Düzeyi yalnızca " + (this.OutputShadowLevel + 2) + " ila 255 aralığında ayarlanabilir |
+| ArgumentOutOfRangeException | Output Highlight Level sadece " + (this.OutputShadowLevel + 2) + " ile 255 arasında ayarlanabilir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: Aspose.PSD for .NET API Referansı
-description: FileFormatExtensions yöntem. Tek dosya formatının tanımlanıp tanımlanmadığını belirler.
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileFormatExtensions yöntemi. Tek dosya biçiminin tanımlı olup olmadığını belirler"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-Tek dosya formatının tanımlanıp tanımlanmadığını belirler.
+Tek bir dosya formatının tanımlı olup olmadığını belirler.
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fileFormat | FileFormat | Kontrol edilecek dosya formatı. |
+| fileFormat | FileFormat | Kontrol edilecek dosya biçimi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`Doğru` tek dosya formatı tanımlanmış ise; aksi takdirde,`YANLIŞ` .
+`True` tek dosya biçimi tanımlıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../fileformatextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

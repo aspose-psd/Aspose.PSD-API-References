@@ -1,23 +1,24 @@
 ---
-title: Figure.Reverse
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure yöntem. Bu şeklin sırasını tersine çevirir ve nokta sırasını şekillendirir.
+title: "Figure.Reverse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure yöntemi. Bu figürün şekil sırasını ve şekil nokta sırasını tersine çevirir."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-Bu şeklin sırasını tersine çevirir ve nokta sırasını şekillendirir.
+Bu şeklin şekil sırasını ve şekil nokta sırasını tersine çevirir.
 
 ```csharp
 public void Reverse()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

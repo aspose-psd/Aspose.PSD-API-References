@@ -1,11 +1,12 @@
 ---
-title: RasterImage.XmpData
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. XMP meta verilerini alır veya ayarlar.
+title: "RasterImage.XmpData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. XMP meta verisini alır veya ayarlar."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
 XMP meta verilerini alır veya ayarlar.
@@ -14,15 +15,15 @@ XMP meta verilerini alır veya ayarlar.
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-XMP meta verileri.
+XMP meta verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource mülk. Ana doygunluğu alır veya ayarlar.
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource özelliği. Ana doygunluğu alır veya ayarlar"
 type: docs
-weight: 90
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
 Ana doygunluğu alır veya ayarlar.
@@ -14,14 +15,14 @@ Ana doygunluğu alır veya ayarlar.
 public short Saturation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ana doygunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

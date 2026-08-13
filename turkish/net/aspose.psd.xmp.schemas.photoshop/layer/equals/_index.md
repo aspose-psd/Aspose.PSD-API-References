@@ -1,55 +1,56 @@
 ---
-title: Layer.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer yöntem. Belirtilenin olup olmadığını belirler.Object  bu örneğe eşittir.
+title: "Layer.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yöntemi. Belirtilen nesnenin bu örnek ile eşit olup olmadığını belirler"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir.
+Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject bu örnekle karşılaştırmak için. |
+| obj | Nesne | Bu örnek ile karşılaştırılacak Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` eğer belirtilenObject bu örneğe eşittir; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen Nesne bu örnek ile eşitse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Layer) {#equals}
 
-Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir.
+Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir.
 
 ```csharp
 public bool Equals(Layer other)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| other | Layer | Bu nesneyle karşılaştırılacak bir nesne. |
+| other | Katman | Bu nesneyle karşılaştırılacak bir nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-geçerli nesne şuna eşitse doğrudur:*other* parametre; aksi takdirde, false.
+true, mevcut nesne *other* parametresine eşitse; aksi takdirde, false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

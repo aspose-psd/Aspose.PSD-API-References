@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Bu örnek için bir karma kod döndürür.
+title: "PixelDataFormat.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Bu örnek için bir karma kod döndürür."
 type: docs
 weight: 360
 url: /tr/net/aspose.psd/pixeldataformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetHashCode method
 
-Bu örnek için bir karma kod döndürür.
+Bu örnek için bir hash kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örnek için karma algoritmalarda ve karma tablo gibi veri yapılarında kullanıma uygun bir karma kodu.
+Bu örnek için bir karma kodu, karma algoritmaları ve karma tablo gibi veri yapılarında kullanılmaya uygundur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

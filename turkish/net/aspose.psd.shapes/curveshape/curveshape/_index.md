@@ -1,111 +1,112 @@
 ---
-title: CurveShape.CurveShape
-second_title: Aspose.PSD for .NET API Referansı
-description: CurveShape inşaatçı. Yeni bir örneğini başlatır.CurveShape sınıf.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurveShape yapıcı. CurveShape sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-Yeni bir örneğini başlatır.[`CurveShape`](../) sınıf.
+`[`CurveShape`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CurveShape()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`CurveShape`](../) sınıf. 0,5'lik varsayılan gerilim kullanılır.
+Yeni bir [`CurveShape`](../) sınıfı örneği oluşturur. Varsayılan 0.5 gerilimi kullanılır.
 
 ```csharp
 public CurveShape(PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puan dizisi. |
+| noktalar | PointF[] | Nokta dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`CurveShape`](../) sınıf. 0,5'lik varsayılan gerilim kullanılır.
+Yeni bir [`CurveShape`](../) sınıfı örneği oluşturur. Varsayılan 0.5 gerilimi kullanılır.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puan dizisi. |
-| isClosed | Boolean | olarak ayarlanmışsa`doğru` eğri kapalıdır. |
+| noktalar | PointF[] | Nokta dizisi. |
+| isClosed | Boolean | `true` olarak ayarlanırsa eğri kapalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`CurveShape`](../) sınıf.
+`[`CurveShape`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puan dizisi. |
-| tension | Single | Eğri gerilimi. |
+| noktalar | PointF[] | Nokta dizisi. |
+| gerilim | Single | Eğri gerilimi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-Yeni bir örneğini başlatır.[`CurveShape`](../) sınıf.
+`[`CurveShape`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puan dizisi. |
-| tension | Single | Eğri gerilimi. |
-| isClosed | Boolean | olarak ayarlanmışsa`doğru` eğri kapalıdır. |
+| noktalar | PointF[] | Nokta dizisi. |
+| gerilim | Single | Eğri gerilimi. |
+| isClosed | Boolean | `true` olarak ayarlanırsa eğri kapalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

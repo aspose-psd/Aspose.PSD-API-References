@@ -1,27 +1,28 @@
 ---
-title: ExifData.OECF
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. ISO 14524. de belirtilen OptoElektrik Dönüştürme İşlevini OECF alır veya ayarlar.
+title: "ExifData.OECF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. ISO 14524'te belirtilen Opto-Elektrik Dönüşüm Fonksiyonu OECF'yi alır veya ayarlar"
 type: docs
 weight: 820
 url: /tr/net/aspose.psd.exif/exifdata/oecf/
 ---
+{{< psd/tize >}}
 ## ExifData.OECF property
 
-ISO 14524. 'de belirtilen Opto-Elektrik Dönüştürme İşlevini (OECF) alır veya ayarlar.
+ISO 14524'te belirtilen Opto-Elektrik Dönüşüm Fonksiyonunu (OECF) alır veya ayarlar.
 
 ```csharp
 public byte[] OECF { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-ISO 14524. 'de belirtilen Opto-Elektrik Dönüştürme İşlevi (OECF)
+ISO 14524'te belirtilen Opto-Elektrik Dönüşüm Fonksiyonu (OECF).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

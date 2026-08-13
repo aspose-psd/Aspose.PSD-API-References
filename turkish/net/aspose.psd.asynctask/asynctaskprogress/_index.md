@@ -1,35 +1,36 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress sınıf. Eşzamansız görev için ilerleme bilgisi sağlar.
+title: "Sınıf AsyncTaskProgress"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.AsyncTask.AsyncTaskProgress sınıfı. Asenkron görev için ilerleme bilgisi sağlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
-Eşzamansız görev için ilerleme bilgisi sağlar.
+Asenkron görev için ilerleme bilgisi sağlar.
 
 ```csharp
 public class AsyncTaskProgress
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Yeni bir örneğini başlatır.`AsyncTaskProgress` sınıf. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | `AsyncTaskProgress` sınıfının yeni bir örneğini başlatır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Eşzamansız görevin süresi. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Zaman uyumsuz görevin yüzde cinsinden ilerlemesi. |
+| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Asenkron görevin süresi. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Asenkron görevin ilerlemesi, yüzde olarak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

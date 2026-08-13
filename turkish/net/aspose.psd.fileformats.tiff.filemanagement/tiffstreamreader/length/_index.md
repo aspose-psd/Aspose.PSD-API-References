@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader mülk. Okuyucu uzunluğunu alır.
+title: "TiffStreamReader.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader özelliği. Okuyucu uzunluğunu alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.Length property
 
 Okuyucu uzunluğunu alır.
@@ -14,14 +15,14 @@ Okuyucu uzunluğunu alır.
 public long Length { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Okuyucu uzunluğu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

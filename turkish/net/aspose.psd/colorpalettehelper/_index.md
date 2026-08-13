@@ -1,38 +1,39 @@
 ---
-title: Class ColorPaletteHelper
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ColorPaletteHelper sınıf. Renk paletlerinin işlenmesi için yardımcı sınıf.
+title: "Sınıf ColorPaletteHelper"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ColorPaletteHelper sınıfı. Renk paletleri manipülasyonu için yardımcı sınıf"
 type: docs
 weight: 380
 url: /tr/net/aspose.psd/colorpalettehelper/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper class
 
-Renk paletlerinin işlenmesi için yardımcı sınıf.
+Renk paletlerini manipüle etmek için yardımcı sınıf.
 
 ```csharp
 public static class ColorPaletteHelper
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [Create4Bit](../../aspose.psd/colorpalettehelper/create4bit/)() | 4 bitlik renk paletini oluşturur. |
-| static [Create4BitGrayscale](../../aspose.psd/colorpalettehelper/create4bitgrayscale/)(bool) | 4 bit gri tonlamalı palet oluşturur. |
-| static [Create8Bit](../../aspose.psd/colorpalettehelper/create8bit/)() | 8 bitlik renk paletini oluşturur. |
-| static [Create8BitGrayscale](../../aspose.psd/colorpalettehelper/create8bitgrayscale/)(bool) | 8 bit gri tonlama paleti oluşturur. |
-| static [CreateMonochrome](../../aspose.psd/colorpalettehelper/createmonochrome/)() | Yalnızca 2 renk içeren tek renkli bir renk paleti oluşturur. |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_2)(RasterImage, int) | Görüntüde palet olmaması durumunda raster görüntüden renk paleti alır (görüntüsü paletler). Paletin mevcut olması durumunda hesaplamalar yapmak yerine kullanılacaktır. |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette)(RasterImage, Rectangle, int) | Görüntüde palet olmaması durumunda raster görüntüden renk paleti alır (görüntüsü paletler). Paletin mevcut olması durumunda hesaplamalar yapmak yerine kullanılacaktır. |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_1)(RasterImage, Rectangle, int, bool) | Görüntüde palet olmaması durumunda raster görüntüden renk paleti alır (görüntüsü paletler). Paletin mevcut olması durumunda hesaplamalar yapmak yerine kullanılacaktır. |
-| static [GetDownscalePalette](../../aspose.psd/colorpalettehelper/getdownscalepalette/)(RasterImage) | İlk görüntü renk değerlerinin üst bitlerinden oluşan 256 renk paleti elde edin. |
-| static [GetUniformColorPalette](../../aspose.psd/colorpalettehelper/getuniformcolorpalette/)(RasterImage) | Tek tip 256 renk paleti elde edin. |
-| static [HasTransparentColors](../../aspose.psd/colorpalettehelper/hastransparentcolors/)(IColorPalette) | Belirtilen paletin şeffaf renklere sahip olup olmadığını belirler. |
+| static [Create4Bit](../../aspose.psd/colorpalettehelper/create4bit/)() | 4 bit renk paletini oluşturur. |
+| static [Create4BitGrayscale](../../aspose.psd/colorpalettehelper/create4bitgrayscale/)(bool) | 4 bit gri tonlamalı paleti oluşturur. |
+| static [Create8Bit](../../aspose.psd/colorpalettehelper/create8bit/)() | 8 bit renk paletini oluşturur. |
+| static [Create8BitGrayscale](../../aspose.psd/colorpalettehelper/create8bitgrayscale/)(bool) | 8 bit gri tonlamalı paleti oluşturur. |
+| static [CreateMonochrome](../../aspose.psd/colorpalettehelper/createmonochrome/)() | Sadece 2 renk içeren monokrom bir renk paleti oluşturur. |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_2)(RasterImage, int) | Görüntünün bir renk paleti yoksa raster görüntüden (görüntüyü paletleyerek) renk paletini alır. Palet mevcutsa, hesaplamalar yerine bu palet kullanılacaktır. |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette)(RasterImage, Rectangle, int) | Görüntünün bir renk paleti yoksa raster görüntüden (görüntüyü paletleyerek) renk paletini alır. Palet mevcutsa, hesaplamalar yerine bu palet kullanılacaktır. |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette/#getcloseimagepalette_1)(RasterImage, Rectangle, int, bool) | Görüntünün bir renk paleti yoksa raster görüntüden (görüntüyü paletleyerek) renk paletini alır. Palet mevcutsa, hesaplamalar yerine bu palet kullanılacaktır. |
+| static [GetDownscalePalette](../../aspose.psd/colorpalettehelper/getdownscalepalette/)(RasterImage) | İlk görüntü renk değerlerinin üst bitlerinden oluşan 256 renkli paleti al. |
+| static [GetUniformColorPalette](../../aspose.psd/colorpalettehelper/getuniformcolorpalette/)(RasterImage) | Tekdüzen 256 renkli paleti al. |
+| static [HasTransparentColors](../../aspose.psd/colorpalettehelper/hastransparentcolors/)(IColorPalette) | Belirtilen paletin şeffaf renkleri olup olmadığını belirler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

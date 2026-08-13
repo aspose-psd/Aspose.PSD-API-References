@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdLoadOptions mülk. UpdateText işlemi yürütülürken PSD metin katmanı sabit genişliğinin göz ardı edilip edilmeyeceğini gösteren bir değer alır veya ayarlar.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdLoadOptions özelliği. PSD metin katmanının sabit genişliğinin UpdateText işlemi yürütülürken göz ardı edilip edilmeyeceğini belirten bir değeri alır veya ayarlar"
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-UpdateText işlemi yürütülürken PSD metin katmanı sabit genişliğinin göz ardı edilip edilmeyeceğini gösteren bir değer alır veya ayarlar.
+PSD metin katmanı sabit genişliğinin UpdateText işlemi yürütülürken yok sayılıp sayılmayacağını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [metin katmanı genişliğini yoksay]; aksi takdirde,`YANLIŞ` .
+`true` eğer [ignore text layer width]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdLoadOptions](../)
-* ad alanı [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

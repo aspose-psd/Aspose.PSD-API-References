@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: Dimensions mülk. Genişliği alır veya ayarlar.
+title: "Dimensions.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Dimensions özelliği. Genişliği alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
 Genişliği alır veya ayarlar.
@@ -14,20 +15,20 @@ Genişliği alır veya ayarlar.
 public float Width { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Genişlik.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | değer;Genişlik sıfırdan küçük olamaz |
+| ArgumentOutOfRangeException | value;Genişlik sıfırdan küçük olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Dimensions](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

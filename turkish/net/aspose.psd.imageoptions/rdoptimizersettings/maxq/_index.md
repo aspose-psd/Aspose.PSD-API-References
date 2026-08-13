@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MaxQ
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings mülk. Maksimum niceleme değerini alır veya ayarlar.
+title: "RdOptimizerSettings.MaxQ"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings property. Maksimum kantizasyon değerini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxQ property
 
-Maksimum niceleme değerini alır veya ayarlar.
+Alır veya ayarlar maksimum kantizasyon değerini.
 
 ```csharp
 public int MaxQ { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Maksimum niceleme değeri.
+Maksimum kantizasyon değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

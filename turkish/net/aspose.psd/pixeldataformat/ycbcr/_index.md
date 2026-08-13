@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.YCbCr
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Şunu alırPixelDataFormat luma mavi farkı ve kırmızı farkı kroma bileşenlerinin her biri için 8 bit olmak üzere piksel başına 24 bit olarak tanımlandı.
+title: "PixelDataFormat.YCbCr"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Piksel başına 24 bit, luma, mavi-fark ve kırmızı-fark kromatik bileşenlerin her biri için 8 bit tanımlı PixelDataFormat'ı alır."
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/pixeldataformat/ycbcr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.YCbCr property
 
-Şunu alır:[`PixelDataFormat`](../) luma, mavi farkı ve kırmızı farkı kroma bileşenlerinin her biri için 8 bit olmak üzere piksel başına 24 bit olarak tanımlandı.
+Piksel başına 24 bit, luma, mavi-fark ve kırmızı-fark kromatik bileşenlerin her biri için 8 bit tanımlı [`PixelDataFormat`](../) alır.
 
 ```csharp
 public static PixelDataFormat YCbCr { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`PixelDataFormat`](../) luma, mavi farkı ve kırmızı farkı kroma bileşenlerinin her biri için 8 bit olmak üzere piksel başına 24 bit olarak tanımlandı.
+Piksel başına 24 bit, luma, mavi-fark ve kırmızı-fark kromatik bileşenlerin her biri için 8 bit tanımlı [`PixelDataFormat`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

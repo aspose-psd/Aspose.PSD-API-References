@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsYellowBlueBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Vurgular Sarı Mavi Dengesini alır veya ayarlar.
+title: "BlncResource.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Highlights Yellow Blue Balance değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsYellowBlueBalance property
 
-Vurgular Sarı Mavi Dengesini alır veya ayarlar.
+Vurguların Sarı Mavi Dengesini alır veya ayarlar.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Öne Çıkanlar Sarı Mavi Dengesi.
+Highlights Yellow Blue Balance.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

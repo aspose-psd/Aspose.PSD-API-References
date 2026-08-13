@@ -1,27 +1,28 @@
 ---
-title: Image.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Görüntü yüksekliğini alır.
+title: "Image.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Görüntünün yüksekliğini alır"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/image/height/
 ---
+{{< psd/tize >}}
 ## Image.Height property
 
-Görüntü yüksekliğini alır.
+Resmin yüksekliğini alır.
 
 ```csharp
 public abstract int Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

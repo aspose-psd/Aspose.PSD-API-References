@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "BlwhResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 80
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

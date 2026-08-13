@@ -1,36 +1,37 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Belirtilen görüntüyü ölçeklendirmeden çizer ve gerekirse belirtilen dikdörtgene sığdırmak için kırpar.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics metodu. Belirtilen resmi ölçeklendirmeden çizer ve gerekirse belirtilen dikdörtgene sığması için kırpar."
 type: docs
-weight: 240
+weight: 250
 url: /tr/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-Belirtilen görüntüyü ölçeklendirmeden çizer ve gerekirse belirtilen dikdörtgene sığdırmak için kırpar.
+Belirtilen görseli ölçeklendirmeden çizer ve gerekirse, belirtilen dikdörtgene sığacak şekilde kırpar.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sourceImage | Image | Çizim için resim. |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) görüntüyü çizmek için. |
+| sourceImage | Image | Çizim için kullanılacak resim. |
+| rect | Rectangle | Resmin çizileceği [`Rectangle`](../../rectangle/) nesnesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *sourceImage* boş. |
+| ArgumentNullException | *sourceImage* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

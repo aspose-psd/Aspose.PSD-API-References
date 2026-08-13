@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Layers
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. PSD katmanlarını alır veya ayarlar.
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. PSD katmanlarını alır veya ayarlar"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
 PSD katmanlarını alır veya ayarlar.
@@ -14,19 +15,19 @@ PSD katmanlarını alır veya ayarlar.
 public Layer[] Layers { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 PSD katmanları.
 
-### Notlar
+## Açıklamalar
 
-Katman yoksa, katman ve maske bilgileri bölümündeki diğer ilgili bilgilerin korunmayacağını unutmayın (katman maskeleri, kaynaklar vb.).
+Katman yoksa, katman ve maske bilgi bölümü içindeki diğer ilgili bilgilerin (katman maskeleri, kaynaklar vb.) korunmayacağını unutmayın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

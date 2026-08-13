@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Bu katmanın gösterilip gösterilmediğini belirten bir değer alır veya ayarlar. Doğruysa katmanda bulunan tüm resimleri çalışma yüzeyinde görüntüler.
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Bu katmanın gösterilip gösterilmediğini belirten bir değeri alır veya ayarlar. Doğru ise katmanda bulunan tüm sanat eserlerini çalışma tahtasında gösterir"
 type: docs
-weight: 90
+weight: 110
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Bu katmanın gösterilip gösterilmediğini belirten bir değer alır veya ayarlar. Doğruysa, katmanda bulunan tüm resimleri çalışma yüzeyinde görüntüler.
+Bu katmanın gösterilip gösterilmeyeceğini gösteren bir değeri alır veya ayarlar. Doğruysa katmandaki tüm sanat eserini çalışma tahtasında gösterir.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu katman gösteriliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu katman gösteriliyorsa; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiHeader.For
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. . için alır veya ayarlar
+title: "AiHeader.For"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/for/
 ---
+{{< psd/tize >}}
 ## AiHeader.For property
 
-. için alır veya ayarlar
+Alır veya ayarlar için.
 
 ```csharp
 public string For { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-For.
+İçin.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

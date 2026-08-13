@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Düzlemsel yapılandırmayı alır veya ayarlar.
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. planar yapılandırmasını alır veya ayarlar"
 type: docs
-weight: 330
+weight: 340
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
-Düzlemsel yapılandırmayı alır veya ayarlar.
+Planar yapılandırmayı alır veya ayarlar.
 
 ```csharp
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Düzlemsel yapılandırma.
+Planar yapılandırması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

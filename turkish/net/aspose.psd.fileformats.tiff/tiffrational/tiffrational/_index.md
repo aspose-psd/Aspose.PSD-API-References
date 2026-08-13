@@ -1,68 +1,69 @@
 ---
-title: TiffRational.TiffRational
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffRational inşaatçı. Yeni bir örneğini başlatır.TiffRational sınıf.
+title: "TiffRational.TiffRational"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffRational yapıcı. TiffRational sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.tiff/tiffrational/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational() {#constructor}
 
-Yeni bir örneğini başlatır.[`TiffRational`](../) sınıf.
+Yeni bir [`TiffRational`](../) sınıf örneği başlatır.
 
 ```csharp
 public TiffRational()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`TiffRational`](../) sınıf.
+Yeni bir [`TiffRational`](../) sınıf örneği başlatır.
 
 ```csharp
 public TiffRational(uint value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | UInt32 | Aday değeri. |
+| değer | UInt32 | Pay değeri. |
 
-### Notlar
+## Açıklamalar
 
 Pay, belirtilen değer olarak kullanılacak ve payda 1'e eşit olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint, uint) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`TiffRational`](../) sınıf.
+Yeni bir [`TiffRational`](../) sınıf örneği başlatır.
 
 ```csharp
 public TiffRational(uint nominator, uint denominator)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| nominator | UInt32 | Aday. |
-| denominator | UInt32 | Payda. |
+| pay | UInt32 | Pay. |
+| payda | UInt32 | Payda. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

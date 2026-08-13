@@ -1,23 +1,24 @@
 ---
-title: FXidResource.FXidTypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: FXidResource alan. Tip aracı bilgi anahtarı FXid.
+title: "FXidResource.FXidTypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FXidResource alanı. FXid tip araç bilgisi anahtarı"
 type: docs
-weight: 100
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/
 ---
+{{< psd/tize >}}
 ## FXidResource.FXidTypeToolKey field
 
-Tip aracı bilgi anahtarı FXid.
+Tip araç bilgi anahtarı FXid.
 
 ```csharp
 public const int FXidTypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FXidResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

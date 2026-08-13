@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Mutlak zirve ses dosyası yolunu ayarlar.
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Mutlak tepe ses dosyası yolunu ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-Mutlak zirve ses dosyası yolunu ayarlar.
+Mutlak tepe ses dosyası yolunu ayarlar.
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| uri | String | Dosyanın en yüksek ses dosyasına giden mutlak yol. |
+| uri | String | Dosyanın tepe ses dosyasının mutlak yolu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

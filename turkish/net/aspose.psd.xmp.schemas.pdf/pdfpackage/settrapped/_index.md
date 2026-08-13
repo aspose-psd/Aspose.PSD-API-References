@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfPackage yöntem. Yakalananı ayarlar.
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfPackage yöntemi. Trapped durumunu ayarlar."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Yakalananı ayarlar.
+Trapped özelliğini ayarlar.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| isTrapped | Boolean | olarak ayarlanmışsa`doğru` belge sıkıştı. |
+| isTrapped | Boolean | `true` olarak ayarlanırsa belge trapped edilmiştir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

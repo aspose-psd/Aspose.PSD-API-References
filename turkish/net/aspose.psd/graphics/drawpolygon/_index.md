@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawPolygon
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Bir dizi tarafından tanımlanan bir çokgen çizer.PointF yapılar.
+title: "Graphics.DrawPolygon"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Bir dizi PointF yapısı tarafından tanımlanan bir çokgen çizer."
 type: docs
-weight: 290
+weight: 300
 url: /tr/net/aspose.psd/graphics/drawpolygon/
 ---
+{{< psd/tize >}}
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-Bir dizi tarafından tanımlanan bir çokgen çizer.[`PointF`](../../pointf/) yapılar.
+Bir dizi [`PointF`](../../pointf/) yapısı tarafından tanımlanan bir çokgen çizer.
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) çokgenin rengini, genişliğini ve stilini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) çokgenin köşelerini temsil eden yapılar. |
+| pen | Pen | [`Pen`](../../pen/) çokgenin renk, genişlik ve stilini belirler. |
+| points | PointF[] | Çokgenin köşelerini temsil eden [`PointF`](../../pointf/) yapılarının dizisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* null. -veya- *points* boş. |
+| ArgumentNullException | *pen* null. -veya- *points* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-Bir dizi tarafından tanımlanan bir çokgen çizer.[`Point`](../../point/) yapılar.
+Bir dizi [`Point`](../../point/) yapısı tarafından tanımlanan bir çokgen çizer.
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) çokgenin rengini, genişliğini ve stilini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) çokgenin köşelerini temsil eden yapılar. |
+| pen | Pen | [`Pen`](../../pen/) çokgenin renk, genişlik ve stilini belirler. |
+| points | Point[] | Çokgenin köşelerini temsil eden [`Point`](../../point/) yapılarının dizisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* boş. |
+| ArgumentNullException | *pen* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class GraphicsOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.GraphicsOptions sınıf. Gömülü bitmap için grafik seçeneklerini temsil eder.
+title: "Sınıf GraphicsOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.GraphicsOptions sınıfı. Gömülü bitmap için grafik seçeneklerini temsil eder"
 type: docs
-weight: 4820
+weight: 5340
 url: /tr/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
 Gömülü bitmap için grafik seçeneklerini temsil eder.
@@ -14,23 +15,23 @@ Gömülü bitmap için grafik seçeneklerini temsil eder.
 public class GraphicsOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GraphicsOptions](graphicsoptions/)() | Default_Constructor |
+| [GraphicsOptions](graphicsoptions/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Enterpolasyon modunu alır veya ayarlar. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Ara değerleme modunu alır veya ayarlar. |
 | [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Yumuşatma modunu alır veya ayarlar. |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Metin işleme ipucunu alır veya ayarlar. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Metin renderleme ipucunu alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

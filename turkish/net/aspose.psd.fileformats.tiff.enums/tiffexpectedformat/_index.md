@@ -1,43 +1,44 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat Sıralama. Beklenen tiff dosyası biçimi.
+title: "Enum TiffExpectedFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. Beklenen tiff dosya formatı"
 type: docs
-weight: 4070
+weight: 4570
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
+{{< psd/tize >}}
 ## TiffExpectedFormat enumeration
 
-Beklenen tiff dosyası biçimi.
+Beklenen TIFF dosya formatı.
 
 ```csharp
 public enum TiffExpectedFormat
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Default | `0` | Varsayılan tiff formatı, yalnızca piksel başına S/B 1 bit formatında sıkıştırma yoktur. Bu ayarı, boş bir seçenek almak ve etiketlerinizle veya diğer ayarlarla başlatmak için de kullanabilirsiniz. |
-| TiffLzwBw | `1` | LZW sıkıştırmaya ve yalnızca piksel başına S/B 1 bit biçimine sahip tiff. |
-| TiffLzwRgb | `2` | LZW sıkıştırma ve RGB renk formatına sahip tiff. |
-| TiffLzwRgba | `3` | Tiff, LZW sıkıştırma ve şeffaf renk formatlı RGBA'ya sahip. |
-| TiffLzwCmyk | `4` | Tiff LZW cmyk |
-| TiffCcittFax3 | `5` | tiff CCITT FAX3 kodlaması. S/B 1 bit/piksel yalnızca bu şema için desteklenir. |
-| TiffCcittFax4 | `6` | tiff CCITT FAX4 kodlaması. S/B 1 bit/piksel yalnızca bu şema için desteklenir. |
-| TiffDeflateBw | `7` | Söndürme sıkıştırması ve yalnızca piksel başına S/B 1 bit biçimine sahip tiff. |
-| TiffDeflateRgb | `8` | Deflate sıkıştırma ve RGB renk formatına sahip tiff. |
-| TiffDeflateRgba | `9` | Deflate sıkıştırma ve RGBA renk formatına sahip tiff. |
-| TiffCcitRle | `10` | tiff CCITT RLE kodlaması. S/B 1 bit/piksel yalnızca bu şema için desteklenir. |
-| TiffJpegRgb | `11` | Jpeg sıkıştırma ve RGB renk formatına sahip tiff. |
-| TiffJpegYCbCr | `12` | Jpeg sıkıştırma ve YCBCR renk formatına sahip tiff. |
-| TiffNoCompressionBw | `13` | Yalnızca piksel başına sıkıştırılmamış tiff ve S/B 1 bit biçimi. |
+| Default | `0` | Varsayılan tiff formatı, yalnızca B/W 1 bit piksel formatı ile sıkıştırmasızdır. Bu ayarı ayrıca boş seçenekler elde etmek ve etiketlerinizle ya da diğer ayarlarla başlatmak için kullanabilirsiniz. |
+| TiffLzwBw | `1` | LZW sıkıştırmalı ve yalnızca B/W 1 bit piksel formatına sahip tiff. |
+| TiffLzwRgb | `2` | LZW sıkıştırmalı ve RGB renk formatına sahip tiff. |
+| TiffLzwRgba | `3` | LZW sıkıştırmalı ve şeffaflık renk formatı ile RGBA'ya sahip tiff. |
+| TiffLzwCmyk | `4` | LZW cmyk tiff |
+| TiffCcittFax3 | `5` | CCITT FAX3 kodlamalı tiff. Bu şema için yalnızca B/W 1 bit piksel desteklenir. |
+| TiffCcittFax4 | `6` | CCITT FAX4 kodlamalı tiff. Bu şema için yalnızca B/W 1 bit piksel desteklenir. |
+| TiffDeflateBw | `7` | Deflate sıkıştırmalı ve yalnızca B/W 1 bit piksel formatına sahip tiff. |
+| TiffDeflateRgb | `8` | Deflate sıkıştırması ve RGB renk formatına sahip tiff. |
+| TiffDeflateRgba | `9` | Deflate sıkıştırması ve RGBA renk formatına sahip tiff. |
+| TiffCcitRle | `10` | tiff CCITT RLE kodlaması. Bu şema için yalnızca B/W 1 bit piksel başına desteklenir. |
+| TiffJpegRgb | `11` | Jpeg sıkıştırması ve RGB renk formatına sahip tiff. |
+| TiffJpegYCbCr | `12` | Jpeg sıkıştırması ve YCBCR renk formatına sahip tiff. |
+| TiffNoCompressionBw | `13` | Sıkıştırılmamış tiff ve yalnızca B/W 1 bit piksel başına format. |
 | TiffNoCompressionRgb | `14` | Sıkıştırılmamış tiff ve RGB renk formatı. |
-| TiffNoCompressionRgba | `15` | Sıkıştırılmamış tiff ve saydam renk formatlı RGBA. |
+| TiffNoCompressionRgba | `15` | Sıkıştırılmamış tiff ve şeffaflık içeren RGBA renk formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

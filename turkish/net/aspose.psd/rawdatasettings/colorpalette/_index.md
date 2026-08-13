@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: RawDataSettings mülk. Renk paletini alır veya ayarlar
+title: "RawDataSettings.ColorPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RawDataSettings özelliği. Renk paletini alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
 Renk paletini alır veya ayarlar
@@ -14,15 +15,15 @@ Renk paletini alır veya ayarlar
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk paleti
+Renk paleti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* ad alanı [Aspose.PSD](../../rawdatasettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

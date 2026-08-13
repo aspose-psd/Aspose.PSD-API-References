@@ -1,11 +1,12 @@
 ---
-title: Class AudioChannelType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType sınıf. Ses kanalı türünü temsil eder.
+title: "Sınıf AudioChannelType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType sınıfı. Ses kanalı tipini temsil eder"
 type: docs
-weight: 5840
+weight: 6370
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
 Ses kanalı türünü temsil eder.
@@ -14,9 +15,9 @@ Ses kanalı türünü temsil eder.
 public sealed class AudioChannelType
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | 16 ses kanalını alır. |
 | static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | 5.1 ses kanalını alır. |
@@ -25,15 +26,15 @@ public sealed class AudioChannelType
 | static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | Diğer kanalı alır. |
 | static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | Stereo ses kanalını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

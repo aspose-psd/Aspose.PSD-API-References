@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. PSD formatındaki dosya oluşturucuyu alır veya ayarlar LnkE / Lnk2 kaynağı.
+title: "LinkDataSource.FileCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. PSD formatındaki LnkE / Lnk2 kaynağında dosya oluşturucusunu alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileCreator property
 
-PSD formatındaki dosya oluşturucuyu alır veya ayarlar LnkE / Lnk2 kaynağı.
+PSD formatı LnkE / Lnk2 kaynağındaki dosya oluşturucusunu alır veya ayarlar.
 
 ```csharp
 public string FileCreator { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 PSD LiFE / LiFD veri kaynağının içerdiği dosya oluşturucu.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | FileCreator özelliğine erişemezsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

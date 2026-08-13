@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericTypographic
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Genel bir tipografi alırStringFormat nesne.
+title: "StringFormat.GenericTypographic"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Genel tipografik bir StringFormat nesnesini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/stringformat/generictypographic/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericTypographic property
 
-Genel bir tipografi alır[`StringFormat`](../) nesne.
+Genel tipografik bir [`StringFormat`](../) nesnesi alır.
 
 ```csharp
 public static StringFormat GenericTypographic { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Genel bir tipografik[`StringFormat`](../) nesne.
+Genel tipografik bir [`StringFormat`](../) nesnesidir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

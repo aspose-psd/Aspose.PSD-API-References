@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.JpegLsPreset
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. JPEGLS ön ayar parametrelerini alır veya ayarlar.
+title: "JpegOptions.JpegLsPreset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. JPEGLS ön ayar parametrelerini alır veya ayarlar"
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsPreset property
 
 JPEG-LS ön ayar parametrelerini alır veya ayarlar.
@@ -14,11 +15,11 @@ JPEG-LS ön ayar parametrelerini alır veya ayarlar.
 public JpegLsPresetCodingParameters JpegLsPreset { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegLsPresetCodingParameters](../../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/)
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

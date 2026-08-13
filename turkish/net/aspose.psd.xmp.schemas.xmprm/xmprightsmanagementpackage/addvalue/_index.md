@@ -1,34 +1,35 @@
 ---
-title: XmpRightsManagementPackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRightsManagementPackage yöntem. Dizi özelliğini ekler.
+title: "XmpRightsManagementPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRightsManagementPackage yöntemi. Dize özelliği ekler."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.AddValue method
 
-Dizi özelliğini ekler.
+Dize özelliği ekler.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Dize değeri. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Dize değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | key;XMP Rights Management ad alanı için anahtar sağlanmalıdır |
+| ArgumentNullException | key;Key, XMP Rights Management ad alanı için sağlanmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpRightsManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesContinuousManager yöntem. Eğri noktasını index. ile alır
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesContinuousManager metodu. Eğri noktasını indeks ile alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
-Eğri noktasını index. ile alır
+Eğri noktasını indeksle alır.
 
 ```csharp
 public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
-| pointIndex | Int32 | Noktanın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
+| pointIndex | Int32 | Noktanın indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Kanalın indeksine göre eğri noktası
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,105 +1,106 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffSRational yöntem. Sağlanan değeri bir kesre yaklaştırır.
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffSRational yöntemi. Sağlanan değeri bir kesire yaklaştırır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-Sağlanan değeri bir kesre yaklaştırır.
+Verilen değeri bir kesire yaklaştırır.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value, double epsilon)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Double | Değer. |
+| değer | Double | Değer. |
 | epsilon | Double | İzin verilen hata. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Daha az hatası olan bir rasyonel sayı*epsilon*.
+Hatası *epsilon*'den küçük olan bir rasyonel sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-Sağlanan değeri bir kesre yaklaştırır.
+Verilen değeri bir kesire yaklaştırır.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Double | Değer. |
+| değer | Double | Değer. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Daha az hatası olan bir rasyonel sayı[`Epsilon`](../epsilon/) .
+Hatası [`Epsilon`](../epsilon/) değerinden küçük olan bir rasyonel sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-Sağlanan değeri bir kesre yaklaştırır.
+Verilen değeri bir kesire yaklaştırır.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value, double epsilon)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Single | Değer. |
+| değer | Single | Değer. |
 | epsilon | Double | İzin verilen hata. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Daha az hatası olan bir rasyonel sayı*epsilon*.
+Hatası *epsilon*'den küçük olan bir rasyonel sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-Sağlanan değeri bir kesre yaklaştırır.
+Verilen değeri bir kesire yaklaştırır.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Single | Değer. |
+| değer | Single | Değer. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Daha az hatası olan bir rasyonel sayı[`Epsilon`](../epsilon/) .
+Hatası [`Epsilon`](../epsilon/) değerinden küçük olan bir rasyonel sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

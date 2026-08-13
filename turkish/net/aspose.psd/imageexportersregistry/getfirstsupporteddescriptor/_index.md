@@ -1,40 +1,41 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageExportersRegistry yöntem. Belirtilen kaydetme seçenekleri ve görüntü için uygun bulunan ilk desteklenen tanımlayıcıyı alır.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageExportersRegistry yöntemi. Belirtilen kaydetme seçenekleri ve görüntü için uygun olan ilk bulunan desteklenen tanımlayıcıyı alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-Belirtilen kaydetme seçenekleri ve görüntü için uygun bulunan ilk desteklenen tanımlayıcıyı alır.
+Belirtilen kaydetme seçenekleri ve görüntü için uygun olan ilk bulunan desteklenen tanımlayıcıyı alır.
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
     ImageOptionsBase options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Dışa aktarılacak resim. |
-| options | ImageOptionsBase | Seçenekler. |
+| görüntü | Image | Dışa aktarılacak görüntü. |
+| seçenekler | ImageOptionsBase | Seçenekler. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen görüntüyü ve kaydetme seçeneklerini destekleyen dışa aktarıcı tanımlayıcısı veya böyle bir tanımlayıcı bulunmazsa null.
+Belirtilen görüntü ve kaydetme seçeneklerini destekleyen dışa aktarıcı tanımlayıcı; böyle bir tanımlayıcı bulunamazsa null döner.
 
-### Notlar
+## Açıklamalar
 
-İlk ihracatçı tanımlayıcısı aslında en son kaydedilen tanımlayıcı olacaktır.
+İlk dışa aktarıcı tanımlayıcı aslında en son kayıt edilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageexportersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

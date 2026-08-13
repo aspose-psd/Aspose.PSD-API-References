@@ -1,28 +1,29 @@
 ---
-title: TiffDataType.TagType
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Etiket türünü alır.
+title: "TiffDataType.TagType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Etiket tipini alır."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/tagtype/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagType property
 
-Etiket türünü alır.
+Etiket tipini alır.
 
 ```csharp
 public abstract TiffDataTypes TagType { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Etiket türü.
+Etiket tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffDataTypes](../../../aspose.psd.fileformats.tiff.enums/tiffdatatypes/)
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

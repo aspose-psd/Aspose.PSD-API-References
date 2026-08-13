@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Predictor
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. LZW sıkıştırması için öngörücüyü alır veya ayarlar.
+title: "TiffOptions.Predictor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. LZW sıkıştırması için öngörücüyü alır veya ayarlar"
 type: docs
-weight: 340
+weight: 350
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/predictor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Predictor property
 
 LZW sıkıştırması için öngörücüyü alır veya ayarlar.
@@ -14,15 +15,15 @@ LZW sıkıştırması için öngörücüyü alır veya ayarlar.
 public TiffPredictor Predictor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Öngörü türü.
+Öngörücü türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffPredictor](../../../aspose.psd.fileformats.tiff.enums/tiffpredictor/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Dimensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı çizilmiş bir nesne için boyutları içeren yapıyı temsil eden sınıflar içerir.
+title: "Aspose.PSD.Xmp.Types.Complex.Dimensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, çizilmiş bir nesnenin boyutlarını içeren yapıyı temsil eden sınıfları içerir."
 type: docs
-weight: 640
+weight: 680
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/
 ---
-Ad alanı, çizilmiş bir nesne için boyutları içeren yapıyı temsil eden sınıflar içerir.
+{{< psd/tize >}}
+Namespace, çizilmiş bir nesnenin boyutlarını içeren yapıyı temsil eden sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [Dimensions](./dimensions/) | Çizilmiş bir nesne için boyutları içeren. |
+| [Dimensions](./dimensions/) | Çizilmiş bir nesne için boyutları içerir. |
 
 

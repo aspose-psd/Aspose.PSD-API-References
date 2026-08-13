@@ -1,11 +1,12 @@
 ---
-title: BlackWhiteAdjustmentLayer.Cyans
-second_title: Aspose.PSD for .NET API Referansı
-description: BlackWhiteAdjustmentLayer mülk. Camgöbeği değerini alır veya ayarlar.
+title: "BlackWhiteAdjustmentLayer.Cyans"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlackWhiteAdjustmentLayer özelliği. Camgöbeği değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/cyans/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Cyans property
 
 Camgöbeği değerini alır veya ayarlar.
@@ -14,13 +15,13 @@ Camgöbeği değerini alır veya ayarlar.
 public int Cyans { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Camgöbeği değeri.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, çalışma zamanında Aspose.PSD'de siyah beyaz ayarlama katmanını nasıl ekleyebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde çalışma zamanında siyah beyaz ayar katmanını nasıl ekleyebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, Aspose.PSD'de siyah beyaz ayarlama katmanı özelliklerini nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde siyah beyaz ayar katmanı özelliklerini nasıl manipüle edebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

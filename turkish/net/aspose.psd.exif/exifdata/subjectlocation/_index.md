@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubjectLocation
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Konu konumunu alır veya ayarlar.
+title: "ExifData.SubjectLocation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Konu konumunu alır veya ayarlar"
 type: docs
 weight: 1020
 url: /tr/net/aspose.psd.exif/exifdata/subjectlocation/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectLocation property
 
 Konu konumunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Konu konumunu alır veya ayarlar.
 public ushort[] SubjectLocation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Söz konusu konum.
+Konu konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

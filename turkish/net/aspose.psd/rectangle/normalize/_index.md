@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Normalize
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Dikdörtgenin genişliğini ve yüksekliğini pozitif sol sağdan az ve üst kısım alttan küçük yaparak normalleştirir.
+title: "Rectangle.Normalize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Genişlik ve yüksekliği pozitif yaparak, solun sağdan, üstün alttan küçük olmasını sağlayarak rectangle'ı normalleştirir."
 type: docs
 weight: 260
 url: /tr/net/aspose.psd/rectangle/normalize/
 ---
+{{< psd/tize >}}
 ## Rectangle.Normalize method
 
-Dikdörtgenin genişliğini ve yüksekliğini pozitif, sol sağdan az ve üst kısım alttan küçük yaparak normalleştirir.
+Dikdörtgeni genişliğini ve yüksekliğini pozitif yaparak, solun sağdan, üstün alttan küçük olmasını sağlayarak normalleştirir.
 
 ```csharp
 public void Normalize()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

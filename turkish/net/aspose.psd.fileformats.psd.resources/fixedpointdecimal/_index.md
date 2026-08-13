@@ -1,43 +1,44 @@
 ---
-title: Class FixedPointDecimal
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal sınıf. 16 bit tamsayı ve 16 bit kesir ile sabit noktalı ondalık.
+title: "Sınıf FixedPointDecimal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal sınıfı. 16 bit tam sayı ve 16 bit kesirli kısmı olan Fixedpoint ondalık"
 type: docs
-weight: 3700
+weight: 4200
 url: /tr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-16 bit tamsayı ve 16 bit kesir ile sabit noktalı ondalık.
+16 bit tam sayı ve 16 bit kesirli sabit noktalı ondalık.
 
 ```csharp
 public class FixedPointDecimal
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Yeni bir örneğini başlatır.`FixedPointDecimal` sınıf. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Yeni bir örneğini başlatır.`FixedPointDecimal` sınıf. 32 bitlik bir tamsayının yüksek ve düşük sözcüklerini sabit noktalı bir sayıya ayırın. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Yeni bir örneğini başlatır.`FixedPointDecimal` sınıf. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Yeni bir `FixedPointDecimal` sınıfının örneğini başlatır. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Yeni bir `FixedPointDecimal` sınıfının örneğini başlatır. 32 bitlik bir tam sayının yüksek ve düşük kelimelerini sabit noktalı sayıya böler. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Yeni bir `FixedPointDecimal` sınıfının örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Kesri alır veya ayarlar. |
-| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Tamsayıyı alır veya ayarlar. |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Kesiri alır veya ayarlar. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Tam sayıyı alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Geçerli sabit noktalı ondalık sayıyı çifte dönüştürür. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Mevcut sabit noktalı ondalığı double türüne dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

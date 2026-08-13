@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.DefaultColor
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskData mülk. Varsayılan rengi alır veya ayarlar.
+title: "LayerMaskData.DefaultColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskData özelliği. Varsayılan rengi alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DefaultColor property
 
 Varsayılan rengi alır veya ayarlar.
@@ -14,14 +15,14 @@ Varsayılan rengi alır veya ayarlar.
 public byte DefaultColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Varsayılan renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

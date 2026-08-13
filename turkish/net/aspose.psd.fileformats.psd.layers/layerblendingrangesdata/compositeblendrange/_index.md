@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerBlendingRangesData mülk. Bileşik karışım aralıklarını alır veya ayarlar.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerBlendingRangesData özelliği. Bileşik karıştırma aralıklarını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-Bileşik karışım aralıklarını alır veya ayarlar.
+Bileşik karıştırma aralıklarını alır veya ayarlar.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bileşik karışım aralıkları.
+Bileşik karıştırma aralıkları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

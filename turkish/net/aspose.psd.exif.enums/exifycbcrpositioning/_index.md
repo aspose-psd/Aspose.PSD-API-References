@@ -1,29 +1,30 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning Sıralama. exif y cb cr konumlandırma numarası.
+title: "Enum ExifYCbCrPositioning"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifYCbCrPositioning enum. exif y cb cr konumlandırma enumu"
 type: docs
-weight: 980
+weight: 990
 url: /tr/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr konumlandırma numarası.
+exif y cb cr konumlandırma sayımı.
 
 ```csharp
 public enum ExifYCbCrPositioning
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Centered | `1` | Ortalanmış YCbCr |
-| CoSited | `2` | Ortak konumlu konum |
+| CoSited | `2` | Birlikte konum |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

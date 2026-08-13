@@ -1,11 +1,12 @@
 ---
-title: ArcShape.Segments
-second_title: Aspose.PSD for .NET API Referansı
-description: ArcShape mülk. Şekil segmentlerini alır.
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ArcShape özelliği. Şeklin segmentlerini alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
 Şekil segmentlerini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/arcshape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şekil segmentleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

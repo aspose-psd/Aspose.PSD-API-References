@@ -1,54 +1,55 @@
 ---
-title: Class LayerSectionResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource sınıf. Katman bölümü kaynağı.
+title: "Sınıf LayerSectionResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource sınıfı. Katman bölümü kaynağı"
 type: docs
-weight: 2590
+weight: 2900
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource class
 
 Katman bölümü kaynağı.
 
 ```csharp
-public class LayerSectionResource : LayerResource
+public class LayerSectionResource : BaseLayerSectionResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LayerSectionResource](layersectionresource/)() | Yeni bir örneğini başlatır.`LayerSectionResource` sınıf. |
+| [LayerSectionResource](layersectionresource/)() | Yeni bir `LayerSectionResource` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/) { get; set; } | Karışım modu tuşunu alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/) { get; set; } | Bölüm türünü alır veya ayarlar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/) { get; } | Katman kaynak imzasını alır. |
-| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/) { get; set; } | Alt türü alır veya ayarlar. |
+| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/blendmodekey/) { get; set; } | Karıştırma modu anahtarını alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/sectiontype/) { get; set; } | Bölüm tipini alır veya ayarlar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/subtype/) { get; set; } | Alt tipi alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* class [BaseLayerSectionResource](../baselayersectionresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.AddLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage yöntem. AI katmanı bölümünü ekler.
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage yöntemi. AI katman bölümünü ekler"
 type: docs
-weight: 130
+weight: 160
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
-AI katmanı bölümünü ekler.
+AI katman bölümünü ekler.
 
 ```csharp
 public void AddLayer(AiLayerSection layer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| layer | AiLayerSection | AI katmanı bölümü. |
+| katman | AiLayerSection | AI katman bölümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

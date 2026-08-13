@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: Thumbnail mülk. Genişliği alır veya ayarlar.
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Thumbnail özelliği. Genişliği alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
 Genişliği alır veya ayarlar.
@@ -14,20 +15,20 @@ Genişliği alır veya ayarlar.
 public int Width { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Genişlik.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | değer;Genişlik sıfırdan küçük olamaz |
+| ArgumentOutOfRangeException | value;Genişlik sıfırdan küçük olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Thumbnail](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

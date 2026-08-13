@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Aspose.PSD for .NET API Referansı
-description: HatchBrush mülk. Tarama çizgileri arasındaki boşlukların rengini alır veya ayarlar.
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "HatchBrush özelliği. Tarama çizgileri arasındaki boşlukların rengini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-Tarama çizgileri arasındaki boşlukların rengini alır veya ayarlar.
+Hatch çizgileri arasındaki boşlukların rengini alır veya ayarlar.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tarama çizgileri arasındaki boşlukların rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../hatchbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

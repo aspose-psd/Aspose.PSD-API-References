@@ -1,34 +1,35 @@
 ---
-title: IVectorPathData.IsDisabled
-second_title: Aspose.PSD for .NET API Referansı
-description: IVectorPathData mülk. Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değer alır veya ayarlar.
+title: "IVectorPathData.IsDisabled"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IVectorPathData özelliği. Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsDisabled property
 
-Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin devre dışı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek devre dışı bırakılırsa; aksi takdirde,`YANLIŞ` .
+`true` bu örnek devre dışıysa; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Kırpma işleminin doğru çalışması için PsdImage.ImageResources içindeki 'WorkingPathResource' kaynağının desteğini gösterir.
+Bu örnek, 'WorkingPathResource' kaynağının PsdImage.ImageResources içinde Crop işleminin doğru çalışması için desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Resmi kırpın ve kaydedin.
+// Görüntüyü kırp ve kaydet.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Kayıtlı görüntüyü yükleyin ve değişiklikleri kontrol edin.
+// Kaydedilmiş görüntüyü yükle ve değişiklikleri kontrol et.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IVectorPathData](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

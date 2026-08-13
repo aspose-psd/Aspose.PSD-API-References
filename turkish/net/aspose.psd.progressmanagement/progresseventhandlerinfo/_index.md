@@ -1,31 +1,32 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo sınıf. Bu sınıf son user ye dönüştürme ilerlemesini göstermek için harici uygulamada kullanılabilen görüntü yükleme/kaydetme/dışa aktarma işlemlerinin ilerleme durumu hakkında bilgileri temsil eder.
+title: "Sınıf ProgressEventHandlerInfo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo sınıfı. Bu sınıf, dış uygulamalarda dönüşüm ilerlemesini son kullanıcıya göstermek için kullanılabilecek görüntü yükleme/kaydetme/dışa aktarma işlemlerinin ilerlemesi hakkında bilgi temsil eder."
 type: docs
-weight: 5300
+weight: 5830
 url: /tr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-Bu sınıf, son user 'ye dönüştürme ilerlemesini göstermek için harici uygulamada kullanılabilen görüntü yükleme/kaydetme/dışa aktarma işlemlerinin ilerleme durumu hakkında bilgileri temsil eder.
+Bu sınıf, görüntü yükleme/kaydetme/dışa aktarma işlemlerinin ilerlemesi hakkında bilgi temsil eder ve dış uygulamalarda dönüşüm ilerlemesini son kullanıcıya göstermek için kullanılabilir
 
 ```csharp
 public class ProgressEventHandlerInfo
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | Olayın açıklamasını alır |
 | [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | Olayın türünü alır. |
 | [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | Üst ilerleme değeri sınırını alır. |
 | [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | Mevcut ilerleme değerini alır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

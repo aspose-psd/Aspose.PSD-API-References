@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Raster görüntüleri alır.
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Raster görüntüleri alır."
 type: docs
-weight: 120
+weight: 140
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
 Raster görüntüleri alır.
@@ -14,13 +15,13 @@ Raster görüntüleri alır.
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tarama görüntüleri.
+Raster görüntüler.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Raster Görüntü ayarlarının AI Format Dosyalarında nasıl yükleneceğini gösterir.
+Aşağıdaki kod, AI Format Dosyalarındaki Raster Görüntü ayarlarının nasıl yükleneceğini gösterir.
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

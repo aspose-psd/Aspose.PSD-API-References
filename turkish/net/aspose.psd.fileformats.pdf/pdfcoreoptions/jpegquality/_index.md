@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.JpegQuality
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfCoreOptions mülk. Görüntüler için JPEG sıkıştırma kalitesini belirtir JPEG sıkıştırma kullanılıyorsa. Varsayılan değer 95.
+title: "PdfCoreOptions.JpegQuality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfCoreOptions özelliği. JPEG sıkıştırması kullanıldığında görüntüler için JPEG sıkıştırma kalitesini belirtir. Varsayılan 95"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.JpegQuality property
 
-Görüntüler için JPEG sıkıştırma kalitesini belirtir (JPEG sıkıştırma kullanılıyorsa). Varsayılan değer 95.
+Görseller için JPEG sıkıştırma kalitesini belirtir (JPEG sıkıştırma kullanılıyorsa). Varsayılan 95'tir.
 
 ```csharp
 public int JpegQuality { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfCoreOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

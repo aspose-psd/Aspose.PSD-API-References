@@ -1,43 +1,44 @@
 ---
-title: CustResource.CustResource
-second_title: Aspose.PSD for .NET API Referansı
-description: CustResource inşaatçı. Yeni bir örneğini başlatır.CustResource sınıf.
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustResource yapıcı. CustResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`CustResource`](../) sınıf.
+Yeni bir [`CustResource`](../) sınıf örneği başlatır.
 
 ```csharp
 public CustResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CustResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`CustResource`](../) sınıf.
+Yeni bir [`CustResource`](../) sınıf örneği başlatır.
 
 ```csharp
 public CustResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CustResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

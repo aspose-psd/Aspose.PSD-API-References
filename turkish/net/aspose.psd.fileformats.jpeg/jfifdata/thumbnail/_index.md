@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Aspose.PSD for .NET API Referansı
-description: JFIFData mülk. Küçük resmi alır veya ayarlar.
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JFIFData özelliği. Küçük resmi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
 Küçük resmi alır veya ayarlar.
@@ -14,11 +15,11 @@ Küçük resmi alır veya ayarlar.
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

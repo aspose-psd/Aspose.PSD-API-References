@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary yöntem. Numaralandırıcıyı alır.
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary yöntemi. Enumerator'ı alır."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
-Numaralandırıcıyı alır.
+Yineleyiciyi alır.
 
 ```csharp
 public IDictionaryEnumerator GetEnumerator()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-sözlük sayıcı
+Sözlük enumerator'ı
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: Class LayerResourcesRegistry
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry sınıf. Yüklenen PSD dosyaları için katman kaynakları kaydını tanımlayın.
+title: "LayerResourcesRegistry sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry sınıfı. PSD dosyalarının yüklenmesi için katman kaynakları kayıt defterini tanımlar."
 type: docs
-weight: 3390
+weight: 3790
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry class
 
-Yüklenen PSD dosyaları için katman kaynakları kaydını tanımlayın.
+PSD dosyalarının yüklenmesi için katman kaynakları kayıt defterini tanımlayın.
 
 ```csharp
 public static class LayerResourcesRegistry
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/) { get; } | Kayıtlı tanımlayıcıları alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | Desteklenen ilk açıcı tanımlayıcıyı alır. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Tür adına göre desteklenen ilk tanımlayıcıyı alır. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Yükler[`LayerResource`](../layerresource/) belirtilene uygun ilk bulunan açıcıyı kullanmak*stream* . |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | İlk desteklenen açıcı tanımlayıcısını alır. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Tür adına göre ilk desteklenen tanımlayıcıyı alır. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Belirtilen *stream* için uygun bulunan ilk açıcıyı kullanarak [`LayerResource`](../layerresource/) yükler. |
 | static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/)(ILayerResourceLoader) | Açıcıyı kaydeder. |
-| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Açıcının kaydını siler. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Açıcı kaydını siler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

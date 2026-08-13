@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Gölgeler Camgöbeği Kırmızı Dengesini alır veya ayarlar.
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Shadows Cyan Red Balance değerini alır veya ayarlar"
 type: docs
-weight: 120
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-Gölgeler Camgöbeği Kırmızı Dengesini alır veya ayarlar.
+Gölgelerin Camgöbeği Kırmızı Dengesini alır veya ayarlar.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Gölgeler Camgöbeği Kırmızı Dengesi.
+Gölge Camgöbeği Kırmızı Dengesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

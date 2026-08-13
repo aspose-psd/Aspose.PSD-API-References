@@ -1,28 +1,29 @@
 ---
-title: Class RdOptimizationError
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.RdOptimizationError sınıf. RD optimizasyon hatası istisnası class
+title: "RdOptimizationError sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError sınıfı. RD optimizasyon hatası istisna sınıfı"
 type: docs
 weight: 670
 url: /tr/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-RD optimizasyon hatası istisnası class
+RD optimizasyon hatası istisna sınıfı
 
 ```csharp
 public class RdOptimizationError : Exception
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | Yeni bir örneğini başlatır.`RdOptimizationError` sınıf. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | `RdOptimizationError` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

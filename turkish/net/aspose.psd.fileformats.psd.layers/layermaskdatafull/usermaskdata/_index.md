@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.UserMaskData
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskDataFull mülk. PSD dosyasındaki bir katmanın kullanıcı raster maske verilerini alır veya ayarlar. MaskData özelliğinde derecelendirilmiş bir vektör maskesi vardır.
+title: "LayerMaskDataFull.UserMaskData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskDataFull özelliği. Bir katmanın PSD dosyasındaki kullanıcı raster maske verisini alır veya ayarlar. MaskData özelliğinde rasterleştirilmiş bir vektör maske bulunur."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.UserMaskData property
 
-PSD dosyasındaki bir katmanın kullanıcı (raster) maske verilerini alır veya ayarlar. (MaskData özelliğinde derecelendirilmiş bir vektör maskesi vardır).
+PSD dosyasındaki bir katmanın kullanıcı (raster) maske verisini alır veya ayarlar. (MaskData özelliğinde rasterleştirilmiş bir vektör maskesi vardır).
 
 ```csharp
 public byte[] UserMaskData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-PSD görüntüsündeki katman görüntü verileri.
+PSD görüntüsündeki katman görüntü verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskDataFull](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

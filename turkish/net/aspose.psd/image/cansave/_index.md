@@ -1,32 +1,33 @@
 ---
-title: Image.CanSave
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Görüntünün geçirilen kaydetme seçenekleri tarafından temsil edilen belirtilen dosya biçiminde kaydedilip kaydedilemeyeceğini belirler.
+title: "Image.CanSave"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image metodu. Görüntünün, verilen kaydetme seçenekleriyle temsil edilen belirtilen dosya biçimine kaydedilip kaydedilemeyeceğini belirler"
 type: docs
-weight: 160
+weight: 170
 url: /tr/net/aspose.psd/image/cansave/
 ---
+{{< psd/tize >}}
 ## Image.CanSave method
 
-Görüntünün, geçirilen kaydetme seçenekleri tarafından temsil edilen belirtilen dosya biçiminde kaydedilip kaydedilemeyeceğini belirler.
+Görüntünün, verilen kaydetme seçenekleriyle temsil edilen belirtilen dosya biçimine kaydedilip kaydedilemeyeceğini belirler.
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| options | ImageOptionsBase | Kullanılacak kaydetme seçenekleri. |
+| seçenekler | ImageOptionsBase | Kullanılacak kaydetme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` görüntü, geçirilen kaydetme seçenekleri tarafından temsil edilen belirtilen dosya biçiminde kaydedilebilirse; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü, verilen kaydetme seçenekleriyle temsil edilen belirtilen dosya biçimine kaydedilebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

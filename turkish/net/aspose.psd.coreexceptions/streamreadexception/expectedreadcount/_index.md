@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamReadException mülk. Beklenen okuma bayt sayısını alır.
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamReadException özelliği. Beklenen okunan bayt sayısını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-Beklenen okuma bayt sayısını alır.
+Beklenen okunan bayt sayısını alır.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Beklenen okuma bayt sayısı.
+Beklenen okunan bayt sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamReadException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

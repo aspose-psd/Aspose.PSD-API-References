@@ -1,36 +1,37 @@
 ---
-title: Class AiDataSection
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Ai.AiDataSection sınıf. Ai biçimi Veri Bölümü
+title: "Sınıf AiDataSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Ai.AiDataSection sınıfı. Ai formatı Veri Bölümü"
 type: docs
-weight: 1220
+weight: 1230
 url: /tr/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-Ai biçimi Veri Bölümü
+Ai formatı Veri Bölümü
 
 ```csharp
 public class AiDataSection : DisposableObject
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Dizi verilerini alır. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Dize verisini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

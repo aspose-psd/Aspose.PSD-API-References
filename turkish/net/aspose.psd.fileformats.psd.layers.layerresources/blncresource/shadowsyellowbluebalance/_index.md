@@ -1,11 +1,12 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Gölgeler Sarı Mavi Dengesini alır veya ayarlar.
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Shadows Yellow Blue Balance değerini alır veya ayarlar"
 type: docs
-weight: 140
+weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
 Gölgeler Sarı Mavi Dengesini alır veya ayarlar.
@@ -14,14 +15,14 @@ Gölgeler Sarı Mavi Dengesini alır veya ayarlar.
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Gölgeler Sarı Mavi Dengesi.
+Shadows Yellow Blue Balance.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

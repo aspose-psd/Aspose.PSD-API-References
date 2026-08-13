@@ -1,23 +1,24 @@
 ---
-title: Lr16Resource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: Lr16Resource mülk. Katman kaynak anahtarını alır.
+title: "Lr16Resource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lr16Resource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lr16Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageCreatorsRegistry yöntem. Belirtilen için uygun bulunan desteklenen tanımlayıcıyı ilk olarak alır.
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageCreatorsRegistry metodu. Belirtilen için uygun bulunan ilk desteklenen tanımlayıcıyı alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
-Belirtilen için uygun bulunan desteklenen tanımlayıcıyı ilk olarak alır.
+Belirtilen için uygun olan ilk bulunan desteklenen tanımlayıcıyı alır.
 
 ```csharp
 public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBase imageOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Görüntü seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtileni destekleyen oluşturucu tanımlayıcı veya böyle bir tanımlayıcı bulunmazsa boş.
+Belirtileni destekleyen oluşturucu tanımlayıcısı ya da böyle bir tanımlayıcı bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
-İlk oluşturucu tanımlayıcı aslında son kaydedilen olacaktır.
+İlk oluşturucu tanımlayıcısı aslında son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* ad alanı [Aspose.PSD](../../imagecreatorsregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,58 +1,59 @@
 ---
-title: IImageExporter.Export
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageExporter yöntem. Belirtilen görüntü verilerini belirtilen veri biçimine aktarır.
+title: "IImageExporter.Export"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageExporter yöntemi. Belirtilen görüntü verisini belirtilen veri formatına dışa aktarır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
-Belirtilen görüntü verilerini belirtilen veri biçimine aktarır.
+Belirtilen görüntü verilerini belirtilen veri formatına dışa aktarır.
 
 ```csharp
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Dışa aktarılacak görüntü verileri. |
-| stream | Stream | Verilerin dışa aktarılacağı akış. |
+| görüntü | Image | Dışa aktarılacak görüntü verisi. |
+| stream | Stream | Verinin dışa aktarılacağı akış. |
 | optionsBase | ImageOptionsBase | Görüntü dışa aktarma seçenekleri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* ad alanı [Aspose.PSD](../../iimageexporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Export(Image, Stream, ImageOptionsBase, Rectangle) {#export_1}
 
-Belirtilen görüntü verilerini belirtilen veri biçimine aktarır.
+Belirtilen görüntü verilerini belirtilen veri formatına dışa aktarır.
 
 ```csharp
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase, 
     Rectangle boundsRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Dışa aktarılacak görüntü verileri. |
-| stream | Stream | Verilerin dışa aktarılacağı akış. |
+| görüntü | Image | Dışa aktarılacak görüntü verisi. |
+| stream | Stream | Verinin dışa aktarılacağı akış. |
 | optionsBase | ImageOptionsBase | Görüntü dışa aktarma seçenekleri |
 | boundsRectangle | Rectangle | Sınır dikdörtgeni. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* ad alanı [Aspose.PSD](../../iimageexporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

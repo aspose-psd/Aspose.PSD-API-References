@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSectionResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "LayerSectionResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSectionResource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerSectionResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

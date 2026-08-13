@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource alan. Tip aracı bilgi anahtarı.
+title: "Hue2Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 120
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

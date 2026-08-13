@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetupSection
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Kurulum bölümünü alır.
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Kurulum bölümünü alır"
 type: docs
-weight: 100
+weight: 120
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
 Kurulum bölümünü alır.
@@ -14,15 +15,15 @@ Kurulum bölümünü alır.
 public AiSetupSection SetupSection { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kurulum bölümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

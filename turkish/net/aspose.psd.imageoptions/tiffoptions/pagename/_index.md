@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Sayfa adını alır veya ayarlar.
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Sayfa adını alır veya ayarlar"
 type: docs
-weight: 290
+weight: 300
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
 Sayfa adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Sayfa adını alır veya ayarlar.
 public string PageName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayfa adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

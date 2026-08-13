@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfPackage yöntem. Anahtar sözcükleri ayarlar.
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfPackage yöntemi. Anahtar kelimeleri ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
-Anahtar sözcükleri ayarlar.
+Anahtar kelimeleri ayarlar.
 
 ```csharp
 public void SetKeywords(string keywords)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keywords | String | Anahtar kelimeler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

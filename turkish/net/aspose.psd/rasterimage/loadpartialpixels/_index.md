@@ -1,30 +1,31 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Pikselleri kısmen paketler halinde yükler.
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Pikselleri paketler halinde kısmen yükler"
 type: docs
-weight: 390
+weight: 400
 url: /tr/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
-Pikselleri kısmen paketler halinde yükler.
+Pikselleri paketler halinde kısmen yükler.
 
 ```csharp
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | İstenen dikdörtgen. |
 | pixelLoader | IPartialPixelLoader | Piksel yükleyici. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

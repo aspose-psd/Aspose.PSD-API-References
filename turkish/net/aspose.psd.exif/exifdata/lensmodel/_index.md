@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensModel
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Mercek modelini alır veya ayarlar.
+title: "ExifData.LensModel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Lens modelini alır veya ayarlar"
 type: docs
 weight: 740
 url: /tr/net/aspose.psd.exif/exifdata/lensmodel/
 ---
+{{< psd/tize >}}
 ## ExifData.LensModel property
 
-Mercek modelini alır veya ayarlar.
+Lens modelini alır veya ayarlar.
 
 ```csharp
 public string LensModel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Objektif modeli.
+Lens modeli.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedStructureKey
-second_title: Aspose.PSD for .NET API Referansı
-description: EnumeratedReferenceStructure alan. Yapı anahtarını tanımlar.
+title: "EnumeratedReferenceStructure.EnumeratedStructureKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "EnumeratedReferenceStructure alanı. Yapı anahtarını tanımlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedstructurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.EnumeratedStructureKey field
 
 Yapı anahtarını tanımlar.
@@ -14,10 +15,10 @@ Yapı anahtarını tanımlar.
 public const int EnumeratedStructureKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [EnumeratedReferenceStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

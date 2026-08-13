@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı bir belgenin bir sürümünü tanımlayan sınıflar içerir.
+title: "Aspose.PSD.Xmp.Types.Complex.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, bir belgenin bir sürümünü tanımlayan sınıfları içerir"
 type: docs
-weight: 690
+weight: 730
 url: /tr/net/aspose.psd.xmp.types.complex.version/
 ---
-Ad alanı, bir belgenin bir sürümünü tanımlayan sınıflar içerir.
+{{< psd/tize >}}
+Namespace, bir belgenin bir sürümünü tanımlayan sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [Version](./version/) | Belgenin bir sürümünü tanımlar. |
+| [Version](./version/) | Bir belgenin bir sürümünü tanımlar. |
 
 

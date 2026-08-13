@@ -1,26 +1,27 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroup yöntem. Katmanı katman grubuna ekler.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroup yöntemi. Katmanı katman grubuna ekler."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
-Katmanı, katman grubuna ekler.
+Katmanı katman grubuna ekler.
 
 ```csharp
 public void AddLayer(Layer layer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| layer | Layer | Katman. |
+| katman | Katman | Katman. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif resimlerini PsdImage'a nasıl katman olarak ekleyebileceğinizi göstermektedir.
+Aşağıdaki örnek, Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif görüntülerini PsdImage'e katman olarak nasıl ekleyebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -67,11 +68,11 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

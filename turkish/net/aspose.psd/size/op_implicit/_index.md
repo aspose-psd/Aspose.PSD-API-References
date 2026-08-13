@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Belirtileni dönüştürürSize birSizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Belirtilen Size'ı SizeF'ye dönüştürür"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-Belirtileni dönüştürür[`Size`](../) bir[`SizeF`](../../sizef/) .
+Belirtilen [`Size`](../) öğesini bir [`SizeF`](../../sizef/) öğesine dönüştürür.
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | Size | bu[`Size`](../) dönüştürmek. |
+| size | Size | Dönüştürülecek [`Size`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`SizeF`](../../sizef/) bu operatörün dönüştürdüğü yapı.
+Bu operatörün dönüştürdüğü [`SizeF`](../../sizef/) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

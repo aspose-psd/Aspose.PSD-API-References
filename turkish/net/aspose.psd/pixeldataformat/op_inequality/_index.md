@@ -1,32 +1,33 @@
 ---
-title: PixelDataFormat.op_Inequality
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. İki için eşit olmama sonucunu verirPixelDataFormat sınıflar.
+title: "PixelDataFormat.op_Inequality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. İki PixelDataFormat sınıfı için eşitsizlik sonucunu döndürür."
 type: docs
 weight: 390
 url: /tr/net/aspose.psd/pixeldataformat/op_inequality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Inequality operator
 
-İki için eşit olmama sonucunu verir[`PixelDataFormat`](../) sınıflar.
+İki [`PixelDataFormat`](../) sınıfı için eşitsizlik sonucunu döndürür.
 
 ```csharp
 public static bool operator !=(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | İlk[`PixelDataFormat`](../) karşılaştırmak. |
-| pixelFormat2 | PixelDataFormat | İkinci[`PixelDataFormat`](../) karşılaştırmak. |
+| pixelFormat1 | PixelDataFormat | Karşılaştırılacak ilk [`PixelDataFormat`](../). |
+| pixelFormat2 | PixelDataFormat | Karşılaştırmak için ikinci [`PixelDataFormat`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İkisi de doğruysa*pixelFormat1* Ve*pixelFormat2* eşit olmayan veriler içeriyor veya parametrelerden biri boş.
+Her iki *pixelFormat1* ve *pixelFormat2* eşit olmayan veri içeriyorsa ya da parametrelerden biri null ise doğru.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

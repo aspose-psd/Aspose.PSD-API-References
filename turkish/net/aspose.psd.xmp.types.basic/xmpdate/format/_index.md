@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDate mülk. Geçerli değer için biçim dizesini alır.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDate özelliği. Mevcut değer için format dizesini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 Geçerli değer için biçim dizesini alır.
@@ -14,14 +15,14 @@ Geçerli değer için biçim dizesini alır.
 public string Format { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Geçerli değer için biçim dizesi.
+Mevcut değer için format dizesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDate](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

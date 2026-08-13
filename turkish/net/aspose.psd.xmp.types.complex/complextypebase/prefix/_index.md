@@ -1,11 +1,12 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Aspose.PSD for .NET API Referansı
-description: ComplexTypeBase mülk. Ön eki alır.
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ComplexTypeBase özelliği. Öneki alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
 Ön eki alır.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 public string Prefix { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-önek.
+Önek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ComplexTypeBase](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

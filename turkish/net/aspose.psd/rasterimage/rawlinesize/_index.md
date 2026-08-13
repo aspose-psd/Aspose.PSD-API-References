@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Ham satır boyutunu bayt cinsinden alır.
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Bayt cinsinden ham satır boyutunu alır"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
 Ham satır boyutunu bayt cinsinden alır.
@@ -14,14 +15,14 @@ Ham satır boyutunu bayt cinsinden alır.
 public virtual int RawLineSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Bayt cinsinden ham satır boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: Aspose.PSD for .NET API Referansı
-description: IOSTypeStructureLoader yöntem. OSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IOSTypeStructureLoader yöntemi. OSTypeStructure'ı yükler."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-[`OSTypeStructure`](../../ostypestructure/) .
+[`OSTypeStructure`](../../ostypestructure/) öğesini yükler.
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Yüklenecek akış kapsayıcısı. |
+| streamContainer | StreamContainer | Yüklenecek akış konteyneri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yüklenen[`OSTypeStructure`](../../ostypestructure/) kaynak.
+Yüklenen [`OSTypeStructure`](../../ostypestructure/) kaynağı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

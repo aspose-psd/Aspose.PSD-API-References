@@ -1,23 +1,24 @@
 ---
-title: CurvResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "CurvResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource özelliği. Katman kaynağı uzunluğunu bayt olarak alır"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/length/
 ---
+{{< psd/tize >}}
 ## CurvResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

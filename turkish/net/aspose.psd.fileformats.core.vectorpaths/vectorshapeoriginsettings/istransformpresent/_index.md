@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Bu örneğin transform özelliğine sahip olup olmadığını gösteren bir değer alır.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Bu örneğin dönüşüm özelliğine sahip olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
 Bu örneğin transform özelliğine sahip olup olmadığını gösteren bir değer alır.
@@ -14,13 +15,13 @@ Bu örneğin transform özelliğine sahip olup olmadığını gösteren bir değ
 public bool IsTransformPresent { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek transform özelliğine sahipse; aksi takdirde,`YANLIŞ` .
+`true` bu örnek dönüşüm özelliğine sahipse; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, vektör yolları içeren bir şekil katmanlarını yeniden boyutlandırma yeteneğini gösterir.
+Aşağıdaki kod, vektör yolları içeren şekil katmanlarını yeniden boyutlandırma yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

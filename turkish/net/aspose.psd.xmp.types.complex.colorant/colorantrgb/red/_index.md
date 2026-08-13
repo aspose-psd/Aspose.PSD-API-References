@@ -1,11 +1,12 @@
 ---
-title: ColorantRgb.Red
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantRgb mülk. Kırmızı bileşen değerini alır veya ayarlar.
+title: "ColorantRgb.Red"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantRgb özelliği. Kırmızı bileşen değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/red/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Red property
 
 Kırmızı bileşen değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Kırmızı bileşen değerini alır veya ayarlar.
 public byte Red { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kırmızı bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantRgb](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

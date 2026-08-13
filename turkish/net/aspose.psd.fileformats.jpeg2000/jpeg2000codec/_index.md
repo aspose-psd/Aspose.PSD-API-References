@@ -1,30 +1,31 @@
 ---
-title: Enum Jpeg2000Codec
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec Sıralama. JPEG2000 görüntü tipini temsil eder
+title: "Enum Jpeg2000Codec"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec enum. JPEG2000 görüntü türünü temsil eder"
 type: docs
-weight: 1540
+weight: 1550
 url: /tr/net/aspose.psd.fileformats.jpeg2000/jpeg2000codec/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Codec enumeration
 
-JPEG2000 görüntü tipini temsil eder
+JPEG2000 görüntü türünü temsil eder
 
 ```csharp
 public enum Jpeg2000Codec
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | J2K | `0` | j2k codec formatı |
 | Jp2 | `1` | JP2 codec formatı |
-| Jpt | `2` | JPT codec biçimi (Desteklenmiyor) |
+| Jpt | `2` | JPT codec formatı (Desteklenmiyor) |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
+* assembly [Aspose.PSD](../../)
 
 

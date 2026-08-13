@@ -1,39 +1,40 @@
 ---
-title: TiffDataType.ReadTag
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType yöntem. Etiket verilerini okur.
+title: "TiffDataType.ReadTag"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType yöntemi. Etiket verilerini okur"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/readtag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ReadTag method
 
-Etiket verilerini okur.
+Etiket verisini okur.
 
 ```csharp
 public static TiffDataType ReadTag(TiffStreamReader dataStream, long position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | dataStream | TiffStreamReader | Veri akışı. |
-| position | Int64 | Etiket konumu. |
+| konum | Int64 | Etiket konumu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Okuma etiketi.
+Okunan etiket.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | veri akışı |
+| ArgumentNullException | dataStream |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

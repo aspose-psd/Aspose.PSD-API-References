@@ -1,11 +1,12 @@
 ---
-title: Class XmpHeaderPi
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.XmpHeaderPi sınıf. XMP başlık işleme talimatını temsil eder.
+title: "Sınıf XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.XmpHeaderPi sınıfı. XMP başlık işleme talimatını temsil eder."
 type: docs
-weight: 6250
+weight: 6780
 url: /tr/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
 XMP başlık işleme talimatını temsil eder.
@@ -14,32 +15,32 @@ XMP başlık işleme talimatını temsil eder.
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | Yeni bir örneğini başlatır.`XmpHeaderPi` sınıf. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Yeni bir örneğini başlatır.`XmpHeaderPi` sınıf. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | `XmpHeaderPi` sınıfının yeni bir örneğini başlatır. |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | `XmpHeaderPi` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Başlık Kılavuzunu Temsil Eder. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Başlık Guid'ini temsil eder. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir. |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir. |
-| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Bu örnek için bir karma kod döndürür. |
-| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | XMP değerini XML gösterimine dönüştürür. |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler. |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Bu örnek için bir hash kodu döndürür. |
+| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | XMP değerini XML temsiline dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IXmlValue](../ixmlvalue/)
-* ad alanı [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

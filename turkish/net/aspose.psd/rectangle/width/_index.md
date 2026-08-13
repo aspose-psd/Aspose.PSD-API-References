@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Bunun genişliğini alır veya ayarlarRectangleyapı.
+title: "Rectangle.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. Bu Rectangle yapısının genişliğini alır veya ayarlar."
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/rectangle/width/
 ---
+{{< psd/tize >}}
 ## Rectangle.Width property
 
-Bunun genişliğini alır veya ayarlar[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının genişliğini alır veya ayarlar.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bunun genişliği[`Rectangle`](../) yapı.
+Bu [`Rectangle`](../) yapısının genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

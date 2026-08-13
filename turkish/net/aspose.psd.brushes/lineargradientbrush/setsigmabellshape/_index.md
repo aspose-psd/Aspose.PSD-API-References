@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearGradientBrush yöntem. Çan şeklindeki bir eğriye dayalı olarak bir degrade düşüşü oluşturur.
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearGradientBrush yöntemi. Bir çan şeklinde eğriye dayalı bir degrade azalışı oluşturur"
 type: docs
-weight: 60
+weight: 80
 url: /tr/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-Çan şeklindeki bir eğriye dayalı olarak bir degrade düşüşü oluşturur.
+Çan şeklinde bir eğriye dayalı bir degrade düşüşü oluşturur.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Degradenin merkezini (başlangıç rengi ve bitiş renginin eşit olarak karıştırıldığı nokta) belirten 0 ile 1 arasında bir değer. |
+| odak | Single | 0 ile 1 arasında bir değer ve degrade merkezini belirler (başlangıç rengi ile bitiş renginin eşit olarak karıştığı nokta). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-Çan şeklindeki bir eğriye dayalı olarak bir degrade düşüşü oluşturur.
+Çan şeklinde bir eğriye dayalı bir degrade düşüşü oluşturur.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Degradenin merkezini (gradyanın yalnızca bitiş renginden oluştuğu nokta) belirten, 0 ile 1 arasında bir değer. |
-| scale | Single | Renklerin ekrandan ne kadar hızlı düştüğünü belirten 0 ile 1 arasında bir değer.*focus*. |
+| odak | Single | 0 ile 1 arasında bir değer ve degrade merkezini belirler (degrenin yalnızca bitiş renginden oluştuğu nokta). |
+| scale | Single | 0 ile 1 arasında bir değer ve renklerin *odak* noktasından ne kadar hızlı azaldığını belirler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

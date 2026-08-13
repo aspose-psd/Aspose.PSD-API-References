@@ -1,29 +1,30 @@
 ---
-title: Interface IImageExporter
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IImageExporter arayüz. Görüntü dışa aktarıcı. Dahili Aspose.PSD formatındaki verileri belirli bir veri formatına aktarabilir.
+title: "Arayüz IImageExporter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IImageExporter arayüzü. Görüntü dışa aktarıcı. İç Aspose.PSD formatından belirtilen bir veri formatına veri dışa aktarabilir."
 type: docs
-weight: 4430
+weight: 4930
 url: /tr/net/aspose.psd/iimageexporter/
 ---
+{{< psd/tize >}}
 ## IImageExporter interface
 
-Görüntü dışa aktarıcı. Dahili Aspose.PSD formatındaki verileri belirli bir veri formatına aktarabilir.
+Görüntü dışa aktarıcı. İç dahili Aspose.PSD formatından belirtilen bir veri formatına veri dışa aktarabilir.
 
 ```csharp
 public interface IImageExporter
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | Belirtilen görüntü verilerini belirtilen veri biçimine aktarır. |
-| [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | Belirtilen görüntü verilerini belirtilen veri biçimine aktarır. |
+| [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | Belirtilen görüntü verilerini belirtilen veri formatına dışa aktarır. |
+| [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | Belirtilen görüntü verilerini belirtilen veri formatına dışa aktarır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

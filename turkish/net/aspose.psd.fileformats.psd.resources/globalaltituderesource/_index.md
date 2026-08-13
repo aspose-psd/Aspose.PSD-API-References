@@ -1,48 +1,49 @@
 ---
-title: Class GlobalAltitudeResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Resources.GlobalAltitudeResource sınıf. Küresel rakım kaynağı
+title: "Sınıf GlobalAltitudeResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GlobalAltitudeResource sınıf. Küresel irtifa kaynağı"
 type: docs
-weight: 3710
+weight: 4210
 url: /tr/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource class
 
-Küresel rakım kaynağı
+Global irtifa kaynağı
 
 ```csharp
 public sealed class GlobalAltitudeResource : ResourceBlock
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GlobalAltitudeResource](globalaltituderesource/)() | Default_Constructor |
+| [GlobalAltitudeResource](globalaltituderesource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Altitude](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/) { get; set; } | Rakımı alır veya ayarlar. |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/datasize/) { get; } | Kaynak veri boyutunu bayt cinsinden alır. |
+| [Altitude](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/) { get; set; } | İrtifayı alır veya ayarlar. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/datasize/) { get; } | Kaynak veri boyutunu bayt olarak alır. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Kaynak için benzersiz tanımlayıcıyı alır veya ayarlar. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/minimalversion/) { get; } | Gereken minimum PSD sürümünü alır. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Kaynak adını alır veya ayarlar. Boyutu çift yapmak için doldurulmuş Pascal dizesi (boş ad iki bayt 0'dan oluşur). |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/minimalversion/) { get; } | Gerekli minimum PSD sürümünü alır. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Kaynak adını alır veya ayarlar. Pascal dizesi, boyutu çift yapmak için doldurulur (null ad iki bayt 0'dan oluşur). |
 | [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Kaynak imzasını alır. Her zaman '8BIM' olmalıdır. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Verileri dahil olmak üzere kaynak bloğu boyutunu bayt cinsinden alır. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Veri dahil olmak üzere kaynak blok boyutunu bayt olarak alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Kaynak bloğunu belirtilen akışa kaydeder. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Kaynak değerlerini doğrular. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

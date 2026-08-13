@@ -1,60 +1,61 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: Aspose.PSD for .NET API Referansı
-description: LnsrResource inşaatçı. Yeni bir örneğini başlatır.LnsrResource sınıf.
+title: "LnsrResource.LnsrResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LnsrResource yapıcı. LnsrResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-Yeni bir örneğini başlatır.[`LnsrResource`](../) sınıf.
+`[`LnsrResource`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | LNSR'nin türü. |
+| lnsrResourceType | LnsrResourceType | LNSR'nin tipi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Bilinmeyen tür değeriyle lnsr oluşturamazsınız |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Unknown tip değeriyle lnsr oluşturamazsınız |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LnsrResource`](../) class. Özel veya bilinmeyen değerle
+`[`LnsrResource`](../)` sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen bir değerle.
 
 ```csharp
 public LnsrResource(byte[] bytes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bytes | Byte[] | Baytlar. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | Exception | Geçersiz lnsr Kaynak değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LnsrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

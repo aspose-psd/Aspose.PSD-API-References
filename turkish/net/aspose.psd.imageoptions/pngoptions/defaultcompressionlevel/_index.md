@@ -1,23 +1,24 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD for .NET API Referansı
-description: PngOptions alan. Varsayılan sıkıştırma düzeyi.
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PngOptions alanı. Varsayılan sıkıştırma seviyesi"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
-Varsayılan sıkıştırma düzeyi.
+Varsayılan sıkıştırma seviyesi.
 
 ```csharp
 public const int DefaultCompressionLevel;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PngOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pngoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

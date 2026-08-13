@@ -1,28 +1,29 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroup mülk. Karışım modu tuşunu alır veya ayarlar.
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroup özelliği. Karışım modu anahtarını alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
-Karışım modu tuşunu alır veya ayarlar.
+Karıştırma modu anahtarını alır veya ayarlar.
 
 ```csharp
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Karışım modu tuşu.
+Karışım modu anahtarı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: NonGenericDictionary.Clear
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary yöntem. den tüm öğeleri kaldırırIDictionary nesne.
+title: "NonGenericDictionary.Clear"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary yöntemi. IDictionary nesnesindeki tüm öğeleri kaldırır"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/nongenericdictionary/clear/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Clear method
 
-'den tüm öğeleri kaldırırIDictionary nesne.
+IDictionary nesnesindeki tüm öğeleri kaldırır.
 
 ```csharp
 public void Clear()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

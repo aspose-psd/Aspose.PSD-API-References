@@ -1,11 +1,12 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitArrayStructure mülk. Birim dizi yapısı değerlerini alır veya ayarlar.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitArrayStructure özelliği. unit array structure değerlerini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
 Birim dizi yapısı değerlerini alır veya ayarlar.
@@ -14,17 +15,17 @@ Birim dizi yapısı değerlerini alır veya ayarlar.
 public double[] Values { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Birim dizisi yapı değerleri.
+Birim dizi yapısı değerleri.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | Values özelliği boş olmamalıdır. |
+| ArgumentNullException | Values özelliği null olmamalıdır. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnitArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

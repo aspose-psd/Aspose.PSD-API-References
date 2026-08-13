@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap mülk. Şunu alır veya ayarlarLineJoin bunu oluşturan satırların nasıl olduğunu belirleyen numaralandırmaCustomLineCapnesne birleştirilir.
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap özelliği. Bu CustomLineCap nesnesini oluşturan çizgilerin nasıl birleştirileceğini belirleyen LineJoin enum değerini alır veya ayarlar."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-Şunu alır veya ayarlar:[`LineJoin`](../../linejoin/) bunu oluşturan satırların nasıl olduğunu belirleyen numaralandırma[`CustomLineCap`](../)nesne birleştirilir.
+Bu [`CustomLineCap`](../) nesnesini oluşturan çizgilerin nasıl birleştirileceğini belirleyen [`LineJoin`](../../linejoin/) enum değerini alır veya ayarlar.
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-bu[`LineJoin`](../../linejoin/) numaralandırma bu[`CustomLineCap`](../) nesne çizgileri birleştirmek için kullanır.
+Bu [`CustomLineCap`](../) nesnesinin çizgileri birleştirmek için kullandığı [`LineJoin`](../../linejoin/) enum değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

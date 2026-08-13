@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Packed
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioSampleType mülk. Paketlenmiş ses örneğini temsil eder.
+title: "AudioSampleType.Packed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioSampleType özelliği. Paketlenmiş ses örneğini temsil eder"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Packed property
 
 Paketlenmiş ses örneğini temsil eder.
@@ -14,10 +15,10 @@ Paketlenmiş ses örneğini temsil eder.
 public static AudioSampleType Packed { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioSampleType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Rational.Numerator
-second_title: Aspose.PSD for .NET API Referansı
-description: Rational mülk. Payı alır.
+title: "Rational.Numerator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rational özelliği. Payı alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.derived/rational/numerator/
 ---
+{{< psd/tize >}}
 ## Rational.Numerator property
 
 Payı alır.
@@ -14,14 +15,14 @@ Payı alır.
 public int Numerator { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Pay.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Rational](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

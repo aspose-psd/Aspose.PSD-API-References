@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Bayt bit doldurma sırasını alır veya ayarlar.
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Bayt bit doldurma sırasını alır veya ayarlar"
 type: docs
-weight: 160
+weight: 170
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-Bayt bit doldurma sırasını alır veya ayarlar.
+Byte bit doldurma sırasını alır veya ayarlar.
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bayt bitleri sırayı doldurur.
+Bayt bit doldurma sırası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

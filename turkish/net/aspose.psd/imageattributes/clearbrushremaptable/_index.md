@@ -1,23 +1,24 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Bunun fırça renk yeniden eşleme tablosunu temizlerImageAttributes nesne.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Bu ImageAttributes nesnesinin fırça colorremap tablosunu temizler."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-Bunun fırça renk yeniden eşleme tablosunu temizler[`ImageAttributes`](../) nesne.
+Bu [`ImageAttributes`](../) nesnesinin fırça color-remap tablosunu temizler.
 
 ```csharp
 public void ClearBrushRemapTable()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,40 @@
 ---
-title: Class GradientColorPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint sınıf. Degrade Renk Noktası.
+title: "Sınıf GradientColorPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint sınıf. Degrade Renk Noktası"
 type: docs
-weight: 1950
+weight: 2060
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
-Degrade Renk Noktası.
+Gradyan Renk Noktası.
 
 ```csharp
 public class GradientColorPoint : IGradientColorPoint
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | Yeni bir örneğini başlatır.`GradientColorPoint` sınıf. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Yeni bir örneğini başlatır.`GradientColorPoint` sınıf. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | Yeni bir `GradientColorPoint` sınıfı örneği başlatır. |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Yeni bir `GradientColorPoint` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Degradedeki nokta konumunu alır veya ayarlar. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Medyan gradyan noktası konumunu alır veya ayarlar. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Ham rengi alır veya ayarlar. |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | Rengin takip edeceği mod |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Degrade üzerindeki nokta konumunu alır veya ayarlar. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Orta derece degrade nokta konumunu alır veya ayarlar. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Hamın rengini alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

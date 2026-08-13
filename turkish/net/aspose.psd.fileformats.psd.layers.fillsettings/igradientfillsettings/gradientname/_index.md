@@ -1,27 +1,28 @@
 ---
-title: IGradientFillSettings.GradientName
-second_title: Aspose.PSD for .NET API Referansı
-description: IGradientFillSettings mülk. Degradenin adını alır veya ayarlar.
+title: "IGradientFillSettings.GradientName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IGradientFillSettings özelliği. Gradyanın adını alır veya ayarlar"
 type: docs
-weight: 60
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientName property
 
-Degradenin adını alır veya ayarlar.
+Degrade adını alır veya ayarlar.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Degradenin adı.
+Gradyanın adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IGradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

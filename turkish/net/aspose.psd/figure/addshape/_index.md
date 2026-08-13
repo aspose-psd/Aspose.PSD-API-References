@@ -1,11 +1,12 @@
 ---
-title: Figure.AddShape
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure yöntem. Şekle bir şekil ekler.
+title: "Figure.AddShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure yöntemi. Şekle bir şekil ekler."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/figure/addshape/
 ---
+{{< psd/tize >}}
 ## Figure.AddShape method
 
 Şekle bir şekil ekler.
@@ -14,44 +15,44 @@ url: /tr/net/aspose.psd/figure/addshape/
 public void AddShape(Shape shape)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| shape | Shape | Eklenecek şekil. |
+| şekil | Şekil | Eklenecek şekil. |
 
-### Örnekler
+## Örnekler
 
-Bu örnekler, bir Image yüzeyinde Figures oluşturmak ve bunları değiştirmek için GraphicsPath ve Graphics sınıfını kullanır. Örnek yeni bir Image oluşturur ve GraphicsPath sınıfının yardımıyla yolları çizer. Sonunda, yolları yüzeyde işlemek için Graphics sınıfı tarafından sunulan DrawPath yöntemi çağrılır. Son olarak görüntü, Tiff dosya biçiminde dışa aktarılır.
+Bu örnekler, bir Görüntü yüzeyinde Şekiller oluşturmak ve manipüle etmek için GraphicsPath ve Graphics sınıflarını kullanır. Örnek, yeni bir Görüntü oluşturur ve GraphicsPath sınıfının yardımıyla yollar çizer. Sonunda, Graphics sınıfı tarafından sunulan DrawPath yöntemi, yolları yüzeye render etmek için çağrılır. Son olarak görüntü Tiff dosya formatına dışa aktarılır.
 
 ```csharp
 [C#]
 
-//Görüntünün bir örneğini oluştur 
+//Image sınıfının bir örneğini oluşturun.
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // Graphics sınıfının bir örneğini oluştur ve başlat
+    //Graphics sınıfının bir örneğini oluşturun ve başlatın.
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Grafik yüzeyini temizle
+    //Graphics yüzeyini temizleyin.
     graphics.Clear(Color.Wheat);
 
-    // GraphicsPath sınıfının bir örneğini oluşturun
+    //GraphicsPath sınıfının bir örneğini oluşturun.
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    // Figure sınıfının bir örneğini oluştur
+    //Figure sınıfının bir örneğini oluşturun.
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    //Şekil nesnesine Şekiller ekleyin
+    //Figure nesnesine Şekiller ekleyin.
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    // Figure nesnesini GraphicsPath'e ekle
+    //Figure nesnesini GraphicsPath'e ekleyin.
     graphicspath.AddFigure(figure);
 
-    //Siyah renkli Kalem nesnesiyle yol çizin
+    //Siyah renkli Pen nesnesiyle yolu çizin.
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    //Bir TiffOptions örneği oluşturun ve çeşitli özelliklerini ayarlayın
+    //TiffOptions sınıfının bir örneğini oluşturun ve çeşitli özelliklerini ayarlayın.
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
     // tüm değişiklikleri kaydet.
@@ -59,11 +60,11 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

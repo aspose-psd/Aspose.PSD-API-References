@@ -1,27 +1,28 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: VibAResource mülk. psd sürümünü alır.
+title: "VibAResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibAResource özelliği. psd sürümünü alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
-psd sürümünü alır.
+PSD sürümünü alır.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod örneği, VibAResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Çalışma zamanında Titreşim Kaynağını okuma ve yazma desteği örneği.
+// Çalışma zamanında okuma ve yazma Vibrasyon Kaynağı desteği örneği.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibAResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: SmartObjectResource.OriginalCompId
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Alt belge için geçerli olarak seçili Compun orijinal kimliğini alır hiçbiri seçilmezse 1 olur. Bu özellik PSD dosyasındaki akıllı nesne katmanı için orijinal katman Comp seçim tanımlayıcısını alır. Akıllı Nesnelerde katman kompozisyonları
+title: "SmartObjectResource.OriginalCompId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Hiçbiri seçilmemişse 1 olacak şekilde, alt belge için şu anda seçili olan Comp'in orijinal kimliğini alır. Bu özellik, PSD dosyasındaki akıllı nesne katmanı için orijinal katman Comp seçim tanımlayıcısını alır. Akıllı Nesnelerde Katman kompozisyonları"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.OriginalCompId property
 
-Alt belge için geçerli olarak seçili Comp'un orijinal kimliğini alır; hiçbiri seçilmezse -1 olur. Bu özellik, PSD dosyasındaki akıllı nesne katmanı için orijinal katman Comp seçim tanımlayıcısını alır. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Alır alt belge için şu anda seçili olan Comp'in orijinal kimliğini; hiçbir şey seçili değilse -1 olur. Bu özellik, PSD dosyasındaki akıllı nesne katmanı için orijinal katman Comp seçim tanımlayıcısını alır. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-PSD görüntüsündeki alt belge için geçerli olarak seçili kompozisyonun orijinal kimliği; hiçbiri seçilmezse -1 olacaktır.
+PSD görüntüsündeki alt belge için şu anda seçili olan comp'in orijinal kimliği, hiçbiri seçilmemişse -1 olur.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, SoLEResource, SmartObjectResource ve PlacedResource kaynaklarının desteğini gösterir.
 
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Kaynakta değiştirmediğimiz bu değerler
+    // Bu değerleri kaynakta değiştirmiyoruz
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,15 +115,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Bu değerler PlLdResource'da (belirtilen UniqueId ile) de değiştirilmelidir.
-    // ve bazılarının LinkDataSource'daki altı çizili akıllı nesneyle uyumlu olması gerekir
+    // Bu değerler ayrıca belirtilen UniqueId ile PlLdResource içinde değiştirilmelidir
+    // ve bunların bir kısmı LinkDataSource içindeki altındaki akıllı nesneyle uyumlu olmalıdır
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Bu unique ID varsa referanslarda değiştirilmelidir.
+    // Bu benzersiz Id, varsa referanslarda değiştirilmelidir
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Bazı parametrelere dikkat edin: kaydedilen görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-    ////kaynak.UOrder = 6;
-    ////kaynak.VOrder = 9;
+    // Bazı parametrelerle dikkatli olun: kaydedilen görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-    // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+    // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+    // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+    // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -328,7 +329,7 @@ Aşağıdaki kod, SoLdResource kaynağının desteğini gösterir.
 ```csharp
 [C#]
 
-// Bu örnek, PSD dosyasının akıllı nesne katmanı veri özelliklerinin nasıl alınacağını veya ayarlanacağını gösterir.
+// Bu örnek, PSD dosyasının akıllı nesne katmanı veri özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +563,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Bu değerler PlLdResource'da (belirtilen UniqueId ile) de değiştirilmelidir.
-                // ve bazılarının LinkDataSource'daki altı çizili akıllı nesneyle uyumlu olması gerekir
+                // Bu değerler ayrıca belirtilen UniqueId ile PlLdResource içinde değiştirilmelidir
+                // ve bunların bir kısmı LinkDataSource içindeki altındaki akıllı nesneyle uyumlu olmalıdır
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,18 +609,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Bu unique ID varsa referanslarda değiştirilmelidir.
+                // Bu benzersiz Id, varsa referanslarda değiştirilmelidir
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -632,10 +633,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

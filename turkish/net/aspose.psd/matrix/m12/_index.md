@@ -1,23 +1,24 @@
 ---
-title: Matrix.M12
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix mülk. Birinci satır ikinci sütundaki matris öğesini alır. Y ekseni boyunca kaymayı temsil eder.
+title: "Matrix.M12"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix özelliği. İlk satır ikinci sütundaki matris elemanını alır. Y ekseni boyunca kaymayı temsil eder"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/matrix/m12/
 ---
+{{< psd/tize >}}
 ## Matrix.M12 property
 
-Birinci satır ikinci sütundaki matris öğesini alır. Y ekseni boyunca kaymayı temsil eder.
+İlk satırın ikinci sütunundaki matris öğesini alır. Y ekseni boyunca kaymayı temsil eder.
 
 ```csharp
 public float M12 { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

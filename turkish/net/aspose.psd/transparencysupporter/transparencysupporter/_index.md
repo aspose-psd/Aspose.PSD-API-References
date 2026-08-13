@@ -1,23 +1,24 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Aspose.PSD for .NET API Referansı
-description: TransparencySupporter inşaatçı. Default_Constructor
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TransparencySupporter yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public TransparencySupporter()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TransparencySupporter](../)
-* ad alanı [Aspose.PSD](../../transparencysupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

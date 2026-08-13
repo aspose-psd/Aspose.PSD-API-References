@@ -1,28 +1,29 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. TrueType yazı tiplerinin yüklendiği klasörleri ayarlar ve yüklenen tüm yazı tiplerini temizler. Yazı tipi klasörlerinde hiçbir kontrol yapılmaz.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. TrueType yazı tiplerinin yüklendiği klasörleri ayarlar ve tüm yüklü yazı tiplerini temizler. Yazı tipi klasörlerinde hiçbir kontrol yapılmaz."
 type: docs
-weight: 130
+weight: 150
 url: /tr/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-TrueType yazı tiplerinin yüklendiği klasörleri ayarlar ve yüklenen tüm yazı tiplerini temizler. Yazı tipi klasörlerinde hiçbir kontrol yapılmaz.
+TrueType yazı tiplerinin yüklendiği klasörleri ayarlar ve tüm yüklü yazı tiplerini temizler. Yazı tipi klasörlerinde hiçbir kontrol yapılmaz.
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontsFolders | String[] | Yazı tipi klasörleri. |
-| recursive | Boolean | olarak ayarlanmışsa`doğru` [özyinelemeli]. |
+| özyinelemeli | Boolean | eğer `true` olarak ayarlanırsa [recursive]. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

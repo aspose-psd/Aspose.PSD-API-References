@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.Create
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings yöntem. Bu örneği oluşturur.
+title: "RdOptimizerSettings.Create"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings yöntemi. Bu örneği oluşturur"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/create/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.Create method
 
 Bu örneği oluşturur.
@@ -14,14 +15,14 @@ Bu örneği oluşturur.
 public static RdOptimizerSettings Create()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-RDOptimizerSettings sınıf örneğini döndürür
+RDOptimizerSettings sınıfı örneğini döndürür
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

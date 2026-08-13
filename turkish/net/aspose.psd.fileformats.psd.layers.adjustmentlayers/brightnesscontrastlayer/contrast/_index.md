@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Aspose.PSD for .NET API Referansı
-description: BrightnessContrastLayer mülk. Kontrastı alır veya ayarlar. PS için kontrast aralığı 50 ile 100 arasındadır. Ama bunu görmezden geliyoruz.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BrightnessContrastLayer özelliği. Kontrastı alır veya ayarlar. PS için kontrast aralığı 50 ile 100 arasındadır. Ancak bunu görmezden geliyoruz."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-Kontrastı alır veya ayarlar. PS için kontrast aralığı -50 ile +100 arasındadır. Ama bunu görmezden geliyoruz.
+Kontrast değerini alır veya ayarlar. PS için kontrast aralığı -50 ile +100 arasındadır. Ancak bunu görmezden geliyoruz.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kontrast.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BrightnessContrastLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

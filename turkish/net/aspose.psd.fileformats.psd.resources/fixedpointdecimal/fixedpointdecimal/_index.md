@@ -1,74 +1,75 @@
 ---
-title: FixedPointDecimal.FixedPointDecimal
-second_title: Aspose.PSD for .NET API Referansı
-description: FixedPointDecimal inşaatçı. Yeni bir örneğini başlatır.FixedPointDecimal sınıf.
+title: "FixedPointDecimal.FixedPointDecimal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FixedPointDecimal yapıcı. FixedPointDecimal sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`FixedPointDecimal`](../) sınıf.
+[`FixedPointDecimal`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| integer | Int32 | tamsayı. |
-| fraction | Int32 | kesir. |
+| tamsayı | Int32 | Tam sayı. |
+| kesir | Int32 | Kesir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`FixedPointDecimal`](../) sınıf. 32 bitlik bir tamsayının yüksek ve düşük sözcüklerini sabit noktalı bir sayıya ayırın.
+[`FixedPointDecimal`](../) sınıfının yeni bir örneğini başlatır. 32-bit tamsayının yüksek ve düşük kelimelerini sabit noktalı bir sayıya ayırır.
 
 ```csharp
 public FixedPointDecimal(long value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Int64 | Değer. |
+| değer | Int64 | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(double) {#constructor}
 
-Yeni bir örneğini başlatır.[`FixedPointDecimal`](../) sınıf.
+[`FixedPointDecimal`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FixedPointDecimal(double value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Double | Değer. |
+| değer | Double | Değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | OverflowException |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

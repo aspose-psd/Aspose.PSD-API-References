@@ -1,23 +1,24 @@
 ---
-title: BooleanResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: BooleanResource mülk. psd sürümünü alır.
+title: "BooleanResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BooleanResource özelliği. psd sürümünü alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BooleanResource.PsdVersion property
 
-psd sürümünü alır.
+PSD sürümünü alır.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BooleanResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

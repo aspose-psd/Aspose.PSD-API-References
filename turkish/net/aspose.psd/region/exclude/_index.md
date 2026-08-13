@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu güncellerRegion yalnızca belirtilenle kesişmeyen iç kısmını içerecek şekildeRectangleFyapı.
+title: "Region.Exclude"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı, iç kısmının yalnızca belirtilen RectangleF yapısı ile kesişmeyen bölümünü içerecek şekilde günceller."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-Bunu günceller[`Region`](../) yalnızca belirtilenle kesişmeyen iç kısmını içerecek şekilde[`RectangleF`](../../rectanglef/)yapı.
+Bu [`Region`](../) öğesini, iç kısmının yalnızca belirtilen [`RectangleF`](../../rectanglef/) yapısı ile kesişmeyen bölümünü içerecek şekilde günceller.
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | bu[`RectangleF`](../../rectanglef/) bunun dışında bırakılacak yapı[`Region`](../). |
+| rect | RectangleF | Bu [`Region`](../) dışına çıkarılacak olan [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-Bunu günceller[`Region`](../) yalnızca belirtilenle kesişmeyen iç kısmını içerecek şekilde[`Rectangle`](../../rectangle/)yapı.
+Bu [`Region`](../) öğesini, iç kısmının yalnızca belirtilen [`Rectangle`](../../rectangle/) yapısı ile kesişmeyen bölümünü içerecek şekilde günceller.
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) bunun dışında bırakılacak yapı[`Region`](../). |
+| rect | Rectangle | Bu [`Region`](../) dışına çıkarılacak olan [`Rectangle`](../../rectangle/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-Bunu günceller[`Region`](../) yalnızca belirtilenle kesişmeyen iç kısmını içerecek şekilde[`GraphicsPath`](../../graphicspath/) .
+Bu [`Region`](../) öğesini, iç kısmının yalnızca belirtilen [`GraphicsPath`](../../graphicspath/) öğesi ile kesişmeyen bölümünü içerecek şekilde günceller.
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../graphicspath/) bunun dışında tutmak[`Region`](../). |
+| path | GraphicsPath | Bu [`Region`](../) dışına çıkarılacak olan [`GraphicsPath`](../../graphicspath/) öğesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *path* null. |
+| ArgumentNullException | *path* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-Bunu günceller[`Region`](../) yalnızca belirtilenle kesişmeyen iç kısmını içerecek şekilde[`Region`](../) .
+Bu [`Region`](../) öğesini, iç kısmının yalnızca belirtilen [`Region`](../) öğesi ile kesişmeyen bölümünü içerecek şekilde günceller.
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../) bunun dışında tutmak[`Region`](../). |
+| region | Region | Bu [`Region`](../) dışına çıkarılacak olan [`Region`](../) öğesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *region* null. |
+| ArgumentNullException | *region* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

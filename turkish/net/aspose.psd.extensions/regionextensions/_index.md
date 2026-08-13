@@ -1,28 +1,29 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.RegionExtensions sınıf. için uzantı yöntemlerini içerir.Region sınıf.
+title: "Sınıf RegionExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.RegionExtensions sınıfı. Region sınıfı için uzantı yöntemlerini içerir."
 type: docs
-weight: 1170
+weight: 1180
 url: /tr/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-için uzantı yöntemlerini içerir.[`Region`](../../aspose.psd/region/) sınıf.
+[`Region`](../../aspose.psd/region/) sınıfı için uzantı yöntemlerini içerir.
 
 ```csharp
 public static class RegionExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | dönüştürür[`Region`](../../aspose.psd/region/) içinRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | [`Region`](../../aspose.psd/region/) öğesini Region'a dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

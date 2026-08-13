@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitArrayStructure mülk. Ölçü birimi türünü alır veya ayarlar.UnitArrayStructure değerler.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitArrayStructure özelliği. UnitArrayStructure değerlerinin ölçü birimi tipini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-Ölçü birimi türünü alır veya ayarlar.[`UnitArrayStructure`](../) değerler.
+[`UnitArrayStructure`](../) değerlerinin ölçü birimi tipini alır veya ayarlar.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ölçü birimi türü.
+Ölçü birimi tipi.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

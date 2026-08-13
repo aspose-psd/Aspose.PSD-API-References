@@ -1,30 +1,31 @@
 ---
-title: PropertyStructure.PropertyStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: PropertyStructure inşaatçı. Yeni bir örneğini başlatır.PropertyStructure sınıf.
+title: "PropertyStructure.PropertyStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PropertyStructure yapıcı. PropertyStructure sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure constructor
 
-Yeni bir örneğini başlatır.[`PropertyStructure`](../) sınıf.
+[`PropertyStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtarın adı. |
 | classID | ClassID | Sınıf kimliği. |
 | keyID | ClassID | Anahtar kimliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

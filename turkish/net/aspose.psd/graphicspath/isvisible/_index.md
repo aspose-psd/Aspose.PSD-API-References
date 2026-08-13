@@ -1,215 +1,216 @@
 ---
-title: GraphicsPath.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Belirtilen noktanın bunun içinde olup olmadığını gösterir.GraphicsPath .
+title: "GraphicsPath.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Belirtilen noktanın bu GraphicsPath içinde bulunup bulunmadığını gösterir."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/graphicspath/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_6}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(float x, float y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | x | Single | Test edilecek noktanın x koordinatı. |
 | y | Single | Test edilecek noktanın y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(PointF point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../../pointf/) test edilecek noktayı temsil eder. |
+| point | PointF | Test edilecek noktayı temsil eden bir [`PointF`](../../pointf/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int) {#isvisible_4}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(int x, int y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | x | Int32 | Test edilecek noktanın x koordinatı. |
 | y | Int32 | Test edilecek noktanın y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(Point point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | A[`Point`](../../point/) test edilecek noktayı temsil eder. |
+| point | Point | Test edilecek noktayı temsil eden bir [`Point`](../../point/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_7}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) belirtilenin görünür klip bölgesinde[`Graphics`](../../graphics/) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde, belirtilen [`Graphics`](../../graphics/) öğesinin görünür kırpma bölgesinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics graphics)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | x | Single | Test edilecek noktanın x koordinatı. |
 | y | Single | Test edilecek noktanın y koordinatı. |
-| graphics | Graphics | bu[`Graphics`](../../graphics/) görünürlüğü test etmek için. |
+| graphics | Graphics | Görünürlüğü test edilecek [`Graphics`](../../graphics/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(PointF pt, Graphics graphics)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pt | PointF | A[`PointF`](../../pointf/) test edilecek noktayı temsil eder. |
-| graphics | Graphics | bu[`Graphics`](../../graphics/) görünürlüğü test etmek için. |
+| pt | PointF | Test edilecek noktayı temsil eden bir [`PointF`](../../pointf/). |
+| graphics | Graphics | Görünürlüğü test edilecek [`Graphics`](../../graphics/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür; aksi takdirde, false.
+Bu yöntem, belirtilen nokta içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_5}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) , belirtilen kullanarak[`Graphics`](../../graphics/) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde, belirtilen [`Graphics`](../../graphics/) kullanılarak bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics graphics)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | x | Int32 | Test edilecek noktanın x koordinatı. |
 | y | Int32 | Test edilecek noktanın y koordinatı. |
-| graphics | Graphics | bu[`Graphics`](../../graphics/) görünürlüğü test etmek için. |
+| graphics | Graphics | Görünürlüğü test edilecek [`Graphics`](../../graphics/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Belirtilen noktanın bunun içinde olup olmadığını gösterir.[`GraphicsPath`](../) .
+Belirtilen noktanın bu [`GraphicsPath`](../) içinde bulunup bulunmadığını gösterir.
 
 ```csharp
 public bool IsVisible(Point pt, Graphics graphics)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pt | Point | A[`Point`](../../point/) test edilecek noktayı temsil eder. |
-| graphics | Graphics | bu[`Graphics`](../../graphics/) görünürlüğü test etmek için. |
+| pt | Point | Test edilecek noktayı temsil eden bir [`Point`](../../point/). |
+| graphics | Graphics | Görünürlüğü test edilecek [`Graphics`](../../graphics/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen nokta bunun içindeyse, bu yöntem true değerini döndürür.[`GraphicsPath`](../) ; aksi takdirde, false.
+Bu yöntem, belirtilen nokta bu [`GraphicsPath`](../) içinde bulunuyorsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

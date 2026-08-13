@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl mülk. Tonu alır veya ayarlar.
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl özelliği. Tonu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
-Tonu alır veya ayarlar.
+Renk tonunu alır veya ayarlar.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk tonu.
+Ton.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

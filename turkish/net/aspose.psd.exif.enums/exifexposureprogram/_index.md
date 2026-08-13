@@ -1,36 +1,37 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifExposureProgram Sıralama. exif teşhir programı numaralandırması.
+title: "Enum ExifExposureProgram"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifExposureProgram enum. exif pozlama programı enum"
 type: docs
-weight: 840
+weight: 850
 url: /tr/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifExposureProgram enumeration
 
-exif teşhir programı numaralandırması.
+exif pozlama programı sayımı.
 
 ```csharp
 public enum ExifExposureProgram
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Notdefined | `0` | Tanımlanmadı. |
+| Notdefined | `0` | Tanımlanmamış. |
 | Manual | `1` | Manuel program. |
-| Auto | `2` | Otomatik poz. |
+| Auto | `2` | Otomatik pozlama. |
 | Aperturepriority | `3` | Diyafram önceliği. |
 | Shutterpriority | `4` | Enstantane önceliği. |
 | Creativeprogram | `5` | Yaratıcı program. |
-| Actionprogram | `6` | Eylem programı. |
+| Actionprogram | `6` | Aksiyon programı. |
 | Portraitmode | `7` | Portre modu. |
 | Landscapemode | `8` | Manzara modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

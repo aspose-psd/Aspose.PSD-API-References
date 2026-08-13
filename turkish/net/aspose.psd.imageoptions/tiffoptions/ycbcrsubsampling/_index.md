@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. YCbCr fotometrik için alt örnekleme faktörlerini alır veya ayarlar.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. YCbCr fotometrik için alt örnekleme faktörlerini alır veya ayarlar"
 type: docs
-weight: 670
+weight: 680
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
 YCbCr fotometrik için alt örnekleme faktörlerini alır veya ayarlar.
@@ -14,21 +15,21 @@ YCbCr fotometrik için alt örnekleme faktörlerini alır veya ayarlar.
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 YCbCr fotometrik için alt örnekleme faktörleri.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Geçersiz alan uzunluğu. YCbCrSubsampling alanı iki değer içermelidir. |
 | ArgumentNullException | değer |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

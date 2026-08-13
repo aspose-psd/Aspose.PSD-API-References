@@ -1,27 +1,28 @@
 ---
-title: BezierKnotRecord.IsOpen
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierKnotRecord mülk. Bu örneğin açık olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "BezierKnotRecord.IsOpen"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierKnotRecord özelliği. Bu örneğin açık olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsOpen property
 
-Bu örneğin açık olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin açık olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek açıksa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek açıksa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BezierKnotRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.GetC
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColorHelper yöntem. Camgöbeği bileşen değerini alır.
+title: "CmykColorHelper.GetC"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColorHelper yöntemi. Camgöbeği bileşen değerini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/cmykcolorhelper/getc/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetC method
 
-Camgöbeği bileşen değerini alır.
+Cyan bileşen değerini alır.
 
 ```csharp
 public static int GetC(int cmyk)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cmyk | Int32 | 32 bit tamsayı değeri olarak sunulan CMYK rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Camgöbeği bileşen değeri.
+Cyan bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

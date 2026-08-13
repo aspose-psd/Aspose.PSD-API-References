@@ -1,59 +1,60 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan bir dizi bayt değeri okur.
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan bayt değerlerinden oluşan bir dizi okur"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
-Akıştan bir dizi bayt değeri okur.
+Akıştan bayt değerleri dizisi okur.
 
 ```csharp
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | array | Byte[] | Doldurulacak dizi. |
-| arrayIndex | Int32 | Değer koymaya başlamak için dizi dizini. |
-| position | Int64 | Okunacak akış konumu. |
-| count | Int64 | Öğeler okumak için sayılır. |
+| arrayIndex | Int32 | Değerlerin yerleştirilmeye başlanacağı dizi indeksi. |
+| konum | Int64 | Okunacak akış konumu. |
+| sayı | Int64 | Okunacak öğe sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bayt değerleri dizisi.
+Bayt değerlerinden oluşan dizi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReadBytes(long, long) {#readbytes}
 
-Akıştan bir dizi işaretsiz bayt değeri okur.
+Akıştan işaretsiz bayt değerleri dizisi okur.
 
 ```csharp
 public byte[] ReadBytes(long position, long count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
-| count | Int64 | Öğeler sayılır. |
+| konum | Int64 | Okunacak konum. |
+| sayı | Int64 | Öğe sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşaretsiz bayt değerleri dizisi.
+İşaretsiz bayt değerlerinden oluşan dizi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorImage.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorImage mülk. Görüntü yüksekliğini alır.
+title: "VectorImage.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorImage özelliği. Görüntünün yüksekliğini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/vectorimage/height/
 ---
+{{< psd/tize >}}
 ## VectorImage.Height property
 
-Görüntü yüksekliğini alır.
+Resmin yüksekliğini alır.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorImage](../)
-* ad alanı [Aspose.PSD](../../vectorimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Ham veri yüklemenin mümkün olup olmadığını gösteren bir değer alır.
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Ham veri yüklemenin mevcut olup olmadığını gösteren bir değeri alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-Ham veri yüklemenin mümkün olup olmadığını gösteren bir değer alır.
+Ham veri yüklemesinin kullanılabilir olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu ham veri yüklemesi mevcutsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu ham veri yükleme mevcutsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

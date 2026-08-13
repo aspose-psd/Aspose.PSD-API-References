@@ -1,11 +1,12 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerResource alan. Ortak kaynak imzası.
+title: "LayerResource.ResourceSignature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerResource alanı. Ortak kaynak imzası"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
 Ortak kaynak imzası.
@@ -14,10 +15,10 @@ Ortak kaynak imzası.
 public const int ResourceSignature;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

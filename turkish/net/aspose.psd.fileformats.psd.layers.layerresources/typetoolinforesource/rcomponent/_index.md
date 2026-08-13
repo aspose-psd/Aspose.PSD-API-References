@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.RComponent
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. r bileşenini alır veya ayarlar.
+title: "TypeToolInfoResource.RComponent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. r bileşenini alır veya ayarlar"
 type: docs
-weight: 160
+weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.RComponent property
 
 r bileşenini alır veya ayarlar.
@@ -14,14 +15,14 @@ r bileşenini alır veya ayarlar.
 public short RComponent { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 r bileşeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

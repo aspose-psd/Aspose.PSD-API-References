@@ -1,29 +1,30 @@
 ---
-title: VectorPathDataResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorPathDataResource yöntem. Kaynağı belirtilen akış kapsayıcısına kaydeder.
+title: "VectorPathDataResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorPathDataResource yöntemi. Kaynağı belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 90
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Save method
 
-Kaynağı belirtilen akış kapsayıcısına kaydeder.
+Kaynağı belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VectorPathDataResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

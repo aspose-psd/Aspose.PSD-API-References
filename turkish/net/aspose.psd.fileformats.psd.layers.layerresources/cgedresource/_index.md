@@ -1,59 +1,60 @@
 ---
-title: Class CgEdResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource sınıf. Sınıf CgEdResource. İçerik Oluşturucu Ek Verileri Photoshop CS5
+title: "Sınıf CgEdResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource sınıfı. Sınıf CgEdResource. İçerik Üreteci Ekstra Veri Photoshop CS5"
 type: docs
-weight: 2350
+weight: 2610
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource class
 
-Sınıf CgEdResource. İçerik Oluşturucu Ek Verileri (Photoshop CS5)
+CgEdResource sınıfı. İçerik Üreteci Ekstra Verisi (Photoshop CS5)
 
 ```csharp
 public class CgEdResource : AdjustmentLayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CgEdResource](cgedresource/)() | Default_Constructor |
+| [CgEdResource](cgedresource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`CgEdResource` otomatik. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | Bu `CgEdResource`'un otomatik olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | Parlaklığı alır veya ayarlar. |
 | [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | Kontrastı alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | [laboratuvar rengi]'nin kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | Bu [lab color] kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | Parlaklık ve kontrast için ortalama değeri alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | İmzayı alır. |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | [eski kullan] olup olmadığını belirten bir değer alır veya ayarlar. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | Bu [use legacy] kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | Sürümü alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

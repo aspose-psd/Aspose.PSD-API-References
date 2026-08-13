@@ -1,48 +1,49 @@
 ---
-title: IndexOutOFRangeException.IndexOutOFRangeException
-second_title: Aspose.PSD for .NET API Referansı
-description: IndexOutOFRangeException inşaatçı. Yeni bir örneğini başlatır.CompressorException sınıf.
+title: "IndexOutOFRangeException.IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IndexOutOFRangeException yapıcı. Yeni bir CompressorException sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/indexoutofrangeexception/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`CompressorException`](../../compressorexception/) sınıf.
+Yeni bir [`CompressorException`](../../compressorexception/) sınıfının bir örneğini başlatır.
 
 ```csharp
 public IndexOutOFRangeException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IndexOutOFRangeException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IndexOutOFRangeException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`CompressorException`](../../compressorexception/) sınıf.
+Yeni bir [`CompressorException`](../../compressorexception/) sınıfının bir örneğini başlatır.
 
 ```csharp
 public IndexOutOFRangeException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IndexOutOFRangeException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

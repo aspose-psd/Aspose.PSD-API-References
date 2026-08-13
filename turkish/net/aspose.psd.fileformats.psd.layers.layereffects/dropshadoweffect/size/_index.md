@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Bulanıklık değerini piksel cinsinden alır veya ayarlar.
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Bulanıklık değerini piksel cinsinden alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
 Bulanıklık değerini piksel cinsinden alır veya ayarlar.
@@ -14,14 +15,14 @@ Bulanıklık değerini piksel cinsinden alır veya ayarlar.
 public int Size { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Boyut.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.DateTime
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Tarih ve saati alır veya ayarlar.
+title: "TiffOptions.DateTime"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Tarih ve zamanı alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/datetime/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DateTime property
 
 Tarih ve saati alır veya ayarlar.
@@ -14,14 +15,14 @@ Tarih ve saati alır veya ayarlar.
 public string DateTime { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tarih ve saat.
+Tarih ve zaman.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

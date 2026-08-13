@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings mülk. İzin verilen minimum niceleme değerini alır.
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings property. İzin verilen minimum kantizasyon değerini alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-İzin verilen minimum niceleme değerini alır.
+Alır izin verilen minimum kantizasyon değerini.
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İzin verilen minimum minimum niceleme değeri.
+İzin verilen minimum minimum kantizasyon değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

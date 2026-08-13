@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Harfleri birbirine bağlamak için kullanılan standart bağlamsal bitişik harfler.
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Harfleri birleştirmek için kullanılan standart bağlam ligatürleri"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-Harfleri birbirine bağlamak için kullanılan standart bağlamsal bitişik harfler.
+Harfleri birleştirmek için kullanılan standart bağlamsal ligatürler.
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

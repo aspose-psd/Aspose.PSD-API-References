@@ -1,28 +1,29 @@
 ---
-title: XmpRdfRoot.RegisterNamespaceUri
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRdfRoot yöntem. Önek ile ad alanı uri ekler. Önek xmlns. olmadan başlayabilir
+title: "XmpRdfRoot.RegisterNamespaceUri"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRdfRoot yöntemi. Önek ile ad alanı URI'si ekler. Önek xmlns olmadan başlayabilir"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmprdfroot/registernamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.RegisterNamespaceUri method
 
-Önek ile ad alanı uri ekler. Önek, xmlns. olmadan başlayabilir
+Önek ile ad alanı URI'sı ekler. Önek xmlns olmadan başlayabilir.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| prefix | String | önek |
-| namespaceUri | String | Paket şeması uri. |
+| önek | String | Önek. |
+| namespaceUri | String | Paket şema uri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpRdfRoot](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmprdfroot/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

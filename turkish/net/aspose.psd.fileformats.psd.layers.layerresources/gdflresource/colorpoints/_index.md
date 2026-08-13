@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.ColorPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Renk noktalarını alır.
+title: "GdFlResource.ColorPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource özelliği. Renk noktalarını alır"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.ColorPoints property
 
 Renk noktalarını alır.
@@ -14,15 +15,15 @@ Renk noktalarını alır.
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk noktaları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

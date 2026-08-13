@@ -1,28 +1,29 @@
 ---
-title: LinearMulticolorGradientBrush.InterpolationColors
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearMulticolorGradientBrush mülk. Alır veya ayarlarColorBlend bu çok renkli bir doğrusal degradeyi tanımlar.
+title: "LinearMulticolorGradientBrush.InterpolationColors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearMulticolorGradientBrush özelliği. Çok renkli bir doğrusal degrade tanımlayan bir ColorBlend alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.brushes/linearmulticolorgradientbrush/interpolationcolors/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush.InterpolationColors property
 
-Alır veya ayarlar[`ColorBlend`](../../../aspose.psd/colorblend/) bu, çok renkli bir doğrusal degradeyi tanımlar.
+Çok renkli bir doğrusal degrade tanımlayan bir [`ColorBlend`](../../../aspose.psd/colorblend/) alır veya ayarlar.
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`ColorBlend`](../../../aspose.psd/colorblend/) bu, çok renkli bir doğrusal degradeyi tanımlar.
+Çok renkli bir doğrusal degrade tanımlayan bir [`ColorBlend`](../../../aspose.psd/colorblend/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

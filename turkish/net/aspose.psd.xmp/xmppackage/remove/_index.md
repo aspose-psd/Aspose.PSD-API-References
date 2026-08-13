@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.Remove
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. Belirtilen anahtarla değeri kaldırın.
+title: "XmpPackage.Remove"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. Belirtilen anahtara sahip değeri kaldırır"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
-Belirtilen anahtarla değeri kaldırın.
+Belirtilen anahtara sahip değeri kaldır.
 
 ```csharp
 public virtual bool Remove(string key)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Kaldırılan değerle tanımlanan anahtarın dize gösterimi. |
+| anahtar | String | Kaldırılan değer ile tanımlanan anahtarın dize temsili. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen anahtara sahip değer kaldırılmışsa true değerini döndürür.
+Belirtilen anahtara sahip değer kaldırıldıysa true döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

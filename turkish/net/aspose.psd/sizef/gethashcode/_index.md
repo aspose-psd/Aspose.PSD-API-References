@@ -1,27 +1,28 @@
 ---
-title: SizeF.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. Bunun için bir karma kod döndürürSizeyapı.
+title: "SizeF.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Bu Size yapısı için bir karma kodu döndürür."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/sizef/gethashcode/
 ---
+{{< psd/tize >}}
 ## SizeF.GetHashCode method
 
-Bunun için bir karma kod döndürür[`Size`](../../size/)yapı.
+Bu [`Size`](../../size/) yapısı için bir karma kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun için bir karma değeri belirten bir tamsayı değeri[`Size`](../../size/) yapı.
+Bu [`Size`](../../size/) yapısı için bir karma değeri belirten bir tam sayı değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

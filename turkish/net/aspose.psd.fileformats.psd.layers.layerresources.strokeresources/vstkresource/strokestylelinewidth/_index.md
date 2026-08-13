@@ -1,20 +1,21 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur çizgisi genişliğini alır veya ayarlar.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Stroke çizgi genişliğini alır veya ayarlar"
 type: docs
-weight: 160
+weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-Kontur çizgisi genişliğini alır veya ayarlar.
+Stroke satır genişliğini alır veya ayarlar.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, VstkResource kaynağının desteğini gösterir.
 
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

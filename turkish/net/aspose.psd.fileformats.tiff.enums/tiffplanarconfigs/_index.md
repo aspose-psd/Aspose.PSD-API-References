@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs Sıralama. Depolama organizasyonu. PLANARCONFIG etiketi için olası değerler.
+title: "Enum TiffPlanarConfigs"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Depolama organizasyonu. PLANARCONFIG etiketi için olası değerler"
 type: docs
-weight: 4130
+weight: 4630
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
 Depolama organizasyonu. PLANARCONFIG etiketi için olası değerler.
@@ -14,16 +15,16 @@ Depolama organizasyonu. PLANARCONFIG etiketi için olası değerler.
 public enum TiffPlanarConfigs : ushort
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Contiguous | `1` | Tek görüntü düzlemi. |
 | Separate | `2` | Ayrı veri düzlemleri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

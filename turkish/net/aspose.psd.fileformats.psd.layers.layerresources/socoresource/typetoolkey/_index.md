@@ -1,11 +1,12 @@
 ---
-title: SoCoResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: SoCoResource alan. Tip aracı bilgi anahtarı.
+title: "SoCoResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SoCoResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 80
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoCoResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoCoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: RectangleF.IntersectsWith
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. Bu dikdörtgenin şununla kesişip kesişmediğini belirlerrect .
+title: "RectangleF.IntersectsWith"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Bu dikdörtgenin rect ile kesişip kesişmediğini belirler"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd/rectanglef/intersectswith/
 ---
+{{< psd/tize >}}
 ## RectangleF.IntersectsWith method
 
-Bu dikdörtgenin şununla kesişip kesişmediğini belirler:*rect* .
+Bu dikdörtgenin *rect* ile kesişip kesişmediğini belirler.
 
 ```csharp
 public bool IntersectsWith(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | rect | RectangleF | Test edilecek dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Herhangi bir kesişme varsa, bu yöntem true değerini döndürür.
+Bu yöntem, herhangi bir kesişme varsa true döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

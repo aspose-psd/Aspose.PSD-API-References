@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Bunun mavi bileşen değerini alırColoryapı.
+title: "Color.B"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Bu Color yapısının mavi bileşen değerini alır."
 type: docs
 weight: 1470
 url: /tr/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-Bunun mavi bileşen değerini alır[`Color`](../)yapı.
+Bu [`Color`](../) yapısının mavi bileşen değerini alır.
 
 ```csharp
 public byte B { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun mavi bileşen değeri[`Color`](../).
+Bu [`Color`](../) yapısının mavi bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

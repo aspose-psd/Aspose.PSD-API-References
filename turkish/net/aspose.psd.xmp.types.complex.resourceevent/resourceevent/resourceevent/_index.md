@@ -1,23 +1,24 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceEvent inşaatçı. Default_Constructor
+title: "ResourceEvent.ResourceEvent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceEvent yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public ResourceEvent()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceEvent](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

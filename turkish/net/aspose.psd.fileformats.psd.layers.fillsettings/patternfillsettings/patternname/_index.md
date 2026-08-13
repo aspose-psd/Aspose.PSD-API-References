@@ -1,27 +1,28 @@
 ---
-title: PatternFillSettings.PatternName
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings mülk. Modelin adını alır veya ayarlar.
+title: "PatternFillSettings.PatternName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings özelliği. Desenin adını alır veya ayarlar"
 type: docs
-weight: 90
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternName property
 
-Modelin adını alır veya ayarlar.
+Desenin adını alır veya ayarlar.
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Modelin adı.
+Desenin adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

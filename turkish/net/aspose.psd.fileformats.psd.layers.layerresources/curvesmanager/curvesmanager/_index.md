@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.CurvesManager
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesManager inşaatçı. Yeni bir örneğini başlatır.CurvesManager sınıf.
+title: "CurvesManager.CurvesManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesManager yapıcı. CurvesManager sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager constructor
 
-Yeni bir örneğini başlatır.[`CurvesManager`](../) sınıf.
+[`CurvesManager`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CurvesManager(int maxChannelCount)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | maxChannelCount | Int32 | Maksimum kanal sayısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

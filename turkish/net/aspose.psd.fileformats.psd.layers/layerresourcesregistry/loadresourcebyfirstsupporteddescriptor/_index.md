@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerResourcesRegistry yöntem. YüklerLayerResource belirtilene uygun ilk bulunan açıcıyı kullanmakstream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerResourcesRegistry yöntemi. Belirtilen akış için uygun bulunan ilk açıcıyı kullanarak LayerResource'ı yükler"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Yükler[`LayerResource`](../../layerresource/) belirtilene uygun ilk bulunan açıcıyı kullanmak*stream* .
+Belirtilen *stream* için uygun bulunan ilk açıcıyı kullanarak [`LayerResource`](../../layerresource/) yükler.
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Akış. |
-| psdVersion | Int32 | PSD versiyonu. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yüklenen[`LayerResource`](../../layerresource/) veya açıcı bulunamazsa null.
+Yüklenen [`LayerResource`](../../layerresource/) veya açıcı bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
 İlk açıcı aslında son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

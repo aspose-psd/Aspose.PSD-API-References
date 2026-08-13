@@ -1,27 +1,28 @@
 ---
-title: LayerGroupInformationResource.MinimalVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroupInformationResource mülk. Gereken minimum PSD sürümünü alır.
+title: "LayerGroupInformationResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroupInformationResource özelliği. Gereken minimum PSD sürümünü alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource.MinimalVersion property
 
-Gereken minimum PSD sürümünü alır.
+Gerekli minimum PSD sürümünü alır.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Minimum PSD sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerGroupInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

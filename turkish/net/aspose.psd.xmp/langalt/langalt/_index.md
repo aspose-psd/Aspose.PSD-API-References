@@ -1,43 +1,44 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD for .NET API Referansı
-description: LangAlt inşaatçı. Yeni bir örneğini başlatır.LangAlt sınıf.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LangAlt yapıcı. LangAlt sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LangAlt`](../) sınıf.
+[`LangAlt`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LangAlt(string defaultValue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | defaultValue | String | Varsayılan değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../)
-* ad alanı [Aspose.PSD.Xmp](../../langalt/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-Yeni bir örneğini başlatır.[`LangAlt`](../) sınıf.
+[`LangAlt`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LangAlt()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../)
-* ad alanı [Aspose.PSD.Xmp](../../langalt/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

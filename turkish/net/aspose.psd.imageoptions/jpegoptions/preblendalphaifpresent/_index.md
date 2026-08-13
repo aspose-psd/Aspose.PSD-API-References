@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Alfa kanalı varsa kırmızı yeşil ve mavi bileşenlerin bir arka plan rengiyle karıştırılıp karıştırılmayacağını belirten bir değer alır veya ayarlar.
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. Alfa kanalı mevcutsa kırmızı, yeşil ve mavi bileşenlerin bir arka plan rengiyle karıştırılıp karıştırılmayacağını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-Alfa kanalı varsa kırmızı, yeşil ve mavi bileşenlerin bir arka plan rengiyle karıştırılıp karıştırılmayacağını belirten bir değer alır veya ayarlar.
+Alfa kanalı mevcutsa, kırmızı, yeşil ve mavi bileşenlerin arka plan rengiyle karıştırılıp karıştırılmayacağını belirten bir değeri alır veya ayarlar.
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

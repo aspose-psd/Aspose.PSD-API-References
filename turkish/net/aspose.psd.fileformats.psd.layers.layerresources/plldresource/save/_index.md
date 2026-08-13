@@ -1,25 +1,26 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: PlLdResource yöntem. PlLD kaynağını belirtilen akış kapsayıcısına kaydeder.
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlLdResource metodu. PlLD kaynağını belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 50
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-PlLD kaynağını belirtilen akış kapsayıcısına kaydeder.
+PlLD kaynağını belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, PlLdResource kaynağının desteğini gösterir.
 
@@ -203,15 +204,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -224,11 +225,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

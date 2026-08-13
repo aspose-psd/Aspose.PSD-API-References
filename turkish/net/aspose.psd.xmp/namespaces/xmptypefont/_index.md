@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Aspose.PSD for .NET API Referansı
-description: Namespaces alan. XMP Yazı tipi türü.
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespaces alanı. XMP Yazı tipi"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-XMP Yazı tipi türü.
+XMP Font türü.
 
 ```csharp
 public const string XmpTypeFont;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Namespaces](../)
-* ad alanı [Aspose.PSD.Xmp](../../namespaces/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffExifIfd mülk. İşaretçiyi EXIF IFDye getirir veya ayarlar.
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffExifIfd özelliği. EXIF IFD'ye işaretçiyi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-İşaretçiyi EXIF IFD'ye getirir veya ayarlar.
+EXIF IFD'ye işaretçiyi alır veya ayarlar.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-EXIF IFD işaretçisi.
+EXIF IFD'ye işaretçi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | EXIF IFD'ye işaretçi yok. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffExifIfd](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

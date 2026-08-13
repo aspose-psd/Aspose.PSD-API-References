@@ -1,36 +1,37 @@
 ---
-title: Class DitheringMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Dithering.DitheringMode sınıf. Kaydettikten sonra görüntüye uygulanacak renk taklidi ayarları.
+title: "Sınıf DitheringMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Dithering.DitheringMode sınıfı. Kaydedilirken görüntüye uygulanacak dithering ayarları"
 type: docs
-weight: 760
+weight: 770
 url: /tr/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-Kaydettikten sonra görüntüye uygulanacak renk taklidi ayarları.
+Kaydedilirken görüntüye uygulanacak titreme ayarları.
 
 ```csharp
 public class DitheringMode
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DitheringMode](ditheringmode/)() | Default_Constructor |
+| [DitheringMode](ditheringmode/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Titreşimli görüntünün örnekleme faktörü. |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Renk taklidi için özel palet. |
-| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Taklit algoritma seçimi. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Dither uygulanmış görüntünün örnekleme faktörü. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Dithering için özel palet. |
+| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Dithering algoritması seçimi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

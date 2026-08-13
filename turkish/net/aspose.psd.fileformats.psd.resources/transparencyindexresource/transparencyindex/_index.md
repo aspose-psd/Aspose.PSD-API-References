@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.TransparencyIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: TransparencyIndexResource mülk. Saydamlık renk indeksini alır veya ayarlar.
+title: "TransparencyIndexResource.TransparencyIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TransparencyIndexResource özelliği. Şeffaflık renk indeksini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindex/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.TransparencyIndex property
 
-Saydamlık renk indeksini alır veya ayarlar.
+Şeffaflık renk indeksini alır veya ayarlar.
 
 ```csharp
 public short TransparencyIndex { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeffaflık renk indeksi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TransparencyIndexResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

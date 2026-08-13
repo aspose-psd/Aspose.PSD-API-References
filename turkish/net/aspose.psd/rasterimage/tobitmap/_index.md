@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ToBitmap
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Raster görüntüyü bitmape dönüştürür.
+title: "RasterImage.ToBitmap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Raster görüntüyü bitmap'e dönüştürür"
 type: docs
-weight: 580
+weight: 600
 url: /tr/net/aspose.psd/rasterimage/tobitmap/
 ---
+{{< psd/tize >}}
 ## RasterImage.ToBitmap method
 
 Raster görüntüyü bitmap'e dönüştürür.
@@ -14,14 +15,14 @@ Raster görüntüyü bitmap'e dönüştürür.
 public virtual Bitmap ToBitmap()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bit eşlem
+Bitmap
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

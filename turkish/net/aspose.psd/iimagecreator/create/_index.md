@@ -1,38 +1,39 @@
 ---
-title: IImageCreator.Create
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageCreator yöntem. İle yeni bir görüntü örneği oluştururimageOptions .
+title: "IImageCreator.Create"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageCreator yöntemi. imageOptions ile yeni bir görüntü örneği oluşturur"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-İle yeni bir görüntü örneği oluşturur*imageOptions* .
+*imageOptions* ile yeni bir görüntü örneği oluşturur.
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
     int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Görüntü verilerinin oluşturulacağı akış kapsayıcısı. |
+| streamContainer | StreamContainer | Görüntü verisinin oluşturulacağı akış konteyneri. |
 | imageOptions | ImageOptionsBase | Görüntü seçenekleri. |
 | width | Int32 | yeni görüntünün genişliği |
 | height | Int32 | yeni görüntünün yüksekliği |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni bir resim örneği.
+Yeni bir görüntü örneği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* ad alanı [Aspose.PSD](../../iimagecreator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

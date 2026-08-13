@@ -1,27 +1,28 @@
 ---
-title: Color.ToArgb
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. Bunun 32 bitlik ARGB değerini alır.Coloryapı.
+title: "Color.ToArgb"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. Bu Color yapısının 32 bit ARGB değerini alır."
 type: docs
 weight: 1590
 url: /tr/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-Bunun 32 bitlik ARGB değerini alır.[`Color`](../)yapı.
+Bu [`Color`](../) yapısının 32 bit ARGB değerini alır.
 
 ```csharp
 public int ToArgb()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun 32 bitlik ARGB değeri[`Color`](../).
+Bu [`Color`](../) yapısının 32 bit ARGB değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

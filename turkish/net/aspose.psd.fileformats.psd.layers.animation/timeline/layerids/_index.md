@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LayerIds
-second_title: Aspose.PSD for .NET API Referansı
-description: TimeLine mülk. Katman kimliği dizisini alır veya ayarlar.
+title: "TimeLine.LayerIds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TimeLine özelliği. Katman kimlikleri dizisini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/timeline/layerids/
 ---
+{{< psd/tize >}}
 ## TimeLine.LayerIds property
 
-Katman kimliği dizisini alır veya ayarlar.
+Katman kimlikleri dizisini alır veya ayarlar.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TimeLine](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

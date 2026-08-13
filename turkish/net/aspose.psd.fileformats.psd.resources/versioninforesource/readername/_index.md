@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.ReaderName
-second_title: Aspose.PSD for .NET API Referansı
-description: VersionInfoResource mülk. Okuyucunun adını alır veya ayarlar.
+title: "VersionInfoResource.ReaderName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VersionInfoResource property. Okuyucunun adını alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.resources/versioninforesource/readername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.ReaderName property
 
 Okuyucunun adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Okuyucunun adını alır veya ayarlar.
 public string ReaderName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Okuyucunun adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VersionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Genişliği alır veya ayarlar.
+title: "SmartObjectResource.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Genişliği alır veya ayarlar"
 type: docs
-weight: 250
+weight: 230
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Width property
 
 Genişliği alır veya ayarlar.
@@ -14,14 +15,14 @@ Genişliği alır veya ayarlar.
 public double Width { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Genişlik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum TiffFillOrders
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders Sıralama. Bir bayt içinde veri sırası. FILLORDER etiketi için olası değerler.
+title: "Enum TiffFillOrders"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders enum. Bir bayt içindeki veri sırası. FILLORDER etiketi için olası değerler"
 type: docs
-weight: 4090
+weight: 4590
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tifffillorders/
 ---
+{{< psd/tize >}}
 ## TiffFillOrders enumeration
 
-Bir bayt içinde veri sırası. FILLORDER etiketi için olası değerler.
+Bir bayt içindeki veri sırası. FILLORDER etiketi için olası değerler.
 
 ```csharp
 public enum TiffFillOrders : ushort
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Msb2Lsb | `1` | En önemli -&gt; en az. |
-| Lsb2Msb | `2` | En önemsiz -&gt; en çok. |
+| Msb2Lsb | `1` | En anlamlı -> en az anlamlı. |
+| Lsb2Msb | `2` | En az anlamlı -> en anlamlı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

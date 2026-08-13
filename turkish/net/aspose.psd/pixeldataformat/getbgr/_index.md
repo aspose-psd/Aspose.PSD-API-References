@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetBgr
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile BGR rengini alır.
+title: "PixelDataFormat.GetBgr"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Örnek başına belirtilen bit sayısıyla BGR rengini alır."
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/pixeldataformat/getbgr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetBgr method
 
-Örnek başına belirtilen sayıda bit ile BGR rengini alır.
+Örnek başına belirtilen bit sayısıyla BGR rengini alır.
 
 ```csharp
 public static PixelDataFormat GetBgr(int bitsPerSample)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 BGR rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

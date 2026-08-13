@@ -1,51 +1,52 @@
 ---
-title: Pen.TranslateTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen yöntem. Yerel geometrik dönüşümü belirtilen boyutlara çevirir. Bu yöntem çeviriyi dönüşümün başına ekler.
+title: "Pen.TranslateTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen yöntemi. Yerel geometrik dönüşümü belirtilen boyutlarla çevirir. Bu yöntem dönüşüme çeviriyi ön ekler."
 type: docs
 weight: 240
 url: /tr/net/aspose.psd/pen/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-Yerel geometrik dönüşümü belirtilen boyutlara çevirir. Bu yöntem, çeviriyi dönüşümün başına ekler.
+Yerel geometrik dönüşümü belirtilen boyutlarla çevirir. Bu yöntem dönüşüme çevirme işlemini ön ekler.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dx | Single | Çevirinin x cinsinden değeri. |
-| dy | Single | y cinsinden ötelemenin değeri. |
+| dx | Single | x eksenindeki çevirimin değeri. |
+| dy | Single | y eksenindeki çevirimin değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-Belirtilen sırada belirtilen boyutlara göre yerel geometrik dönüşümü çevirir.
+Yerel geometrik dönüşümü belirtilen boyutlarla belirtilen sırada çevirir.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dx | Single | Çevirinin x cinsinden değeri. |
-| dy | Single | y cinsinden ötelemenin değeri. |
-| order | MatrixOrder | Çevirinin uygulanacağı sıra (başına veya sonuna ekleyin). |
+| dx | Single | x eksenindeki çevirimin değeri. |
+| dy | Single | y eksenindeki çevirimin değeri. |
+| order | MatrixOrder | Çevirimin uygulanacağı sıra (ön ekleme veya ekleme). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

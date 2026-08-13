@@ -1,49 +1,51 @@
 ---
-title: Class VectorShapeOriginSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings sınıf. Vektör şekli oluşturma ayarları.
+title: "Sınıf VectorShapeOriginSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings sınıfı. Vektör şekil başlangıç ayarları"
 type: docs
-weight: 1440
+weight: 1450
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings class
 
-Vektör şekli oluşturma ayarları.
+Vektör şeklinin oluşum ayarları.
 
 ```csharp
 public sealed class VectorShapeOriginSettings
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Yeni bir örneğini başlatır.`VectorShapeOriginSettings` sınıf. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | `VectorShapeOriginSettings` sınıfının yeni bir örneğini başlatır. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor_1)(bool, int) | `VectorShapeOriginSettings` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Bu örneğin kaynak kutu köşeleri özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Bu örneğin kaynak dizin özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Bu örneğin, orijin yarıçapı dikdörtgen özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Bu örneğin kaynak çözümleme özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Bu örneğin dikdörtgen özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Bu örneğin kaynak tipi özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Şeklin geçersiz olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Bu örneğin geçersiz kılınan bir özellik setine sahip olup olmadığını gösteren bir değer alır. |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Bu örneğin orijin kutusu köşeleri özelliğine sahip olup olmadığını gösteren bir değeri alır. |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Bu örneğin origin index özelliğine sahip olup olmadığını gösteren bir değer alır. |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Bu örneğin origin radii rectangle özelliğine sahip olup olmadığını gösteren bir değer alır. |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Bu örneğin origin resolution özelliğine sahip olup olmadığını gösteren bir değer alır. |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Bu örneğin rectangle özelliğine sahip olup olmadığını gösteren bir değer alır. |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Bu örneğin origin type özelliğine sahip olup olmadığını gösteren bir değer alır. |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Şeklin geçersiz olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Bu örneğin shape invalidated özelliği ayarına sahip olup olmadığını gösteren bir değer alır. |
 | [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Bu örneğin transform özelliğine sahip olup olmadığını gösteren bir değer alır. |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Başlangıç kutusu köşelerini alır veya ayarlar. |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Başlangıç şekli indeksini alır veya ayarlar. |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Başlangıç yarıçapı dikdörtgenini alır veya ayarlar. |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Başlangıç çözünürlüğünü alır veya ayarlar. |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Başlangıç şekli sınırlama kutusunu alır veya ayarlar. |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Kaynağın türünü alır veya ayarlar. |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Dönüşüm matrisini alır veya ayarlar. |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | origin box köşelerini alır veya ayarlar. |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | origin shape indeksini alır veya ayarlar. |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | origin radii rectangle'ı alır veya ayarlar. |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | origin resolution'ı alır veya ayarlar. |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | origin shape sınırlayıcı kutusunu alır veya ayarlar. |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | origin tipini alır veya ayarlar. |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | dönüşüm matrisini alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VogkResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, VogkResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -86,7 +88,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // düzenleme
+    // Düzenleme
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -97,9 +99,9 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

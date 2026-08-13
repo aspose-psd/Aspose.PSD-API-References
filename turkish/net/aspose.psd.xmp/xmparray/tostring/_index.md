@@ -1,27 +1,28 @@
 ---
-title: XmpArray.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpArray yöntem. a döndürürString bu örneği temsil eder.
+title: "XmpArray.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpArray yöntemi. Bu örneği temsil eden bir dize döndürür"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp/xmparray/tostring/
 ---
+{{< psd/tize >}}
 ## XmpArray.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpArray](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmparray/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

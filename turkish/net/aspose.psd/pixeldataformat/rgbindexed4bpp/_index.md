@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed4Bpp
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Şunu alırPixelDataFormat renk başına dizine alınmış 4 bit için tanımlanmıştır. Dizine alınmış piksel veri depolaması renk paletinin kullanıldığı her yerde veri depolamaya ve almaya izin vermek için tasarlanmıştır. Bir paletten diğerine veya RGBAdan dizine alınmış renk modeline dönüştürme gerektirebileceğinden dikkatli kullanın .
+title: "PixelDataFormat.RgbIndexed4Bpp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Renk başına 4 bit indeksli tanımlanan PixelDataFormat'ı alır. İndeksli piksel veri depolama, renk paletinin kullanıldığı her yerde veri depolama ve geri almayı sağlamak için tasarlanmıştır. Dikkatli kullanın, çünkü bir paletten diğerine veya RGBA'dan indeksli renk modeline dönüşüm gerekebilir."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/pixeldataformat/rgbindexed4bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed4Bpp property
 
-Şunu alır:[`PixelDataFormat`](../) renk başına dizine alınmış 4 bit için tanımlanmıştır. Dizine alınmış piksel veri depolaması, renk paletinin kullanıldığı her yerde veri depolamaya ve almaya izin vermek için tasarlanmıştır. Bir paletten diğerine veya RGBA'dan dizine alınmış renk modeline dönüştürme gerektirebileceğinden dikkatli kullanın .
+Renk başına 4 bit indeksli tanımlanan [`PixelDataFormat`](../)'ı alır. İndeksli piksel veri depolama, renk paletinin kullanıldığı her yerde veri depolama ve geri almayı sağlamak için tasarlanmıştır. Dikkatli kullanın, çünkü bir paletten diğerine veya RGBA'dan indeksli renk modeline dönüşüm gerekebilir.
 
 ```csharp
 public static PixelDataFormat RgbIndexed4Bpp { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`PixelDataFormat`](../) renk başına dizinlenmiş 4 bit için tanımlandı.
+Renk başına 4 bit indeksli tanımlanan [`PixelDataFormat`](../)'dır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

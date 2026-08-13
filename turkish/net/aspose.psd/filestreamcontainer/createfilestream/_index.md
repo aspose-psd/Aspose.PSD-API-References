@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: Aspose.PSD for .NET API Referansı
-description: FileStreamContainer yöntem. Yeni bir dosya akışı oluşturur.
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileStreamContainer yöntemi. Yeni bir dosya akışı oluşturur."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
 Yeni bir dosya akışı oluşturur.
@@ -14,19 +15,19 @@ Yeni bir dosya akışı oluşturur.
 public static FileStreamContainer CreateFileStream(string fileLocation, bool isTemporal)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fileLocation | String | Dosya konumu. |
-| isTemporal | Boolean | olarak ayarlanırsa`doğru` dosya akışı kabı geçicidir. |
+| isTemporal | Boolean | Eğer `true` olarak ayarlanırsa dosya akış kapsayıcısı geçicidir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dosya akışı kabı.
+Dosya akış kapsayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileStreamContainer](../)
-* ad alanı [Aspose.PSD](../../filestreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Küçük resim verilerini alır veya ayarlar.
+title: "ThumbnailResource.ThumbnailData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Küçük resim verisini alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailData property
 
-Küçük resim verilerini alır veya ayarlar.
+Küçük resim verisini alır veya ayarlar.
 
 ```csharp
 public Color[] ThumbnailData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Küçük resim verileri.
+Küçük resim verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VOrder
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD dosyasındaki yerleştirilmiş katmanın V sıra değerini alır veya ayarlar.
+title: "PlacedResource.VOrder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD dosyasındaki V sıra değerini alır veya ayarlar"
 type: docs
-weight: 240
+weight: 230
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VOrder property
 
-PSD dosyasındaki yerleştirilmiş katmanın V sıra değerini alır veya ayarlar.
+Yerleştirilen katmanın PSD dosyasındaki V sıra değerini alır veya ayarlar.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın V sıra değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

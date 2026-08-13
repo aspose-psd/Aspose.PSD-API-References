@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.Distribution
-second_title: Aspose.PSD for .NET API Referansı
-description: AddNoiseSmartFilter mülk. Gürültü filtresinin dağıtımını alır veya ayarlar.
+title: "AddNoiseSmartFilter.Distribution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AddNoiseSmartFilter özelliği. Gürültü filtresinin dağılımını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Distribution property
 
-Gürültü filtresinin dağıtımını alır veya ayarlar.
+Gürültü filtresinin dağılımını alır veya ayarlar.
 
 ```csharp
 public NoiseDistribution Distribution { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [NoiseDistribution](../../noisedistribution/)
 * class [AddNoiseSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

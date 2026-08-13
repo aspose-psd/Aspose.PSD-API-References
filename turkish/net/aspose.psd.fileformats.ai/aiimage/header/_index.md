@@ -1,11 +1,12 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Başlığı alır.
+title: "AiImage.Header"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Başlığı alır"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
 Başlığı alır.
@@ -14,15 +15,15 @@ Başlığı alır.
 public AiHeader Header { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Başlık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Geçerli etiket sayısını alır. Bu toplam etiket sayısı değil korunabilecek etiketlerin sayısıdır.
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Geçerli etiket sayısını alır. Bu, toplam etiket sayısı değil, korunabilecek etiketlerin sayısıdır."
 type: docs
-weight: 570
+weight: 580
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
 Geçerli etiket sayısını alır. Bu, toplam etiket sayısı değil, korunabilecek etiketlerin sayısıdır.
@@ -14,14 +15,14 @@ Geçerli etiket sayısını alır. Bu, toplam etiket sayısı değil, korunabile
 public int ValidTagCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Geçerli etiket sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

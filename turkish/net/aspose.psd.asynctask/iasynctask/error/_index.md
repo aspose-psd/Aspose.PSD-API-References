@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Error
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTask mülk. Görev tamamlandıktan sonra mevcut olan görev hatasını alır.
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTask özelliği. Görev tamamlandıktan sonra mevcut olan görev hatasını alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
 Görev tamamlandıktan sonra mevcut olan görev hatasını alır.
@@ -14,14 +15,14 @@ Görev tamamlandıktan sonra mevcut olan görev hatasını alır.
 public Exception Error { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görev hatası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

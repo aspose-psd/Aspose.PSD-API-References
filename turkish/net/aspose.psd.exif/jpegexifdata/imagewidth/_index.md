@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Görüntü genişliğini alır veya ayarlar.
+title: "JpegExifData.ImageWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Görüntü genişliğini alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.exif/jpegexifdata/imagewidth/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageWidth property
 
 Görüntü genişliğini alır veya ayarlar.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır veya ayarlar.
 public uint ImageWidth { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Resmin genişliği.
+Görüntünün genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

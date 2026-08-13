@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolLineInfo mülk. Karakteri alır veya ayarlar.
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolLineInfo özelliği. char değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-Karakteri alır veya ayarlar.
+char değerini alır veya ayarlar.
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Karakter.
+Bu char.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolLineInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

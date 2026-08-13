@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGenre
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Türü ayarlar.
+title: "XmpDynamicMediaPackage.SetGenre"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Türü ayarlar"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGenre method
 
 Türü ayarlar.
@@ -14,14 +15,14 @@ Türü ayarlar.
 public void SetGenre(string genre)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| genre | String | Tarz. |
+| genre | String | Tür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

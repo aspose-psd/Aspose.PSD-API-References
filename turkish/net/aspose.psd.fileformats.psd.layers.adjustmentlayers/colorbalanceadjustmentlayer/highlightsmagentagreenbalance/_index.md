@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBalanceAdjustmentLayer mülk. Vurgulu Macenta Yeşil Dengesini alır veya ayarlar.
+title: "ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBalanceAdjustmentLayer özelliği. Vurgular Magenta Yeşil Dengesini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance property
 
-Vurgulu Macenta Yeşil Dengesini alır veya ayarlar.
+Vurguların Magenta Yeşil Dengesini alır veya ayarlar.
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Öne Çıkanlar Macenta Yeşil Dengesi.
+Vurgular Magenta Yeşil Dengesi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Önemli Noktalar Macenta Yeşil Dengesi -100 ila +100. aralığında olmalıdır. |
+| ArgumentOutOfRangeException | Vurgular Magenta Yeşil Dengesi -100 ile +100 arasında olmalıdır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, ColorBalanceAdjustmentLayer için desteği gösterir.
+Aşağıdaki kod, ColorBalanceAdjustmentLayer desteğini gösterir.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

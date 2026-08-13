@@ -1,28 +1,29 @@
 ---
-title: Class XmpArrayHelper
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.XmpArrayHelper sınıf. RDF mantık işlemek için yardımcı sınıf
+title: "Sınıf XmpArrayHelper"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.XmpArrayHelper sınıfı. RDF mantığını işlemek için yardımcı sınıf"
 type: docs
-weight: 6220
+weight: 6750
 url: /tr/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-RDF mantık işlemek için yardımcı sınıf
+RDF mantığını işlemek için yardımcı sınıf.
 
 ```csharp
 public static class XmpArrayHelper
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Belirli bir RDF kodunu alır[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Belirli [`XmpArrayType`](../xmparraytype/) için RDF kodunu alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

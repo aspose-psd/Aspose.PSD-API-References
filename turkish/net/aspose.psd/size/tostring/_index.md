@@ -1,27 +1,28 @@
 ---
-title: Size.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Bunu temsil eden insanlar tarafından okunabilir bir dize oluşturur.Size .
+title: "Size.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Bu Size'ı temsil eden insan tarafından okunabilir bir dize oluşturur."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-Bunu temsil eden insanlar tarafından okunabilir bir dize oluşturur.[`Size`](../) .
+Bu [`Size`](../) öğesini temsil eden insan tarafından okunabilir bir dize oluşturur.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunu temsil eden bir dize[`Size`](../).
+Bu [`Size`](../) öğesini temsil eden bir dize.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

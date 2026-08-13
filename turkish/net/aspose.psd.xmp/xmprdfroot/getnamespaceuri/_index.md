@@ -1,31 +1,32 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRdfRoot yöntem. Belirli öneke göre ad alanı URIsini alır. Önek xmlns. olmadan başlayabilir
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRdfRoot yöntemi. Belirli bir önek ile ad alanı URI'sini alır. Önek xmlns olmadan başlayabilir"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-Belirli öneke göre ad alanı URI'sini alır. Önek, xmlns. olmadan başlayabilir
+Belirli bir önek ile ad alanı URI'sını alır. Önek xmlns olmadan başlayabilir.
 
 ```csharp
 public string GetNamespaceUri(string prefix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| prefix | String | önek |
+| önek | String | Önek. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bir paket şeması URI'si döndürür.
+Bir paket şema URI'si döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpRdfRoot](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmprdfroot/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

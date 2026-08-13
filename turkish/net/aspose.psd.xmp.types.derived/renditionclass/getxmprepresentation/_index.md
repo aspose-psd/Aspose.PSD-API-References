@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: RenditionClass yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "RenditionClass.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RenditionClass yöntemi. XMP biçiminde içerilen dize değerini alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## RenditionClass.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RenditionClass](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

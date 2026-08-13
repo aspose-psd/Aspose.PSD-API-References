@@ -1,63 +1,64 @@
 ---
-title: Class PngOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.PngOptions sınıf. png dosya biçimi oluşturma seçenekleri.
+title: "Sınıf PngOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.PngOptions sınıfı. PNG dosya formatı oluşturma seçenekleri"
 type: docs
-weight: 4880
+weight: 5400
 url: /tr/net/aspose.psd.imageoptions/pngoptions/
 ---
+{{< psd/tize >}}
 ## PngOptions class
 
-png dosya biçimi oluşturma seçenekleri.
+The png dosya formatı oluşturma seçenekleri.
 
 ```csharp
 public class PngOptions : ImageOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PngOptions](pngoptions/#constructor)() | Yeni bir örneğini başlatır.`PngOptions` sınıf. |
-| [PngOptions](pngoptions/#constructor_1)(PngOptions) | Yeni bir örneğini başlatır.`PngOptions` sınıf. |
+| [PngOptions](pngoptions/#constructor)() | `PngOptions` sınıfının yeni bir örneğini başlatır. |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | `PngOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth/) { get; set; } | Bit derinliği. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar. |
-| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | Rengin türünü alır veya ayarlar. |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | 9'un maksimum sıkıştırma ve 0'ın depolama modu olduğu 0-9 aralığında png görüntü sıkıştırma düzeyi. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Varsayılan yedek yazı tipini alır veya ayarlar (PSD dosyasındaki mevcut katman yazı tipi sistemde sunulmuyorsa, taramaya dışa aktarırken metin çizmek için kullanılacak yazı tipi). Varsayılan yazı tipinin uygun adını almak için bir sonraki kod parçacığı kullanılabilir : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] familys = col.Families; string defaultFontName = familys[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | PNG dosyası kaydetme işlemi sırasında kullanılan filtre türünü alır veya ayarlar. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | [tam çerçeve]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar. |
+| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | Renk tipini alır veya ayarlar. |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | 0-9 aralığındaki PNG görüntü sıkıştırma seviyesi, burada 9 maksimum sıkıştırma ve 0 saklama modudur. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Varsayılan yedekleme yazı tipini alır veya ayarlar (rastera dışa aktarırken metin çizerken kullanılacak yazı tipi, eğer PSD dosyasındaki mevcut katman yazı tipi sistemde bulunmuyorsa). Varsayılan yazı tipinin doğru adını almak için aşağıdaki kod parçacığı kullanılabilir: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | PNG dosyası kaydetme işlemi sırasında kullanılan filtre tipini alır veya ayarlar. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Tam çerçeve olup olduğunu gösteren bir değeri alır veya ayarlar. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Çok sayfalı seçenekler |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Renk paletini alır veya ayarlar. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | İlerleme olay işleyicisini alır veya ayarlar. |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`PngOptions` aşamalıdır. |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | Bu `PngOptions`'ın ilerleyici olup olmadığını belirten bir değeri alır veya ayarlar. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Çözünürlük ayarlarını alır veya ayarlar. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | . içinde görüntü oluşturmak için kaynağı alır veya ayarlar |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Vektör tarama seçeneklerini alır veya ayarlar. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Görüntünün oluşturulacağı kaynağı alır veya ayarlar. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Vektör rasterleştirme seçeneklerini alır veya ayarlar. |
 | override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata/) { get; set; } | XMP meta veri kapsayıcısını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Bu örneği klonlar. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | Varsayılan sıkıştırma düzeyi. |
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | Varsayılan sıkıştırma seviyesi. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI dosyasını Aspose.PSD'de PSD ve PNG formatına nasıl aktarabileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde AI dosyasını PSD ve PNG formatına nasıl dışa aktarabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -71,32 +72,32 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Bu örnek, dışa aktarma amacıyla SaveOptions Ad Alanından farklı sınıfların kullanımını gösterir. Psd türünde bir görüntü, Image örneğine yüklenir ve ardından çeşitli formatlara dışa aktarılır.
+Bu örnek, dışa aktarma amaçları için SaveOptions ad alanındaki farklı sınıfların kullanımını gösterir. Psd türünde bir görüntü Image örneğine yüklenir ve ardından çeşitli formatlara dışa aktarılır.
 
 ```csharp
 [C#]
 
-//Mevcut bir görüntüyü Image sınıfının bir örneğine yükleyin
+//Image sınıfının bir örneğine mevcut bir görüntüyü yükle
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //Varsayılan seçenekleri kullanarak BMP dosya biçimine aktar
+    //Varsayılan seçenekleri kullanarak BMP dosya formatına dışa aktar
     image.Save(@"C:\temp\output.bmp", new Aspose.PSD.ImageOptions.BmpOptions());
 
-    //Varsayılan seçenekleri kullanarak JPEG dosya biçimine aktar
+    //Varsayılan seçenekleri kullanarak JPEG dosya formatına dışa aktar
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 
-    //Varsayılan seçenekleri kullanarak JPEG 2000 dosya biçimine aktarın
+    //Varsayılan seçenekleri kullanarak JPEG 2000 dosya formatına dışa aktar
     image.Save(@"C:\temp\output.jp2", new Aspose.PSD.ImageOptions.Jpeg2000Options());
 
-    //Varsayılan seçenekleri kullanarak PNG dosya biçimine aktar
+    //Varsayılan seçenekleri kullanarak PNG dosya formatına dışa aktar
     image.Save(@"C:\temp\output.png", new Aspose.PSD.ImageOptions.PngOptions());
 
-    //Varsayılan seçenekleri kullanarak TIFF dosya biçimine aktar
+    //Varsayılan seçenekleri kullanarak TIFF dosya formatına dışa aktar
     image.Save(@"c:\temp\output.tiff", new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default));
 }
 ```
 
-Aşağıdaki örnek, Aspose.PSD'de PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -137,7 +138,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -181,43 +182,43 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Bu örnek, Image yüzeyinde ilkel şekiller oluşturmak için Graphics sınıfını kullanır. İşlemi göstermek için örnek, PSD biçiminde yeni bir Görüntü oluşturur ve Graphics sınıfı tarafından sunulan Draw yöntemlerini kullanarak Görüntü yüzeyinde ilkel şekiller çizer ve ardından bunu PSD dosya biçimine dışa aktarır.
+Bu örnek, Image yüzeyinde temel şekiller oluşturmak için Graphics sınıfını kullanır. İşlemi göstermek için örnek, PSD formatında yeni bir Image oluşturur ve Graphics sınıfı tarafından sunulan Draw yöntemlerini kullanarak Image yüzeyinde temel şekiller çizer, ardından PSD dosya formatına dışa aktarır.
 
 ```csharp
 [C#]
 
-//Görüntünün bir örneğini oluştur 
+//Image sınıfının bir örneğini oluşturun.
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // Graphics sınıfının bir örneğini oluştur ve başlat
+    //Graphics sınıfının bir örneğini oluşturun ve başlatın.
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Grafik yüzeyini temizle
+    //Graphics yüzeyini temizleyin.
     graphics.Clear(Color.Wheat);
 
-    //Siyah renkli Kalem nesnesini belirterek bir Yay çizin, 
-    //Yay, Başlangıç Açısı ve Tarama Açısını çevreleyen bir Dikdörtgen
+    //Siyah renkli Pen nesnesini belirterek bir Yay çizin, 
+    //Yayı çevreleyen bir Dikdörtgen, Başlangıç Açısı ve Tarama Açısı
     graphics.DrawArc(new Pen(Color.Black, 2), new Rectangle(200, 200, 100, 200), 0, 300);
 
-    //Mavi renk ve koordinat Noktalarına sahip Kalem nesnesini belirterek bir Bezier çizin.
+    //Mavi renkli Pen nesnesini ve koordinat noktalarını belirterek bir Bezier çizin.
     graphics.DrawBezier(new Pen(Color.Blue, 2), new Point(250, 100), new Point(300, 30), new Point(450, 100), new Point(235, 25));
 
-    //Yeşil renge ve bir Nokta dizisine sahip Kalem nesnesini belirterek bir Eğri çizin
+    //Yeşil renkli Pen nesnesini ve bir dizi Nokta'yı belirterek bir Eğri çizin
     graphics.DrawCurve(new Pen(Color.Green, 2), new[] { new Point(100, 200), new Point(100, 350), new Point(200, 450) });
 
-    //Kalem nesnesini ve çevreleyen Dikdörtgeni kullanarak bir Elips çizin
+    //Pen nesnesini ve çevreleyen bir Dikdörtgeni kullanarak bir Elips çizin
     graphics.DrawEllipse(new Pen(Color.Yellow, 2), new Rectangle(300, 300, 100, 100));
 
-    //Bir çizgi çiz 
+    //Bir Çizgi çizin 
     graphics.DrawLine(new Pen(Color.Violet, 2), new Point(100, 100), new Point(200, 200));
 
-    //Pasta parçası çiz
+    //Bir Pasta dilimi çizin
     graphics.DrawPie(new Pen(Color.Silver, 2), new Rectangle(new Point(200, 20), new Size(200, 200)), 0, 45);
 
-    //Kırmızı renge ve Nokta dizisine sahip Kalem nesnesini belirterek bir Çokgen çizin
+    //Kırmızı renkli Pen nesnesini ve bir dizi Nokta'yı belirterek bir Çokgen çizin
     graphics.DrawPolygon(new Pen(Color.Red, 2), new[] { new Point(20, 100), new Point(20, 200), new Point(220, 20) });
 
-    //Dikdörtgen Çiz
+    //Bir Dikdörtgen çizin
     graphics.DrawRectangle(new Pen(Color.Orange, 2), new Rectangle(new Point(250, 250), new Size(100, 100)));
 
     //Bir SolidBrush nesnesi oluşturun ve çeşitli özelliklerini ayarlayın
@@ -225,10 +226,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     brush.Color = Color.Purple;
     brush.Opacity = 100;
 
-    //Belirli Noktada SolidBrush nesnesini ve Fontu kullanarak bir String çizin
+    //SolidBrush nesnesi ve Font kullanarak belirli bir Noktada bir Dize çizin
     graphics.DrawString("This image is created by Aspose.PSD API", new Font("Times New Roman", 16), brush, new PointF(50, 400));
 
-    //PngOptions örneğini oluşturun ve çeşitli özelliklerini ayarlayın
+    //PngOptions bir örneği oluşturun ve çeşitli özelliklerini ayarlayın
     Aspose.PSD.ImageOptions.PngOptions pngOptions = new Aspose.PSD.ImageOptions.PngOptions();
 
     // tüm değişiklikleri kaydet.
@@ -236,10 +237,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

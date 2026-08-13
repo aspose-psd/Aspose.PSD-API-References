@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Stereo
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioChannelType mülk. Stereo ses kanalını alır.
+title: "AudioChannelType.Stereo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioChannelType özelliği. Stereo ses kanalını alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
 Stereo ses kanalını alır.
@@ -14,14 +15,14 @@ Stereo ses kanalını alır.
 public static AudioChannelType Stereo { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Stereo ses kanalı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

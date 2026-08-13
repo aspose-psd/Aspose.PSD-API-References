@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Görüntünün döşenip döşenmediğini gösteren bir değer alır.
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Görüntünün döşenip döşenmediğini gösteren bir değeri alır"
 type: docs
-weight: 240
+weight: 250
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-Görüntünün döşenip döşenmediğini gösteren bir değer alır.
+Görüntünün döşeli olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru`görüntü döşenirse; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü döşenmişse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

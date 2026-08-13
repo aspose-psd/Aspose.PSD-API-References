@@ -1,28 +1,29 @@
 ---
-title: PsdImageResourceException.Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImageResourceException mülk. Bu istisnaya neden olan psd kaynağını alır.
+title: "PsdImageResourceException.Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImageResourceException özelliği. Bu istisnaya neden olan psd kaynağını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException.Resource property
 
-Bu istisnaya neden olan psd kaynağını alır.
+Bu istisna neden olan psd kaynağını alır.
 
 ```csharp
 public ResourceBlock Resource { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

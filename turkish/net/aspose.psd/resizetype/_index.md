@@ -1,44 +1,45 @@
 ---
-title: Enum ResizeType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ResizeType Sıralama. Yeniden boyutlandırma türünü belirtir.
+title: "Enum ResizeType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ResizeType enum. Yeniden boyutlandırma tipini belirtir."
 type: docs
-weight: 5370
+weight: 5900
 url: /tr/net/aspose.psd/resizetype/
 ---
+{{< psd/tize >}}
 ## ResizeType enumeration
 
-Yeniden boyutlandırma türünü belirtir.
+Yeniden boyutlandırma tipini belirtir.
 
 ```csharp
 public enum ResizeType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | None | `0` | Yeniden boyutlandırma işlemi sırasında pikseller korunmaz. |
-| LeftTopToLeftTop | `1` | Yeni görüntünün sol üst noktası, orijinal görüntünün sol üst noktasıyla çakışacaktır. Gerekirse kırpma gerçekleşir. |
-| RightTopToRightTop | `2` | Yeni görüntünün sağ üst noktası, orijinal görüntünün sağ üst noktasıyla çakışacaktır. Gerekirse kırpma gerçekleşir. |
-| RightBottomToRightBottom | `3` | Yeni görüntünün sağ alt noktası, orijinal görüntünün sağ alt noktasıyla çakışacaktır. Gerekirse kırpma gerçekleşir. |
-| LeftBottomToLeftBottom | `4` | Yeni görüntünün sol alt noktası, orijinal görüntünün sol alt noktasıyla çakışacaktır. Gerekirse kırpma gerçekleşir. |
-| CenterToCenter | `5` | Yeni görüntünün merkezi, orijinal görüntünün merkeziyle çakışacaktır. Gerekirse kırpma gerçekleşir. |
-| LanczosResample | `6` | a=3. ile lanczos algoritmasını kullanarak yeniden örnekleme |
-| NearestNeighbourResample | `7` | En yakın komşu algoritmasını kullanarak yeniden örnekleme. |
-| AdaptiveResample | `8` | Ağırlıklı ve harmanlanmış rasyonel işleve ve lanczos3 enterpolasyon algoritmalarına dayalı uyarlamalı algoritma kullanarak yeniden örnekleme. |
-| BilinearResample | `9` | Bilineer enterpolasyon kullanarak yeniden örnekleme. Gerektiğinde yeniden örneklemeden önce gürültüyü gidermek için görüntü ön filtrelemesine izin verilir |
+| LeftTopToLeftTop | `1` | Yeni görüntünün sol üst noktası, orijinal görüntünün sol üst noktasıyla aynı olacaktır. Gerekirse kırpma gerçekleşir. |
+| RightTopToRightTop | `2` | Yeni görüntünün sağ üst noktası, orijinal görüntünün sağ üst noktasıyla aynı olacaktır. Gerekirse kırpma gerçekleşir. |
+| RightBottomToRightBottom | `3` | Yeni görüntünün sağ alt noktası, orijinal görüntünün sağ alt noktasıyla aynı olacaktır. Gerekirse kırpma gerçekleşir. |
+| LeftBottomToLeftBottom | `4` | Yeni görüntünün sol alt noktası, orijinal görüntünün sol alt noktasıyla aynı konumda olacaktır. Gerekirse kırpma yapılacaktır. |
+| CenterToCenter | `5` | Yeni görüntünün merkezi, orijinal görüntünün merkeziyle aynı konumda olacaktır. Gerekirse kırpma yapılacaktır. |
+| LanczosResample | `6` | a=3 ile lanczos algoritması kullanılarak yeniden örnekleme yapılır. |
+| NearestNeighbourResample | `7` | En yakın komşu algoritması kullanılarak yeniden örnekleme yapılır. |
+| AdaptiveResample | `8` | Ağırlıklı ve karıştırılmış rasyonel fonksiyon ve lanczos3 interpolasyon algoritmalarına dayalı uyarlamalı algoritma kullanılarak yeniden örnekleme yapılır. |
+| BilinearResample | `9` | Bilinear interpolasyon kullanılarak yeniden örnekleme yapılır. Gerektiğinde yeniden örneklemeden önce gürültüyü kaldırmak için görüntü ön filtrelemesine izin verilir. |
 | HighQualityResample | `10` | Yüksek kaliteli yeniden örnekleme |
-| CatmullRom | `11` | Catmull-Rom kübik enterpolasyon yöntemi. |
-| CubicConvolution | `12` | Kübik Evrişim enterpolasyon yöntemi |
-| CubicBSpline | `13` | CubicBSpline kübik enterpolasyon yöntemi |
-| Mitchell | `14` | Mitchell kübik enterpolasyon yöntemi |
-| SinC | `15` | Sinc (Lanczos3) kübik enterpolasyon yöntemi |
-| Bell | `16` | Bell enterpolasyon yöntemi |
+| CatmullRom | `11` | Catmull-Rom kübik interpolasyon yöntemi. |
+| CubicConvolution | `12` | Kübik Konvolüsyon interpolasyon yöntemi |
+| CubicBSpline | `13` | CubicBSpline kübik interpolasyon yöntemi |
+| Mitchell | `14` | Mitchell kübik interpolasyon yöntemi |
+| SinC | `15` | Sinc (Lanczos3) kübik interpolasyon yöntemi |
+| Bell | `16` | Bell interpolasyon yöntemi |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, yeni bir SinC yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
+İşte aşağıdaki kod, yeni SinC yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ Aşağıdaki kod, yeni bir SinC yeniden boyutlandırma türüyle bir görüntün
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, bir görüntünün yeni bir Bell yeniden boyutlandırma türüyle nasıl yeniden boyutlandırılacağını gösterir.
+İşte aşağıdaki kod, yeni Bell yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ Aşağıdaki kod, bir görüntünün yeni bir Bell yeniden boyutlandırma türü
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, yeni bir Mitchell yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
+İşte aşağıdaki kod, yeni Mitchell yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ Aşağıdaki kod, yeni bir Mitchell yeniden boyutlandırma türüyle bir görün
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, yeni bir CatmullRom yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
+İşte aşağıdaki kod, yeni CatmullRom yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ Aşağıdaki kod, yeni bir CatmullRom yeniden boyutlandırma türüyle bir gör�
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, yeni bir CubicBSpline yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
+İşte aşağıdaki kod, yeni CubicBSpline yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ Aşağıdaki kod, yeni bir CubicBSpline yeniden boyutlandırma türüyle bir gö
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, bir görüntünün yeni bir CubicConvolution yeniden boyutlandırma türüyle nasıl yeniden boyutlandırılacağını gösterir.
+İşte aşağıdaki kod, yeni CubicConvolution yeniden boyutlandırma türüyle bir görüntünün nasıl yeniden boyutlandırılacağını gösterir.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ Aşağıdaki kod, bir görüntünün yeni bir CubicConvolution yeniden boyutland
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -134,9 +135,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

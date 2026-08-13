@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Aspose.PSD for .NET API Referansı
-description: TextFontInfo mülk. Yazı tipi aile adını alır
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextFontInfo özelliği. Yazı tipi ailesi adını alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-Yazı tipi aile adını alır
+Yazı tipi ailesi adını alır
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipi ailesi adı
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextFontInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen yöntem. Bunun için geometrik dönüşüm matrisini sıfırlarPen kimliğe.
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen yöntemi. Bu Pen için geometrik dönüşüm matrisini birim matrise sıfırlar"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-Bunun için geometrik dönüşüm matrisini sıfırlar[`Pen`](../) kimliğe.
+Bu [`Pen`](../) için geometrik dönüşüm matrisini birim matrise sıfırlar.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

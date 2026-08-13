@@ -1,43 +1,44 @@
 ---
-title: BmpOptions.BmpOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: BmpOptions inşaatçı. Yeni bir örneğini başlatır.BmpOptions sınıf.
+title: "BmpOptions.BmpOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BmpOptions yapıcı. BmpOptions sınıfının yeni bir örneğini oluşturur"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/bmpoptions/bmpoptions/
 ---
+{{< psd/tize >}}
 ## BmpOptions() {#constructor}
 
-Yeni bir örneğini başlatır.[`BmpOptions`](../) sınıf.
+Yeni bir [`BmpOptions`](../) sınıfı örneği oluşturur.
 
 ```csharp
 public BmpOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BmpOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BmpOptions(BmpOptions) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`BmpOptions`](../) sınıf.
+Yeni bir [`BmpOptions`](../) sınıfı örneği oluşturur.
 
 ```csharp
 public BmpOptions(BmpOptions bmpOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bmpOptions | BmpOptions | BMP seçenekleri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BmpOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

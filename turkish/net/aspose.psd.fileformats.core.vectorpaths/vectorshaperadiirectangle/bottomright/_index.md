@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomRight
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeRadiiRectangle mülk. Sağ alt köşeyi alır veya ayarlar.
+title: "VectorShapeRadiiRectangle.BottomRight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeRadiiRectangle özelliği. Alt sağı alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomRight property
 
-Sağ alt köşeyi alır veya ayarlar.
+Alt sağı alır veya ayarlar.
 
 ```csharp
 public double BottomRight { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sağ alt.
+Alt sağ.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeRadiiRectangle](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

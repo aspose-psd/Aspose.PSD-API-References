@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.GetY
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColorHelper yöntem. Sarı bileşen değerini alır.
+title: "CmykColorHelper.GetY"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColorHelper yöntemi. Yellow bileşen değerini alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/cmykcolorhelper/gety/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetY method
 
-Sarı bileşen değerini alır.
+Yellow bileşen değerini alır.
 
 ```csharp
 public static int GetY(int cmyk)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cmyk | Int32 | 32 bit tamsayı değeri olarak sunulan CMYK rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Sarı bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

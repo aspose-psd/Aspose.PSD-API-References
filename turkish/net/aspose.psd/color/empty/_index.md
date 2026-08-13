@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Boş alırColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Boş bir Color alır."
 type: docs
 weight: 430
 url: /tr/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-Boş alır[`Color`](../) .
+Boş bir [`Color`](../) alır.
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-boş[`Color`](../).
+Boş [`Color`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

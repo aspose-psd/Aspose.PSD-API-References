@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.PixelDataFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: RawDataSettings mülk. Piksel veri formatını alır veya ayarlar
+title: "RawDataSettings.PixelDataFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RawDataSettings özelliği. Piksel veri biçimini alır veya ayarlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/rawdatasettings/pixeldataformat/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.PixelDataFormat property
 
-Piksel veri formatını alır veya ayarlar
+Piksel veri biçimini alır veya ayarlar
 
 ```csharp
 public PixelDataFormat PixelDataFormat { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Piksel veri formatı
+Piksel veri biçimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RawDataSettings](../)
-* ad alanı [Aspose.PSD](../../rawdatasettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerResource.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerResource yöntem. a döndürürString bu örneği temsil eder.
+title: "LayerResource.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerResource yöntemi. Bu örneği temsil eden bir String döndürür"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerresource/tostring/
 ---
+{{< psd/tize >}}
 ## LayerResource.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

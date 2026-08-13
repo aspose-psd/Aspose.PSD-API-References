@@ -1,28 +1,29 @@
 ---
-title: ExifData.CustomRendered
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. İşlenen özeli alır veya ayarlar.
+title: "ExifData.CustomRendered"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Özel işlenmiş değeri alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
-İşlenen özeli alır veya ayarlar.
+Özel işlenmiş değerini alır veya ayarlar.
 
 ```csharp
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Oluşturulan özel.
+Özel işlenmiş.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.GComponent
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. g bileşenini alır veya ayarlar.
+title: "TypeToolInfoResource.GComponent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. g bileşenini alır veya ayarlar."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.GComponent property
 
 g bileşenini alır veya ayarlar.
@@ -14,14 +15,14 @@ g bileşenini alır veya ayarlar.
 public short GComponent { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 g bileşeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

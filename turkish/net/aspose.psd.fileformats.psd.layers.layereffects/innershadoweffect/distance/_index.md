@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Distance
-second_title: Aspose.PSD for .NET API Referansı
-description: InnerShadowEffect mülk. Mesafeyi piksel cinsinden alır veya ayarlar.
+title: "InnerShadowEffect.Distance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InnerShadowEffect özelliği. Piksel cinsinden mesafeyi alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Distance property
 
 Mesafeyi piksel cinsinden alır veya ayarlar.
@@ -14,14 +15,14 @@ Mesafeyi piksel cinsinden alır veya ayarlar.
 public int Distance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mesafe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InnerShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance Sıralama. exif beyaz dengesi numarası.
+title: "Enum ExifWhiteBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. exif beyaz dengesi enum"
 type: docs
-weight: 970
+weight: 980
 url: /tr/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-exif beyaz dengesi numarası.
+exif beyaz dengesi sayımı.
 
 ```csharp
 public enum ExifWhiteBalance
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Auto | `0` | Otomatik beyaz dengesi |
 | Manual | `1` | Manuel beyaz dengesi |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

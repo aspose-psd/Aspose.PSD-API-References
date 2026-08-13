@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. Temel kaydırma değerini alır veya ayarlar.
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. Temel kayma değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
 Temel kaydırma değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Temel kaydırma değerini alır veya ayarlar.
 public int BaseShiftValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Temel kaydırma değeri.
+Temel kayma değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

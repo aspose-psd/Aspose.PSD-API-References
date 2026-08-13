@@ -1,27 +1,28 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: Aspose.PSD for .NET API Referansı
-description: CaptionDigestResource mülk. Özeti alır veya ayarlar.
+title: "CaptionDigestResource.Digest"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CaptionDigestResource özelliği. Digest'i alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
-Özeti alır veya ayarlar.
+Digest'i alır veya ayarlar.
 
 ```csharp
 public byte[] Digest { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Özet.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CaptionDigestResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

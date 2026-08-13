@@ -1,58 +1,59 @@
 ---
-title: Class ExpaResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource sınıf. Sınıf ExpaResource. Pozlama Ayarı Layer Kaynağı
+title: "Sınıf ExpaResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource sınıfı. Sınıf ExpaResource. Pozlama Ayar Katmanı kaynağı."
 type: docs
-weight: 2450
+weight: 2710
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource class
 
-Sınıf ExpaResource. Pozlama Ayarı Layer Kaynağı
+Sınıf ExpaResource. Pozlama Ayarlama Katmanı Kaynağı
 
 ```csharp
 public class ExpaResource : AdjustmentLayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ExpaResource](exparesource/#constructor)() | Yeni bir örneğini başlatır.`ExpaResource` sınıf. |
-| [ExpaResource](exparesource/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`ExpaResource` sınıf. |
-| [ExpaResource](exparesource/#constructor_2)(float, float, float) | Yeni bir örneğini başlatır.`ExpaResource` sınıf. |
+| [ExpaResource](exparesource/#constructor)() | `ExpaResource` sınıfının yeni bir örneğini başlatır. |
+| [ExpaResource](exparesource/#constructor_1)(byte[]) | `ExpaResource` sınıfının yeni bir örneğini başlatır. |
+| [ExpaResource](exparesource/#constructor_2)(float, float, float) | `ExpaResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | Pozlamayı alır veya ayarlar. |
-| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | Gamayı alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
+| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | Gammayı alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | Ofseti alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | İmzayı alır. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | Sürümü alır. Varsayılan 1 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | Sürümü alır. Varsayılan 1'dir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

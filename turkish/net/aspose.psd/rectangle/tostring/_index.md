@@ -1,27 +1,28 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Bunun özniteliklerini dönüştürürRectangle okunabilir bir dizeye.
+title: "Rectangle.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Bu Rectangle'ın özelliklerini insan tarafından okunabilir bir dizeye dönüştürür."
 type: docs
 weight: 280
 url: /tr/net/aspose.psd/rectangle/tostring/
 ---
+{{< psd/tize >}}
 ## Rectangle.ToString method
 
-Bunun özniteliklerini dönüştürür[`Rectangle`](../) okunabilir bir dizeye.
+Bu [`Rectangle`](../) öğesinin özelliklerini insan tarafından okunabilir bir dizeye dönüştürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun konumunu, genişliğini ve yüksekliğini içeren bir dize[`Rectangle`](../) yapı.
+Bu [`Rectangle`](../) yapısının konumunu, genişliğini ve yüksekliğini içeren bir dize.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

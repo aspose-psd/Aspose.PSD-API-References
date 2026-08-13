@@ -1,65 +1,66 @@
 ---
-title: Class PlLdResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource sınıf. PSD dosyasındaki yerleştirilmiş bir katman hakkında bilgi içeren PlLdResource sınıfını tanımlar. Adobe Photoshop görüntülerinde akıllı nesne katmanlarını desteklemek için kullanılır. Adobe Photoshop CS3 de yerini SoLdResource almıştır.
+title: "PlLdResource sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource sınıfı. PSD dosyasındaki yerleştirilmiş bir katman hakkında bilgi içeren PlLdResource sınıfını tanımlar. Adobe Photoshop görüntülerindeki akıllı nesne katmanlarını desteklemek için kullanılır. Adobe Photoshop CS3'te SoLdResource ile değiştirilmiştir."
 type: docs
-weight: 2920
+weight: 3270
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
+{{< psd/tize >}}
 ## PlLdResource class
 
-PSD dosyasındaki yerleştirilmiş bir katman hakkında bilgi içeren PlLdResource sınıfını tanımlar. Adobe® Photoshop® görüntülerinde akıllı nesne katmanlarını desteklemek için kullanılır. Adobe® Photoshop® CS3 'de yerini SoLdResource almıştır.
+PlLdResource sınıfını tanımlar; bu sınıf PSD dosyasındaki yerleştirilmiş bir katman hakkında bilgi içerir. Adobe® Photoshop® görüntülerinde akıllı nesne katmanlarını desteklemek için kullanılır. Adobe® Photoshop® CS3'te SoLdResource ile değiştirilmiştir.
 
 ```csharp
 public class PlLdResource : PlacedResource
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | PSD görüntüsündeki yerleştirilmiş katmanın kenar yumuşatma politikasını alır veya ayarlar. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD görüntüsünde yerleştirilen katmanın alt konumunu alır veya ayarlar. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD dosyasında yerleştirilen katmanın sınırlarını alır veya ayarlar. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | PSD görüntüsündeki yerleştirilmiş katmanın anti-alias politikalarını alır veya ayarlar. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD görüntüsündeki yerleştirilmiş katmanın alt konumunu alır veya ayarlar. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sınırlarını alır veya ayarlar. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya ayarlar. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Yatay ağ noktalarının ölçü birimini alır veya ayarlar. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Bu örnek çarpıtma stilinin özel olup olmadığını gösteren bir değer alır veya ayarlar. Doğruysa, ağ noktaları içerir. false değerine ayarlanırsa ağ noktalarını siler. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Çözgü öğelerini alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | PlLd kaynak anahtarını alır. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD dosyasında yerleştirilen katmanın sol konumunu alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Bayt cinsinden PlLd kaynak uzunluğunu alır. |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | PSD dosyasına yerleştirilen katmanın sayfa numarasını alır veya ayarlar. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD dosyasına yerleştirilen katmanın perspektif değerini alır veya ayarlar. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD dosyasına yerleştirilen katmanın perspektif diğer değerini alır veya ayarlar. |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | PSD dosyasına yerleştirilen katmanın türünü alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | PlLd kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD dosyasında yerleştirilen katmanın doğru konumunu alır veya ayarlar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | PlLd kaynak imzasını alır. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD görüntüsünde yerleştirilen katmanın en üst konumunu alır veya ayarlar. |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | PSD dosyasındaki yerleştirilen katmanın toplam sayfalarını alır veya ayarlar. |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | PSD dosyasına yerleştirilen katmanın dönüşüm matrisini alır veya ayarlar. |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | PSD görüntüsüne yerleştirilen katmanın genel benzersiz tanımlayıcısını alır veya ayarlar. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD dosyasındaki yerleştirilen katmanın U sıra değerini alır veya ayarlar. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD görüntüsündeki yerleştirilmiş katmanın çözgü değerini alır veya ayarlar. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD dosyasına yerleştirilen katmanın sürümünü alır, genellikle 3. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Bu örneğin bükme stilinin özel olup olmadığını gösteren bir değeri alır veya ayarlar. Doğru ise ağ noktalarını içerir. Yanlış olarak ayarlanırsa ağ noktalarını siler. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Bükme öğelerini alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sol konumunu alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | PlLd kaynağının uzunluğunu bayt cinsinden alır. |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sayfa numarasını alır veya ayarlar. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın perspektif değerini alır veya ayarlar. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın diğer perspektif değerini alır veya ayarlar. |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın tipini alır veya ayarlar. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sağ konumunu alır veya ayarlar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Yerleştirilen katmanın PSD görüntüsündeki üst konumunu alır veya ayarlar. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Yerleştirilen katmanın PSD dosyasındaki toplam sayfalarını alır veya ayarlar. |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Yerleştirilen katmanın PSD dosyasındaki dönüşüm matrisini alır veya ayarlar. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Yerleştirilen katmanın PSD görüntüsündeki küresel benzersiz tanımlayıcısını alır veya ayarlar. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Yerleştirilen katmanın PSD dosyasındaki U sıra değerini alır veya ayarlar. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Yerleştirilen katmanın PSD görüntüsündeki eğme değerini alır veya ayarlar. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Yerleştirilen katmanın PSD dosyasındaki sürümünü alır, genellikle 3. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya ayarlar. |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Dikey ağ noktalarının ölçü birimini alır veya ayarlar. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın V sıra değerini alır veya ayarlar. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Yerleştirilen katmanın PSD dosyasındaki V sıra değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | PlLD kaynağını belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | PlLD kaynağını belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, PlLdResource kaynağının desteğini gösterir.
 
@@ -243,15 +244,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -264,10 +265,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../placedresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: OSTypeStructure mülk. Yapı anahtarını alır.
+title: "OSTypeStructure.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OSTypeStructure özelliği. Yapı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Key property
 
 Yapı anahtarını alır.
@@ -14,10 +15,10 @@ Yapı anahtarını alır.
 public abstract int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

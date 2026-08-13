@@ -1,27 +1,28 @@
 ---
-title: AiImage.IsCached
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Nesnenin verilerinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekip gerekmediğini gösteren bir değer alır.
+title: "AiImage.IsCached"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Nesne verisinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekli olmadığını gösteren bir değeri alır"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
+{{< psd/tize >}}
 ## AiImage.IsCached property
 
-Nesnenin verilerinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekip gerekmediğini gösteren bir değer alır.
+Nesnenin verisinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekmediğini gösteren bir değeri alır.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` nesnenin verileri önbelleğe alınmışsa; aksi takdirde,`YANLIŞ` .
+`true` eğer nesnenin verileri önbelleğe alınmışsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

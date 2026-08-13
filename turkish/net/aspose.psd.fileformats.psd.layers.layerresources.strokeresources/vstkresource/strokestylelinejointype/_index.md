@@ -1,24 +1,25 @@
 ---
-title: VstkResource.StrokeStyleLineJoinType
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur stili çizgi birleştirme türünü alır veya ayarlar.
+title: "VstkResource.StrokeStyleLineJoinType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Çizgi stili çizgi birleşim tipini alır veya ayarlar"
 type: docs
-weight: 150
+weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineJoinType property
 
-Kontur stili çizgi birleştirme türünü alır veya ayarlar.
+Stroke style satır birleşim tipini alır veya ayarlar.
 
 ```csharp
 public LineJoinType StrokeStyleLineJoinType { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineJoinType](../../linejointype/)
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

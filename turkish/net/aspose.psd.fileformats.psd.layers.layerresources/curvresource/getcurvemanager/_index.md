@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource yöntem. Eğri yöneticisini alır.
+title: "CurvResource.GetCurveManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource yöntemi. Eğri yöneticisini alır"
 type: docs
-weight: 80
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
 Eğri yöneticisini alır.
@@ -14,15 +15,15 @@ Eğri yöneticisini alır.
 public CurvesManager GetCurveManager()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) veya[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

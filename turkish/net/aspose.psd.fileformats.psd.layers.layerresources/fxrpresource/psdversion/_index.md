@@ -1,23 +1,24 @@
 ---
-title: FxrpResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: FxrpResource mülk. psd sürümünü alır.
+title: "FxrpResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FxrpResource özelliği. psd sürümünü alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/
 ---
+{{< psd/tize >}}
 ## FxrpResource.PsdVersion property
 
-psd sürümünü alır.
+PSD sürümünü alır.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

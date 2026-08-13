@@ -1,11 +1,12 @@
 ---
-title: Class PdfOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.PdfOptions sınıf. PDF seçenekleri.
+title: "Sınıf PdfOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.PdfOptions sınıfı. PDF seçenekleri"
 type: docs
-weight: 4870
+weight: 5390
 url: /tr/net/aspose.psd.imageoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions class
 
 PDF seçenekleri.
@@ -14,41 +15,41 @@ PDF seçenekleri.
 public class PdfOptions : ImageOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PdfOptions](pdfoptions/)() | Default_Constructor |
+| [PdfOptions](pdfoptions/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Varsayılan yedek yazı tipini alır veya ayarlar (PSD dosyasındaki mevcut katman yazı tipi sistemde sunulmuyorsa, taramaya dışa aktarırken metin çizmek için kullanılacak yazı tipi). Varsayılan yazı tipinin uygun adını almak için bir sonraki kod parçacığı kullanılabilir : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] familys = col.Families; string defaultFontName = familys[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | [tam çerçeve]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Varsayılan yedekleme yazı tipini alır veya ayarlar (rastera dışa aktarırken metin çizerken kullanılacak yazı tipi, eğer PSD dosyasındaki mevcut katman yazı tipi sistemde bulunmuyorsa). Varsayılan yazı tipinin doğru adını almak için aşağıdaki kod parçacığı kullanılabilir: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Tam çerçeve olup olduğunu gösteren bir değeri alır veya ayarlar. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Çok sayfalı seçenekler |
 | [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize/) { get; set; } | Sayfanın boyutunu alır veya ayarlar. |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Renk paletini alır veya ayarlar. |
 | [PdfCoreOptions](../../aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/) { get; set; } | PDF çekirdek seçenekleri |
-| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | Document. için meta verileri alır veya ayarlar |
+| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | Belge için üst verileri alır veya ayarlar. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | İlerleme olay işleyicisini alır veya ayarlar. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Çözünürlük ayarlarını alır veya ayarlar. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | . içinde görüntü oluşturmak için kaynağı alır veya ayarlar |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Vektör tarama seçeneklerini alır veya ayarlar. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Görüntünün oluşturulacağı kaynağı alır veya ayarlar. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Vektör rasterleştirme seçeneklerini alır veya ayarlar. |
 | virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | XMP meta veri kapsayıcısını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Bu örneği klonlar. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Adobe Illustrator dosyalarını Aspose.PSD'de PDF formatına nasıl aktarabileceğinizi göstermektedir.
+Aşağıdaki örnek, Adobe Illustrator dosyalarını Aspose.PSD içinde PDF formatına nasıl dışa aktarabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -61,12 +62,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-Aşağıdaki örnek, AsposePSD'nin PSB dosyalarının bir PSD formatına dışa aktarılmasını desteklediğini göstermektedir.
+Aşağıdaki örnek, AsposePSD'nin PSB dosyalarını PSD formatına dışa aktarmayı desteklediğini gösterir.
 
 ```csharp
 [C#]
 
-// PSB'yi PDF olarak kaydetme desteği
+// PSB'yi PDF olarak kaydetmeyi destekle
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -76,12 +77,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki kod, PsdImage'ı seçilebilir metinle PDF belgesi olarak kaydediyor.
+Aşağıdaki kod, PsdImage'ı seçilebilir metin içeren PDF belgesi olarak kaydeder.
 
 ```csharp
 [C#]
 
-// PSD'yi PDF'ye kaydetmek, seçilebilir metin sağlamaz
+// PSD'yi PDF olarak kaydetmek seçilebilir metin sağlamaz
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -91,7 +92,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, PsdImage'ı Pdf formatına dışa aktarma desteğini göstermektedir.
+Aşağıdaki örnek, PsdImage'ın Pdf formatına dışa aktarım desteğini gösterir.
 
 ```csharp
 [C#]
@@ -117,10 +118,10 @@ for (int i = 0; i < sourcesFiles.Length; i++)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

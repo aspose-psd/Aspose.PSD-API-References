@@ -1,23 +1,24 @@
 ---
-title: LayerMaskDataShort.LayerMaskDataShort
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskDataShort inşaatçı. Default_Constructor
+title: "LayerMaskDataShort.LayerMaskDataShort"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskDataShort yapıcı. LayerMaskDataShort sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-Default_Constructor
+[`LayerMaskDataShort`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LayerMaskDataShort()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskDataShort](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

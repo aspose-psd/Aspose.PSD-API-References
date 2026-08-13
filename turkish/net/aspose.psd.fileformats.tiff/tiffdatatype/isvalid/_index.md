@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.IsValid
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Etiket verilerinin geçerli olup olmadığını gösteren bir değer alır. Geçerli etiket korunabilecek verileri içerir. Geçersiz etiket depolanamaz.
+title: "TiffDataType.IsValid"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Etiket verisinin geçerli olup olmadığını gösteren bir değeri alır. Geçerli etiket, korunabilecek verileri içerir. Geçersiz etiket ise depolanamaz"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.IsValid property
 
-Etiket verilerinin geçerli olup olmadığını gösteren bir değer alır. Geçerli etiket, korunabilecek verileri içerir. Geçersiz etiket depolanamaz.
+Etiket verisinin geçerli olup olmadığını gösteren bir değer alır. Geçerli etiket, korunabilecek verileri içerir. Geçersiz etiket saklanamaz.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` etiket verileri geçerliyse; aksi takdirde,`YANLIŞ` .
+`true` etiket verisi geçerliyse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

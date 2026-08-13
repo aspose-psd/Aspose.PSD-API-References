@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.GetRgbColor
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion2 yöntem. Rengi alır.
+title: "PhflResourceVersion2.GetRgbColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion2 yöntemi. Rengi alır"
 type: docs
-weight: 100
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.GetRgbColor method
 
 Rengi alır.
@@ -14,15 +15,15 @@ Rengi alır.
 public override Color GetRgbColor()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 RGB rengi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion2](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

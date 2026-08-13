@@ -1,32 +1,33 @@
 ---
-title: Size.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Birinin genişliğini ve yüksekliğini eklerSize diğerinin genişliğine ve yüksekliğine yapıSizeyapı.
+title: "Size.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Bir Size yapısının genişlik ve yüksekliğini başka bir Size yapısının genişlik ve yüksekliğine ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/size/add/
 ---
+{{< psd/tize >}}
 ## Size.Add method
 
-Birinin genişliğini ve yüksekliğini ekler[`Size`](../) diğerinin genişliğine ve yüksekliğine yapı[`Size`](../)yapı.
+Bir [`Size`](../) yapısının genişlik ve yüksekliğini başka bir [`Size`](../) yapısının genişlik ve yüksekliğine ekler.
 
 ```csharp
 public static Size Add(Size size1, Size size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | Size | İlk[`Size`](../) eklemek. |
-| size2 | Size | İkinci[`Size`](../) eklemek. |
+| size1 | Size | Eklenecek ilk [`Size`](../). |
+| size2 | Size | Eklenecek ikinci [`Size`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`Size`](../) toplama işleminin sonucu olan yapı.
+Toplama işleminin sonucu olan bir [`Size`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

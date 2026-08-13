@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPalette yöntem. En yakın rengin indeksini alır.
+title: "ColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPalette yöntemi. En yakın rengin indeksini alır."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/colorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
 En yakın rengin indeksini alır.
@@ -14,19 +15,19 @@ En yakın rengin indeksini alır.
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| argb32Color | Int32 | 32 bit ARGB rengi. |
+| argb32Color | Int32 | 32-bit ARGB rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 En yakın rengin indeksi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../)
-* ad alanı [Aspose.PSD](../../colorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,19 +39,19 @@ En yakın rengin indeksini alır.
 public int GetNearestColorIndex(Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | Renk. |
+| renk | Renk | Renk. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 En yakın rengin indeksi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* ad alanı [Aspose.PSD](../../colorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

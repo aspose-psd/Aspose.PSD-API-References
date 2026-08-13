@@ -1,23 +1,24 @@
 ---
-title: Matrix.M32
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix mülk. Üçüncü satır birinci sütundaki matris elemanını alır. Y ekseni boyunca ötelemeyi temsil eder.
+title: "Matrix.M32"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix özelliği. Matrisin üçüncü satır birinci sütunundaki elemanı alır. Y ekseni boyunca taşıma işlemini temsil eder."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/matrix/m32/
 ---
+{{< psd/tize >}}
 ## Matrix.M32 property
 
-Üçüncü satır birinci sütundaki matris elemanını alır. Y ekseni boyunca ötelemeyi temsil eder.
+Üçüncü satırın ilk sütunundaki matris öğesini alır. Y ekseni boyunca çeviriyi temsil eder.
 
 ```csharp
 public float M32 { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

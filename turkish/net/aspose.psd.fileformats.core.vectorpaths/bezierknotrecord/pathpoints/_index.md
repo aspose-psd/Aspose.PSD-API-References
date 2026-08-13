@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.PathPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierKnotRecord mülk. Yol noktalarını alır veya ayarlar.
+title: "BezierKnotRecord.PathPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierKnotRecord özelliği. Yol noktalarını alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.PathPoints property
 
 Yol noktalarını alır veya ayarlar.
@@ -14,15 +15,15 @@ Yol noktalarını alır veya ayarlar.
 public PointF[] PathPoints { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yol noktaları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

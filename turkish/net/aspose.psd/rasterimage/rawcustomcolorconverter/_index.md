@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawCustomColorConverter
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Özel renk dönüştürücüyü alır veya ayarlar
+title: "RasterImage.RawCustomColorConverter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Özel renk dönüştürücüyü alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/rasterimage/rawcustomcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawCustomColorConverter property
 
 Özel renk dönüştürücüyü alır veya ayarlar
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd/rasterimage/rawcustomcolorconverter/
 public IColorConverter RawCustomColorConverter { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Özel renk dönüştürücü
+Özel renk dönüştürücü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

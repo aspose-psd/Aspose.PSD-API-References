@@ -1,27 +1,28 @@
 ---
-title: CmykColor.Y
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColor mülk. Bunun sarı bileşen değerini alırColoryapı.
+title: "CmykColor.Y"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColor özelliği. Bu Color yapısının sarı bileşen değerini alır"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd/cmykcolor/y/
 ---
+{{< psd/tize >}}
 ## CmykColor.Y property
 
-Bunun sarı bileşen değerini alır[`Color`](../../color/)yapı.
+Bu [`Color`](../../color/) yapısının sarı bileşen değerini alır.
 
 ```csharp
 public byte Y { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun sarı bileşen değeri[`Color`](../../color/) .
+Bu [`Color`](../../color/) yapısının sarı bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [CmykColor](../)
-* ad alanı [Aspose.PSD](../../cmykcolor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

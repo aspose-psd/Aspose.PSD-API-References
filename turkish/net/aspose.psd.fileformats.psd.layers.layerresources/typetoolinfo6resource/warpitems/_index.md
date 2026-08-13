@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpItems
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfo6Resource mülk. Çözgü öğelerini alır veya ayarlar.
+title: "TypeToolInfo6Resource.WarpItems"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfo6Resource özelliği. Çarpıtma öğelerini alır veya ayarlar"
 type: docs
-weight: 200
+weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpItems property
 
-Çözgü öğelerini alır veya ayarlar.
+Bükme öğelerini alır veya ayarlar.
 
 ```csharp
 public OSTypeStructure[] WarpItems { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çözgü öğeleri.
+Çarpıtma öğeleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

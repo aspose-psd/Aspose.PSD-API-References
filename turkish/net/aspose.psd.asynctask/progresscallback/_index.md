@@ -1,11 +1,12 @@
 ---
-title: Delegate ProgressCallback
-second_title: Aspose.PSD for .NET API Referansı
-description: Görev ilerleme değişikliği olayını almak için geri arama işlevi.
+title: "Delege ProgressCallback"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Görev ilerleme değişikliği olayını almak için geri çağırma işlevi"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
 Görev ilerleme değişikliği olayını almak için geri arama işlevi.
@@ -14,13 +15,13 @@ Görev ilerleme değişikliği olayını almak için geri arama işlevi.
 public delegate void ProgressCallback(int progressPercentage);
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | progressPercentage | Int32 | İlerleme yüzdesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

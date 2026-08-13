@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisterCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageCreatorsRegistry yöntem. Yaratıcıyı kaydeder.
+title: "ImageCreatorsRegistry.RegisterCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageCreatorsRegistry yöntemi. Oluşturucuyu kaydeder."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/imagecreatorsregistry/registercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisterCreator method
 
-Yaratıcıyı kaydeder.
+Oluşturucuyu kaydeder.
 
 ```csharp
 public static void RegisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | Kaydedilecek içerik oluşturucu tanımlayıcısı. |
+| creatorDescriptor | IImageCreatorDescriptor | Kaydedilecek oluşturucu tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* ad alanı [Aspose.PSD](../../imagecreatorsregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

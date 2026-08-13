@@ -1,81 +1,82 @@
 ---
-title: Class Figure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Figure sınıf. Şekil. Şekiller için bir kapsayıcı.
+title: "Sınıf Figure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Figure sınıfı. Şekil. Şekiller için bir kapsayıcı"
 type: docs
-weight: 1200
+weight: 1210
 url: /tr/net/aspose.psd/figure/
 ---
+{{< psd/tize >}}
 ## Figure class
 
-Şekil. Şekiller için bir kapsayıcı.
+Şekil. Şekiller için bir konteyner.
 
 ```csharp
 public class Figure : ObjectWithBounds
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Figure](figure/)() | Default_Constructor |
+| [Figure](figure/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [Bounds](../../aspose.psd/figure/bounds/) { get; } | Nesnenin sınırlarını alır veya ayarlar. |
-| [IsClosed](../../aspose.psd/figure/isclosed/) { get; set; } | Bu rakamın kapalı olup olmadığını gösteren bir değer alır veya ayarlar. Kapalı bir şekil, yalnızca ilk ve son şeklin şekillerinin sürekli şekiller olması durumunda fark yaratacaktır. Böyle bir durumda, ilk şeklin ilk noktası, son şeklin son noktasından düz bir çizgiyle bağlanacaktır. |
+| [IsClosed](../../aspose.psd/figure/isclosed/) { get; set; } | Bu şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. Kapalı bir şekil, yalnızca ilk ve son şeklin parçaları sürekli şekiller olduğunda fark yaratır. Bu durumda, ilk şeklin ilk noktası, son şeklin son noktasından düz bir çizgiyle bağlanır. |
 | [Segments](../../aspose.psd/figure/segments/) { get; } | Tüm şekil segmentlerini alır. |
-| [Shapes](../../aspose.psd/figure/shapes/) { get; } | Şekil şekillerini alır. |
+| [Shapes](../../aspose.psd/figure/shapes/) { get; } | Şeklin şekillerini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [AddShape](../../aspose.psd/figure/addshape/)(Shape) | Şekle bir şekil ekler. |
 | [AddShapes](../../aspose.psd/figure/addshapes/)(Shape[]) | Şekle bir dizi şekil ekler. |
 | override [GetBounds](../../aspose.psd/figure/getbounds/#getbounds)(Matrix) | Nesnenin sınırlarını alır. |
 | override [GetBounds](../../aspose.psd/figure/getbounds/#getbounds_1)(Matrix, Pen) | Nesnenin sınırlarını alır. |
-| [RemoveShape](../../aspose.psd/figure/removeshape/)(Shape) | Şekilden bir şekli kaldırır. |
-| [RemoveShapes](../../aspose.psd/figure/removeshapes/)(Shape[]) | Şekilden bir dizi şekli kaldırır. |
-| [Reverse](../../aspose.psd/figure/reverse/)() | Bu şeklin sırasını tersine çevirir ve nokta sırasını şekillendirir. |
+| [RemoveShape](../../aspose.psd/figure/removeshape/)(Shape) | Şekilden bir şekil kaldırır. |
+| [RemoveShapes](../../aspose.psd/figure/removeshapes/)(Shape[]) | Şekilden bir dizi şekil kaldırır. |
+| [Reverse](../../aspose.psd/figure/reverse/)() | Bu şeklin şekil sırasını ve şekil nokta sırasını tersine çevirir. |
 | override [Transform](../../aspose.psd/figure/transform/)(Matrix) | Belirtilen dönüşümü şekle uygular. |
 
-### Örnekler
+## Örnekler
 
-Bu örnekler, bir Image yüzeyinde Figures oluşturmak ve bunları değiştirmek için GraphicsPath ve Graphics sınıfını kullanır. Örnek yeni bir Image oluşturur ve GraphicsPath sınıfının yardımıyla yolları çizer. Sonunda, yolları yüzeyde işlemek için Graphics sınıfı tarafından sunulan DrawPath yöntemi çağrılır. Son olarak görüntü, Tiff dosya biçiminde dışa aktarılır.
+Bu örnekler, bir Görüntü yüzeyinde Şekiller oluşturmak ve manipüle etmek için GraphicsPath ve Graphics sınıflarını kullanır. Örnek, yeni bir Görüntü oluşturur ve GraphicsPath sınıfının yardımıyla yollar çizer. Sonunda, Graphics sınıfı tarafından sunulan DrawPath yöntemi, yolları yüzeye render etmek için çağrılır. Son olarak görüntü Tiff dosya formatına dışa aktarılır.
 
 ```csharp
 [C#]
 
-//Görüntünün bir örneğini oluştur 
+//Image sınıfının bir örneğini oluşturun.
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // Graphics sınıfının bir örneğini oluştur ve başlat
+    //Graphics sınıfının bir örneğini oluşturun ve başlatın.
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Grafik yüzeyini temizle
+    //Graphics yüzeyini temizleyin.
     graphics.Clear(Color.Wheat);
 
-    // GraphicsPath sınıfının bir örneğini oluşturun
+    //GraphicsPath sınıfının bir örneğini oluşturun.
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    // Figure sınıfının bir örneğini oluştur
+    //Figure sınıfının bir örneğini oluşturun.
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    //Şekil nesnesine Şekiller ekleyin
+    //Figure nesnesine Şekiller ekleyin.
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    // Figure nesnesini GraphicsPath'e ekle
+    //Figure nesnesini GraphicsPath'e ekleyin.
     graphicspath.AddFigure(figure);
 
-    //Siyah renkli Kalem nesnesiyle yol çizin
+    //Siyah renkli Pen nesnesiyle yolu çizin.
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    //Bir TiffOptions örneği oluşturun ve çeşitli özelliklerini ayarlayın
+    //TiffOptions sınıfının bir örneğini oluşturun ve çeşitli özelliklerini ayarlayın.
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
     // tüm değişiklikleri kaydet.
@@ -83,10 +84,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

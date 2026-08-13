@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ValidateValues
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceBlock yöntem. Kaynak değerlerini doğrular.
+title: "ResourceBlock.ValidateValues"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceBlock yöntemi. Kaynak değerlerini doğrular"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd/resourceblock/validatevalues/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ValidateValues method
 
 Kaynak değerlerini doğrular.
@@ -14,10 +15,10 @@ Kaynak değerlerini doğrular.
 public virtual void ValidateValues()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer inşaatçı. Yeni bir örneğini başlatır.Layer sınıf. Geç başlatma için yapıcı.
+title: "Layer.Layer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yapıcı. Layer sınıfının yeni bir örneğini başlatır. Tembel başlatma için yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-Yeni bir örneğini başlatır.[`Layer`](../) sınıf. Geç başlatma için yapıcı.
+[`Layer`](../) sınıfının yeni bir örneğini başlatır. Tembel başlatma için yapıcı.
 
 ```csharp
 public Layer()
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de basit kurucu sürümü kullanılıyorsa yeni oluşturulmuş bir katman üzerinde nasıl çizim yapabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde basit yapıcı sürümü kullanılırsa yeni oluşturulan bir katmanda nasıl çizebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -35,40 +36,40 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // Kalem aracıyla bir dikdörtgen çizin
+    // Pen aracıyla bir dikdörtgen çizin
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // Düz Fırça ile Mavi renkte başka bir dikdörtgen çizin
+    // Mavi renkte Solid Brush ile başka bir dikdörtgen çizin
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`Layer`](../) sınıf.
+[`Layer`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | RasterImage | Görüntü. |
-| disposeImage | Boolean | olarak ayarlanmışsa`doğru` [resmi atın]. |
+| görüntü | RasterImage | Görüntü. |
+| disposeImage | Boolean | `true` olarak ayarlanırsa [dispose image]. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, JPEG/PNG/etc resim dosyalarını doğrudan yüklemeden PsdImage'a yükleme yeteneğini gösterir.
+Aşağıdaki kod, JPEG/PNG/etc görüntü dosyalarını doğrudan yüklemeden PsdImage'e yükleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -100,30 +101,30 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`Layer`](../) sınıf.
+[`Layer`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Layer(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | görüntü akışı |
+| stream | Stream | Görüntü akışı |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif resimlerini PsdImage'a nasıl katman olarak ekleyebileceğinizi göstermektedir.
+Aşağıdaki örnek, Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif görüntülerini PsdImage'e katman olarak nasıl ekleyebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -170,41 +171,41 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`Layer`](../) bayt dizilerinden sınıf.
+[`Layer`](../) sınıfının yeni bir örneğini bayt dizilerinden başlatır.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| bounds | Rectangle | Katman sınırları. |
+| bounds | Rectangle | Katmanın sınırları. |
 | redBytes | Byte[] | Kırmızı baytlar. |
 | greenBytes | Byte[] | Yeşil baytlar. |
-| blueBytes | Byte[] | mavi bayt. |
+| blueBytes | Byte[] | Mavi baytlar. |
 | name | String | Katman adı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Bayt dizileri boş olamaz veya Bayt dizilerinin uzunluğu sınır boyutlarına eşit olmalıdır (sınır.Genişlik * sınırlar.Yükseklik) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Bayt dizileri boş olamaz veya bayt dizileri uzunluğu sınırların boyutlarına (bounds.Width * bounds.Height) eşit olmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

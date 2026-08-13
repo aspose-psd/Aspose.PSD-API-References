@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: VersionInfoResource mülk. Sürümü alır veya ayarlar.
+title: "VersionInfoResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VersionInfoResource property. Sürümü alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/versioninforesource/version/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public uint Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VersionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

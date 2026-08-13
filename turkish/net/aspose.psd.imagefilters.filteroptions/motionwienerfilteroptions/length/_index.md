@@ -1,11 +1,12 @@
 ---
-title: MotionWienerFilterOptions.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: MotionWienerFilterOptions mülk. Uzunluğu alır veya ayarlar.
+title: "MotionWienerFilterOptions.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MotionWienerFilterOptions özelliği. Uzunluğu alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Length property
 
 Uzunluğu alır veya ayarlar.
@@ -14,14 +15,14 @@ Uzunluğu alır veya ayarlar.
 public int Length { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Uzunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MotionWienerFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

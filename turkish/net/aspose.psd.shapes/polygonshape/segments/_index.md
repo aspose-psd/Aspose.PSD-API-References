@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Segments
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape mülk. Şekil segmentlerini alır.
+title: "PolygonShape.Segments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape özelliği. Şekil segmentlerini alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.shapes/polygonshape/segments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Segments property
 
 Şekil segmentlerini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/polygonshape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şekil segmentleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

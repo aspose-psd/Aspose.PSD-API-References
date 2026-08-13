@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.CgEdResource
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource inşaatçı. Default_Constructor
+title: "CgEdResource.CgEdResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public CgEdResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

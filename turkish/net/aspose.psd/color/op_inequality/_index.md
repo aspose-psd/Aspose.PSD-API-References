@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. Belirtilen ikisinin olup olmadığını test ederColor yapılar farklıdır.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. İki belirtilen Color yapısının farklı olup olmadığını test eder."
 type: docs
-weight: 1630
+weight: 1650
 url: /tr/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-Belirtilen ikisinin olup olmadığını test eder[`Color`](../) yapılar farklıdır.
+İki belirtilen [`Color`](../) yapısının farklı olup olmadığını test eder.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| left | Color | bu[`Color`](../) bu, eşitsizlik operatörünün solundadır. |
-| right | Color | bu[`Color`](../) bu, eşitsizlik operatörünün sağındadır. |
+| left | Color | Eşitsizlik operatörünün solundaki [`Color`](../). |
+| right | Color | Eşitsizlik operatörünün sağındaki [`Color`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-ikisi varsa doğrudur[`Color`](../) yapılar farklıdır; Aksi takdirde, yanlış.
+İki [`Color`](../) yapısı farklıysa doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

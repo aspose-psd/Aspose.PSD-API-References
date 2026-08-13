@@ -1,11 +1,12 @@
 ---
-title: IntRange.Range
-second_title: Aspose.PSD for .NET API Referansı
-description: IntRange mülk. Aralığı alır veya ayarlar.
+title: "IntRange.Range"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IntRange özelliği. Aralığı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
 Aralığı alır veya ayarlar.
@@ -14,14 +15,14 @@ Aralığı alır veya ayarlar.
 public int[] Range { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Aralık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IntRange](../)
-* ad alanı [Aspose.PSD](../../intrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

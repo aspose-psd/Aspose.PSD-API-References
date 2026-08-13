@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalLayerMaskInfo mülk. Bindirme renk alanını alır veya ayarlar belgelenmemiş değer.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalLayerMaskInfo özelliği. Üst katman renk uzayını alır veya ayarlar, belgelenmemiş değer"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-Bindirme renk alanını alır veya ayarlar (belgelenmemiş değer).
+Kaplama renk uzayını alır veya ayarlar (belgelendirilmemiş değer).
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kaplama renk alanı.
+Üst katman renk uzayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalLayerMaskInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

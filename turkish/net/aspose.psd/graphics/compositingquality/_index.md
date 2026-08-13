@@ -1,28 +1,29 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Birleştirme kalitesini alır veya ayarlar.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Birleştirme kalitesini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-Birleştirme kalitesini alır veya ayarlar.
+Bileşim kalitesini alır veya ayarlar.
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Birleştirme kalitesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

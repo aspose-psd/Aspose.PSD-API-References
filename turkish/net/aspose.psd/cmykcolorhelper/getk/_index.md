@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.GetK
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColorHelper yöntem. Siyah bileşen değerini alır.
+title: "CmykColorHelper.GetK"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColorHelper yöntemi. Siyah bileşen değerini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/cmykcolorhelper/getk/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetK method
 
-Siyah bileşen değerini alır.
+Black bileşen değerini alır.
 
 ```csharp
 public static int GetK(int cmyk)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cmyk | Int32 | 32 bit tamsayı değeri olarak sunulan CMYK rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Siyah bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillRegion
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. içini doldururRegion .
+title: "Graphics.FillRegion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Bir Region'ın içini doldurur"
 type: docs
-weight: 410
+weight: 420
 url: /tr/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-içini doldurur[`Region`](../../region/) .
+Bir [`Region`](../../region/) içini doldurur.
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| region | Region | [`Region`](../../region/) doldurulacak alanı temsil eder. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| region | Region | Doldurulacak alanı temsil eden bir [`Region`](../../region/). |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *region* boş. |
+| ArgumentNullException | *brush* null. -veya- *region* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

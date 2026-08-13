@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: OSTypeStructure inşaatçı. Yeni bir örneğini başlatır.OSTypeStructure sınıf.
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OSTypeStructure yapıcı. OSTypeStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-Yeni bir örneğini başlatır.[`OSTypeStructure`](../) sınıf.
+[`OSTypeStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

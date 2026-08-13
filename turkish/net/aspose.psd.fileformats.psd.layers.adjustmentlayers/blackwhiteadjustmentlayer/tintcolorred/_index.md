@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: Aspose.PSD for .NET API Referansı
-description: BlackWhiteAdjustmentLayer mülk. Kırmızı Ton Rengi çift değerini alır veya ayarlar.
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlackWhiteAdjustmentLayer özelliği. Kırmızı Ton Rengi çift değerini alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
-Kırmızı Ton Rengi çift değerini alır veya ayarlar.
+Kırmızı Tint Rengi çift değerini alır veya ayarlar.
 
 ```csharp
 public double TintColorRed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kırmızı Ton Rengi çift değeri.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de siyah beyaz ayarlama katmanı özelliklerini nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde siyah beyaz ayar katmanı özelliklerini nasıl manipüle edebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, bir BlwhResource'u nasıl düzenlediğinizi gösterir.
+Aşağıdaki örnek, bir BlwhResource'ı nasıl düzenleyeceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Test düzenleme ve kaydetme
+                // Düzenleme ve kaydetme testi
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -151,10 +152,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

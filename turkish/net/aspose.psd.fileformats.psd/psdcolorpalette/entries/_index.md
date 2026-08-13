@@ -1,32 +1,33 @@
 ---
-title: PsdColorPalette.Entries
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdColorPalette mülk. Bir dizi alırColor yapılar.
+title: "PsdColorPalette.Entries"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdColorPalette özelliği. Color yapılarını içeren bir dizi alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Entries property
 
-Bir dizi alır[`Color`](../../../aspose.psd/color/) yapılar.
+[`Color`](../../../aspose.psd/color/) yapılarını içeren bir dizi alır.
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dizisi[`Color`](../../../aspose.psd/color/) Bunu oluşturan yapı[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Bu [`ColorPalette`](../../../aspose.psd/colorpalette/) öğesini oluşturan [`Color`](../../../aspose.psd/color/) yapısının dizisi.
 
-### Mülk değeri
+### Property Value
 
 Girişler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

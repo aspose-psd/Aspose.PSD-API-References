@@ -1,51 +1,52 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. Belirtilen ölçek vektörünü scaleX ve scaleY buna uygularMatrix belirtilen order. kullanılarak
+title: "Matrix.Scale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix yöntemi. Belirtilen ölçek vektörü scaleX ve scaleY'yi bu Matrix'e belirtilen sırayla uygular"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-Belirtilen ölçek vektörünü (scaleX ve scaleY) buna uygular[`Matrix`](../) belirtilen order. kullanılarak
+Belirtilen ölçek vektörünü (scaleX ve scaleY) bu [`Matrix`](../) üzerine belirtilen sırayla uygular.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| scaleX | Single | Ölçek X. |
-| scaleY | Single | Ölçek Y. |
-| order | MatrixOrder | Emir. |
+| scaleX | Single | X ölçeği. |
+| scaleY | Single | Y ölçeği. |
+| order | MatrixOrder | Sıra. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-Belirtilen ölçek vektörünü (scaleX ve scaleY) (varsayılan) Başa Ekle sırasını kullanarak bu Matrise uygular.
+Bu Matrix'e, belirtilen ölçek vektörünü (scaleX ve scaleY) (varsayılan) Prepend sırasını kullanarak uygular.
 
 ```csharp
 public void Scale(float sx, float sy)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sx | Single | seks seks seks |
-| sy | Single | sy. sy. sy. |
+| sx | Single | Bu sx. Bu sx. Bu sx. |
+| sy | Single | Bu sy. Bu sy. Bu sy. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

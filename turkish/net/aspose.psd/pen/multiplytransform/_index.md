@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen yöntem. Bunun için dönüşüm matrisini çarparPen belirtilen tarafındanMatrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen yöntemi. Bu Pen için dönüşüm matrisini belirtilen Matrix ile çarpar."
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Bunun için dönüşüm matrisini çarpar[`Pen`](../) belirtilen tarafından[`Matrix`](../../matrix/) .
+Bu [`Pen`](../) için dönüşüm matrisini belirtilen [`Matrix`](../../matrix/) ile çarpar.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../matrix/) dönüşüm matrisinin çarpılacağı nesne. |
+| matrix | Matrix | Dönüşüm matrisini çarpmak için kullanılacak [`Matrix`](../../matrix/) nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Bunun için dönüşüm matrisini çarpar[`Pen`](../) belirtilen tarafından[`Matrix`](../../matrix/) belirtilen sırada.
+Bu [`Pen`](../) için dönüşüm matrisini belirtilen [`Matrix`](../../matrix/) ile belirtilen sırada çarpar.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../matrix/) dönüşüm matrisini çarpmak için. |
+| matrix | Matrix | Dönüşüm matrisini çarpmak için kullanılacak [`Matrix`](../../matrix/). |
 | order | MatrixOrder | Çarpma işleminin gerçekleştirileceği sıra. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

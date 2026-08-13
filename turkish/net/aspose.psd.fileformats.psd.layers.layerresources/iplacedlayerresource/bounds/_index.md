@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD dosyasında yerleştirilen katmanın sınırlarını alır veya ayarlar.
+title: "IPlacedLayerResource.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. PSD dosyasındaki yerleştirilen katmanın sınırlarını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Bounds property
 
-PSD dosyasında yerleştirilen katmanın sınırlarını alır veya ayarlar.
+PSD dosyasındaki yerleştirilmiş katmanın sınırlarını alır veya ayarlar.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yerleştirilen katman sınırları.
+Yerleştirilen katmanın sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

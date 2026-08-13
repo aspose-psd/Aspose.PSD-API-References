@@ -1,38 +1,45 @@
 ---
-title: Class InnerShadowEffect
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect sınıf. İç Gölge Katmanı etkisi
+title: "Sınıf InnerShadowEffect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect sınıfı. İç Gölge Katman efekti."
 type: docs
-weight: 2160
+weight: 2350
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-İç Gölge Katmanı etkisi
+İç Gölge Katman efekti
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | Açıyı derece cinsinden alır veya ayarlar. |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Karışım modunu alır veya ayarlar. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Rengi alır veya ayarlar. |
 | [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Mesafeyi piksel cinsinden alır veya ayarlar. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Bir tür effect alır |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Bir efekt türünü alır. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Gürültüyü alır veya ayarlar. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Opaklığı alır veya ayarlar. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Bulanıklık değerini piksel cinsinden alır veya ayarlar. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Yayılmayı (boğma) yüzde olarak alır veya ayarlar. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | [Bu açıyı tüm katman efektlerinde kullanıp kullanmayacağını] belirten bir değer alır veya ayarlar. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Yayılımı (sıkıştırma) yüzde olarak alır veya ayarlar. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Bu değerin [use this angle in all of the layer effects] gösterip göstermediğini alır veya ayarlar. |
 
-### Örnekler
+## Yöntemler
 
-Aşağıdaki kod, İç Gölge Katmanı Efekti ayarlarının nasıl değiştirileceğini gösterir.
+| Ad | Açıklama |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Girdi katman piksel sınırlarına dayanarak efekt piksel sınırlarını hesaplar ve alır. |
+
+## Örnekler
+
+Aşağıdaki kod, İç Gölge Katman Efekti ayarlarının nasıl değiştirileceğini gösterir.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ Aşağıdaki kod, İç Gölge Katmanı Efekti ayarlarının nasıl değiştirile
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -61,10 +68,10 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IShadowEffect](../ishadoweffect/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

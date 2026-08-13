@@ -1,40 +1,41 @@
 ---
-title: Interface IVectorPathData
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData arayüz. Vektör yolu verilerine erişim için arayüz.
+title: "Arayüz IVectorPathData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData arayüzü. Vektör yol verilerine erişim için arayüz."
 type: docs
-weight: 1350
+weight: 1360
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-Vektör yolu verilerine erişim için arayüz.
+Vektör yol verilerine erişim için arayüz.
 
 ```csharp
 public interface IVectorPathData
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değer alır veya ayarlar. |
-| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | Bu örneğin ters çevrildiğini gösteren bir değer alır veya ayarlar. |
-| [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | Bu örneğin devre dışı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | Bu örneğin ters çevrilmiş olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | Bu örneğin bağlanmamış olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | Yol kayıtlarını alır veya ayarlar. |
 | [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | Sürümü alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Kırpma işleminin doğru çalışması için PsdImage.ImageResources içindeki 'WorkingPathResource' kaynağının desteğini gösterir.
+Bu örnek, 'WorkingPathResource' kaynağının PsdImage.ImageResources içinde Crop işleminin doğru çalışması için desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Resmi kırpın ve kaydedin.
+// Görüntüyü kırp ve kaydet.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -57,10 +58,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Kayıtlı görüntüyü yükleyin ve değişiklikleri kontrol edin.
+// Kaydedilmiş görüntüyü yükle ve değişiklikleri kontrol et.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -80,9 +81,9 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

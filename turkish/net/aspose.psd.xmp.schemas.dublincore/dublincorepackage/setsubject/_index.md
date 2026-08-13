@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: Aspose.PSD for .NET API Referansı
-description: DublinCorePackage yöntem. Konuyu ekler.
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DublinCorePackage yöntemi. Konuyu ekler"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
-Konuyu ekler.
+Konu ekler.
 
 ```csharp
 public void SetSubject(string subject)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| subject | String | Konu. |
+| konu | String | Konu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSubject(string[]) {#setsubject_1}
 
-Konuyu ekler.
+Konu ekler.
 
 ```csharp
 public void SetSubject(string[] subject)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| subject | String[] | Konu. |
+| konu | String[] | Konu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

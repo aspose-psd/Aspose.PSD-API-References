@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage yöntem. Etiketi ayarlar.
+title: "XmpBasicPackage.SetLabel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yöntemi. Etiketi ayarlar"
 type: docs
-weight: 60
+weight: 80
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
 Etiketi ayarlar.
@@ -14,14 +15,14 @@ Etiketi ayarlar.
 public void SetLabel(string label)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | label | String | Etiket. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

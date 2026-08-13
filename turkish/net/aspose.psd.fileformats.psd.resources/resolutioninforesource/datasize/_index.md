@@ -1,27 +1,28 @@
 ---
-title: ResolutionInfoResource.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionInfoResource mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "ResolutionInfoResource.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionInfoResource özelliği. Kaynak veri boyutunu bayt olarak alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/datasize/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResolutionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PsdLoadOptions.PsdLoadOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdLoadOptions inşaatçı. Default_Constructor
+title: "PsdLoadOptions.PsdLoadOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdLoadOptions yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageloadoptions/psdloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public PsdLoadOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdLoadOptions](../)
-* ad alanı [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

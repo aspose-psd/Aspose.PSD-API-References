@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetValue
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. Değeri ayarlar.
+title: "XmpPackage.SetValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. Değeri ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.xmp/xmppackage/setvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetValue method
 
 Değeri ayarlar.
@@ -14,16 +15,16 @@ Değeri ayarlar.
 public virtual void SetValue(string key, IXmlValue value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | IXmlValue | Eklenecek değer. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | IXmlValue | Eklenecek değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

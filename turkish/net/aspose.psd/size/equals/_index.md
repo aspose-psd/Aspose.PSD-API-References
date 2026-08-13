@@ -1,31 +1,32 @@
 ---
-title: Size.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Belirtilen nesnenin bir nesne olup olmadığını test eder.Size bununla aynı boyutlara sahipSize .
+title: "Size.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Belirtilen nesnenin bu Size ile aynı boyutlara sahip bir Size olup olmadığını test eder."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/size/equals/
 ---
+{{< psd/tize >}}
 ## Size.Equals method
 
-Belirtilen nesnenin bir nesne olup olmadığını test eder.[`Size`](../) bununla aynı boyutlara sahip[`Size`](../) .
+Belirtilen nesnenin bu [`Size`](../) ile aynı boyutlara sahip bir [`Size`](../) olup olmadığını test eder.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject test etmek |
+| obj | Nesne | Test edilecek Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise*obj* bir[`Size`](../) ve bununla aynı genişliğe ve yüksekliğe sahip[`Size`](../); Aksi takdirde, yanlış.
+*obj* bir [`Size`](../) ise ve bu [`Size`](../) ile aynı genişlik ve yüksekliğe sahipse doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

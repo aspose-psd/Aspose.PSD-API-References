@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Aspose.PSD for .NET API Referansı
-description: VibranceLayer mülk. Titreşimi alır veya ayarlar.
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibranceLayer özelliği. Canlılığı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-Titreşimi alır veya ayarlar.
+Vibrance'ı alır veya ayarlar.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Titreşim.
+Canlılık.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Titreşim -180 ile +180 aralığında olmalıdır |
+| ArgumentOutOfRangeException | Canlılık -180 ile +180 arasında olmalıdır |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, VibranceLayer katmanının desteğini ve bu ayarı düzenleme yeteneğini gösterir.
+Aşağıdaki kod örneği, VibranceLayer katmanının desteğini ve bu ayarın düzenlenebilme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibranceLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

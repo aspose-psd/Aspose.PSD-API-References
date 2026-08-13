@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı DIB başlığı işleniyor.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DIB başlık işleme ad alanı"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd.evalute/
 ---
-Ad alanı DIB başlığı işleniyor.
+{{< psd/tize >}}
+Ad alanı DIB başlık işleme.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [EvalException](./evalexception/) | Değerlendirme hataları için özel istisna |
 

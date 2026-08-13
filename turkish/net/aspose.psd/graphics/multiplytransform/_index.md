@@ -1,51 +1,52 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Matrix bunun yerel geometrik dönüşümünü temsil edenGraphics belirtilen tarafındanMatrix belirtilenin başına ekleyerekMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics metodu. Bu Graphics nesnesinin yerel geometrik dönüşümünü temsil eden Matrix'i, belirtilen Matrix'i ön ekleyerek çarpar."
 type: docs
-weight: 420
+weight: 430
 url: /tr/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-[`Matrix`](../../matrix/) bunun yerel geometrik dönüşümünü temsil eden[`Graphics`](../) belirtilen tarafından[`Matrix`](../../matrix/) belirtilenin başına ekleyerek[`Matrix`](../../matrix/) .
+Bu [`Graphics`](../) nesnesinin yerel geometrik dönüşümünü temsil eden [`Matrix`](../../matrix/)'i, belirtilen [`Matrix`](../../matrix/) ile ön ekleyerek çarpar.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../matrix/) geometrik dönüşümü çarpmak için. |
+| matrix | Matrix | Geometrik dönüşümü çarpmak için kullanılacak [`Matrix`](../../matrix/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-[`Matrix`](../../matrix/) bunun yerel geometrik dönüşümünü temsil eden[`Graphics`](../) belirtilen tarafından[`Matrix`](../../matrix/) belirtilen sırada.
+Bu [`Graphics`](../) nesnesinin yerel geometrik dönüşümünü temsil eden [`Matrix`](../../matrix/)'i, belirtilen sırada belirtilen [`Matrix`](../../matrix/) ile çarpar.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../matrix/) geometrik dönüşümü çarpmak için. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) bu, iki matrisin hangi sırayla çarpılacağını belirtir. |
+| matrix | Matrix | Geometrik dönüşümü çarpmak için kullanılacak [`Matrix`](../../matrix/). |
+| order | MatrixOrder | İki matrix'i hangi sırada çarpacağını belirten bir [`MatrixOrder`](../../matrixorder/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

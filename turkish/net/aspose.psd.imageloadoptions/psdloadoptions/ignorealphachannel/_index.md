@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreAlphaChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdLoadOptions mülk. alfa kanalını yoksay. olup olmadığını belirten bir değer alır veya ayarlar.
+title: "PsdLoadOptions.IgnoreAlphaChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdLoadOptions özelliği. Alfa kanalını görmezden gelme durumunu belirten bir değeri alır veya ayarlar"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-[alfa kanalını yoksay]. olup olmadığını belirten bir değer alır veya ayarlar.
+Alfa kanalını yok sayma [ignore alpha channel] durumunu gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [alfa kanalını yoksay]; aksi takdirde,`YANLIŞ` .
+`true` eğer [ignore alpha channel]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdLoadOptions](../)
-* ad alanı [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

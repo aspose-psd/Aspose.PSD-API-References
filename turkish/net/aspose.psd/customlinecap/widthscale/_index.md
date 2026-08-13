@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap mülk. Bunun ölçeklendirileceği miktarı alır veya ayarlarCustomLineCap genişliğine göre sınıf nesnesiPen nesne.
+title: "CustomLineCap.WidthScale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap özelliği. Bu CustomLineCap Sınıf nesnesini Kalem nesnesinin genişliğine göre ölçeklendirme miktarını alır veya ayarlar."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-Bunun ölçeklendirileceği miktarı alır veya ayarlar[`CustomLineCap`](../) genişliğine göre sınıf nesnesiPen nesne.
+Bu [`CustomLineCap`](../) Sınıf nesnesini Kalem nesnesinin genişliğine göre ölçeklendirme miktarını alır veya ayarlar.
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sınırın ölçeklendirileceği miktar.
+Kapağı ölçeklendirme miktarı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

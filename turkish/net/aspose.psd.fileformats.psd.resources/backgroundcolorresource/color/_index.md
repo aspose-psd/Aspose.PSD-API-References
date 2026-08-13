@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: BackgroundColorResource mülk. Arka plan rengini alır veya ayarlar.
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BackgroundColorResource özelliği. Arka plan rengini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
 Arka plan rengini alır veya ayarlar.
@@ -14,9 +15,9 @@ Arka plan rengini alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, BackgroundColorResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, BackgroundColorResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -37,18 +38,18 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BackgroundColorResource'u güncelle
+    // BackgroundColorResource güncelle
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

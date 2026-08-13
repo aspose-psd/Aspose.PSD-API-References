@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF mülk. Bunun yüksekliğini alır veya ayarlarRectangleFyapı.
+title: "RectangleF.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF özelliği. Bu RectangleF yapısının yüksekliğini alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/rectanglef/height/
 ---
+{{< psd/tize >}}
 ## RectangleF.Height property
 
-Bunun yüksekliğini alır veya ayarlar[`RectangleF`](../)yapı.
+Bu [`RectangleF`](../) yapısının yüksekliğini alır veya ayarlar.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun yüksekliği[`RectangleF`](../) yapı.
+Bu [`RectangleF`](../) yapısının yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

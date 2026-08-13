@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisterExporter
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageExportersRegistry yöntem. İhracatçıyı kaydeder.
+title: "ImageExportersRegistry.RegisterExporter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageExportersRegistry yöntemi. Dışa aktarıcıyı kaydeder"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisterExporter method
 
-İhracatçıyı kaydeder.
+Dışa aktarıcıyı kaydeder.
 
 ```csharp
 public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Kaydedilecek ihracatçı tanımlayıcısı. |
+| exporterDescriptor | IImageExporterDescriptor | Kaydedilecek dışa aktarıcı tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageexportersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

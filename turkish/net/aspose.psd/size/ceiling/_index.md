@@ -1,32 +1,33 @@
 ---
-title: Size.Ceiling
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Belirtileni dönüştürürSizeF bir yapıSize değerlerini yuvarlayarak yapıSize sonraki daha yüksek tamsayı değerlerine yapı.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Belirtilen SizeF yapısını, Size yapısının değerlerini bir sonraki üst tam sayıya yuvarlayarak Size yapısına dönüştürür."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-Belirtileni dönüştürür[`SizeF`](../../sizef/) bir yapı[`Size`](../) değerlerini yuvarlayarak yapı[`Size`](../) sonraki daha yüksek tamsayı değerlerine yapı.
+Belirtilen [`SizeF`](../../sizef/) yapısını, [`Size`](../) yapısının değerlerini bir sonraki üst tam sayıya yuvarlayarak bir [`Size`](../) yapısına dönüştürür.
 
 ```csharp
 public static Size Ceiling(SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | SizeF | bu[`SizeF`](../../sizef/) dönüştürülecek yapı. |
+| size | SizeF | Dönüştürülecek [`SizeF`](../../sizef/) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Size`](../) bu yöntemin dönüştürdüğü yapı.
+Bu yöntemin dönüştürdüğü [`Size`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

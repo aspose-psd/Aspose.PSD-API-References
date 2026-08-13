@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: GridAndGuidesResouce mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "GridAndGuidesResouce.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GridAndGuidesResouce özelliği. Kaynak veri boyutunu bayt cinsinden alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GridAndGuidesResouce](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

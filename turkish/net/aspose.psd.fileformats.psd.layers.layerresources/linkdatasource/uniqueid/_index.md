@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.UniqueId
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. PSD bağlantı kaynağındaki veri kaynağının genel benzersiz tanımlayıcısını alır.
+title: "LinkDataSource.UniqueId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. PSD bağlantı kaynağındaki veri kaynağının global benzersiz tanımlayıcısını alır."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.UniqueId property
 
-PSD bağlantı kaynağındaki veri kaynağının genel benzersiz tanımlayıcısını alır.
+PSD bağlantı kaynağındaki veri kaynağının küresel benzersiz tanımlayıcısını alır.
 
 ```csharp
 public Guid UniqueId { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Adobe® Photoshop® LnkE / Lnk2 kaynağındaki veri kaynağının bağlantı benzersiz tanımlayıcısı.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | UniqueId özelliğine erişemezsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

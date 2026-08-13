@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageOptionsBase mülk. . içinde görüntü oluşturmak için kaynağı alır veya ayarlar
+title: "ImageOptionsBase.Source"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageOptionsBase özelliği. Görüntünün oluşturulacağı kaynağı alır veya ayarlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/imageoptionsbase/source/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Source property
 
-. içinde görüntü oluşturmak için kaynağı alır veya ayarlar
+Görüntünün oluşturulacağı kaynağı alır veya ayarlar.
 
 ```csharp
 public Source Source { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntünün oluşturulacağı kaynak.
+Görselin oluşturulacağı kaynak.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* ad alanı [Aspose.PSD](../../imageoptionsbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

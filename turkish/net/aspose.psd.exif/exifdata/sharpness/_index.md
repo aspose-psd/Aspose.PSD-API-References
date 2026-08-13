@@ -1,11 +1,12 @@
 ---
-title: ExifData.Sharpness
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Keskinliği alır veya ayarlar.
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Keskinliği alır veya ayarlar"
 type: docs
 weight: 940
 url: /tr/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
 Keskinliği alır veya ayarlar.
@@ -14,14 +15,14 @@ Keskinliği alır veya ayarlar.
 public ushort Sharpness { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Netlik.
+Keskinlik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

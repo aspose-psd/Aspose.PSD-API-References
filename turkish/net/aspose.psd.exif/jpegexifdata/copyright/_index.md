@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Telif hakkını alır veya ayarlar.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Telif hakkını alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
 Telif hakkını alır veya ayarlar.
@@ -14,14 +15,14 @@ Telif hakkını alır veya ayarlar.
 public string Copyright { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Telif hakkı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

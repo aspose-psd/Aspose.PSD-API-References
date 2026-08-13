@@ -1,23 +1,24 @@
 ---
-title: ColorMatrix.MatrixTotalElementsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMatrix alan. Matristeki toplam öğe sayısı.
+title: "ColorMatrix.MatrixTotalElementsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMatrix alanı. Matris içindeki toplam öğe sayısı."
 type: docs
 weight: 310
 url: /tr/net/aspose.psd/colormatrix/matrixtotalelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixTotalElementsCount field
 
-Matristeki toplam öğe sayısı.
+Matris içindeki toplam öğe sayısı.
 
 ```csharp
 public const int MatrixTotalElementsCount;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../)
-* ad alanı [Aspose.PSD](../../colormatrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

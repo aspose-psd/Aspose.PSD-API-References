@@ -1,43 +1,44 @@
 ---
-title: GifOptions.GifOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions inşaatçı. Yeni bir örneğini başlatır.GifOptions sınıf.
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions yapıcı. GifOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-Yeni bir örneğini başlatır.[`GifOptions`](../) sınıf.
+[`GifOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`GifOptions`](../) sınıf.
+[`GifOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | gifOptions | GifOptions | GIF Seçenekleri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

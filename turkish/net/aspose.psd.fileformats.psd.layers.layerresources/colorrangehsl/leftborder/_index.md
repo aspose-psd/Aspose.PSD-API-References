@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl mülk. Sol kenarlığı alır veya ayarlar.
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl özelliği. Sol kenarı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-Sol kenarlığı alır veya ayarlar.
+Sol kenarı alır veya ayarlar.
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sol kenarlık.
+Sol kenar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class DescriptorStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DescriptorStructure sınıf. Tanımlayıcı yapısı
+title: "Sınıf DescriptorStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DescriptorStructure sınıfı. Tanımlayıcı yapı"
 type: docs
-weight: 3140
+weight: 3520
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure class
 
 Tanımlayıcı yapısı
@@ -14,41 +15,41 @@ Tanımlayıcı yapısı
 public class DescriptorStructure : OSTypeStructure
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DescriptorStructure](descriptorstructure/)(ClassID, ClassID, string, OSTypeStructure[]) | Yeni bir örneğini başlatır.`DescriptorStructure` sınıf. |
+| [DescriptorStructure](descriptorstructure/)(ClassID, ClassID, string, OSTypeStructure[]) | `DescriptorStructure` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classid/) { get; set; } | Sınıf kimliğini alır veya ayarlar. |
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname/) { get; set; } | Sınıf adını alır veya ayarlar. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/key/) { get; } | Yapı anahtarını alır. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Anahtar adını alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/length/) { get; } | Şunu alır:[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk. |
-| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/) { get; set; } | Yapı dizisinin bir kopyasını alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır. |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/) { get; set; } | Yapıların bir dizisinin kopyasını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength/)() | Başlık uzunluğunu alır. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structurekey/) | Yapı anahtarını tanımlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

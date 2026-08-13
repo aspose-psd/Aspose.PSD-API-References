@@ -1,44 +1,45 @@
 ---
-title: Dimensions.Dimensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Dimensions inşaatçı. Yeni bir örneğini başlatır.Dimensions sınıf.
+title: "Dimensions.Dimensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Dimensions yapıcı. Dimensions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-Yeni bir örneğini başlatır.[`Dimensions`](../) sınıf.
+[`Dimensions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Dimensions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Dimensions](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`Dimensions`](../) sınıf.
+[`Dimensions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Dimensions(float width, float height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | width | Single | Genişlik. |
 | height | Single | Yükseklik. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Dimensions](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

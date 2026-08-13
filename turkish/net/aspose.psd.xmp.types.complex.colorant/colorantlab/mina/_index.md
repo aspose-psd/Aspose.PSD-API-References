@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MinA
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantLab alan. Minimum A bileşen değeri
+title: "ColorantLab.MinA"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantLab alanı. Minimum A bileşen değeri"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/mina/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinA field
 
 Minimum A bileşen değeri
@@ -14,10 +15,10 @@ Minimum A bileşen değeri
 public const int MinA;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantLab](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

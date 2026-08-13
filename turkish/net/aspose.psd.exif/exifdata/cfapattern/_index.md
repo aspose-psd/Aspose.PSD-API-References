@@ -1,27 +1,28 @@
 ---
-title: ExifData.CFAPattern
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. CFA modelini alır veya ayarlar.
+title: "ExifData.CFAPattern"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. CFA desenini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.exif/exifdata/cfapattern/
 ---
+{{< psd/tize >}}
 ## ExifData.CFAPattern property
 
-CFA modelini alır veya ayarlar.
+CFA desenini alır veya ayarlar.
 
 ```csharp
 public byte[] CFAPattern { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-CFA modeli.
+CFA deseni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

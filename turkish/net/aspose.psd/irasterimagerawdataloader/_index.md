@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IRasterImageRawDataLoader arayüz. Raster görüntü ham veri yükleyicisi.
+title: "Arayüz IRasterImageRawDataLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IRasterImageRawDataLoader arayüzü. Raster görüntü ham veri yükleyicisi."
 type: docs
-weight: 4580
+weight: 5080
 url: /tr/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
 Raster görüntü ham veri yükleyicisi.
@@ -14,22 +15,22 @@ Raster görüntü ham veri yükleyicisi.
 public interface IRasterImageRawDataLoader
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Ham veri yüklemenin desteklenip desteklenmediğini gösteren bir değer alır. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Geçerli ham veri ayarlarını alır. Bu ayarları kullanırken, verilerin dönüştürme olmadan yüklendiğini unutmayın. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Mevcut ham veri ayarlarını alır. Bu ayarları kullanırken verinin dönüşüm olmadan yüklendiğini unutmayın. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Ham verileri yükler. |
+| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Ham veriyi yükler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

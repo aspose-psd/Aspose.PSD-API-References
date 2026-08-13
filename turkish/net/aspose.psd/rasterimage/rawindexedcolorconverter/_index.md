@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Dizinlenmiş renk dönüştürücüyü alır veya ayarlar
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. İndeksli renk dönüştürücüyü alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-Dizinlenmiş renk dönüştürücüyü alır veya ayarlar
+Dizinli renk dönüştürücüyü alır veya ayarlar
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dizinlenmiş renk dönüştürücü
+İndeksli renk dönüştürücü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

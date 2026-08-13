@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Round
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Belirtileni dönüştürürRectangleF birRectangle yuvarlayarakRectangleF değerleri en yakın tam sayı değerlerine.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen RectangleF'yi, RectangleF değerlerini en yakın tam sayıya yuvarlayarak bir Rectangle'a dönüştürür."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-Belirtileni dönüştürür[`RectangleF`](../../rectanglef/) bir[`Rectangle`](../) yuvarlayarak[`RectangleF`](../../rectanglef/) değerleri en yakın tam sayı değerlerine.
+Belirtilen [`RectangleF`](../../rectanglef/) değerlerini en yakın tam sayıya yuvarlayarak bir [`Rectangle`](../)'ye dönüştürür.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | RectangleF | bu[`RectangleF`](../../rectanglef/) dönüştürülecek. |
+| value | RectangleF | Dönüştürülecek [`RectangleF`](../../rectanglef/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeni[`Rectangle`](../).
+Yeni bir [`Rectangle`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

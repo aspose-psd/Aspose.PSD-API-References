@@ -1,27 +1,28 @@
 ---
-title: Layer.ExtraLength
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Bayt olarak katman ekstra bilgi uzunluğunu alır.
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Katmanın ekstra bilgi uzunluğunu bayt olarak alır"
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
-Bayt olarak katman ekstra bilgi uzunluğunu alır.
+Katmanın ekstra bilgi uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public int ExtraLength { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ekstra katman uzunluğu.
+Ek katman uzunluğu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

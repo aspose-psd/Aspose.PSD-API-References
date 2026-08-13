@@ -1,31 +1,32 @@
 ---
-title: Font.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Yazı tipi sürümünü alır veya ayarlar.
+title: "Font.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Font sürümünü alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
-Yazı tipi sürümünü alır veya ayarlar.
+yazı tipi sürümünü alır veya ayarlar.
 
 ```csharp
 public string Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipi sürümü.
 
-### Örnekler
+## Örnekler
 
-/version for Type1 fonts nameId 5 for Apple True Type ve OpenType /CIDFontVersion for CID fonts Bitmap fonts için boş dize
+/version Type1 fontları için, Apple True Type ve OpenType için nameId 5, CID fontları için /CIDFontVersion, bitmap fontları için boş dize
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

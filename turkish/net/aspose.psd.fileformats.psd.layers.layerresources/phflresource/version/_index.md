@@ -1,27 +1,28 @@
 ---
-title: PhflResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResource mülk. Sürümü alır. Varsayılan 2 veya 3
+title: "PhflResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResource özelliği. Sürümü alır. Varsayılan 2 veya 3'tür"
 type: docs
-weight: 50
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/version/
 ---
+{{< psd/tize >}}
 ## PhflResource.Version property
 
-Sürümü alır. Varsayılan 2 veya 3
+Sürümü alır. Varsayılan 2 veya 3'tür.
 
 ```csharp
 public abstract short Version { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

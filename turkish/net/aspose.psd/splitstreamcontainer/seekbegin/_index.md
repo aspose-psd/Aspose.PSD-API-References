@@ -1,23 +1,24 @@
 ---
-title: SplitStreamContainer.SeekBegin
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Akış konumunu akışın başlangıcına ayarlar. Bu değer StreamContainer yapıcısında iletilen başlangıç akış konumundan sapmayı temsil eder.
+title: "SplitStreamContainer.SeekBegin"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Akış konumunu akışın başına ayarlar. Bu değer, StreamContainer yapıcısına geçirilen başlangıç akış konumundan ofseti temsil eder"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/splitstreamcontainer/seekbegin/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.SeekBegin method
 
-Akış konumunu akışın başlangıcına ayarlar. Bu değer, StreamContainer yapıcısında iletilen başlangıç akış konumundan sapmayı temsil eder.
+Akış konumunu akışın başına ayarlar. Bu değer, StreamContainer yapıcısına geçirilen başlangıç akış konumundan ofseti temsil eder.
 
 ```csharp
 public override void SeekBegin()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

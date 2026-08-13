@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper mülk. Fragman işleme talimatını alır.
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper özelliği. Trailer işleme talimatını alır."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
-Fragman işleme talimatını alır.
+Kuyruk işleme talimatını alır.
 
 ```csharp
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Fragman işleme talimatı.
+Trailer işleme talimatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.AlignWithLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PtFlResource mülk. Katmanla hizala olup olmadığını belirten bir değer alır veya ayarlar.
+title: "PtFlResource.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PtFlResource özelliği. katmanla hizalanıp hizalanmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.AlignWithLayer property
 
-[Katmanla hizala] olup olmadığını belirten bir değer alır veya ayarlar.
+[align with layer] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [katmanla hizala]; aksi takdirde,`YANLIŞ` .
+`true` if [katmanla hizala]; otherwise, `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir PtFlResource kaynağını yükleme ve düzenleme desteğini gösterir.
+Aşağıdaki örnek, bir PtFlResource kaynağının yüklenmesi ve düzenlenmesi desteğini gösterir.
 
 ```csharp
 [C#]
@@ -55,13 +56,13 @@ using (im)
                         throw new Exception("PtFl Resource was read incorrect");
                     }
 
-                    // düzenleme
+                    // Düzenleme
                     resource.Offset = new Point(-11, 13);
                     resource.Scale = 200;
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Verileri PattResource'ta modellemedik, bu yüzden onu ekleyebiliriz.
+                    // PattResource içinde desen verisi yok, bu yüzden ekleyebiliriz.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PtFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

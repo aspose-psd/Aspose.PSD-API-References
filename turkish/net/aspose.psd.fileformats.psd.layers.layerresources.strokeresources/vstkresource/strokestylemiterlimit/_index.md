@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleMiterLimit
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur stili gönye sınırını alır veya ayarlar.
+title: "VstkResource.StrokeStyleMiterLimit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Çizgi stili mitre limitini alır veya ayarlar"
 type: docs
-weight: 170
+weight: 150
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleMiterLimit property
 
-Kontur stili gönye sınırını alır veya ayarlar.
+stroke style keskin köşe sınırını alır veya ayarlar.
 
 ```csharp
 public double StrokeStyleMiterLimit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kontur stili gönye sınırı.
+Çizgi stili mitre limiti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

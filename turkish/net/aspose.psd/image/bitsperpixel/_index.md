@@ -1,27 +1,28 @@
 ---
-title: Image.BitsPerPixel
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Piksel sayısı başına görüntü bitlerini alır.
+title: "Image.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image property. Görüntünün piksel başına bit sayısını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/image/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Image.BitsPerPixel property
 
-Piksel sayısı başına görüntü bitlerini alır.
+Görüntünün piksel başına bit sayısını alır.
 
 ```csharp
 public abstract int BitsPerPixel { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Piksel sayısı başına görüntü bitleri.
+Görüntü piksel başına bit sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

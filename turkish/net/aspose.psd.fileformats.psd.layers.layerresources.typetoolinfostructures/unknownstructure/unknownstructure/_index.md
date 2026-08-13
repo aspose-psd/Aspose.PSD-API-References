@@ -1,29 +1,30 @@
 ---
-title: UnknownStructure.UnknownStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownStructure inşaatçı. Yeni bir örneğini başlatır.UnknownStructure sınıf.
+title: "UnknownStructure.UnknownStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownStructure yapıcı. UnknownStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure constructor
 
-Yeni bir örneğini başlatır.[`UnknownStructure`](../) sınıf.
+[`UnknownStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
-| key | Int32 | Yapı anahtarı. |
+| anahtar | Int32 | Yapı anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnknownStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionInfoResource mülk. Yatay DPI.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionInfoResource özelliği. Yatay DPI"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
 Yatay DPI.
@@ -14,15 +15,15 @@ Yatay DPI.
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yatay dpi.
+Yatay DPI.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

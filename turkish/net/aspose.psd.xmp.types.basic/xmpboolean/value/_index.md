@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBoolean mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.XmpBoolean değerdir.
+title: "XmpBoolean.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBoolean özelliği. Bu XmpBoolean'ın değer olup olmadığını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`XmpBoolean`](../) değerdir.
+Bu [`XmpBoolean`](../) değer olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` eğer değer; aksi takdirde,`YANLIŞ` .
+`true` ise değer; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBoolean](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

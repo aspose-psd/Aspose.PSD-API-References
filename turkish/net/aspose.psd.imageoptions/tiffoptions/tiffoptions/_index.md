@@ -1,92 +1,93 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions inşaatçı. Yeni bir örneğini başlatır.TiffOptions sınıf.
+title: "TiffOptions.TiffOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions yapıcı. TiffOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
+{{< psd/tize >}}
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`TiffOptions`](../) sınıf.
+Yeni bir [`TiffOptions`](../) sınıfı örneği başlatır.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| expectedFormat | TiffExpectedFormat | Beklenen tiff dosya formatı. |
+| expectedFormat | TiffExpectedFormat | Beklenen TIFF dosya formatı. |
 | byteOrder | TiffByteOrder | Kullanılacak tiff dosya formatı bayt sırası. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-Yeni bir örneğini başlatır.[`TiffOptions`](../) sınıf. Varsayılan olarak küçük endian kuralı kullanılır.
+Yeni bir [`TiffOptions`](../) sınıfı örneği başlatır. Varsayılan olarak küçük endian kuralı kullanılır.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| expectedFormat | TiffExpectedFormat | Beklenen tiff dosya formatı. |
+| expectedFormat | TiffExpectedFormat | Beklenen TIFF dosya formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`TiffOptions`](../) sınıf.
+Yeni bir [`TiffOptions`](../) sınıfı örneği başlatır.
 
 ```csharp
 public TiffOptions(TiffOptions options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| options | TiffOptions | Kopyalanacak seçenekler. |
+| seçenekler | TiffOptions | Kopyalanacak seçenekler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`TiffOptions`](../) sınıf.
+Yeni bir [`TiffOptions`](../) sınıfı örneği başlatır.
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| tags | TiffDataType[] | Seçenekleri başlatmak için kullanılacak etiketler. |
+| etiketler | TiffDataType[] | Seçenekleri başlatmak için kullanılacak etiketler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

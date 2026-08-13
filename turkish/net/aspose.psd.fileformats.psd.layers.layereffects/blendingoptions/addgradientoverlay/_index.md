@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendingOptions yöntem. Degrade kaplamasını ekler.
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendingOptions yöntemi. Gradient kaplamasını ekler"
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
 Degrade kaplamasını ekler.
@@ -14,15 +15,15 @@ Degrade kaplamasını ekler.
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturuldu[`GradientOverlayEffect`](../../gradientoverlayeffect/) nesne
+Oluşturulan [`GradientOverlayEffect`](../../gradientoverlayeffect/) nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

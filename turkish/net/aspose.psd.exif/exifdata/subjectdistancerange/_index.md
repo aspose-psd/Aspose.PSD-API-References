@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Nesne mesafe aralığını alır veya ayarlar.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Konu mesafe aralığını alır veya ayarlar"
 type: docs
 weight: 1010
 url: /tr/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-Nesne mesafe aralığını alır veya ayarlar.
+Konu mesafe aralığını alır veya ayarlar.
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Konu mesafesi aralığı.
+Konu mesafe aralığı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.JustificationMode Sıralama. Metin hizalama modu.
+title: "Enum JustificationMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Metin hizalama modu"
 type: docs
-weight: 1650
+weight: 1690
 url: /tr/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
 Metin hizalama modu.
@@ -14,17 +15,17 @@ Metin hizalama modu.
 public enum JustificationMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Left | `0` | Sola hizalanan metin. |
-| Right | `1` | Sağa hizalama metni. |
-| Center | `2` | Orta metin. |
+| Left | `0` | Metni sola hizalar. Soldan sağa modda, Sol konum Sol'dur. Sağdan sola modda, Sol konum Sağ'dır. |
+| Right | `1` | Metni sağa hizalar. Soldan sağa modda, Sağ konum Sağ'dır. Sağdan sola modda, Sağ konum Sol'dur. |
+| Center | `2` | Metni ortala. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, metin bölümleri için metin hizalamasını ayarlamak için JustificationMode enum desteğini gösterir.
+Aşağıdaki kod, JustificationMode enum'ının metin bölümleri için metin hizalamasını ayarlama desteğini gösterir.
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

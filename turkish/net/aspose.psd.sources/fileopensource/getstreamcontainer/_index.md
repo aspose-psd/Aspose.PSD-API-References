@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.GetStreamContainer
-second_title: Aspose.PSD for .NET API Referansı
-description: FileOpenSource yöntem. Akış kapsayıcısını alır.
+title: "FileOpenSource.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileOpenSource yöntemi. Akış kapsayıcısını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.sources/fileopensource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.GetStreamContainer method
 
 Akış kapsayıcısını alır.
@@ -14,19 +15,19 @@ Akış kapsayıcısını alır.
 public override StreamContainer GetStreamContainer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-akış kabı.
+akış kapsayıcısı.
 
-### Notlar
+## Açıklamalar
 
-Dikkatle kullanın. Aldıktan sonra akış kapsayıcısını atmanız gerekecektir.
+Dikkatli kullanın. Alımdan sonra akış kapsayıcısını atmanız gerekecek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileOpenSource](../)
-* ad alanı [Aspose.PSD.Sources](../../fileopensource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

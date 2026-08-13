@@ -1,28 +1,29 @@
 ---
-title: Graphics.Graphics
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics inşaatçı. Yeni bir örneğini başlatır.Graphics sınıf.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yapıcı. Graphics sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-Yeni bir örneğini başlatır.[`Graphics`](../) sınıf.
+[`Graphics`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Graphics(Image sourceImage)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | sourceImage | Image | Kaynak görüntü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

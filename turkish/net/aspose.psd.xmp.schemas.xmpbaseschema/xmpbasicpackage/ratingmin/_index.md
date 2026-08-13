@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage alan. Derecelendirme min değeri.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage alanı. Derecelendirme minimum değeri"
 type: docs
-weight: 110
+weight: 140
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
-Derecelendirme min değeri.
+Derecelendirme minimum değeri.
 
 ```csharp
 public const int RatingMin;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

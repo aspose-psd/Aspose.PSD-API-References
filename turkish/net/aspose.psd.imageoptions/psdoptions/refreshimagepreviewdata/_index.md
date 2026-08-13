@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RefreshImagePreviewData
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdOptions mülk. Başka bir PSD resim görüntüleyiciyle uyumluluğu en üst düzeye çıkarmak için kullanılan resim önizleme verilerini yenile seçeneğinin kullanılıp kullanılmadığını belirten bir değer alır veya ayarlar. Lütfen unutmayın son düzene çizilen metin katmanları Compact Framework platformu için desteklenmez
+title: "PsdOptions.RefreshImagePreviewData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdOptions özelliği. Başka PSD görüntüleyicileriyle uyumluluğu en üst düzeye çıkarmak için kullanılan görüntü önizleme verisini yenileme seçeneğinin etkin olup olmadığını belirten bir değeri alır veya ayarlar. Lütfen metin katmanlarının son düzene çizilmesinin Compact Framework platformu için desteklenmediğini unutmayın."
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RefreshImagePreviewData property
 
-Başka bir PSD resim görüntüleyiciyle uyumluluğu en üst düzeye çıkarmak için kullanılan [resim önizleme verilerini yenile] seçeneğinin kullanılıp kullanılmadığını belirten bir değer alır veya ayarlar. Lütfen unutmayın, son düzene çizilen metin katmanları Compact Framework platformu için desteklenmez
+Görüntü önizleme verilerini [refresh image preview data] yenileme seçeneğini gösteren bir değeri alır veya ayarlar - bu seçenek başka PSD görüntüleyicileriyle uyumluluğu en üst düzeye çıkarmak için kullanılır. Lütfen, metin katmanlarının son düzene çizilmesinin Compact Framework platformu için desteklenmediğini unutmayın.
 
 ```csharp
 public bool RefreshImagePreviewData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [görüntü önizleme verilerini yenile]; aksi takdirde,`YANLIŞ` .
+`true` eğer [görüntü önizleme verisini yenile]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../psdoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

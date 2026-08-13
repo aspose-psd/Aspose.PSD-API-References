@@ -1,27 +1,28 @@
 ---
-title: StringFormat.DeepClone
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat yöntem. Bunun derin bir klonunu oluştururStringFormat nesne.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat yöntemi. Bu StringFormat nesnesinin derin bir kopyasını oluşturur"
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-Bunun derin bir klonunu oluşturur[`StringFormat`](../) nesne.
+Bu [`StringFormat`](../) nesnesinin derin bir kopyasını oluşturur.
 
 ```csharp
 public StringFormat DeepClone()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Akımın derin klonu[`StringFormat`](../) .
+Mevcut [`StringFormat`](../) nesnesinin derin kopyası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

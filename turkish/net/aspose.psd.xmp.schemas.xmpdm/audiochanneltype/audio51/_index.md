@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio51
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioChannelType mülk. 5.1 ses kanalını alır.
+title: "AudioChannelType.Audio51"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioChannelType özelliği. 5.1 ses kanalını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio51 property
 
 5.1 ses kanalını alır.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/
 public static AudioChannelType Audio51 { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 5.1 ses kanalı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

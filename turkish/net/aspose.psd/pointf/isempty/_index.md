@@ -1,27 +1,28 @@
 ---
-title: PointF.IsEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF mülk. Bunun olup olmadığını gösteren bir değer alır.PointF boş.
+title: "PointF.IsEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF özelliği. Bu PointF'in boş olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/pointf/isempty/
 ---
+{{< psd/tize >}}
 ## PointF.IsEmpty property
 
-Bunun olup olmadığını gösteren bir değer alır.[`PointF`](../) boş.
+Bu [`PointF`](../) öğesinin boş olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İkisi de doğruysa[`X`](../x/) Ve[`Y`](../y/) 0; Aksi takdirde, yanlış.
+Eğer hem [`X`](../x/) hem de [`Y`](../y/) 0 ise doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

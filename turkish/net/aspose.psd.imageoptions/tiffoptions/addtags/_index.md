@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTags
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions yöntem. Etiketleri ekler.
+title: "TiffOptions.AddTags"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions yöntemi. Etiketleri ekler"
 type: docs
-weight: 710
+weight: 720
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/addtags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTags method
 
 Etiketleri ekler.
@@ -14,15 +15,15 @@ Etiketleri ekler.
 public void AddTags(TiffDataType[] tagsToAdd)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| tagsToAdd | TiffDataType[] | Eklenecek etiketler. |
+| tagsToAdd | TiffDataType[] | Eklemek için etiketler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

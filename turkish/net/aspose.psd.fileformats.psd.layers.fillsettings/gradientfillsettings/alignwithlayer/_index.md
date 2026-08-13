@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. katmanla hizalayın. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Katmanla hizalanıp hizalanmadığını gösteren bir değeri alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-[katmanla hizalayın]. olup olmadığını gösteren bir değer alır veya ayarlar.
+[align with layer] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [katmanla hizala]; aksi takdirde,`YANLIŞ` .
+`true` if [katmanla hizala]; otherwise, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

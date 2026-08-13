@@ -1,74 +1,75 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpInteger inşaatçı. Yeni bir örneğini başlatır.XmpInteger sınıf.
+title: "XmpInteger.XmpInteger"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpInteger yapıcı. XmpInteger sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpInteger`](../) sınıf.
+[`XmpInteger`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpInteger(long value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Int64 | Değer. |
+| değer | Int64 | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpInteger](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpInteger`](../) sınıf.
+[`XmpInteger`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpInteger(int value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Int32 | Değer. |
+| değer | Int32 | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpInteger](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`XmpInteger`](../) sınıf.
+[`XmpInteger`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpInteger(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | değer boş. |
-| ArgumentException | Geçersiz dize değeri; değer |
+| ArgumentNullException | değer null. |
+| ArgumentException | Geçersiz string değeri;value |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpInteger](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

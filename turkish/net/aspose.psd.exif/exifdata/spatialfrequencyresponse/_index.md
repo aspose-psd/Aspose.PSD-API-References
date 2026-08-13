@@ -1,11 +1,12 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Uzamsal frekans yanıtını alır veya ayarlar.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Uzamsal frekans yanıtını alır veya ayarlar"
 type: docs
 weight: 960
 url: /tr/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
 Uzamsal frekans yanıtını alır veya ayarlar.
@@ -14,14 +15,14 @@ Uzamsal frekans yanıtını alır veya ayarlar.
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Uzamsal frekans yanıtı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

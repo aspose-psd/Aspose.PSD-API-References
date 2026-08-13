@@ -1,23 +1,24 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: AdjustPalette inşaatçı. Default_Constructor
+title: "AdjustPalette.AdjustPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AdjustPalette yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public AdjustPalette()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AdjustPalette](../)
-* ad alanı [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Görüntü genişliğini alır veya ayarlar.
+title: "TiffOptions.ImageWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. görüntü genişliğini alır veya ayarlar"
 type: docs
-weight: 210
+weight: 220
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageWidth property
 
 Görüntü genişliğini alır veya ayarlar.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır veya ayarlar.
 public uint ImageWidth { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntü genişliği.
+görüntü genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+title: "OuterGlowEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Bu örneğin görünür olup olmadığını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsVisible property
 
-Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek görünüyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek görünürse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

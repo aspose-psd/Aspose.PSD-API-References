@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. Sürümü alır veya ayarlar.
+title: "PsdImage.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Sürümü alır veya ayarlar"
 type: docs
-weight: 250
+weight: 260
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/version/
 ---
+{{< psd/tize >}}
 ## PsdImage.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public int Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

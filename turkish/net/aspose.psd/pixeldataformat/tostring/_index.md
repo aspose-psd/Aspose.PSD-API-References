@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. a döndürürString bu örneği temsil eder.
+title: "PixelDataFormat.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Bu örneği temsil eden bir String döndürür."
 type: docs
 weight: 370
 url: /tr/net/aspose.psd/pixeldataformat/tostring/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

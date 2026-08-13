@@ -1,11 +1,12 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions sınıf. Büyük Dikdörtgen Filtre Seçenekleri
+title: "BigRectangularFilterOptions Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions sınıfı. Büyük Dikdörtgen Filtre Seçenekleri"
 type: docs
-weight: 4650
+weight: 5150
 url: /tr/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
 Büyük Dikdörtgen Filtre Seçenekleri
@@ -14,16 +15,16 @@ Büyük Dikdörtgen Filtre Seçenekleri
 public class BigRectangularFilterOptions : FilterOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | Default_Constructor |
+| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | Varsayılan yapıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

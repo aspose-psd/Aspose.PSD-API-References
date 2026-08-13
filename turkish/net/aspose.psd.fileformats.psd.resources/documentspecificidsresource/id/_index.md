@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: Aspose.PSD for .NET API Referansı
-description: DocumentSpecificIdsResource mülk. Tanımlayıcıyı alır veya ayarlar.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DocumentSpecificIdsResource özelliği. Tanımlayıcıyı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
 Tanımlayıcıyı alır veya ayarlar.
@@ -14,14 +15,14 @@ Tanımlayıcıyı alır veya ayarlar.
 public int Id { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-tanımlayıcı.
+Tanımlayıcı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DocumentSpecificIdsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PSD for .NET API Referansı
-description: ProgressEventHandlerInfo mülk. Üst ilerleme değeri sınırını alır.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ProgressEventHandlerInfo özelliği. Üst ilerleme değeri sınırını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
 Üst ilerleme değeri sınırını alır.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 public int MaxValue { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Üst ilerleme değeri sınırı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ProgressEventHandlerInfo](../)
-* ad alanı [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

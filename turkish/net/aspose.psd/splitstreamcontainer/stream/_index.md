@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer mülk. Veri akışını alır.
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer özelliği. Veri akışını alır."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
 Veri akışını alır.
@@ -14,14 +15,14 @@ Veri akışını alır.
 public override Stream Stream { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Veri akışı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

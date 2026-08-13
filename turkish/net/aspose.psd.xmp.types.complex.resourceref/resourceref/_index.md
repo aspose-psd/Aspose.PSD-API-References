@@ -1,46 +1,47 @@
 ---
-title: Class ResourceRef
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef sınıf. Önceki sürümleri yorumlamaların orijinallerini türetilmiş belgelerin orijinallerini vb. belirtmek için kullanılır.
+title: "ResourceRef sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef sınıfı. Önceki sürüm orijinalleri, rendisyon orijinalleri ve türetilmiş belgeler gibi durumları göstermek için kullanılır."
 type: docs
-weight: 6090
+weight: 6620
 url: /tr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef class
 
-Önceki sürümleri, yorumlamaların orijinallerini, türetilmiş belgelerin orijinallerini vb. belirtmek için kullanılır.
+Önceki sürümleri, rendisyonların orijinallerini, türev belgeler için orijinalleri ve benzerlerini belirtmek için kullanılır.
 
 ```csharp
 public sealed class ResourceRef : ComplexTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ResourceRef](resourceref/)() | Default_Constructor |
+| [ResourceRef](resourceref/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | Alternatif yol dizisini alır veya ayarlar. |
-| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | Belge URI'sini alır veya ayarlar. |
-| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | URI. dosya yolunu alır veya ayarlar |
+| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | Belge URI'sını alır veya ayarlar. |
+| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | Dosya yolu URI'sını alır veya ayarlar. |
 | [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | Örnek tanımlayıcısını alır veya ayarlar. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sini alır. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sını alır. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ön eki alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../)
 
 

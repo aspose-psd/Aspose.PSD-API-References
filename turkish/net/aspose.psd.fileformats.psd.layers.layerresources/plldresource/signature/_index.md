@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: PlLdResource mülk. PlLd kaynak imzasını alır.
+title: "PlLdResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlLdResource özelliği. PlLd kaynağı imzasını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Signature property
 
-PlLd kaynak imzasını alır.
+PlLd kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlLdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: PhflResourceVersion2.PhflResourceVersion2
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion2 inşaatçı. Yeni bir örneğini başlatır.PhflResourceVersion2 sınıf.
+title: "PhflResourceVersion2.PhflResourceVersion2"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion2 yapıcı. PhflResourceVersion2 sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/phflresourceversion2/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2() {#constructor}
 
-Yeni bir örneğini başlatır.[`PhflResourceVersion2`](../) sınıf.
+[`PhflResourceVersion2`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PhflResourceVersion2()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion2](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion2(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PhflResourceVersion2`](../) sınıf.
+[`PhflResourceVersion2`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PhflResourceVersion2(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | geçersiz veri uzunluğu |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz veri uzunluğu |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion2](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

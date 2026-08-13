@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantBase mülk. Renk örneğinin adını alır veya ayarlar.
+title: "ColorantBase.SwatchName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantBase özelliği. Renk örneğinin adını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-Renk örneğinin adını alır veya ayarlar.
+Örnek kartın adını alır veya ayarlar.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk örneğinin adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantBase](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

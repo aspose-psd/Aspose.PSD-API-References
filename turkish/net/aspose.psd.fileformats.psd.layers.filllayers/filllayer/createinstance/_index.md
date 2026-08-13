@@ -1,30 +1,31 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Aspose.PSD for .NET API Referansı
-description: FillLayer yöntem. Yeni bir örneğini oluşturunFillLayer fill. türüne göre sınıf
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FillLayer yöntemi. Doldurma türüne göre yeni bir FillLayer sınıfı örneği oluşturun"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Yeni bir örneğini oluşturun[`FillLayer`](../) fill. türüne göre sınıf
+Doldurma türüne göre [`FillLayer`](../) sınıfının yeni bir örneğini oluşturun.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fillType | FillType | Dolgu katmanı türü. |
+| fillType | FillType | Doldurma katmanının türü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni bir örneğini döndürür[`FillLayer`](../) dolgu türüne göre sınıflandırın.
+Doldurma türüne göre [`FillLayer`](../) sınıfının yeni bir örneğini döndürür.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, çalışma zamanında FillLayer tipi katmanının nasıl ekleneceğini gösterir.
+Aşağıdaki örnek, çalışma zamanında FillLayer türü katmanının nasıl ekleneceğini gösterir.
 
 ```csharp
 [C#]
@@ -50,11 +51,11 @@ using (var image = new PsdImage(100, 100))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

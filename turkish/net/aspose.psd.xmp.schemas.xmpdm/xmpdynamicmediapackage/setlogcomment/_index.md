@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Kullanıcının günlük yorumunu ayarlar.
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Kullanıcıların günlük yorumunu ayarlar"
 type: docs
 weight: 270
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
 Kullanıcının günlük yorumunu ayarlar.
@@ -14,14 +15,14 @@ Kullanıcının günlük yorumunu ayarlar.
 public void SetLogComment(string comment)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| comment | String | yorum |
+| yorum | String | Yorum. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

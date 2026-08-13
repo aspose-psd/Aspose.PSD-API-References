@@ -1,32 +1,33 @@
 ---
-title: ColorMatrixExtensions.ToGdiColorMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMatrixExtensions yöntem. dönüştürürColorMatrix içinColorMatrix .
+title: "ColorMatrixExtensions.ToGdiColorMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMatrixExtensions yöntemi. ColorMatrix'i ColorMatrix'e dönüştürür."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/colormatrixextensions/togdicolormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions.ToGdiColorMatrix method
 
-dönüştürür[`ColorMatrix`](../../../aspose.psd/colormatrix/) içinColorMatrix .
+[`ColorMatrix`](../../../aspose.psd/colormatrix/) öğesini ColorMatrix'e dönüştürür.
 
 ```csharp
 public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | colorMatrix | ColorMatrix | Dönüştürülecek renk matrisi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-DönüştürülenColorMatrix .
+Dönüştürülmüş ColorMatrix.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../../aspose.psd/colormatrix/)
 * class [ColorMatrixExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../colormatrixextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

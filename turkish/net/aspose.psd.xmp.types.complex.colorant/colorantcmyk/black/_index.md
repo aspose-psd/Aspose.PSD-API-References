@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Black
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk mülk. Siyah bileşen değerini alır veya ayarlar.
+title: "ColorantCmyk.Black"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk özelliği. Black bileşen değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Black property
 
 Siyah bileşen değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Siyah bileşen değerini alır veya ayarlar.
 public float Black { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Siyah bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

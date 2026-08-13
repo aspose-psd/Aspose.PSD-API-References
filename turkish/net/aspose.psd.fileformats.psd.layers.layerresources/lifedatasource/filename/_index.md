@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.FileName
-second_title: Aspose.PSD for .NET API Referansı
-description: LiFeDataSource mülk. PSD bağlantı kaynağındaki harici veya katıştırılmış dosyanın adını alır veya ayarlar .
+title: "LiFeDataSource.FileName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LiFeDataSource özelliği. PSD bağlantı kaynağındaki harici veya gömülü dosyanın adını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.FileName property
 
-PSD bağlantı kaynağındaki harici veya katıştırılmış dosyanın adını alır veya ayarlar .
+PSD bağlantı kaynağındaki harici veya gömülü dosyanın adını alır veya ayarlar.
 
 ```csharp
 public string FileName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Harici veya katıştırılmış dosyanın adı.
+Harici veya gömülü dosyanın adı.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Psd LnkE Kaynağının özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+Bu örnek, Psd LnkE Kaynağının özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Bu örnek, harici bir bağlantılı dosya hakkında bilgi içeren Psd LnkE Kaynağının özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, harici bağlı dosya hakkında bilgi içeren Psd LnkE Kaynağının özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -111,14 +112,14 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Bu örnek, harici bağlantılı JPEG dosyası hakkında bilgi içeren Psd LnkeResource özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, harici bağlı JPEG dosyası hakkında bilgi içeren Psd LnkeResource'un özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
     0x26c,
     0x274,
     0x27c,
-    @"file:///C:/Kullanıcılar/cvallejo/Desktop/fotoğraf.jpg",
+    @"file:///C:/Users/cvallejo/Desktop/photo.jpg",
     "05/09/2017 22:24:51",
     0,
     "F062B9DB73E8D124167A4186E54664B0",
@@ -130,14 +131,14 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Bu örnek, harici bir bağlantılı PNG dosyası hakkında bilgi içeren PSD LnkeResource özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, harici bağlı PNG dosyası hakkında bilgi içeren PSD LnkeResource'un özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
     0x290,
     0x294,
     0x2dc,
-    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Sorunlar/PSDNET-491/rgb8_2x2.png",
+    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Issues/PSDNET-491/rgb8_2x2.png",
     "04/14/2020 14:23:44",
     0,
     string.Empty,
@@ -149,7 +150,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Bu örnek, iki harici bağlantılı PNG ve PSD dosyası hakkında bilgi içeren PSD LnkeResource özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, iki harici bağlı PNG ve PSD dosyası hakkında bilgi içeren PSD LnkeResource'ın özelliklerini nasıl alıp ayarlayacağını gösterir.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -168,7 +169,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Bu örnek, harici bağlantılı bir CC Libraries Varlığı hakkında bilgi içeren Photoshop Psd LnkeResource'un özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, harici bağlı bir CC Libraries varlığı hakkında bilgi içeren Photoshop Psd LnkeResource'ın özelliklerini nasıl alıp ayarlayacağını gösterir.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -410,10 +411,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LiFeDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

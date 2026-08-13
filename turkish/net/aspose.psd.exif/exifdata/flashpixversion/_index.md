@@ -1,27 +1,28 @@
 ---
-title: ExifData.FlashpixVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Flash pix sürümünü alır veya ayarlar.
+title: "ExifData.FlashpixVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Flash pix sürümünü alır veya ayarlar"
 type: docs
 weight: 270
 url: /tr/net/aspose.psd.exif/exifdata/flashpixversion/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashpixVersion property
 
-Flash pix sürümünü alır veya ayarlar.
+Flaş pix sürümünü alır veya ayarlar.
 
 ```csharp
 public byte[] FlashpixVersion { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Flash pix versiyonu.
+Flash pix sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

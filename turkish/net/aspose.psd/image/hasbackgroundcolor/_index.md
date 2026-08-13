@@ -1,23 +1,24 @@
 ---
-title: Image.HasBackgroundColor
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Görüntünün arka plan rengine sahip olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "Image.HasBackgroundColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Görüntünün arka plan rengine sahip olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/image/hasbackgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.HasBackgroundColor property
 
-Görüntünün arka plan rengine sahip olup olmadığını gösteren bir değer alır veya ayarlar.
+Resmin arka plan rengine sahip olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public virtual bool HasBackgroundColor { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

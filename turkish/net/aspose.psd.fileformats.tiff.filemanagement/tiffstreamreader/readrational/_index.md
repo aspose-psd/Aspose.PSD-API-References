@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadRational
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan tek bir rasyonel sayı değeri okuyun.
+title: "TiffStreamReader.ReadRational"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan tek bir rasyonel sayı değeri okur"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadRational method
 
-Akıştan tek bir rasyonel sayı değeri okuyun.
+Akıştan tek bir rasyonel sayı değeri okur.
 
 ```csharp
 public TiffRational ReadRational(long position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
+| konum | Int64 | Okunacak konum. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Rasyonel sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

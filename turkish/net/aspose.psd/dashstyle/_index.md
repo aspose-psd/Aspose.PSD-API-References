@@ -1,33 +1,34 @@
 ---
-title: Enum DashStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.DashStyle Sıralama. ile çizilen kesikli çizgilerin stilini belirtir.Pen nesne.
+title: "Enum DashStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.DashStyle enum. Kesikli çizgilerle çizilen bir Pen nesnesinin stilini belirtir"
 type: docs
-weight: 720
+weight: 730
 url: /tr/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-ile çizilen kesikli çizgilerin stilini belirtir.[`Pen`](../pen/) nesne.
+Kesikli çizgilerle çizilen bir [`Pen`](../pen/) nesnesinin stilini belirtir.
 
 ```csharp
 public enum DashStyle
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Solid | `0` | Kesintisiz bir çizgi belirtir. |
-| Dash | `1` | Kısa çizgilerden oluşan bir satırı belirtir. |
+| Solid | `0` | Düz bir çizgi belirtir. |
+| Dash | `1` | Kesik çizgilerden oluşan bir çizgi belirtir. |
 | Dot | `2` | Noktalardan oluşan bir çizgi belirtir. |
-| DashDot | `3` | Yinelenen tire-nokta modelinden oluşan bir çizgi belirtir. |
-| DashDotDot | `4` | Yinelenen dash-dot-dot. modelinden oluşan bir çizgiyi belirtir. |
-| Custom | `5` | Kullanıcı tanımlı bir özel tire stili belirtir. |
+| DashDot | `3` | dash‑dot deseninin tekrarlandığı bir çizgi belirtir. |
+| DashDotDot | `4` | dash‑dot‑dot deseninin tekrarlandığı bir çizgi belirtir. |
+| Custom | `5` | Kullanıcı tanımlı özel dash stilini belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

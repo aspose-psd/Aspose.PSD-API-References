@@ -1,11 +1,12 @@
 ---
-title: Graphics.InterpolationMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Enterpolasyon modunu alır veya ayarlar.
+title: "Graphics.InterpolationMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Ara değerleme modunu alır veya ayarlar."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/graphics/interpolationmode/
 ---
+{{< psd/tize >}}
 ## Graphics.InterpolationMode property
 
 Enterpolasyon modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Enterpolasyon modunu alır veya ayarlar.
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Enterpolasyon modu.
+Ara değerleme modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

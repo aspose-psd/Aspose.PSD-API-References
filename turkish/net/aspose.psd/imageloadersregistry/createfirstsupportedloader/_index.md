@@ -1,38 +1,39 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadersRegistry yöntem. Belirtilene uygun bulunan ilk yükleyiciyi oluşturur.stream ve isteğe bağlı olarakloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadersRegistry yöntemi. Belirtilen akış için uygun ve isteğe bağlı olarak loadOptions içeren ilk bulunan yükleyiciyi oluşturur"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-Belirtilene uygun bulunan ilk yükleyiciyi oluşturur.*stream* ve isteğe bağlı olarak*loadOptions* .
+Belirtilen *stream* için uygun olan ve isteğe bağlı olarak *loadOptions*'ı da dikkate alan ilk bulunan yükleyiciyi oluşturur.
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Akış. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilenleri destekleyen yükleyici*stream* Ve*loadOptions* veya böyle bir yükleyici bulunmazsa null.
+Belirtilen *stream* ve *loadOptions* destekleyen yükleyici veya böyle bir yükleyici bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
-İlk yükleyici aslında son kaydedilen olacaktır.
+İlk yükleyici aslında en son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageloadersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. XMP türü değerini ayarlar.
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. XMP tip değerini ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
-XMP türü değerini ayarlar.
+XMP tip değerini ayarlar.
 
 ```csharp
 public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Ayar değeriyle tanımlanan anahtarın dize gösterimi. |
-| value | XmpTypeBase | Ayarlanacak değer. |
+| anahtar | String | Ayarlanan değer ile tanımlanan anahtarın dize temsili. |
+| değer | XmpTypeBase | Ayarlanacak değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Point.op_Equality
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. İkiyi karşılaştırırPoint nesneler. Sonuç değerlerinin olup olmadığını belirtir.X VeY ikisinin özellikleriPoint nesneler eşittir.
+title: "Point.op_Equality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. İki Point nesnesini karşılaştırır. Sonuç, iki Point nesnesinin X ve Y özelliklerinin değerlerinin eşit olup olmadığını belirtir."
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/point/op_equality/
 ---
+{{< psd/tize >}}
 ## Point Equality operator
 
-İkiyi karşılaştırır[`Point`](../) nesneler. Sonuç, değerlerinin olup olmadığını belirtir.[`X`](../x/) Ve[`Y`](../y/) ikisinin özellikleri[`Point`](../) nesneler eşittir.
+İki [`Point`](../) nesnesini karşılaştırır. Sonuç, iki [`Point`](../) nesnesinin [`X`](../x/) ve [`Y`](../y/) özelliklerinin değerlerinin eşit olup olmadığını belirtir.
 
 ```csharp
 public static bool operator ==(Point point1, Point point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | Point | bir ilk[`Point`](../) karşılaştırmak. |
-| point2 | Point | Bir saniye[`Point`](../) karşılaştırmak. |
+| point1 | Point | Karşılaştırılacak ilk [`Point`](../). |
+| point2 | Point | Karşılaştırılacak ikinci [`Point`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise[`X`](../x/) Ve[`Y`](../y/) değerleri*point1* Ve*point2* eşittir; Aksi takdirde, yanlış.
+*point1* ve *point2*'nin [`X`](../x/) ve [`Y`](../y/) değerleri eşitse true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

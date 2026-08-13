@@ -1,24 +1,25 @@
 ---
-title: PsdImage.FileFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. dosya formatı değerini alır
+title: "PsdImage.FileFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Dosya formatının değerini alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/fileformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.FileFormat property
 
-dosya formatı değerini alır
+Dosya formatının değerini alır
 
 ```csharp
 public override FileFormat FileFormat { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

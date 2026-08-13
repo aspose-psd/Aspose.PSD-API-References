@@ -1,23 +1,24 @@
 ---
-title: VectorPathDataResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorPathDataResource mülk. psd sürümünü alır.
+title: "VectorPathDataResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorPathDataResource özelliği. PSD sürümünü alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.PsdVersion property
 
-psd sürümünü alır.
+PSD sürümünü alır.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathDataResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

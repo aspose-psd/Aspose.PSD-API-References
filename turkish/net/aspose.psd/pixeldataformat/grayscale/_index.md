@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Şunu alırPixelDataFormat0255 aralığında gri tonlama yoğunluğunu temsil eden 8 bit ile piksel başına 8 bit için tanımlandı.
+title: "PixelDataFormat.Grayscale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. 8 bit piksel başına tanımlanan ve 8 bitin 0-255 aralığında gri ton yoğunluğunu temsil ettiği PixelDataFormat'ı alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/pixeldataformat/grayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Grayscale property
 
-Şunu alır:[`PixelDataFormat`](../)0-255 aralığında gri tonlama yoğunluğunu temsil eden 8 bit ile piksel başına 8 bit için tanımlandı.
+8 bit piksel başına tanımlanan ve 8 bitin 0-255 aralığında gri ton yoğunluğunu temsil ettiği [`PixelDataFormat`](../) alır.
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`PixelDataFormat`](../)0-255 aralığında gri tonlama yoğunluğunu temsil eden 8 bit ile piksel başına 8 bit için tanımlandı.
+8 bit piksel başına tanımlanan ve 8 bitin 0-255 aralığında gri ton yoğunluğunu temsil ettiği [`PixelDataFormat`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

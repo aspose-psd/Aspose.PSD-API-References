@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Aspose.PSD for .NET API Referansı
-description: BorderInformationResource mülk. Sınır birimlerini alır veya ayarlar.
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BorderInformationResource özelliği. Kenar birimlerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-Sınır birimlerini alır veya ayarlar.
+Kenar birimlerini alır veya ayarlar.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, BorderInformationResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, BorderInformationResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BorderInformationResource'u güncelle
+    // güncelle BorderInformationResource
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -45,11 +46,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

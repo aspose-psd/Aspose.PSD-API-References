@@ -1,11 +1,12 @@
 ---
-title: Class RawDataSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.RawDataSettings sınıf. Ham veri ayarları
+title: "Sınıf RawDataSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.RawDataSettings sınıfı. Ham veri ayarları"
 type: docs
-weight: 5330
+weight: 5860
 url: /tr/net/aspose.psd/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings class
 
 Ham veri ayarları
@@ -14,27 +15,27 @@ Ham veri ayarları
 public class RawDataSettings
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RawDataSettings](rawdatasettings/)() | Default_Constructor |
+| [RawDataSettings](rawdatasettings/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | Renk paletini alır veya ayarlar |
 | [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | Özel renk dönüştürücüyü alır veya ayarlar |
-| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | Ham veri dönüştürme için kullanılacak renk taklidi yöntemini alır veya ayarlar |
-| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | Palet dizini sınırların dışında olduğunda kullanılacak geri dönüş dizinini alır veya ayarlar |
-| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | Dizinlenmiş renk dönüştürücüyü alır veya ayarlar |
+| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | Ham veri dönüşümü için kullanılacak dithering yöntemini alır veya ayarlar |
+| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | Palet indeksi sınırların dışına çıktığında kullanılacak yedek indeksi alır veya ayarlar |
+| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | Dizinli renk dönüştürücüyü alır veya ayarlar |
 | [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | Ham veri işleme için piksel satır boyutunu bayt cinsinden alır veya ayarlar |
-| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | Piksel veri formatını alır veya ayarlar |
+| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | Piksel veri biçimini alır veya ayarlar |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

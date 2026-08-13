@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.ChannelBits
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Her kanal için bit sayısını alır.
+title: "PixelDataFormat.ChannelBits"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Her kanal için bit sayısını alır"
 type: docs
 weight: 320
 url: /tr/net/aspose.psd/pixeldataformat/channelbits/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelBits property
 
 Her kanal için bit sayısını alır.
@@ -14,14 +15,14 @@ Her kanal için bit sayısını alır.
 public int[] ChannelBits { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kanal bitleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Image.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Görüntü sınırlarını alır.
+title: "Image.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Görüntü sınırlarını alır."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
-Görüntü sınırlarını alır.
+Görüntünün sınırlarını alır.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Rectangle.FromPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Yeni bir tane oluştururRectangle belirtilen iki noktadan Oluşturulan iki dikeyRectangle geçene eşit olacakpoint1 Vepoint2 . Bunlar tipik olarak zıt köşeler olacaktır.
+title: "Rectangle.FromPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen iki noktadan yeni bir Rectangle oluşturur. Oluşturulan Rectangle'ın iki kenarı, verilen point1 ve point2 değerlerine eşit olacaktır. Bunlar genellikle karşıt köşeler olur."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/rectangle/frompoints/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromPoints method
 
-Yeni bir tane oluşturur[`Rectangle`](../) belirtilen iki noktadan Oluşturulan iki dikey[`Rectangle`](../) geçene eşit olacak*point1* Ve*point2* . Bunlar tipik olarak zıt köşeler olacaktır.
+Belirtilen iki noktadan yeni bir [`Rectangle`](../) oluşturur. Oluşturulan [`Rectangle`](../)'ın iki kenarı, verilen *point1* ve *point2* değerlerine eşit olacaktır. Bunlar genellikle karşıt köşeler olur.
 
 ```csharp
 public static Rectangle FromPoints(Point point1, Point point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | Point | İlk[`Point`](../../point/) yeni dikdörtgen için. |
-| point2 | Point | İkinci[`Point`](../../point/) yeni dikdörtgen için. |
+| point1 | Point | Yeni rectangle için ilk [`Point`](../../point/) noktası. |
+| point2 | Point | Yeni rectangle için ikinci [`Point`](../../point/) noktası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni oluşturulan[`Rectangle`](../).
+Yeni oluşturulmuş bir [`Rectangle`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

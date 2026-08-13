@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeFlip
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix alan. Bu bayrak biti bu object tarafından tanımlanan dönüşümün diğer bayrak bitleri tarafından belirtilen dönüştürmelere ek olarak normalde sağ elli koordinat sistemini bir sol elli sistemine değiştiren bir eksen etrafında bir ayna görüntüsü çevirmesi gerçekleştirdiğini belirtir. Sağ elli bir koordinat sistemi pozitif X ekseninin pozitif Y ekseninin üzerine bindirmek için saat yönünün tersine döndüğü yerdir sağ elinizdeki parmakların başparmağınıza baktığınızda kıvrıldığı yöne benzer . pozitif Y eksenini sol elinizdeki parmakların kıvrıldığı yöne benzer kaplamak için saat yönünde çevirin. orijinal döndürme veya yansıtma dönüşümünün açısını belirlemenin matematiksel bir yolu yoktur çünkü döndürmenin tüm açıları uygun bir ayarlama dönüşü verildiğinde aynıdır. NOT GENERAL_TRANSFORMdan sonra TypeFlip eklendi public dolaşımındaydı ve işaret bitleri outer code. de ikili uyumsuzluk getirmeden artık rahatça yeniden numaralandırılamıyordu.
+title: "Matrix.TypeFlip"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix field. Bu bayrak biti, bu nesne tarafından tanımlanan dönüşümün, diğer bayrak bitleri tarafından belirtilen dönüşümlere ek olarak, bazı eksen etrafında bir ayna görüntüsü çevirmesi yaptığını ve normalde sağ el koordinat sistemini sol el sistemine dönüştürdüğünü gösterir. Sağ el koordinat sistemi, pozitif X ekseninin pozitif Y eksenini örtmek için saat yönünün tersine döndüğü, başparmağınıza baktığınızda sağ elinizin parmaklarının kıvrıldığı yönle benzer bir sistemdir. Sol el koordinat sistemi ise pozitif X ekseninin pozitif Y eksenini örtmek için saat yönünde döndüğü, sol elinizin parmaklarının kıvrıldığı yönle benzer bir sistemdir. Orijinal çevirme veya yansıtma dönüşümünün açısını belirlemenin matematiksel bir yolu yoktur, çünkü uygun bir ayarlama dönüşü sağlandığında tüm çevirme açıları aynıdır. NOT: TypeFlip, GENERAL_TRANSFORM genel kullanıma sunulduktan sonra eklendi ve bayrak bitleri dış kodda ikili uyumsuzluk yaratmadan yeniden numaralandırılamadı."
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/matrix/typeflip/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeFlip field
 
-Bu bayrak biti, bu object tarafından tanımlanan dönüşümün, diğer bayrak bitleri tarafından belirtilen dönüştürmelere ek olarak, normalde sağ elli koordinat sistemini bir sol elli sistemine değiştiren bir eksen etrafında bir ayna görüntüsü çevirmesi gerçekleştirdiğini belirtir. Sağ elli bir koordinat sistemi pozitif X ekseninin pozitif Y ekseninin üzerine bindirmek için saat yönünün tersine döndüğü yerdir sağ elinizdeki parmakların başparmağınıza baktığınızda kıvrıldığı yöne benzer . pozitif Y eksenini sol elinizdeki parmakların kıvrıldığı yöne benzer kaplamak için saat yönünde çevirin. orijinal döndürme veya yansıtma dönüşümünün açısını belirlemenin matematiksel bir yolu yoktur, çünkü döndürmenin tüm açıları uygun bir ayarlama dönüşü verildiğinde aynıdır. NOT: GENERAL_TRANSFORM'dan sonra TypeFlip eklendi public dolaşımındaydı ve işaret bitleri, outer code. 'de ikili uyumsuzluk getirmeden artık rahatça yeniden numaralandırılamıyordu.
+Bu bayrak biti, bu nesne tarafından tanımlanan dönüşümün, diğer bayrak bitleriyle belirtilen dönüşümlere ek olarak, normalde sağ el koordinat sistemini sol el sistemine değiştiren bir eksen etrafında ayna görüntüsü çevirmesi yaptığını gösterir. Sağ el koordinat sistemi, pozitif X ekseninin pozitif Y ekseninin üzerine gelmek için saat yönünün tersine döndüğü, başparmağınıza baktığınızda sağ elinizin parmaklarının kıvrıldığı yönle benzer bir sistemdir. Sol el koordinat sistemi ise pozitif X ekseninin pozitif Y ekseninin üzerine gelmek için saat yönünde döndüğü, sol elinizin parmaklarının kıvrıldığı yönle benzer bir sistemdir. Uygun bir ayarlama dönüşümü verildiğinde tüm çevirme açıları aynı olduğundan, orijinal çevirme veya yansıtma dönüşümünün açısını belirlemenin matematiksel bir yolu yoktur. NOT: TypeFlip, GENERAL_TRANSFORM kamuya açık hale geldikten sonra eklendi ve bayrak bitleri dış kodda ikili uyumsuzluk yaratmadan yeniden numaralandırılamadı.
 
 ```csharp
 public const int TypeFlip;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

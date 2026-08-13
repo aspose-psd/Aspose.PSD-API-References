@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.SyncRoot
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer mülk. Eşitlenen kaynağa erişimi eşitlemek için kullanılabilecek bir nesne alır.
+title: "SplitStreamContainer.SyncRoot"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer özelliği. Eşzamanlı kaynağa erişimi senkronize etmek için kullanılabilecek bir nesne alır."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/splitstreamcontainer/syncroot/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.SyncRoot property
 
-Eşitlenen kaynağa erişimi eşitlemek için kullanılabilecek bir nesne alır.
+Senkronize edilmiş kaynağa erişimi senkronize etmek için kullanılabilecek bir nesne alır.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Eşitlenen kaynağa erişimi eşitlemek için kullanılabilecek nesne.
+Eşzamanlı kaynağa erişimi senkronize etmek için kullanılabilecek nesne.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

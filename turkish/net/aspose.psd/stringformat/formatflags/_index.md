@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Alır veya ayarlarStringFormatFlags biçimlendirme bilgilerini içeren numaralandırma.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Biçimlendirme bilgilerini içeren bir StringFormatFlags enum değerini alır veya ayarlar"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-Alır veya ayarlar[`StringFormatFlags`](../../stringformatflags/) biçimlendirme bilgilerini içeren numaralandırma.
+Biçimlendirme bilgilerini içeren bir [`StringFormatFlags`](../../stringformatflags/) enum değerini alır veya ayarlar.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`StringFormatFlags`](../../stringformatflags/) biçimlendirme bilgilerini içeren numaralandırma.
+Biçimlendirme bilgilerini içeren bir [`StringFormatFlags`](../../stringformatflags/) enum değeridir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

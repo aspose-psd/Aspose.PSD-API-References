@@ -1,48 +1,49 @@
 ---
-title: GifImageException.GifImageException
-second_title: Aspose.PSD for .NET API Referansı
-description: GifImageException inşaatçı. Yeni bir örneğini başlatır.GifImageException sınıf.
+title: "GifImageException.GifImageException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifImageException yapıcı. GifImageException sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.imageformats/gifimageexception/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`GifImageException`](../) sınıf.
+[`GifImageException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifImageException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifImageException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`GifImageException`](../) sınıf.
+[`GifImageException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifImageException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,39 @@
 ---
-title: Class GradientOverlayEffect
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect sınıf. Degrade Katmanı efekti
+title: "Sınıf GradientOverlayEffect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect sınıfı. Gradient Katman etkisi"
 type: docs
-weight: 2130
+weight: 2320
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect class
 
-Degrade Katmanı efekti
+Gradyan Katman efekti
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | Karışım modunu alır veya ayarlar. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | Bir tür effect alır |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | Bir efekt türünü alır. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Opaklığı alır veya ayarlar. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | Ayarları alır veya ayarlar. |
 
-### Örnekler
+## Yöntemler
 
-Aşağıdaki kod, degrade kaplama efektinin desteğini gösterir.
+| Ad | Açıklama |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/geteffectbounds/)(Rectangle, int) | Girdi katman piksel sınırlarına dayanarak efekt piksel sınırlarını hesaplar ve alır. |
+
+## Örnekler
+
+Aşağıdaki kod, gradient kaplama etkisinin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -62,8 +69,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual((byte)255, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var settings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, settings.Color);
+    var settings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
     AssertAreEqual(FillType.Gradient, settings.FillType);
     AssertAreEqual(true, settings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, settings.GradientType);
@@ -74,23 +81,23 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, settings.Reverse);
 
     // Renk Noktaları
-    var colorPoints = settings.ColorPoints;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(3, colorPoints.Length);
 
-    AssertAreEqual(Color.FromArgb(9, 0, 178), colorPoints[0].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 9, 0, 178), colorPoints[0].RawColor);
     AssertAreEqual(0, colorPoints[0].Location);
     AssertAreEqual(50, colorPoints[0].MedianPointLocation);
 
-    AssertAreEqual(Color.Red, colorPoints[1].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Red), colorPoints[1].RawColor);
     AssertAreEqual(2048, colorPoints[1].Location);
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
-    AssertAreEqual(Color.FromArgb(255, 252, 0), colorPoints[2].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 255, 252, 0), colorPoints[2].RawColor);
     AssertAreEqual(4096, colorPoints[2].Location);
     AssertAreEqual(50, colorPoints[2].MedianPointLocation);
 
     // Şeffaflık noktaları
-    var transparencyPoints = settings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -101,9 +108,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Test düzenleme
-    settings.Color = Color.Green;
-
+    // Düzenlemeyi test et
     gradientOverlay.Opacity = 193;
     gradientOverlay.BlendMode = BlendMode.Lighten;
 
@@ -116,26 +121,26 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     settings.Reverse = true;
 
     // Yeni renk noktası ekle
-    var colorPoint = settings.AddColorPoint();
-    colorPoint.Color = Color.Green;
+    var colorPoint = solidGradient.AddColorPoint();
+    colorPoint.RawColor = RawColorHelper.CreateArgb8BitColor(Color.Green);
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // Önceki noktanın konumunu değiştir
-    settings.ColorPoints[2].Location = 3000;
+    solidGradient.ColorPoints[2].Location = 3000;
 
     // Yeni şeffaflık noktası ekle
-    var transparencyPoint = settings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Önceki saydamlık noktasının konumunu değiştir
-    settings.TransparencyPoints[1].Location = 2315;
+    // Önceki şeffaflık noktasının konumunu değiştir
+    solidGradient.TransparencyPoints[1].Location = 2315;
     im.Save(exportPath);
 }
 
-// Düzenlemeden sonra dosyayı test edin
+// Düzenlemeden sonra test dosyası
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientOverlay = (GradientOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -144,57 +149,57 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual((byte)193, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var fillSettings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, fillSettings.Color);
+    var fillSettings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // Renk noktalarını kontrol et
-    AssertAreEqual(4, fillSettings.ColorPoints.Length);
+    AssertAreEqual(4, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.FromArgb(9, 0, 178), point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 9, 0, 178), point.RawColor);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.Red, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Red), point.RawColor);
     AssertAreEqual(2048, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.FromArgb(255, 252, 0), point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 255, 252, 0), point.RawColor);
     AssertAreEqual(3000, point.Location);
 
-    point = fillSettings.ColorPoints[3];
+    point = solidGradient.ColorPoints[3];
     AssertAreEqual(75, point.MedianPointLocation);
-    AssertAreEqual(Color.Green, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Green), point.RawColor);
     AssertAreEqual(4096, point.Location);
 
-    // Saydam noktaları kontrol et
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // Şeffaf noktaları kontrol et
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(2315, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.0, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ILayerEffect](../ilayereffect/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Enum ExifFileSource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifFileSource Sıralama. exif dosya kaynağı enum.
+title: "Enum ExifFileSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifFileSource enum. exif dosya kaynağı enum"
 type: docs
-weight: 850
+weight: 860
 url: /tr/net/aspose.psd.exif.enums/exiffilesource/
 ---
+{{< psd/tize >}}
 ## ExifFileSource enumeration
 
-exif dosya kaynağı enum.
+exif dosya kaynağı sayımı.
 
 ```csharp
 public enum ExifFileSource : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Others | `0` | Diğerleri. |
 | FilmScanner | `1` | Film tarayıcı. |
-| ReflexionPrintScanner | `2` | Yansımalı baskı tarayıcı. |
-| DigitalStillCamera | `3` | Dijital fotoğraf makinesi. |
+| ReflexionPrintScanner | `2` | Yansıma baskı tarayıcı. |
+| DigitalStillCamera | `3` | Dijital sabit kamera. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

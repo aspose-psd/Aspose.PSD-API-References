@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk mülk. Camgöbeği bileşen değerini alır veya ayarlar.
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk özelliği. Cyan bileşen değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
 Camgöbeği bileşen değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Camgöbeği bileşen değerini alır veya ayarlar.
 public float Cyan { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Mavi bileşen değeri.
+Cyan bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList yöntem. Şuraya bir öğe eklerIList .
+title: "NonGenericList.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList yöntemi. IList'e bir öğe ekler"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-Şuraya bir öğe ekler:IList .
+Bir öğeyi IList'e ekler.
 
 ```csharp
 public int Add(object value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Object | buObject eklemek içinIList. |
+| değer | Nesne | IList'e eklenecek Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yeni öğenin eklendiği konum.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

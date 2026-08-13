@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Dublin Core meta verileriyle ilgili yardımcı sınıfları sabitleri ve yöntemleri içerir.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, Dublin Core meta verileriyle ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir."
 type: docs
-weight: 530
+weight: 570
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/
 ---
-Ad alanı, Dublin Core meta verileriyle ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
+{{< psd/tize >}}
+Namespace, Dublin Core meta verileriyle ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [DublinCorePackage](./dublincorepackage/) | Çift Çekirdek şemasını temsil eder. |
+| [DublinCorePackage](./dublincorepackage/) | Dublin Core şemasını temsil eder. |
 
 

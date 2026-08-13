@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.UpdateResourceValues
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilters yöntem. Akıllı filtre verileriniSmartObjectResource .
+title: "SmartFilters.UpdateResourceValues"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilters yöntemi. Akıllı filtre verilerini SmartObjectResource içine günceller"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
+{{< psd/tize >}}
 ## SmartFilters.UpdateResourceValues method
 
-Akıllı filtre verilerini[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) .
+Akıllı filtre verilerini [`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) içine günceller.
 
 ```csharp
 public void UpdateResourceValues()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilters](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

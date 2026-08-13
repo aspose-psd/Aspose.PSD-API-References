@@ -1,87 +1,88 @@
 ---
-title: Class SoLeResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource sınıf. Bir PSD dosyasındaki akıllı nesne katmanı hakkında bilgi içeren SoLeResource sınıfını tanımlar. Adobe Photoshop görüntülerinde harici dosya bağlantılarıyla akıllı nesne katmanlarını desteklemek için kullanılır.
+title: "Sınıf SoLeResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource sınıfı. PSD dosyasındaki bir akıllı nesne katmanı hakkında bilgi içeren SoLeResource sınıfını tanımlar. Adobe Photoshop görüntülerinde dış dosya bağlantılarına sahip akıllı nesne katmanlarını desteklemek için kullanılır."
 type: docs
-weight: 3030
+weight: 3380
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource class
 
-Bir PSD dosyasındaki akıllı nesne katmanı hakkında bilgi içeren SoLeResource sınıfını tanımlar. Adobe® Photoshop® görüntülerinde harici dosya bağlantılarıyla akıllı nesne katmanlarını desteklemek için kullanılır.
+SoLeResource sınıfını tanımlar; bu sınıf bir PSD dosyasındaki akıllı nesne katmanı hakkında bilgi içerir. Adobe� Photoshop� görüntülerinde harici dosya bağlantılarına sahip akıllı nesne katmanlarını desteklemek için kullanılır.
 
 ```csharp
 public class SoLeResource : SmartObjectResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SoLeResource](soleresource/#constructor)() | Yeni bir örneğini başlatır.`SoLeResource` sınıf. |
-| [SoLeResource](soleresource/#constructor_1)(Guid, bool, bool) | Yeni bir örneğini başlatır.`SoLeResource` sınıf. |
+| [SoLeResource](soleresource/#constructor)() | `SoLeResource` sınıfının yeni bir örneğini başlatır. |
+| [SoLeResource](soleresource/#constructor_1)(Guid, bool, bool) | `SoLeResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD görüntüsündeki akıllı nesne katmanı verilerinin kenar yumuşatma politikasını alır veya ayarlar. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD görüntüsünde yerleştirilen katmanın alt konumunu alır veya ayarlar. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD dosyasında yerleştirilen katmanın sınırlarını alır veya ayarlar. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin comp değerini alır veya ayarlar. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Alt belge için seçili olan kompozisyonun kimliğini alır veya ayarlar; hiçbiri seçilmezse -1 olur. Kompozisyonlar, tasarımcıların oluşturabileceği bir sayfa düzeninin kompozisyonlarıdır. Katman kompozisyonlarını kullanarak, tek bir Adobe® Photoshop® dosyasında bir mizanpajın birden çok sürümünü oluşturabilir, yönetebilir ve görüntüleyebilirsiniz. Katman kompozisyonu, Katmanlar panelinin bir durumunun anlık görüntüsüdür. Katman kompozisyonları, üç tip katman seçeneğini kaydeder but bu özellik, PSD dosyasındaki akıllı nesne katmanı için Katman Kompozisyonu seçim tanımlayıcısını alır. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD görüntüsündeki akıllı nesne katmanı verilerinin kırpılmasını alır veya ayarlar. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD görüntüsündeki akıllı nesne katman verisinin anti-alias politikasını alır veya ayarlar. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD görüntüsündeki yerleştirilmiş katmanın alt konumunu alır veya ayarlar. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sınırlarını alır veya ayarlar. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD dosyasındaki akıllı nesne katman verisinin comp değerini alır veya ayarlar. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Alt belge için şu anda seçili olan comp'in kimliğini alır veya ayarlar; hiçbiri seçilmemişse -1 olur. Comps, tasarımcıların oluşturabileceği bir sayfa düzeninin kompozisyonlarıdır. Katman comps'ı kullanarak, tek bir Adobe Photoshop dosyasında bir düzenin birden çok sürümünü oluşturabilir, yönetebilir ve görüntüleyebilirsiniz. Katman comp'ı, Katmanlar panelinin bir durumunun anlık görüntüsüdür. Katman comps'ı üç tür katman seçeneğini kaydeder ancak bu özellik PSD dosyasındaki akıllı nesne katmanı için Katman Comp seçim tanımlayıcısını alır. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD görüntüsündeki akıllı nesne katman verisinin kırpmasını alır veya ayarlar. |
 | [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Süre paydasını alır veya ayarlar. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Süre payını alır veya ayarlar. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin çerçeve sayısını alır veya ayarlar. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Çerçeve adım paydasını alır veya ayarlar. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Çerçeve adımı payını alır veya ayarlar. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Alır veya ayarlar süre payını. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin çerçeve sayısını. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Alır veya ayarlar çerçeve adımının paydasını. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Alır veya ayarlar çerçeve adımının payını. |
 | [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Yüksekliği alır veya ayarlar. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya ayarlar. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Yatay ağ noktalarının ölçü birimini alır veya ayarlar. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Bu örnek çarpıtma stilinin özel olup olmadığını gösteren bir değer alır veya ayarlar. Doğruysa, ağ noktaları içerir. false değerine ayarlanırsa ağ noktalarını siler. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin tanımlayıcı öğelerini alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/key/) { get; } | Tek akıllı nesne katmanı kaynak anahtarını alır. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD dosyasında yerleştirilen katmanın sol konumunu alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Akıllı nesne kaynak uzunluğunu bayt cinsinden alır. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin afin olmayan dönüşüm matrisini alır veya ayarlar. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Alt belge için geçerli olarak seçili Comp'un orijinal kimliğini alır; hiçbiri seçilmezse -1 olur. Bu özellik, PSD dosyasındaki akıllı nesne katmanı için orijinal katman Comp seçim tanımlayıcısını alır. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin sayfa numarasını alır veya ayarlar. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD dosyasına yerleştirilen katmanın perspektif değerini alır veya ayarlar. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD dosyasına yerleştirilen katmanın perspektif diğer değerini alır veya ayarlar. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD görüntüsündeki bu akıllı nesne katmanı verilerinin benzersiz tanımlayıcısını alır veya ayarlar. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin türünü alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Akıllı nesne kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin çözünürlüğünü alır veya ayarlar. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin çözünürlük ölçüm birimini alır veya ayarlar. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD dosyasında yerleştirilen katmanın doğru konumunu alır veya ayarlar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Akıllı nesne kaynak imzasını alır. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD görüntüsünde yerleştirilen katmanın en üst konumunu alır veya ayarlar. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin toplam sayfa sayısını alır veya ayarlar. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD dosyasındaki akıllı nesne katmanı verilerinin dönüşüm matrisini alır veya ayarlar. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Akıllı nesne katmanı verilerinin genel benzersiz tanımlayıcısını alır veya ayarlar[`SmartObjectResource`](../smartobjectresource/) PSD görüntüsünde. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD dosyasındaki yerleştirilen katmanın U sıra değerini alır veya ayarlar. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD görüntüsündeki yerleştirilmiş katmanın çözgü değerini alır veya ayarlar. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD dosyasına yerleştirilen katmanın sürümünü alır, genellikle 3. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Bu örneğin bükme stilinin özel olup olmadığını gösteren bir değeri alır veya ayarlar. Doğru ise ağ noktalarını içerir. Yanlış olarak ayarlanırsa ağ noktalarını siler. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin tanımlayıcı öğelerini. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sol konumunu alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Alır akıllı nesne kaynağının uzunluğunu bayt cinsinden. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin affine olmayan dönüşüm matrisini. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Alır alt belge için şu anda seçili olan Comp'in orijinal kimliğini; hiçbir şey seçili değilse -1 olur. Bu özellik, PSD dosyasındaki akıllı nesne katmanı için orijinal katman Comp seçim tanımlayıcısını alır. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin sayfa numarasını. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın perspektif değerini alır veya ayarlar. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın diğer perspektif değerini alır veya ayarlar. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Alır veya ayarlar bu akıllı nesne katman verisinin PSD görüntüsündeki benzersiz tanımlayıcısını. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin türünü. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin çözünürlüğünü. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin çözünürlük ölçü birimini. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın sağ konumunu alır veya ayarlar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Yerleştirilen katmanın PSD görüntüsündeki üst konumunu alır veya ayarlar. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin toplam sayfa sayısını. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin dönüşüm matrisini. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | PSD görüntüsündeki akıllı nesne katmanı verisinin [`SmartObjectResource`](../smartobjectresource/) küresel benzersiz tanımlayıcısını alır veya ayarlar. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Yerleştirilen katmanın PSD dosyasındaki U sıra değerini alır veya ayarlar. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Yerleştirilen katmanın PSD görüntüsündeki eğme değerini alır veya ayarlar. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Yerleştirilen katmanın PSD dosyasındaki sürümünü alır, genellikle 3. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya ayarlar. |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Dikey ağ noktalarının ölçü birimini alır veya ayarlar. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD dosyasındaki yerleştirilmiş katmanın V sıra değerini alır veya ayarlar. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Yerleştirilen katmanın PSD dosyasındaki V sıra değerini alır veya ayarlar. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Genişliği alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Akıllı nesne kaynağını belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Kaydeder akıllı nesne kaynağını belirtilen akış konteynerine. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/) | Tip aracı bilgi anahtarı: 'SoLE'. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, SoLEResource, SmartObjectResource ve PlacedResource kaynaklarının desteğini gösterir.
 
@@ -169,7 +170,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Kaynakta değiştirmediğimiz bu değerler
+    // Bu değerleri kaynakta değiştirmiyoruz
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -177,15 +178,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Bu değerler PlLdResource'da (belirtilen UniqueId ile) de değiştirilmelidir.
-    // ve bazılarının LinkDataSource'daki altı çizili akıllı nesneyle uyumlu olması gerekir
+    // Bu değerler ayrıca belirtilen UniqueId ile PlLdResource içinde değiştirilmelidir
+    // ve bunların bir kısmı LinkDataSource içindeki altındaki akıllı nesneyle uyumlu olmalıdır
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -204,7 +205,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Bu unique ID varsa referanslarda değiştirilmelidir.
+    // Bu benzersiz Id, varsa referanslarda değiştirilmelidir
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -214,15 +215,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Bazı parametrelere dikkat edin: kaydedilen görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-    ////kaynak.UOrder = 6;
-    ////kaynak.VOrder = 9;
+    // Bazı parametrelerle dikkatli olun: kaydedilen görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-    // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+    // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+    // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+    // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -386,10 +387,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../smartobjectresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

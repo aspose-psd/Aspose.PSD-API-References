@@ -1,11 +1,12 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode Sıralama. Renk modunu temsil eder.
+title: "Enum ColorMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode enum. Renk modunu temsil eder"
 type: docs
-weight: 5990
+weight: 6520
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
 Renk modunu temsil eder.
@@ -14,17 +15,17 @@ Renk modunu temsil eder.
 public enum ColorMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Cmyk | `1` | CMYK renk modu. |
 | Rgb | `2` | RGB renk modu. |
 | Lab | `3` | LAB renk modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

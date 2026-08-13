@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustContrast
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Görüntü kontrastı
+title: "PsdImage.AdjustContrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Görüntü kontrastı"
 type: docs
-weight: 450
+weight: 510
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustContrast method
 
 Görüntü kontrastı
@@ -14,14 +15,14 @@ Görüntü kontrastı
 public override void AdjustContrast(float contrast)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| contrast | Single | Kontrast değeri ([-100; 100] aralığında) |
+| kontrast | Single | Kontrast değeri ([-100; 100] aralığında) |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

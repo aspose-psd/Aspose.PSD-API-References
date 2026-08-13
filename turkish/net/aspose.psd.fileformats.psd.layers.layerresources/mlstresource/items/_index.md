@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Items
-second_title: Aspose.PSD for .NET API Referansı
-description: MlstResource mülk. Yapıları alır veya ayarlar.
+title: "MlstResource.Items"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MlstResource özelliği. Yapıları alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
 Yapıları alır veya ayarlar.
@@ -14,9 +15,9 @@ Yapıları alır veya ayarlar.
 public OSTypeStructure[] Items { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, katman durumlarını işlemek için düşük düzeyli bir mekanizma sağlayan MlstResource kaynağının desteğini gösterir.
+Aşağıdaki kod, katman durumlarını manipüle etmek için düşük seviyeli bir mekanizma sağlayan MlstResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -34,18 +35,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // 1. karede 1. katmanı devre dışı bırak
+    // Çerçeve 1'de katman 1'i devre dışı bırak
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

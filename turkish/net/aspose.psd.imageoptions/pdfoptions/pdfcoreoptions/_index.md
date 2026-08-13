@@ -1,11 +1,12 @@
 ---
-title: PdfOptions.PdfCoreOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfOptions mülk. PDF çekirdek seçenekleri
+title: "PdfOptions.PdfCoreOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfOptions özelliği. PDF çekirdek seçenekleri"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfCoreOptions property
 
 PDF çekirdek seçenekleri
@@ -14,11 +15,11 @@ PDF çekirdek seçenekleri
 public PdfCoreOptions PdfCoreOptions { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

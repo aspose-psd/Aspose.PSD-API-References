@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalLayerMaskInfo mülk. Genel katman maskesi bölümü uzunluğunu bayt cinsinden alır.
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalLayerMaskInfo özelliği. Global katman maskesi bölümünün uzunluğunu bayt olarak alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-Genel katman maskesi bölümü uzunluğunu bayt cinsinden alır.
+Küresel katman maskesi bölümünün uzunluğunu bayt olarak alır.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalLayerMaskInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

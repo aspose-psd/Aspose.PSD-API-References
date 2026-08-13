@@ -1,11 +1,12 @@
 ---
-title: Font.FontFamily
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Yazı tipi ailesini alır veya ayarlar.
+title: "Font.FontFamily"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Font ailesini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 ---
+{{< psd/tize >}}
 ## Font.FontFamily property
 
 Yazı tipi ailesini alır veya ayarlar.
@@ -14,14 +15,14 @@ Yazı tipi ailesini alır veya ayarlar.
 public string FontFamily { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipi ailesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

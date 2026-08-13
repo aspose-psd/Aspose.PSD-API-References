@@ -1,48 +1,49 @@
 ---
-title: PsdImageArgumentException.PsdImageArgumentException
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImageArgumentException inşaatçı. Yeni bir örneğini başlatır.PsdImageArgumentException sınıf.
+title: "PsdImageArgumentException.PsdImageArgumentException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImageArgumentException yapıcısı. PsdImageArgumentException sınıfının yeni bir örneğini oluşturur."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`PsdImageArgumentException`](../) sınıf.
+Yeni bir örnek oluşturur [`PsdImageArgumentException`](../) sınıfının.
 
 ```csharp
 public PsdImageArgumentException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImageArgumentException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageArgumentException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PsdImageArgumentException`](../) sınıf.
+Yeni bir örnek oluşturur [`PsdImageArgumentException`](../) sınıfının.
 
 ```csharp
 public PsdImageArgumentException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImageArgumentException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

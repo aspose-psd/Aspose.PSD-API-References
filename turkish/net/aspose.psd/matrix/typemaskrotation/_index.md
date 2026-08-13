@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix alan. Bu sabit döndürme bayrağı bitlerinden herhangi biri için bir bit maskesidir.
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix alanı. Bu sabit, dönüşüm bayrak bitlerinden herhangi biri için bir bit maskesidir."
 type: docs
 weight: 250
 url: /tr/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-Bu sabit, döndürme bayrağı bitlerinden herhangi biri için bir bit maskesidir.
+Bu sabit, döndürme bayrak bitlerinden herhangi biri için bir bit maskesidir.
 
 ```csharp
 public const int TypeMaskRotation;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

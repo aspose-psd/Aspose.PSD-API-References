@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Aciliyeti ayarlar.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Aciliyeti ayarlar"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
 Aciliyeti ayarlar.
@@ -14,24 +15,24 @@ Aciliyeti ayarlar.
 public void SetUrgency(int urgency)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| urgency | Int32 | aciliyet |
+| aciliyet | Int32 | Aciliyet. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | aciliyet;Geçerli aralık 1 ile 8 arasındadır |
+| ArgumentOutOfRangeException | urgency;Geçerli aralık 1 ile 8 arasındadır |
 
-### Notlar
+## Açıklamalar
 
-Aciliyet, 1'den 8'e kadar öfke içinde olmalıdır.
+Aciliyet 1'den 8'e kadar olmalıdır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

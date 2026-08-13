@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource mülk. Bu örneğin ayrı depolanan veri olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource özelliği. Bu örneğin verisinin ayrık olarak depolanıp depolanmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-Bu örneğin ayrı depolanan veri olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin verisinin ayrı ayrı depolanıp depolanmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek ayrı depolanan veriler ise; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek veriyi ayrık olarak depoluyorsa; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

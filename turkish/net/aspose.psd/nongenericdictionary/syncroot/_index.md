@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.SyncRoot
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. ye erişimi senkronize etmek için kullanılabilecek bir nesne alırICollection .
+title: "NonGenericDictionary.SyncRoot"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. ICollection erişimini senkronize etmek için kullanılabilecek bir nesne alır."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/nongenericdictionary/syncroot/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.SyncRoot property
 
-'ye erişimi senkronize etmek için kullanılabilecek bir nesne alırICollection .
+ICollection erişimini senkronize etmek için kullanılabilecek bir nesne alır.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Erişimi senkronize etmek için kullanılabilecek bir nesneICollection.
+ICollection erişimini senkronize etmek için kullanılabilecek bir nesne.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

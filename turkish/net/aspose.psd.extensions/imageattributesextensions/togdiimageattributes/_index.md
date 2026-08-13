@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributesExtensions yöntem. dönüştürürImageAttributes içinImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributesExtensions yöntemi. ImageAttributes'ı ImageAttributes'e dönüştürür"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-dönüştürür[`ImageAttributes`](../../../aspose.psd/imageattributes/) içinImageAttributes .
+Şu [`ImageAttributes`](../../../aspose.psd/imageattributes/) nesnesini ImageAttributes'e dönüştürür.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | bu[`ImageAttributes`](../../../aspose.psd/imageattributes/) dönüştürmek. |
+| imageAttributes | ImageAttributes | Dönüştürülecek [`ImageAttributes`](../../../aspose.psd/imageattributes/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşImageAttributes.
+Dönüştürülmüş ImageAttributes.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Kısmi piksel yükleyiciyi kullanarak varsayılan ham veri dizisini alır.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage metodu. Kısmi piksel yükleyicisini kullanarak varsayılan ham veri dizisini alır."
 type: docs
 weight: 300
 url: /tr/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-Kısmi piksel yükleyiciyi kullanarak varsayılan ham veri dizisini alır.
+Kısmi piksel yükleyici kullanarak varsayılan ham veri dizisini alır.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
     RawDataSettings rawDataSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Piksel alınacak dikdörtgen. |
-| partialRawDataLoader | IPartialRawDataLoader | Kısmi ham veri yükleyici. |
+| dikdörtgen | Rectangle | Piksellerin alınacağı dikdörtgen. |
+| partialRawDataLoader | IPartialRawDataLoader | Kısmi ham veri yükleyicisi. |
 | rawDataSettings | RawDataSettings | Ham veri ayarları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,21 +41,21 @@ Varsayılan ham veri dizisini alır.
 public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Ham verilerinin alınacağı dikdörtgen. |
+| dikdörtgen | Rectangle | Ham veri alınacak dikdörtgen. |
 | rawDataSettings | RawDataSettings | Ham veri ayarları. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Varsayılan ham veri dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

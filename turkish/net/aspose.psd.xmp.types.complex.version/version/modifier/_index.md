@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD for .NET API Referansı
-description: Version mülk. Değiştiriciyi alır veya ayarlar.
+title: "Version.Modifier"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Version özelliği. Değiştiriciyi alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-Değiştiriciyi alır veya ayarlar.
+Değiştireni alır veya ayarlar.
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Değiştirici.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Version](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadFloat
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan tek bir kayan değer okuyun.
+title: "TiffStreamReader.ReadFloat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan tek bir kayan nokta (float) değeri okur."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloat method
 
-Akıştan tek bir kayan değer okuyun.
+Akıştan tek bir float değeri okur.
 
 ```csharp
 public float ReadFloat(long position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
+| konum | Int64 | Okunacak konum. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tek kayan değer.
+Tek kayan nokta (float) değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

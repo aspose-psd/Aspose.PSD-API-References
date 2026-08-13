@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Bunun alfa bileşen değerini alırColoryapı.
+title: "Color.A"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Bu Color yapısının alfa bileşen değerini alır"
 type: docs
 weight: 1460
 url: /tr/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-Bunun alfa bileşen değerini alır[`Color`](../)yapı.
+Bu [`Color`](../) yapısının alfa bileşen değerini alır.
 
 ```csharp
 public byte A { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun alfa bileşen değeri[`Color`](../).
+Bu [`Color`](../) yapısının alfa bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

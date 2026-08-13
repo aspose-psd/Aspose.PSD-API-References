@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetGrayscale
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile Gri tonlamalı renk alır.
+title: "PixelDataFormat.GetGrayscale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Örnek başına belirtilen bit sayısıyla Gri tonlamalı rengi alır."
 type: docs
 weight: 230
 url: /tr/net/aspose.psd/pixeldataformat/getgrayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetGrayscale method
 
-Örnek başına belirtilen sayıda bit ile Gri tonlamalı renk alır.
+Örnek başına belirtilen bit sayısıyla Gri tonlamalı rengi alır.
 
 ```csharp
 public static PixelDataFormat GetGrayscale(int bitsPerSample)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Gri tonlama rengi.
+Gri tonlamalı renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

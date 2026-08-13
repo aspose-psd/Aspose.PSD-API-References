@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeIdentity
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix alan. Bir kimlik dönüşümü çıkış koordinatlarının her zaman giriş koordinatlarıyla aynı olduğu bir dönüşümdür. Bu dönüşüm kimlik dönüşümünden başka bir şeyse türü ya sabit GENERAL_TRANSFORM ya da a için uygun işaret bitlerinin kombinasyonu olacaktır. bu dönüşümün gerçekleştirdiği çeşitli koordinat dönüşümleri.
+title: "Matrix.TypeIdentity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix alanı. Bir birim dönüşüm, çıktı koordinatlarının her zaman giriş koordinatlarıyla aynı olduğu dönüşümdür. Bu dönüşüm birim dönüşümden farklı ise, tür ya GENERAL_TRANSFORM sabiti ya da bu dönüşümün gerçekleştirdiği çeşitli koordinat dönüşümleri için uygun bayrak bitlerinin bir kombinasyonu olacaktır."
 type: docs
 weight: 240
 url: /tr/net/aspose.psd/matrix/typeidentity/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeIdentity field
 
-Bir kimlik dönüşümü, çıkış koordinatlarının her zaman giriş koordinatlarıyla aynı olduğu bir dönüşümdür. Bu dönüşüm, kimlik dönüşümünden başka bir şeyse, türü ya sabit GENERAL_TRANSFORM ya da a için uygun işaret bitlerinin kombinasyonu olacaktır. bu dönüşümün gerçekleştirdiği çeşitli koordinat dönüşümleri.
+Kimlik dönüşümü, çıktı koordinatlarının her zaman giriş koordinatlarıyla aynı olduğu bir dönüşümdür. Bu dönüşüm kimlik dönüşümü dışında bir şey ise, tür ya GENERAL_TRANSFORM sabiti ya da bu dönüşümün gerçekleştirdiği çeşitli koordinat dönüşümleri için uygun bayrak bitlerinin bir kombinasyonu olacaktır.
 
 ```csharp
 public const int TypeIdentity;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

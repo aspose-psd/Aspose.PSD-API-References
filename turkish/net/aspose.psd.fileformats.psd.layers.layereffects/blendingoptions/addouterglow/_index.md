@@ -1,24 +1,25 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendingOptions yöntem. Dış ışıma efektini ekler.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendingOptions yöntemi. Dış parıltı efektini ekler"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
-Dış ışıma efektini ekler.
+Dış parıltı efektini ekler.
 
 ```csharp
 public OuterGlowEffect AddOuterGlow()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturuldu[`OuterGlowEffect`](../../outergloweffect/) nesne
+Oluşturulan [`OuterGlowEffect`](../../outergloweffect/) nesnesi
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Point.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Bunun için bir karma kod döndürürPoint .
+title: "Point.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Bu Point için bir karma kodu döndürür."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/point/gethashcode/
 ---
+{{< psd/tize >}}
 ## Point.GetHashCode method
 
-Bunun için bir karma kod döndürür[`Point`](../) .
+Bu [`Point`](../) için bir karma kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örnek için, karma algoritmalarda ve karma tablo gibi veri yapılarında kullanıma uygun bir karma kodu.
+Bu örnek için bir karma kodu, karma algoritmaları ve karma tablo gibi veri yapılarında kullanılmaya uygundur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

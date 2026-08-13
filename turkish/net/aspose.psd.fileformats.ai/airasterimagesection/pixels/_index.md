@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. int color piksel dizisini alır.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. int renk piksel dizisini alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-int color piksel dizisini alır.
+int renk piksel dizisini alır.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 int renk piksel dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

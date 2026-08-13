@@ -1,27 +1,28 @@
 ---
-title: Layer.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer yöntem. Bu örnek için bir karma kod döndürür.
+title: "Layer.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yöntemi. Bu örnek için bir karma kodu döndürür"
 type: docs
-weight: 350
+weight: 370
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/gethashcode/
 ---
+{{< psd/tize >}}
 ## Layer.GetHashCode method
 
-Bu örnek için bir karma kod döndürür.
+Bu örnek için bir hash kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örnek için bir karma kod, karma algoritmalarda ve karma tablo gibi veri yapılarında kullanıma uygun.
+Bu örnek için bir karma kodu, karma algoritmaları ve karma tablo gibi veri yapılarında kullanılmaya uygundur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

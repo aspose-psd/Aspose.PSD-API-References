@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Aspose.PSD for .NET API Referansı
-description: FxrpResource mülk. Referans noktasının ysini alır veya ayarlar
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FxrpResource özelliği. Referans noktasının y değerini alır veya ayarlar."
 type: docs
-weight: 70
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-Referans noktasının y'sini alır veya ayarlar
+Referans noktasının y değerini alır veya ayarlar
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Referans noktasının y'si
+Referans noktasının y değeri
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

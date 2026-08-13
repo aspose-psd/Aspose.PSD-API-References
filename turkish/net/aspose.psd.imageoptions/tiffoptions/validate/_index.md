@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.Validate
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions yöntem. Seçeneklerin geçerli bir etiket kombinasyonuna sahip olup olmadığını doğrular
+title: "TiffOptions.Validate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions method. Seçeneklerin geçerli etiket kombinasyonuna sahip olup olmadığını doğrular"
 type: docs
-weight: 750
+weight: 760
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/validate/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Validate method
 
-Seçeneklerin geçerli bir etiket kombinasyonuna sahip olup olmadığını doğrular
+Seçeneklerin geçerli bir etiket kombinasyonuna sahip olup olmadığını doğrular.
 
 ```csharp
 public void Validate()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

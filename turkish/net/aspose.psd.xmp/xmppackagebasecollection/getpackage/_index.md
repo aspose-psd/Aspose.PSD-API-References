@@ -1,32 +1,33 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackageBaseCollection yöntem. AlırXmpPackage namespaceURI. adına göre
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackageBaseCollection yöntemi. XmpPackage'i namespaceURI'sine göre alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-Alır[`XmpPackage`](../../xmppackage/) namespaceURI. adına göre
+[`XmpPackage`](../../xmppackage/) öğesini namespaceURI'sine göre alır.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| namespaceUri | String | Paketin alınacağı ad alanı URI'si. |
+| namespaceUri | String | Paketin alınacağı namespace URI. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen ad alanı Uri. için XMP paketini döndürür
+Belirtilen namespace URI için XMP paketini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

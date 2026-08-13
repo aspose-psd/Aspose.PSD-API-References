@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpBaseSchema
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı temel tanımlayıcı bilgiler sağlayan XMP Temel Şema ile ilgili yardımcı sınıfları sabitleri ve yöntemleri içerir.
+title: "Aspose.PSD.Xmp.Schemas.XmpBaseSchema"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, temel açıklayıcı bilgiler sağlayan XMP Basic Schema ile ilgili yardımcı sınıflar, sabitler ve yöntemler içerir."
 type: docs
-weight: 560
+weight: 600
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/
 ---
-Ad alanı, temel tanımlayıcı bilgiler sağlayan XMP Temel Şema ile ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
+{{< psd/tize >}}
+Namespace, temel tanımlayıcı bilgileri sağlayan XMP Basic Schema ile ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [XmpBasicPackage](./xmpbasicpackage/) | XMP temel ad alanını temsil eder. |
+| [XmpBasicPackage](./xmpbasicpackage/) | XMP temel namespace'ini temsil eder. |
 
 

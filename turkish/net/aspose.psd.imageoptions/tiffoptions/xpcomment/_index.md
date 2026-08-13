@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Windows Gezgini tarafından kullanılan görüntüye ilişkin yorumu alır veya ayarlar.
+title: "TiffOptions.XPComment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Windows Explorer tarafından kullanılan görüntüye yorum alır veya ayarlar"
 type: docs
-weight: 600
+weight: 610
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-Windows Gezgini tarafından kullanılan, görüntüye ilişkin yorumu alır veya ayarlar.
+Görüntü üzerindeki yorumu alır veya ayarlar, Windows Explorer tarafından kullanılır.
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Windows Gezgini tarafından kullanılan görüntüye yorum yapın.
+Görüntü yorumu, Windows Explorer tarafından kullanılır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

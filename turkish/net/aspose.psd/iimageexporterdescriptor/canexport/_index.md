@@ -1,34 +1,35 @@
 ---
-title: IImageExporterDescriptor.CanExport
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageExporterDescriptor yöntem. Görüntü dışa aktarıcının belirtilen görüntüyü kaydetme seçenekleri tarafından belirtilen belirtilen görüntü formatına aktarıp aktaramayacağını belirler.
+title: "IImageExporterDescriptor.CanExport"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageExporterDescriptor yöntemi. Görüntü dışa aktarıcının, kaydetme seçenekleriyle belirtilen görüntüyü belirtilen görüntü biçimine dışa aktarabileceğini belirler"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iimageexporterdescriptor/canexport/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CanExport method
 
-Görüntü dışa aktarıcının belirtilen görüntüyü, kaydetme seçenekleri tarafından belirtilen belirtilen görüntü formatına aktarıp aktaramayacağını belirler.
+Görüntü dışa aktarıcının, kaydetme seçenekleriyle belirtilen belirli görüntüyü belirtilen görüntü biçimine dışa aktarabilip aktaramayacağını belirler.
 
 ```csharp
 public bool CanExport(Image image, ImageOptionsBase optionsBase)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Dışa aktarılacak resim. |
-| optionsBase | ImageOptionsBase | Seçenekler tabanı. |
+| görüntü | Image | Dışa aktarılacak görüntü. |
+| optionsBase | ImageOptionsBase | Seçeneklerin temeli. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`Doğru` bu tanımlayıcı tarafından oluşturulan dışa aktarıcı, belirtilen görüntüyü belirtilen dosya biçimine aktarabilirse; aksi takdirde,`YANLIŞ` .
+`True` eğer bu tanımlayıcı tarafından oluşturulan dışa aktarıcı, belirtilen görüntüyü belirtilen dosya biçimine dışa aktarabiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporterDescriptor](../)
-* ad alanı [Aspose.PSD](../../iimageexporterdescriptor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.SetRgbColor
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion3 yöntem. RGB rengini ayarlar.
+title: "PhflResourceVersion3.SetRgbColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion3 yöntemi. RGB rengini ayarlar."
 type: docs
-weight: 120
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.SetRgbColor method
 
 RGB rengini ayarlar.
@@ -14,15 +15,15 @@ RGB rengini ayarlar.
 public override void SetRgbColor(Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | Renk. |
+| renk | Renk | Renk. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion3](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

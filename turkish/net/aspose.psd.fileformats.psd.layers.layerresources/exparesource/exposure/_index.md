@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Exposure
-second_title: Aspose.PSD for .NET API Referansı
-description: ExpaResource mülk. Pozlamayı alır veya ayarlar.
+title: "ExpaResource.Exposure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExpaResource özelliği. Pozlamayı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Exposure property
 
 Pozlamayı alır veya ayarlar.
@@ -14,14 +15,14 @@ Pozlamayı alır veya ayarlar.
 public float Exposure { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Pozlama.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD for .NET API Referansı
-description: IopaResource mülk. Dolgu opaklığını alır veya ayarlar.
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IopaResource özelliği. Dolgu opaklığını alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
 Dolgu opaklığını alır veya ayarlar.
@@ -14,14 +15,14 @@ Dolgu opaklığını alır veya ayarlar.
 public byte FillOpacity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dolgu opaklığı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IopaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

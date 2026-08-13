@@ -1,24 +1,25 @@
 ---
-title: Image.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Görüntü verilerini alttaki akışa kaydeder.
+title: "Image.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image method. Görüntü verilerini temel akışa kaydeder"
 type: docs
-weight: 230
+weight: 240
 url: /tr/net/aspose.psd/image/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Görüntü verilerini alttaki akışa kaydeder.
+Görüntü verilerini temel akışa kaydeder.
 
 ```csharp
 public void Save()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ Nesnenin verilerini, kaydetme seçeneklerine göre belirtilen dosya biçiminde b
 public virtual void Save(string filePath, ImageOptionsBase options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
-| options | ImageOptionsBase | Seçenekler. |
+| seçenekler | ImageOptionsBase | Seçenekler. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Adobe Illustrator dosyalarını Aspose.PSD'de PDF formatına nasıl aktarabileceğinizi göstermektedir.
+Aşağıdaki örnek, Adobe Illustrator dosyalarını Aspose.PSD içinde PDF formatına nasıl dışa aktarabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -50,12 +51,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-Aşağıdaki örnek, AsposePSD'nin PSB dosyalarının bir PSD formatına dışa aktarılmasını desteklediğini göstermektedir.
+Aşağıdaki örnek, AsposePSD'nin PSB dosyalarını PSD formatına dışa aktarmayı desteklediğini gösterir.
 
 ```csharp
 [C#]
 
-// PSB'yi PDF olarak kaydetme desteği
+// PSB'yi PDF olarak kaydetmeyi destekle
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -65,12 +66,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki kod, PsdImage'ı seçilebilir metinle PDF belgesi olarak kaydediyor.
+Aşağıdaki kod, PsdImage'ı seçilebilir metin içeren PDF belgesi olarak kaydeder.
 
 ```csharp
 [C#]
 
-// PSD'yi PDF'ye kaydetmek, seçilebilir metin sağlamaz
+// PSD'yi PDF olarak kaydetmek seçilebilir metin sağlamaz
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -80,7 +81,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, AI dosyasını Aspose.PSD'de PSD ve PNG formatına nasıl aktarabileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde AI dosyasını PSD ve PNG formatına nasıl dışa aktarabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, sağdan sola yazılan diller için ITextPortion aracılığıyla Metin Hizalamanın doğru çalıştığını gösterir.
+Aşağıdaki örnek, ITextPortion aracılığıyla metin hizalamasının sağdan sola dillerde doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -114,23 +115,23 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Bu örnek, bir Görüntüyü Kaydetmek için basit adımları gösterir. Bu işlemi göstermek için, bir disk konumundan varolan bir dosyayı yüklüyoruz, görüntü üzerinde Döndürme işlemini gerçekleştiriyoruz ve Dosya Yolunu kullanarak görüntüyü Jpeg dosya formatında kaydediyoruz.
+Bu örnek, bir Image'i Save etmek için basit adımları gösterir. Bu işlemi göstermek için, bir disk konumundan mevcut bir dosya yüklüyor, görüntü üzerinde Rotate işlemi gerçekleştiriyor ve File Path kullanarak görüntüyü Jpeg dosya formatında Save ediyor.
 
 ```csharp
 [C#]
 
-//imaj sınıfının bir örneğini oluşturun ve onu Dosya yolu aracılığıyla mevcut bir dosyayla başlatın
+//Image sınıfının bir örneğini oluşturun ve Dosya yolu aracılığıyla mevcut bir dosyayla başlatın
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //Görüntüyü X ekseni etrafında 180 derece döndürün
+    //Görüntüyü X ekseni etrafında 180 derece döndürün.
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    //Görüntüyü, varsayılan JpegOptions ayarlarıyla Dosya Yoluna Jpeg olarak kaydedin
+    //Image'i Jpeg olarak Dosya Yolu'na, varsayılan JpegOptions ayarlarıyla kaydedin
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 }
 ```
 
-Aşağıdaki örnek, Aspose.PSD'de LayerGroup görünürlüğünü nasıl değiştirebileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde LayerGroup görünürlüğünü nasıl değiştirebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -138,14 +139,14 @@ Aşağıdaki örnek, Aspose.PSD'de LayerGroup görünürlüğünü nasıl deği�
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// katman adlarında değişiklikler yapın ve kaydedin
+// katman adlarında değişiklik yapın ve kaydedin
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // Grup içindeki her şeyi kapat
+        // Bir grup içindeki her şeyi kapat
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -156,7 +157,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Aşağıdaki örnek, Aspose.PSD'de basit kurucu sürümü kullanılıyorsa yeni oluşturulmuş bir katman üzerinde nasıl çizim yapabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde basit yapıcı sürümü kullanılırsa yeni oluşturulan bir katmanda nasıl çizebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -175,17 +176,17 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // Kalem aracıyla bir dikdörtgen çizin
+    // Pen aracıyla bir dikdörtgen çizin
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // Düz Fırça ile Mavi renkte başka bir dikdörtgen çizin
+    // Mavi renkte Solid Brush ile başka bir dikdörtgen çizin
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını okumanın ve kanal başına 16 bit RGB'ye kaydetmenin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarını kanal başına 16 bit RGB'ye okumanın ve kaydetmenin doğru çalıştığını ve istisna oluşmadığını gösterir.
 
 ```csharp
 [C#]
@@ -213,12 +214,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Burada bir istisna olmamalıdır.
+    // Burada istisna olmamalıdır.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını kanal başına 8 bit olarak okumanın ve kaydetmenin düzgün ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarını kanal başına 8 bit Grayscale'e okumanın ve kaydetmenin doğru çalıştığını ve istisna oluşmadığını gösterir.
 
 ```csharp
 [C#]
@@ -246,12 +247,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Burada bir istisna olmamalıdır.
+    // Burada istisna olmamalıdır.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Aşağıdaki örnek, Aspose.PSD'de PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde PassThrough katman karıştırma modunu nasıl kullanabileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -292,7 +293,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -336,7 +337,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını okumanın ve kaydetmenin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarının okunup kaydedilmesinin doğru bir şekilde ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -382,7 +383,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Burada bir istisna olmamalıdır.
+        // Burada istisna olmamalıdır.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -398,12 +399,12 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -415,26 +416,26 @@ Nesnenin verilerini, kaydetme seçeneklerine göre belirtilen dosya biçiminde b
 public virtual void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
-| options | ImageOptionsBase | Seçenekler. |
-| boundsRectangle | Rectangle | Hedef görüntü dikdörtgeni sınırlar. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
+| seçenekler | ImageOptionsBase | Seçenekler. |
+| boundsRectangle | Rectangle | Hedef görüntü sınırları dikdörtgeni. Kaynak sınırları için boş dikdörtgeni ayarlayın. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | seçenekler |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Görüntü kaydedilemedi. |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Image kaydetme başarısız oldu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -446,47 +447,47 @@ Görüntünün verilerini, kaydetme seçeneklerine göre belirtilen dosya biçim
 public void Save(Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Görüntü verilerinin kaydedileceği akış. |
+| stream | Stream | Görüntünün verilerini kaydetmek için akış. |
 | optionsBase | ImageOptionsBase | Kaydetme seçenekleri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | seçeneklerTemel |
-| ArgumentException | Şu anda desteklenmediği için belirtilen biçimde kaydedilemiyor.;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Resim dışa aktarma başarısız oldu. |
+| ArgumentNullException | optionsBase |
+| ArgumentException | Belirtilen formata kaydedilemiyor çünkü şu anda desteklenmiyor.;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Image dışa aktarma başarısız oldu. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, bir Görüntüyü MemoryStream'e Kaydetme işlemini gösterir. Bu işlemi göstermek için, örnek bir disk konumundan varolan bir dosyayı yükler, görüntü üzerinde Döndürme işlemini gerçekleştirir ve görüntüyü Gif formatında kaydeder.
+Bu örnek, bir Image'i MemoryStream'e Saving işleminin sürecini gösterir. Bu işlemi göstermek için, örnek bir disk konumundan mevcut bir dosya yükler, görüntü üzerinde Rotate işlemi gerçekleştirir ve görüntüyü Gif formatında Save eder.
 
 ```csharp
 [C#]
 
-// Bir MemoryStream örneği oluştur
+//MemoryStream bir örneği oluşturun.
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //imaj sınıfının bir örneğini oluşturun ve onu Dosya yolu aracılığıyla mevcut bir dosyayla başlatın
+    //Image sınıfının bir örneğini oluşturun ve Dosya yolu aracılığıyla mevcut bir dosyayla başlatın
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     {
-        //Görüntüyü X ekseni etrafında 180 derece döndürün
+        //Görüntüyü X ekseni etrafında 180 derece döndürün.
         image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-        //Görüntüyü varsayılan GifOptions ayarlarıyla PSD olarak MemoryStream'e kaydedin
+        //Image'i PSD olarak MemoryStream'e, varsayılan GifOptions ayarlarıyla kaydedin
         image.Save(stream, new Aspose.PSD.ImageOptions.GifOptions());
     }
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -498,26 +499,26 @@ Görüntünün verilerini, kaydetme seçeneklerine göre belirtilen dosya biçim
 public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Görüntü verilerinin kaydedileceği akış. |
+| stream | Stream | Görüntünün verilerini kaydetmek için akış. |
 | optionsBase | ImageOptionsBase | Kaydetme seçenekleri. |
-| boundsRectangle | Rectangle | Hedef görüntü dikdörtgeni sınırlar. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
+| boundsRectangle | Rectangle | Hedef görüntü sınırları dikdörtgeni. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | seçeneklerTemel |
-| ArgumentException | Şu anda desteklenmediği için belirtilen biçimde kaydedilemiyor.;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Resim dışa aktarma başarısız oldu. |
+| ArgumentNullException | optionsBase |
+| ArgumentException | Belirtilen formata kaydedilemiyor çünkü şu anda desteklenmiyor.;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Image dışa aktarma başarısız oldu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

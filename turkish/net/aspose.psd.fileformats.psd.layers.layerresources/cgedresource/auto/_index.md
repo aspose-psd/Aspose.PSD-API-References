@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Auto
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.CgEdResource otomatik.
+title: "CgEdResource.Auto"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Bu CgEdResource'ın otomatik olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Auto property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`CgEdResource`](../) otomatik.
+Bu [`CgEdResource`](../) otomatik olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Auto { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` otomatik ise; aksi takdirde,`YANLIŞ` .
+`true` otomatik ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

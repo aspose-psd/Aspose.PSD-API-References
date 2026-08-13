@@ -1,36 +1,37 @@
 ---
-title: Class SmartResourceCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator sınıf. PlLd SoLd ve SoLe kaynakları oluşturabilen SmartResourceCreator sınıfını tanımlar. Adobe Photoshop görüntülerinde akıllı nesne katmanlarını desteklemek için kullanılır.
+title: "Sınıf SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator sınıfı. SmartResourceCreator sınıfını tanımlar; bu sınıf PlLd, SoLd ve SoLe kaynaklarını oluşturabilir. Adobe Photoshop görüntülerindeki akıllı nesne katmanlarını desteklemek için kullanılır."
 type: docs
-weight: 3000
+weight: 3350
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-PlLd, SoLd ve SoLe kaynakları oluşturabilen SmartResourceCreator sınıfını tanımlar. Adobe® Photoshop® görüntülerinde akıllı nesne katmanlarını desteklemek için kullanılır.
+SmartResourceCreator sınıfını tanımlar; bu sınıf PlLd, SoLd ve SoLe kaynaklarını oluşturabilir. Adobe® Photoshop® görüntülerinde akıllı nesne katmanlarını desteklemek için kullanılır.
 
 ```csharp
 public class SmartResourceCreator
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | Yeni bir örneğini başlatır.`SmartResourceCreator` sınıf. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Yeni bir örneğini başlatır.`SmartResourceCreator` verilen şablonla class . |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Yeni bir örneğini başlatır.`SmartResourceCreator` sınıf. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Yeni bir `SmartResourceCreator` sınıfı örneği başlatır. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Verilen şablonla yeni bir `SmartResourceCreator` sınıfı örneği başlatır. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Yeni bir `SmartResourceCreator` sınıfı örneği başlatır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Yerleştirilen kaynağı oluşturur. |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Katıştırılmış akıllı nesne kaynağını oluşturur. |
+| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Yerleştirilmiş kaynağı oluşturur. |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Gömülü akıllı nesne kaynağını oluşturur. |
 | [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Harici akıllı nesne kaynağını oluşturur. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, SoLEResource, SmartObjectResource ve PlacedResource kaynaklarının desteğini gösterir.
 
@@ -118,7 +119,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Kaynakta değiştirmediğimiz bu değerler
+    // Bu değerleri kaynakta değiştirmiyoruz
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -126,15 +127,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Bu değerler PlLdResource'da (belirtilen UniqueId ile) de değiştirilmelidir.
-    // ve bazılarının LinkDataSource'daki altı çizili akıllı nesneyle uyumlu olması gerekir
+    // Bu değerler ayrıca belirtilen UniqueId ile PlLdResource içinde değiştirilmelidir
+    // ve bunların bir kısmı LinkDataSource içindeki altındaki akıllı nesneyle uyumlu olmalıdır
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Bu unique ID varsa referanslarda değiştirilmelidir.
+    // Bu benzersiz Id, varsa referanslarda değiştirilmelidir
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,15 +164,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Bazı parametrelere dikkat edin: kaydedilen görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-    ////kaynak.UOrder = 6;
-    ////kaynak.VOrder = 9;
+    // Bazı parametrelerle dikkatli olun: kaydedilen görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-    // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+    // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+    // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+    // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -335,12 +336,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

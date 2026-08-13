@@ -1,23 +1,24 @@
 ---
-title: LspfResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: LspfResource mülk. Katman kaynak imzasını alır.
+title: "LspfResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LspfResource özelliği. Katman kaynağı imzasını alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/signature/
 ---
+{{< psd/tize >}}
 ## LspfResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LspfResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

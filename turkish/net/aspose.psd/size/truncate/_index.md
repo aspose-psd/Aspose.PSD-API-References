@@ -1,32 +1,33 @@
 ---
-title: Size.Truncate
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Belirtileni dönüştürürSizeF bir yapıSize değerlerini keserek yapıSizeF sonraki alt tamsayı değerlerine yapı.
+title: "Size.Truncate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Belirtilen SizeF yapısını, SizeF yapısının değerlerini bir alt tam sayıya kırparak bir Size yapısına dönüştürür."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-Belirtileni dönüştürür[`SizeF`](../../sizef/) bir yapı[`Size`](../) değerlerini keserek yapı[`SizeF`](../../sizef/) sonraki alt tamsayı değerlerine yapı.
+Belirtilen [`SizeF`](../../sizef/) yapısını, [`SizeF`](../../sizef/) yapısının değerlerini bir alt tam sayıya kırparak bir [`Size`](../) yapısına dönüştürür.
 
 ```csharp
 public static Size Truncate(SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | SizeF | bu[`SizeF`](../../sizef/) dönüştürülecek yapı. |
+| size | SizeF | Dönüştürülecek [`SizeF`](../../sizef/) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Size`](../) bu yöntemin dönüştürdüğü yapı.
+Bu yöntemin dönüştürdüğü [`Size`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: AsyncTaskProgress.ProgressPercentage
-second_title: Aspose.PSD for .NET API Referansı
-description: AsyncTaskProgress alan. Zaman uyumsuz görevin yüzde cinsinden ilerlemesi.
+title: "AsyncTaskProgress.ProgressPercentage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AsyncTaskProgress alanı. Asenkron görevin yüzde olarak ilerlemesi."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.asynctask/asynctaskprogress/progresspercentage/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.ProgressPercentage field
 
-Zaman uyumsuz görevin yüzde cinsinden ilerlemesi.
+Asenkron görevin ilerlemesi, yüzde olarak.
 
 ```csharp
 public readonly int ProgressPercentage;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AsyncTaskProgress](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

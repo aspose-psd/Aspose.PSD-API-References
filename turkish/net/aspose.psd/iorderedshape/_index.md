@@ -1,36 +1,37 @@
 ---
-title: Interface IOrderedShape
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IOrderedShape arayüz. Sıralı bir şekli temsil eder. Sıralı bir şekil bir başlangıç noktası ve bitiş noktası olan sürekli bir noktalar kümesidir. Belirli bir kural kullanılarak bağlanan sürekli noktalar kümesidir.
+title: "Arayüz IOrderedShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IOrderedShape arayüzü. Sıralı bir şekli temsil eder. Sıralı bir şekil, bir başlangıç noktası ve bir bitiş noktası olan sürekli bir nokta kümesidir. Belirli bir kural kullanılarak bağlanan sürekli nokta kümesi."
 type: docs
-weight: 4500
+weight: 5000
 url: /tr/net/aspose.psd/iorderedshape/
 ---
+{{< psd/tize >}}
 ## IOrderedShape interface
 
-Sıralı bir şekli temsil eder. Sıralı bir şekil, bir başlangıç noktası ve bitiş noktası olan sürekli bir noktalar kümesidir. Belirli bir kural kullanılarak bağlanan sürekli noktalar kümesidir.
+Sıralı bir şekli temsil eder. Sıralı şekil, bir başlangıç ve bitiş noktasına sahip sürekli bir nokta kümesidir. Belirli bir kural kullanılarak bağlanan sürekli nokta kümesi.
 
 ```csharp
 public interface IOrderedShape
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | Bitiş şekil noktasını alır. |
-| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | Sıralı şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktalarının bir anlamı yoktur. |
-| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | Başlangıç şekil noktasını alır. |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | Şeklin son noktasını alır. |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | Sıralı şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktaları bir anlam taşımaz. |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | Şeklin başlangıç noktasını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | Bu şekil için noktaların sırasını tersine çevirir. |
+| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | Bu şekil için nokta sırasını tersine çevirir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

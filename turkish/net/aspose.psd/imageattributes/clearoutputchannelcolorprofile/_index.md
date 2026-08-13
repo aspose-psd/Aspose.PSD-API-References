@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearOutputChannelColorProfile
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için çıktı kanalı renk profili ayarını temizler.
+title: "ImageAttributes.ClearOutputChannelColorProfile"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için çıkış kanalı renk profili ayarını temizler"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/imageattributes/clearoutputchannelcolorprofile/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannelColorProfile() {#clearoutputchannelcolorprofile}
 
-Varsayılan kategori için çıktı kanalı renk profili ayarını temizler.
+Varsayılan kategori için çıkış kanalı renk profili ayarını temizler.
 
 ```csharp
 public void ClearOutputChannelColorProfile()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearOutputChannelColorProfile(ColorAdjustType) {#clearoutputchannelcolorprofile_1}
 
-Belirli bir kategori için çıktı kanalı renk profili ayarını temizler.
+Belirtilen kategori için çıkış kanalı renk profili ayarını temizler.
 
 ```csharp
 public void ClearOutputChannelColorProfile(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) çıkış kanalı profili ayarının silindiği kategoriyi belirtir. |
+| type | ColorAdjustType | Çıkış kanalı profil ayarının temizlendiği kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: Aspose.PSD for .NET API Referansı
-description: PathGradientBrushBase mülk. Degrade düşüşü için odak noktasını alır veya ayarlar.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathGradientBrushBase özelliği. Degrade düşüşü için odak noktasını alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-Degrade düşüşü için odak noktasını alır veya ayarlar.
+Gradyan düşüşü için odak noktasını alır veya ayarlar.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`PointF`](../../../aspose.psd/pointf/) bu, degrade düşüşü için odak noktasını temsil eder.
+Degrade düşüşü için odak noktasını temsil eden bir [`PointF`](../../../aspose.psd/pointf/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

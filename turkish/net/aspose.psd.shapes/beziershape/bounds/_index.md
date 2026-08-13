@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierShape mülk. Nesnenin sınırlarını alır.
+title: "BezierShape.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierShape özelliği. Nesnenin sınırlarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
 Nesnenin sınırlarını alır.
@@ -14,15 +15,15 @@ Nesnenin sınırlarını alır.
 public override RectangleF Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../beziershape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

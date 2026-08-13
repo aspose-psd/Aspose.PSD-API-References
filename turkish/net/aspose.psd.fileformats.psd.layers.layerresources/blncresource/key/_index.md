@@ -1,23 +1,24 @@
 ---
-title: BlncResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Katman kaynak anahtarını alır.
+title: "BlncResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/key/
 ---
+{{< psd/tize >}}
 ## BlncResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

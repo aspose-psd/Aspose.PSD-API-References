@@ -1,34 +1,35 @@
 ---
-title: DublinCorePackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: DublinCorePackage yöntem. Dizi özelliğini ekler.
+title: "DublinCorePackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DublinCorePackage yöntemi. Dize özelliği ekler"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage.AddValue method
 
-Dizi özelliğini ekler.
+Dize özelliği ekler.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Dize değeri. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Dize değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | key;DublinCore özelliği boş olamaz |
+| ArgumentNullException | key;DublinCore özelliği null olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

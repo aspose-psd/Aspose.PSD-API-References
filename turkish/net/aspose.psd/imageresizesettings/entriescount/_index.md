@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageResizeSettings mülk. Count girişlerini alır veya ayarlar
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageResizeSettings özelliği. Giriş sayısını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-Count girişlerini alır veya ayarlar
+Giriş sayısını alır veya ayarlar
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Giriş sayısı
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../)
-* ad alanı [Aspose.PSD](../../imageresizesettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

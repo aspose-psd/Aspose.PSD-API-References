@@ -1,11 +1,12 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Parlaklık değerini alır veya ayarlar.
+title: "ExifData.BrightnessValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Parlaklık değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
 Parlaklık değerini alır veya ayarlar.
@@ -14,15 +15,15 @@ Parlaklık değerini alır veya ayarlar.
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Parlaklık değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

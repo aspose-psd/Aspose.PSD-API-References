@@ -1,33 +1,34 @@
 ---
-title: Point.Subtract
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Belirtilen çıkarma işleminin sonucunu döndürürSize belirtilendenPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Belirtilen Point'ten belirtilen Size'ı çıkarmanın sonucunu döndürür."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-Belirtilen çıkarma işleminin sonucunu döndürür[`Size`](../../size/) belirtilenden[`Point`](../) .
+Belirtilen [`Point`](../) nesnesinden belirtilen [`Size`](../../size/) nesnesini çıkarmanın sonucunu döndürür.
 
 ```csharp
 public static Point Subtract(Point point, Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../) den çıkarılmalıdır. |
-| size | Size | bu[`Size`](../../size/) -den çıkarmak için*point*. |
+| point | Point | Çıkarma işleminin yapılacağı [`Point`](../). |
+| size | Size | *point*'den çıkarılacak [`Size`](../../size/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Point`](../) çıkarma işleminin sonucudur.
+Çıkarma işleminin sonucu olan [`Point`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Class PenExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.PenExtensions sınıf. Şunun için uzantı yöntemleri içerirPen VePen .
+title: "Sınıf PenExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.PenExtensions sınıfı. Pen ve Pen için uzantı yöntemlerini içerir."
 type: docs
-weight: 1140
+weight: 1150
 url: /tr/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-Şunun için uzantı yöntemleri içerir:[`Pen`](../../aspose.psd/pen/) VePen .
+İçerir [`Pen`](../../aspose.psd/pen/) ve Pen için uzantı yöntemlerini.
 
 ```csharp
 public static class PenExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | dönüştürür[`Pen`](../../aspose.psd/pen/) içinPen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | [`Pen`](../../aspose.psd/pen/) öğesini Pen'e dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

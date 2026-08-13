@@ -1,11 +1,12 @@
 ---
-title: Jpeg2000Options.Codec
-second_title: Aspose.PSD for .NET API Referansı
-description: Jpeg2000Options mülk. JPEG2000 codecini alır veya ayarlar
+title: "Jpeg2000Options.Codec"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Jpeg2000Options özelliği. JPEG2000 codec'ini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/jpeg2000options/codec/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Codec property
 
 JPEG2000 codec'ini alır veya ayarlar
@@ -14,15 +15,15 @@ JPEG2000 codec'ini alır veya ayarlar
 public Jpeg2000Codec Codec { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-JPEG2000 codec
+JPEG2000 codec'i
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [Jpeg2000Codec](../../../aspose.psd.fileformats.jpeg2000/jpeg2000codec/)
 * class [Jpeg2000Options](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

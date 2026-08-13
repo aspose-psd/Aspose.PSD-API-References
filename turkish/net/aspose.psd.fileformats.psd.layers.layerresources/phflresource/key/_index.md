@@ -1,23 +1,24 @@
 ---
-title: PhflResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResource mülk. Katman kaynak anahtarını alır.
+title: "PhflResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/key/
 ---
+{{< psd/tize >}}
 ## PhflResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

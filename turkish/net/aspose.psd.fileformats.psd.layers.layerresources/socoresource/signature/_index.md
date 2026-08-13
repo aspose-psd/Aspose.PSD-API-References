@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: SoCoResource mülk. Katman kaynak imzasını alır.
+title: "SoCoResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SoCoResource özelliği. Katman kaynağı imzasını alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoCoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

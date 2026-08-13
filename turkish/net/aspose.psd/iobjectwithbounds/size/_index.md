@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: IObjectWithBounds mülk. Nesne boyutunu alır.
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IObjectWithBounds özelliği. Nesnenin boyutunu alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
-Nesne boyutunu alır.
+Nesnenin boyutunu alır.
 
 ```csharp
 public Size Size { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesne boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../iobjectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

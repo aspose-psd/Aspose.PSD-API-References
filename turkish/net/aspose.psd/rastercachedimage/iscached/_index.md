@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage mülk. Görüntü verilerinin şu anda önbelleğe alınıp alınmadığını gösteren bir değer alır.
+title: "RasterCachedImage.IsCached"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage özelliği. Görüntü verisinin şu anda önbellekte olup olmadığını gösteren bir değeri alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
-Görüntü verilerinin şu anda önbelleğe alınıp alınmadığını gösteren bir değer alır.
+Resim verilerinin şu anda önbelleğe alınıp alınmadığını gösteren bir değeri alır.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` görüntü verileri önbelleğe alınmışsa; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü verisi önbellekteyse; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

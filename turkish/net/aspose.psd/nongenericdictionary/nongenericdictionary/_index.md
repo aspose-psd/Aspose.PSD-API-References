@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary inşaatçı. Yeni bir örneğini başlatır.NonGenericDictionary sınıf.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary yapıcı. NonGenericDictionary sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-Yeni bir örneğini başlatır.[`NonGenericDictionary`](../) sınıf.
+Yeni bir [`NonGenericDictionary`](../) sınıfı örneği oluşturur.
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dictionary | IDictionary | Kullanılacak sözlük. |
+| sözlük | IDictionary | Kullanılacak sözlük. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

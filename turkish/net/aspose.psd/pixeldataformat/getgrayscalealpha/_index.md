@@ -1,56 +1,57 @@
 ---
-title: PixelDataFormat.GetGrayscaleAlpha
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile GrayscaleAlpha rengini alır.
+title: "PixelDataFormat.GetGrayscaleAlpha"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Örnek başına belirtilen bit sayısıyla GrayscaleAlpha rengini alır."
 type: docs
 weight: 240
 url: /tr/net/aspose.psd/pixeldataformat/getgrayscalealpha/
 ---
+{{< psd/tize >}}
 ## GetGrayscaleAlpha(int) {#getgrayscalealpha}
 
-Örnek başına belirtilen sayıda bit ile GrayscaleAlpha rengini alır.
+Örnek başına belirtilen bit sayısıyla Gri tonlamalı Alfa rengini alır.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 GrayscaleAlpha rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetGrayscaleAlpha(int, int) {#getgrayscalealpha_1}
 
-Örnek başına belirtilen sayıda bit ile GrayscaleAlpha rengini alır.
+Örnek başına belirtilen bit sayısıyla Gri tonlamalı Alfa rengini alır.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChannelBits)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
-| alphaChannelBits | Int32 | Alfa kanalında örnek başına bit sayısı. |
+| alphaChannelBits | Int32 | Alfa kanalındaki örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 GrayscaleAlpha rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

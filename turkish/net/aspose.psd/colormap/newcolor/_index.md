@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMap mülk. Yeniyi alır veya ayarlarColor dönüştürülecek yapı.
+title: "ColorMap.NewColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMap özelliği. Dönüştürülecek yeni Color yapısını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-Yeniyi alır veya ayarlar[`Color`](../../color/) dönüştürülecek yapı.
+Dönüştürülecek yeni [`Color`](../../color/) yapısını alır veya ayarlar.
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yeni[`Color`](../../color/) dönüştürülecek yapı.
+Dönüştürülecek yeni [`Color`](../../color/) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* ad alanı [Aspose.PSD](../../colormap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

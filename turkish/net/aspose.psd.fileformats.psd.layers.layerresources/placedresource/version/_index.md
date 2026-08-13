@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD dosyasına yerleştirilen katmanın sürümünü alır genellikle 3.
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD dosyasındaki sürümünü alır, genellikle 3"
 type: docs
-weight: 210
+weight: 200
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-PSD dosyasına yerleştirilen katmanın sürümünü alır, genellikle 3.
+Yerleştirilen katmanın PSD dosyasındaki sürümünü alır, genellikle 3.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yerleştirilen katman sürümü.
+Yerleştirilen katmanın sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class UnknownResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource sınıf. Bilinmeyen kaynak.
+title: "Sınıf UnknownResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource sınıfı. Bilinmeyen kaynak"
 type: docs
-weight: 3330
+weight: 3720
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
 Bilinmeyen kaynak.
@@ -14,33 +15,33 @@ Bilinmeyen kaynak.
 public class UnknownResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [UnknownResource](unknownresource/)(int, int) | Yeni bir örneğini başlatır.`UnknownResource` sınıf. |
+| [UnknownResource](unknownresource/)(int, int) | `UnknownResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | Verileri alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Katman kaynak imzasını alır. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | Veriyi alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Katman kaynağı imzasını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

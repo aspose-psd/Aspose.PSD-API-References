@@ -1,27 +1,28 @@
 ---
-title: SizeF.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. Bunu temsil eden insanlar tarafından okunabilir bir dize oluşturur.SizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Bu SizeF'yi temsil eden insan tarafından okunabilir bir dize oluşturur"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-Bunu temsil eden insanlar tarafından okunabilir bir dize oluşturur.[`SizeF`](../) .
+Bu [`SizeF`](../)'yi temsil eden insan tarafından okunabilir bir dize oluşturur.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunu temsil eden bir dize[`SizeF`](../).
+Bu [`SizeF`](../)'yi temsil eden bir dize.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

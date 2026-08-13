@@ -1,28 +1,29 @@
 ---
-title: LinkDataSource.Type
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. Aşağıdakilerden biri veya hiçbiri olabilen Adobe Photoshop global bağlantı veri kaynağı türünü alır PSDye karşılık gelen katıştırılmış bağlantılı dosya liFD Lnk2Resource PSDye karşılık gelen harici bağlantılı dosya liFE LnkeResource Bağlantılı dosya takma adı liFA
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. Adobe Photoshop global bağlantı veri kaynağı türünü alır; bu tür aşağıdakilerden biri olabilir veya hiçbiri olmayabilir. PSD Lnk2Resource ile eşleşen gömülü bağlantılı dosya liFD, PSD LnkeResource ile eşleşen harici bağlantılı dosya liFE, bağlantılı dosya takma adı liFA."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-Aşağıdakilerden biri veya hiçbiri olabilen Adobe® Photoshop® global bağlantı veri kaynağı türünü alır: PSD'ye karşılık gelen katıştırılmış bağlantılı dosya liFD Lnk2Resource PSD'ye karşılık gelen harici bağlantılı dosya liFE LnkeResource Bağlantılı dosya takma adı liFA
+Adobe® Photoshop® global bağlantı veri kaynağı türünü alır; aşağıdakilerden biri veya hiçbiri olabilir: PSD Lnk2Resource ile eşleşen gömülü bağlı dosya liFD, PSD LnkeResource ile eşleşen harici bağlı dosya liFE, bağlı dosya takma adı liFA
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 PSD bağlantı veri kaynağı türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

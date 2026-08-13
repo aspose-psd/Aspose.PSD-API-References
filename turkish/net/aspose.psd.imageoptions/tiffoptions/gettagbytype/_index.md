@@ -1,33 +1,34 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions yöntem. Türe göre etiket örneğini alır.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions yöntemi. Etiketin örneğini türüne göre alır"
 type: docs
-weight: 720
+weight: 730
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-Türe göre etiket örneğini alır.
+Etiketin örneğini türüne göre alır.
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| tagKey | TiffTags | etiket anahtarı. |
+| tagKey | TiffTags | Etiket anahtarı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Varsa etiket örneği, yoksa boş.
+Etiketin örneği, mevcutsa; aksi takdirde null.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

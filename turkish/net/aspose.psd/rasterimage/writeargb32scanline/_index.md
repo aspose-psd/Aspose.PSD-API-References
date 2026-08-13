@@ -1,28 +1,29 @@
 ---
-title: RasterImage.WriteArgb32ScanLine
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Tarama satırının tamamını belirtilen tarama satırı dizinine yazar.
+title: "RasterImage.WriteArgb32ScanLine"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Belirtilen tarama satırı indeksine tüm tarama satırını yazar"
 type: docs
-weight: 590
+weight: 610
 url: /tr/net/aspose.psd/rasterimage/writeargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.WriteArgb32ScanLine method
 
-Tarama satırının tamamını belirtilen tarama satırı dizinine yazar.
+Tüm tarama satırını belirtilen tarama satırı indeksine yazar.
 
 ```csharp
 public void WriteArgb32ScanLine(int scanLineIndex, int[] argb32Pixels)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Tarama satırının sıfır tabanlı dizini. |
-| argb32Pixels | Int32[] | Yazmak için 32 bit ARGB renk dizisi. |
+| scanLineIndex | Int32 | Tarama satırının sıfır tabanlı indeksi. |
+| argb32Pixels | Int32[] | Yazılacak 32-bit ARGB renk dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

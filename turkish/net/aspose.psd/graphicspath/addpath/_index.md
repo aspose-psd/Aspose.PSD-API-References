@@ -1,48 +1,49 @@
 ---
-title: GraphicsPath.AddPath
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Belirtileni eklerGraphicsPath bu yola.
+title: "GraphicsPath.AddPath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Belirtilen GraphicsPath'i bu yola ekler"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/graphicspath/addpath/
 ---
+{{< psd/tize >}}
 ## AddPath(GraphicsPath) {#addpath}
 
-Belirtileni ekler[`GraphicsPath`](../) bu yola.
+Belirtilen [`GraphicsPath`](../) bu yola ekler.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| addingPath | GraphicsPath | bu[`GraphicsPath`](../) eklemek. |
+| addingPath | GraphicsPath | Eklenecek [`GraphicsPath`](../). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AddPath(GraphicsPath, bool) {#addpath_1}
 
-Belirtileni ekler[`GraphicsPath`](../) bu yola.
+Belirtilen [`GraphicsPath`](../) bu yola ekler.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath, bool connect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| addingPath | GraphicsPath | bu[`GraphicsPath`](../) eklemek. |
-| connect | Boolean | Eklenen yoldaki ilk şeklin bu yoldaki son şeklin parçası olup olmadığını belirten bir Boole değeri. true değeri, eklenen yoldaki ilk şeklin bu yoldaki son şeklin parçası olduğunu belirtir. false değeri, eklenen yoldaki ilk rakamın bu yoldaki son rakamdan ayrı olduğunu belirtir. |
+| addingPath | GraphicsPath | Eklenecek [`GraphicsPath`](../). |
+| bağla | Boolean | Eklenen yoldaki ilk şeklin bu yoldaki son şeklin bir parçası olup olmadığını belirten bir Boolean değer. true değeri, eklenen yoldaki ilk şeklin bu yoldaki son şeklin bir parçası olduğunu belirtir. false değeri, eklenen yoldaki ilk şeklin bu yoldaki son şekilden ayrı olduğunu belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

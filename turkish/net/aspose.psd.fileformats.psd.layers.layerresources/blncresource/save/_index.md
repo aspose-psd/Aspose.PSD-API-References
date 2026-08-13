@@ -1,29 +1,30 @@
 ---
-title: BlncResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource yöntem. Kaynağı belirtilen akış kapsayıcısına kaydeder.
+title: "BlncResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource yöntemi. Kaynağı belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 150
+weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/
 ---
+{{< psd/tize >}}
 ## BlncResource.Save method
 
-Kaynağı belirtilen akış kapsayıcısına kaydeder.
+Kaynağı belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kabı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Yazı tipi aile adına göre adobe yazı tipi adını alır.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Yazı tipi ailesi adına göre Adobe yazı tipi adını alır."
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Yazı tipi aile adına göre adobe yazı tipi adını alır.
+Yazı tipi ailesi adına göre Adobe yazı tipi adını alır.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontFamilyName | String | Yazı tipi aile adı. |
+| fontFamilyName | String | Yazı tipi ailesi adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazı tipi aile adına göre adobe yazı tipi adı.
+Yazı tipi ailesi adına göre Adobe yazı tipi adı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, yazı tipi adını porsiyon stilinde değiştirme yeteneğini gösterir.
+Aşağıdaki kod, bir bölüm stilinde yazı tipi adını değiştirme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

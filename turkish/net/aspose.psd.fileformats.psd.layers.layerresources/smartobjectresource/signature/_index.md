@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Akıllı nesne kaynak imzasını alır.
+title: "SmartObjectResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Akıllı nesne kaynağı imzasını alır"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Signature property
 
-Akıllı nesne kaynak imzasını alır.
+Akıllı nesne kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

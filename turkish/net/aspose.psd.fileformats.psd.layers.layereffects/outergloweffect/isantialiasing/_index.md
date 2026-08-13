@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsAntiAliasing
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Kenar Yumuşatma efektini etkinleştirir veya ayarlar
+title: "OuterGlowEffect.IsAntiAliasing"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Etkin anti-aliasing etkisini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsAntiAliasing property
 
-Kenar Yumuşatma efektini etkinleştirir veya ayarlar
+Etkin AntiAliasing efektini alır veya ayarlar
 
 ```csharp
 public bool IsAntiAliasing { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mesafe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

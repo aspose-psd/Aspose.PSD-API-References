@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerState inşaatçı. Yeni bir örneğini başlatır.LayerState sınıf.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerState yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-Yeni bir örneğini başlatır.[`LayerState`](../) sınıf.
+Varsayılan yapıcı.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
 
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| layerId | Int32 | İlgili Katmanın durumunu tanımlayan kimlik. |
-
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerState](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

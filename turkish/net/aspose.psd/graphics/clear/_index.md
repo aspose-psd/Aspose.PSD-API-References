@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clear
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Belirtilen rengi kullanarak grafik yüzeyini temizler.
+title: "Graphics.Clear"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Belirtilen rengi kullanarak grafik yüzeyini temizler"
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
-Belirtilen rengi kullanarak grafik yüzeyini temizler.
+Belirtilen renk kullanılarak grafik yüzeyi temizlenir.
 
 ```csharp
 public void Clear(Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | Grafik yüzeyini temizlemek için kullanılan renk. |
+| renk | Renk | Grafik yüzeyini temizlemek için kullanılan renk. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

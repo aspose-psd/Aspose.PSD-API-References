@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Script
-second_title: Aspose.PSD for .NET API Referansı
-description: TextFontInfo mülk. Komut dosyasını alır.
+title: "TextFontInfo.Script"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextFontInfo özelliği. Betiği alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/script/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Script property
 
-Komut dosyasını alır.
+Betik bilgisini alır.
 
 ```csharp
 public int Script { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Komut dosyası.
+Betik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextFontInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

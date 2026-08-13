@@ -1,11 +1,12 @@
 ---
-title: Interface IObjectWithBounds
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IObjectWithBounds arayüz. Sınırları olan bir nesneyi temsil eder.
+title: "Arayüz IObjectWithBounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IObjectWithBounds arayüzü. Sınırları olan bir nesneyi temsil eder."
 type: docs
-weight: 4490
+weight: 4990
 url: /tr/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
 Sınırları olan bir nesneyi temsil eder.
@@ -14,18 +15,18 @@ Sınırları olan bir nesneyi temsil eder.
 public interface IObjectWithBounds
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | Nesne sınırlarını alır. |
-| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | Nesne yüksekliğini alır. |
-| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | Nesne boyutunu alır. |
-| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | Nesne genişliğini alır. |
+| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | Nesnenin sınırlarını alır. |
+| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | Nesnenin yüksekliğini alır. |
+| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | Nesnenin boyutunu alır. |
+| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | Nesnenin genişliğini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

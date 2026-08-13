@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Yazı tipi indeksini alır.
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Yazı tipi dizinini alır"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
 Yazı tipi indeksini alır.
@@ -14,13 +15,13 @@ Yazı tipi indeksini alır.
 public int FontIndex { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipi.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Aspose.PSD'nin Metin Katmanı'nın satır içi biçimlendirme özelliklerini nasıl elde ettiğini gösterir.
+Aşağıdaki kod, Aspose.PSD'nin Metin Katmanı'nın satır içi biçimlendirme özelliklerini nasıl aldığını gösterir.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

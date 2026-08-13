@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.ScriptValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolFontInfo mülk. Kod değerini alır veya ayarlar.
+title: "TypeToolFontInfo.ScriptValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolFontInfo özelliği. Betik değerini alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.ScriptValue property
 
-Kod değerini alır veya ayarlar.
+Betik değerini alır veya ayarlar.
 
 ```csharp
 public short ScriptValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kod değeri.
+Betik değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolFontInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Frame.Id
-second_title: Aspose.PSD for .NET API Referansı
-description: Frame mülk. Çerçeve kimliğini alır veya ayarlar.
+title: "Frame.Id"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Frame özelliği. Çerçeve kimliğini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/frame/id/
 ---
+{{< psd/tize >}}
 ## Frame.Id property
 
 Çerçeve kimliğini alır veya ayarlar.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.animation/frame/id/
 public int Id { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Frame](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

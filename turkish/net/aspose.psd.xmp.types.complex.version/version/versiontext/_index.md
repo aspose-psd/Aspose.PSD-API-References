@@ -1,11 +1,12 @@
 ---
-title: Version.VersionText
-second_title: Aspose.PSD for .NET API Referansı
-description: Version mülk. Sürüm metnini alır veya ayarlar.
+title: "Version.VersionText"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Version özelliği. Sürüm metnini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
 Sürüm metnini alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürüm metnini alır veya ayarlar.
 public string VersionText { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm metni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Version](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

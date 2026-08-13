@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UseRawData
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Ham veri yükleme mevcut olduğunda ham veri yüklemenin kullanılıp kullanılmayacağını belirten bir değer alır veya ayarlar.
+title: "RasterImage.UseRawData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Ham veri yükleme mevcut olduğunda ham veri yüklemesini kullanıp kullanmayacağını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/rasterimage/userawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UseRawData property
 
-Ham veri yükleme mevcut olduğunda ham veri yüklemenin kullanılıp kullanılmayacağını belirten bir değer alır veya ayarlar.
+Ham veri yüklemesi mevcut olduğunda ham veri yüklemesinin kullanılacağını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public virtual bool UseRawData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` ham veri yükleme mevcutken ham veri yüklemeyi kullanıyorsanız; aksi takdirde,`YANLIŞ` .
+`true` ham veri yükleme mevcut olduğunda ham veri yüklemesini kullanıyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

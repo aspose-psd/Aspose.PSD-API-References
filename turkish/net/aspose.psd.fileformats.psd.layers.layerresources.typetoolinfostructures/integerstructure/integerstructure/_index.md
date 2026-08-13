@@ -1,28 +1,29 @@
 ---
-title: IntegerStructure.IntegerStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: IntegerStructure inşaatçı. Yeni bir örneğini başlatır.IntegerStructure sınıf.
+title: "IntegerStructure.IntegerStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IntegerStructure yapıcı. IntegerStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/integerstructure/
 ---
+{{< psd/tize >}}
 ## IntegerStructure constructor
 
-Yeni bir örneğini başlatır.[`IntegerStructure`](../) sınıf.
+[`IntegerStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public IntegerStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [IntegerStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

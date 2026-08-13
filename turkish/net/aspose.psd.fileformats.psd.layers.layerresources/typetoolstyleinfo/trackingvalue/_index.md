@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.TrackingValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. İzleme değerini alır veya ayarlar.
+title: "TypeToolStyleInfo.TrackingValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. İzleme değerini alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.TrackingValue property
 
 İzleme değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 public int TrackingValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 İzleme değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Convert
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Bu görüntü biçimini options. içinde belirtilene dönüştürür.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Bu görüntü formatını seçeneklerde belirtilen formata dönüştürür."
 type: docs
-weight: 500
+weight: 560
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Bu görüntü biçimini options. içinde belirtilene dönüştürür.
+Bu görüntü formatını seçeneklerde belirtilen formata dönüştürür.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newOptions | PsdOptions | Yeni seçenekler. |
 
-### Örnekler
+## Örnekler
 
-Bu örnekler, PSD görüntü formatının diğer Renk Modlarına/BitDepth'e dönüştürülmesini göstermektedir.
+Bu örnekler PSD görüntü formatının diğer Renk Modları/Bit Derinliklerine dönüşümünü gösterir.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Bu örnekler, PSD görüntü formatının diğer Renk Modlarına/BitDepth'e dön
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Bu örnekler, PSD görüntü formatının diğer Renk Modlarına/BitDepth'e dönüştürülmesini göstermektedir.
+// Bu örnekler PSD görüntü formatının diğer Renk Modları/Bit Derinliklerine dönüşümünü gösterir.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// PSD'ye kaydeder, ardından kaydedilen dosyayı yükler ve PNG'ye kaydeder.
+// PSD olarak kaydeder, ardından kaydedilen dosyayı yükler ve PNG olarak kaydeder.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

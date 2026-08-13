@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Top
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF mülk. Bunun üst kenarının y koordinatını alır veya ayarlarRectangleFyapı.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF özelliği. Bu RectangleF yapısının üst kenarının y koordinatını alır veya ayarlar"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-Bunun üst kenarının y koordinatını alır veya ayarlar[`RectangleF`](../)yapı.
+Bu [`RectangleF`](../) yapısının üst kenarının y-koordinatını alır veya ayarlar.
 
 ```csharp
 public float Top { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun üst kenarının y koordinatı[`RectangleF`](../) yapı.
+Bu [`RectangleF`](../) yapısının üst kenarının y-koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Aspose.PSD for .NET API Referansı
-description: FixedPointDecimal mülk. Kesri alır veya ayarlar.
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FixedPointDecimal özelliği. Kesiri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
-Kesri alır veya ayarlar.
+Kesiri alır veya ayarlar.
 
 ```csharp
 public int Fraction { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kesir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LuniResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: LuniResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "LuniResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LuniResource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır."
 type: docs
-weight: 30
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/
 ---
+{{< psd/tize >}}
 ## LuniResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LuniResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

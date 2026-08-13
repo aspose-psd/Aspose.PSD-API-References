@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingRight
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskDataFull mülk. PSD dosya katmanındaki çevreleyen sağ raster maske konumunu alır veya ayarlar.
+title: "LayerMaskDataFull.EnclosingRight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskDataFull özelliği. PSD dosya katmanındaki çevreleyen sağ raster maske konumunu alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingRight property
 
-PSD dosya katmanındaki çevreleyen sağ raster maske konumunu alır veya ayarlar.
+PSD dosyası katmanındaki kapsayan sağ raster maske konumunu alır veya ayarlar.
 
 ```csharp
 public int EnclosingRight { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru katman maskesi konumu.
+Sağ katman maskesi konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskDataFull](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

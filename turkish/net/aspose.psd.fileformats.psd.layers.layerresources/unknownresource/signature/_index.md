@@ -1,23 +1,24 @@
 ---
-title: UnknownResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownResource mülk. Katman kaynak imzasını alır.
+title: "UnknownResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownResource özelliği. Katman kaynağı imzasını alır"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnknownResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Görüntü genişliğini alır.
+title: "Layer.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Görüntü genişliğini alır"
 type: docs
-weight: 320
+weight: 330
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
 Görüntü genişliğini alır.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır.
 public override int Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntü genişliği.
+görüntü genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

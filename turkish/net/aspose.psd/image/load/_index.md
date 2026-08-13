@@ -1,69 +1,70 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Belirtilen dosyadan yeni bir resim yükler.
+title: "Image.Load"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Belirtilen dosyadan yeni bir görüntü yükler."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
-Belirtilen dosyadan yeni bir resim yükler.
+Belirtilen dosyadan yeni bir görüntü yükler.
 
 ```csharp
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Görüntünün yükleneceği dosya yolu. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yüklenen görüntü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(string) {#load_2}
 
-Belirtilen dosyadan yeni bir resim yükler.
+Belirtilen dosyadan yeni bir görüntü yükler.
 
 ```csharp
 public static Image Load(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| filePath | String | . 'den görüntünün yükleneceği dosya yolu |
+| filePath | String | Görüntünün yükleneceği dosya yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yüklenen görüntü.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, belirtilen dosya yolu kullanılarak mevcut bir Görüntü dosyasının bir Aspose.PSD.Image örneğine yüklenmesini gösterir.
+Bu örnek, belirtilen dosya yolunu kullanarak mevcut bir Image dosyasının Aspose.PSD.Image örneğine yüklenmesini gösterir.
 
 ```csharp
 [C#]
 
-//Görüntü örneği oluşturun ve onu disk konumundan mevcut bir görüntü dosyasıyla başlatın
+//Image örneği oluşturun ve disk konumundaki mevcut bir görüntü dosyasıyla başlatın.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // biraz görüntü işleme yapalım
+    //biraz görüntü işleme yap
 }
 ```
 
-Aşağıdaki örnek, sağdan sola yazılan diller için ITextPortion aracılığıyla Metin Hizalamanın doğru çalıştığını gösterir.
+Aşağıdaki örnek, ITextPortion aracılığıyla metin hizalamasının sağdan sola dillerde doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını okumanın ve kanal başına 16 bit RGB'ye kaydetmenin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarını kanal başına 16 bit RGB'ye okumanın ve kaydetmenin doğru çalıştığını ve istisna oluşmadığını gösterir.
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Burada bir istisna olmamalıdır.
+    // Burada istisna olmamalıdır.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını kanal başına 8 bit olarak okumanın ve kaydetmenin düzgün ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarını kanal başına 8 bit Grayscale'e okumanın ve kaydetmenin doğru çalıştığını ve istisna oluşmadığını gösterir.
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Burada bir istisna olmamalıdır.
+    // Burada istisna olmamalıdır.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Aşağıdaki örnek, Gri Tonlamalı 16 bit PSD dosyalarını okumanın ve kaydetmenin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, Grayscale 16 bit PSD dosyalarının okunup kaydedilmesinin doğru bir şekilde ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Burada bir istisna olmamalıdır.
+        // Burada istisna olmamalıdır.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -255,78 +256,78 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream, LoadOptions) {#load_1}
 
-Belirtilen akıştan yeni bir resim yükler.
+Belirtilen akıştan yeni bir görüntü yükler.
 
 ```csharp
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Görüntünün yükleneceği akış. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yüklenen görüntü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream) {#load}
 
-Belirtilen akıştan yeni bir resim yükler.
+Belirtilen akıştan yeni bir görüntü yükler.
 
 ```csharp
 public static Image Load(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Görüntünün yükleneceği akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yüklenen görüntü.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, mevcut bir Görüntü dosyasını yüklemek için System.IO.Stream nesnelerinin kullanımını gösterir.
+Bu örnek, mevcut bir Image dosyasını yüklemek için System.IO.Stream nesnelerinin kullanımını gösterir.
 
 ```csharp
 [C#]
 
-//FileStream'in bir örneğini oluşturun
+//FileStream örneği oluştur.
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    //Image sınıfının bir örneğini oluşturun ve Load yöntemini çağırarak FileStream nesnesi aracılığıyla mevcut bir dosyayı yükleyin
+    //Image sınıfının bir örneğini oluşturun ve Load yöntemini çağırarak FileStream nesnesi aracılığıyla mevcut bir dosyayı yükleyin.
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        //biraz görüntü işleme yapalım.
+        //biraz görüntü işleme yap.
     }
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

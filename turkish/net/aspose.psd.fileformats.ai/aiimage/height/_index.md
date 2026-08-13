@@ -1,27 +1,28 @@
 ---
-title: AiImage.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Görüntü yüksekliğini alır.
+title: "AiImage.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Görüntünün yüksekliğini alır"
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
-Görüntü yüksekliğini alır.
+Resmin yüksekliğini alır.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

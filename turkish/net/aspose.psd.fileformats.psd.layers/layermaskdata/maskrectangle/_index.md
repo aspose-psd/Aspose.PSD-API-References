@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskData mülk. Maskeyi alır veya ayarlarRectanglePSD dosyasındaki katman maskesinin. Left right top ve bottom özelliklerini alır ve oluştururRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskData özelliği. PSD dosyasındaki katman maskesinin maske Rectangle'ını alır veya ayarlar. Sol, sağ, üst ve alt özelliklerini alır ve Rectangle oluşturur."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Maskeyi alır veya ayarlar[`Rectangle`](../../../aspose.psd/rectangle/)PSD dosyasındaki katman maskesinin. Left, right, top ve bottom özelliklerini alır ve oluşturur[`Rectangle`](../../../aspose.psd/rectangle/)
+Katman maskesinin maske [`Rectangle`](../../../aspose.psd/rectangle/) değerini alır veya ayarlar. Sol, sağ, üst ve alt özelliklerini alır ve [`Rectangle`](../../../aspose.psd/rectangle/) oluşturur.
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Maske dikdörtgeni.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Adobe® Photoshop® dosyasındaki raster katman maskelerinin program aracılığıyla nasıl alınacağını, güncelleneceğini, kaldırılacağını ve ekleneceğini gösterir.
+Bu örnek, Adobe® Photoshop® dosyasında raster katman maskelerini programlı olarak alma, güncelleme, kaldırma ve ekleme yöntemlerini gösterir.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// big-endian bayt sırasına dönüştürülen int değerini alır.
+// Tam sayı değerini büyük‑uçlu bayt sırasına dönüştürerek alır.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// Büyük endian'dan Int32'ye dönüştürülen değeri alır.
+// Değeri büyük‑uçlu formatından Int32'ye dönüştürerek alır.
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Bir PSD görüntüsünün katmanından bir tarama maskesi alır ve bunu bir dosyaya kaydeder
+// Bir PSD görüntüsünün katmanından raster maskeyi alır ve bir dosyaya kaydeder.
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Dosyadan katmana bir tarama maskesi ekler ve onu PSD formatındaki görüntü olarak kaydeder
+// Dosyadan bir raster maskeyi katmana ekler ve PSD formatındaki görüntüyü kaydeder.
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Kanallar güncellenmediği için sadece LayerMaskData eklemek doğru kayıt için yeterli değildir;
-    // katman.LayerMaskData = maske; // Bu, maske kanalını eklemez
+    // Sadece LayerMaskData eklemek, kanallar güncellenmediği için doğru kaydetme için yeterli değildir;
+    // layer.LayerMaskData = mask; // Bu maske kanalını eklemez
 
-    // Maskeyi ekleyin (veya güncelleyin)
-    layer.AddLayerMask(maskData); // Ancak bu, hem maskeyi hem de kanalları ekler / günceller!
+    // Maskeyi ekle (veya güncelle)
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// Bu örnek, Adobe® Photoshop® dosyasındaki raster katman maskelerinin program aracılığıyla nasıl alınacağını, güncelleneceğini, kaldırılacağını ve ekleneceğini gösterir.
+// Bu örnek, Adobe® Photoshop® dosyasında raster katman maskelerini programlı olarak alma, güncelleme, kaldırma ve ekleme yöntemlerini gösterir.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Katmandan bir tarama maskesi alın ve bunu bir dosyaya kaydedin
+    // Katmandan bir raster maskesi al ve bir dosyaya kaydet
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // Katman maskesini değiştirin (ters çevirin) ve görüntüyü kaydedin
+    // Katman maskesini değiştir (ters çevir) ve resmi kaydet
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,33 +126,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Yalnızca LayerMaskData'yı değiştirmek, işlemeyi etkilemek için yeterlidir
+    // Sadece **LayerMaskData**'yi değiştirmek, renderlamayı etkilemek için yeterlidir
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Ama sadece LayerMaskData'yı değiştirmek doğru kayıt için yeterli değil çünkü kanallar güncellenmiyor;
-    layer.LayerMaskData = mask; // Bu da çalışmıyor
-    layer.AddLayerMask(mask); // Ancak bu hem maskeyi hem de kanalları günceller!
+    // Ancak sadece **LayerMaskData**'yi değiştirmek, kanallar güncellenmediği için doğru kaydetme için yeterli değildir;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // Katmandan bir tarama maskesini kaldırın ve görüntüyü kaydedin
-    layer.LayerMaskData = null; // Yalnızca LayerMaskData'yı kaldırmak, işlemeyi etkilemek için yeterlidir, ancak PSD formatına kaydetmek için yeterli değildir
+    // Katmandan bir raster maskesini kaldır ve resmi kaydet
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // Ancak bu hem maskeyi hem de maske kanalını kaldırır!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // Dosyadan katmana bir tarama maskesi ekleyin ve görüntüyü kaydedin
+    // Dosyadan bir raster maskesini katmana ekle ve resmi kaydet
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

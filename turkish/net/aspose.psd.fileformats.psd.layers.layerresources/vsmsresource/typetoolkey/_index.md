@@ -1,11 +1,12 @@
 ---
-title: VsmsResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: VsmsResource alan. Tip aracı bilgi anahtarı.
+title: "VsmsResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VsmsResource alanı. Tip aracı bilgi anahtarı."
 type: docs
-weight: 30
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VsmsResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VsmsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

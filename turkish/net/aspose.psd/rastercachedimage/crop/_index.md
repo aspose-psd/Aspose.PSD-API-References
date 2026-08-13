@@ -1,24 +1,25 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage yöntem. Görüntü kırpılıyor.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage metodu. Görüntüyü kırpma"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
-Görüntü kırpılıyor.
+Görüntüyü kırpma.
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | dikdörtgen. |
+| dikdörtgen | Rectangle | Dikdörtgen. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, görüntüyü belirli bir dikdörtgenle kırpma yeteneğini gösterir.
 
@@ -70,19 +71,19 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
         top += layers[i].Height;
     }
 
-    // psd'yi kaydet
+    // PSD'yi kaydet
     image.Save(exportPath, new PsdOptions());
 
-    // png'yi kaydet
+    // PNG'yi kaydet
     image.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

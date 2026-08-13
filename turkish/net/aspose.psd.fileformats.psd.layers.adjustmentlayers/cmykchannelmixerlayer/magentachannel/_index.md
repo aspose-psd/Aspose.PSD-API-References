@@ -1,11 +1,12 @@
 ---
-title: CmykChannelMixerLayer.MagentaChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykChannelMixerLayer mülk. Macenta kanalı alır.
+title: "CmykChannelMixerLayer.MagentaChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykChannelMixerLayer özelliği. Magenta kanalı alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/magentachannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.MagentaChannel property
 
 Macenta kanalı alır.
@@ -14,15 +15,15 @@ Macenta kanalı alır.
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Macenta kanalı.
+Magenta kanal.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

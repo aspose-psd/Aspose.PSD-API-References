@@ -1,31 +1,32 @@
 ---
-title: Color.FromName
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. oluştururColorönceden tanımlanmış bir rengin belirtilen adından yapı.
+title: "Color.FromName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. Belirtilen önceden tanımlı renk adından bir Color yapısı oluşturur."
 type: docs
 weight: 1450
 url: /tr/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-oluşturur[`Color`](../)önceden tanımlanmış bir rengin belirtilen adından yapı.
+Belirtilen önceden tanımlı bir rengin adından bir [`Color`](../) yapısı oluşturur.
 
 ```csharp
 public static Color FromName(string name)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| name | String | Önceden tanımlanmış bir rengin adı olan bir dize. Geçerli adlar, öğenin adlarıyla aynıdır.[`KnownColor`](../../knowncolor/) numaralandırma. |
+| name | String | Önceden tanımlı bir rengin adı olan bir dizedir. Geçerli adlar, [`KnownColor`](../../knowncolor/) sayımının elemanlarının adlarıyla aynıdır. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Color`](../) bu yöntemin oluşturduğu.
+Bu yöntemin oluşturduğu [`Color`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

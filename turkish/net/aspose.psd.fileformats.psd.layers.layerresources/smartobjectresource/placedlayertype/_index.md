@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.PlacedLayerType
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD dosyasındaki akıllı nesne katmanı verilerinin türünü alır veya ayarlar.
+title: "SmartObjectResource.PlacedLayerType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD dosyasındaki akıllı nesne katman verisinin tipini alır veya ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PlacedLayerType property
 
-PSD dosyasındaki akıllı nesne katmanı verilerinin türünü alır veya ayarlar.
+Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin türünü.
 
 ```csharp
 public override PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Akıllı nesne katmanı verilerinin türü.
+Akıllı nesne katman verisinin tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

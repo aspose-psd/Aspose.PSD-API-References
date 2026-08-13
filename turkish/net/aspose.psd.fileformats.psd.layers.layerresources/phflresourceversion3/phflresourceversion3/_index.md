@@ -1,55 +1,56 @@
 ---
-title: PhflResourceVersion3.PhflResourceVersion3
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion3 inşaatçı. Yeni bir örneğini başlatır.PhflResourceVersion3 sınıf.
+title: "PhflResourceVersion3.PhflResourceVersion3"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion3 yapıcı. PhflResourceVersion3 sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3() {#constructor}
 
-Yeni bir örneğini başlatır.[`PhflResourceVersion3`](../) sınıf.
+Yeni bir örnek başlatır [`PhflResourceVersion3`](../) sınıfının.
 
 ```csharp
 public PhflResourceVersion3()
 ```
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentException | Yalnızca sürüm 2 ve 3 desteklenir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion3](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PhflResourceVersion3`](../) sınıf.
+Yeni bir örnek başlatır [`PhflResourceVersion3`](../) sınıfının.
 
 ```csharp
 public PhflResourceVersion3(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | geçersiz veri uzunluğu |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz veri uzunluğu |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion3](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

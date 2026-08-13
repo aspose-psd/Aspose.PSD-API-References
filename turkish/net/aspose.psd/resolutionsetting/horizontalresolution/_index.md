@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionSetting mülk. Yatay çözünürlüğü alır veya ayarlar.
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionSetting özelliği. Yatay çözünürlüğü alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
 Yatay çözünürlüğü alır veya ayarlar.
@@ -14,10 +15,10 @@ Yatay çözünürlüğü alır veya ayarlar.
 public double HorizontalResolution { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResolutionSetting](../)
-* ad alanı [Aspose.PSD](../../resolutionsetting/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

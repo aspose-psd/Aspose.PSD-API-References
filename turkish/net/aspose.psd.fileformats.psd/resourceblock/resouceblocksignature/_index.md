@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ResouceBlockSignature
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceBlock alan. Normal Photoshop kaynak imzası.
+title: "ResourceBlock.ResouceBlockSignature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceBlock alanı. Normal Photoshop kaynak imzası"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockSignature field
 
 Normal Photoshop kaynak imzası.
@@ -14,10 +15,10 @@ Normal Photoshop kaynak imzası.
 public const int ResouceBlockSignature;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

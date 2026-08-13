@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Grayscale
-second_title: Aspose.PSD for .NET API Referansı
-description: DeconvolutionFilterOptions mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.DeconvolutionFilterOptions gri tonlamalı. Gri tonlama moduna veya RGB moduna geri dön.
+title: "DeconvolutionFilterOptions.Grayscale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DeconvolutionFilterOptions özelliği. Bu DeconvolutionFilterOptions'ın gri tonlamalı olup olmadığını gösteren bir değeri alır veya ayarlar. Gri tonlama modu veya RGB modu döndürür"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Grayscale property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`DeconvolutionFilterOptions`](../) gri tonlamalı. Gri tonlama moduna veya RGB moduna geri dön.
+Bu [`DeconvolutionFilterOptions`](../) öğesinin gri tonlamalı olup olmadığını gösteren bir değeri alır veya ayarlar. Gri tonlama modu veya RGB modu döndürür.
 
 ```csharp
 public bool Grayscale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` gri tonlamalıysa; aksi takdirde,`YANLIŞ` .
+`true` eğer gri tonlamalıysa; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DeconvolutionFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

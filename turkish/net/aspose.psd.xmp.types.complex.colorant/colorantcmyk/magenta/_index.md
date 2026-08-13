@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk mülk. Macenta bileşen değerini alır veya ayarlar.
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk özelliği. Magenta bileşen değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
 Macenta bileşen değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Macenta bileşen değerini alır veya ayarlar.
 public float Magenta { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Macenta bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

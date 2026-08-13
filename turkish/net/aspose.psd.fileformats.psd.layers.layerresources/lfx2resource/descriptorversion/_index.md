@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: Lfx2Resource mülk. Tanımlayıcı sürümünü alır.
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lfx2Resource özelliği. Tanımlayıcı sürümünü alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
 Tanımlayıcı sürümünü alır.
@@ -14,14 +15,14 @@ Tanımlayıcı sürümünü alır.
 public int DescriptorVersion { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Açıklayıcı sürüm.
+Tanımlayıcı sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lfx2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectWithBounds yöntem. Belirtilen dönüşümü şekle uygular.
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectWithBounds yöntemi. Belirtilen dönüşümü şekle uygular."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
 Belirtilen dönüşümü şekle uygular.
@@ -14,15 +15,15 @@ Belirtilen dönüşümü şekle uygular.
 public abstract void Transform(Matrix transform)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| transform | Matrix | Uygulanacak dönüşüm. |
+| dönüşüm | Matrix | Uygulanacak dönüşüm. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../objectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Aspose.PSD for .NET API Referansı
-description: LoadOptions mülk. Şunu alır veya ayarlarImage arka planColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LoadOptions özelliği. Image arka plan Color değerini alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-Şunu alır veya ayarlar:[`Image`](../../image/) arka plan[`Color`](../../color/) .
+[`Image`](../../image/) arka plan [`Color`](../../color/) değerini alır veya ayarlar.
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Arka plan rengi.
 
-### Notlar
+## Açıklamalar
 
-Tipik olarak arka plan rengi, veri bozulması nedeniyle piksel değeri kurtarılamadığında ayarlanır.
+Genellikle veri bozulması nedeniyle piksel değeri kurtarılamadığında arka plan rengi ayarlanır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* ad alanı [Aspose.PSD](../../loadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

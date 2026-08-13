@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName
-second_title: Aspose.PSD for .NET API Referansı
-description: BlackWhiteAdjustmentLayer mülk. Siyah beyaz ön ayarlı dosya adını alır veya ayarlar.
+title: "BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlackWhiteAdjustmentLayer özelliği. Siyah ve beyaz ön ayar dosya adını alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName property
 
-Siyah beyaz ön ayarlı dosya adını alır veya ayarlar.
+Siyah ve Beyaz ön ayar dosya adını alır veya ayarlar.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Siyah beyaz ön ayarlı dosya adı.
+Siyah ve beyaz ön ayar dosya adı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de siyah beyaz ayarlama katmanı özelliklerini nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde siyah beyaz ayar katmanı özelliklerini nasıl manipüle edebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

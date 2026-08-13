@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.UOrder
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD dosyasındaki yerleştirilen katmanın U sıra değerini alır veya ayarlar.
+title: "PlacedResource.UOrder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD dosyasındaki U sıra değerini alır veya ayarlar"
 type: docs
-weight: 190
+weight: 180
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UOrder property
 
-PSD dosyasındaki yerleştirilen katmanın U sıra değerini alır veya ayarlar.
+Yerleştirilen katmanın PSD dosyasındaki U sıra değerini alır veya ayarlar.
 
 ```csharp
 public int UOrder { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın U sıra değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

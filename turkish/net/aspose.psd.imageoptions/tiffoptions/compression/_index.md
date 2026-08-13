@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Compression
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Sıkıştırmayı alır veya ayarlar.
+title: "TiffOptions.Compression"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Sıkıştırmayı alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/compression/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Compression property
 
 Sıkıştırmayı alır veya ayarlar.
@@ -14,15 +15,15 @@ Sıkıştırmayı alır veya ayarlar.
 public TiffCompressions Compression { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sıkıştırma.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffCompressions](../../../aspose.psd.fileformats.tiff.enums/tiffcompressions/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

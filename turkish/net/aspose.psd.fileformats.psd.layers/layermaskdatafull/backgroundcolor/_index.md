@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataFull.BackgroundColor
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskDataFull mülk. Arka plan rengini alır veya ayarlar.
+title: "LayerMaskDataFull.BackgroundColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskDataFull özelliği. Arka plan rengini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.BackgroundColor property
 
 Arka plan rengini alır veya ayarlar.
@@ -14,14 +15,14 @@ Arka plan rengini alır veya ayarlar.
 public byte BackgroundColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Arka plan rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskDataFull](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

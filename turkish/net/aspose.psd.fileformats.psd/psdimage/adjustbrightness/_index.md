@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Görüntü için parlaklık ayarı.
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Görüntü için parlaklık ayarı"
 type: docs
-weight: 440
+weight: 500
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-Görüntü için parlaklık ayarı.
+Görüntünün parlaklığını ayarlar.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brightness | Int32 | Parlaklık değeri. |
+| parlaklık | Int32 | Parlaklık değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

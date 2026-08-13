@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Harfleri birbirine bağlamak için kullanılan bağlamsal alternatifler.
+title: "ITextStyle.ContextualAlternates"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Harfleri birleştirmek için kullanılan bağlamsal alternatifler"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
-Harfleri birbirine bağlamak için kullanılan bağlamsal alternatifler.
+Harfleri birleştirmek için kullanılan bağlamsal alternatifler.
 
 ```csharp
 public bool ContextualAlternates { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

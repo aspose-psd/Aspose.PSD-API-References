@@ -1,23 +1,24 @@
 ---
-title: LayerGroup.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroup mülk. Katmanlar grubunun yüksekliğini alır.
+title: "LayerGroup.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroup özelliği. Katman grubunun yüksekliğini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/layergroup/height/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Height property
 
-Katmanlar grubunun yüksekliğini alır.
+Katman grubunun yüksekliğini alır.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerGroup](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

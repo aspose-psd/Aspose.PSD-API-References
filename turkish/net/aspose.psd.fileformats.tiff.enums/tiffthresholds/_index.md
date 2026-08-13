@@ -1,30 +1,31 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds Sıralama. Verilerde kullanılan eşik.
+title: "Enum TiffThresholds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Verilerde kullanılan eşikleme"
 type: docs
-weight: 4180
+weight: 4680
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-Verilerde kullanılan eşik.
+Veri üzerinde kullanılan eşikleme.
 
 ```csharp
 public enum TiffThresholds : ushort
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| NoDithering | `1` | Titreme yapılmaz. |
-| HalfTone | `2` | Titreşimli tarama. |
+| NoDithering | `1` | Ditherleme uygulanmadı. |
+| HalfTone | `2` | Ditherli tarama. |
 | ErrorDiffuse | `3` | Genellikle Floyd-Steinberg. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

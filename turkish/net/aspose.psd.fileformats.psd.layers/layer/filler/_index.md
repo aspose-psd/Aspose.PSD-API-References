@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman dolgusunu alır veya ayarlar.
+title: "Layer.Filler"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katman doldurucusunu alır veya ayarlar"
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-Katman dolgusunu alır veya ayarlar.
+Katman doldurucusunu alır veya ayarlar.
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katman dolgusu.
+Katman doldurucusu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

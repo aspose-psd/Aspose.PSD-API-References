@@ -1,23 +1,24 @@
 ---
-title: LayerMaskDataFull.LayerMaskDataFull
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskDataFull inşaatçı. Default_Constructor
+title: "LayerMaskDataFull.LayerMaskDataFull"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskDataFull yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/layermaskdatafull/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public LayerMaskDataFull()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskDataFull](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

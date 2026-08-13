@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: GridAndGuidesResouce mülk. Başlık sürümünü alır veya ayarlar. Bu değer her zaman 1. olmalıdır.
+title: "GridAndGuidesResouce.HeaderVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GridAndGuidesResouce özelliği. Başlık sürümünü alır veya ayarlar. Bu değer her zaman 1 olmalıdır."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.HeaderVersion property
 
-Başlık sürümünü alır veya ayarlar. Bu değer her zaman 1. olmalıdır.
+Üstbilgi sürümünü alır veya ayarlar. Bu değer her zaman 1 olmalıdır.
 
 ```csharp
 public int HeaderVersion { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Başlık sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GridAndGuidesResouce](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

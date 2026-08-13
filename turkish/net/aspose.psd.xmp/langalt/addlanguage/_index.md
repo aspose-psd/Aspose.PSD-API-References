@@ -1,11 +1,12 @@
 ---
-title: LangAlt.AddLanguage
-second_title: Aspose.PSD for .NET API Referansı
-description: LangAlt yöntem. Dili ekler.
+title: "LangAlt.AddLanguage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LangAlt yöntemi. Dili ekler"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/langalt/addlanguage/
 ---
+{{< psd/tize >}}
 ## LangAlt.AddLanguage method
 
 Dili ekler.
@@ -14,15 +15,15 @@ Dili ekler.
 public virtual void AddLanguage(string language, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| language | String | Dil. |
-| value | String | Dil değeri. |
+| dil | String | Dil. |
+| değer | String | Dil değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../)
-* ad alanı [Aspose.PSD.Xmp](../../langalt/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

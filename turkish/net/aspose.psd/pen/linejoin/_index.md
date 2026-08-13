@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen ardışık iki çizginin uçları için birleştirme stilini alır veya ayarlar.Pen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen iki ardışık çizginin uçlarındaki birleşim stilini alır veya ayarlar."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-Bununla çizilen ardışık iki çizginin uçları için birleştirme stilini alır veya ayarlar.[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen iki ardışık çizginin uçlarındaki birleşim stilini alır veya ayarlar.
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A`LineJoin` bununla çizilen iki ardışık çizginin uçları için birleştirme stilini temsil eden[`Pen`](../).
+`LineJoin`, bu [`Pen`](../) ile çizilen iki ardışık çizginin uçlarındaki birleşim stilini temsil eder.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`LineJoin` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `LineJoin` özelliği, [`Pen`](../) gibi değiştirilemez bir nesne üzerinde ayarlanır, örneğin [`Pen`](../) sınıfı tarafından döndürülenler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary yöntem. Sağlanan anahtar ve değerle öğesine bir öğe eklerIDictionary nesne.
+title: "NonGenericDictionary.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary yöntemi. Sağlanan anahtar ve değerle bir öğeyi IDictionary nesnesine ekler"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/nongenericdictionary/add/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Add method
 
-Sağlanan anahtar ve değerle öğesine bir öğe eklerIDictionary nesne.
+Sağlanan anahtar ve değerle bir öğeyi IDictionary nesnesine ekler.
 
 ```csharp
 public void Add(object key, object value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | Object | Object eklenecek öğenin anahtarı olarak kullanmak için. |
-| value | Object | Object eklenecek öğenin değeri olarak kullanmak için. |
+| anahtar | Nesne | Eklenecek öğenin anahtarı olarak kullanılacak nesne. |
+| değer | Nesne | Eklenecek öğenin değeri olarak kullanılacak nesne. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

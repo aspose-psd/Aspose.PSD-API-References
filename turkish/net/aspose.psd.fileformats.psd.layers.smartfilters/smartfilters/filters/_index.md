@@ -1,11 +1,12 @@
 ---
-title: SmartFilters.Filters
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilters mülk. Akıllı filtreleri alır veya ayarlar.
+title: "SmartFilters.Filters"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilters özelliği. Akıllı filtreleri alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
 Akıllı filtreleri alır veya ayarlar.
@@ -14,11 +15,11 @@ Akıllı filtreleri alır veya ayarlar.
 public SmartFilter[] Filters { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

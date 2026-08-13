@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Kırmızı renk bileşenini alır veya ayarlar.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Kırmızı renk bileşenini alır veya ayarlar"
 type: docs
-weight: 130
+weight: 150
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
 Kırmızı renk bileşenini alır veya ayarlar.
@@ -14,13 +15,13 @@ Kırmızı renk bileşenini alır veya ayarlar.
 public int Red { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kırmızı renk bileşeni.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD for .NET API Referansı
-description: ComplexTypeBase inşaatçı. Yeni bir örneğini başlatır.ComplexTypeBase sınıf.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ComplexTypeBase yapıcı. ComplexTypeBase sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-Yeni bir örneğini başlatır.[`ComplexTypeBase`](../) sınıf.
+[`ComplexTypeBase`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| prefix | String | önek |
-| namespaceUri | String | Ad alanı URI'si. |
+| önek | String | Önek. |
+| namespaceUri | String | Namespace URI'si. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | öneki null veya namespaceUri null |
+| ArgumentNullException | prefix null veya namespaceUri null |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ComplexTypeBase](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Rengi alır veya ayarlar.
+title: "DropShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Rengi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Color property
 
 Rengi alır veya ayarlar.
@@ -14,11 +15,11 @@ Rengi alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, DropShadowEffect'in Opacity özelliğinin kullanımını gösterir.
 
@@ -37,21 +38,21 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Opaklık = 20 ile Örnek
+    // Opacity = 20 ile örnek
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Opaklık = 20 ile Örnek0
+    // Opacity = 200 ile örnek
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

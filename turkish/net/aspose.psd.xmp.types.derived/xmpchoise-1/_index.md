@@ -1,45 +1,46 @@
 ---
-title: Class XmpChoiseT
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Derived.XmpChoise1T sınıf. Değerler sözlüğünden bir değeri temsil eder.
+title: "Sınıf XmpChoiseT"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpChoise1T sınıfı. Değerler sözlüğünden bir değeri temsil eder"
 type: docs
-weight: 6150
+weight: 6680
 url: /tr/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; class
 
-Değerler sözlüğünden bir değeri temsil eder.
+Değer sözlüğünden bir değeri temsil eder.
 
 ```csharp
 public class XmpChoise<T> : XmpTypeBase
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| T | elemanların türü. |
+| T | Ögelerin türü. |
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpChoise](xmpchoise/)() | Default_Constructor |
+| [XmpChoise](xmpchoise/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | Tercih edilen değerlerin genişletilip genişletilemeyeceğini gösteren bir değer alır veya ayarlar. |
+| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | Tercih edilen değerlerin genişletilebilir olup olmadığını gösteren bir değeri alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

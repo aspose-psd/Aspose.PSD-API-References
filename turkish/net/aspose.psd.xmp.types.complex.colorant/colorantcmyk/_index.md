@@ -1,57 +1,58 @@
 ---
-title: Class ColorantCmyk
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk sınıf. CMYK Renklendiriciyi Temsil Eder.
+title: "Sınıf ColorantCmyk"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk sınıf. CMYK Colorant'ı temsil eder"
 type: docs
-weight: 6020
+weight: 6550
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk class
 
-CMYK Renklendiriciyi Temsil Eder.
+CMYK Colorant'ı temsil eder.
 
 ```csharp
 public sealed class ColorantCmyk : ColorantBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ColorantCmyk](colorantcmyk/#constructor)() | Yeni bir örneğini başlatır.`ColorantCmyk` sınıf. |
-| [ColorantCmyk](colorantcmyk/#constructor_1)(float, float, float, float) | Yeni bir örneğini başlatır.`ColorantCmyk` sınıf. |
+| [ColorantCmyk](colorantcmyk/#constructor)() | Yeni bir `ColorantCmyk` sınıfı örneği başlatır. |
+| [ColorantCmyk](colorantcmyk/#constructor_1)(float, float, float, float) | Yeni bir `ColorantCmyk` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Black](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/) { get; set; } | Siyah bileşen değerini alır veya ayarlar. |
-| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Rengin türünü alır veya ayarlar. |
+| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Renk tipini alır veya ayarlar. |
 | [Cyan](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/) { get; set; } | Camgöbeği bileşen değerini alır veya ayarlar. |
 | [Magenta](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/) { get; set; } | Macenta bileşen değerini alır veya ayarlar. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Alır[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sini alır. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Alır [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sını alır. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ön eki alır. |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Renk örneğinin adını alır veya ayarlar. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Örnek kartın adını alır veya ayarlar. |
 | [Yellow](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/) { get; set; } | Sarı bileşen değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | CMYK renklendiricide maksimum renk değeri. |
-| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | CMYK renklendiricide minimum renk değeri. |
+| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | CMYK renk maddesinde maksimum renk değeri. |
+| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | CMYK renk maddesinde minimum renk değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantBase](../colorantbase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

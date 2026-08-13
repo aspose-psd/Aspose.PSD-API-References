@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD for .NET API Referansı
-description: TextureBrush mülk. Şunu alırImage bununla ilişkili nesneTextureBrush nesne.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextureBrush özelliği. Bu TextureBrush nesnesiyle ilişkili Image nesnesini alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-Şunu alır:[`Image`](../../../aspose.psd/image/) bununla ilişkili nesne[`TextureBrush`](../) nesne.
+Bu [`TextureBrush`](../) nesnesiyle ilişkili [`Image`](../../../aspose.psd/image/) nesnesini alır.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bir[`Image`](../../../aspose.psd/image/) bunun birlikte kullanıldığı görüntüyü temsil eden nesne[`TextureBrush`](../) nesne şekilleri doldurur.
+Bu [`TextureBrush`](../) nesnesinin şekilleri doldurmak için kullandığı resmi temsil eden bir [`Image`](../../../aspose.psd/image/) nesnesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../texturebrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

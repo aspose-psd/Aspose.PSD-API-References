@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSelectionIdsResource mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "LayerSelectionIdsResource.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSelectionIdsResource özelliği. Kaynak veri boyutunu bayt cinsinden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerSelectionIdsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

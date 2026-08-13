@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadSByteArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan bir dizi imzalı bayt değeri okur.
+title: "TiffStreamReader.ReadSByteArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan işaretli bayt değerlerinin bir dizisini okur"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByteArray method
 
-Akıştan bir dizi imzalı bayt değeri okur.
+Akıştan işaretli bayt değerleri dizisi okur.
 
 ```csharp
 public sbyte[] ReadSByteArray(long position, long count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
-| count | Int64 | Öğeler sayılır. |
+| konum | Int64 | Okunacak konum. |
+| sayı | Int64 | Öğe sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşaretli bayt değerleri dizisi.
+İmzalı bayt değerlerinin dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

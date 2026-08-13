@@ -1,31 +1,32 @@
 ---
-title: RasterImage.HorizontalResolution
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Bunun inç başına piksel cinsinden yatay çözünürlüğünü alır veya ayarlarRasterImage .
+title: "RasterImage.HorizontalResolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Bu RasterImage'ın inç başına piksel cinsinden yatay çözünürlüğünü alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/rasterimage/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.HorizontalResolution property
 
-Bunun inç başına piksel cinsinden yatay çözünürlüğünü alır veya ayarlar[`RasterImage`](../) .
+Bu [`RasterImage`](../) için inç başına piksel cinsinden yatay çözünürlüğü alır veya ayarlar.
 
 ```csharp
 public virtual double HorizontalResolution { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yatay çözünürlük.
 
-### Notlar
+## Açıklamalar
 
-Farklı platformlar ekran çözünürlüğünü geri getiremediğinden, varsayılan olarak bu değerin her zaman 96 olduğunu unutmayın. Her iki çözünürlük değerini tek bir çağrıda güncellemek için SetResolution yöntemini kullanmayı düşünebilirsiniz.
+Not: Varsayılan olarak bu değer her zaman 96'dır çünkü farklı platformlar ekran çözünürlüğünü döndüremez. Her iki çözünürlük değerini tek bir çağrıda güncellemek için SetResolution yöntemini kullanmayı düşünebilirsiniz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

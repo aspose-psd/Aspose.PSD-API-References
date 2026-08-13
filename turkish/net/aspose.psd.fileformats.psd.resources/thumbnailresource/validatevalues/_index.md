@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource yöntem. Kaynak değerlerini doğrular.
+title: "ThumbnailResource.ValidateValues"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource yöntemi. Kaynak değerlerini doğrular"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ValidateValues method
 
 Kaynak değerlerini doğrular.
@@ -14,10 +15,10 @@ Kaynak değerlerini doğrular.
 public override void ValidateValues()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

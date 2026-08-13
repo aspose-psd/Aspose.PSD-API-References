@@ -1,23 +1,24 @@
 ---
-title: UrlListResource.UrlListResource
-second_title: Aspose.PSD for .NET API Referansı
-description: UrlListResource inşaatçı. Default_Constructor
+title: "UrlListResource.UrlListResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UrlListResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/urllistresource/urllistresource/
 ---
+{{< psd/tize >}}
 ## UrlListResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public UrlListResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UrlListResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

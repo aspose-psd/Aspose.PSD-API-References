@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions yöntem. Seçeneklerde etiket olup olmadığını belirler.
+title: "TiffOptions.IsTagPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions yöntemi. Etiketin seçeneklerde mevcut olup olmadığını belirler"
 type: docs
-weight: 730
+weight: 740
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
-Seçeneklerde etiket olup olmadığını belirler.
+Etiketin seçeneklerde bulunup bulunmadığını belirler.
 
 ```csharp
 public bool IsTagPresent(TiffTags tag)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| tag | TiffTags | Kontrol edilecek etiket kimliği. |
+| etiket | TiffTags | Kontrol edilecek etiket kimliği. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` etiket varsa; aksi takdirde,`YANLIŞ` .
+`true` etiketi mevcutsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

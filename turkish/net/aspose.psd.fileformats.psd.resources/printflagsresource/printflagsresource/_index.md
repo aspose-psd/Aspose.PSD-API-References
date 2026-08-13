@@ -1,23 +1,24 @@
 ---
-title: PrintFlagsResource.PrintFlagsResource
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintFlagsResource inşaatçı. Default_Constructor
+title: "PrintFlagsResource.PrintFlagsResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintFlagsResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/printflagsresource/printflagsresource/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public PrintFlagsResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintFlagsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

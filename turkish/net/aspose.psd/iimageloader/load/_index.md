@@ -1,35 +1,36 @@
 ---
-title: IImageLoader.Load
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageLoader yöntem. İle yeni bir resim açarloadOptions .
+title: "IImageLoader.Load"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageLoader yöntemi. loadOptions ile yeni bir görüntü açar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-İle yeni bir resim açar*loadOptions* .
+Yeni bir görüntüyü *loadOptions* ile açar.
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
+| streamContainer | StreamContainer | Akış konteyneri. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni açılan bir resim örneği.
+Yeni açılmış bir görüntü örneği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* ad alanı [Aspose.PSD](../../iimageloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

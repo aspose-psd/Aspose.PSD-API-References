@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.RemoveFigures
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Rakamları kaldırır.
+title: "GraphicsPath.RemoveFigures"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Şekilleri kaldırır"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/graphicspath/removefigures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigures method
 
-Rakamları kaldırır.
+Şekilleri kaldırır.
 
 ```csharp
 public void RemoveFigures(Figure[] figures)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| figures | Figure[] | Kaldırılacak rakamlar. |
+| şekiller | Figure[] | Kaldırılacak şekiller. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

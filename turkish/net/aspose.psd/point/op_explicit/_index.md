@@ -1,32 +1,33 @@
 ---
-title: Point.op_Explicit
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Belirtileni dönüştürürPoint bir yapıSizeyapı.
+title: "Point.op_Explicit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Belirtilen Point yapısını bir Size yapısına dönüştürür."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/point/op_explicit/
 ---
+{{< psd/tize >}}
 ## Point Explicit operator
 
-Belirtileni dönüştürür[`Point`](../) bir yapı[`Size`](../../size/)yapı.
+Belirtilen [`Point`](../) yapısını bir [`Size`](../../size/) yapısına dönüştürür.
 
 ```csharp
 public static explicit operator Size(Point point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../) dönüştürülecek. |
+| point | Point | Dönüştürülecek [`Point`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Size`](../../size/) bu dönüşümden kaynaklanır.
+Dönüştürmeden elde edilen [`Size`](../../size/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

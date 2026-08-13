@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: Aspose.PSD for .NET API Referansı
-description: AnimatedDataSectionResource mülk. Animasyonlu veri bölümü yapısını alır veya ayarlar.
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AnimatedDataSectionResource özelliği. Animasyonlu veri bölümü yapısını alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
 Animasyonlu veri bölümü yapısını alır veya ayarlar.
@@ -14,9 +15,9 @@ Animasyonlu veri bölümü yapısını alır veya ayarlar.
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, animasyonlu verilerin zaman çizelgesi çerçevesindeki gecikme süresinin nasıl ayarlanacağını/güncelleneceğini gösterir.
+Aşağıdaki kod, animasyonlu verinin zaman çizelgesi çerçevesinde gecikme süresini ayarlama/güncelleme yöntemini gösterir.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 1 saniyeye eşit olan 100 centi-saniye değerinde çerçeve gecikme kaydını oluşturur.
+            // 1 saniyeye eşit 100 santisaniye değerine sahip çerçeve gecikme kaydını oluşturur.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // zamanı santi saniye olarak ayarla.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

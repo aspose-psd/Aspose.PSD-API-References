@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Prefix
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage mülk. Ön eki alır.
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage özelliği. Öneki alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
 Ön eki alır.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp/xmppackage/prefix/
 public string Prefix { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-önek.
+Önek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

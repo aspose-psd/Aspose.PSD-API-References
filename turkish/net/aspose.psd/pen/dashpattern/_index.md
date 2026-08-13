@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bir dizi özel çizgi ve boşluk alır veya ayarlar.
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Özel kesik ve boşluklardan oluşan bir dizi alır veya ayarlar."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-Bir dizi özel çizgi ve boşluk alır veya ayarlar.
+Özel tire ve boşluklardan oluşan bir dizi alır veya ayarlar.
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kesikli çizgilerdeki değişen tirelerin ve boşlukların uzunluklarını belirten bir gerçek sayılar dizisi.
+Kesikli çizgilerde değişen kesik ve boşlukların uzunluklarını belirten gerçek sayıların bir dizisi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`DashPattern` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `DashPattern` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

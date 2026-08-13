@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.UseGlobalLight
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Bu açıyı tüm katman efektlerinde kullanıp kullanmayacağını belirten bir değer alır veya ayarlar.
+title: "DropShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Bu açının tüm katman efektlerinde kullanılıp kullanılmayacağını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.UseGlobalLight property
 
-[Bu açıyı tüm katman efektlerinde kullanıp kullanmayacağını] belirten bir değer alır veya ayarlar.
+Bu değerin [use this angle in all of the layer effects] gösterip göstermediğini alır veya ayarlar.
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [küresel ışık kullanın]; aksi takdirde,`YANLIŞ` .
+`true` eğer [küresel ışığı kullan]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

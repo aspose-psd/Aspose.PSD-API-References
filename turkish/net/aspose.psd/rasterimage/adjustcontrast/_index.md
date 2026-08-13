@@ -1,11 +1,12 @@
 ---
-title: RasterImage.AdjustContrast
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Görüntü kontrastı
+title: "RasterImage.AdjustContrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Görüntü kontrastı"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/rasterimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustContrast method
 
 Görüntü kontrastı
@@ -14,14 +15,14 @@ Görüntü kontrastı
 public virtual void AdjustContrast(float contrast)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| contrast | Single | Kontrast değeri ([-100; 100] aralığında) |
+| kontrast | Single | Kontrast değeri ([-100; 100] aralığında) |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

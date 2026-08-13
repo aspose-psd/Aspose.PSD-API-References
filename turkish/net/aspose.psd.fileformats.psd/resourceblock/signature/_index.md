@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceBlock mülk. Kaynak imzasını alır. Her zaman 8BIM olmalıdır.
+title: "ResourceBlock.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceBlock özelliği. Kaynak imzasını alır. Her zaman 8BIM olmalıdır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd/resourceblock/signature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Signature property
 
 Kaynak imzasını alır. Her zaman '8BIM' olmalıdır.
@@ -14,14 +15,14 @@ Kaynak imzasını alır. Her zaman '8BIM' olmalıdır.
 public int Signature { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak imzası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

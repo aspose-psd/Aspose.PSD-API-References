@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: Aspose.PSD for .NET API Referansı
-description: IObjectWithSizeF mülk. Nesne yüksekliğini inç olarak alır.
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IObjectWithSizeF özelliği. Nesnenin yüksekliğini inç cinsinden alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
-Nesne yüksekliğini inç olarak alır.
+Nesnenin yüksekliğini inç cinsinden alır.
 
 ```csharp
 public float HeightF { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İnç cinsinden nesne yüksekliği.
+Nesnenin yüksekliği, inç cinsinden.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IObjectWithSizeF](../)
-* ad alanı [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

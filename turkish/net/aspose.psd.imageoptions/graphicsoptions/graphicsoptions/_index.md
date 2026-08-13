@@ -1,23 +1,24 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsOptions inşaatçı. Default_Constructor
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsOptions yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public GraphicsOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

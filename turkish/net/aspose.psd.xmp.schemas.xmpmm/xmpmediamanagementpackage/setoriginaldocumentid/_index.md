@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetOriginalDocumentId
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMediaManagementPackage yöntem. Orijinal belge kimliğini ayarlar.
+title: "XmpMediaManagementPackage.SetOriginalDocumentId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMediaManagementPackage yöntemi. Orijinal belge kimliğini ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setoriginaldocumentid/
 ---
+{{< psd/tize >}}
 ## SetOriginalDocumentId(Guid) {#setoriginaldocumentid}
 
 Orijinal belge kimliğini ayarlar.
@@ -14,15 +15,15 @@ Orijinal belge kimliğini ayarlar.
 public void SetOriginalDocumentId(Guid guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | Guid | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Orijinal belge kimliğini ayarlar.
 public void SetOriginalDocumentId(string guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | String | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: Aspose.PSD for .NET API Referansı
-description: IntRange inşaatçı. Yeni bir örneğini başlatır.IntRange sınıf.
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IntRange yapıcı. IntRange sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-Yeni bir örneğini başlatır.[`IntRange`](../) sınıf.
+[`IntRange`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| start | Int32 | Başlangıç. |
-| count | Int32 | Sayım. |
+| başlangıç | Int32 | Başlangıç. |
+| sayı | Int32 | Sayı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IntRange](../)
-* ad alanı [Aspose.PSD](../../intrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`IntRange`](../) sınıf.
+[`IntRange`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| start | Int32 | Başlangıç. |
-| count | Int32 | Sayım. |
-| delta | Int32 | delta. |
+| başlangıç | Int32 | Başlangıç. |
+| sayı | Int32 | Sayı. |
+| delta | Int32 | Delta. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IntRange](../)
-* ad alanı [Aspose.PSD](../../intrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`IntRange`](../) sınıf.
+[`IntRange`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| range | Int32[] | Menzil. |
+| aralık | Int32[] | Aralık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IntRange](../)
-* ad alanı [Aspose.PSD](../../intrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

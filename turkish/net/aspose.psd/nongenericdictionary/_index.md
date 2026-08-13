@@ -1,52 +1,53 @@
 ---
-title: Class NonGenericDictionary
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.NonGenericDictionary sınıf. Jenerik olmayan bir sözlüğü temsil eder.
+title: "Sınıf NonGenericDictionary"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.NonGenericDictionary sınıfı. Genel olmayan bir sözlüğü temsil eder"
 type: docs
-weight: 5140
+weight: 5660
 url: /tr/net/aspose.psd/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary class
 
-Jenerik olmayan bir sözlüğü temsil eder.
+Genel olmayan bir sözlüğü temsil eder.
 
 ```csharp
 public class NonGenericDictionary : IDictionary
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [NonGenericDictionary](nongenericdictionary/)(IDictionary) | Yeni bir örneğini başlatır.`NonGenericDictionary` sınıf. |
+| [NonGenericDictionary](nongenericdictionary/)(IDictionary) | `NonGenericDictionary` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericdictionary/count/) { get; } | içinde bulunan öğelerin sayısını alırICollection . |
-| [IsFixedSize](../../aspose.psd/nongenericdictionary/isfixedsize/) { get; } | olup olmadığını gösteren bir değer alır.IDictionary nesnenin sabit bir boyutu var. |
-| [IsReadOnly](../../aspose.psd/nongenericdictionary/isreadonly/) { get; } | olup olmadığını gösteren bir değer alır.IDictionary nesne salt okunurdur. |
-| [IsSynchronized](../../aspose.psd/nongenericdictionary/issynchronized/) { get; } | dosyasına erişimin olup olmadığını gösteren bir değer alır.ICollection senkronize edilir (iş parçacığı güvenli). |
-| [Item](../../aspose.psd/nongenericdictionary/item/) { get; set; } | Öğeyi belirtilen anahtarla alır veya ayarlar. |
-| [Keys](../../aspose.psd/nongenericdictionary/keys/) { get; } | bir alırICollection anahtarlarını içeren nesneIDictionary nesne. |
-| [SyncRoot](../../aspose.psd/nongenericdictionary/syncroot/) { get; } | 'ye erişimi senkronize etmek için kullanılabilecek bir nesne alırICollection . |
-| [Values](../../aspose.psd/nongenericdictionary/values/) { get; } | bir alırICollection içindeki değerleri içeren nesneIDictionary nesne. |
+| [Count](../../aspose.psd/nongenericdictionary/count/) { get; } | ICollection içinde bulunan eleman sayısını alır. |
+| [IsFixedSize](../../aspose.psd/nongenericdictionary/isfixedsize/) { get; } | IDictionary nesnesinin sabit bir boyuta sahip olup olmadığını gösteren bir değer alır. |
+| [IsReadOnly](../../aspose.psd/nongenericdictionary/isreadonly/) { get; } | IDictionary nesnesinin yalnızca okunur olup olmadığını gösteren bir değer alır. |
+| [IsSynchronized](../../aspose.psd/nongenericdictionary/issynchronized/) { get; } | ICollection erişiminin senkronize (iş parçacığı güvenli) olup olmadığını gösteren bir değer alır. |
+| [Item](../../aspose.psd/nongenericdictionary/item/) { get; set; } | Belirtilen anahtara sahip öğeyi alır veya ayarlar. |
+| [Keys](../../aspose.psd/nongenericdictionary/keys/) { get; } | IDictionary nesnesinin anahtarlarını içeren bir ICollection nesnesi alır. |
+| [SyncRoot](../../aspose.psd/nongenericdictionary/syncroot/) { get; } | ICollection erişimini senkronize etmek için kullanılabilecek bir nesne alır. |
+| [Values](../../aspose.psd/nongenericdictionary/values/) { get; } | IDictionary nesnesindeki değerleri içeren bir ICollection nesnesi alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericdictionary/add/)(object, object) | Sağlanan anahtar ve değerle öğesine bir öğe eklerIDictionary nesne. |
-| [Clear](../../aspose.psd/nongenericdictionary/clear/)() | 'den tüm öğeleri kaldırırIDictionary nesne. |
-| [Contains](../../aspose.psd/nongenericdictionary/contains/)(object) | olup olmadığını belirler.IDictionary nesne, belirtilen anahtara sahip bir öğe içeriyor. |
-| [CopyTo](../../aspose.psd/nongenericdictionary/copyto/)(Array, int) | öğelerini kopyalarICollection bir 'yeArray , belirli bir 'den başlayarakArray dizin. |
-| [GetEnumerator](../../aspose.psd/nongenericdictionary/getenumerator/)() | Numaralandırıcıyı alır. |
-| [Remove](../../aspose.psd/nongenericdictionary/remove/)(object) | Belirtilen anahtara sahip öğeyi öğesinden kaldırırIDictionary nesne. |
+| [Add](../../aspose.psd/nongenericdictionary/add/)(object, object) | Sağlanan anahtar ve değerle bir öğeyi IDictionary nesnesine ekler. |
+| [Clear](../../aspose.psd/nongenericdictionary/clear/)() | IDictionary nesnesindeki tüm öğeleri kaldırır. |
+| [Contains](../../aspose.psd/nongenericdictionary/contains/)(object) | IDictionary nesnesinin belirtilen anahtara sahip bir öğe içerip içermediğini belirler. |
+| [CopyTo](../../aspose.psd/nongenericdictionary/copyto/)(Array, int) | ICollection öğelerini belirli bir dizi indeksinden başlayarak bir Array'e kopyalar. |
+| [GetEnumerator](../../aspose.psd/nongenericdictionary/getenumerator/)() | Yineleyiciyi alır. |
+| [Remove](../../aspose.psd/nongenericdictionary/remove/)(object) | IDictionary nesnesinden belirtilen anahtara sahip öğeyi kaldırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,40 +1,41 @@
 ---
-title: Class TiffExifIfd
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.TiffExifIfd sınıf. TIFF Exif resim dosyası dizini class.
+title: "Sınıf TiffExifIfd"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.TiffExifIfd sınıfı. TIFF Exif görüntü dosyası dizini sınıfı"
 type: docs
-weight: 4220
+weight: 4720
 url: /tr/net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd class
 
-TIFF Exif resim dosyası dizini class.
+TIFF Exif görüntü dosyası dizini sınıfı.
 
 ```csharp
 public class TiffExifIfd
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TiffExifIfd](tiffexififd/#constructor)() | Yeni bir örneğini başlatır.`TiffExifIfd` sınıf. |
-| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Yeni bir örneğini başlatır.`TiffExifIfd` sınıf. |
+| [TiffExifIfd](tiffexififd/#constructor)() | `TiffExifIfd` sınıfının yeni bir örneğini başlatır. |
+| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | `TiffExifIfd` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Bu örneğin değeri olup olmadığını gösteren bir değer alır. |
-| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | İşaretçiyi EXIF IFD'ye getirir veya ayarlar. |
+| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Bu örneğin bir değere sahip olup olmadığını gösteren bir değer alır. |
+| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | EXIF IFD'ye işaretçiyi alır veya ayarlar. |
 
-### Notlar
+## Açıklamalar
 
-Exif IFD'ye bir işaretçiyi kapsüller. Birlikte çalışabilirlik, Exif IFD, TIFF'de belirtilen IFD ile aynı yapıya sahiptir. ancak normalde TIFF. 'de olduğu gibi görüntü verilerini içermez. Bkz. http://www.exiv2.org/tags.html ve http://www.awaresystems.be/imaging/tiff/tifftags/exififd .html daha fazla ayrıntı için.
+Exif IFD'ye bir işaretçiyi kapsüller. Uyumluluk açısından, Exif IFD, TIFF'te belirtilen IFD ile aynı yapıya sahiptir. Ancak genellikle TIFF durumunda olduğu gibi görüntü verisi içermez. Daha fazla ayrıntı için http://www.exiv2.org/tags.html ve http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html adreslerine bakın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

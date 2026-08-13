@@ -1,11 +1,12 @@
 ---
-title: ExifData.RelatedSoundFile
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. İlgili ses dosyasını alır veya ayarlar.
+title: "ExifData.RelatedSoundFile"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. İlgili ses dosyasını alır veya ayarlar"
 type: docs
 weight: 880
 url: /tr/net/aspose.psd.exif/exifdata/relatedsoundfile/
 ---
+{{< psd/tize >}}
 ## ExifData.RelatedSoundFile property
 
 İlgili ses dosyasını alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.exif/exifdata/relatedsoundfile/
 public string RelatedSoundFile { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 İlgili ses dosyası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

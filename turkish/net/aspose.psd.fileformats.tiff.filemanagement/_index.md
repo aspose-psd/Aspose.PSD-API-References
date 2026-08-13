@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Tiff dosya biçimi akış işleme sınıflarını içerir.
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, Tiff dosya formatı akış işleme sınıflarını içerir."
 type: docs
-weight: 390
+weight: 430
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-Ad alanı, Tiff dosya biçimi akış işleme sınıflarını içerir.
+{{< psd/tize >}}
+Bu ad alanı, TIFF dosya formatı akış işleme sınıflarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | Küçük endian tiff dosya biçimini işlemek için tiff akışı. |
-| [TiffStreamWriter](./tiffstreamwriter/) | Tiff akışı yazarı. |
+| [TiffStreamReader](./tiffstreamreader/) | Little endian tiff dosya formatını işlemek için tiff akışı. |
+| [TiffStreamWriter](./tiffstreamwriter/) | Tiff akış yazıcısı. |
 
 

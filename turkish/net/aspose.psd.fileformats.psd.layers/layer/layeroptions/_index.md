@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman seçeneklerini alır.
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katman seçeneklerini alır"
 type: docs
-weight: 230
+weight: 240
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
 Katman seçeneklerini alır.
@@ -14,15 +15,15 @@ Katman seçeneklerini alır.
 public PsdOptions LayerOptions { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman seçenekleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

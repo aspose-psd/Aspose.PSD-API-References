@@ -1,36 +1,37 @@
 ---
-title: LnkeResource.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: LnkeResource mülk. Şunu alırLiFeDataSource belirtilen dizinde.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LnkeResource özelliği. Belirtilen dizindeki LiFeDataSource'ı alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-Şunu alır:[`LiFeDataSource`](../../lifedatasource/) belirtilen dizinde.
+Belirtilen dizindeki [`LiFeDataSource`](../../lifedatasource/) öğesini alır.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| index | İçerik. |
+| index | İndeks. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-[`LiFeDataSource`](../../lifedatasource/) örnek.
+Bu [`LiFeDataSource`](../../lifedatasource/) örneği.
 
-### Mülk değeri
+### Property Value
 
-[`LiFeDataSource`](../../lifedatasource/) .
+Bu [`LiFeDataSource`](../../lifedatasource/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

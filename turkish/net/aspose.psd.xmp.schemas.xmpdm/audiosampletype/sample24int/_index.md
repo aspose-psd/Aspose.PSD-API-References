@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Sample24Int
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioSampleType mülk. 24Int ses örneğini temsil eder.
+title: "AudioSampleType.Sample24Int"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioSampleType özelliği. 24Int ses örneğini temsil eder"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample24Int property
 
 24Int ses örneğini temsil eder.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/
 public static AudioSampleType Sample24Int { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioSampleType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

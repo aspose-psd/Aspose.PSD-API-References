@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: Aspose.PSD for .NET API Referansı
-description: PointExtensions yöntem. dönüştürürPoint dizisinePointF dizi.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointExtensions yöntemi. Point dizisini PointF dizisine dönüştürür."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-dönüştürür[`Point`](../../../aspose.psd/point/) dizisine[`PointF`](../../../aspose.psd/pointf/) dizi.
+[`Point`](../../../aspose.psd/point/) dizisini [`PointF`](../../../aspose.psd/pointf/) dizisine dönüştürür.
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | Point[] | bu[`Point`](../../../aspose.psd/point/) dönüştürülecek dizi. |
+| points | Point[] | Dönüştürülecek [`Point`](../../../aspose.psd/point/) dizisi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüş[`PointF`](../../../aspose.psd/pointf/) sıralamak.
+Dönüştürülmüş [`PointF`](../../../aspose.psd/pointf/) dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../pointextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

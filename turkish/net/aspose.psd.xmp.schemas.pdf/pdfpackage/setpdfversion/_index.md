@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetPdfVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfPackage yöntem. PDF sürümünü ayarlar.
+title: "PdfPackage.SetPdfVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfPackage yöntemi. PDF sürümünü ayarlar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetPdfVersion method
 
 PDF sürümünü ayarlar.
@@ -14,14 +15,14 @@ PDF sürümünü ayarlar.
 public void SetPdfVersion(string version)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| version | String | Pdf versiyonu, örneğin: 1.0, 1.3 vb. |
+| sürüm | String | PDF sürümü, örneğin: 1.0, 1.3 vb. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

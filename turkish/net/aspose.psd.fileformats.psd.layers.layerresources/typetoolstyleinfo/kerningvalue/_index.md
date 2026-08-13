@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. Karakter aralığı değerini alır veya ayarlar.
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. Kerning değerini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
 Karakter aralığı değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Karakter aralığı değerini alır veya ayarlar.
 public int KerningValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Karakter aralığı değeri.
+Kerning değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

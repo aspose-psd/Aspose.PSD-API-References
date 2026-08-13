@@ -1,44 +1,45 @@
 ---
-title: GaussWienerFilterOptions.GaussWienerFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussWienerFilterOptions inşaatçı. Yeni bir örneğini başlatır.GaussWienerFilterOptions sınıf.
+title: "GaussWienerFilterOptions.GaussWienerFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussWienerFilterOptions yapıcı. GaussWienerFilterOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/gausswienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions(int, double) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`GaussWienerFilterOptions`](../) sınıf.
+[`GaussWienerFilterOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GaussWienerFilterOptions(int radius, double smooth)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| radius | Int32 | Yarıçap. |
-| smooth | Double | Pürüzsüz. |
+| radius | Int32 | radius. |
+| düzgünlük | Double | Düzgünlük. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussWienerFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussWienerFilterOptions() {#constructor}
 
-Yeni bir örneğini başlatır.[`GaussWienerFilterOptions`](../) class. Varsayılan ayarlarla.
+[`GaussWienerFilterOptions`](../) sınıfının yeni bir örneğini başlatır. Varsayılan ayarlarla.
 
 ```csharp
 public GaussWienerFilterOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussWienerFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

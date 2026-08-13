@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDate mülk. Tarih değerini alır veya ayarlar.
+title: "XmpDate.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDate özelliği. Tarih değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
 Tarih değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Tarih değerini alır veya ayarlar.
 public DateTime Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tarih değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDate](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

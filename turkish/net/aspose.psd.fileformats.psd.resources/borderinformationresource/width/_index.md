@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: BorderInformationResource mülk. Kenarlık genişliğini alır veya ayarlar.
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BorderInformationResource özelliği. Kenar genişliğini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
-Kenarlık genişliğini alır veya ayarlar.
+Kenar genişliğini alır veya ayarlar.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, BorderInformationResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, BorderInformationResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BorderInformationResource'u güncelle
+    // güncelle BorderInformationResource
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -45,10 +46,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BorderInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

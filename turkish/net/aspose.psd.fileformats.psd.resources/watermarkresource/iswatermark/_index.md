@@ -1,27 +1,28 @@
 ---
-title: WatermarkResource.IsWatermark
-second_title: Aspose.PSD for .NET API Referansı
-description: WatermarkResource mülk. Bu örneğin filigran olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "WatermarkResource.IsWatermark"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "WatermarkResource özelliği. Bu örneğin filigran olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.IsWatermark property
 
-Bu örneğin filigran olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin filigran olup olmadığını belirten bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsWatermark { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek filigran ise; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek filigran ise; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [WatermarkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorPaletteHelper.Create8BitGrayscale
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. 8 bit gri tonlama paleti oluşturur.
+title: "ColorPaletteHelper.Create8BitGrayscale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper metodu. 8 bit gri tonlamalı paleti oluşturur."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/colorpalettehelper/create8bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8BitGrayscale method
 
-8 bit gri tonlama paleti oluşturur.
+8 bit gri tonlamalı paleti oluşturur.
 
 ```csharp
 public static IColorPalette Create8BitGrayscale(bool minIsWhite)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| minIsWhite | Boolean | olarak ayarlanmışsa`doğru` palet beyaz renkle başlar, aksi takdirde siyah renkle başlar. |
+| minIsWhite | Boolean | `true` olarak ayarlanırsa, palet beyaz renk ile başlar, aksi takdirde siyah renk ile başlar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-8 bitlik gri tonlama paleti.
+8 bit gri tonlamalı palet.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

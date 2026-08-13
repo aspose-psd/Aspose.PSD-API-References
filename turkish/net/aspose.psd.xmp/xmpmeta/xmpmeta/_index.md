@@ -1,43 +1,44 @@
 ---
-title: XmpMeta.XmpMeta
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMeta inşaatçı. Yeni bir örneğini başlatır.XmpMeta sınıf.
+title: "XmpMeta.XmpMeta"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMeta yapıcı. XmpMeta sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpMeta`](../) sınıf.
+[`XmpMeta`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpMeta(string toolkitVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| toolkitVersion | String | Adobe XMP araç seti sürümü. |
+| toolkitVersion | String | Adobe XMP araç takımı sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMeta](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpmeta/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpMeta() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpMeta`](../) sınıf.
+[`XmpMeta`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpMeta()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMeta](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpmeta/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

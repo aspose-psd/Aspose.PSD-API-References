@@ -1,32 +1,33 @@
 ---
-title: Enum PenAlignment
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.PenAlignment Sıralama. Bir öğenin hizalamasını belirtirPen teorik sıfır genişlikli çizgiye göre nesne.
+title: "Enum PenAlignment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.PenAlignment enum. Bir Pen nesnesinin teorik sıfır genişlikli çizgiye göre hizalamasını belirtir."
 type: docs
-weight: 5210
+weight: 5730
 url: /tr/net/aspose.psd/penalignment/
 ---
+{{< psd/tize >}}
 ## PenAlignment enumeration
 
-Bir öğenin hizalamasını belirtir[`Pen`](../pen/) teorik, sıfır genişlikli çizgiye göre nesne.
+Bir [`Pen`](../pen/) nesnesinin teorik, sıfır genişlikli çizgiye göre hizalamasını belirtir.
 
 ```csharp
 public enum PenAlignment
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Center | `0` | şunu belirtir:[`Pen`](../pen/) nesne teorik çizginin üzerinde ortalanır. |
-| Inset | `1` | şunu belirtir:[`Pen`](../pen/) teorik çizginin iç tarafında konumlandırılmıştır. |
-| Outset | `2` | Şunu belirtir:[`Pen`](../pen/)teorik çizginin dışında konumlanmıştır. |
-| Left | `3` | Şunu belirtir:[`Pen`](../pen/) teorik çizginin solunda yer alır. |
-| Right | `4` | Şunu belirtir:[`Pen`](../pen/) teorik çizginin sağında yer alır. |
+| Center | `0` | Bir [`Pen`](../pen/) nesnesinin teorik çizgi üzerinde ortalandığını belirtir. |
+| Inset | `1` | Bir [`Pen`](../pen/) nesnesinin teorik çizginin içinde konumlandırıldığını belirtir. |
+| Outset | `2` | Bir [`Pen`](../pen/) nesnesinin teorik çizginin dışında konumlandırıldığını belirtir. |
+| Left | `3` | Bir [`Pen`](../pen/) nesnesinin teorik çizginin solunda konumlandırıldığını belirtir. |
+| Right | `4` | Bir [`Pen`](../pen/) nesnesinin teorik çizginin sağında konumlandırıldığını belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

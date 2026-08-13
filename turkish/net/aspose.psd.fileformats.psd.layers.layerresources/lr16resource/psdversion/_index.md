@@ -1,23 +1,24 @@
 ---
-title: Lr16Resource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: Lr16Resource mülk. psd sürümünü alır.
+title: "Lr16Resource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lr16Resource özelliği. PSD sürümünü alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.PsdVersion property
 
-psd sürümünü alır.
+PSD sürümünü alır.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lr16Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

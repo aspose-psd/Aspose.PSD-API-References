@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.TransparentColor
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdColorPalette mülk. Şeffaf rengi alır.
+title: "PsdColorPalette.TransparentColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdColorPalette özelliği. Şeffaf rengi alır"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.TransparentColor property
 
 Şeffaf rengi alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor/
 public Color TransparentColor { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeffaf renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

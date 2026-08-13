@@ -1,28 +1,29 @@
 ---
-title: Class VectorPathRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord sınıf. Vektör Yolu Kaydı Class
+title: "Sınıf VectorPathRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord sınıfı. Vector Path Record Sınıfı"
 type: docs
-weight: 1400
+weight: 1410
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
-Vektör Yolu Kaydı Class
+Vektör Yol Kayıt Sınıfı
 
 ```csharp
 public abstract class VectorPathRecord
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | Türü alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

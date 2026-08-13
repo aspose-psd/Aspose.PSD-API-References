@@ -1,23 +1,24 @@
 ---
-title: AiImage.AiImage
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage inşaatçı. Default_Constructor
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage yapıcı. AiImage sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-Default_Constructor
+[`AiImage`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public AiImage()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

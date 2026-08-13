@@ -1,37 +1,38 @@
 ---
-title: TiffDataType.CompareTo
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType yöntem. Geçerli örneği aynı türden başka bir nesneyle karşılaştırır ve geçerli örneğin diğer nesneyle sıralama düzeninde aynı konumda olup olmadığını gösteren bir tamsayı döndürür.
+title: "TiffDataType.CompareTo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType yöntemi. Mevcut örneği aynı tipteki başka bir nesneyle karşılaştırır ve mevcut örneğin diğer nesneye göre sıralama düzeninde önce mi, sonra mı yoksa aynı konumda mı olduğunu gösteren bir tam sayı döndürür."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/compareto/
 ---
+{{< psd/tize >}}
 ## TiffDataType.CompareTo method
 
-Geçerli örneği aynı türden başka bir nesneyle karşılaştırır ve geçerli örneğin diğer nesneyle sıralama düzeninde aynı konumda olup olmadığını gösteren bir tamsayı döndürür.
+Mevcut örneği aynı türdeki başka bir nesneyle karşılaştırır ve mevcut örneğin diğer nesneye göre sıralama düzeninde önce mi, sonra mı yoksa aynı konumda mı olduğunu belirten bir tam sayı döndürür.
 
 ```csharp
 public int CompareTo(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | Bu örnekle karşılaştırılacak bir nesne. |
+| obj | Nesne | Bu örnekle karşılaştırılacak bir nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Karşılaştırılan nesnelerin göreli sırasını gösteren 32 bit işaretli bir tamsayı. Dönüş değeri şu anlamlara sahiptir: Value Anlamı Sıfırdan küçük Bu örnek, şundan küçüktür:*obj* . Zero Bu örnek şuna eşittir:*obj* . Sıfırdan büyük Bu örnek şundan büyük:*obj* .
+Karşılaştırılan nesnelerin göreceli sırasını gösteren 32 bit işaretli bir tam sayı. Döndürülen değer şu anlamlara gelir: Değer Anlamı Sıfırdan küçük Bu örnek *obj*'den küçüktür. Sıfır Bu örnek *obj*'e eşittir. Sıfırdan büyük Bu örnek *obj*'den büyüktür.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Beklenen TiffDataType türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

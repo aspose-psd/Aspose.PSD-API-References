@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleType
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Ses örneği türünü ayarlar.
+title: "XmpDynamicMediaPackage.SetAudioSampleType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Ses örnekleme tipini ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosampletype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleType method
 
-Ses örneği türünü ayarlar.
+Ses örnek türünü ayarlar.
 
 ```csharp
 public void SetAudioSampleType(AudioSampleType audioSampleType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| audioSampleType | AudioSampleType | Ses örneği türü. |
+| audioSampleType | AudioSampleType | Ses örnekleme tipi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

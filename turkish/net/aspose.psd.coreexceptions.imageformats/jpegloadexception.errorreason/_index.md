@@ -1,11 +1,12 @@
 ---
-title: Enum JpegLoadException.ErrorReason
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason Sıralama. Hatanın nedenlerini temsil eder.
+title: "Enum JpegLoadException.ErrorReason"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason enum. Hatanın nedenlerini temsil eder"
 type: docs
 weight: 560
 url: /tr/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.ErrorReason enumeration
 
 Hatanın nedenlerini temsil eder.
@@ -14,17 +15,17 @@ Hatanın nedenlerini temsil eder.
 public enum ErrorReason
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | BasicError | `0` | Temel hata türü. |
 | NotEnoughData | `1` | Akışta yeterli veri yok. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegLoadException](../jpegloadexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

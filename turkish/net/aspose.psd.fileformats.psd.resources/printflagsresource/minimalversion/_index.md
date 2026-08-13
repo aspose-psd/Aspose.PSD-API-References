@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.MinimalVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintFlagsResource mülk. Gereken minimum PSD sürümünü alır.
+title: "PrintFlagsResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintFlagsResource özelliği. Gereken minimum PSD sürümünü alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.resources/printflagsresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.MinimalVersion property
 
-Gereken minimum PSD sürümünü alır.
+Gerekli minimum PSD sürümünü alır.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Minimum PSD sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintFlagsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

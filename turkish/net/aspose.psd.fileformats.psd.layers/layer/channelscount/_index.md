@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katmanın kanal sayısını alır.
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Katmanın kanal sayısını alır"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
 Katmanın kanal sayısını alır.
@@ -14,14 +15,14 @@ Katmanın kanal sayısını alır.
 public ushort ChannelsCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katmanın kanalları sayılır.
+Katmanın kanal sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

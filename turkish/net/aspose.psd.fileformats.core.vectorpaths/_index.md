@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı PSD Vektör Yollarını içerir.
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, PSD Vektör Yollarını içerir."
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/
 ---
+{{< psd/tize >}}
 Ad alanı, PSD Vektör Yollarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | Bezier Düğüm Kayıt Sınıfı |
-| [ClipboardRecord](./clipboardrecord/) | Pano Kaydı Sınıfı |
-| [InitialFillRuleRecord](./initialfillrulerecord/) | İlk Doldurma Kuralı Kaydı Class |
-| [LengthRecord](./lengthrecord/) | Alt Yol Uzunluğu Kayıt Sınıfı |
+| [BezierKnotRecord](./bezierknotrecord/) | Bezier Düğüm Kayıt Sınıfı, kaynaktan Bezier düğüm verilerini okuma/yazma için kullanılır. |
+| [ClipboardRecord](./clipboardrecord/) | Pano Kayıt Sınıfı |
+| [InitialFillRuleRecord](./initialfillrulerecord/) | İlk Doldurma Kuralı Kayıt Sınıfı |
+| [LengthRecord](./lengthrecord/) | Alt Yol Uzunluğu Kayıt Sınıfı. |
 | [PathFillRuleRecord](./pathfillrulerecord/) | Yol Doldurma Kuralı Kayıt Sınıfı |
-| [VectorPathRecord](./vectorpathrecord/) | Vektör Yolu Kaydı Class |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vektör Yolu Kayıt Fabrikası Sınıfı |
-| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Vektör şekli sınırlayıcı kutu sınıfını tanımlar. |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Vektör şekli oluşturma ayarları. |
-| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Vektör şekli yarıçap dikdörtgeni tanımlar class |
-| [VectorShapeTransform](./vectorshapetransform/) | Vektör şekli dönüştürme matrisini tanımlar class |
+| [VectorPathRecord](./vectorpathrecord/) | Vektör Yol Kayıt Sınıfı |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vektör Yol Kayıt Fabrika Sınıfı. |
+| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Vektör şeklinin sınırlayıcı kutu sınıfını tanımlar. |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Vektör şeklinin oluşum ayarları. |
+| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Vektör şeklinin yarıçap dikdörtgen sınıfını tanımlar |
+| [VectorShapeTransform](./vectorshapetransform/) | Vektör şeklinin dönüşüm matrisi sınıfını tanımlar |
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [IVectorPathData](./ivectorpathdata/) | Vektör yolu verilerine erişim için arayüz. |
-## numaralandırma
+| [IVectorPathData](./ivectorpathdata/) | Vektör yol verilerine erişim için arayüz. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [PathOperations](./pathoperations/) | Birleştiren yol şekilleri için işlemler (Boole işlemleri). |
-| [VectorPathType](./vectorpathtype/) | PSD Biçim Spesifikasyonuna göre Vektör Yolu Türü |
+| [PathOperations](./pathoperations/) | Yol şekillerinin birleştirilmesi (Boolean işlemler) için işlemler. |
+| [VectorPathType](./vectorpathtype/) | PSD Format Özelliğine göre Vektör Yol Türü |
 
 

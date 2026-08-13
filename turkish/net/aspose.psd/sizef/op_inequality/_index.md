@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Inequality
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. İki olup olmadığını test ederSizeF yapılar farklıdır.
+title: "SizeF.op_Inequality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. İki SizeF yapısının farklı olup olmadığını test eder"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/sizef/op_inequality/
 ---
+{{< psd/tize >}}
 ## SizeF Inequality operator
 
-İki olup olmadığını test eder[`SizeF`](../) yapılar farklıdır.
+İki [`SizeF`](../) yapısının farklı olup olmadığını test eder.
 
 ```csharp
 public static bool operator !=(SizeF size1, SizeF size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | SizeF | bu[`SizeF`](../) eşitsizlik operatörünün solundaki yapı. |
-| size2 | SizeF | bu[`SizeF`](../) eşitsizlik operatörünün sağındaki yapı. |
+| size1 | SizeF | Eşitsizlik operatörünün solundaki [`SizeF`](../) yapısı. |
+| size2 | SizeF | Eşitsizlik operatörünün sağındaki [`SizeF`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu operatör şu durumlarda true değerini döndürür:*size1* Ve*size2* genişlik veya yükseklik bakımından farklılık gösterir; yanlış ise*size1* Ve*size2* eşittir.
+Bu operatör, *size1* ve *size2* genişlik ya da yükseklikte farklıysa true, *size1* ve *size2* eşitse false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS ölçüm modunu alır veya ayarlar.
+title: "ExifData.GPSMeasureMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS ölçüm modunu alır veya ayarlar"
 type: docs
 weight: 570
 url: /tr/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
 GPS ölçüm modunu alır veya ayarlar.
@@ -14,14 +15,14 @@ GPS ölçüm modunu alır veya ayarlar.
 public string GPSMeasureMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 GPS ölçüm modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

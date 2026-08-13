@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.CmykMixerChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykMixerChannel inşaatçı. Yeni bir örneğini başlatır.CmykMixerChannel sınıf.
+title: "CmykMixerChannel.CmykMixerChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykMixerChannel yapıcı. CmykMixerChannel sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel constructor
 
-Yeni bir örneğini başlatır.[`CmykMixerChannel`](../) sınıf.
+[`CmykMixerChannel`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CmykMixerChannel(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykMixerChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

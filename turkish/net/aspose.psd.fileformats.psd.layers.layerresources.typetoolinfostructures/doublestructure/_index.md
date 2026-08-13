@@ -1,52 +1,53 @@
 ---
-title: Class DoubleStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure sınıf. Çift yapı.
+title: "Sınıf DoubleStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure sınıfı. double yapı."
 type: docs
-weight: 3150
+weight: 3530
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/
 ---
+{{< psd/tize >}}
 ## DoubleStructure class
 
-Çift yapı.
+Double yapısı.
 
 ```csharp
 public sealed class DoubleStructure : OSTypeStructure
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DoubleStructure](doublestructure/)(ClassID) | Yeni bir örneğini başlatır.`DoubleStructure` sınıf. |
+| [DoubleStructure](doublestructure/)(ClassID) | Yeni bir `DoubleStructure` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/) { get; } | Yapı anahtarını alır. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Anahtar adını alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/) { get; } | Şunu alır:[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/) { get; set; } | Çift değeri alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/) { get; set; } | Double değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Başlık uzunluğunu alır. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/) | Yapı anahtarını tanımlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

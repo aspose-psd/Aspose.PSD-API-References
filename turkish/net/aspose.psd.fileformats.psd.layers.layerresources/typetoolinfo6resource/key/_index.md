@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfo6Resource mülk. Katman kaynak anahtarını alır.
+title: "TypeToolInfo6Resource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfo6Resource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfo6Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

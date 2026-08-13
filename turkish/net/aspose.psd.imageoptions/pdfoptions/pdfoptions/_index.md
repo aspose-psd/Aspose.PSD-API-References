@@ -1,23 +1,24 @@
 ---
-title: PdfOptions.PdfOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfOptions inşaatçı. Default_Constructor
+title: "PdfOptions.PdfOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfOptions yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/pdfoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public PdfOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

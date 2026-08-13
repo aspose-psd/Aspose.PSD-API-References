@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bunun olup olmadığını gösteren bir değer alır.Fontitaliktir.
+title: "Font.Italic"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font'un italik olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Bunun olup olmadığını gösteren bir değer alır.[`Font`](../)italiktir.
+Bu [`Font`](../) italik mi olduğunu gösteren bir değer alır.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru ise bu[`Font`](../) italiktir; Aksi takdirde, yanlış.
+Bu [`Font`](../) italikse true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: Interface IAsyncTaskState
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.AsyncTask.IAsyncTaskState arayüz. Eşzamansız görevin durumuna erişim sağlar.
+title: "Arayüz IAsyncTaskState"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.AsyncTask.IAsyncTaskState arayüzü. Asenkron görevin durumuna erişim sağlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.asynctask/iasynctaskstate/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState interface
 
-Eşzamansız görevin durumuna erişim sağlar.
+Asenkron görevin durumuna erişim sağlar.
 
 ```csharp
 public interface IAsyncTaskState
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Eşzamansız görevin iptal edilip edilmediğini gösteren bir değer alır. |
-| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Eşzamansız görevin ilerleme durumunu alır. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Asenkron görevin iptal edilip edilmediğini gösteren bir değer alır. |
+| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Asenkron görevin ilerlemesini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Eşzamansız görevin ilerlemesini ayarlar. |
+| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Asenkron görevin ilerlemesini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

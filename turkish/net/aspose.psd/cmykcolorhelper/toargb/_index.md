@@ -1,57 +1,58 @@
 ---
-title: CmykColorHelper.ToArgb
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColorHelper yöntem. CMYK renklerinden ARGB renklerine dönüştürme.
+title: "CmykColorHelper.ToArgb"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColorHelper metodu. CMYK renklerinden ARGB renklerine dönüşüm"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/cmykcolorhelper/toargb/
 ---
+{{< psd/tize >}}
 ## ToArgb(int[]) {#toargb_1}
 
-CMYK renklerinden ARGB renklerine dönüştürme.
+CMYK renklerinden ARGB renklerine dönüşüm.
 
 ```csharp
 public static Color[] ToArgb(int[] cmykPixels)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK renkleri, 32 bitlik tamsayı değerleri olarak sunuldu. |
+| cmykPixels | Int32[] | CMYK renkleri 32-bit tam sayı değerleri olarak sunulur. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 ARGB renkleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgb(int) {#toargb}
 
-CMYK renginden ARGB rengine dönüştürme.
+CMYK renginden ARGB rengine dönüşüm.
 
 ```csharp
 public static Color ToArgb(int cmykPixel)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cmykPixel | Int32 | 32 bit tamsayı değeri olarak sunulan CMYK rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 ARGB rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

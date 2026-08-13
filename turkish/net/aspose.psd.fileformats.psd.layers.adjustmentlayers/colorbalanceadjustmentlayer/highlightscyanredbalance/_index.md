@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBalanceAdjustmentLayer mülk. Açık Mavi Kırmızı Dengesini alır veya ayarlar.
+title: "ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBalanceAdjustmentLayer özelliği. Highlights Cyan Red Balance değerini alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance property
 
-Açık Mavi Kırmızı Dengesini alır veya ayarlar.
+Vurguların Camgöbeği Kırmızı Dengesini alır veya ayarlar.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Öne Çıkanlar Mavi Kırmızı Dengesi.
+Highlights Cyan Red Balance.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Önemli Noktalar Mavi Kırmızı Dengesi -100 ila +100. aralığında olmalıdır. |
+| ArgumentOutOfRangeException | Highlights Cyan Red Balance -100 ile +100 arasında olmalıdır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, ColorBalanceAdjustmentLayer için desteği gösterir.
+Aşağıdaki kod, ColorBalanceAdjustmentLayer desteğini gösterir.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PSD for .NET API Referansı
-description: BuildVersionInfo alan. Ürün başlığı.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BuildVersionInfo alanı. Ürün başlığı"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
 Ürün başlığı.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd/buildversioninfo/product/
 public static readonly string Product;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BuildVersionInfo](../)
-* ad alanı [Aspose.PSD](../../buildversioninfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

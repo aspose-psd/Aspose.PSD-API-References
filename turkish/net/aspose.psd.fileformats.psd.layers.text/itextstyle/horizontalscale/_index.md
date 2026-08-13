@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.HorizontalScale
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Yatay ölçek.
+title: "ITextStyle.HorizontalScale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Yatay ölçek"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.HorizontalScale property
 
 Yatay ölçek.
@@ -14,7 +15,7 @@ Yatay ölçek.
 public double HorizontalScale { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

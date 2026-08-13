@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.Points
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierKnotRecord mülk. Puanları alır veya ayarlar.
+title: "BezierKnotRecord.Points"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierKnotRecord özelliği. Noktaları alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
-Puanları alır veya ayarlar.
+Noktaları alır veya ayarlar.
 
 ```csharp
 public Point[] Points { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Puanlar.
+Noktalar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

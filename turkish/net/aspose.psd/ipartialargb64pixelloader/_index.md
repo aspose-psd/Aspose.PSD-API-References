@@ -1,29 +1,30 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IPartialArgb64PixelLoader arayüz. 64 bit ARGB piksel yükleyici.
+title: "Arayüz IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IPartialArgb64PixelLoader arayüzü. 64 bit ARGB piksel yükleyicisi."
 type: docs
-weight: 4520
+weight: 5020
 url: /tr/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
-64 bit ARGB piksel yükleyici.
+64-bit ARGB piksel yükleyicisi.
 
 ```csharp
 public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | Yüklenen pikselleri işler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

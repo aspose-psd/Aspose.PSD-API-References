@@ -1,11 +1,12 @@
 ---
-title: PieShape.SweepAngle
-second_title: Aspose.PSD for .NET API Referansı
-description: PieShape mülk. Tarama açısını alır veya ayarlar.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PieShape özelliği. Tarama açısını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
 Tarama açısını alır veya ayarlar.
@@ -14,14 +15,14 @@ Tarama açısını alır veya ayarlar.
 public float SweepAngle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tarama açısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PieShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../pieshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

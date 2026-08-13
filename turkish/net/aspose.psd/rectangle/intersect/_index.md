@@ -1,52 +1,53 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Üçte birini döndürürRectangle diğer iki kesişimi temsil eden yapıRectangle yapılar. Kavşak yoksa boşRectangle döndürülür.
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. İki diğer Rectangle yapısının kesişimini temsil eden üçüncü bir Rectangle yapısı döndürür. Kesişme yoksa boş bir Rectangle döndürülür."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-Üçte birini döndürür[`Rectangle`](../) diğer iki kesişimi temsil eden yapı[`Rectangle`](../) yapılar. Kavşak yoksa boş[`Rectangle`](../) döndürülür.
+İki diğer [`Rectangle`](../) yapısının kesişimini temsil eden üçüncü bir [`Rectangle`](../) yapısı döndürür. Kesişme yoksa, boş bir [`Rectangle`](../) döndürülür.
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| a | Rectangle | Kesişecek ilk dikdörtgen. |
-| b | Rectangle | Kesişecek ikinci bir dikdörtgen. |
+| a | Rectangle | Kesişmek için birinci dikdörtgen. |
+| b | Rectangle | Kesişmek için ikinci dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`Rectangle`](../) kesişimini temsil eden*a* Ve*b*.
+*a* ve *b*'nin kesişimini temsil eden bir [`Rectangle`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-Bunu değiştirir[`Rectangle`](../) kendisinin ve belirtilenin kesişimi ile[`Rectangle`](../) .
+Bu [`Rectangle`](../) yapısını, kendisi ile belirtilen [`Rectangle`](../) yapısının kesişimiyle değiştirir.
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../) hangi ile kesişecek. |
+| rect | Rectangle | Kesişmek için kullanılacak [`Rectangle`](../). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer inşaatçı. Yeni bir örneğini başlatır.Layer sınıf.
+title: "Layer.Layer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yapıcı. Layer sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer(string, string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`Layer`](../) sınıf.
+[`Layer`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Layer(string layerName, string layerText)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | layerName | String | Katmanın adı. |
 | layerText | String | Katman metni. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer() {#constructor}
 
-Yeni bir örneğini başlatır.[`Layer`](../) sınıf.
+[`Layer`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Layer()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

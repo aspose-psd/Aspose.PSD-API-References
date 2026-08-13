@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadersRegistry yöntem. Yükleyicinin kaydını siler.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadersRegistry yöntemi. Yükleyiciyi kayıttan çıkarır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
 Yükleyicinin kaydını siler.
@@ -14,15 +15,15 @@ Yükleyicinin kaydını siler.
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | Kaydı iptal etmek için yükleyici tanımlayıcısı. |
+| loaderDescriptor | IImageLoaderDescriptor | Kayıttan çıkarılacak yükleyici tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageloadersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList yöntem. öğesinin öğelerini kopyalar.ICollection birArray  belirli bir noktadan başlayarakArray dizin.
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList yöntemi. ICollection öğelerini belirli bir dizi indeksinden başlayarak bir diziye kopyalar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-öğesinin öğelerini kopyalar.ICollection birArray , belirli bir noktadan başlayarakArray dizin.
+ICollection öğelerini belirli bir dizi indeksinden başlayarak bir Array'e kopyalar.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| array | Array | tek boyutluArray bu, kopyalanan öğelerin hedefidirICollection . buArray sıfır tabanlı indekslemeye sahip olmalıdır. |
-| index | Int32 | sıfır tabanlı dizin*array* kopyalamanın başladığı yer. |
+| array | Array | ICollection'dan kopyalanan öğelerin hedefi olan tek boyutlu Array. Array sıfır tabanlı indekslemeye sahip olmalıdır. |
+| index | Int32 | *array* içinde kopyalamanın başladığı sıfır tabanlı indeks. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

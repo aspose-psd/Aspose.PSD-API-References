@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.ResolutionUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD dosyasındaki akıllı nesne katmanı verilerinin çözünürlük ölçüm birimini alır veya ayarlar.
+title: "SmartObjectResource.ResolutionUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD dosyasındaki akıllı nesne katman verisinin çözünürlük ölçü birimini alır veya ayarlar"
 type: docs
-weight: 200
+weight: 190
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.ResolutionUnit property
 
-PSD dosyasındaki akıllı nesne katmanı verilerinin çözünürlük ölçüm birimini alır veya ayarlar.
+Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin çözünürlük ölçü birimini.
 
 ```csharp
 public UnitTypes ResolutionUnit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Akıllı nesne katmanının çözünürlük ölçü birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

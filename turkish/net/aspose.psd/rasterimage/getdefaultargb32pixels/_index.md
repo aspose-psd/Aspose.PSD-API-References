@@ -1,32 +1,33 @@
 ---
-title: RasterImage.GetDefaultArgb32Pixels
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Varsayılan 32 bit ARGB piksel dizisini alır.
+title: "RasterImage.GetDefaultArgb32Pixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Varsayılan 32 bit ARGB piksel dizisini alır"
 type: docs
 weight: 280
 url: /tr/net/aspose.psd/rasterimage/getdefaultargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultArgb32Pixels method
 
-Varsayılan 32 bit ARGB piksel dizisini alır.
+Varsayılan 32-bit ARGB piksel dizisini alır.
 
 ```csharp
 public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Piksel alınacak dikdörtgen. |
+| dikdörtgen | Rectangle | Piksellerin alınacağı dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Varsayılan piksel dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

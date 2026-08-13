@@ -1,11 +1,12 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD for .NET API Referansı
-description: DataStreamSupporter mülk. Nesnenin veri akışını alır.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DataStreamSupporter özelliği. Nesnenin veri akışını alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
 Nesnenin veri akışını alır.
@@ -14,15 +15,15 @@ Nesnenin veri akışını alır.
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin veri akışı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* ad alanı [Aspose.PSD](../../datastreamsupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

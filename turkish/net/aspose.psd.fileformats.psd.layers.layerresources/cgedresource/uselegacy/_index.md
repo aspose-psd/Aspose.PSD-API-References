@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. eski kullan olup olmadığını belirten bir değer alır veya ayarlar.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Eski kullanımın olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 100
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-[eski kullan] olup olmadığını belirten bir değer alır veya ayarlar.
+Bu [use legacy] kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [eskiyi kullan]; aksi takdirde,`YANLIŞ` .
+`true` eğer [use legacy] ise; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

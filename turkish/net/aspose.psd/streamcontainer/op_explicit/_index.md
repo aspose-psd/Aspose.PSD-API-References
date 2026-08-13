@@ -1,31 +1,32 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer yöntem. Şuradan açık bir dönüştürme gerçekleştirirStreamContainer ileStream .
+title: "StreamContainer.op_Explicit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer yöntemi. StreamContainer'dan Stream'e açık bir dönüşüm gerçekleştirir"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/streamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## StreamContainer Explicit operator
 
-Şuradan açık bir dönüştürme gerçekleştirir:[`StreamContainer`](../) ileStream .
+[`StreamContainer`](../) öğesinden Stream'e açık bir dönüşüm gerçekleştirir.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
+| streamContainer | StreamContainer | Akış konteyneri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Dönüşümün sonucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

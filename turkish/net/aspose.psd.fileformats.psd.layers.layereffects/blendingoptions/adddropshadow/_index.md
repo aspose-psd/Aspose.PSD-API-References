@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendingOptions yöntem. Gölge efekti ekler.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendingOptions yöntemi. Düşük gölge etkisini ekler"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-Gölge efekti ekler.
+Gölge düşürme efektini ekler.
 
 ```csharp
 public DropShadowEffect AddDropShadow()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturuldu[`DropShadowEffect`](../../dropshadoweffect/) nesne
+Oluşturulan [`DropShadowEffect`](../../dropshadoweffect/) nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

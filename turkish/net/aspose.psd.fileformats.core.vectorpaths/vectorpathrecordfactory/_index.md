@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory sınıf. Vektör Yolu Kayıt Fabrikası Sınıfı
+title: "Sınıf VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory sınıfı. Vector Path Record Factory Sınıfı"
 type: docs
-weight: 1410
+weight: 1420
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Vektör Yolu Kayıt Fabrikası Sınıfı
+Vektör Yol Kayıt Fabrika Sınıfı.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
 
-## yapıcılar
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | Default_Constructor |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Yol kaydını üretir. |
 
-## yöntemler
+### Ayrıca Bakınız
 
-| İsim | Tanım |
-| --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Yol kaydını üretir. |
-
-### Ayrıca bakınız
-
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

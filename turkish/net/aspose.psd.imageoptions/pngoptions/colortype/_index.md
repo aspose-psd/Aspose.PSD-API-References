@@ -1,28 +1,29 @@
 ---
-title: PngOptions.ColorType
-second_title: Aspose.PSD for .NET API Referansı
-description: PngOptions mülk. Rengin türünü alır veya ayarlar.
+title: "PngOptions.ColorType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PngOptions özelliği. Renk tipini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
-Rengin türünü alır veya ayarlar.
+Renk tipini alır veya ayarlar.
 
 ```csharp
 public PngColorType ColorType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Rengin türü.
+Rengin tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pngoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

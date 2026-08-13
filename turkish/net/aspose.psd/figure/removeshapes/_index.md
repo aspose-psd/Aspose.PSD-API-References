@@ -1,28 +1,29 @@
 ---
-title: Figure.RemoveShapes
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure yöntem. Şekilden bir dizi şekli kaldırır.
+title: "Figure.RemoveShapes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure yöntemi. Şekilden bir dizi şekli kaldırır."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
-Şekilden bir dizi şekli kaldırır.
+Şekilden bir dizi şekil kaldırır.
 
 ```csharp
 public void RemoveShapes(Shape[] shapes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| shapes | Shape[] | Kaldırılacak şekiller aralığı. |
+| şekiller | Shape[] | Kaldırılacak şekil aralığı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

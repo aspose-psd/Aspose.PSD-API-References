@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.Token
-second_title: Aspose.PSD for .NET API Referansı
-description: RenditionClass mülk. Belirteci alır veya ayarlar.
+title: "RenditionClass.Token"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RenditionClass özelliği. Jetonu alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.derived/renditionclass/token/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Token property
 
-Belirteci alır veya ayarlar.
+Token'ı alır veya ayarlar.
 
 ```csharp
 public string Token { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Belirteç.
+Jeton.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RenditionClass](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

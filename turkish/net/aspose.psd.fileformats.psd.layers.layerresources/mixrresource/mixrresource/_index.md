@@ -1,43 +1,44 @@
 ---
-title: MixrResource.MixrResource
-second_title: Aspose.PSD for .NET API Referansı
-description: MixrResource inşaatçı. Yeni bir örneğini başlatır.MixrResource class. PSD biçimi belirtimi aşağıdaki açıklamayı içerir 2 Versiyon   1 2 Monochrome 20 RGB veya CMYK rengi artı mikser ayarları için sabit. 4  2 bayt renkli 2 bayt sabit.
+title: "MixrResource.MixrResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MixrResource yapıcı. MixrResource sınıfının yeni bir örneğini başlatır. PSD formatı spesifikasyonu aşağıdaki açıklamayı içerir 2 Version   1 2 Monochrome 20 RGB veya CMYK renk artı karıştırıcı ayarları için sabit. 4  2 bayt renk ve 2 bayt sabit."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/mixrresource/
 ---
+{{< psd/tize >}}
 ## MixrResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`MixrResource`](../) class. PSD biçimi belirtimi aşağıdaki açıklamayı içerir: 2 Versiyon ( = 1) 2 Monochrome 20 RGB veya CMYK rengi artı mikser ayarları için sabit. 4 * 2 bayt renkli, 2 bayt sabit.
+[`MixrResource`](../) sınıfının yeni bir örneğini başlatır. PSD formatı spesifikasyonu aşağıdaki açıklamayı içerir: 2 Version ( = 1) 2 Monochrome 20 RGB veya CMYK renk artı karıştırıcı ayarları için sabit. 4 * 2 bayt renk ve 2 bayt sabit.
 
 ```csharp
 public MixrResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MixrResource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`MixrResource`](../) class. PSD biçimi belirtimi aşağıdaki açıklamayı içerir: 2 Versiyon ( = 1) 2 Monochrome 20 RGB veya CMYK rengi artı mikser ayarları için sabit. 4 * 2 bayt renkli, 2 bayt sabit.
+[`MixrResource`](../) sınıfının yeni bir örneğini başlatır. PSD formatı spesifikasyonu aşağıdaki açıklamayı içerir: 2 Version ( = 1) 2 Monochrome 20 RGB veya CMYK renk artı karıştırıcı ayarları için sabit. 4 * 2 bayt renk ve 2 bayt sabit.
 
 ```csharp
 public MixrResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

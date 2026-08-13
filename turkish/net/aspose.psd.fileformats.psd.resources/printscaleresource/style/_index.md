@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Style
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintScaleResource mülk. Stili alır veya ayarlar.
+title: "PrintScaleResource.Style"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintScaleResource özelliği. Stili alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Style property
 
 Stili alır veya ayarlar.
@@ -14,14 +15,14 @@ Stili alır veya ayarlar.
 public short Style { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Stil.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintScaleResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

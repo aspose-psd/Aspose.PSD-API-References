@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Aspose.PSD for .NET API Referansı
-description: RawDataSettings mülk. Özel renk dönüştürücüyü alır veya ayarlar
+title: "RawDataSettings.CustomColorConverter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RawDataSettings özelliği. Özel renk dönüştürücüyü alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/rawdatasettings/customcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.CustomColorConverter property
 
 Özel renk dönüştürücüyü alır veya ayarlar
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd/rawdatasettings/customcolorconverter/
 public IColorConverter CustomColorConverter { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Özel renk dönüştürücü
+Özel renk dönüştürücü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* ad alanı [Aspose.PSD](../../rawdatasettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

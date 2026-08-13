@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Adobe Photoshop tarafından kullanılan ilgili yardımcı sınıfları sabitleri ve yöntemleri içerir.
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Adob​​e Photoshop tarafından kullanılan ilgili yardımcı sınıfları, sabitleri ve yöntemleri içeren ad alanı"
 type: docs
-weight: 550
+weight: 590
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/
 ---
-Ad alanı, Adobe Photoshop tarafından kullanılan ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
+{{< psd/tize >}}
+Namespace, Adobe Photoshop tarafından kullanılan ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [Layer](./layer/) | Photoshop metin katmanını temsil eder. |
 | [PhotoshopPackage](./photoshoppackage/) | Adobe Photoshop ad alanını temsil eder. |
-## numaralandırma
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [ColorMode](./colormode/) | içinde renk modunu temsil eder[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) içinde renk modunu temsil eder. |
 
 

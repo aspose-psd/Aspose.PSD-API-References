@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetComment
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Yorumu ayarlar.
+title: "XmpDynamicMediaPackage.SetComment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Yorumu ayarlar"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComment method
 
 Yorumu ayarlar.
@@ -14,14 +15,14 @@ Yorumu ayarlar.
 public void SetComment(string comment)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| comment | String | yorum |
+| yorum | String | Yorum. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

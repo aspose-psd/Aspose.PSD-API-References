@@ -1,45 +1,46 @@
 ---
-title: SoLeResource.SoLeResource
-second_title: Aspose.PSD for .NET API Referansı
-description: SoLeResource inşaatçı. Yeni bir örneğini başlatır.SoLeResource sınıf.
+title: "SoLeResource.SoLeResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SoLeResource yapıcı. SoLeResource sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`SoLeResource`](../) sınıf.
+[`SoLeResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| uniqueId | Guid | Yerleştirilen katman verilerinin benzersiz tanımlayıcısı[`PlLdResource`](../../plldresource/). |
-| isCustom | Boolean | olarak ayarlanmışsa`doğru` [özel]. |
-| hasCompInfo | Boolean | olarak ayarlanmışsa`doğru` [bilgisayar bilgisine sahiptir]. |
+| uniqueId | Guid | Yerleştirilen katman verisinin benzersiz tanımlayıcısı [`PlLdResource`](../../plldresource/). |
+| isCustom | Boolean | `true` olarak ayarlanırsa [özel]. |
+| hasCompInfo | Boolean | `true` olarak ayarlanırsa [bileşen bilgisi var]. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoLeResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLeResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`SoLeResource`](../) sınıf.
+[`SoLeResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public SoLeResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoLeResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

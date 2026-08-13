@@ -1,23 +1,24 @@
 ---
-title: FontSettings.Reset
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Yazı tipleri klasörünü ve varsayılan yazı tipi adını sistem varsayılanına sıfırlar.
+title: "FontSettings.Reset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Yazı tipi klasörünü ve varsayılan yazı tipi adını sistem varsayılanına sıfırlar"
 type: docs
-weight: 90
+weight: 110
 url: /tr/net/aspose.psd/fontsettings/reset/
 ---
+{{< psd/tize >}}
 ## FontSettings.Reset method
 
-Yazı tipleri klasörünü ve varsayılan yazı tipi adını sistem varsayılanına sıfırlar.
+Yazı tipi klasörünü ve varsayılan yazı tipi adını sistem varsayılanına sıfırlar.
 
 ```csharp
 public static void Reset()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

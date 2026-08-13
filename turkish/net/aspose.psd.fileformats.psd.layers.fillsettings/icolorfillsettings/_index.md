@@ -1,29 +1,30 @@
 ---
-title: Interface IColorFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings arayüz. Dolgu ayarları için temel arayüz
+title: "Arayüz IColorFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings arayüz. Doldurma ayarları için temel arayüz"
 type: docs
-weight: 1990
+weight: 2110
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
-Dolgu ayarları için temel arayüz
+Doldurma ayarları için temel arayüz
 
 ```csharp
 public interface IColorFillSettings : IFillSettings
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Rengi alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IFillSettings](../ifillsettings/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

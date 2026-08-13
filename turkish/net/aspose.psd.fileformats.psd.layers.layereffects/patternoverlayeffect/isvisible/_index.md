@@ -1,27 +1,28 @@
 ---
-title: PatternOverlayEffect.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternOverlayEffect mülk. Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+title: "PatternOverlayEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternOverlayEffect özelliği. Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.IsVisible property
 
-Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek görünüyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek görünürse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternOverlayEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

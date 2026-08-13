@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Dil indeksini alır.
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Dil dizinini alır"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
 Dil indeksini alır.
@@ -14,7 +15,7 @@ Dil indeksini alır.
 public int LanguageIndex { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

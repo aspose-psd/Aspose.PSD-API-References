@@ -1,41 +1,42 @@
 ---
-title: Class ImageLoadersRegistry
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageLoadersRegistry sınıf. Görüntü yükleyici kayıt defterini temsil eder.
+title: "Sınıf ImageLoadersRegistry"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageLoadersRegistry sınıfı. Görüntü yükleyicileri kayıt defterini temsil eder."
 type: docs
-weight: 4780
+weight: 5300
 url: /tr/net/aspose.psd/imageloadersregistry/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry class
 
-Görüntü yükleyici kayıt defterini temsil eder.
+Görüntü yükleyiciler kayıt defterini temsil eder.
 
 ```csharp
 public static class ImageLoadersRegistry
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | Kayıtlı tanımlayıcıları alır. |
-| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | Kayıtlı resim yükleme formatlarını alır. |
+| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | Kayıtlı görüntü yükleme formatlarını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | Belirtilene uygun bulunan ilk yükleyiciyi oluşturur.*stream* ve isteğe bağlı olarak*loadOptions* . |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | Belirtilen için uygun bulunan ilk desteklenen tanımlayıcıyı alır*stream* ve isteğe bağlı olarak*loadOptions* . |
-| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | Tür adına göre desteklenen ilk dosya biçimini alır. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | Tür adına göre desteklenen ilk tanımlayıcıyı alır. |
-| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | Belirtilen resim yükleyici tanımlayıcısını kaydeder. |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | Belirtilen *stream* için uygun olan ve isteğe bağlı olarak *loadOptions*'ı da dikkate alan ilk bulunan yükleyiciyi oluşturur. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | Belirtilen *stream* için uygun olan ve isteğe bağlı olarak *loadOptions*'ı da dikkate alan ilk bulunan desteklenen tanımlayıcıyı alır. |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | Tür adıyla ilk desteklenen dosya formatını alır. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | Tür adına göre ilk desteklenen tanımlayıcıyı alır. |
+| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | Belirtilen görüntü yükleyici tanımlayıcısını kaydeder. |
 | static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | Yükleyiciyi kaydeder. |
 | static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | Yükleyicinin kaydını siler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

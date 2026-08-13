@@ -1,11 +1,12 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PSD for .NET API Referansı
-description: License yöntem. Bileşeni lisanslar.
+title: "License.SetLicense"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "License yöntemi. Bileşeni lisanslar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/license/setlicense/
 ---
+{{< psd/tize >}}
 ## SetLicense(string) {#setlicense_1}
 
 Bileşeni lisanslar.
@@ -14,29 +15,29 @@ Bileşeni lisanslar.
 public void SetLicense(string licenseName)
 ```
 
-### Notlar
+## Açıklamalar
 
 Lisansı aşağıdaki konumlarda bulmaya çalışır:
 
 1. Açık yol.
 
-2. Aspose bileşen montajını içeren klasör.
+2. Aspose bileşen derlemesini içeren klasör.
 
-3. İstemcinin çağrı derlemesini içeren klasör.
+3. İstemcinin çağıran derlemesini içeren klasör.
 
 4. Giriş (başlangıç) derlemesini içeren klasör.
 
-5. İstemcinin çağrı derlemesinde katıştırılmış bir kaynak.
+5. İstemcinin çağıran derlemesindeki gömülü kaynak.
 
-**Not:**.NET Compact Framework üzerinde, lisansı yalnızca şu konumlarda bulmaya çalışır:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Açık yol.
 
-2. İstemcinin çağrı derlemesinde katıştırılmış bir kaynak.
+2. İstemcinin çağıran derlemesindeki gömülü kaynak.
 
-### Örnekler
+## Örnekler
 
-Bu örnekte, bileşenini içeren klasörde, çağıran derlemeyi içeren klasörde, giriş derlemesinin klasöründe ve ardından çağıran derlemenin katıştırılmış kaynakları. Tam veya kısa dosya adı veya katıştırılmış bir kaynağın adı olabilir. Değerlendirme moduna geçmek için boş bir dize kullanın.
+Bu örnekte, bileşeni içeren klasörde, çağıran derlemeyi içeren klasörde, giriş derlemesinin klasöründe ve ardından çağıran derlemenin gömülü kaynaklarında MyLicense.lic adlı bir lisans dosyası bulunmaya çalışılacaktır.
 
 ```csharp
 [C#]
@@ -51,11 +52,13 @@ Dim license As License = New License
 license.SetLicense("MyLicense.lic")
 ```
 
-### Ayrıca bakınız
+Tam veya kısa dosya adı ya da gömülü kaynağın adı olabilir. Değerlendirme moduna geçmek için boş bir dize kullanın.
+
+### Ayrıca Bakınız
 
 * class [License](../)
-* ad alanı [Aspose.PSD](../../license/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -67,15 +70,15 @@ Bileşeni lisanslar.
 public void SetLicense(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Lisansı içeren bir akış. |
 
-### Notlar
+## Açıklamalar
 
-Akıştan lisans yüklemek için bu yöntemi kullanın.
+Bu yöntemi bir akıştan lisans yüklemek için kullanın.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -90,10 +93,10 @@ Dim license as License = new License
 license.SetLicense(myStream)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [License](../)
-* ad alanı [Aspose.PSD](../../license/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

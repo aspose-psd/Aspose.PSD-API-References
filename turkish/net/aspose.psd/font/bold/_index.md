@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bunun olup olmadığını gösteren bir değer alır.Font kalın.
+title: "Font.Bold"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font'un kalın olup olmadığını gösteren bir değeri alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-Bunun olup olmadığını gösteren bir değer alır.[`Font`](../) kalın.
+Bu [`Font`](../) kalın mı olduğunu gösteren bir değeri alır.
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru ise bu[`Font`](../) cesur; Aksi takdirde, yanlış.
+Bu [`Font`](../) kalın ise doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

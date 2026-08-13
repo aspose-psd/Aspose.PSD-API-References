@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Dönüşüm matrisini alır veya ayarlar.
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Dönüşüm matrisini alır veya ayarlar"
 type: docs
-weight: 230
+weight: 200
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
-Dönüşüm matrisini alır veya ayarlar.
+dönüşüm matrisini alır veya ayarlar.
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dönüşüm matrisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

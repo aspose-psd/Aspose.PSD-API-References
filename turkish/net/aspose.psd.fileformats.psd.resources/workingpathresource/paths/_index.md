@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.Paths
-second_title: Aspose.PSD for .NET API Referansı
-description: WorkingPathResource mülk. Yol kayıtlarını alır veya ayarlar.
+title: "WorkingPathResource.Paths"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "WorkingPathResource özelliği. Yol kayıtlarını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/workingpathresource/paths/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.Paths property
 
 Yol kayıtlarını alır veya ayarlar.
@@ -14,21 +15,21 @@ Yol kayıtlarını alır veya ayarlar.
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yollar.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Kırpma işleminin doğru çalışması için PsdImage.ImageResources içindeki 'WorkingPathResource' kaynağının desteğini gösterir.
+Bu örnek, 'WorkingPathResource' kaynağının PsdImage.ImageResources içinde Crop işleminin doğru çalışması için desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Resmi kırpın ve kaydedin.
+// Görüntüyü kırp ve kaydet.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Kayıtlı görüntüyü yükleyin ve değişiklikleri kontrol edin.
+// Kaydedilmiş görüntüyü yükle ve değişiklikleri kontrol et.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [WorkingPathResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

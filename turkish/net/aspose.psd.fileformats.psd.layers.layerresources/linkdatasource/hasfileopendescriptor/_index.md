@@ -1,27 +1,28 @@
 ---
-title: LinkDataSource.HasFileOpenDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. Bu bağlantı veri kaynağının dosya açık tanımlayıcısına sahip olup olmadığını gösteren bir değer alır veya ayarlar CompId ve OriginalCompId.
+title: "LinkDataSource.HasFileOpenDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. Bu bağlantı veri kaynağının dosya açık tanımlayıcısı CompId ve OriginalCompId'ye sahip olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.HasFileOpenDescriptor property
 
-Bu bağlantı veri kaynağının dosya açık tanımlayıcısına sahip olup olmadığını gösteren bir değer alır veya ayarlar: CompId ve OriginalCompId.
+Bu bağlantı veri kaynağının dosya açık tanımlayıcısına (CompId ve OriginalCompId) sahip olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örneğin dosya açık tanımlayıcısı varsa; aksi takdirde,`YANLIŞ` .
+`true` bu örnek dosya açık tanımlayıcısına sahipse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

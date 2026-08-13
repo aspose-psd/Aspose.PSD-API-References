@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.BleedScale
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintFlagsResource mülk. Taşma ölçeğini alır veya ayarlar.
+title: "PrintFlagsResource.BleedScale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintFlagsResource özelliği. Kanat ölçeğini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedScale property
 
 Taşma ölçeğini alır veya ayarlar.
@@ -14,14 +15,14 @@ Taşma ölçeğini alır veya ayarlar.
 public short BleedScale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Taşma ölçeği.
+Kanat ölçeği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintFlagsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: Aspose.PSD for .NET API Referansı
-description: ShmdResource alan. Alt kaynak başlığı uzunluğu
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ShmdResource alanı. Alt kaynak başlık uzunluğu"
 type: docs
-weight: 90
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
-Alt kaynak başlığı uzunluğu
+Alt kaynak başlık uzunluğu
 
 ```csharp
 public const int SubResourceHeaderLength;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShmdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

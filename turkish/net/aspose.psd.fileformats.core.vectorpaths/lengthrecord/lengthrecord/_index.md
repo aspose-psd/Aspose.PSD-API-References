@@ -1,48 +1,43 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: LengthRecord inşaatçı. Yeni bir örneğini başlatır.LengthRecord sınıf.
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LengthRecord yapıcı. LengthRecord sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LengthRecord`](../) sınıf.
+[`LengthRecord`](../) sınıfının yeni bir örneğini başlatır
 
 ```csharp
 public LengthRecord(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kayıt verileri. |
+| veri | Byte[] | Kayıt verisi. |
 
-### istisnalar
-
-| istisna | şart |
-| --- | --- |
-| !:PsdImageArgumentException | Uzunluk Kaydı oluşturma için yanlış veriler |
-
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LengthRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-Yeni bir örneğini başlatır.[`LengthRecord`](../) sınıf.
+[`LengthRecord`](../) sınıfının yeni bir örneğini başlatır
 
 ```csharp
 public LengthRecord()
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, yeni LengthRecord özellikleri, PathOperations (boole işlemleri), ShapeIndex ve BezierKnotRecordsCount desteğini gösterir.
+Aşağıdaki kod örneği, yeni LengthRecord özellikleri, PathOperations (boolean işlemler), ShapeIndex ve BezierKnotRecordsCount desteğini gösterir.
 
 ```csharp
 [C#]
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Burada iki şekli birleştirmenin yolunu değiştiriyoruz.
+    // Burada şekiller arasındaki birleştirme yöntemini değiştiriyoruz.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -75,10 +70,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LengthRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

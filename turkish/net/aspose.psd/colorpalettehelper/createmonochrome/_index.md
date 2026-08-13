@@ -1,28 +1,29 @@
 ---
-title: ColorPaletteHelper.CreateMonochrome
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. Yalnızca 2 renk içeren tek renkli bir renk paleti oluşturur.
+title: "ColorPaletteHelper.CreateMonochrome"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper yöntemi. Yalnızca 2 renk içeren monokrom bir renk paleti oluşturur"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/colorpalettehelper/createmonochrome/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.CreateMonochrome method
 
-Yalnızca 2 renk içeren tek renkli bir renk paleti oluşturur.
+Sadece 2 renk içeren monokrom bir renk paleti oluşturur.
 
 ```csharp
 public static IColorPalette CreateMonochrome()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tek renkli görüntüler için renk paleti.
+Monokrom görüntüler için renk paleti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiY
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Bu Aspose.PSD.Graphics. nin dikey çözünürlüğünü alır
+title: "Graphics.DpiY"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Bu Aspose.PSD.Graphics nesnesinin dikey çözünürlüğünü alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/graphics/dpiy/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiY property
 
-Bu Aspose.PSD.Graphics. 'nin dikey çözünürlüğünü alır
+Bu Aspose.PSD.Graphics nesnesinin dikey çözünürlüğünü alır.
 
 ```csharp
 public float DpiY { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bu Aspose.PSD.Graphics. tarafından desteklenen dikey çözünürlük için nokta/inç cinsinden değer
+Bu Aspose.PSD.Graphics tarafından desteklenen dikey çözünürlük için inç başına nokta cinsinden değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

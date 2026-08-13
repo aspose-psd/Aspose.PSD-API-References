@@ -1,11 +1,12 @@
 ---
-title: MedianFilterOptions.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: MedianFilterOptions mülk. Boyutu alır veya ayarlar.
+title: "MedianFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MedianFilterOptions özelliği. Boyutu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
 Boyutu alır veya ayarlar.
@@ -14,14 +15,14 @@ Boyutu alır veya ayarlar.
 public int Size { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Filtre dikdörtgeninin boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MedianFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

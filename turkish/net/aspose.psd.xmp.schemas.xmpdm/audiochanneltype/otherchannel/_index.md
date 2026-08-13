@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioChannelType mülk. Diğer kanalı alır.
+title: "AudioChannelType.OtherChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioChannelType özelliği. Diğer kanalı alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
 Diğer kanalı alır.
@@ -14,14 +15,14 @@ Diğer kanalı alır.
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Diğer kanal.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

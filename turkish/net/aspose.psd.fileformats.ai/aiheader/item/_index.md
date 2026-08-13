@@ -1,31 +1,32 @@
 ---
-title: AiHeader.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Şunu alır veya ayarlarString belirtilen özellik adıyla.
+title: "AiHeader.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Belirtilen özellik adıyla dizeyi alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-Şunu alır veya ayarlar:String belirtilen özellik adıyla.
+Belirtilen özellik adıyla String'i alır veya ayarlar.
 
 ```csharp
 public string this[string propertyName] { get; set; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| propertyName | Mülkün adı. |
+| propertyName | Özelliğin adı. |
 
-### Mülk değeri
+### Property Value
 
-String .
+Dize.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

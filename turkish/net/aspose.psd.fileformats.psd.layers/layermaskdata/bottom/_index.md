@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.Bottom
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskData mülk. Alt katman maskesi konumunu alır veya ayarlar.
+title: "LayerMaskData.Bottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskData özelliği. Alt katman maskesi konumunu alır veya ayarlar."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Bottom property
 
 Alt katman maskesi konumunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Alt katman maskesi konumunu alır veya ayarlar.
 public int Bottom { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Alt katman maskesi konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Point.op_Implicit
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Belirtileni dönüştürürPoint yapısıPointFyapı.
+title: "Point.op_Implicit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Belirtilen Point yapısını PointF yapısına dönüştürür"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/point/op_implicit/
 ---
+{{< psd/tize >}}
 ## Point Implicit operator
 
-Belirtileni dönüştürür[`Point`](../) yapısı[`PointF`](../../pointf/)yapı.
+Belirtilen [`Point`](../) yapısını [`PointF`](../../pointf/) yapısına dönüştürür.
 
 ```csharp
 public static implicit operator PointF(Point point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../) dönüştürülecek. |
+| point | Point | Dönüştürülecek [`Point`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`PointF`](../../pointf/) bu dönüşümden kaynaklanır.
+Dönüştürmeden elde edilen [`PointF`](../../pointf/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

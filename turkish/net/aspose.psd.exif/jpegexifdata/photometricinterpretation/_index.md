@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PhotometricInterpretation
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Fotometrik yorumlamayı alır veya ayarlar.
+title: "JpegExifData.PhotometricInterpretation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Fotometrik yorumu alır veya ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.exif/jpegexifdata/photometricinterpretation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PhotometricInterpretation property
 
-Fotometrik yorumlamayı alır veya ayarlar.
+Fotometrik yorumu alır veya ayarlar.
 
 ```csharp
 public ushort PhotometricInterpretation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Fotometrik yorumlama.
+Fotometrik yorum.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

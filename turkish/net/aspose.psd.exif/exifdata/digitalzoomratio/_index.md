@@ -1,28 +1,29 @@
 ---
-title: ExifData.DigitalZoomRatio
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Dijital yakınlaştırma oranını alır veya ayarlar.
+title: "ExifData.DigitalZoomRatio"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Dijital yakınlaştırma oranını alır veya ayarlar"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd.exif/exifdata/digitalzoomratio/
 ---
+{{< psd/tize >}}
 ## ExifData.DigitalZoomRatio property
 
-Dijital yakınlaştırma oranını alır veya ayarlar.
+Sayısal yakınlaştırma oranını alır veya ayarlar.
 
 ```csharp
 public TiffRational DigitalZoomRatio { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dijital yakınlaştırma oranı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

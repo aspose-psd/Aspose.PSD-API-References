@@ -1,26 +1,27 @@
 ---
-title: LayerStateEffects.AddGradientOverlay
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerStateEffects yöntem. Degrade kaplama efektini ekler.
+title: "LayerStateEffects.AddGradientOverlay"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerStateEffects yöntemi. Degrade kaplama efektini ekler"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddGradientOverlay method
 
-Degrade kaplama efektini ekler.
+Gradyan bindirme efektini ekler.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeni örneğini[`GradientOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/) sınıf.
+Yeni [`GradientOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/) sınıfının örneği.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Zaman Çizelgesi çerçevelerindeki efektlerin desteğini gösterir.
+Aşağıdaki kod, Timeline çerçevelerindeki efekt desteğini gösterir.
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientOverlayEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/)
 * class [LayerStateEffects](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ProjectLink
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink sınıf. Projenin yolunu temsil eder.
+title: "Sınıf ProjectLink"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink sınıfı. Projenin yolunu temsil eder"
 type: docs
-weight: 5860
+weight: 6390
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
 Projenin yolunu temsil eder.
@@ -14,29 +15,29 @@ Projenin yolunu temsil eder.
 public sealed class ProjectLink : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ProjectLink](projectlink/)() | Default_Constructor |
+| [ProjectLink](projectlink/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Projeye giden tam yolu alır veya ayarlar. |
+| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Projenin tam yolunu alır veya ayarlar. |
 | [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | Dosya türünü alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | XMP biçiminde dizge içerdiği değeri döndürür. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | XMP formatında içerilen dize değerini döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

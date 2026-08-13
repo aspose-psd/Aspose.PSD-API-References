@@ -1,53 +1,54 @@
 ---
-title: Class CustResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource sınıf. Sınıf CustResource. Bu kaynak kırpılmış öğenin harmanlanması hakkında bilgi içerir.
+title: "Sınıf CustResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource sınıf. CustResource sınıf. Bu kaynak kırpılmış öğenin karıştırılması hakkında bilgi içerir."
 type: docs
-weight: 2440
+weight: 2700
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource class
 
-Sınıf CustResource. Bu kaynak, kırpılmış öğenin harmanlanması hakkında bilgi içerir.
+CustResource sınıfı. Bu kaynak, kırpılmış öğenin karıştırılmasıyla ilgili bilgileri içerir.
 
 ```csharp
 public class CustResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CustResource](custresource/#constructor)() | Yeni bir örneğini başlatır.`CustResource` sınıf. |
-| [CustResource](custresource/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`CustResource` sınıf. |
+| [CustResource](custresource/#constructor)() | Yeni bir `CustResource` sınıf örneği başlatır. |
+| [CustResource](custresource/#constructor_1)(byte[]) | Yeni bir `CustResource` sınıf örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Oluşturulan katmanın tarihini alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Katmanın oluşturulma tarihini alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Dosya biçimini alır.
+title: "Image.GetFileFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Dosya formatını alır."
 type: docs
-weight: 260
+weight: 270
 url: /tr/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
 Dosya biçimini alır.
@@ -14,24 +15,24 @@ Dosya biçimini alır.
 public static FileFormat GetFileFormat(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belirlenen dosya formatı.
 
-### Notlar
+## Açıklamalar
 
-Belirlenen dosya biçimi, belirtilen görüntünün yüklenebileceği anlamına gelmez. Dosyanın yüklenip yüklenemeyeceğini belirlemek için CanLoad yöntemi aşırı yüklemelerinden birini kullanın.
+Belirlenen dosya formatı, belirtilen görüntünün yüklenebileceği anlamına gelmez. Dosyanın yüklenip yüklenemeyeceğini belirlemek için CanLoad yöntemi aşırı yüklemelerinden birini kullanın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ Dosya biçimini alır.
 public static FileFormat GetFileFormat(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belirlenen dosya formatı.
 
-### Notlar
+## Açıklamalar
 
-Belirlenen dosya biçimi, belirtilen görüntünün yüklenebileceği anlamına gelmez. Akışın yüklenip yüklenmeyeceğini belirlemek için CanLoad yöntemi aşırı yüklemelerinden birini kullanın.
+Belirlenen dosya formatı, belirtilen görüntünün yüklenebileceği anlamına gelmez. Akışın yüklenip yüklenemeyeceğini belirlemek için CanLoad yöntemi aşırı yüklemelerinden birini kullanın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

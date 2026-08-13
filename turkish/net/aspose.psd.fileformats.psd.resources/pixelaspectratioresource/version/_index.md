@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelAspectRatioResource mülk. Sürümü alır veya ayarlar.
+title: "PixelAspectRatioResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelAspectRatioResource özelliği. Sürümü alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/version/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public int Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelAspectRatioResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Yönü alır veya ayarlar.
+title: "JpegExifData.Orientation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Yönlendirmeyi alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
-Yönü alır veya ayarlar.
+Yönlendirmeyi alır veya ayarlar.
 
 ```csharp
 public ExifOrientation Orientation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yönlendirme.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

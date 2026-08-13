@@ -1,66 +1,67 @@
 ---
-title: PolygonShape.PolygonShape
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape inşaatçı. Yeni bir örneğini başlatır.PolygonShape sınıf.
+title: "PolygonShape.PolygonShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape yapıcı. PolygonShape sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape() {#constructor}
 
-Yeni bir örneğini başlatır.[`PolygonShape`](../) sınıf.
+[`PolygonShape`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PolygonShape()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PolygonShape`](../) sınıf.
+[`PolygonShape`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PolygonShape(PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puan dizisi. |
+| noktalar | PointF[] | Nokta dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`PolygonShape`](../) sınıf.
+[`PolygonShape`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puan dizisi. |
-| isClosed | Boolean | olarak ayarlanırsa`doğru` poligon kapatılır. |
+| noktalar | PointF[] | Nokta dizisi. |
+| isClosed | Boolean | `true` olarak ayarlanırsa çokgen kapalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

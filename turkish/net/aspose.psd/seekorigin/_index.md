@@ -1,30 +1,31 @@
 ---
-title: Enum SeekOrigin
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.SeekOrigin Sıralama. içindeki referans noktalarını temsil eden alanları sağlar.StreamContainer aramak için.
+title: "SeekOrigin enum'ı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.SeekOrigin enum'ı. Arama için StreamContainer içinde referans noktalarını temsil eden alanları sağlar."
 type: docs
-weight: 5410
+weight: 5940
 url: /tr/net/aspose.psd/seekorigin/
 ---
+{{< psd/tize >}}
 ## SeekOrigin enumeration
 
-içindeki referans noktalarını temsil eden alanları sağlar.[`StreamContainer`](../streamcontainer/) aramak için.
+Arama için [`StreamContainer`](../streamcontainer/) içinde referans noktalarını temsil eden alanları sağlar.
 
 ```csharp
 public enum SeekOrigin
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Begin | `0` | Bir akışın başlangıcını belirtir. |
-| Current | `1` | Bir akış içindeki geçerli konumu belirtir. |
+| Current | `1` | Bir akış içindeki mevcut konumu belirtir. |
 | End | `2` | Bir akışın sonunu belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

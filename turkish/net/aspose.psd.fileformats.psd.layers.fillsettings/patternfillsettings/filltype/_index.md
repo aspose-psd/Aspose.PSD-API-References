@@ -1,24 +1,25 @@
 ---
-title: PatternFillSettings.FillType
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings mülk. Dolgu türü
+title: "PatternFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings özelliği. Doldurma türü"
 type: docs
-weight: 30
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.FillType property
 
-Dolgu türü
+Doldurma türü
 
 ```csharp
 public override FillType FillType { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FillType](../../filltype/)
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

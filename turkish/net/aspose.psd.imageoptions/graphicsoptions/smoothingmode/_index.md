@@ -1,11 +1,12 @@
 ---
-title: GraphicsOptions.SmoothingMode
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsOptions mülk. Yumuşatma modunu alır veya ayarlar.
+title: "GraphicsOptions.SmoothingMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsOptions özelliği. Düzleştirme modunu alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/graphicsoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.SmoothingMode property
 
 Yumuşatma modunu alır veya ayarlar.
@@ -14,11 +15,11 @@ Yumuşatma modunu alır veya ayarlar.
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [GraphicsOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

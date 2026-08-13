@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.CompressionType
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Sıkıştırma türünü alır veya ayarlar.
+title: "JpegOptions.CompressionType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. sıkıştırma tipini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/compressiontype/
 ---
+{{< psd/tize >}}
 ## JpegOptions.CompressionType property
 
-Sıkıştırma türünü alır veya ayarlar.
+Sıkıştırma tipini alır veya ayarlar.
 
 ```csharp
 public JpegCompressionMode CompressionType { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [JpegCompressionMode](../../../aspose.psd.fileformats.jpeg/jpegcompressionmode/)
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

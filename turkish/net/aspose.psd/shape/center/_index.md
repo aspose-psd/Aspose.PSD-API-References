@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD for .NET API Referansı
-description: Shape mülk. Şeklin merkezini alır.
+title: "Shape.Center"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Shape özelliği. Şeklin merkezini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 Şeklin merkezini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd/shape/center/
 public abstract PointF Center { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeklin merkezi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* ad alanı [Aspose.PSD](../../shape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

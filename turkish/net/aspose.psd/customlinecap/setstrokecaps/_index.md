@@ -1,29 +1,30 @@
 ---
-title: CustomLineCap.SetStrokeCaps
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap yöntem. Bu özel sınırı oluşturan satırları başlatmak ve bitirmek için kullanılan büyük harfleri ayarlar.
+title: "CustomLineCap.SetStrokeCaps"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap yöntemi. Bu özel kapağı oluşturan çizgilerin başlangıç ve bitişinde kullanılan kapakları ayarlar."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/customlinecap/setstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.SetStrokeCaps method
 
-Bu özel sınırı oluşturan satırları başlatmak ve bitirmek için kullanılan büyük harfleri ayarlar.
+Bu özel kapa oluşan çizgileri başlatmak ve sonlandırmak için kullanılan kapları ayarlar.
 
 ```csharp
 public void SetStrokeCaps(LineCap startCap, LineCap endCap)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| startCap | LineCap | bu[`LineCap`](../../linecap/) bu başlık içinde bir satırın başında kullanılan numaralandırma. |
-| endCap | LineCap | bu[`LineCap`](../../linecap/) bu başlık içinde bir satırın sonunda kullanılan numaralandırma. |
+| startCap | LineCap | Bu kapak içinde bir çizginin başlangıcında kullanılan [`LineCap`](../../linecap/) enum değeri. |
+| endCap | LineCap | Bu kap içinde bir satırın sonunda kullanılan [`LineCap`](../../linecap/) enumerasyonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferFunctionsResource
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorTransferFunctionsResource inşaatçı. Default_Constructor
+title: "ColorTransferFunctionsResource.ColorTransferFunctionsResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorTransferFunctionsResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferfunctionsresource/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public ColorTransferFunctionsResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorTransferFunctionsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

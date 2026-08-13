@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı EXIF ile ilgili yardımcı sınıfları ve yöntemleri içerir.
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, EXIF ile ilgili yardımcı sınıfları ve yöntemleri içerir"
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd.exif/
 ---
-Ad alanı, EXIF ile ilgili yardımcı sınıfları ve yöntemleri içerir.
+{{< psd/tize >}}
+Ad alanı, EXIF ile ilgili yardımcı sınıflar ve yöntemler içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ExifData](./exifdata/) | EXIF veri kabı. |
-| [JpegExifData](./jpegexifdata/) | jpeg dosyaları için EXIF veri kabı. |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | tiff veri türleriyle çalışmak için genel sınıfı temsil eder. |
-## numaralandırma
+| [ExifData](./exifdata/) | EXIF veri konteyneri. |
+| [JpegExifData](./jpegexifdata/) | JPEG dosyaları için EXIF veri konteyneri. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | TIFF veri tipleriyle çalışmak için genel bir sınıfı temsil eder. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
 | [ExifProperties](./exifproperties/) | Exif etiketleri listesi |
 

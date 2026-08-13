@@ -1,30 +1,31 @@
 ---
-title: Enum FillType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType Sıralama. Dolgu Türü
+title: "Enum FillType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType enum. Doldurma Türü"
 type: docs
-weight: 1940
+weight: 2050
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
-Dolgu Türü
+Doldurma Türü
 
 ```csharp
 public enum FillType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Color | `0` | Renk dolgu tipi |
-| Gradient | `1` | Degrade dolgu türü |
-| Pattern | `2` | Model dolgu türü |
+| Color | `0` | Renk doldurma türü |
+| Gradient | `1` | Geçiş doldurma türü |
+| Pattern | `2` | Desen doldurma türü |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Spread
-second_title: Aspose.PSD for .NET API Referansı
-description: InnerShadowEffect mülk. Yayılmayı boğma yüzde olarak alır veya ayarlar.
+title: "InnerShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InnerShadowEffect özelliği. Yüzde olarak yayılma daralmasını alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Spread property
 
-Yayılmayı (boğma) yüzde olarak alır veya ayarlar.
+Yayılımı (sıkıştırma) yüzde olarak alır veya ayarlar.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Forma.
+Yayılım.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InnerShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

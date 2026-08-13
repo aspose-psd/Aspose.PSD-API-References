@@ -1,27 +1,28 @@
 ---
-title: Brush.DeepClone
-second_title: Aspose.PSD for .NET API Referansı
-description: Brush yöntem. Geçerli olanın yeni bir derin klonunu oluşturur.Brush .
+title: "Brush.DeepClone"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Brush yöntemi. Mevcut Brush nesnesinin yeni bir derin kopyasını oluşturur."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/brush/deepclone/
 ---
+{{< psd/tize >}}
 ## Brush.DeepClone method
 
-Geçerli olanın yeni bir derin klonunu oluşturur.[`Brush`](../) .
+Mevcut [`Brush`](../) nesnesinin yeni bir derin kopyasını oluşturur.
 
 ```csharp
 public virtual Brush DeepClone()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeni[`Brush`](../) bunun deep klonu hangisi[`Brush`](../) misal.
+Bu [`Brush`](../) örneğinin derin kopyası olan yeni bir [`Brush`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../)
-* ad alanı [Aspose.PSD](../../brush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

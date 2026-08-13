@@ -1,56 +1,57 @@
 ---
-title: Class VsmsResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource sınıf. Class VsmsResource. Bu kaynak vektör katmanı mask hakkında bilgi içerir.
+title: "Sınıf VsmsResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource sınıfı. VsmsResource sınıfı. Bu kaynak, vektör katman maskesi hakkında bilgi içerir."
 type: docs
-weight: 3380
+weight: 3780
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource class
 
-Class VsmsResource. Bu kaynak, vektör katmanı mask hakkında bilgi içerir.
+VsmsResource sınıfı. Bu kaynak vektör katman maskesi hakkında bilgi içerir.
 
 ```csharp
 public class VsmsResource : VectorPathDataResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [VsmsResource](vsmsresource/#constructor)() | Yeni bir örneğini başlatır.`VsmsResource` sınıf. |
-| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`VsmsResource` sınıf. |
+| [VsmsResource](vsmsresource/#constructor)() | Yeni bir `VsmsResource` sınıfı örneği başlatır. |
+| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Yeni bir `VsmsResource` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değer alır veya ayarlar. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Bu örneğin ters çevrildiğini gösteren bir değer alır veya ayarlar. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Bu örneğin devre dışı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Bu örneğin ters çevrilmiş olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Bu örneğin bağlanmamış olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Yol kayıtlarını alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | İmzayı alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Sürümü alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VsmsResource kaynak yükleme desteğini göstermektedir. Yolların düzenlenmesi nasıl çalışır?
+Aşağıdaki örnek, VsmsResource kaynağının yüklenmesini desteklediğini gösterir. Yolların düzenlenmesinin nasıl çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -85,7 +86,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Yol doldurma kuralı herhangi bir ek bilgi içermez
+        // Yol doldurma kuralı ek bilgi içermez
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -96,7 +97,7 @@ public void TestPsdNet140()
             throw new Exception("VsmsResource paths were read wrong");
         }
 
-        // düzenleme
+        // Düzenleme
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -131,11 +132,11 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathDataResource](../vectorpathdataresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

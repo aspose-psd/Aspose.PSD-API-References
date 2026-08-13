@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. olup olmadığını gösteren bir değer alır.IDictionary nesnenin sabit bir boyutu var.
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. IDictionary nesnesinin sabit bir boyuta sahip olup olmadığını gösteren bir değer alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-olup olmadığını gösteren bir değer alır.IDictionary nesnenin sabit bir boyutu var.
+IDictionary nesnesinin sabit bir boyuta sahip olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-doğru iseIDictionary nesnenin sabit bir boyutu vardır; Aksi takdirde, yanlış.
+IDictionary nesnesinin sabit bir boyutu varsa true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageLength
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Görüntü uzunluğunu alır veya ayarlar.
+title: "JpegExifData.ImageLength"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Görüntü uzunluğunu alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.exif/jpegexifdata/imagelength/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageLength property
 
 Görüntü uzunluğunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Görüntü uzunluğunu alır veya ayarlar.
 public uint ImageLength { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Resmin uzunluğu.
+Görüntünün uzunluğu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Figure.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure mülk. Nesnenin sınırlarını alır veya ayarlar.
+title: "Figure.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure özelliği. Nesnenin sınırlarını alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
 Nesnenin sınırlarını alır veya ayarlar.
@@ -14,15 +15,15 @@ Nesnenin sınırlarını alır veya ayarlar.
 public override RectangleF Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

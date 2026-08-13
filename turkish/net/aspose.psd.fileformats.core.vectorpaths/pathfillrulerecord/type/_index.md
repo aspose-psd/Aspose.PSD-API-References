@@ -1,11 +1,12 @@
 ---
-title: PathFillRuleRecord.Type
-second_title: Aspose.PSD for .NET API Referansı
-description: PathFillRuleRecord mülk. Türü alır.
+title: "PathFillRuleRecord.Type"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathFillRuleRecord özelliği. Türü alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord.Type property
 
 Türü alır.
@@ -14,15 +15,15 @@ Türü alır.
 public override VectorPathType Type { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [PathFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

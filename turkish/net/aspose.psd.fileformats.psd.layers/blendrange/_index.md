@@ -1,35 +1,36 @@
 ---
-title: Class BlendRange
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange sınıf. Karışım aralığı.
+title: "BlendRange sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange sınıfı. Karışım aralığı."
 type: docs
-weight: 1890
+weight: 2000
 url: /tr/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
-Karışım aralığı.
+karışım aralığı.
 
 ```csharp
 public sealed class BlendRange
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BlendRange](blendrange/)() | Default_Constructor |
+| [BlendRange](blendrange/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Hedef karışım aralığını alır veya ayarlar. |
 | [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Kaynak karışım aralığını alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

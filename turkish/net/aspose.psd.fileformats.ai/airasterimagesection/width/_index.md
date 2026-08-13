@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Genişliği alır.
+title: "AiRasterImageSection.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. Genişliği alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
 Genişliği alır.
@@ -14,14 +15,14 @@ Genişliği alır.
 public double Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Genişlik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.VerticalMeshPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya ayarlar.
+title: "PlacedResource.VerticalMeshPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD dosyasındaki yatay ağ noktalarını alır veya ayarlar"
 type: docs
-weight: 220
+weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPoints property
 
 PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya ayarlar.
@@ -14,14 +15,14 @@ PSD dosyasındaki yerleştirilmiş katmanın yatay ağ noktalarını alır veya 
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın yatay ağ noktaları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

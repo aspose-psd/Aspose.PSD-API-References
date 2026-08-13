@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorRasterizationOptions mülk. Metin işleme ipucunu alır veya ayarlar.
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorRasterizationOptions özelliği. Metin renderleme ipucunu alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
-Metin işleme ipucunu alır veya ayarlar.
+Alır veya ayarlar metin renderleme ipucunu.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Metin oluşturma ipucu.
+Metin renderleme ipucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: Class SmartFilter
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter sınıf. Akıllı filtrelerin temel mantığını işleyecek sınıf.
+title: "Sınıf SmartFilter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter sınıfı. Akıllı filtrelerin temel mantığını işlemek için sınıf."
 type: docs
-weight: 3460
+weight: 3900
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter class
 
-Akıllı filtrelerin temel mantığını işleyecek sınıf.
+Akıllı filtrelerin temel mantığını işlemek için sınıf.
 
 ```csharp
 public abstract class SmartFilter : ICloneable
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SmartFilter](smartfilter/)() | Yeni bir örneğini başlatır.`SmartFilter` sınıf. |
+| [SmartFilter](smartfilter/)() | `SmartFilter` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Karıştırma modunu alır veya ayarlar. |
 | abstract [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/) { get; } | Akıllı filtre türü tanımlayıcısını alır. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Akıllı filtrenin etkin durumunu alır veya ayarlar. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Akıllı filtrenin etkin olup olmadığını alır veya ayarlar. |
 | abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/) { get; } | Akıllı filtre adını alır. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Akıllı filtrenin opaklık değerini alır veya ayarlar. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Akıllı filtre verilerine sahip kaynak tanımlayıcı yapısı. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Akıllı filtre verileri içeren kaynak tanımlayıcı yapısı. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Geçerli filtreyi girişe uygular[`RasterImage`](../../aspose.psd/rasterimage/) resim. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Geçerli filtreyi girişe uygular[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) veriyi maskele. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Type. türünün mevcut örneğinin üye bazında klonunu oluşturur. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Geçerli filtreyi giriş [`RasterImage`](../../aspose.psd/rasterimage/) görüntüsüne uygular. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Geçerli filtreyi giriş [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) maske verilerine uygular. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Türün geçerli örneğinin üye bazlı klonunu oluşturur. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -111,9 +112,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

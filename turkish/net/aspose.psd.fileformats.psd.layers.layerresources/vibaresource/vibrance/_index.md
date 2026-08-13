@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Vibrance
-second_title: Aspose.PSD for .NET API Referansı
-description: VibAResource mülk. Titreşim değerini alır veya ayarlar
+title: "VibAResource.Vibrance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibAResource özelliği. Canlılık değerini alır veya ayarlar"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/
 ---
+{{< psd/tize >}}
 ## VibAResource.Vibrance property
 
-Titreşim değerini alır veya ayarlar
+Canlılık değerini alır veya ayarlar
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod örneği, VibAResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Çalışma zamanında Titreşim Kaynağını okuma ve yazma desteği örneği.
+// Çalışma zamanında okuma ve yazma Vibrasyon Kaynağı desteği örneği.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibAResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

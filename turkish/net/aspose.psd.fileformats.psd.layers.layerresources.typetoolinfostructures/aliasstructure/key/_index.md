@@ -1,11 +1,12 @@
 ---
-title: AliasStructure.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: AliasStructure mülk. Yapı anahtarını alır.
+title: "AliasStructure.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AliasStructure özelliği. Yapı anahtarını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/key/
 ---
+{{< psd/tize >}}
 ## AliasStructure.Key property
 
 Yapı anahtarını alır.
@@ -14,10 +15,10 @@ Yapı anahtarını alır.
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AliasStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

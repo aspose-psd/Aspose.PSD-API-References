@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.Type
-second_title: Aspose.PSD for .NET API Referansı
-description: LengthRecord mülk. Türü alır.
+title: "LengthRecord.Type"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LengthRecord özelliği. Türü alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/
 ---
+{{< psd/tize >}}
 ## LengthRecord.Type property
 
 Türü alır.
@@ -14,15 +15,15 @@ Türü alır.
 public override VectorPathType Type { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [LengthRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

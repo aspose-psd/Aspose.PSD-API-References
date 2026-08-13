@@ -1,27 +1,28 @@
 ---
-title: SizeF.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF mülk. Bunun dikey bileşenini alır veya ayarlarSizeF .
+title: "SizeF.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF özelliği. Bu SizeF'nin dikey bileşenini alır veya ayarlar."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/sizef/height/
 ---
+{{< psd/tize >}}
 ## SizeF.Height property
 
-Bunun dikey bileşenini alır veya ayarlar[`SizeF`](../) .
+Bu [`SizeF`](../)'nin dikey bileşenini alır veya ayarlar.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun dikey bileşeni[`SizeF`](../), tipik olarak piksel cinsinden ölçülür.
+Bu [`SizeF`](../)'nin dikey bileşeni, genellikle piksel cinsinden ölçülür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

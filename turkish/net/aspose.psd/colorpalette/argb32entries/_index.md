@@ -1,31 +1,32 @@
 ---
-title: ColorPalette.Argb32Entries
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPalette mülk. 32bit ARGB yapıları dizisi alır.
+title: "ColorPalette.Argb32Entries"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPalette özelliği. 32-bit ARGB yapılarının bir dizisini alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/colorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Argb32Entries property
 
-32-bit ARGB yapıları dizisi alır.
+32 bit ARGB yapılarının bir dizisini alır.
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunu oluşturan 32 bit ARGB yapısı dizisi[`ColorPalette`](../) .
+Bu [`ColorPalette`](../) oluşturan 32-bit ARGB yapıların dizisi.
 
-### Mülk değeri
+### Property Value
 
 Girişler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../)
-* ad alanı [Aspose.PSD](../../colorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

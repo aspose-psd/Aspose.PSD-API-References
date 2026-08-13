@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Colorize
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.Hue2Resource colorize.
+title: "Hue2Resource.Colorize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource özelliği. Bu Hue2Resource'un renkli olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Colorize property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`Hue2Resource`](../) colorize.
+Bu [`Hue2Resource`](../) nesnesinin renkli olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` renklendirecek olursak; aksi takdirde,`YANLIŞ` .
+`true` eğer renklendirilmişse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

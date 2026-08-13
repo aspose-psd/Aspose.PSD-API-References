@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF mülk. Yeni bir örneğini alırSizeF sahip olan yapıWidth VeHeight değerler sıfıra ayarlandı.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF özelliği. Genişlik ve Yükseklik değerleri sıfıra ayarlanmış bir SizeF yapısının yeni bir örneğini alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-Yeni bir örneğini alır[`SizeF`](../) sahip olan yapı[`Width`](../width/) Ve[`Height`](../height/) değerler sıfıra ayarlandı.
+Sıfıra ayarlanmış [`Width`](../width/) ve [`Height`](../height/) değerlerine sahip bir [`SizeF`](../) yapısının yeni bir örneğini alır.
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: FxrpResource alan. Tip aracı bilgi anahtarı.
+title: "FxrpResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FxrpResource alanı. Tür araç bilgisi anahtarı"
 type: docs
-weight: 90
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## FxrpResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Right
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF mülk. Toplamı olan x koordinatını alır veya ayarlar.X VeWidth bununRectangleFyapı.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF özelliği. Bu RectangleF yapısının X ve Width değerlerinin toplamı olan x koordinatını alır veya ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-Toplamı olan x koordinatını alır veya ayarlar.[`X`](../x/) Ve[`Width`](../width/) bunun[`RectangleF`](../)yapı.
+Bu [`RectangleF`](../) yapısının [`X`](../x/) ve [`Width`](../width/) toplamı olan x koordinatını alır veya ayarlar.
 
 ```csharp
 public float Right { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-toplamı olan x koordinatı[`X`](../x/) Ve[`Width`](../width/) bunun[`RectangleF`](../) yapı.
+Bu [`RectangleF`](../) yapısının [`X`](../x/) ve [`Width`](../width/) toplamı olan x koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

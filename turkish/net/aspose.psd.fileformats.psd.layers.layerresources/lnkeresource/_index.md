@@ -1,52 +1,53 @@
 ---
-title: Class LnkeResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource sınıf. PSD formatındaki görüntüdeki harici bağlantılı dosyalar veya varlıklar hakkında bilgi içeren LnkeResource sınıfını tanımlar. Bağlantı kaynağı birkaç tane içerebilirLiFeDataSource indexer. tarafından erişilebilen örnekler Bu Adobe Photoshop dosyalarını programlı olarak değiştirmeye yardımcı olan PSD Dosya Biçimi Manipülasyon APIsinin bir parçasıdır
+title: "Sınıf LnkeResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource class. PSD formatındaki görüntüde dışa bağlı dosyalar veya varlıklar hakkında bilgi içeren LnkeResource sınıfını tanımlar. Bağlantı kaynağı, indeksleyici aracılığıyla erişilebilen birkaç LiFeDataSource örneği içerebilir. Bu, Adobe Photoshop dosyalarını programlı olarak değiştirmeye yardımcı olan PSD Dosya Formatı Manipülasyonu API'sinin bir parçasıdır."
 type: docs
-weight: 2740
+weight: 3050
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-PSD formatındaki görüntüdeki harici bağlantılı dosyalar veya varlıklar hakkında bilgi içeren LnkeResource sınıfını tanımlar. Bağlantı kaynağı birkaç tane içerebilir[`LiFeDataSource`](../lifedatasource/) indexer. tarafından erişilebilen örnekler Bu, Adobe® Photoshop® dosyalarını programlı olarak değiştirmeye yardımcı olan PSD Dosya Biçimi Manipülasyon API'sinin bir parçasıdır
+LnkeResource sınıfını tanımlar; bu sınıf PSD formatındaki görüntüde dışa bağlı dosyalar veya varlıklar hakkında bilgi içerir. Bağlantı kaynağı, indeksleyici aracılığıyla erişilebilen birkaç [`LiFeDataSource`](../lifedatasource/) örneği içerebilir. Bu, Adobe® Photoshop® dosyalarını programlı olarak değiştirmeye yardımcı olan PSD Dosya Formatı Manipülasyonu API'sinin bir parçasıdır.
 
 ```csharp
 public class LnkeResource : LinkResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | Yeni bir örneğini başlatır.`LnkeResource` sınıf. |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Yeni bir örneğini başlatır.`LnkeResource` sınıf. |
+| [LnkeResource](lnkeresource/#constructor)() | `LnkeResource` sınıfının yeni bir örneğini başlatır. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | `LnkeResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Dizin oluşturucu tarafından erişilebilen bağlantı veri kaynaklarının sayısını alır. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Bu bağlantı kaynağı örneğinin boş olup olmadığını gösteren bir değer alır. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Şunu alır:[`LiFeDataSource`](../lifedatasource/) belirtilen dizinde. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Adobe® Photoshop® genel kaynak anahtarını alır. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | İndeksleyiciyle erişilebilen bağlantı veri kaynaklarının sayısını alır. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Bu bağlantı kaynağı örneğinin boş olup olmadığını gösteren bir değeri alır. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Belirtilen indeksteki [`LiFeDataSource`](../lifedatasource/) alır. (2 indeksleyici) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | PSD genel bağlantı kaynağı uzunluğunu bayt olarak alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | PSD biçimi sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | PSD genel bağlantı kaynağı imzasını alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Kaynak bloğu verilerini kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Kaynak blok verisini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, LnkeResource kaynağının desteğini gösterir.
 
@@ -270,11 +271,11 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

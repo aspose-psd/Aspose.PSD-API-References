@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Stream
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer mülk. Veri akışını alır.
+title: "StreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer özelliği. Veri akışını alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
 Veri akışını alır.
@@ -14,14 +15,14 @@ Veri akışını alır.
 public virtual Stream Stream { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Veri akışı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

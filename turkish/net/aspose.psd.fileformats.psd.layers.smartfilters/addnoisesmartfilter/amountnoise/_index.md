@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD for .NET API Referansı
-description: AddNoiseSmartFilter mülk. Gürültü değeri miktarını alır veya ayarlar.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AddNoiseSmartFilter özelliği. Gürültü değeri miktarını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
 Gürültü değeri miktarını alır veya ayarlar.
@@ -14,9 +15,9 @@ Gürültü değeri miktarını alır veya ayarlar.
 public double AmountNoise { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AddNoiseSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

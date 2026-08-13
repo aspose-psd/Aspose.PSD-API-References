@@ -1,30 +1,31 @@
 ---
-title: CurvesContinuousManager.UpdateCurvePoint
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesContinuousManager yöntem. Eğrinin noktasını günceller.
+title: "CurvesContinuousManager.UpdateCurvePoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesContinuousManager metodu. Eğri noktasını günceller"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.UpdateCurvePoint method
 
-Eğrinin noktasını günceller.
+Eğri noktasını günceller.
 
 ```csharp
 public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
-| pointIndex | Int32 | Noktanın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
+| pointIndex | Int32 | Noktanın indeksi. |
 | x | Byte | x konumu. |
-| y | Byte | y konumu. |
+| y | Byte | Y konumu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesContinuousManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

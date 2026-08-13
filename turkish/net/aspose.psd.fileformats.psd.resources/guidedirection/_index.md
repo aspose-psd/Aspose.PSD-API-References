@@ -1,11 +1,12 @@
 ---
-title: Enum GuideDirection
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection Sıralama. Kılavuz yönü.
+title: "Enum GuideDirection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. Kılavuz yönü"
 type: docs
-weight: 3740
+weight: 4240
 url: /tr/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
 Kılavuz yönü.
@@ -14,16 +15,16 @@ Kılavuz yönü.
 public enum GuideDirection : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Vertical | `0` | Dikey kılavuz yönü. |
 | Horizontal | `1` | Yatay kılavuz yönü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

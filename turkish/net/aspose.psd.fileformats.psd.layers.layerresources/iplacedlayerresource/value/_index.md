@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD görüntüsündeki yerleştirilmiş katmanın çözgü değerini alır veya ayarlar.
+title: "IPlacedLayerResource.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. PSD görüntüsündeki yerleştirilen katmanın bükülme değerini alır veya ayarlar"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Value property
 
-PSD görüntüsündeki yerleştirilmiş katmanın çözgü değerini alır veya ayarlar.
+Yerleştirilen katmanın PSD görüntüsündeki eğme değerini alır veya ayarlar.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yerleştirilen katmanın çözgü değeri.
+Yerleştirilen katmanın bükülme değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

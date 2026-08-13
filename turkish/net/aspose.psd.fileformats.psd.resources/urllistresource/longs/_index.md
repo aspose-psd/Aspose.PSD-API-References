@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Longs
-second_title: Aspose.PSD for .NET API Referansı
-description: UrlListResource mülk. Uzunları alır veya ayarlar.
+title: "UrlListResource.Longs"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UrlListResource özelliği. Uzun değerleri alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Longs property
 
-Uzunları alır veya ayarlar.
+Uzun değerleri alır veya ayarlar.
 
 ```csharp
 public int[] Longs { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Uzunlar.
+Uzun değerler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UrlListResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

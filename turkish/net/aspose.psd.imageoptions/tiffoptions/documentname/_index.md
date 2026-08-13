@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Belgenin adını alır veya ayarlar.
+title: "TiffOptions.DocumentName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Belgenin adını alır veya ayarlar"
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/documentname/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DocumentName property
 
 Belgenin adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Belgenin adını alır veya ayarlar.
 public string DocumentName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Belgenin adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

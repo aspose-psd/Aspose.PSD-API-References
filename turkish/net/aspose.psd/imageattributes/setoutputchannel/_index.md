@@ -1,51 +1,52 @@
 ---
-title: ImageAttributes.SetOutputChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için CMYK cam göbeğimacentasarısiyah çıkış kanalını ayarlar.
+title: "ImageAttributes.SetOutputChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için CMYK camgöbeği-makenta-sarı-siyah çıkış kanalını ayarlar."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/imageattributes/setoutputchannel/
 ---
+{{< psd/tize >}}
 ## SetOutputChannel(ColorChannelFlag) {#setoutputchannel}
 
-Varsayılan kategori için CMYK (cam göbeği-macenta-sarı-siyah) çıkış kanalını ayarlar.
+Varsayılan kategori için CMYK (cyan-magenta-yellow-black) çıkış kanalını ayarlar.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| flags | ColorChannelFlag | bir unsuru[`ColorChannelFlag`](../../colorchannelflag/)çıkış kanalını belirtir. |
+| flags | ColorChannelFlag | [`ColorChannelFlag`](../../colorchannelflag/) öğesi, çıkış kanalını belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOutputChannel(ColorChannelFlag, ColorAdjustType) {#setoutputchannel_1}
 
-Belirli bir kategori için CMYK (cam göbeği-macenta-sarı-siyah) çıkış kanalını ayarlar.
+Belirtilen kategori için CMYK (cyan-magenta-yellow-black) çıkış kanalını ayarlar.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| flags | ColorChannelFlag | bir unsuru[`ColorChannelFlag`](../../colorchannelflag/)çıkış kanalını belirtir. |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) çıkış kanalının ayarlandığı kategoriyi belirtir. |
+| flags | ColorChannelFlag | [`ColorChannelFlag`](../../colorchannelflag/) öğesi, çıkış kanalını belirtir. |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) öğesi, çıkış kanalının ayarlandığı kategoriyi belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

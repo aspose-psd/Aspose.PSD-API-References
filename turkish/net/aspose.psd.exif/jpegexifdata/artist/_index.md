@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Artist
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Sanatçıyı alır veya ayarlar.
+title: "JpegExifData.Artist"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Sanatçıyı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
 Sanatçıyı alır veya ayarlar.
@@ -14,14 +15,14 @@ Sanatçıyı alır veya ayarlar.
 public string Artist { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sanatçı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

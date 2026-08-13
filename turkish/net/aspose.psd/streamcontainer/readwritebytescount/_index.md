@@ -1,23 +1,24 @@
 ---
-title: StreamContainer.ReadWriteBytesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer alan. Sıralı olarak okurken okuma ve yazma bayt sayısını belirtir.
+title: "StreamContainer.ReadWriteBytesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer alanı. Ardışık okuma sırasında okuma ve yazma bayt sayısını belirtir"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/streamcontainer/readwritebytescount/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadWriteBytesCount field
 
-Sıralı olarak okurken okuma ve yazma bayt sayısını belirtir.
+Sıralı okuma sırasında okuma ve yazma bayt sayısını belirtir.
 
 ```csharp
 public const int ReadWriteBytesCount;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

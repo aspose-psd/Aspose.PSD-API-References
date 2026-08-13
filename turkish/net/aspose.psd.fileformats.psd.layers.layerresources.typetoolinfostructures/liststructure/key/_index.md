@@ -1,11 +1,12 @@
 ---
-title: ListStructure.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: ListStructure mülk. Yapı anahtarını alır.
+title: "ListStructure.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ListStructure özelliği. Yapı anahtarını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key/
 ---
+{{< psd/tize >}}
 ## ListStructure.Key property
 
 Yapı anahtarını alır.
@@ -14,10 +15,10 @@ Yapı anahtarını alır.
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ListStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Greens
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource mülk. Yeşiller değerini alır veya ayarlar.
+title: "BlwhResource.Greens"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource özelliği. Yeşil değerini alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Greens property
 
-Yeşiller değerini alır veya ayarlar.
+Yeşil değerini alır veya ayarlar.
 
 ```csharp
 public int Greens { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yeşiller değeri.
+Yeşil değeri.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir BlwhResource'u nasıl düzenlediğinizi gösterir.
+Aşağıdaki örnek, bir BlwhResource'ı nasıl düzenleyeceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Test düzenleme ve kaydetme
+                // Düzenleme ve kaydetme testi
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

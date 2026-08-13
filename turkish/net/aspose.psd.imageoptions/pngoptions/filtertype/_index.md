@@ -1,24 +1,25 @@
 ---
-title: PngOptions.FilterType
-second_title: Aspose.PSD for .NET API Referansı
-description: PngOptions mülk. PNG dosyası kaydetme işlemi sırasında kullanılan filtre türünü alır veya ayarlar.
+title: "PngOptions.FilterType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PngOptions özelliği. PNG dosyası kaydetme sürecinde kullanılan filtre tipini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.imageoptions/pngoptions/filtertype/
 ---
+{{< psd/tize >}}
 ## PngOptions.FilterType property
 
-PNG dosyası kaydetme işlemi sırasında kullanılan filtre türünü alır veya ayarlar.
+PNG dosyası kaydetme işlemi sırasında kullanılan filtre tipini alır veya ayarlar.
 
 ```csharp
 public PngFilterType FilterType { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PngFilterType](../../../aspose.psd.fileformats.png/pngfiltertype/)
 * class [PngOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pngoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

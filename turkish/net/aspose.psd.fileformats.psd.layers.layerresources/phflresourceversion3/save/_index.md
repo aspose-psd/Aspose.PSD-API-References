@@ -1,29 +1,30 @@
 ---
-title: PhflResourceVersion3.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion3 yöntem. Kaynağı belirtilen akış kapsayıcısına kaydeder.
+title: "PhflResourceVersion3.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion3 yöntemi. Kaynağı belirtilen akış konteynerine kaydeder."
 type: docs
-weight: 110
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/save/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Save method
 
-Kaynağı belirtilen akış kapsayıcısına kaydeder.
+Kaynağı belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PhflResourceVersion3](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

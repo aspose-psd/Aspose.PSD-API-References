@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdColorPalette yöntem. Paleti kopyalar.
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdColorPalette yöntemi. Paleti kopyalar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Paleti kopyalar.
@@ -14,21 +15,21 @@ Paleti kopyalar.
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Renk paleti. |
-| useCompactPalette | Boolean | Paletin kompakt olup olmadığını belirtir. |
+| useCompactPalette | Boolean | Kompakt paletin olup olmadığını gösterir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni oluşturulan ve kopyalanan palet veya null palet geçildiyse null.
+Yeni oluşturulan ve kopyalanan palet veya null, eğer null palet geçirilmişse.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,19 +41,19 @@ Paleti kopyalar.
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Renk paleti. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni oluşturulan ve kopyalanan palet veya null palet geçildiyse null.
+Yeni oluşturulan ve kopyalanan palet veya null, eğer null palet geçirilmişse.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

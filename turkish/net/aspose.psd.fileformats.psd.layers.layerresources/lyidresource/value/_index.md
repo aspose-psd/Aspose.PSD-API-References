@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: LyidResource mülk. Değeri alır.
+title: "LyidResource.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LyidResource özelliği. Değeri alır"
 type: docs
-weight: 60
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
 Değeri alır.
@@ -14,14 +15,14 @@ Değeri alır.
 public int Value { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LyidResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

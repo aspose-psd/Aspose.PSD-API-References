@@ -1,57 +1,58 @@
 ---
-title: StreamContainer.Read
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer yöntem. Belirtilen bayt arabelleğini doldurmak için bayt okur.
+title: "StreamContainer.Read"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer yöntemi. Belirtilen bayt tamponunu doldurmak için baytları okur"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/streamcontainer/read/
 ---
+{{< psd/tize >}}
 ## Read(byte[]) {#read}
 
-Belirtilen bayt arabelleğini doldurmak için bayt okur.
+Belirtilen bayt tamponunu doldurmak için baytları okur.
 
 ```csharp
 public virtual int Read(byte[] bytes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| bytes | Byte[] | Doldurulacak bayt sayısı. |
+| bytes | Byte[] | Doldurulacak baytlar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Okunan bayt sayısı. Akışta yeterli bayt yoksa, bu değer arabellekteki bayt sayısından daha az olabilir.
+Okunan bayt sayısı. Akışta yeterli bayt yoksa bu değer tampondaki bayt sayısından daha az olabilir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Read(byte[], int, int) {#read_1}
 
-Geçerli akıştan bir bayt dizisini okur ve akış içindeki konumu okunan bayt sayısına göre ilerletir.
+Geçerli akıştan bir bayt dizisini okur ve akış içindeki konumu okunan bayt sayısı kadar ilerletir.
 
 ```csharp
 public virtual int Read(byte[] buffer, int offset, int count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| buffer | Byte[] | Bir bayt dizisi. Bu yöntem geri döndüğünde, arabellek belirtilen bayt dizisini içerir ve değerler arasında*offset* Ve (*offset* +*count* - 1) geçerli kaynaktan okunan baytlarla değiştirilir. |
-| offset | Int32 | Sıfır tabanlı bayt ofseti*buffer* mevcut akıştan okunan verileri depolamaya başlamak için. |
-| count | Int32 | Geçerli akıştan okunacak maksimum bayt sayısı. |
+| arabellek | Byte[] | Bayt dizisi. Bu yöntem döndüğünde, tampon belirtilen bayt dizisini içerir ve *offset* ile (*offset* + *count* - 1) arasındaki değerler geçerli kaynaktan okunan baytlarla değiştirilir. |
+| offset | Int32 | *buffer* içinde, geçerli akıştan okunan verilerin depolanmaya başlanacağı sıfır tabanlı bayt ofseti. |
+| sayı | Int32 | Geçerli akıştan okunacak azami bayt sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Arabellekte okunan toplam bayt sayısı. Bu, istenen bayt sayısından daha az olabilir, eğer o kadar bayt şu anda mevcut değilse veya sıfır (0), akışın sonuna ulaşıldıysa.
+Tampona okunan toplam bayt sayısı. İstenen bayt sayısı mevcut değilse bu değer daha az olabilir veya akışın sonuna gelinmişse sıfır (0) olabilir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

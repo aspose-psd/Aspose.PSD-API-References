@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Sayısallaştırılmış tarih saatini alır veya ayarlar.
+title: "ExifData.DateTimeDigitized"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Dijitalleştirilen tarih ve saati alır veya ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-Sayısallaştırılmış tarih saatini alır veya ayarlar.
+Dijitalleştirilme tarih ve saatini alır veya ayarlar.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tarih saat sayısallaştırıldı.
+Dijitalleştirilen tarih ve saat.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

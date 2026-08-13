@@ -1,33 +1,34 @@
 ---
-title: IRasterImageRawDataLoader.LoadRawData
-second_title: Aspose.PSD for .NET API Referansı
-description: IRasterImageRawDataLoader yöntem. Ham verileri yükler.
+title: "IRasterImageRawDataLoader.LoadRawData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IRasterImageRawDataLoader yöntemi. Ham veriyi yükler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/irasterimagerawdataloader/loadrawdata/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.LoadRawData method
 
-Ham verileri yükler.
+Ham veriyi yükler.
 
 ```csharp
 public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings, 
     IPartialRawDataLoader rawDataLoader)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Ham verilerin yükleneceği dikdörtgen. |
-| rawDataSettings | RawDataSettings | Yüklenen veriler için kullanılacak ham veri ayarları. Veriler belirtilen biçimde değilse, veri dönüştürmenin gerçekleştirileceğini unutmayın. |
-| rawDataLoader | IPartialRawDataLoader | Ham veri yükleyici. |
+| dikdörtgen | Rectangle | Ham verinin yükleneceği dikdörtgen. |
+| rawDataSettings | RawDataSettings | Yüklenen veri için kullanılacak ham veri ayarları. Veri belirtilen formatta değilse veri dönüşümü gerçekleştirileceğini unutmayın. |
+| rawDataLoader | IPartialRawDataLoader | Ham veri yükleyicisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * interface [IRasterImageRawDataLoader](../)
-* ad alanı [Aspose.PSD](../../irasterimagerawdataloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

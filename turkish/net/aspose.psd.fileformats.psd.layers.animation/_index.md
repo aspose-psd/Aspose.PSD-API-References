@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Animation
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı PSD ayarlama katmanları içerir.
+title: "Aspose.PSD.FileFormats.Psd.Layers.Animation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı PSD ayar katmanlarını içerir."
 type: docs
-weight: 230
+weight: 250
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/
 ---
-Ad alanı, PSD ayarlama katmanları içerir.
+{{< psd/tize >}}
+Bu ad alanı, PSD ayar katmanlarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [Frame](./frame/) | Zaman çizelgesi çerçeve öğesi seçenekleri. |
-| [LayerState](./layerstate/) | Zaman çizgisi katman durumu seçenekleri. |
-| [LayerStateEffects](./layerstateeffects/) | Katman durumu efektleri. |
-| [TimeLine](./timeline/) | Zaman çizelgesi seçenekleri model. |
-## numaralandırma
+| [Frame](./frame/) | Zaman çizelgesi çerçeve öğesinin seçenekleri. |
+| [LayerState](./layerstate/) | Zaman çizelgesi katman durumunun seçenekleri. |
+| [LayerStateEffects](./layerstateeffects/) | Katman durumu etkileri. |
+| [Timeline](./timeline/) | Zaman çizelgesi seçenekleri modeli. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [FrameDisposalMethod](./framedisposalmethod/) | Çerçeve çıkarma yöntemi, bir sonraki kareyi göstermeden önce geçerli karenin atılıp atılmayacağını belirtir. Mevcut karenin bir sonraki karenin şeffaf alanlarından görünüp görünmeyeceğini belirtmek için arka plan şeffaflığı içeren animasyonlar için bir atma yöntemi seçersiniz. |
+| [FrameDisposalMethod](./framedisposalmethod/) | Çerçeve atma yöntemi, bir sonraki çerçeve gösterilmeden önce mevcut çerçevenin atılıp atılmayacağını belirler. Arka plan şeffaflığı içeren animasyonlar için bir atma yöntemi seçerek, mevcut çerçevenin bir sonraki çerçevenin şeffaf alanları üzerinden görünür olup olmayacağını belirtebilirsiniz. |
 
 

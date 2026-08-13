@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap mülk. Şunu alır veya ayarlarLineCap bunun hangi numaralandırmaCustomLineCap tabanlı.
+title: "CustomLineCap.BaseCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap özelliği. Bu CustomLineCap'in temel alındığı LineCap enum değerini alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-Şunu alır veya ayarlar:[`LineCap`](../../linecap/) bunun hangi numaralandırma[`CustomLineCap`](../) tabanlı.
+Bu [`CustomLineCap`](../) nesnesinin temel alındığı [`LineCap`](../../linecap/) enum değerini alır veya ayarlar.
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-bu[`LineCap`](../../linecap/) bunun hangi numaralandırma[`CustomLineCap`](../) dayanır.
+Bu [`CustomLineCap`](../) nesnesinin temel alındığı [`LineCap`](../../linecap/) enum değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

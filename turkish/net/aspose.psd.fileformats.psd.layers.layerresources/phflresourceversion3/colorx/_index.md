@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorX
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion3 mülk. X rengini alır veya ayarlar.
+title: "PhflResourceVersion3.ColorX"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion3 özelliği. X rengini alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorx/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorX property
 
 X rengini alır veya ayarlar.
@@ -14,14 +15,14 @@ X rengini alır veya ayarlar.
 public float ColorX { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 X rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion3](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

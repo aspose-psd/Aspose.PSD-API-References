@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. Kontrastı alır veya ayarlar.
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Kontrastı alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
 Kontrastı alır veya ayarlar.
@@ -14,14 +15,14 @@ Kontrastı alır veya ayarlar.
 public int Contrast { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kontrast.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: StreamSource.Stream
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamSource mülk. Akışı alır.
+title: "StreamSource.Stream"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamSource özelliği. Akışı alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
 Akışı alır.
@@ -14,14 +15,14 @@ Akışı alır.
 public Stream Stream { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak akışı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamSource](../)
-* ad alanı [Aspose.PSD.Sources](../../streamsource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

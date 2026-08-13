@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MaxL
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantLab alan. Maksimum A bileşen değeri
+title: "ColorantLab.MaxL"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantLab alanı. Maksimum A bileşen değeri"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MaxL field
 
 Maksimum A bileşen değeri
@@ -14,10 +15,10 @@ Maksimum A bileşen değeri
 public const float MaxL;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantLab](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

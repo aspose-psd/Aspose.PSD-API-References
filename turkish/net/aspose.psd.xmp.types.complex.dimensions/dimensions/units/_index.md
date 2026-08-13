@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Units
-second_title: Aspose.PSD for .NET API Referansı
-description: Dimensions mülk. Birimleri alır veya ayarlar.
+title: "Dimensions.Units"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Dimensions özelliği. Birimleri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 ---
+{{< psd/tize >}}
 ## Dimensions.Units property
 
 Birimleri alır veya ayarlar.
@@ -14,18 +15,18 @@ Birimleri alır veya ayarlar.
 public string Units { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Birimler.
 
-### Örnekler
+## Örnekler
 
-Örneğin: inç, mm, piksel, pika, nokta vb.
+Örneğin: inç, mm, piksel, pica, nokta vb.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Dimensions](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,52 +1,53 @@
 ---
-title: StreamContainer.ToBytes
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer yöntem. Akış verilerini şuna dönüştürürByte dizi.
+title: "StreamContainer.ToBytes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer yöntemi. Akış verilerini Byte dizisine dönüştürür"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/streamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-Akış verilerini şuna dönüştürür:Byte dizi.
+Akış verilerini Bayt dizisine dönüştürür.
 
 ```csharp
 public virtual byte[] ToBytes()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Şuna dönüştürülen akış verileri:Byte dizi.
+Byte dizisine dönüştürülmüş akış verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-Akış verilerini şuna dönüştürür:Byte dizi.
+Akış verilerini Bayt dizisine dönüştürür.
 
 ```csharp
 public virtual byte[] ToBytes(long position, long bytesCount)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Bayt okumaya başlama konumu. |
+| konum | Int64 | Baytları okumaya başlanacak konum. |
 | bytesCount | Int64 | Okunacak bayt sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Şuna dönüştürülen akış verileri:Byte dizi.
+Byte dizisine dönüştürülmüş akış verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

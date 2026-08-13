@@ -1,11 +1,12 @@
 ---
-title: Interface IImageDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IImageDescriptor arayüz. Görüntü tanımlayıcısı. Diğer tüm görüntü tanımlayıcı türleri için temel özellikleri ve yöntemleri içerir.
+title: "Arayüz IImageDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IImageDescriptor arabirimi. Görüntü tanımlayıcısı. Diğer tüm görüntü tanımlayıcı türleri için temel özellikleri ve yöntemleri içerir."
 type: docs
-weight: 4420
+weight: 4920
 url: /tr/net/aspose.psd/iimagedescriptor/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor interface
 
 Görüntü tanımlayıcısı. Diğer tüm görüntü tanımlayıcı türleri için temel özellikleri ve yöntemleri içerir.
@@ -14,15 +15,15 @@ Görüntü tanımlayıcısı. Diğer tüm görüntü tanımlayıcı türleri iç
 public interface IImageDescriptor
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Desteklenen biçimi alır. |
+| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Desteklenen formatı alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

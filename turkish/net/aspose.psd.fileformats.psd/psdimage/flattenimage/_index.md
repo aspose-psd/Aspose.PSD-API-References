@@ -1,11 +1,12 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Tüm katmanları düzleştirir.
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Tüm katmanları düzleştirir"
 type: docs
-weight: 540
+weight: 600
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
 Tüm katmanları düzleştirir.
@@ -14,10 +15,10 @@ Tüm katmanları düzleştirir.
 public void FlattenImage()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

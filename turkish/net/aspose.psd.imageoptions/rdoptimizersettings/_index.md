@@ -1,46 +1,47 @@
 ---
-title: Class RdOptimizerSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.RdOptimizerSettings sınıf. RD iyileştirici ayarları class
+title: "Sınıf RdOptimizerSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.RdOptimizerSettings sınıfı. RD optimizer ayarları sınıfı"
 type: docs
-weight: 4910
+weight: 5430
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings class
 
-RD iyileştirici ayarları class
+RD optimizasyon ayarları sınıfı
 
 ```csharp
 public class RdOptimizerSettings
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RdOptimizerSettings](rdoptimizersettings/)() | Default_Constructor |
+| [RdOptimizerSettings](rdoptimizersettings/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | Piksel başına bit cinsinden dikkate alınacak maksimum R değerini alır veya ayarlar |
-| [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | BPP (piksel başına bit) ölçek faktörünü alır veya ayarlar. |
-| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | Değerlendirme için maksimum R değerini alır. |
-| [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | Maksimum piksel değerini alır. |
-| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | Maksimum niceleme değerini alır veya ayarlar. |
-| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | İzin verilen minimum niceleme değerini alır. |
-| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | PSNR maksimum beklenen değerini alır. |
+| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | Alır veya ayarlar dikkate alınacak maksimum R değerini piksel başına bit cinsinden. |
+| [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | Alır veya ayarlar BPP (piksel başına bit) ölçek faktörünü. |
+| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | Alır dikkate alınacak maksimum R değerini. |
+| [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | Alır maksimum piksel değerini. |
+| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | Alır veya ayarlar maksimum kantizasyon değerini. |
+| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | Alır izin verilen minimum kantizasyon değerini. |
+| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | Alır PSNR beklenen maksimum değerini. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [Create](../../aspose.psd.imageoptions/rdoptimizersettings/create/)() | Bu örneği oluşturur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

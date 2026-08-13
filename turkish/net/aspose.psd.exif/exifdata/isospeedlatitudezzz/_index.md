@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeZZZ
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Bir kameranın veya ISO 12232. de tanımlanan giriş aygıtının ISO hız enlemi zzz değerini alır veya ayarlar.
+title: "ExifData.ISOSpeedLatitudeZZZ"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. ISO 12232'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi zzz değerini alır veya ayarlar"
 type: docs
 weight: 720
 url: /tr/net/aspose.psd.exif/exifdata/isospeedlatitudezzz/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeZZZ property
 
-Bir kameranın veya ISO 12232. 'de tanımlanan giriş aygıtının ISO hız enlemi zzz değerini alır veya ayarlar.
+ISO 12232'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi zzz değerini alır veya ayarlar.
 
 ```csharp
 public uint ISOSpeedLatitudeZZZ { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bir kameranın veya giriş cihazının ISO 12232. 'de tanımlanan ISO hız enlemi zzz değeri
+ISO 12232'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi zzz değeri.
 
-### Notlar
+## Açıklamalar
 
-Bu etiket, ISOSpeed ve ISOSpeedLatitudeyyy olmadan kaydedilmeyecektir.
+Bu etiket, ISOSpeed ve ISOSpeedLatitudeyyy olmadan kaydedilmemelidir
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetColorMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk ayarlama matrisini ayarlar.
+title: "ImageAttributes.SetColorMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için renk ayarlama matrisini ayarlar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/imageattributes/setcolormatrix/
 ---
+{{< psd/tize >}}
 ## SetColorMatrix(ColorMatrix) {#setcolormatrix}
 
 Varsayılan kategori için renk ayarlama matrisini ayarlar.
@@ -14,16 +15,16 @@ Varsayılan kategori için renk ayarlama matrisini ayarlar.
 public void SetColorMatrix(ColorMatrix newColorMatrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Renk ayarlama matrisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,42 +36,42 @@ Varsayılan kategori için renk ayarlama matrisini ayarlar.
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag flags)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Renk ayarlama matrisi. |
-| flags | ColorMatrixFlag | bir unsuru[`ColorMatrixFlag`](../../colormatrixflag/) renk ayarlama matrisinden etkilenecek olan görüntü ve rengin türünü belirtir. |
+| flags | ColorMatrixFlag | Renk ayarlama matrisinden etkilenecek görüntü ve rengin türünü belirten bir [`ColorMatrixFlag`](../../colormatrixflag/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrix_2}
 
-Belirli bir kategori için renk ayarlama matrisini ayarlar.
+Belirtilen kategori için renk ayarlama matrisini ayarlar.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Renk ayarlama matrisi. |
-| mode | ColorMatrixFlag | bir unsuru[`ColorMatrixFlag`](../../colormatrixflag/) renk ayarlama matrisinden etkilenecek olan görüntü ve rengin türünü belirtir. |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk ayarlama matrisinin ayarlandığı kategoriyi belirtir. |
+| mode | ColorMatrixFlag | Renk ayarlama matrisinden etkilenecek görüntü ve rengin türünü belirten bir [`ColorMatrixFlag`](../../colormatrixflag/) öğesi. |
+| type | ColorAdjustType | Renk ayarlama matrisinin ayarlandığı kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

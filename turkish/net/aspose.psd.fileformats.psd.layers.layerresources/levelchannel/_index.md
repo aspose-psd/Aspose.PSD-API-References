@@ -1,32 +1,33 @@
 ---
-title: Class LevelChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel sınıf. Düzey Ayarlama Katmanında kanallarla çalışmak için sınıf
+title: "Sınıf LevelChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel sınıfı. Seviyeler Ayarlama Katmanı'ndaki kanallarla çalışmak için sınıf"
 type: docs
-weight: 2630
+weight: 2940
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
+{{< psd/tize >}}
 ## LevelChannel class
 
-Düzey Ayarlama Katmanında kanallarla çalışmak için sınıf
+Seviye Ayarlama Katmanındaki kanallarla çalışmak için sınıf
 
 ```csharp
 public class LevelChannel
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | Giriş vurgu seviyesini alır veya ayarlar. |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | Giriş orta ton düzeyi kayanlığını alır veya ayarlar. |
+| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | Giriş vurgulama seviyesini alır veya ayarlar. |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | Giriş orta ton seviyesini (float) alır veya ayarlar. |
 | [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | Giriş gölge seviyesini alır veya ayarlar. |
-| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | Çıkış vurgu seviyesini alır veya ayarlar. |
-| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | Çıktı gölge seviyesini alır veya ayarlar. |
+| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | Çıkış vurgulama seviyesini alır veya ayarlar. |
+| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | Çıkış gölge seviyesini alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

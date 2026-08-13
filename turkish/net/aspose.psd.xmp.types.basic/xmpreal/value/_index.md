@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpReal mülk. Değişken değeri alır veya ayarlar.
+title: "XmpReal.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpReal özelliği. Float değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-Değişken değeri alır veya ayarlar.
+Değeri (float) alır veya ayarlar.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayan değer.
+Float değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpReal](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownResource mülk. Verileri alır veya ayarlar.
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownResource özelliği. Veriyi alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
-Verileri alır veya ayarlar.
+Veriyi alır veya ayarlar.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Veriler.
+Veri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnknownResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

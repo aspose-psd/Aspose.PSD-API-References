@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileOffsets
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Döşeme ofsetlerini alır veya ayarlar.
+title: "TiffOptions.TileOffsets"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Döşeme ofsetlerini alır veya ayarlar"
 type: docs
-weight: 540
+weight: 550
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileOffsets property
 
-Döşeme ofsetlerini alır veya ayarlar.
+Karol ofsetlerini alır veya ayarlar.
 
 ```csharp
 public uint[] TileOffsets { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

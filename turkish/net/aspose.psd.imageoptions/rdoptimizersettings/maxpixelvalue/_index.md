@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MaxPixelValue
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings mülk. Maksimum piksel değerini alır.
+title: "RdOptimizerSettings.MaxPixelValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings özelliği. Azami piksel değerini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxPixelValue property
 
-Maksimum piksel değerini alır.
+Alır maksimum piksel değerini.
 
 ```csharp
 public int MaxPixelValue { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Maksimum maksimum piksel değeri.
+Azami maksimum piksel değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

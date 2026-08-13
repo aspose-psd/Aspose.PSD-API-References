@@ -1,38 +1,39 @@
 ---
-title: CmykChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykChannelMixerLayer yöntem. tarafından kanalın indeksini alır. CmykMixerChannel döndürür
+title: "CmykChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykChannelMixerLayer metod. Kanalın indeksini alır. CmykMixerChannel döndürür"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.GetChannelByIndex method
 
-tarafından kanalın indeksini alır. CmykMixerChannel döndürür
+Kanalın indeksini alır. CmykMixerChannel döndürür.
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | İçerik. |
+| index | Int32 | İndeks. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 [`CmykMixerChannel`](../../cmykmixerchannel/)
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer'da en fazla 4 kanal bulunur. İlk kanalın indeksi 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer en fazla 4 kanala sahiptir. İlk kanalın indeksi 0'dır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

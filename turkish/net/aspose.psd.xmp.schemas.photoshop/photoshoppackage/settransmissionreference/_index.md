@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. İletim referansını ayarlar.
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Aktarım referansını ayarlar"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
 İletim referansını ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionre
 public void SetTransmissionReference(string transmissionReference)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| transmissionReference | String | İletim referansı. |
+| transmissionReference | String | Aktarım referansı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

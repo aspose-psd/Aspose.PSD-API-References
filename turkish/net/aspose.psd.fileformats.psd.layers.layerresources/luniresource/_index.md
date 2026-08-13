@@ -1,52 +1,53 @@
 ---
-title: Class LuniResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource sınıf. Katman adı kaynak
+title: "Sınıf LuniResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource sınıfı. Katman adı kaynağı"
 type: docs
-weight: 2800
+weight: 3130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource class
 
-Katman adı kaynak
+Katman adı kaynağı
 
 ```csharp
 public class LuniResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LuniResource](luniresource/)() | Yeni bir örneğini başlatır.`LuniResource` sınıf. |
+| [LuniResource](luniresource/)() | Yeni bir `LuniResource` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
 | [Name](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/) { get; set; } | Adı alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/signature/) { get; } | Katman kaynak imzasını alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

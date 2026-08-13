@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Bottom
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF mülk. Toplamı olan y koordinatını alır veya ayarlar.Y VeHeight bununRectangleFyapı.
+title: "RectangleF.Bottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF özelliği. Bu RectangleF yapısının Y ve Height toplamı olan y koordinatını alır veya ayarlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/rectanglef/bottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.Bottom property
 
-Toplamı olan y koordinatını alır veya ayarlar.[`Y`](../y/) Ve[`Height`](../height/) bunun[`RectangleF`](../)yapı.
+Y koordinatını alır veya ayarlar; bu, bu [`RectangleF`](../) yapısının [`Y`](../y/) ve [`Height`](../height/) toplamıdır.
 
 ```csharp
 public float Bottom { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-toplamı olan y koordinatı[`Y`](../y/) Ve[`Height`](../height/) bunun[`RectangleF`](../) yapı.
+Bu [`RectangleF`](../) yapısının [`Y`](../y/) ve [`Height`](../height/) toplamı olan y koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Enum PenType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.PenType Sıralama. dolgu tipini belirtir aPen nesne satırları doldurmak için kullanır.
+title: "Enum PenType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.PenType enum. Bir Pen nesnesinin çizgileri doldurmak için kullandığı dolgu türünü belirtir"
 type: docs
-weight: 5220
+weight: 5740
 url: /tr/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-dolgu tipini belirtir a[`Pen`](../pen/) nesne satırları doldurmak için kullanır.
+Bir [`Pen`](../pen/) nesnesinin çizgileri doldurmak için kullandığı dolgu türünü belirtir.
 
 ```csharp
 public enum PenType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | SolidColor | `0` | Katı bir dolgu belirtir. |
-| HatchFill | `1` | Tarama dolgusunu belirtir. |
-| TextureFill | `2` | Bir bitmap doku dolgusu belirtir. |
-| PathGradient | `3` | Bir yol gradyan dolgusu belirtir. |
-| LinearGradient | `4` | Doğrusal bir degrade dolgu belirtir. |
+| HatchFill | `1` | Çizgili bir dolgu belirtir. |
+| TextureFill | `2` | Bitmap doku dolgusunu belirtir. |
+| PathGradient | `3` | Yol gradyan dolgusunu belirtir. |
+| LinearGradient | `4` | Doğrusal gradyan dolgusunu belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

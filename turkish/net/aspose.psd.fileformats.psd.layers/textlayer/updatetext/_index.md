@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer yöntem. Metni günceller.
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer yöntemi. Metni günceller"
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 Metni günceller.
@@ -14,15 +15,15 @@ Metni günceller.
 public void UpdateText(string text)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
+| metin | String | Metin değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ Metni günceller.
 public void UpdateText(string text, float fontSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
-| fontSize | Single | Yazı tipinin boyutu. |
+| metin | String | Metin değeri. |
+| fontSize | Single | Yazı tipi boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -55,17 +56,17 @@ Metni günceller.
 public void UpdateText(string text, Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
-| color | Color | Renk değeri. |
+| metin | String | Metin değeri. |
+| renk | Renk | Renk değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,18 +78,18 @@ Metni günceller.
 public void UpdateText(string text, float fontSize, Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
-| fontSize | Single | Yazı tipinin boyutu. |
-| color | Color | Renk değeri. |
+| metin | String | Metin değeri. |
+| fontSize | Single | Yazı tipi boyutu. |
+| renk | Renk | Renk değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -100,18 +101,18 @@ Metni günceller.
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
+| metin | String | Metin değeri. |
 | leftTopCoordinate | Point | Sol üst koordinat. |
-| fontSize | Single | Yazı tipinin boyutu. |
+| fontSize | Single | Yazı tipi boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -123,19 +124,19 @@ Metni günceller.
 public void UpdateText(string text, Point leftTopCoordinate, Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
+| metin | String | Metin değeri. |
 | leftTopCoordinate | Point | Sol üst koordinat. |
-| color | Color | Renk değeri. |
+| renk | Renk | Renk değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -147,17 +148,17 @@ Metni günceller.
 public void UpdateText(string text, Point leftTopCoordinate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
+| metin | String | Metin değeri. |
 | leftTopCoordinate | Point | Sol üst koordinat. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -169,19 +170,19 @@ Metni günceller.
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin değeri. |
+| metin | String | Metin değeri. |
 | leftTopCoordinate | Point | Sol üst koordinat. |
-| fontSize | Single | Yazı tipinin boyutu. |
-| color | Color | Renk değeri. |
+| fontSize | Single | Yazı tipi boyutu. |
+| renk | Renk | Renk değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSelectionIdsResource mülk. Sayıyı alır veya ayarlar.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSelectionIdsResource özelliği. Sayıyı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
-Sayıyı alır veya ayarlar.
+Sayacı alır veya ayarlar.
 
 ```csharp
 public short Count { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerSelectionIdsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

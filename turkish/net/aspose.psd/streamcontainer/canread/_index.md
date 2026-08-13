@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanRead
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer mülk. Akışın okumayı destekleyip desteklemediğini gösteren bir değer alır.
+title: "StreamContainer.CanRead"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer özelliği. Akışın okuma desteği olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/streamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanRead property
 
-Akışın okumayı destekleyip desteklemediğini gösteren bir değer alır.
+Akışın okuma desteği olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public virtual bool CanRead { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` akış okumayı destekliyorsa; aksi takdirde,`YANLIŞ`.
+`true` eğer akış okuma destekliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

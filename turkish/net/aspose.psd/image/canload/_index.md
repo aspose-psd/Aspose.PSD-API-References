@@ -1,11 +1,12 @@
 ---
-title: Image.CanLoad
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Görüntünün belirtilen dosya yolundan yüklenip yüklenemeyeceğini belirler.
+title: "Image.CanLoad"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Belirtilen dosya yolundan görüntünün yüklenip yüklenemeyeceğini belirler"
 type: docs
-weight: 250
+weight: 260
 url: /tr/net/aspose.psd/image/canload/
 ---
+{{< psd/tize >}}
 ## CanLoad(string) {#canload_2}
 
 Görüntünün belirtilen dosya yolundan yüklenip yüklenemeyeceğini belirler.
@@ -14,19 +15,19 @@ Görüntünün belirtilen dosya yolundan yüklenip yüklenemeyeceğini belirler.
 public static bool CanLoad(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` resim belirtilen dosyadan yüklenebiliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü belirtilen dosyadan yüklenebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,21 +39,21 @@ Görüntünün belirtilen dosya yolundan ve isteğe bağlı olarak belirtilen a�
 public static bool CanLoad(string filePath, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` resim belirtilen dosyadan yüklenebiliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü belirtilen dosyadan yüklenebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -64,44 +65,44 @@ Görüntünün belirtilen akıştan yüklenip yüklenemeyeceğini belirler.
 public static bool CanLoad(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Yüklenecek akış. |
+| stream | Stream | Yükleme yapılacak akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` resim belirtilen akıştan yüklenebiliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü belirtilen akıştan yüklenebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream, LoadOptions) {#canload_1}
 
-Görüntünün belirtilen akıştan ve isteğe bağlı olarak belirtilen akıştan yüklenip yüklenemeyeceğini belirler.*loadOptions* .
+Görüntünün belirtilen akıştan ve isteğe bağlı olarak belirtilen *loadOptions* kullanılarak yüklenip yüklenemeyeceğini belirler.
 
 ```csharp
 public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Yüklenecek akış. |
+| stream | Stream | Yükleme yapılacak akış. |
 | loadOptions | LoadOptions | Yükleme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` resim belirtilen akıştan yüklenebiliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü belirtilen akıştan yüklenebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

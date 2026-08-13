@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Karışım modunu alır veya ayarlar.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Karışım modunu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
 Karışım modunu alır veya ayarlar.
@@ -14,11 +15,11 @@ Karışım modunu alır veya ayarlar.
 public BlendMode BlendMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Karışım modu.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. a döndürürString bu örneği temsil eder.
+title: "Matrix.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix yöntemi. Bu örneği temsil eden bir String döndürür."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

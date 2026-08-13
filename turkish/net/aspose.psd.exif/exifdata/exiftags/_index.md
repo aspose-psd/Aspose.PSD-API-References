@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExifTags
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Yalnızca EXIF bölümüne ait etiketleri alır veya ayarlar.
+title: "ExifData.ExifTags"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Yalnızca EXIF bölümüne ait etiketleri alır veya ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.exif/exifdata/exiftags/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifTags property
 
 Yalnızca EXIF bölümüne ait etiketleri alır veya ayarlar.
@@ -14,15 +15,15 @@ Yalnızca EXIF bölümüne ait etiketleri alır veya ayarlar.
 public TiffDataType[] ExifTags { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-EXIF bölümü etiketleri.
+EXIF bölüm etiketleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions sınıf. Küçük dikdörtgen filtre seçenekleri
+title: "Sınıf SmallRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions sınıfı. Küçük dikdörtgen filtre seçenekleri"
 type: docs
-weight: 4750
+weight: 5250
 url: /tr/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
 Küçük dikdörtgen filtre seçenekleri
@@ -14,16 +15,16 @@ Küçük dikdörtgen filtre seçenekleri
 public class SmallRectangularFilterOptions : FilterOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Default_Constructor |
+| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Varsayılan yapıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

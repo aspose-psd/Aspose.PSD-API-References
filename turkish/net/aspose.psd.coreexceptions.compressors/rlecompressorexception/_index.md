@@ -1,30 +1,31 @@
 ---
-title: Class RleCompressorException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.Compressors.RleCompressorException sınıf. rle sıkıştırıcı istisnası.
+title: "Sınıf RleCompressorException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.Compressors.RleCompressorException sınıfı. rle sıkıştırıcı istisnası"
 type: docs
 weight: 460
 url: /tr/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException class
 
-rle sıkıştırıcı istisnası.
+RLE sıkıştırıcı istisnası.
 
 ```csharp
 public class RleCompressorException : CompressorException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RleCompressorException](rlecompressorexception/#constructor)(string) | Yeni bir örneğini başlatır.`RleCompressorException` sınıf. |
-| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`RleCompressorException` sınıf. |
+| [RleCompressorException](rlecompressorexception/#constructor)(string) | `RleCompressorException` sınıfının yeni bir örneğini başlatır. |
+| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | `RleCompressorException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.FilterId
-second_title: Aspose.PSD for .NET API Referansı
-description: AddNoiseSmartFilter mülk. Akıllı filtre türü tanımlayıcısını alır.
+title: "AddNoiseSmartFilter.FilterId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AddNoiseSmartFilter özelliği. Akıllı filtre türü tanımlayıcısını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterId property
 
 Akıllı filtre türü tanımlayıcısını alır.
@@ -14,10 +15,10 @@ Akıllı filtre türü tanımlayıcısını alır.
 public override int FilterId { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AddNoiseSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

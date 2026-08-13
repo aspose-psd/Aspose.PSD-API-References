@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Equality
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF yöntem. İkiyi karşılaştırırPointF yapılar. Sonuç değerlerinin olup olmadığını belirtir.X VeY ikisinin özellikleriPointF yapılar eşittir.
+title: "PointF.op_Equality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF yöntemi. İki PointF yapısını karşılaştırır. Sonuç, iki PointF yapısının X ve Y özelliklerinin değerlerinin eşit olup olmadığını belirtir."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-İkiyi karşılaştırır[`PointF`](../) yapılar. Sonuç, değerlerinin olup olmadığını belirtir.[`X`](../x/) Ve[`Y`](../y/) ikisinin özellikleri[`PointF`](../) yapılar eşittir.
+İki [`PointF`](../) yapısını karşılaştırır. Sonuç, iki [`PointF`](../) yapısının [`X`](../x/) ve [`Y`](../y/) özelliklerinin değerlerinin eşit olup olmadığını belirtir.
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | PointF | bir ilk[`PointF`](../) karşılaştırmak. |
-| point2 | PointF | Bir saniye[`PointF`](../) karşılaştırmak. |
+| point1 | PointF | Karşılaştırmak için birinci [`PointF`](../). |
+| point2 | PointF | Karşılaştırmak için ikinci [`PointF`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise[`X`](../x/) Ve[`Y`](../y/) birinci ve ikinci değerleri[`PointF`](../) yapılar eşittir; Aksi takdirde, yanlış.
+İlk ve ikinci [`PointF`](../) yapıların [`X`](../x/) ve [`Y`](../y/) değerleri eşitse doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

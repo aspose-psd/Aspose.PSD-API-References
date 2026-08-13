@@ -1,32 +1,33 @@
 ---
-title: Size.op_Subtraction
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. Birinin genişliğini ve yüksekliğini çıkarırSize diğerinin genişliğinden ve yüksekliğinden yapıSizeyapı.
+title: "Size.op_Subtraction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. Bir Size yapısının genişlik ve yüksekliğini, başka bir Size yapısının genişlik ve yüksekliğinden çıkarır."
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/size/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Size Subtraction operator
 
-Birinin genişliğini ve yüksekliğini çıkarır[`Size`](../) diğerinin genişliğinden ve yüksekliğinden yapı[`Size`](../)yapı.
+Bir [`Size`](../) yapısının genişlik ve yüksekliğini, başka bir [`Size`](../) yapısının genişlik ve yüksekliğinden çıkarır.
 
 ```csharp
 public static Size operator -(Size size1, Size size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | Size | bu[`Size`](../) çıkarma operatörünün sol tarafındaki yapı. |
-| size2 | Size | bu[`Size`](../) çıkarma operatörünün sağ tarafındaki yapı. |
+| size1 | Size | Çıkarma operatörünün sol tarafındaki [`Size`](../) yapısı. |
+| size2 | Size | Çıkarma operatörünün sağ tarafındaki [`Size`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`Size`](../) çıkarma işleminin sonucu olan yapıdır.
+Çıkarma işleminin sonucu olan bir [`Size`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

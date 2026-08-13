@@ -1,11 +1,12 @@
 ---
-title: BritResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: BritResource alan. Tip aracı bilgi anahtarı.
+title: "BritResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BritResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 90
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BritResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BritResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

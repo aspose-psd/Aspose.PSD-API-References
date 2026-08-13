@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerBlendingRangesData mülk. Katman karıştırma aralıkları verilerinin uzunluğunu bayt cinsinden alır.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerBlendingRangesData özelliği. Katman karıştırma aralıkları verisinin bayt cinsinden uzunluğunu alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-Katman karıştırma aralıkları verilerinin uzunluğunu bayt cinsinden alır.
+Katman karıştırma aralıkları verisinin uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katman karıştırma aralığı verilerinin uzunluğu.
+Katman karıştırma aralıkları verisinin uzunluğu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerBlendingRangesData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

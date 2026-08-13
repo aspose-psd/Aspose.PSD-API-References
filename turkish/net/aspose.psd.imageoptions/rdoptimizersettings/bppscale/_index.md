@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings mülk. BPP piksel başına bit ölçek faktörünü alır veya ayarlar.
+title: "RdOptimizerSettings.BppScale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings property. BPP piksel başına bit ölçek faktörünü alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
-BPP (piksel başına bit) ölçek faktörünü alır veya ayarlar.
+Alır veya ayarlar BPP (piksel başına bit) ölçek faktörünü.
 
 ```csharp
 public int BppScale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 BPP ölçeği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

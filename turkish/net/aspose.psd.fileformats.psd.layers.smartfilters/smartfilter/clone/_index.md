@@ -1,27 +1,28 @@
 ---
-title: SmartFilter.Clone
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilter yöntem. Type. türünün mevcut örneğinin üye bazında klonunu oluşturur.
+title: "SmartFilter.Clone"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilter yöntemi. Tipin mevcut örneğinin üye bazlı klonunu oluşturur"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Clone method
 
-Type. türünün mevcut örneğinin üye bazında klonunu oluşturur.
+Türün geçerli örneğinin üye bazlı klonunu oluşturur.
 
 ```csharp
 public SmartFilter Clone()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Türün geçerli örneğinin üyelere göre klonunu döndürür.
+Tipin mevcut örneğinin üye bazlı klonunu döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

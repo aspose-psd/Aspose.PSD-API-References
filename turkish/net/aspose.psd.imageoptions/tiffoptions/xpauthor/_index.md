@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Windows Gezgini tarafından kullanılan görüntü yazarını alır veya ayarlar.
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Windows Explorer tarafından kullanılan görüntü yazarını alır veya ayarlar"
 type: docs
-weight: 590
+weight: 600
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-Windows Gezgini tarafından kullanılan görüntü yazarını alır veya ayarlar.
+Görüntü yazarını alır veya ayarlar, Windows Explorer tarafından kullanılır.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Windows Gezgini tarafından kullanılan Görüntü Yazarı. `XPAuthor` Windows Gezgini tarafından yoksayılırsa[`Artist`](../artist/) etiketi var.
+Görüntü Yazarı, Windows Explorer tarafından kullanılır. `XPAuthor`, [`Artist`](../artist/) etiketi mevcutsa Windows Explorer tarafından yok sayılır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

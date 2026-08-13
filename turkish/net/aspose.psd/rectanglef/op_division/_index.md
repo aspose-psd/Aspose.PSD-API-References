@@ -1,38 +1,39 @@
 ---
-title: RectangleF.op_Division
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. /. operatörünü uygular
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. / operatörünü uygular."
 type: docs
 weight: 260
 url: /tr/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
-/. operatörünü uygular
+/ operatörünü uygular.
 
 ```csharp
 public static RectangleF operator /(RectangleF rectangle, float divider)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | dikdörtgen. |
-| divider | Single | Ayırıcı. |
+| dikdörtgen | RectangleF | Dikdörtgen. |
+| bölen | Single | Bölen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Operatörün sonucu.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | bölücü - Sıfıra bölmeye izin verilmez. |
+| ArgumentOutOfRangeException | bölen - Sıfıra bölme izin verilmez. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

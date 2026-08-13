@@ -1,23 +1,24 @@
 ---
-title: ShmdResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: ShmdResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "ShmdResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ShmdResource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShmdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

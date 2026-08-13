@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.CreateFirstSupportedCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageCreatorsRegistry yöntem. Belirtilene uygun bulunan ilk yaratıcıyı oluşturur.
+title: "ImageCreatorsRegistry.CreateFirstSupportedCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageCreatorsRegistry metodu. Belirtilen için uygun bulunan ilk oluşturucuyu oluşturur"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.CreateFirstSupportedCreator method
 
-Belirtilene uygun bulunan ilk yaratıcıyı oluşturur.
+Belirtilen için uygun olan ilk bulunan oluşturucuyu oluşturur.
 
 ```csharp
 public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Görüntü seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtileni destekleyen oluşturucu veya böyle bir oluşturucu bulunamazsa null.
+Belirtileni destekleyen oluşturucu ya da böyle bir oluşturucu bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
-İlk yaratıcı aslında son kaydedilen olacaktır.
+İlk oluşturucu aslında son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* ad alanı [Aspose.PSD](../../imagecreatorsregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

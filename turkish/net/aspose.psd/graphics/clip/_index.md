@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clip
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Klip bölgesini alır veya ayarlar.
+title: "Graphics.Clip"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Kırpma bölgesini alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
-Klip bölgesini alır veya ayarlar.
+Kırpma bölgesini alır veya ayarlar.
 
 ```csharp
 public Region Clip { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Klip bölgesi.
+Kırpma bölgesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

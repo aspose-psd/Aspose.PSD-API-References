@@ -1,23 +1,24 @@
 ---
-title: PsdImage.Grayscale
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Bir görüntünün gri tonlamalı gösterimine dönüştürülmesi
+title: "PsdImage.Grayscale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage metodu. Bir görüntünün gri tonlamalı temsiline dönüştürülmesi"
 type: docs
-weight: 550
+weight: 610
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
-Bir görüntünün gri tonlamalı gösterimine dönüştürülmesi
+Bir görüntünün gri tonlamalı temsiline dönüşümü
 
 ```csharp
 public override void Grayscale()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

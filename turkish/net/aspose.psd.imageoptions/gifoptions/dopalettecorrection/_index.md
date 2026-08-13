@@ -1,31 +1,32 @@
 ---
-title: GifOptions.DoPaletteCorrection
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. Palet düzeltmesinin uygulanıp uygulanmadığını gösteren bir değer alır veya ayarlar.
+title: "GifOptions.DoPaletteCorrection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. Palet düzeltmesinin uygulanıp uygulanmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 ---
+{{< psd/tize >}}
 ## GifOptions.DoPaletteCorrection property
 
-Palet düzeltmesinin uygulanıp uygulanmadığını gösteren bir değer alır veya ayarlar.
+Palet düzeltmesinin uygulanıp uygulanmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool DoPaletteCorrection { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` palet düzeltmesi uygulanmışsa; aksi takdirde,`YANLIŞ` .
+`true` palet düzeltmesi uygulanıyorsa; aksi takdirde `false`.
 
-### Notlar
+## Açıklamalar
 
-Palet düzeltmesi, resim GIF'e her aktarıldığında, en iyi eşleşen paleti oluşturmak için kaynak resim renklerinin analiz edileceği anlamına gelir (görüntü Paletinin olmaması veya seçeneklerde belirtilmemesi durumunda). Analiz işlemi biraz zaman alır, ancak çıktı görüntüsü en iyi eşleşen renk paletine sahip olacak ve sonuç görsel olarak daha iyi olacaktır.
+Palet düzeltmesi, görüntü GIF olarak dışa aktarıldığında kaynak görüntünün renklerinin en uygun paleti oluşturmak üzere analiz edileceği anlamına gelir (görüntü Palette mevcut değilse veya seçeneklerde belirtilmemişse). Analiz süreci biraz zaman alır, ancak çıktı görüntüsü en uygun renk paletine sahip olur ve sonuç görsel olarak daha iyidir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

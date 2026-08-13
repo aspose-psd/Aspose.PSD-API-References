@@ -1,46 +1,49 @@
 ---
-title: Class FontSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FontSettings sınıf. Genel PSD vektör biçimleri oluşturucu yazı tipi ayarları.
+title: "Class FontSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FontSettings sınıfı. Genel PSD vektör formatları renderleyicisi yazı tipi ayarları"
 type: docs
-weight: 4290
+weight: 4790
 url: /tr/net/aspose.psd/fontsettings/
 ---
+{{< psd/tize >}}
 ## FontSettings class
 
-Genel PSD vektör biçimleri oluşturucu yazı tipi ayarları.
+Genel PSD vektör formatları renderleyicisi yazı tipi ayarları.
 
 ```csharp
 public static class FontSettings
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [DefaultFontName](../../aspose.psd/fontsettings/defaultfontname/) { get; set; } | Yazı tipinin varsayılan adını alır veya ayarlar. |
+| static [GetSystemAlternativeFont](../../aspose.psd/fontsettings/getsystemalternativefont/) { get; set; } | Bir değeri alır veya ayarlar; bu değer [get alternative font] olup olmadığını gösterir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [ClearFontReplacements](../../aspose.psd/fontsettings/clearfontreplacements/)() | Tüm yazı tipi değişikliklerini temizler |
-| static [GetAdobeFontName](../../aspose.psd/fontsettings/getadobefontname/)(string) | Yazı tipi aile adına göre adobe yazı tipi adını alır. |
+| static [GetAdobeFontName](../../aspose.psd/fontsettings/getadobefontname/)(string) | Yazı tipi ailesi adına göre Adobe yazı tipi adını alır. |
 | static [GetDefaultFontsFolders](../../aspose.psd/fontsettings/getdefaultfontsfolders/)() | Varsayılan yazı tipi klasörlerini alır. |
-| static [GetFontReplacements](../../aspose.psd/fontsettings/getfontreplacements/)(string) | Yazı tipi değiştirme dizisini yazı tipi adına göre alır |
-| static [GetFontsFolders](../../aspose.psd/fontsettings/getfontsfolders/)() | Aspose.Words'ün TrueType yazı tiplerini aradığı klasörlerin listesini içeren dizinin bir kopyasını alır. |
-| static [GetReplacementFont](../../aspose.psd/fontsettings/getreplacementfont/)(string) | En uygun değiştirme yazı tipini alır. Tüm değişikliklere izin verilmezse, izin verilen ve kullanılabilir ilk yazı tipi döndürülür. Kullanılabilir yazı tipi yoksa, argüman 'den yazı tipi döndürülür |
-| static [IsFontAllowed](../../aspose.psd/fontsettings/isfontallowed/)(string) | [Yazı tipine izin verilip verilmediğini] [belirtilen yazı tipi adının] olup olmadığını belirler. |
-| static [Reset](../../aspose.psd/fontsettings/reset/)() | Yazı tipleri klasörünü ve varsayılan yazı tipi adını sistem varsayılanına sıfırlar. |
-| static [SetAllowedFonts](../../aspose.psd/fontsettings/setallowedfonts/)(string[]) | Yazı tipi kullanımını yazı tipi listesine göre kısıtlar. Lütfen,strictrions öğesini kaldırmak için,strict İzin Verilen yazı tipi listesini Null olarak ayarlamadan önce gerçek yazı tipi adlarını kontrol edin. |
-| static [SetFontReplacements](../../aspose.psd/fontsettings/setfontreplacements/)(string, string[]) | Yazı tipi değiştirme listesini ayarlar. Yazı tipine izin verilmiyorsa, yenisi bulunacaktır. Listedeki ilk yazı tipi önce kullanılacaktır. O da kısıtlanırsa, listedeki bir sonraki yazı tipi seçilir. Yazı tipinde değişiklik yoksa veya tüm değişikliklere izin verilmezse, izin verilen yazı tipi listesinden ilk izin verilen yazı tipi kullanılır. İzin verilen ve kullanılabilir yazı tipi yoksa, kitaplık izin verilmese bile sistem varsayılan yazı tipini kullanmayı deneyin. |
-| static [SetFontsFolder](../../aspose.psd/fontsettings/setfontsfolder/)(string) | Bu kısayol[`SetFontsFolders`](./setfontsfolders/) yalnızca bir yazı tipi dizini ayarlamak için. Yazı tipleri klasöründe hiçbir kontrol yapılmadı. |
-| static [SetFontsFolders](../../aspose.psd/fontsettings/setfontsfolders/)(string[], bool) | TrueType yazı tiplerinin yüklendiği klasörleri ayarlar ve yüklenen tüm yazı tiplerini temizler. Yazı tipi klasörlerinde hiçbir kontrol yapılmaz. |
-| static [UpdateFonts](../../aspose.psd/fontsettings/updatefonts/)() | Metin katmanları içeren PSD dosyaları için yazı tipi önbelleğini günceller. Bu yöntem, FontSettings.SetFontsFolder(fontsFolder) yöntemini kullanan fontsFolder klasöründeki yazı tiplerinin veya FontSettings.Reset() kullanan sıfırlama yazı tiplerinin PSD dosyalarını işlerken dikkate alınacağını garanti eder. PSD görüntüleri için FontSettings.SetFontsFolder(fontsFolder) veya FontSettings.Reset() her çağrıldığında lütfen bu yöntemi kullanın. Bu Yöntemi çağırmadan yazı tiplerinin güncelleneceğinin garantisi yoktur. |
+| static [GetFontReplacements](../../aspose.psd/fontsettings/getfontreplacements/)(string) | Yazı tipi adına göre yazı tipi değişiklikleri dizisini alır |
+| static [GetFontsFolders](../../aspose.psd/fontsettings/getfontsfolders/)() | Aspose.Words'ün TrueType yazı tiplerini aradığı klasör listesini içeren dizinin bir kopyasını alır. |
+| static [GetReplacementFont](../../aspose.psd/fontsettings/getreplacementfont/)(string) | En uygun yedek yazı tipini alır. Tüm yedekler izin verilmiyorsa, ilk izin verilen ve mevcut yazı tipi döndürülür. Eğer mevcut yazı tipi yoksa, argümandan gelen yazı tipi döndürülür. |
+| static [IsFontAllowed](../../aspose.psd/fontsettings/isfontallowed/)(string) | Belirtilen yazı tipi adının [is font allowed] olup olmadığını belirler. |
+| static [RemoveFontCacheFile](../../aspose.psd/fontsettings/removefontcachefile/)() | Yazı tipi önbellek dosyasını kaldırır. |
+| static [Reset](../../aspose.psd/fontsettings/reset/)() | Yazı tipi klasörünü ve varsayılan yazı tipi adını sistem varsayılanına sıfırlar. |
+| static [SetAllowedFonts](../../aspose.psd/fontsettings/setallowedfonts/)(string[]) | Yazı tiplerini bir yazı tipi listesiyle kısıtlar. Kısıtlama öncesinde gerçek yazı tipi adlarını kontrol edin. Kısıtlamaları kaldırmak için İzinli yazı tipi listesini Null olarak ayarlayın. |
+| static [SetFontReplacements](../../aspose.psd/fontsettings/setfontreplacements/)(string, string[]) | Yazı tipi yedekleme listesini ayarlar. Yazı tipi izin verilmiyorsa bir yedek bulunur. Listedeki ilk yazı tipi ilk olarak kullanılır. Eğer o da kısıtlanmışsa, listedeki bir sonraki yazı tipi seçilir. Yazı tipinin yedekleri yoksa veya tüm yedekler izin verilmiyorsa, izinli yazı tipi listesinden ilk izin verilen yazı tipi kullanılır. Eğer izinli ve mevcut yazı tipi yoksa, kütüphane izinli olmasa bile sistem varsayılan yazı tipini kullanmaya çalışır. |
+| static [SetFontsFolder](../../aspose.psd/fontsettings/setfontsfolder/)(string) | Bu, yalnızca bir yazı tipi dizini ayarlamak için [`SetFontsFolders`](./setfontsfolders/) kısayoludur. Yazı tipi klasöründe hiçbir kontrol yapılmaz. |
+| static [SetFontsFolders](../../aspose.psd/fontsettings/setfontsfolders/)(string[], bool) | TrueType yazı tiplerinin yüklendiği klasörleri ayarlar ve tüm yüklü yazı tiplerini temizler. Yazı tipi klasörlerinde hiçbir kontrol yapılmaz. |
+| static [UpdateFonts](../../aspose.psd/fontsettings/updatefonts/)() | Metin katmanları içeren PSD dosyaları için yazı tipi önbelleğini günceller. Bu yöntem, FontSettings.SetFontsFolder(fontsFolder) yöntemiyle fontsFolder klasöründen gelen yazı tiplerinin veya FontSettings.Reset() ile sıfırlandıktan sonra yazı tiplerinin PSD dosyaları işlenirken dikkate alınmasını garanti eder. Lütfen bu yöntemi, PSD görüntüleri için FontSettings.SetFontsFolder(fontsFolder) veya FontSettings.Reset() her çağrıldığında kullanın. Bu yöntem çağrılmadan yazı tiplerinin güncelleneceği garantilenmez. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

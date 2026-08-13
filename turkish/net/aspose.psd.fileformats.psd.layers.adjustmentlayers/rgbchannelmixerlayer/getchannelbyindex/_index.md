@@ -1,38 +1,39 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: RgbChannelMixerLayer yöntem. tarafından kanalın indeksini alır. RgbMixerChannel döndürür
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RgbChannelMixerLayer yöntemi. Kanalın indeksini alır. RgbMixerChannel döndürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
-tarafından kanalın indeksini alır. RgbMixerChannel döndürür
+Kanalın indeksini alır. RgbMixerChannel döndürür.
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | İçerik. |
+| index | Int32 | İndeks. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 [`RgbMixerChannel`](../../rgbmixerchannel/)
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer'da en fazla 3 kanal bulunur. İlk kanalın indeksi 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer en fazla 3 kanal içerir. İlk kanalın indeksi 0'dır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

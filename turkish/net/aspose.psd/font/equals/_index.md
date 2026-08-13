@@ -1,31 +1,32 @@
 ---
-title: Font.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: Font yöntem. Belirtilen nesnenin birFont ve bununla aynı özellik değerlerine sahipFont .
+title: "Font.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font yöntemi. Belirtilen nesnenin bir Font olup olmadığını ve bu Font ile aynı özellik değerlerine sahip olup olmadığını gösterir"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/font/equals/
 ---
+{{< psd/tize >}}
 ## Font.Equals method
 
-Belirtilen nesnenin bir[`Font`](../) ve bununla aynı özellik değerlerine sahip[`Font`](../) .
+Belirtilen nesnenin bir [`Font`](../) olup olmadığını ve bu [`Font`](../) ile aynı özellik değerlerine sahip olup olmadığını gösterir.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | Test edilecek nesne. |
+| obj | Nesne | Test edilecek nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise*obj* parametre bir[`Font`](../) ve bununla aynı özellik değerlerine sahip[`Font`](../); Aksi takdirde, yanlış.
+*obj* parametresi bir [`Font`](../) ise ve bu [`Font`](../) ile aynı özellik değerlerine sahipse doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

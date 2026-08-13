@@ -1,34 +1,35 @@
 ---
-title: LinkResource.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkResource mülk. Şunu alırLinkDataSource bağlantı veri kaynağı benzersiz tanımlayıcısı olan belirtilen dizinde..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkResource özelliği. Belirtilen indeksdeki LinkDataSource'ı alır; bu, bağlantı veri kaynağının benzersiz tanımlayıcısıdır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-Şunu alır:[`LinkDataSource`](../../linkdatasource/) bağlantı veri kaynağı benzersiz tanımlayıcısı olan belirtilen dizinde..
+Belirtilen indeksdeki [`LinkDataSource`](../../linkdatasource/) öğesini alır; bu, bağlantı veri kaynağının benzersiz tanımlayıcısıdır..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| index | Bağlantı veri kaynağı benzersiz tanımlayıcısı olarak dizin. |
+| index | İndeks, bağlantı veri kaynağının benzersiz tanımlayıcısıdır. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-[`LinkDataSource`](../../linkdatasource/) örnek.
+[`LinkDataSource`](../../linkdatasource/) örneği.
 
-### Mülk değeri
+### Property Value
 
-[`LinkDataSource`](../../linkdatasource/) .
+[`LinkDataSource`](../../linkdatasource/).
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Katıştırılmış Akıllı nesnelerin desteğini gösterir.
+Aşağıdaki kod, Gömülü Akıllı nesnelerin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Bu örnek, PSD dosyasındaki akıllı nesne katmanının nasıl değiştirileceğini ve akıllı nesne orijinal katıştırılmış içeriğinin nasıl dışa aktarılacağını / güncelleneceğini gösterir.
+// Bu örnek, PSD dosyasındaki akıllı nesne katmanını nasıl değiştireceğinizi ve akıllı nesnenin orijinal gömülü içeriğini dışa aktarma / güncelleme işlemini gösterir.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         // Gömülü akıllı nesne görüntüsünü PSD akıllı nesne katmanından dışa aktaralım
         smartObjectLayer.ExportContents(exportPath);
 
-        // Orijinal görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Orijinal görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Orijinal akıllı nesne görüntüsünü tersine çevirelim
+            // Orijinal akıllı nesne görüntüsünü ters çevirelim
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,22 +93,22 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Gömülü akıllı nesne görüntüsünü PSD katmanında değiştirelim
+            // PSD katmanındaki gömülü akıllı nesne görüntüsünü değiştirelim
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Güncellenen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Güncellenen görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

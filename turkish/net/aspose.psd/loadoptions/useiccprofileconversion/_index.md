@@ -1,23 +1,25 @@
 ---
-title: LoadOptions.UseIccProfileConversion
-second_title: Aspose.PSD for .NET API Referansı
-description: LoadOptions mülk. ICC profil dönüştürmesinin uygulanıp uygulanmayacağını belirten bir değer alır veya ayarlar.
+title: "LoadOptions.UseIccProfileConversion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LoadOptions özelliği. ICC profil dönüşümünün uygulanıp uygulanmayacağını gösteren bir değeri alır veya ayarlar."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/loadoptions/useiccprofileconversion/
 ---
+{{< psd/tize >}}
 ## LoadOptions.UseIccProfileConversion property
 
-ICC profil dönüştürmesinin uygulanıp uygulanmayacağını belirten bir değer alır veya ayarlar.
+ICC profil dönüşümünün uygulanıp uygulanmayacağını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
+[Obsolete("ICC profile conversion will be used by default and this property will be removed.")]
 public bool UseIccProfileConversion { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LoadOptions](../)
-* ad alanı [Aspose.PSD](../../loadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

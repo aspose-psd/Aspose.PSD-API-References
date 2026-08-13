@@ -1,20 +1,21 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur stili çizgi hizalamasını alır veya ayarlar.
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Stroke stili satır hizalamasını alır veya ayarlar"
 type: docs
-weight: 100
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
-Kontur stili çizgi hizalamasını alır veya ayarlar.
+Çizgi stilinin satır hizalamasını alır veya ayarlar.
 
 ```csharp
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, VstkResource kaynağının desteğini gösterir.
 
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

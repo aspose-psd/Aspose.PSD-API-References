@@ -1,33 +1,34 @@
 ---
-title: XmpChoise1.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpChoise yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "XmpChoise1.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpChoise yöntemi. XMP formatındaki içerilen dize değerini alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 XMP formatında içerilen dize değerini döndürür.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | NotImplementedException |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpChoise&lt;T&gt;](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

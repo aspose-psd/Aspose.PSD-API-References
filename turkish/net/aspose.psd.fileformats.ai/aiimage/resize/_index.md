@@ -1,11 +1,12 @@
 ---
-title: AiImage.Resize
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage yöntem. Görüntüyü yeniden boyutlandırır.
+title: "AiImage.Resize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage yöntemi. Görüntüyü yeniden boyutlandırır"
 type: docs
-weight: 150
+weight: 180
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Görüntüyü yeniden boyutlandırır.
@@ -14,24 +15,24 @@ Görüntüyü yeniden boyutlandırır.
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 | newHeight | Int32 | Yeni yükseklik. |
 | resizeType | ResizeType | Yeniden boyutlandırma türü. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | NotImplementedException | &gt;Uygulanmadı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ Görüntüyü yeniden boyutlandırır.
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 | newHeight | Int32 | Yeni yükseklik. |
-| settings | ImageResizeSettings | Yeniden boyutlandırma ayarları. |
+| ayarlar | ImageResizeSettings | Yeniden boyutlandırma ayarları. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | NotImplementedException | &gt;Uygulanmadı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

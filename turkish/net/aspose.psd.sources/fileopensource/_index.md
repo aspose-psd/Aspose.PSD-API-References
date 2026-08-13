@@ -1,42 +1,43 @@
 ---
-title: Class FileOpenSource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Sources.FileOpenSource sınıf. Açılış için bir dosya kaynağını temsil eder.
+title: "Sınıf FileOpenSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Sources.FileOpenSource sınıfı. Açma için bir dosya kaynağını temsil eder"
 type: docs
-weight: 5600
+weight: 6130
 url: /tr/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-Açılış için bir dosya kaynağını temsil eder.
+Açma için bir dosya kaynağını temsil eder.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | Yeni bir örneğini başlatır.`FileOpenSource` sınıf. |
+| [FileOpenSource](fileopensource/)(string) | `FileOpenSource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Açılacak dosya yolunu alır. |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Dosyanın geçici olup olmayacağını gösteren bir değer alır. |
+| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Açmak için dosya yolunu alır. |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Dosyanın geçici olup olmayacağını gösteren bir değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | Akış kapsayıcısını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileSource](../filesource/)
-* ad alanı [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

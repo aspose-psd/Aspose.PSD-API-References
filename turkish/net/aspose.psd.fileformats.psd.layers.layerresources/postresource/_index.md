@@ -1,53 +1,81 @@
 ---
-title: Class PostResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource sınıf. Sınıf Kaynak Sonrası. Posterleştirme katmanı ayarları.
+title: "PostResource sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource sınıfı. PostResource sınıfı. Posterize katman ayarları"
 type: docs
-weight: 2950
+weight: 3300
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/
 ---
+{{< psd/tize >}}
 ## PostResource class
 
-Sınıf Kaynak Sonrası. Posterleştirme katmanı ayarları.
+Sınıf PostResource. Posterize katman ayarları.
 
 ```csharp
 public class PostResource : AdjustmentLayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PostResource](postresource/)() | Default_Constructor |
+| [PostResource](postresource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| [Levels](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/) { get; set; } | Posterleştirme katmanının seviyeleri. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| [Levels](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/) { get; set; } | Posterize katmanının seviyeleri. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+## Örnekler
+
+Aşağıdaki kod, PostResource'ın manipülasyon yeteneğini gösterir.
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
+
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

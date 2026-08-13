@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb16Bpp555
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Şunu alırPixelDataFormat kırmızı yeşil ve mavinin her biri için 5 bit olmak üzere piksel başına 16 bit için tanımlı alfa tanımlı değil.
+title: "PixelDataFormat.Rgb16Bpp555"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. 16 bit piksel başına tanımlanan ve kırmızı, yeşil ve mavi için her biri 5 bit olan, alfa tanımlı olmayan PixelDataFormat'ı alır."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/pixeldataformat/rgb16bpp555/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb16Bpp555 property
 
-Şunu alır:[`PixelDataFormat`](../) kırmızı, yeşil ve mavinin her biri için 5 bit olmak üzere piksel başına 16 bit için tanımlı, alfa tanımlı değil.
+16 bit piksel başına tanımlanan ve kırmızı, yeşil ve mavi için her biri 5 bit olan, alfa tanımlı olmayan [`PixelDataFormat`](../) alır.
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp555 { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`PixelDataFormat`](../) kırmızı, yeşil ve mavinin her biri için 5 bit olmak üzere piksel başına 16 bit için tanımlı, alfa tanımlı değil.
+16 bit piksel başına tanımlanan ve kırmızı, yeşil ve mavi için her biri 5 bit olan, alfa tanımlı olmayan [`PixelDataFormat`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

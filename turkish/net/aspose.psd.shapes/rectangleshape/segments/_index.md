@@ -1,11 +1,12 @@
 ---
-title: RectangleShape.Segments
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleShape mülk. Şekil segmentlerini alır.
+title: "RectangleShape.Segments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleShape özelliği. Şeklin segmentlerini alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.shapes/rectangleshape/segments/
 ---
+{{< psd/tize >}}
 ## RectangleShape.Segments property
 
 Şekil segmentlerini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/rectangleshape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şekil segmentleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [RectangleShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

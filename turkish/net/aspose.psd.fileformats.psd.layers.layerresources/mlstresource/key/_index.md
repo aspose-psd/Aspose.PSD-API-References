@@ -1,23 +1,24 @@
 ---
-title: MlstResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: MlstResource mülk. Katman kaynak anahtarını alır.
+title: "MlstResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MlstResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/
 ---
+{{< psd/tize >}}
 ## MlstResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MlstResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

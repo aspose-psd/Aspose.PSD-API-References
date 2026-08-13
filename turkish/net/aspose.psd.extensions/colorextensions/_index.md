@@ -1,11 +1,12 @@
 ---
-title: Class ColorExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.ColorExtensions sınıf. Color uzantı yöntemleri.
+title: "Sınıf ColorExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.ColorExtensions sınıfı. Color uzantı yöntemleri."
 type: docs
-weight: 1050
+weight: 1060
 url: /tr/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
 [`Color`](../../aspose.psd/color/) uzantı yöntemleri.
@@ -14,16 +15,16 @@ url: /tr/net/aspose.psd.extensions/colorextensions/
 public static class ColorExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | dönüştürür[`Color`](../../aspose.psd/color/) içinColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | dönüştürür[`Color`](../../aspose.psd/color/) dizisineColor dizi. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | [`Color`](../../aspose.psd/color/) nesnesini Color'a dönüştürür. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | [`Color`](../../aspose.psd/color/) dizisini Color dizisine dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

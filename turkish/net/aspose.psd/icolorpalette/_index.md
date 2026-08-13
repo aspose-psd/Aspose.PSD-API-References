@@ -1,11 +1,12 @@
 ---
-title: Interface IColorPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IColorPalette arayüz. Renk paleti arayüzü.
+title: "Arayüz IColorPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IColorPalette arayüzü. Renk paleti arayüzü"
 type: docs
-weight: 4390
+weight: 4890
 url: /tr/net/aspose.psd/icolorpalette/
 ---
+{{< psd/tize >}}
 ## IColorPalette interface
 
 Renk paleti arayüzü.
@@ -14,27 +15,27 @@ Renk paleti arayüzü.
 public interface IColorPalette
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries/) { get; } | 32-bit ARGB yapıları dizisi alır. |
-| [Entries](../../aspose.psd/icolorpalette/entries/) { get; } | Bir dizi alır[`Color`](../color/) yapılar. |
+| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries/) { get; } | 32 bit ARGB yapılarının bir dizisini alır. |
+| [Entries](../../aspose.psd/icolorpalette/entries/) { get; } | [`Color`](../color/) yapıların bir dizisini alır. |
 | [EntriesCount](../../aspose.psd/icolorpalette/entriescount/) { get; } | Giriş sayısını alır. |
-| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette/) { get; } | Kompakt paletin kullanılıp kullanılmadığını gösteren bir değer alır. |
+| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette/) { get; } | Kompakt paletin kullanılıp kullanılmadığını gösteren bir değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color/)(int) | Dizine göre 32 bit ARGB palet rengini alır. |
-| [GetColor](../../aspose.psd/icolorpalette/getcolor/)(int) | Palet rengini indekse göre alır. |
+| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color/)(int) | İndeks ile 32 bit ARGB palet rengini alır. |
+| [GetColor](../../aspose.psd/icolorpalette/getcolor/)(int) | İndeks ile palet rengini alır. |
 | [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | En yakın rengin indeksini alır. |
-| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | En yakın 32 bit ARGB renginin dizinini alır. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | En yakın 32-bit ARGB renginin dizinini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Lnk2Resource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: Lnk2Resource mülk. Katman kaynak anahtarını alır.
+title: "Lnk2Resource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lnk2Resource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk2Resource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lnk2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

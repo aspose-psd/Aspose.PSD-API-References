@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: ExpaResource mülk. Sürümü alır. Varsayılan 1
+title: "ExpaResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExpaResource özelliği. Sürümü alır. Varsayılan 1'dir"
 type: docs
-weight: 80
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
-Sürümü alır. Varsayılan 1
+Sürümü alır. Varsayılan 1'dir.
 
 ```csharp
 public short Version { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

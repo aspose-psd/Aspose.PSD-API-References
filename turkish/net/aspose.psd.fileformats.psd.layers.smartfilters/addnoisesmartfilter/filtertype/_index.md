@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.FilterType
-second_title: Aspose.PSD for .NET API Referansı
-description: AddNoiseSmartFilter alan. Geçerli akıllı filtrenin tanımlayıcısı.
+title: "AddNoiseSmartFilter.FilterType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AddNoiseSmartFilter alanı. Mevcut akıllı filtrenin tanımlayıcısı"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterType field
 
 Geçerli akıllı filtrenin tanımlayıcısı.
@@ -14,10 +15,10 @@ Geçerli akıllı filtrenin tanımlayıcısı.
 public const int FilterType;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AddNoiseSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

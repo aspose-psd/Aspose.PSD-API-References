@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroup yöntem. Katman grubunu ekler.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroup yöntemi. Katman grubunu ekler."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
 Katman grubunu ekler.
@@ -14,25 +15,25 @@ Katman grubunu ekler.
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | groupName | String | Grubun adı. |
-| index | Int32 | Sonrasına eklenecek katmanın dizini. |
+| index | Int32 | Sonra eklenecek katmanın indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Grup katmanı açılıyor
+Grup katmanını açma
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, LayerGroup'u başka bir LayerGroup'a eklemeyi gösterir.
+Aşağıdaki örnek, LayerGroup'u başka bir LayerGroup içine eklemeyi gösterir.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// katmanlar hiyerarşisini şu şekilde yapıyoruz:
+// katman hiyerarşisini şu şekilde oluşturma:
 // -Grup 1
 // --Katman 1
 // --Grup 2
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerGroup](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

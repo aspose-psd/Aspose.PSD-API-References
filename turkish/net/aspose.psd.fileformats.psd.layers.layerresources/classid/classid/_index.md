@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: Aspose.PSD for .NET API Referansı
-description: ClassID inşaatçı. Yeni bir örneğini başlatır.ClassID sınıf.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClassID yapıcı. ClassID sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-Yeni bir örneğini başlatır.[`ClassID`](../) sınıf.
+[`ClassID`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| classID | Byte[] | Bayt dizisi olarak sınıf kimliği. |
+| classID | Byte[] | Sınıf kimliği bayt serisi olarak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ClassID`](../) sınıf.
+[`ClassID`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| classID | Byte[] | Bayt dizisi olarak sınıf kimliği. |
-| isZeroLength | Boolean | olarak ayarlanmışsa`doğru` [sıfır uzunluk]. Kaydedilen dizi uzunluğu sıfır ama gerçek dört. |
+| classID | Byte[] | Sınıf kimliği bayt serisi olarak. |
+| isZeroLength | Boolean | eğer `true` olarak ayarlanırsa [sıfır uzunluk]. Kaydedilen dize uzunluğu sıfırdır ancak gerçek uzunluk dörttür. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | sınıf kimliği boş. |
+| ArgumentNullException | classID null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`ClassID`](../) sınıf.
+[`ClassID`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | classID | Int32 | Sınıf kimliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-Yeni bir örneğini başlatır.[`ClassID`](../) sınıf.
+[`ClassID`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | classID | UInt32 | Sınıf kimliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-Yeni bir örneğini başlatır.[`ClassID`](../) sınıf.
+[`ClassID`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| classID | String | ASCII kodlamasındaki sınıf kimliği. |
-| isZeroLength | Boolean | olarak ayarlanmışsa`doğru` [sıfır uzunluktur]. |
+| classID | String | ASCII kodlamasında sınıf kimliği. |
+| isZeroLength | Boolean | eğer `true` olarak ayarlanırsa [sıfır uzunluk]. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, bir görüntüden içe aktarılan katmanın akıllı nesne katmanına dönüştürüldüğünü ve kaydedilen PSD dosyasının doğru olduğunu göstermektedir.
+Bu örnek, bir görüntüden içe aktarılan katmanın akıllı nesne katmanına dönüştürüldüğünü ve kaydedilen PSD dosyasının doğru olduğunu gösterir.
 
 ```csharp
 [C#]
 
-// Bir görüntüden içe aktarılan katmanın akıllı nesne katmanına dönüştürüldüğünü ve kaydedilen PSD dosyasının doğru olduğunu test eder.
+// Katmanın bir görüntüden içe aktarıldıktan sonra akıllı nesne katmanına dönüştürüldüğünü ve kaydedilen PSD dosyasının doğru olduğunu test eder.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,30 +153,30 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`ClassID`](../) sınıf.
+[`ClassID`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| classID | String | ASCII kodlamasındaki sınıf kimliği. |
+| classID | String | ASCII kodlamasında sınıf kimliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

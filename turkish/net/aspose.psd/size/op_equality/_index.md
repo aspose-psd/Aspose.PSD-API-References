@@ -1,32 +1,33 @@
 ---
-title: Size.op_Equality
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. İki olup olmadığını test ederSize yapılar eşittir.
+title: "Size.op_Equality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. İki Size yapısının eşit olup olmadığını test eder."
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/size/op_equality/
 ---
+{{< psd/tize >}}
 ## Size Equality operator
 
-İki olup olmadığını test eder[`Size`](../) yapılar eşittir.
+İki [`Size`](../) yapısının eşit olup olmadığını test eder.
 
 ```csharp
 public static bool operator ==(Size size1, Size size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | Size | bu[`Size`](../) eşitlik operatörünün sol tarafındaki yapı. |
-| size2 | Size | bu[`Size`](../) eşitlik operatörünün sağındaki yapı. |
+| size1 | Size | Eşitlik operatörünün sol tarafındaki [`Size`](../) yapısı. |
+| size2 | Size | Eşitlik operatörünün sağ tarafındaki [`Size`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise*size1* Ve*size2* eşit genişlik ve yüksekliğe sahip; Aksi takdirde, yanlış.
+*size1* ve *size2* eşit genişlik ve yüksekliğe sahipse doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

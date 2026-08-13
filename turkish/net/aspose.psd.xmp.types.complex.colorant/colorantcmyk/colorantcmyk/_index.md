@@ -1,46 +1,47 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk inşaatçı. Yeni bir örneğini başlatır.ColorantCmyk sınıf.
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk yapıcı. ColorantCmyk sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-Yeni bir örneğini başlatır.[`ColorantCmyk`](../) sınıf.
+[`ColorantCmyk`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ColorantCmyk()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ColorantCmyk`](../) sınıf.
+[`ColorantCmyk`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| black | Single | Siyah bileşen değeri. |
-| cyan | Single | Mavi renk bileşen değeri. |
-| magenta | Single | Macenta bileşen değeri. |
-| yellow | Single | Sarı bileşen değeri. |
+| siyah | Single | Siyah bileşen değeri. |
+| camgöbeği | Single | Camgöbeği renk bileşen değeri. |
+| macenta | Single | Macenta bileşen değeri. |
+| sarı | Single | Sarı bileşen değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

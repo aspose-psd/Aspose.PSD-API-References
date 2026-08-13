@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCity
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Şehri ayarlar.
+title: "PhotoshopPackage.SetCity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Şehri ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCity method
 
 Şehri ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 public void SetCity(string city)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| city | String | Şehir adı. |
+| şehir | String | Şehir adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

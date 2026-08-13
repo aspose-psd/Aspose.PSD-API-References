@@ -1,29 +1,30 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.DitheringMethod Sıralama. Titreşim yöntemi.
+title: "Enum DitheringMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.DitheringMethod enum. Dithering yöntemi"
 type: docs
-weight: 770
+weight: 780
 url: /tr/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
-Titreşim yöntemi.
+Titreme yöntemi.
 
 ```csharp
 public enum DitheringMethod
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Eşik titremesi. En basit ve en hızlı renk taklidi algoritması. |
-| FloydSteinbergDithering | `1` | Floyd-Steinberg titremesi. Daha karmaşık bir renk taklidi algoritması, en yakın komşu yoğunluk değerlerini kullanır. |
+| ThresholdDithering | `0` | Eşik dithering. En basit ve en hızlı dithering algoritması. |
+| FloydSteinbergDithering | `1` | Floyd-Steinberg dithering. Daha karmaşık bir dithering algoritması, en yakın komşuların yoğunluk değerlerini kullanır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

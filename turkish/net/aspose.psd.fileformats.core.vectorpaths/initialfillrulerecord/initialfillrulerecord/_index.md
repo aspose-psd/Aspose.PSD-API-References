@@ -1,42 +1,43 @@
 ---
-title: InitialFillRuleRecord.InitialFillRuleRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: InitialFillRuleRecord inşaatçı. Yeni bir örneğini başlatır.InitialFillRuleRecord sınıf.
+title: "InitialFillRuleRecord.InitialFillRuleRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InitialFillRuleRecord yapıcı. InitialFillRuleRecord sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord() {#constructor}
 
-Yeni bir örneğini başlatır.[`InitialFillRuleRecord`](../) sınıf.
+[`InitialFillRuleRecord`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public InitialFillRuleRecord()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InitialFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`InitialFillRuleRecord`](../) sınıf.
+[`InitialFillRuleRecord`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| isFillStartsWithAllPixels | Boolean | Doldurma tüm piksellerle başlar. |
+| isFillStartsWithAllPixels | Boolean | Doldurmanın tüm piksellerle başladığını belirtir. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, vektör yolu nesnelerini işlemek için sınıflar sağlar ve bu sınıfların nasıl kullanılacağını gösterir.
+Aşağıdaki kod örneği, vektör yol nesnelerini manipüle etmek için sınıflar sağlar ve bu sınıfların nasıl kullanılacağını gösterir.
 
 ```csharp
 [C#]
@@ -64,15 +65,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// <see cref="Layer"/> arasında çalışmayı sağlayan sınıf ve <cref="VectorPath"/>'ye bakın.
+/// <see cref=\"Layer\"/> ve <see cref=\"VectorPath\"/> arasında çalışmayı sağlayan sınıf.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// <see cref="VectorPath"/> giriş katmanındaki kaynaklara dayalı örnek.
+    /// Giriş katmanından gelen kaynaklara dayanarak <see cref=\"VectorPath\"/> örneğini oluşturur.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
+    /// <returns>giriş katmanından gelen kaynaklara dayanarak <see cref=\"VectorPath\"/> örneği.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -91,11 +92,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Giriş katmanı kaynaklarını <see cref="VectorPath"/> örneği veya yeni yol kaynağı ve güncellemeleri ile değiştirin.
+    /// Giriş katmanı kaynaklarını <see cref=\"VectorPath\"/> örneğinden günceller veya yeni yol kaynağıyla değiştirir ve günceller.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
-    /// <param name="vectorPath">Vektör yolu.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
+    /// <param name=\"vectorPath\">Vektör yolu.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -111,9 +112,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Vektör yolu verilerini giriş katmanından kaldırır.
+    /// Vektör yol verisini giriş katmanından kaldırır.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -136,13 +137,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Kaynak verilerini <see cref="VectorPath"/> misal.
+    /// Kaynak verilerini <see cref=\"VectorPath\"/> örneğinden günceller.
     /// </summary>
-    /// <param name="pathResource">Yol kaynağı.</param>
-    /// <param name="vogkResource">Vektör oluşturma veri kaynağı.</param>
-    /// <param name="socoResource">Düz renk kaynağı.</param>
-    /// <param name="vectorPath">Vektör yolu.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name=\"pathResource\">Yol kaynağı.</param>
+    /// <param name=\"vogkResource\">Vektör başlangıç veri kaynağı.</param>
+    /// <param name=\"socoResource\">Katı renk kaynağı.</param>
+    /// <param name=\"vectorPath\">Vektör yolu.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -169,12 +170,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Katmandaki kaynakları güncellenen veya yenileriyle değiştirir.
+    /// Katmandaki kaynakları güncellenmiş veya yeni olanlarla değiştirir.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
-    /// <param name="pathResource">Yol kaynağı.</param>
-    /// <param name="vogkResource">Vektör oluşturma veri kaynağı.</param>
-    /// <param name="socoResource">Düz renk kaynağı.</param>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
+    /// <param name=\"pathResource\">Yol kaynağı.</param>
+    /// <param name=\"vogkResource\">Vektör başlangıç veri kaynağı.</param>
+    /// <param name=\"socoResource\">Katı renk kaynağı.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -221,11 +222,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPathDataResource"/> giriş katmanı kaynaklarındaki kaynak.
+    /// Giriş katmanı kaynaklarında <see cref=\"VectorPathDataResource\"/> kaynağını bulur.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
-    /// <param name="createIfNotExist">Eğer kaynak yoksa, <see cref="true"/> yeni bir kaynak oluşturur, aksi takdirde <see cref="null"/>.</param>
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
+    /// <param name=\"createIfNotExist\">Kaynak mevcut değilse, <see cref=\"true\"/> için yeni bir kaynak oluşturur, aksi takdirde <see cref=\"null\"/> döndürür.</param>
+    /// <returns><see cref=\"VectorPathDataResource\"/> kaynağı.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -247,11 +248,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VogkResource"/> giriş katmanı kaynaklarındaki kaynak.
+    /// Giriş katmanı kaynaklarında <see cref=\"VogkResource\"/> kaynağını bulur.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
-    /// <param name="createIfNotExist">Eğer kaynak yoksa, <see cref="true"/> yeni bir kaynak oluşturur, aksi takdirde <see cref="null"/>.</param>
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
+    /// <param name=\"createIfNotExist\">Kaynak mevcut değilse, <see cref=\"true\"/> için yeni bir kaynak oluşturur, aksi takdirde <see cref=\"null\"/> döndürür.</param>
+    /// <returns><see cref=\"VogkResource\"/> kaynağı.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -273,11 +274,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="SoCoResource"/> giriş katmanı kaynaklarındaki kaynak.
+    /// Giriş katmanı kaynaklarında <see cref=\"SoCoResource\"/> kaynağını bulur.
     /// </summary>
-    /// <param name="psdLayer">psd katmanı.</param>
-    /// <param name="createIfNotExist">Eğer kaynak yoksa, <see cref="true"/> yeni bir kaynak oluşturur, aksi takdirde <see cref="null"/>.</param>
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd katmanı.</param>
+    /// <param name=\"createIfNotExist\">Kaynak mevcut değilse, <see cref=\"true\"/> için yeni bir kaynak oluşturur, aksi takdirde <see cref=\"null\"/> döndürür.</param>
+    /// <returns><see cref=\"SoCoResource\"/> kaynağı.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -299,10 +300,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorDataProvider"/> ile çalışacak katmanı doğrular. sınıf.
+    /// Katmanı <see cref=\"VectorDataProvider\"/> sınıfı ile çalışacak şekilde doğrular.
     /// </summary>
-    /// <param adı="katman"></param>
-    /// <exception cref="ArgumentNullException"></exception>
+    /// <param name=\"layer\"></param>
+    /// <exception cref=\"ArgumentNullException\"></exception>
     private static void ValidateLayer(Layer layer)
     {
         if (layer == null)
@@ -318,22 +319,22 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// Bezier eğri düğümü, bir bağlantı noktası ve iki kontrol noktası içerir.
+/// Bezier eğri düğümü, bir tutma noktası ve iki kontrol noktası içerir.
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// Görüntü-yol noktası oranı.
+    /// Görüntü ile yol noktası oranı.
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// Yeni bir <see cref="BezierKnot" /> örneğini başlatır. sınıf.
+    /// <see cref=\"BezierKnot\" /> sınıfının yeni bir örneğini başlatır.
     /// </summary>
-    /// <param name="anchorPoint">Çapa noktası.</param>
-    /// <param name="controlPoint1">İlk kontrol noktası.</param>
-    /// <param name="controlPoint2">İkinci kontrol noktası.</param>
-    /// <param name="isLinked">Bu düğümün bağlantılı olup olmadığını gösteren değer.</param>
+    /// <param name=\"anchorPoint\">Tutma noktası.</param>
+    /// <param name=\"controlPoint1\">İlk kontrol noktası.</param>
+    /// <param name=\"controlPoint2\">İkinci kontrol noktası.</param>
+    /// <param name=\"isLinked\">Bu düğümün bağlı olup olmadığını gösteren değer.</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -343,10 +344,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Yeni bir <see cref="BezierKnot" /> örneğini başlatır. <see cref="BezierKnotRecord"/>'a dayalı sınıf.
+    /// Yeni bir <see cref=\"BezierKnot\" /> sınıfı örneğini <see cref=\"BezierKnotRecord\"/> temel alarak başlatır.
     /// </summary>
-    /// <param name="bezierKnotRecord"><see cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name=\"bezierKnotRecord\">Bu <see cref=\"BezierKnotRecord\"/>.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -356,17 +357,17 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Yeni bir <see cref="BezierKnot" /> örneğini başlatır. sınıf.
+    /// <see cref=\"BezierKnot\" /> sınıfının yeni bir örneğini başlatır.
     /// </summary>
-    /// <param name="anchorPoint">Çapa ve kontrol noktaları olacak nokta.</param>
-    /// <param name="isLinked">Bu düğümün bağlantılı olup olmadığını gösteren değer.</param>
+    /// <param name=\"anchorPoint\">Bağlantı ve kontrol noktaları olacak nokta.</param>
+    /// <param name=\"isLinked\">Bu düğümün bağlı olup olmadığını gösteren değer.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar.
+    /// Bu örneğin bağlı olup olmadığını gösteren bir değeri alır veya ayarlar.
     /// </summary>
     public bool IsLinked { get; set; }
 
@@ -386,11 +387,11 @@ public class BezierKnot
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// <see cref="BezierKnotRecord"/> örneğini oluşturur. bu örneğe dayanarak.
+    /// Bu örnek temel alınarak <see cref=\"BezierKnotRecord\"/> örneğini oluşturur.
     /// </summary>
-    /// <param name="isClosed">Bu düğümün kapalı olup olmadığını gösterir.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name=\"isClosed\">Bu düğümün kapalı bir şekil içinde olup olmadığını gösterir.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
+    /// <returns>Bu örnek temel alınarak <see cref=\"BezierKnotRecord\"/> örneği.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -407,10 +408,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Bu düğüm noktalarını giriş değerlerine göre kaydırır.
+    /// Bu düğüm noktalarını giriş değerleriyle kaydırır.
     /// </summary>
-    /// <param name="xOffset">X ofseti.</param>
-    /// <param name="yOffset">y ofseti.</param>
+    /// <param name=\"xOffset\">x kayması.</param>
+    /// <param name=\"yOffset\">y kayması.</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -419,22 +420,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Puan değerlerini kaynaktan normale dönüştürür.
+    /// Nokta değerlerini kaynaktan normale dönüştürür.
     /// </summary>
-    /// <param name="nokta">Kaynaktaki değerlere sahip nokta.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name=\"point\">Kaynaktan gelen değerlerle nokta.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
+    /// <returns>Normale dönüştürülmüş nokta.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// Normal puan değerlerini kaynak noktasına dönüştürür.
+    /// Normal nokta değerlerini kaynak noktaya dönüştürür.
     /// </summary>
-    /// <param name="nokta">Nokta.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"point\">Nokta.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
+    /// <returns>Kaynak için değerleri içeren nokta.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -442,12 +443,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// Bezier eğrisinin düğümlerinden şekil.
+/// Bezier eğrisinin düğümlerinden oluşan şekil.
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// Yeni bir <see cref="PathShape" /> örneğini başlatır. sınıf.
+    /// <see cref=\"PathShape\" /> sınıfının yeni bir örneğini başlatır.
     /// </summary>
     public PathShape()
     {
@@ -456,11 +457,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// Yeni bir <see cref="PathShape" /> örneğini başlatır. <see cref="VectorPathRecord"/>'a dayalı sınıf.
+    /// <see cref=\"PathShape\" /> sınıfının <see cref=\"VectorPathRecord\"/> temel alınarak yeni bir örneğini başlatır.
     /// </summary>
-    /// <param name="uzunlukKaydı">Uzunluk kaydı.</param>
-    /// <param name="bezierKnotRecords">Bezier düğüm kayıtları.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name=\"lengthRecord\">Uzunluk kaydı.</param>
+    /// <param name=\"bezierKnotRecords\">Bezier düğüm kayıtları.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -471,20 +472,20 @@ public class PathShape
     }
 
     /// <summary>
-    /// Bu örneğin kapalı olup olmadığını gösteren bir değer alır veya ayarlar.
+    /// Bu örneğin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar.
     /// </summary>
-    /// <değer>
-    /// <c>doğru</c> bu örnek kapatılırsa; aksi takdirde, <c>false</c>.
-    /// </değer>
+    /// <value>
+    ///   <c>true</c> bu örnek kapalıysa; aksi takdirde <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// Yol işlemlerini (Boolean işlemleri) alır veya ayarlar.
+    /// Yol işlemlerini (Boolean işlemler) alır veya ayarlar.
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// Katmandaki geçerli yol şeklinin dizinini alır veya ayarlar.
+    /// Katmandaki mevcut yol şeklinin indeksini alır veya ayarlar.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
@@ -494,10 +495,10 @@ public class PathShape
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// <see cref="VectorPathRecord"/> bu örneğe dayalı kayıtlar.
+    /// Bu örneğe dayanarak <see cref=\"VectorPathRecord\"/> kayıtlarını oluşturur.
     /// </summary>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
+    /// <returns>Bu örnekteki her nokta için bir <see cref=\"LengthRecord\"/> ve bir <see cref=\"BezierKnotRecord\"/> döndürür.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -518,10 +519,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// Giriş kayıtlarına göre bir değer başlatır.
+    /// Girdi kayıtlarına dayanarak değerleri başlatır.
     /// </summary>
-    /// <param name="bezierKnotRecords">Bezier düğüm kayıtları.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name=\"bezierKnotRecords\">Bezier düğüm kayıtları.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -541,21 +542,21 @@ public class PathShape
 public class VectorPath
 {
     /// <summary>
-    /// Yeni bir <see cref="VectorPath" /> örneğini başlatır. <see cref="VectorPathDataResource"/>'a dayalı sınıf.
+    /// <see cref=\"VectorPathDataResource\"/> temel alınarak <see cref=\"VectorPath\" /> sınıfının yeni bir örneğini başlatır.
     /// </summary>
-    /// <param name="vectorPathDataResource">Vektör yolu veri kaynağı.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name=\"vectorPathDataResource\">Vektör yol veri kaynağı.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// Dolgunun tüm piksellerle başlayıp başlamadığını gösteren bir değer alır veya ayarlar.
+    /// Doldurmanın tüm piksellerle başlayıp başlamadığını gösteren bir değeri alır veya ayarlar.
     /// </summary>
-    /// <değer>
-    /// Dolgu tüm piksellerden başlar.
-    /// </değer>
+    /// <value>
+    /// Doldurma tüm piksellerle başlar.
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
@@ -564,47 +565,47 @@ public class VectorPath
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// Vektör yolu dolgu rengini alır veya ayarlar.
+    /// Vektör yol doldurma rengini alır veya ayarlar.
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
     /// Sürümü alır veya ayarlar.
     /// </summary>
-    /// <değer>
+    /// <value>
     /// Sürüm.
-    /// </değer>
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
-    /// Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değer alır veya ayarlar.
+    /// Bu örneğin devre dışı bırakılıp bırakılmadığını gösteren bir değeri alır veya ayarlar.
     /// </summary>
-    /// <değer>
-    /// <c>doğru</c> bu örnek devre dışı bırakılırsa; aksi takdirde, <c>false</c>.
-    /// </değer>
+    /// <value>
+    ///   <c>true</c> bu örnek devre dışıysa; aksi takdirde <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
-    /// Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar.
+    /// Bu örneğin bağlı olmama durumunu gösteren bir değeri alır veya ayarlar.
     /// </summary>
-    /// <değer>
-    /// <c>doğru</c> bu örnek bağlantılı değilse; aksi takdirde, <c>false</c>.
-    /// </değer>
+    /// <value>
+    ///   <c>true</c> bu örnek bağlı değilse; aksi takdirde <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
-    /// Bu örneğin ters çevrildiğini gösteren bir değer alır veya ayarlar.
+    /// Bu örneğin ters çevrilip çevrilmediğini gösteren bir değeri alır veya ayarlar.
     /// </summary>
-    /// <değer>
-    /// <c>doğru</c> bu örnek tersine çevrilirse; aksi takdirde, <c>false</c>.
-    /// </değer>
+    /// <value>
+    ///   <c>true</c> bu örnek ters çevrilmişse; aksi takdirde <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// Girdiye göre bir değer başlatır <see cref="VectorPathDataResource"/> kaynak.
+    /// Giriş <see cref="VectorPathDataResource"/> kaynağına dayalı değerleri başlatır.
     /// </summary>
-    /// <param name="resource">Vektör yolu veri kaynağı.</param>
-    /// <param name="imageSize">Dönüştürme noktası koordinatlarını düzeltmek için görüntü boyutu.</param>
+    /// <param name="resource">Vektör yol veri kaynağı.</param>
+    /// <param name=\"imageSize\">Nokta koordinatlarını dönüştürmeyi düzeltmek için görüntü boyutu.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -655,30 +656,30 @@ public class VectorPath
 #endregion
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InitialFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(byte[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`InitialFillRuleRecord`](../) sınıf.
+[`InitialFillRuleRecord`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public InitialFillRuleRecord(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kayıt verileri. |
+| veri | Byte[] | Kayıt verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InitialFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

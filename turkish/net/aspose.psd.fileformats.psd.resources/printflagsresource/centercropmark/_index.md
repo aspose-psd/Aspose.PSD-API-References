@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.CenterCropMark
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintFlagsResource mülk. Merkez kırpma işaretini alır veya ayarlar.
+title: "PrintFlagsResource.CenterCropMark"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintFlagsResource özelliği. Merkez kırpma işaretini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.CenterCropMark property
 
-Merkez kırpma işaretini alır veya ayarlar.
+Orta kırpma işaretini alır veya ayarlar.
 
 ```csharp
 public byte CenterCropMark { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Merkez kırpma işareti.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintFlagsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,90 +1,91 @@
 ---
-title: Graphics.DrawString
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Belirtilen metin dizesini belirtilen konumda belirtilen konumla çizer.Brush VeFont nesneler.
+title: "Graphics.DrawString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Belirtilen konumda, belirtilen Brush ve Font nesneleriyle belirtilen metin dizesini çizer."
 type: docs
-weight: 320
+weight: 330
 url: /tr/net/aspose.psd/graphics/drawstring/
 ---
+{{< psd/tize >}}
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-Belirtilen metin dizesini belirtilen konumda belirtilen konumla çizer.[`Brush`](../../brush/) Ve[`Font`](../../font/) nesneler.
+Belirtilen konumda, belirtilen [`Brush`](../../brush/) ve [`Font`](../../font/) nesneleriyle belirtilen metin dizesini çizer.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | s | String | Çizilecek dize. |
-| font | Font | [`Font`](../../font/) bu, dizenin metin biçimini tanımlar. |
-| brush | Brush | [`Brush`](../../brush/) çizilen metnin rengini ve dokusunu belirler. |
+| font | Font | [`Font`](../../font/) dizenin metin biçimini tanımlar. |
+| brush | Brush | [`Brush`](../../brush/) çizilen metnin renk ve dokusunu belirler. |
 | x | Single | Çizilen metnin sol üst köşesinin x koordinatı. |
 | y | Single | Çizilen metnin sol üst köşesinin y koordinatı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *s* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *s* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-Belirtilen metin dizesini belirtilen konumda belirtilen konumla çizer.[`Brush`](../../brush/) Ve[`Font`](../../font/) nesneler.
+Belirtilen konumda, belirtilen [`Brush`](../../brush/) ve [`Font`](../../font/) nesneleriyle belirtilen metin dizesini çizer.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | s | String | Çizilecek dize. |
-| font | Font | [`Font`](../../font/) bu, dizenin metin biçimini tanımlar. |
-| brush | Brush | [`Brush`](../../brush/) çizilen metnin rengini ve dokusunu belirler. |
+| font | Font | [`Font`](../../font/) dizenin metin biçimini tanımlar. |
+| brush | Brush | [`Brush`](../../brush/) çizilen metnin renk ve dokusunu belirler. |
 | point | PointF | [`PointF`](../../pointf/) çizilen metnin sol üst köşesini belirten yapı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *s* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *s* null'dur. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Image yüzeyinde dizeler çizmek için Font ve SolidBrush sınıfının kullanımını gösterir. Örnek, yeni bir Görüntü oluşturur ve Figures ve GraphicsPath kullanarak şekiller çizer.
+Bu örnek, Font ve SolidBrush sınıfının Image yüzeyine metin çizmek için kullanımını gösterir. Örnek yeni bir Image oluşturur ve Figures ve GraphicsPath kullanarak şekiller çizer.
 
 ```csharp
 [C#]
 
-//Görüntünün bir örneğini oluşturur
+//Image sınıfının bir örneğini oluşturur
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // Graphics sınıfının bir örneğini oluşturur ve başlatır
+    //Graphics sınıfının bir örneğini oluşturur ve başlatır
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Grafik yüzeyini temizler
+    //Graphics yüzeyini temizler
     graphics.Clear(Color.Wheat);
 
-    // Font örneğini oluşturur
+    //Font sınıfının bir örneğini oluşturur
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    //Kırmızı Rengi olan bir SolidBrush örneği oluştur
+    //Kırmızı renkli bir SolidBrush örneği oluşturur
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    //Bir Dizi Çiz
+    //Bir dize çizer
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // dışa aktarma seçeneklerini oluşturun.
+    // dışa aktarma seçeneklerini oluştur.
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
     // tüm değişiklikleri kaydet
@@ -92,148 +93,148 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-Belirtilen metin dizesini belirtilen konumda belirtilen konumla çizer.[`Brush`](../../brush/) Ve[`Font`](../../font/) belirtilen biçimlendirme özniteliklerini kullanan nesneler[`StringFormat`](../../stringformat/) .
+Belirtilen konumda, belirtilen [`Brush`](../../brush/) ve [`Font`](../../font/) nesnelerini kullanarak, belirtilen [`StringFormat`](../../stringformat/) biçimlendirme özniteliklerini kullanarak, belirtilen metin dizesini çizer.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | s | String | Çizilecek dize. |
-| font | Font | [`Font`](../../font/) bu, dizenin metin biçimini tanımlar. |
-| brush | Brush | [`Brush`](../../brush/) çizilen metnin rengini ve dokusunu belirler. |
+| font | Font | [`Font`](../../font/) dizenin metin biçimini tanımlar. |
+| brush | Brush | [`Brush`](../../brush/) çizilen metnin renk ve dokusunu belirler. |
 | x | Single | Çizilen metnin sol üst köşesinin x koordinatı. |
 | y | Single | Çizilen metnin sol üst köşesinin y koordinatı. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) çizilen metne uygulanan satır aralığı ve hizalama gibi biçimlendirme niteliklerini belirtir. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) çizilen metne uygulanan satır aralığı ve hizalama gibi biçimlendirme özniteliklerini belirten. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *s* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *s* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-Belirtilen metin dizesini belirtilen konumda belirtilen konumla çizer.[`Brush`](../../brush/) Ve[`Font`](../../font/) belirtilen biçimlendirme özniteliklerini kullanan nesneler[`StringFormat`](../../stringformat/) .
+Belirtilen konumda, belirtilen [`Brush`](../../brush/) ve [`Font`](../../font/) nesnelerini kullanarak, belirtilen [`StringFormat`](../../stringformat/) biçimlendirme özniteliklerini kullanarak, belirtilen metin dizesini çizer.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | s | String | Çizilecek dize. |
-| font | Font | [`Font`](../../font/) bu, dizenin metin biçimini tanımlar. |
-| brush | Brush | [`Brush`](../../brush/) çizilen metnin rengini ve dokusunu belirler. |
+| font | Font | [`Font`](../../font/) dizenin metin biçimini tanımlar. |
+| brush | Brush | [`Brush`](../../brush/) çizilen metnin renk ve dokusunu belirler. |
 | point | PointF | [`PointF`](../../pointf/) çizilen metnin sol üst köşesini belirten yapı. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) çizilen metne uygulanan satır aralığı ve hizalama gibi biçimlendirme niteliklerini belirtir. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) çizilen metne uygulanan satır aralığı ve hizalama gibi biçimlendirme özniteliklerini belirten. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *s* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *s* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-Belirtilen metin dizesini, belirtilen dikdörtgene belirtilen değerle çizer.[`Brush`](../../brush/) Ve[`Font`](../../font/) nesneler.
+Belirtilen [`Brush`](../../brush/) ve [`Font`](../../font/) nesnelerini kullanarak, belirtilen dikdörtgende belirtilen metin dizesini çizer.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | s | String | Çizilecek dize. |
-| font | Font | [`Font`](../../font/) bu, dizenin metin biçimini tanımlar. |
-| brush | Brush | [`Brush`](../../brush/) çizilen metnin rengini ve dokusunu belirler. |
+| font | Font | [`Font`](../../font/) dizenin metin biçimini tanımlar. |
+| brush | Brush | [`Brush`](../../brush/) çizilen metnin renk ve dokusunu belirler. |
 | layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) çizilen metnin konumunu belirten yapı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *s* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *s* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-Belirtilen metin dizesini, belirtilen dikdörtgene belirtilen değerle çizer.[`Brush`](../../brush/) Ve[`Font`](../../font/) belirtilen biçimlendirme özniteliklerini kullanan nesneler[`StringFormat`](../../stringformat/) .
+Belirtilen [`Brush`](../../brush/) ve [`Font`](../../font/) nesnelerini, belirtilen [`StringFormat`](../../stringformat/) biçimlendirme özniteliklerini kullanarak, belirtilen dikdörtgende belirtilen metin dizesini çizer.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
     StringFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | s | String | Çizilecek dize. |
-| font | Font | [`Font`](../../font/) bu, dizenin metin biçimini tanımlar. |
-| brush | Brush | [`Brush`](../../brush/) çizilen metnin rengini ve dokusunu belirler. |
+| font | Font | [`Font`](../../font/) dizenin metin biçimini tanımlar. |
+| brush | Brush | [`Brush`](../../brush/) çizilen metnin renk ve dokusunu belirler. |
 | layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) çizilen metnin konumunu belirten yapı. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) çizilen metne uygulanan satır aralığı ve hizalama gibi biçimlendirme niteliklerini belirtir. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) çizilen metne uygulanan satır aralığı ve hizalama gibi biçimlendirme özniteliklerini belirten. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *s* null. -veya- *brush* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *s* null'dur. -or- *brush* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

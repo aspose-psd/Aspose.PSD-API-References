@@ -1,31 +1,32 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: Aspose.PSD for .NET API Referansı
-description: Genel tür sonucuna sahip eşzamansız görev için uzun işlem temsilcisi.
+title: "Delege AsyncTaskFunc"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Genel tip sonuçlu asenkron görev için uzun işlem delegei."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-Genel tür sonucuna sahip eşzamansız görev için uzun işlem temsilcisi.
+Genel tip sonucu ile asenkron görev için uzun işlem temsilcisi.
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | Eşzamansız görevin durumu. |
+| taskState | IAsyncTaskState | Asenkron görevin durumu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Uzun işlemin sonucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* ad alanı [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

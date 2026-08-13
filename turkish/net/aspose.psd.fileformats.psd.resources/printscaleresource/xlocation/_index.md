@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.XLocation
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintScaleResource mülk. x konumunu alır veya ayarlar.
+title: "PrintScaleResource.XLocation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintScaleResource özelliği. x konumunu alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.XLocation property
 
 x konumunu alır veya ayarlar.
@@ -14,14 +15,14 @@ x konumunu alır veya ayarlar.
 public float XLocation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 x konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintScaleResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

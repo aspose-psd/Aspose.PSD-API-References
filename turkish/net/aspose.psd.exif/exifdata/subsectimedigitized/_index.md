@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeDigitized
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. DateTimeDigitized etiketi için saniyelerin kesirlerini alır veya ayarlar.
+title: "ExifData.SubsecTimeDigitized"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. DateTimeDigitized etiketi için saniyenin kesirlerini alır veya ayarlar"
 type: docs
 weight: 1040
 url: /tr/net/aspose.psd.exif/exifdata/subsectimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeDigitized property
 
-DateTimeDigitized etiketi için saniyelerin kesirlerini alır veya ayarlar.
+DateTimeDigitized etiketi için saniyenin kesirlerini alır veya ayarlar.
 
 ```csharp
 public string SubsecTimeDigitized { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 DateTimeDigitized etiketi için saniyenin kesirleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

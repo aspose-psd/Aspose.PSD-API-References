@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.InstanceId
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceRef mülk. Örnek tanımlayıcısını alır veya ayarlar.
+title: "ResourceRef.InstanceId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceRef özelliği. Örnek tanımlayıcısını alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
 Örnek tanımlayıcısını alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 public string InstanceId { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Örnek tanımlayıcı.
+Örnek tanımlayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceRef](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.StructureKey
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitStructure alan. Yapı anahtarını tanımlar.
+title: "UnitStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitStructure alanı. Yapı anahtarını tanımlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## UnitStructure.StructureKey field
 
 Yapı anahtarını tanımlar.
@@ -14,10 +15,10 @@ Yapı anahtarını tanımlar.
 public const int StructureKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnitStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

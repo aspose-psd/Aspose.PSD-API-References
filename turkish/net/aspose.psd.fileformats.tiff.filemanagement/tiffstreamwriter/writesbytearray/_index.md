@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSByteArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa bir dizi imzalı bayt değeri yazar.
+title: "TiffStreamWriter.WriteSByteArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akışa işaretli bayt değerlerinden oluşan bir dizi yazar."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByteArray method
 
-Akışa bir dizi imzalı bayt değeri yazar.
+Akışa bir dizi işaretli bayt değeri yazar.
 
 ```csharp
 public void WriteSByteArray(sbyte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | SByte[] | Yazılacak dizi. |
+| veri | SByte[] | Yazılacak dizi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

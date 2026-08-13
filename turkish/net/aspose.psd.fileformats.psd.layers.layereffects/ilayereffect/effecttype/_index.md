@@ -1,20 +1,21 @@
 ---
-title: ILayerEffect.EffectType
-second_title: Aspose.PSD for .NET API Referansı
-description: ILayerEffect mülk. Bir tür effect alır
+title: "ILayerEffect.EffectType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ILayerEffect property. Bir efekt türünü alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.EffectType property
 
-Bir tür effect alır
+Bir efekt türünü alır.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ILayerEffect.EffectType özelliğinin desteğini gösterir.
 
@@ -47,11 +48,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * interface [ILayerEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

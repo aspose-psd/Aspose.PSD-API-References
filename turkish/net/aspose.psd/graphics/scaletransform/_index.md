@@ -1,51 +1,52 @@
 ---
-title: Graphics.ScaleTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Yerel geometrik dönüşümü belirtilen miktarlarda ölçekler. Bu yöntem ölçeklendirme matrisini transform. nin başına ekler.
+title: "Graphics.ScaleTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Yerel geometrik dönüşümü belirtilen miktarlarda ölçeklendirir. Bu yöntem ölçekleme matrisini dönüşüme ön ekler."
 type: docs
-weight: 450
+weight: 460
 url: /tr/net/aspose.psd/graphics/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Yerel geometrik dönüşümü belirtilen miktarlarda ölçekler. Bu yöntem, ölçeklendirme matrisini transform. 'nin başına ekler.
+Yerel geometrik dönüşümü belirtilen ölçeklerde büyütür. Bu yöntem ölçekleme matrisini dönüşümün önüne ekler.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sx | Single | Dönüşümün x ekseni yönünde ölçeklendirileceği miktar. |
-| sy | Single | Dönüşümün y ekseni yönünde ölçeklendirileceği miktar. |
+| sx | Single | Dönüşümün x ekseni yönünde ölçekleneceği miktar. |
+| sy | Single | Dönüşümün y ekseni yönünde ölçekleneceği miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-Yerel geometrik dönüşümü, belirtilen sırada belirtilen miktarlarda ölçekler.
+Yerel geometrik dönüşümü belirtilen ölçeklerde, belirtilen sırada büyütür.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sx | Single | Dönüşümün x ekseni yönünde ölçeklendirileceği miktar. |
-| sy | Single | Dönüşümün y ekseni yönünde ölçeklendirileceği miktar. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) ölçekleme matrisinin başına mı yoksa sonuna mı ekleneceğini belirtir. |
+| sx | Single | Dönüşümün x ekseni yönünde ölçekleneceği miktar. |
+| sy | Single | Dönüşümün y ekseni yönünde ölçekleneceği miktar. |
+| order | MatrixOrder | Ölçekleme matrisini ekleyecek mi yoksa ön ekleyecek mi belirten bir [`MatrixOrder`](../../matrixorder/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

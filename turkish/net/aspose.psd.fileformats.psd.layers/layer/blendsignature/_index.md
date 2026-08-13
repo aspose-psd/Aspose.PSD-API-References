@@ -1,23 +1,24 @@
 ---
-title: Layer.BlendSignature
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer alan. Karışım modu imzasını temsil eder.
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman alanı. Karışım modu imzasını temsil eder"
 type: docs
-weight: 390
+weight: 410
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-Karışım modu imzasını temsil eder.
+Karıştırma modu imzasını temsil eder.
 
 ```csharp
 public const int BlendSignature;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

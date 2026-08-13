@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureProgram
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Pozlama programını alır veya ayarlar.
+title: "ExifData.ExposureProgram"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Pozlama programını alır veya ayarlar"
 type: docs
 weight: 220
 url: /tr/net/aspose.psd.exif/exifdata/exposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureProgram property
 
 Pozlama programını alır veya ayarlar.
@@ -14,15 +15,15 @@ Pozlama programını alır veya ayarlar.
 public ExifExposureProgram ExposureProgram { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Pozlama programı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifExposureProgram](../../../aspose.psd.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: XmpDynamicMediaPackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Dizi özelliğini ekler.
+title: "XmpDynamicMediaPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Dize özelliği ekler"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.AddValue method
 
-Dizi özelliğini ekler.
+Dize özelliği ekler.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Dize değeri. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Dize değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | key;DynamicMedia özelliği boş olamaz |
+| ArgumentNullException | key;DynamicMedia özelliği null olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

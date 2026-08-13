@@ -1,56 +1,59 @@
 ---
-title: Class PtFlResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource sınıf. Sınıf PtFlResource. Desen Dolgu Katmanı Verilerini İçerir.
+title: "Sınıf PtFlResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource sınıfı. Sınıf PtFlResource. Pattern Fill Layer Data içerir."
 type: docs
-weight: 2960
+weight: 3310
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
+{{< psd/tize >}}
 ## PtFlResource class
 
-Sınıf PtFlResource. Desen Dolgu Katmanı Verilerini İçerir.
+Sınıf PtFlResource. Desen Doldurma Katmanı Verilerini içerir.
 
 ```csharp
 public class PtFlResource : FillLayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PtFlResource](ptflresource/)(string, string) | Yeni bir örneğini başlatır.`PtFlResource` sınıf. |
+| [PtFlResource](ptflresource/#constructor)() | `PtFlResource` sınıfının yeni bir örneğini başlatır. |
+| [PtFlResource](ptflresource/#constructor_1)(string, string) | `PtFlResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | [Katmanla hizala] olup olmadığını belirten bir değer alır veya ayarlar. |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Bu örneğin layer. ile bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | [align with layer] olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/) { get; set; } | Açıyı alır veya ayarlar. |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Bu örneğin katmanla bağlantılı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Ofseti alır veya ayarlar. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Model tanımlayıcısını alır veya ayarlar. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Modelin adını alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Desen tanımlayıcısını alır veya ayarlar. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Desenin adını alır veya ayarlar. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Ölçeği alır veya ayarlar. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | Katman kaynak imzasını alır. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir PtFlResource kaynağını yükleme ve düzenleme desteğini gösterir.
+Aşağıdaki örnek, bir PtFlResource kaynağının yüklenmesi ve düzenlenmesi desteğini gösterir.
 
 ```csharp
 [C#]
@@ -85,13 +88,13 @@ using (im)
                         throw new Exception("PtFl Resource was read incorrect");
                     }
 
-                    // düzenleme
+                    // Düzenleme
                     resource.Offset = new Point(-11, 13);
                     resource.Scale = 200;
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Verileri PattResource'ta modellemedik, bu yüzden onu ekleyebiliriz.
+                    // PattResource içinde desen verisi yok, bu yüzden ekleyebiliriz.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -116,11 +119,11 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

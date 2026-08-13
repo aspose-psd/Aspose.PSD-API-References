@@ -1,11 +1,12 @@
 ---
-title: ClassID.ClassName
-second_title: Aspose.PSD for .NET API Referansı
-description: ClassID mülk. Sınıf adını ASCII kodlaması olarak alır.
+title: "ClassID.ClassName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClassID özelliği. Sınıf adını ASCII kodlaması olarak alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
+{{< psd/tize >}}
 ## ClassID.ClassName property
 
 Sınıf adını ASCII kodlaması olarak alır.
@@ -14,14 +15,14 @@ Sınıf adını ASCII kodlaması olarak alır.
 public string ClassName { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sınıf adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

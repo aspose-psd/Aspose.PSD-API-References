@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: Aspose.PSD for .NET API Referansı
-description: FillLayer mülk. Dolgu türünü alır.
+title: "FillLayer.FillType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FillLayer özelliği. Doldurmanın türünü alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-Dolgu türünü alır.
+Doldurmanın türünü alır.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dolgunun türü.
+Doldurmanın türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

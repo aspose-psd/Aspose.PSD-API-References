@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Brushes
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı farklı fırça türleriyle çalışmak için yardımcı sınıflar ve yöntemler sağlar.
+title: "Aspose.PSD.Brushes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, farklı fırça türleriyle çalışmak için yardımcı sınıflar ve yöntemler sağlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.brushes/
 ---
-Ad alanı, farklı fırça türleriyle çalışmak için yardımcı sınıflar ve yöntemler sağlar.
+{{< psd/tize >}}
+Ad alanı, farklı fırça tipleriyle çalışmak için yardımcı sınıflar ve yöntemler sağlar.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [HatchBrush](./hatchbrush/) | Tarama stili, ön plan rengi ve arka plan rengi olan dikdörtgen bir fırça tanımlar. Bu sınıf miras alınamaz. |
-| [LinearGradientBrush](./lineargradientbrush/) | Kapsüller[`Brush`](../aspose.psd/brush/) doğrusal bir gradyan ile. Bu sınıf miras alınamaz. |
-| [LinearGradientBrushBase](./lineargradientbrushbase/) | bir temsil eder[`Brush`](../aspose.psd/brush/) gradyan yetenekleri ve uygun özelliklerle. |
-| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | bir temsil eder[`Brush`](../aspose.psd/brush/) birden çok renk ve uygun konumlarla tanımlanan doğrusal gradyan ile. Bu sınıf miras alınamaz. |
-| [PathGradientBrush](./pathgradientbrush/) | Kapsüller[`Brush`](../aspose.psd/brush/) gradyanlı nesne. Bu sınıf miras alınamaz. |
-| [PathGradientBrushBase](./pathgradientbrushbase/) | bir temsil eder[`Brush`](../aspose.psd/brush/) temel yol gradyan işleviyle. |
-| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Kapsüller[`Brush`](../aspose.psd/brush/) gradyanlı nesne. Bu sınıf miras alınamaz. |
-| [SolidBrush](./solidbrush/) | Düz fırça, belirli bir renkle sürekli çizim yapmak için tasarlanmıştır. Bu sınıf miras alınamaz. |
-| [TextureBrush](./texturebrush/) | Her özellik[`TextureBrush`](../aspose.psd.brushes/texturebrush/) sınıf bir[`Brush`](../aspose.psd/brush/) bir şeklin içini doldurmak için bir görüntü kullanan nesne. Bu sınıf miras alınamaz. |
-| [TransformBrush](./transformbrush/) | bir[`Brush`](../aspose.psd/brush/) dönüşüm yetenekleriyle. |
+| [HatchBrush](./hatchbrush/) | Tarama stiline, ön plan rengine ve arka plan rengine sahip dikdörtgen bir fırça tanımlar. Bu sınıf devralınamaz. |
+| [LinearGradientBrush](./lineargradientbrush/) | [`Brush`](../aspose.psd/brush/) ile lineer bir geçişi kapsüller. Bu sınıf devralınamaz. |
+| [LinearGradientBrushBase](./lineargradientbrushbase/) | Gradyan yetenekleri ve uygun özelliklere sahip bir [`Brush`](../aspose.psd/brush/) temsil eder. |
+| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Birden fazla renk ve uygun konumlarla tanımlanan lineer gradyana sahip bir [`Brush`](../aspose.psd/brush/) temsil eder. Bu sınıf devralınamaz. |
+| [PathGradientBrush](./pathgradientbrush/) | Gradyanlı bir [`Brush`](../aspose.psd/brush/) nesnesini kapsüller. Bu sınıf devralınamaz. |
+| [PathGradientBrushBase](./pathgradientbrushbase/) | Temel yol gradyanı işlevselliğine sahip bir [`Brush`](../aspose.psd/brush/) temsil eder. |
+| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Gradyanlı bir [`Brush`](../aspose.psd/brush/) nesnesini kapsüller. Bu sınıf devralınamaz. |
+| [SolidBrush](./solidbrush/) | Katı fırça, belirli bir renk ile sürekli çizim yapmak için tasarlanmıştır. Bu sınıf devralınamaz. |
+| [TextureBrush](./texturebrush/) | [`TextureBrush`](../aspose.psd.brushes/texturebrush/) sınıfının her özelliği, bir şeklin içini doldurmak için bir görüntü kullanan bir [`Brush`](../aspose.psd/brush/) nesnesidir. Bu sınıf devralınamaz. |
+| [TransformBrush](./transformbrush/) | Dönüştürme yeteneklerine sahip bir [`Brush`](../aspose.psd/brush/). |
 
 

@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackageBaseCollection yöntem. Yeni örneğini eklerXmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackageBaseCollection yöntemi. XmpPackage'in yeni bir örneğini ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-Yeni örneğini ekler[`XmpPackage`](../../xmppackage/) .
+Yeni bir örnek ekler [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public void Add(XmpPackage package)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| package | XmpPackage | Eklenecek XMP paketi. |
+| paket | XmpPackage | Eklenecek XMP paketi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

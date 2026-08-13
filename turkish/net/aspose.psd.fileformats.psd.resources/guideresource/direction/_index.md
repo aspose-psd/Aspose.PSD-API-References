@@ -1,28 +1,29 @@
 ---
-title: GuideResource.Direction
-second_title: Aspose.PSD for .NET API Referansı
-description: GuideResource mülk. Kılavuzun yönünü alır veya ayarlar.
+title: "GuideResource.Direction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GuideResource özelliği. Kılavuz yönünü alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/guideresource/direction/
 ---
+{{< psd/tize >}}
 ## GuideResource.Direction property
 
-Kılavuzun yönünü alır veya ayarlar.
+Kılavuz yönünü alır veya ayarlar.
 
 ```csharp
 public GuideDirection Direction { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kılavuz yönü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [GuideDirection](../../guidedirection/)
 * class [GuideResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,75 +1,76 @@
 ---
-title: GraphicsPath.Widen
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Yola ek bir taslak ekler.
+title: "GraphicsPath.Widen"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Yola ek bir dış hat ekler"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/graphicspath/widen/
 ---
+{{< psd/tize >}}
 ## Widen(Pen) {#widen}
 
-Yola ek bir taslak ekler.
+Yola ek bir kontur ekler.
 
 ```csharp
 public void Widen(Pen pen)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) yolun orijinal taslağı ile bu yöntemin oluşturduğu yeni ana hat arasındaki genişliği belirtir. |
+| pen | Pen | Yolun orijinal dış hattı ile bu yöntemin oluşturduğu yeni dış hat arasındaki genişliği belirten bir [`Pen`](../../pen/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix) {#widen_1}
 
-Ek bir taslak ekler.[`GraphicsPath`](../) .
+[`GraphicsPath`](../) üzerine ek bir dış hat ekler.
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) yolun orijinal taslağı ile bu yöntemin oluşturduğu yeni ana hat arasındaki genişliği belirtir. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) genişletmeden önce yola uygulanacak bir dönüşümü belirtir. |
+| pen | Pen | Yolun orijinal dış hattı ile bu yöntemin oluşturduğu yeni dış hat arasındaki genişliği belirten bir [`Pen`](../../pen/). |
+| matrix | Matrix | Genişletmeden önce yola uygulanacak dönüşümü belirten bir [`Matrix`](../../matrix/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix, float) {#widen_2}
 
-Bunu değiştirir[`GraphicsPath`](../) bu yol belirtilen kalem tarafından çizildiğinde doldurulan alanı çevreleyen eğrilerle.
+Bu [`GraphicsPath`](../) öğesini, belirtilen kalemle çizildiğinde doldurulan alanı çevreleyen eğrilerle değiştirir.
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix, float flatness)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) yolun orijinal taslağı ile bu yöntemin oluşturduğu yeni ana hat arasındaki genişliği belirtir. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) genişletmeden önce yola uygulanacak bir dönüşümü belirtir. |
-| flatness | Single | Eğriler için düzlüğü belirten bir değer. |
+| pen | Pen | Yolun orijinal dış hattı ile bu yöntemin oluşturduğu yeni dış hat arasındaki genişliği belirten bir [`Pen`](../../pen/). |
+| matrix | Matrix | Genişletmeden önce yola uygulanacak dönüşümü belirten bir [`Matrix`](../../matrix/). |
+| düzlük | Single | Eğriler için düzlüğü belirten bir değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: ShmdResource alan. Tip aracı bilgi anahtarı.
+title: "ShmdResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ShmdResource alanı. Tür aracı bilgi anahtarı"
 type: docs
-weight: 100
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ShmdResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShmdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

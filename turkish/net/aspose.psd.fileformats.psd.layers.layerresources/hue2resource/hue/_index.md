@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Hue
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource mülk. Ana tonu alır veya ayarlar.
+title: "Hue2Resource.Hue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource özelliği. Ana renk tonunu alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
 Ana tonu alır veya ayarlar.
@@ -14,14 +15,14 @@ Ana tonu alır veya ayarlar.
 public short Hue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ana renk tonu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

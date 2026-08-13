@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. En uygun değiştirme yazı tipini alır. Tüm değişikliklere izin verilmezse izin verilen ve kullanılabilir ilk yazı tipi döndürülür. Kullanılabilir yazı tipi yoksa argüman den yazı tipi döndürülür
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. En uygun yedek yazı tipini alır. Tüm yedekler izin verilmiyorsa, ilk izin verilen ve kullanılabilir yazı tipi döndürülür. Kullanılabilir yazı tipi yoksa, argümandan gelen yazı tipi döndürülür."
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-En uygun değiştirme yazı tipini alır. Tüm değişikliklere izin verilmezse, izin verilen ve kullanılabilir ilk yazı tipi döndürülür. Kullanılabilir yazı tipi yoksa, argüman 'den yazı tipi döndürülür
+En uygun yedek yazı tipini alır. Tüm yedekler izin verilmiyorsa, ilk izin verilen ve mevcut yazı tipi döndürülür. Eğer mevcut yazı tipi yoksa, argümandan gelen yazı tipi döndürülür.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontName | String | Yazı tipinin adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Değiştirilen yazı tipinin adı
+Değiştirilen yazı tipinin adı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, kullanarak yazı tiplerini programlı olarak sınırlama yeteneğini gösterir.
+Aşağıdaki kod, programlı olarak yazı tiplerini sınırlama yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD for .NET API Referansı
-description: SharpenFilterOptions mülk. Sigmayı alır veya ayarlar.
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SharpenFilterOptions özelliği. Sigma değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-Sigmayı alır veya ayarlar.
+Sigma değerini alır veya ayarlar.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sigma.
+sigma.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SharpenFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

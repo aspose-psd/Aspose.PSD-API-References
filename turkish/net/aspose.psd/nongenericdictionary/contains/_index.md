@@ -1,31 +1,32 @@
 ---
-title: NonGenericDictionary.Contains
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary yöntem. olup olmadığını belirler.IDictionary nesne belirtilen anahtara sahip bir öğe içeriyor.
+title: "NonGenericDictionary.Contains"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary yöntemi. IDictionary nesnesinin belirtilen anahtara sahip bir öğe içerip içermediğini belirler."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/nongenericdictionary/contains/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Contains method
 
-olup olmadığını belirler.IDictionary nesne, belirtilen anahtara sahip bir öğe içeriyor.
+IDictionary nesnesinin belirtilen anahtara sahip bir öğe içerip içermediğini belirler.
 
 ```csharp
 public bool Contains(object key)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | Object | içinde bulunacak anahtarIDictionary nesne. |
+| anahtar | Nesne | IDictionary nesnesinde bulunacak anahtar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-, ise doğrudurIDictionary anahtarı olan bir öğe içerir; aksi takdirde, false.
+IDictionary anahtara sahip bir öğe içeriyorsa true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

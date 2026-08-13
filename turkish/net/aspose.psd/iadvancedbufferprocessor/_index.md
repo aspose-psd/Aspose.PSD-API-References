@@ -1,30 +1,31 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IAdvancedBufferProcessor arayüz. Gelişmiş arabellek işlemcisi.
+title: "Arayüz IAdvancedBufferProcessor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IAdvancedBufferProcessor arayüzü. Gelişmiş tampon işleyicisi"
 type: docs
-weight: 4360
+weight: 4860
 url: /tr/net/aspose.psd/iadvancedbufferprocessor/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor interface
 
-Gelişmiş arabellek işlemcisi.
+Gelişmiş tampon işleyicisi.
 
 ```csharp
 public interface IAdvancedBufferProcessor : IBufferProcessor
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | Satırı bitirir. |
-| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | Satırları bitirir. |
+| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | Satırı tamamlar. |
+| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | Satırları tamamlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IBufferProcessor](../ibufferprocessor/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

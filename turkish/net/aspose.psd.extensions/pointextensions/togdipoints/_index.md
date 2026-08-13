@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: PointExtensions yöntem. dönüştürürPointF dizisinePointF dizi.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointExtensions yöntemi. PointF dizisini PointF dizisine dönüştürür."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-dönüştürür[`PointF`](../../../aspose.psd/pointf/) dizisinePointF dizi.
+[`PointF`](../../../aspose.psd/pointf/) dizisini PointF dizisine dönüştürür.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | bu[`PointF`](../../../aspose.psd/pointf/) dönüştürülecek dizi. |
+| points | PointF[] | Dönüştürülecek [`PointF`](../../../aspose.psd/pointf/) dizisi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşPointF sıralamak.
+Dönüştürülmüş PointF dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../pointextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

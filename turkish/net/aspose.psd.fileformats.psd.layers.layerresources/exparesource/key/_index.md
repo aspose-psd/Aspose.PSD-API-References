@@ -1,23 +1,24 @@
 ---
-title: ExpaResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: ExpaResource mülk. Katman kaynak anahtarını alır.
+title: "ExpaResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExpaResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/key/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 
